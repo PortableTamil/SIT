@@ -1,4 +1,4 @@
-name: கட்டிவெளியீடு
+name: தானிவெளியீடு
 on: [push]
 jobs:
   build:

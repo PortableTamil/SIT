@@ -1,4 +1,4 @@
-name: கட்டிவெளியீடு
+name: புதியவெளியீடு
 on: [push]
 jobs:
   build:
