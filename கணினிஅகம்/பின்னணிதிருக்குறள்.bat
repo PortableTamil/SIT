@@ -36,7 +36,7 @@ Set /a Kod= (%DoTLY% %% 1330)+1
 Set Kod1=000%Kod%
 Set Kod2=%Kod1:~-4%
 start /min பின்னணிதகவல்.exe திருக்குறள்\திருக்குறள்-%Kod2%.bgi /NOLICPROMPT /SILENT /timer:0
-echo Thiruvalluvar year is %TrYear% and thiruvalluvar day is %TrDay% 
+echo திருவள்ளுவர் ஆண்டு  %TrYear% நாள் %TrDay% 
 Rem move to portableApps 
 cd ..\..
 Rem Map PortableApps as T Drive
