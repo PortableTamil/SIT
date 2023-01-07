@@ -1,6 +1,7 @@
 @echo off
 pause
 cd /d %~dp0
+cd ..
 setlocal EnableExtensions EnableDelayedExpansion
 set num1=1
 set num2=1 
@@ -15,6 +16,6 @@ goto :eof
 Set Kod1=000%num1%
 Set Kod2=%Kod1:~-4% 
 Echo %Kod2%
-பின்னணிதகவல்.exe திருக்குறள்\திருக்குறள்-%Kod2%.bgi /NOLICPROMPT /SILENT /timer:0
+கணினிஅகம்\பின்னணிதகவல்.exe திரைதிருக்குறள்கள்\திருக்குறள்-%Kod2%.bgi /NOLICPROMPT /SILENT /timer:0
 set /a num1= %num1% + %num2%
 goto loop

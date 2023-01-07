@@ -1,6 +1,6 @@
 @echo on
 cd /d %~dp0
-
+cd ..
 rem Set ldt=20200204222340.360000+330 - Below code will get date and time in this format.
 for /F "usebackq tokens=1,2 delims==" %%i in (`wmic os get LocalDateTime /VALUE 2^>NUL`) do if '.%%i.'=='.LocalDateTime.' set ldt=%%j
 
@@ -35,10 +35,6 @@ set /a DoTLY = %TrDaY% + %TYMod4%*365
 Set /a Kod= (%DoTLY% %% 1330)+1
 Set Kod1=000%Kod%
 Set Kod2=%Kod1:~-4%
-start /min பின்னணிதகவல்.exe திருக்குறள்\திருக்குறள்-%Kod2%.bgi /NOLICPROMPT /SILENT /timer:0
+start /min கணினிஅகம்\பின்னணிதகவல்.exe திரைதிருக்குறள்கள்\திருக்குறள்-%Kod2%.bgi /NOLICPROMPT /SILENT /timer:0
 echo திருவள்ளுவர் ஆண்டு  %TrYear% நாள் %TrDay% 
-Rem move to portableApps 
-cd ..\..
-Rem Map PortableApps as T Drive
-subst T: %cd%
 goto :eof
