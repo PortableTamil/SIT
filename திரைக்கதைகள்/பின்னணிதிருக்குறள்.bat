@@ -40,5 +40,5 @@ echo திருவள்ளுவர் ஆண்டு  %TrYear% நாள்
 Rem move to portableApps 
 cd ..\..
 Rem Map PortableApps as T Drive
-Rem subst T: %cd%
+subst T: %cd%
 goto :eof
