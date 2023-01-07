@@ -37,4 +37,6 @@ Set Kod1=000%Kod%
 Set Kod2=%Kod1:~-4%
 start /min கணினிஅகம்\பின்னணிதகவல்.exe திரைதிருக்குறள்கள்\திருக்குறள்-%Kod2%.bgi /NOLICPROMPT /SILENT /timer:0
 echo திருவள்ளுவர் ஆண்டு  %TrYear% நாள் %TrDay% 
+cd ..
+subst T: %cd%
 goto :eof
