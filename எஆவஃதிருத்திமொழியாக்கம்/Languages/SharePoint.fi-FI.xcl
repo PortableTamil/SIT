@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627200651">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Finnish (Finland)" lName="Suomi" code="fi-FI" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="7.0.325.10"/>
+	<Strings>
+		<text id="DlgAppPrefs.SharePoint.Name" h="56A5F9B3">SharePoint</text>
+		<text id="DlgAppPrefs.SharePoint.Title" h="07F34B45">SharePoint asetukset</text>
+		<text id="btn.cancelSaving" h="36FF91F6">Peruuta palvelimelle tallentaminen</text>
+		<text id="btn.checkIn" h="09996473">Sisäänkirjautuminen</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">Kuittaa sisään ja pidä uloskuitattuna</text>
+		<text id="btn.clearLogs" h="848E003C">Poista kaikki</text>
+		<text id="btn.connect" h="A79F815C">Yhdistä</text>
+		<text id="btn.discardCheckOut" h="40AC5603">Hylkää uloskuittaus</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">Pidä uloskuitattuna</text>
+		<text id="btn.navigate" h="B03F439E">Selaa</text>
+		<text id="btn.open" h="B1A510F0">Avaa</text>
+		<text id="btn.openLog" h="F3E66367">Avaa</text>
+		<text id="btn.openLogFolder" h="0B1D9C13">Avaa kansio</text>
+		<text id="btn.openWithCheckOut" h="2F774735">Avaa ja uloskuittaa</text>
+		<text id="btn.overwrite" h="48E63C4C">Korvaa</text>
+		<text id="btn.resetPreferences" h="A7132527">Palauta oletukset</text>
+		<text id="btn.save" h="F363C410">Tallenna</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">Tallenna ja kuittaa ulos</text>
+		<text id="btn.saveReplace" h="11BF9724">Tallenna ja korvaa</text>
+		<text id="btn.settings" h="4AD05264">As&amp;etukset</text>
+		<text id="btn.signOut" h="645CEBE2">K&amp;irjaudu ulos</text>
+		<text id="cb.url.tip" h="CD81E674">Anna osoite...</text>
+		<text id="cbitem.afterSave.ask" h="5F9AC292">Kysy mitä tehdään</text>
+		<text id="cbitem.afterSave.checkIn" h="FA91CFF8">Kirjaudu sisään</text>
+		<text id="cbitem.afterSave.checkInCheckOut" h="6C7252F6">Kirjaudu sisään ja ulos</text>
+		<text id="cbitem.afterSave.keepCheckOut" h="F4487016">Pysy uloskuitattuna</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.ask" h="5F9AC292">Kysy mitä tehdään</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.discardCheckOut" h="CA75DE00">Hylkää uloskuittaus</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.keepCheckOut" h="F4487016">Pysy uloskuitattuna</text>
+		<text id="cbitem.closeNeedCheckIn.ask" h="5F9AC292">Kysy mitä tehdään</text>
+		<text id="cbitem.closeNeedCheckIn.checkIn" h="FA91CFF8">Kirjaudu sisään</text>
+		<text id="cbitem.closeNeedCheckIn.checkInCheckOut" h="6C7252F6">Kirjaudu sisään ja ulos</text>
+		<text id="cbitem.closeNeedCheckIn.keepCheckOut" h="F4487016">Pysy uloskuitattuna</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.ask" h="5F9AC292">Kysy mitä tehdään</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.checkOut" h="95775966">Avaa ja kuittaa ulos</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.open" h="38A34D1A">Avaa ja uloskuittaa</text>
+		<text id="cbitem.whenSaveConflict.ask" h="5F9AC292">Kysy mitä tehdään</text>
+		<text id="cbitem.whenSaveConflict.cancel" h="554F5523">Peruuta palvelimeen tallennus</text>
+		<text id="cbitem.whenSaveConflict.overwrite" h="B67489D8">Korvaa palvelinversio</text>
+		<text id="check.dontShowThisMessageAgain" h="AC16D0EE">Älä näytä tätä viestiä uudelleen</text>
+		<text id="check.enableLogging" h="496D4808">Kirjoita lokiin</text>
+		<text id="check.whenOpenDocumentCheckoutNoneDisableEditing" h="778336E0">Poista muokkaus käytöstä</text>
+		<text id="check.whenOpenDocumentCheckoutNoneShowWarning" h="E97BFF00">Näytä varoitusviesti</text>
+		<text id="cmd.checkIn" h="AEF235ED">Kirjaudu sisään</text>
+		<text id="cmd.checkIn.tip" h="C9DCA405">Kuittaa dokumenttitiedosto SharePointiin.</text>
+		<text id="cmd.checkOut" h="E6A87AFE">Kirjaudu ulos</text>
+		<text id="cmd.checkOut.tip" h="E1B64D30">Kuittaa tiedosto ulos SharePointista.</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">Hylkää uloskirjautuminen</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">Poista uloskuitattu tiedosto SharePointista.</text>
+		<text id="cmd.enableEditing" h="340AFFD4">Salli muokkaus</text>
+		<text id="cmd.enableEditing.tip" h="8A29948D">Ota käyttöön muokkaus ja interaktiiviset ominaisuudet.</text>
+		<text id="cmd.open" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.open.tip" h="007B7200">Avaa asiakirjoja SharePointista.</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">Valmistele tiedoston tiedot</text>
+		<text id="cmd.prepareFileInfo.tip" h="E609EA07">Valmistele tiedoston tiedot SharePointiin</text>
+		<text id="cmd.save" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.save.tip" h="C48C1C25">Tallenna aktiivinen asiakirja SharePointiin.</text>
+		<text id="cmd.share_point" h="B7423C0E">Share&amp;Point</text>
+		<text id="cmd.share_point.tip" h="CA99078B">Käsittele asiakirjoja SharePointissa</text>
+		<text id="dlg.liveLogin" h="BFADC685">Kirjautuminen</text>
+		<text id="dlg.openFile" h="435887CD">Avaa tiedosto</text>
+		<text id="dlg.saveFile" h="520CB069">Tallenna tiedosto</text>
+		<text id="group.Logging" h="F9DEFF33">Kirjaaminen</text>
+		<text id="group.documentActions" h="64C10405">Työskentely asiakirjan kanssa</text>
+		<text id="ibar.cannotEditEditing" h="13F24128">Sinulla ei ole oikeuksia muokata tiedostoa palvelimella. Vain tallennus paikallisena kopiona on sallittua.</text>
+		<text id="ibar.cannotEditNoEditing" h="52C758B6">Sinulla ei ole oikeuksia muokata tiedostoa palvelimella. Kaikki muokkaus- ja interaktiiviset ominaisuudet on poistettu käytöstä.</text>
+		<text id="ibar.checkedOutToMe" h="B5AF7047">Tiedosto on kuitattu sinulle.</text>
+		<text id="ibar.checkedOutToOtherEditing" h="4F420124">Tiedosto uloskuitattiin kohteeseen %1. Et voi tallentaa tiedostoa palvelimeen.</text>
+		<text id="ibar.checkedOutToOtherNoEditing" h="B8C2709A">Tiedosto kuitattiin ulos kohteeseen %1. Kaikki muokkaus-ja vuorovaikutteiset toiminnot on poistettu käytöstä.</text>
+		<text id="ibar.notCheckedOutEditing" h="A4D56FD1">Tiedostoa ei ole kuitattu ulos. Jos muut käyttäjät muuttavat tiedostoa palvelimella, et voi tallentaa tiedostoon tehtyjä muutoksia.</text>
+		<text id="ibar.notCheckedOutNoEditing" h="E3EA5586">Tiedostoa ei ole kuitattu ulos. Kaikki muokkaus-ja vuorovaikutteiset ominaisuudet on poistettu käytöstä</text>
+		<text id="ibar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="ibar.sharepoint.description" h="6F2E3CDD">SharePoint-asiakirjan kontekstitiedot ja toiminnot</text>
+		<text id="ibar.sharepoint.title" h="C3F43468">SharePoint dokumentti</text>
+		<text id="lb.afterSave" h="6ABC46B3">Kun asiakirja on tallennettu:</text>
+		<text id="lb.checkInComment" h="694DD18A">Kommentti (valinnainen):</text>
+		<text id="lb.closeDoesNotNeedCheckIn" h="7B029545">Kun tarkistettu muutokseton asiakirja suljetaan:</text>
+		<text id="lb.closeNeedCheckIn" h="E2376C82">Kun muutettu ja tarkistettu asiakirja suljetaan:</text>
+		<text id="lb.currentLogFile" h="79D35843">Nykyinen loki:</text>
+		<text id="lb.name" h="F7B9E475">Tiedostonimi:</text>
+		<text id="lb.numberOfDaysToStoreLogs" h="E12F4F23">Säilytyspäivät:</text>
+		<text id="lb.sharePointPlaceUrl" h="F900769A">SharePoint URL:</text>
+		<text id="lb.sharePointPlaceValidUrl" h="9BFA1D20">Yhteyden muodostaminen SharePoint-palvelimeen epäonnistui. Tarkista internet-yhteys ja annettu palvelimen URL-osoite.</text>
+		<text id="lb.whenOpenDocumentCheckoutNone" h="1BB05A3E">Kun avoin asiakirja ei ole kirjattuna kenellekään:</text>
+		<text id="lb.whenOpenDocumentCheckoutOther" h="8E43C402">Kun avoin asiakirja on kirjattuna toiselle käyttäjälle:</text>
+		<text id="lb.whenOpenDocumentWithoutWritePermissions" h="4ACDAA34">Kun avoin asiakirja on ilman kirjoitusoikeuksia:</text>
+		<text id="lb.whenSaveConflict" h="174E79E4">Kun tallennusdokumentti muuttunut palvelimella:</text>
+		<text id="ls.column.created" h="FE6510B7">Luontipäivä</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Tiedoston, kansion tai luettelon luontiaika</text>
+		<text id="ls.column.extension" h="14FEB836">Tiedostopääte</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Tiedostopääte</text>
+		<text id="ls.column.modified" h="691C3610">Muokkauspäivä</text>
+		<text id="ls.column.modified.hint" h="12933E76">Tiedoston, kansion tai luettelon viimeinen muokkausaika</text>
+		<text id="ls.column.size" h="17A58A52">Koko</text>
+		<text id="ls.column.size.hint" h="E79CA174">Tiedoton koko</text>
+		<text id="ls.column.title" h="D18643E3">Nimi</text>
+		<text id="ls.column.title.hint" h="81F4F728">Tiedostonimi, kansion nimi tai luettelon otsikko</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">Haluatko kuitata tiedoston &lt;b&gt;%1&lt;/b&gt; sisään, ennen kuin se suljetaan? Tämä mahdollistaa muutokset muille käyttäjille.</text>
+		<text id="msg.askForCheckOutOnOpen" h="B185C3DF">Voit avata tiedoston &lt;b&gt;%1&lt;/b&gt; uloskuittauksella määrittämllä tiedostolle "vain luku" muille käyttäjille, jotta voit turvallisesti muuttaa sitä ja tallentaa muutokset SharePointiin. Tai voit sallia muiden käyttäjien muuttaa tiedostoa, mutta siitä saattaa seurata ristiriitoja, jos yrität muuttaa ja tallentaa tiedoston omalta osaltasi.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">Tiedosto &lt;b&gt;%1&lt;/b&gt; on uloskuitattu sinulle. Haluatko hylätä uloskuittauksen ja sallia muiden käyttäjien muokata tiedostoa?</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">Kuittaa tiedosto &lt;b&gt;%1&lt;/b&gt; sisään.</text>
+		<text id="msg.checkInFailed" h="3E327B8B">Tiedoston &lt;b&gt;%1&lt;/b&gt; kuittaus epäonnistui. Varmista, että tiedosto on olemassa ja että se on kuitattu sinulle.</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">Tiedostoa &lt;b&gt;%1&lt;/b&gt; ei voitu kuitata ulos. Varmista, että tiedosto on palvelimella ja että sitä ei ole kuitattu toiselle käyttäjälle.</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">Tiedostoa &lt;b&gt;%1 &lt;/b&gt; ei voi avata , jos se on kuitattu käyttäjälle "%2".</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">Tiedosto &lt;b&gt;%1&lt;/b&gt; on kuitattu ulos käyttäjälle "%2". Et voi tallentaa tätä tiedostoa SharePointiin, ellei sitä ole kuitattu sinulle. Voit tallentaa tekemäsi muutokset toiseen sijaintiin.</text>
+		<text id="msg.connectError" h="18DFEDBE">Yhteyden muodostaminen SharePoint-palvelimeen epäonnistui. Tarkista internet-yhteys, palvelimen osoite ja käyttöoikeudet vaadittuun SharePoint-resurssin käyttöön.</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">Uloskuitatussa tilassa olevaa tiedostoa &lt;b&gt;%1&lt;/b&gt; ei voitu hylätä. Varmista, että tiedosto on olemassa ja että se on uloskuitattu sinulta.</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">Et voi tarkistaa tiedostoa &lt;b&gt;%1&lt;/b&gt;, koska sinulla ei ole tämän tiedoston muokkausoikeuksia.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">Tiedostoa &lt;b&gt;%1&lt;/b&gt; ei voi avata, koska sinulla ei ole tämän tiedoston muokkausoikeuksia.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">Et voi avata tiedostoa &lt;b&gt;%1&lt;/b&gt; muokattavaksi, koska sinulla ei ole tämän tiedoston muokkausoikeuksia.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">Tiedosto &lt;b&gt;%1&lt;/b&gt; on uloskuitattava ennen sen tallentamista, sinulla ei kuitenkaan ole muokkausoikeuksia tähän tiedostoon.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="C492B710">Tiedostoa &lt;b&gt;%1 &lt;/b&gt; ei voi tallentaa SharePointiin, koska sinulla ei ole tämän tiedoston muokkausoikeuksia.</text>
+		<text id="msg.fileNotFound" h="381368F8">Tiedostoa &lt;b&gt;%1&lt;/b&gt; ei löytynyt nykyisestä kansiosta.</text>
+		<text id="msg.invalidFileName" h="6BAFE9F2">&lt;b&gt;%1&lt;/b&gt; ei ole kelvollinen tiedostonimi. Tiedostonimessä ei voi olla merkkejä &lt;b&gt;%2&lt;/b&gt;</text>
+		<text id="msg.navigateError" h="CF23B4B6">SharePoint-resurssiin siirtyminen epäonnistui. Tarkista Internet-yhteys, palvelimen osoite ja käyttöoikeus vaadittavaan SharePoint-resurssiin.</text>
+		<text id="msg.openFailed" h="34DE1259">Tiedoston avaaminen epäonnistui. Varmista, että tämä tiedosto on olemassa eikä sitä ole valittu toiselle käyttäjälle ja että sinulla on tarvittavat oikeudet tiedoston käyttöön.</text>
+		<text id="msg.outdatedFileOnWrite" h="93CDEA71">Lataamasi asiakirja sisältää muutoksia, jotka on tehty &lt;b&gt;%2&lt;/b&gt;, mutta palvelin sisältää uudempia muutoksia, jotka on tehty &lt;b&gt;%3&lt;/b&gt;. Tallenna muutoksesi uuteen tiedostoon ja avaa sitten viimeisin asiakirja, jossa on uloskuittaus SharePointista. Yhdistä muutokset ja tallenna ne palvelimelle.</text>
+		<text id="msg.outdatedFileOnWrite.question" h="4802DC49">Tiedostossa &lt;b&gt;%1&lt;/b&gt; on muutosristiriita. Lataamasi asiakirja sisältää muutoksia, jotka on tehty &lt;b&gt;%2&lt;/b&gt;. Palvelimella on kuitenkin uudempia muutoksia, jotka on tehty &lt;b&gt;%3&lt;/b&gt;. Voit pakottaa palvelinversion korvatuksi tai peruuttaa nykyisen tallennuksen ja tallentaa muutokset uuteen tiedostoon ja avata sitten uusimman asiakirjan, jossa on uloskuittaus SharePointista, yhdistää muutokset ja tallentaa ne palvelimelle.</text>
+		<text id="msg.saveFailed" h="967D2A64">Tiedoston tallentaminen epäonnistui. Varmista, että tiedostonimi on kelvollinen, että tiedostoa ei ole kuitattu toiselle käyttäjälle ja että sinulla on tarvittavat oikeudet tiedoston muokkaamiseen.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Tiedosto &lt;b&gt;%1&lt;/b&gt; on jo olemassa. Haluatko korvata sen?</text>
+		<text id="msg.signOutError" h="0E6A5F45">Uloskirjautuminen SharePoint-palvelimelta ei onnistunut. Voit silti käyttää SharePointia ilman todennuspyyntöä.</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="69F2FCB2">Sinulla ei ole muokkausoikeuksia tiedostolle &lt;b&gt;%1&lt;/b&gt;. Huomaa, ettet voi tallentaa muutoksia SharePointiin ellei sinulla ole tarvittavia käyttöoikeuksia.</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">Tiedosto &lt;b&gt;%1&lt;/b&gt; on kuitattu käyttäjälle "%2". Et voi tallentaa tätä tiedostoa SharePointiin, ellei "%2" hylkää uloskuittausta. Jos "%2" kuittaa tiedoston sisään muutoksien kanssa, huomaat ristiriidan muutoksissa.</text>
+		<text id="opt.dontShowAgain" h="492B5D79">Älä näytä tätä viestiä uudelleen</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="str.sharePoint" h="56A5F9B3">SharePoint</text>
+	</Strings>
+</Localization>

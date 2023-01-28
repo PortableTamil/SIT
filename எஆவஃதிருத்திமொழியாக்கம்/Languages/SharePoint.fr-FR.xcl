@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627200651">2.00.00</Version>
+	<Author>Jeff Mahe (jfmahe@europe.com), Swirti</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="French (France)" lName="Français" code="fr-FR" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="7.0.325.10"/>
+	<Strings>
+		<text id="DlgAppPrefs.SharePoint.Name" h="56A5F9B3">SharePoint</text>
+		<text id="DlgAppPrefs.SharePoint.Title" h="07F34B45">Options SharePoint</text>
+		<text id="btn.cancelSaving" h="36FF91F6">&amp;Annuler l'enregistrement sur le serveur</text>
+		<text id="btn.checkIn" h="09996473">Enregistrement</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">Enregistrer et conserver la réservation</text>
+		<text id="btn.clearLogs" h="848E003C">Supprimer tout</text>
+		<text id="btn.connect" h="A79F815C">C&amp;onnecter</text>
+		<text id="btn.discardCheckOut" h="40AC5603">&amp;Annuler la réservation</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">&amp;Conserver la réservation</text>
+		<text id="btn.navigate" h="B03F439E">&amp;Parcourir</text>
+		<text id="btn.open" h="B1A510F0">&amp;Ouvrir</text>
+		<text id="btn.openLog" h="F3E66367">Ouvrir</text>
+		<text id="btn.openLogFolder" h="0B1D9C13">Ouvrir un dossier</text>
+		<text id="btn.openWithCheckOut" h="2F774735">Ouvrir avec &amp;vérification</text>
+		<text id="btn.overwrite" h="48E63C4C">&amp;Remplacer</text>
+		<text id="btn.resetPreferences" h="A7132527">Réinitialiser</text>
+		<text id="btn.save" h="F363C410">&amp;Enregistrer</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">&amp;Enregistrer et réserver</text>
+		<text id="btn.saveReplace" h="11BF9724">Enregistrer et &amp;remplacer</text>
+		<text id="btn.settings" h="4AD05264">Paramètr&amp;es</text>
+		<text id="btn.signOut" h="645CEBE2">Déconnexion</text>
+		<text id="cb.url.tip" h="CD81E674">Entrer l'adresse...</text>
+		<text id="cbitem.afterSave.ask" h="5F9AC292">Demander quoi faire</text>
+		<text id="cbitem.afterSave.checkIn" h="FA91CFF8">Enregistrement</text>
+		<text id="cbitem.afterSave.checkInCheckOut" h="6C7252F6">Enregistrement et sortie</text>
+		<text id="cbitem.afterSave.keepCheckOut" h="F4487016">Garder la vérification</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.ask" h="5F9AC292">Demander quoi faire</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.discardCheckOut" h="CA75DE00">Rejeter la vérification</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.keepCheckOut" h="F4487016">Garder la vérification</text>
+		<text id="cbitem.closeNeedCheckIn.ask" h="5F9AC292">Demander quoi faire</text>
+		<text id="cbitem.closeNeedCheckIn.checkIn" h="FA91CFF8">Enregistrement</text>
+		<text id="cbitem.closeNeedCheckIn.checkInCheckOut" h="6C7252F6">Enregistrement et sortie</text>
+		<text id="cbitem.closeNeedCheckIn.keepCheckOut" h="F4487016">Garder la vérification</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.ask" h="5F9AC292">Demander quoi faire</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.checkOut" h="95775966">Ouvrir et vérifier</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.open" h="38A34D1A">Ouvrir sans vérifier</text>
+		<text id="cbitem.whenSaveConflict.ask" h="5F9AC292">Demander quoi faire</text>
+		<text id="cbitem.whenSaveConflict.cancel" h="554F5523">Annuler l'enregistrement sur le serveur</text>
+		<text id="cbitem.whenSaveConflict.overwrite" h="B67489D8">Remplacer la version du serveur</text>
+		<text id="check.dontShowThisMessageAgain" h="AC16D0EE">Ne plus afficher ce message</text>
+		<text id="check.enableLogging" h="496D4808">Écrire un fichier</text>
+		<text id="check.whenOpenDocumentCheckoutNoneDisableEditing" h="778336E0">Désactiver l'édition</text>
+		<text id="check.whenOpenDocumentCheckoutNoneShowWarning" h="E97BFF00">Afficher le message d'alerte</text>
+		<text id="cmd.checkIn" h="AEF235ED">&amp;Enregistrer</text>
+		<text id="cmd.checkIn.tip" h="C9DCA405">Enregistre le document sur SharePoint.</text>
+		<text id="cmd.checkOut" h="E6A87AFE">&amp;Réserver</text>
+		<text id="cmd.checkOut.tip" h="E1B64D30">Réserve le document sur SharePoint.</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">&amp;Annuler la réservation</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">Annule la réservation du document sur SharePoint.</text>
+		<text id="cmd.enableEditing" h="340AFFD4">Activ&amp;er l'édition</text>
+		<text id="cmd.enableEditing.tip" h="8A29948D">Active les fonctions d'édition et les fonctions interactives.</text>
+		<text id="cmd.open" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.open.tip" h="007B7200">Ouvre des documents depuis SharePoint.</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">&amp;Informations du fichier</text>
+		<text id="cmd.prepareFileInfo.tip" h="E609EA07">Prépare les informations du fichier sur SharePoint.</text>
+		<text id="cmd.save" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.save.tip" h="C48C1C25">Enregistre le document actif sur SharePoint.</text>
+		<text id="cmd.share_point" h="B7423C0E">Share&amp;Point</text>
+		<text id="cmd.share_point.tip" h="CA99078B">Travaille avec les documents dans SharePoint</text>
+		<text id="dlg.liveLogin" h="BFADC685">Identifiant Live</text>
+		<text id="dlg.openFile" h="435887CD">Ouvrir un fichier</text>
+		<text id="dlg.saveFile" h="520CB069">Enregistrer le fichier</text>
+		<text id="group.Logging" h="F9DEFF33">Journalisation</text>
+		<text id="group.documentActions" h="64C10405">Travailler avec un document</text>
+		<text id="ibar.cannotEditEditing" h="13F24128">Vous n'avez pas les droits pour éditer le fichier sur le serveur. Seule la sauvegarde en tant que copie locale est autorisée.</text>
+		<text id="ibar.cannotEditNoEditing" h="52C758B6">Vous n'avez pas les droits pour éditer le fichier sur le serveur. Toutes les fonctions d'édition et les fonctions interactives sont désactivées.</text>
+		<text id="ibar.checkedOutToMe" h="B5AF7047">Le fichier est réservé par vous.</text>
+		<text id="ibar.checkedOutToOtherEditing" h="4F420124">Le fichier est réservé par %1. Vous ne pourrez pas enregistrer le fichier sur le serveur.</text>
+		<text id="ibar.checkedOutToOtherNoEditing" h="B8C2709A">Le fichier est réservé par %1. Toutes les fonctions d'édition et les fonctions interactives sont désactivées.</text>
+		<text id="ibar.notCheckedOutEditing" h="A4D56FD1">Le fichier n'est pas réservé. Si d'autres utilisateurs modifient le fichier sur le serveur, vous ne pourrez pas enregistrer les modifications apportées à ce fichier.</text>
+		<text id="ibar.notCheckedOutNoEditing" h="E3EA5586">Le fichier n'est pas réservé. Toutes les fonctions d'édition et les fonctions interactives sont désactivées.</text>
+		<text id="ibar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="ibar.sharepoint.description" h="6F2E3CDD">InInformation sur le contexte et les opérations de document SharePoint</text>
+		<text id="ibar.sharepoint.title" h="C3F43468">Document SharePoint</text>
+		<text id="lb.afterSave" h="6ABC46B3">Lorsque le document est enregistré :</text>
+		<text id="lb.checkInComment" h="694DD18A">Commentaire (optionel) :</text>
+		<text id="lb.closeDoesNotNeedCheckIn" h="7B029545">Quand vous fermez le document sans changements :</text>
+		<text id="lb.closeNeedCheckIn" h="E2376C82">Quand vous fermez le document avec changements :</text>
+		<text id="lb.currentLogFile" h="79D35843">Log courant :</text>
+		<text id="lb.name" h="F7B9E475">Nom fichier :</text>
+		<text id="lb.numberOfDaysToStoreLogs" h="E12F4F23">Jours de stockage : </text>
+		<text id="lb.sharePointPlaceUrl" h="F900769A">URL SharePoint :</text>
+		<text id="lb.sharePointPlaceValidUrl" h="9BFA1D20">Échec de la connexion au serveur SharePoint. Veuillez vérifier la connexion Internet et l'URL du serveur.</text>
+		<text id="lb.whenOpenDocumentCheckoutNone" h="1BB05A3E">Lorsque le document ouvert n'est pas réservé :</text>
+		<text id="lb.whenOpenDocumentCheckoutOther" h="8E43C402">Lorsque le document ouvert est réservé par un autre :</text>
+		<text id="lb.whenOpenDocumentWithoutWritePermissions" h="4ACDAA34">Lorsque vous ouvrez un doc. sans droits d'écriture :</text>
+		<text id="lb.whenSaveConflict" h="174E79E4">Lors de l'enregistrement d'un document modifié :</text>
+		<text id="ls.column.created" h="FE6510B7">Date de création</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Date et heure de création du fichier, du dossier ou de la liste.</text>
+		<text id="ls.column.extension" h="14FEB836">Extension</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Extension du fichier</text>
+		<text id="ls.column.modified" h="691C3610">Date de modification</text>
+		<text id="ls.column.modified.hint" h="12933E76">Date et heure de modification du fichier, du dossier ou de la liste.</text>
+		<text id="ls.column.size" h="17A58A52">Taille</text>
+		<text id="ls.column.size.hint" h="E79CA174">Taille du fichier</text>
+		<text id="ls.column.title" h="D18643E3">Nom</text>
+		<text id="ls.column.title.hint" h="81F4F728">Nom de fichier, nom de dossier ou titre de liste</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">Voulez-vous enregistrer le fichier &lt;b&gt;%1&lt;/b&gt; avant de le fermer pour que les changements soient visibles par les autres utilisateurs ?</text>
+		<text id="msg.askForCheckOutOnOpen" h="B185C3DF">Vous pouvez ouvrir le fichier &lt;b&gt;%1&lt;/b&gt; avec réservation pour définir le fichier 'en lecture seule' pour les autres utilisateurs afin que vous puissiez le modifier en toute sécurité et enregistrer les modifications dans SharePoint, ou vous pouvez permettre à d'autres utilisateurs de changer le fichier, mais il peut y avoir des conflits si vous essayez de changer et d'enregistrer le fichier de votre part.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">Le fichier &lt;b&gt;%1&lt;/b&gt; est réservé par vous. Voulez-vous abandonner la réservation et permettre aux autres utilisateurs d'éditer le fichier ?</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">Enregistrer le fichier &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="msg.checkInFailed" h="3E327B8B">Le fichier &lt;b&gt;%1&lt;/b&gt; n' a pas été enregistré. Veuillez vous assurer que ce fichier existe et est réservé par vous.</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">Le fichier &lt;b&gt;%1&lt;/b&gt; n' a pas été réservé. Veuillez vous assurer que ce fichier existe sur le serveur et n'est pas réservé par un autre utilisateur.</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">Vous ne pouvez pas ouvrir le fichier &lt;b&gt;%1&lt;/b&gt; avec réservation car il est réservé par l'utilisateur "%2".</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">Le fichier &lt;b&gt;%1&lt;/b&gt; est réservé par l'utilisateur "%2". Vous ne pouvez pas enregistrer ce fichier dans SharePoint à moins qu'il ne soit réservé par vous, mais vous pouvez enregistrer vos modifications à un emplacement différent.</text>
+		<text id="msg.connectError" h="18DFEDBE">Impossible de se connecter au serveur SharePoint. Veuillez vérifiez votre connexion Internet, que l'adresse du serveur est correcte, et que vous avez les autorisations d'accès nécessaires.</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">Impossible de rejeter la réservation du fichier &lt;b&gt;%1&lt;/b&gt;. Veuillez vous assurer que ce fichier existe et est réservé par vous.</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">Vous ne pouvez pas réserver le fichier &lt;b&gt;%1&lt;/b&gt; car vous n'avez pas les droits d'édition pour ce fichier.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">Vous ne pouvez pas ouvrir le fichier &lt;b&gt;%1&lt;/b&gt; avec réservation car vous n'avez pas les droits d'édition pour ce fichier.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">Vous ne pouvez pas ouvrir le fichier &lt;b&gt;%1&lt;/b&gt; pour l'éditer car vous n'avez pas les droits d'édition pour ce fichier.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">Le fichier &lt;b&gt;%1&lt;/b&gt; doit être réservé avant d'être sauvegardé, mais vous n'avez pas de droits d'édition pour ce fichier.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="C492B710">Vous ne pouvez pas enregistrer le fichier &lt;b&gt;%1&lt;/b&gt; dans SharePoint car vous n'avez pas les droits d'édition pour ce fichier.</text>
+		<text id="msg.fileNotFound" h="381368F8">Le fichier &lt;b&gt;%1&lt;/b&gt; n'a pas été trouvé dans le dossier actuel.</text>
+		<text id="msg.invalidFileName" h="6BAFE9F2">&lt;b&gt;%1&lt;/b&gt; n'est pas un nom de fichier valide. Le nom de fichier ne peut pas contenir les caractères &lt;b&gt;%2&lt;/b&gt;</text>
+		<text id="msg.navigateError" h="CF23B4B6">Impossible de naviguer dans les ressources de SharePoint. Vérifier votre connexion internet, que l'adresse de la resource est correcte et que vous avez les autorisations d'accès nécessaires.</text>
+		<text id="msg.openFailed" h="34DE1259">Impossible d'ouvrir le fichier. Vérifier que le fichier existe, qu'il n'est pas réservé par d'autres utilisateurs, et que vous avez les autorisations d'accès nécessaires.</text>
+		<text id="msg.outdatedFileOnWrite" h="93CDEA71">Le document que vous avez téléchargé contient des changements faits à &lt;b&gt;%2&lt;/b&gt;, mais le serveur contient des changements plus récents, faits à &lt;b&gt;%3&lt;/b&gt;. Sauvegardez vos modifications dans un nouveau fichier, puis ouvrez le dernier document avec vérification depuis SharePoint, fusionnez les modifications et enregistrez-les sur le serveur.</text>
+		<text id="msg.outdatedFileOnWrite.question" h="4802DC49">Le fichier &lt;b&gt;%1&lt;/b&gt; a un conflit de changements. Le document que vous avez téléchargé contient des changements faits à &lt;b&gt;%2&lt;/b&gt;, mais le serveur contient des changements plus récents, faits à &lt;b&gt;%3&lt;/b&gt;. Vous pouvez forcer l'écrasement de la version du serveur ou annuler l'enregistrement en cours pour enregistrer vos modifications dans un nouveau fichier, puis ouvrir le dernier document avec réservation depuis SharePoint, fusionner les modifications et les enregistrer sur le serveur.</text>
+		<text id="msg.saveFailed" h="967D2A64">Impossible d'enregistrer le fichier. Assurez-vous que le nom de fichier est valide, qu'il n'est pas réservé par d'autres utilisateurs et que vous avez les autorisations d'accès nécessaires.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Le fichier &lt;b&gt;%1&lt;/b&gt; existe déjà. Voulez-vous le remplacer ?</text>
+		<text id="msg.signOutError" h="0E6A5F45">Impossible de déconnecter l'utilisateur actuel du serveur SharePoint. Vous pourriez toujours accéder à SharePoint sans demande d'authentification.</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="69F2FCB2">Vous n'avez pas les permissions d'édition pour le fichier &lt;b&gt;%1&lt;/b&gt;. Veuillez noter que vous ne pourrez pas sauvegarder les modifications apportées à SharePoint à moins d'avoir les permissions nécessaires.</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">Le fichier &lt;b&gt;%1&lt;/b&gt; est réservé par l'utilisateur "%2". Vous ne pouvez pas enregistrer ce fichier dans SharePoint à moins que "%2" n'abandonne l'état de réservation. Si "%2" enregistre le fichier avec des changements, alors vous aurez un conflit de changements.</text>
+		<text id="opt.dontShowAgain" h="492B5D79">&amp;Ne plus afficher ce message</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="str.sharePoint" h="56A5F9B3">SharePoint</text>
+	</Strings>
+</Localization>

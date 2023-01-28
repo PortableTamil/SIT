@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627200651">2.00.00</Version>
+	<Author>Michael Dodl, Logilink</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Polish (Poland)" lName="Polski" code="pl-PL" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="7.0.325.10"/>
+	<Strings>
+		<text id="DlgAppPrefs.SharePoint.Name" h="56A5F9B3">SharePoint</text>
+		<text id="DlgAppPrefs.SharePoint.Title" h="07F34B45">Opcje SharePoint</text>
+		<text id="btn.cancelSaving" h="36FF91F6">&amp;Anuluj zapisywanie na serwerze</text>
+		<text id="btn.checkIn" h="09996473">&amp;Zaewidencjonuj</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">&amp;Zaewidencjonuj i pozostaw wyewidencjonowane</text>
+		<text id="btn.clearLogs" h="848E003C">Usuń wszystko</text>
+		<text id="btn.connect" h="A79F815C">&amp;Połącz</text>
+		<text id="btn.discardCheckOut" h="40AC5603">&amp;Odrzuć wyewidencjonowanie</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">&amp;Pozostaw wyewidencjonowane</text>
+		<text id="btn.navigate" h="B03F439E">&amp;Nawiguj</text>
+		<text id="btn.open" h="B1A510F0">&amp;Otwórz</text>
+		<text id="btn.openLog" h="F3E66367">Otwórz</text>
+		<text id="btn.openLogFolder" h="0B1D9C13">Otwórz folder</text>
+		<text id="btn.openWithCheckOut" h="2F774735">&amp;Otwórz z wyewidencjonowaniem</text>
+		<text id="btn.overwrite" h="48E63C4C">&amp;Nadpisz</text>
+		<text id="btn.resetPreferences" h="A7132527">Przywróć domyślne</text>
+		<text id="btn.save" h="F363C410">&amp;Zapisz</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">&amp;Zapisz i wyewidencjonuj</text>
+		<text id="btn.saveReplace" h="11BF9724">&amp;Zapisz i zastąp</text>
+		<text id="btn.settings" h="4AD05264">&amp;Ustawienia</text>
+		<text id="btn.signOut" h="645CEBE2">&amp;Wyloguj się</text>
+		<text id="cb.url.tip" h="CD81E674">Wprowadź adres...</text>
+		<text id="cbitem.afterSave.ask" h="5F9AC292">Zapytaj co robić</text>
+		<text id="cbitem.afterSave.checkIn" h="FA91CFF8">Zaewidencjonuj</text>
+		<text id="cbitem.afterSave.checkInCheckOut" h="6C7252F6">Zaewidencjonuj i wyewidencjonuj</text>
+		<text id="cbitem.afterSave.keepCheckOut" h="F4487016">Pozostaw wyewidencjonowanie</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.ask" h="5F9AC292">Zapytaj co robić</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.discardCheckOut" h="CA75DE00">Odrzuć wyewidencjonowanie</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.keepCheckOut" h="F4487016">Pozostaw wyewidencjonowanie</text>
+		<text id="cbitem.closeNeedCheckIn.ask" h="5F9AC292">Zapytaj co robić</text>
+		<text id="cbitem.closeNeedCheckIn.checkIn" h="FA91CFF8">Zaewidencjonuj</text>
+		<text id="cbitem.closeNeedCheckIn.checkInCheckOut" h="6C7252F6">Zaewidencjonuj i wyewidencjonuj</text>
+		<text id="cbitem.closeNeedCheckIn.keepCheckOut" h="F4487016">Pozostaw wyewidencjonowanie</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.ask" h="5F9AC292">Zapytaj co robić</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.checkOut" h="95775966">Otwórz i wyewidencjonuj</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.open" h="38A34D1A">Otwórz bez wyewidencjonowania</text>
+		<text id="cbitem.whenSaveConflict.ask" h="5F9AC292">Zapytaj co robić</text>
+		<text id="cbitem.whenSaveConflict.cancel" h="554F5523">Anuluj zapisywanie na serwerze</text>
+		<text id="cbitem.whenSaveConflict.overwrite" h="B67489D8">Nadpisz wersję na serwerze</text>
+		<text id="check.dontShowThisMessageAgain" h="AC16D0EE">Nie pokazuj więcej tego komunikatu</text>
+		<text id="check.enableLogging" h="496D4808">Log do pliku</text>
+		<text id="check.whenOpenDocumentCheckoutNoneDisableEditing" h="778336E0">Wyłącz edytowanie</text>
+		<text id="check.whenOpenDocumentCheckoutNoneShowWarning" h="E97BFF00">Pokaż komunikat ostrzegawczy</text>
+		<text id="cmd.checkIn" h="AEF235ED">&amp;Zaewidencjonuj</text>
+		<text id="cmd.checkIn.tip" h="C9DCA405">Zaewidencjonuj dokument w SharePoint.</text>
+		<text id="cmd.checkOut" h="E6A87AFE">&amp;Wyewidencjonuj</text>
+		<text id="cmd.checkOut.tip" h="E1B64D30">Wyewidencjonuj dokument z SharePoint.</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">&amp;Odrzuć wyewidencjonowanie</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">Odrzuć wyewidencjonowany plik w SharePoint.</text>
+		<text id="cmd.enableEditing" h="340AFFD4">&amp;Włącz edytowanie</text>
+		<text id="cmd.enableEditing.tip" h="8A29948D">Włącz edytowanie i funkcje interaktywne.</text>
+		<text id="cmd.open" h="68595810">&amp;SharePoint...</text>
+		<text id="cmd.open.tip" h="007B7200">Otwórz dokumenty z SharePoint.</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">&amp;Przygotuj info o pliku</text>
+		<text id="cmd.prepareFileInfo.tip" h="E609EA07">Przygotuj informacje o pliku w SharePoint</text>
+		<text id="cmd.save" h="68595810">&amp;SharePoint...</text>
+		<text id="cmd.save.tip" h="C48C1C25">Zapisz aktywny dokument do SharePoint.</text>
+		<text id="cmd.share_point" h="B7423C0E">&amp;SharePoint</text>
+		<text id="cmd.share_point.tip" h="CA99078B">Pracuj z dokumentami w SharePoint</text>
+		<text id="dlg.liveLogin" h="BFADC685">Logowanie na żywo</text>
+		<text id="dlg.openFile" h="435887CD">Otwórz plik</text>
+		<text id="dlg.saveFile" h="520CB069">Zapisz plik</text>
+		<text id="group.Logging" h="F9DEFF33">Logowanie</text>
+		<text id="group.documentActions" h="64C10405">Praca z dokumentem</text>
+		<text id="ibar.cannotEditEditing" h="13F24128">Nie masz uprawnień do edycji pliku na serwerze. Dozwolone jest tylko zapisywanie jako kopia lokalna.</text>
+		<text id="ibar.cannotEditNoEditing" h="52C758B6">Nie masz uprawnień do edycji pliku na serwerze. Wszystkie funkcje edytowalne i interaktywne są wyłączone.</text>
+		<text id="ibar.checkedOutToMe" h="B5AF7047">Plik jest wyewidencjonowany dla ciebie.</text>
+		<text id="ibar.checkedOutToOtherEditing" h="4F420124">Plik jest wyewidencjonowany dla %1. Nie będziesz mógł zapisać pliku na serwerze.</text>
+		<text id="ibar.checkedOutToOtherNoEditing" h="B8C2709A">Plik jest wyewidencjonowany dla %1. Wszystkie funkcje edytowalne i interaktywne są wyłączone.</text>
+		<text id="ibar.notCheckedOutEditing" h="A4D56FD1">Plik nie jest wyewidencjonowany. Jeśli inni użytkownicy zmienią plik na serwerze, nie będzie można zapisać zmian w tym pliku.</text>
+		<text id="ibar.notCheckedOutNoEditing" h="E3EA5586">Plik nie jest wyewidencjonowany. Wszystkie funkcje edytowalne i interaktywne są wyłączone.</text>
+		<text id="ibar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="ibar.sharepoint.description" h="6F2E3CDD">Informacje kontekstowe i operacje dokumentu SharePoint</text>
+		<text id="ibar.sharepoint.title" h="C3F43468">Dokument SharePoint</text>
+		<text id="lb.afterSave" h="6ABC46B3">Gdy dokument jest zapisywany:</text>
+		<text id="lb.checkInComment" h="694DD18A">Komentarz (opcjonalnie):</text>
+		<text id="lb.closeDoesNotNeedCheckIn" h="7B029545">Zamykając dok. wyewidencjonowany bez zmian:</text>
+		<text id="lb.closeNeedCheckIn" h="E2376C82">Zamykając dok. wyewidencjonowany ze zmianami:</text>
+		<text id="lb.currentLogFile" h="79D35843">Bieżący log:</text>
+		<text id="lb.name" h="F7B9E475">Nazwa pliku:</text>
+		<text id="lb.numberOfDaysToStoreLogs" h="E12F4F23">Dni trzymania:</text>
+		<text id="lb.sharePointPlaceUrl" h="F900769A">URL SharePoint:</text>
+		<text id="lb.sharePointPlaceValidUrl" h="9BFA1D20">Nie można połączyć się z serwerem SharePoint. Sprawdź połączenie internetowe i podany adres URL serwera.</text>
+		<text id="lb.whenOpenDocumentCheckoutNone" h="1BB05A3E">Otwierając dokument niewyewidencjonowany:</text>
+		<text id="lb.whenOpenDocumentCheckoutOther" h="8E43C402">Otwierając dokument wyewidencjonowany:</text>
+		<text id="lb.whenOpenDocumentWithoutWritePermissions" h="4ACDAA34">Otwierając dokument bez uprawnień do zapisu:</text>
+		<text id="lb.whenSaveConflict" h="174E79E4">Zapisując dokument zmieniony na serwerze:</text>
+		<text id="ls.column.created" h="FE6510B7">Data utworzenia</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Data i godzina gdy plik, folder lub lista została utworzona</text>
+		<text id="ls.column.extension" h="14FEB836">Rozszerzenie</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Rozszerzenie pliku</text>
+		<text id="ls.column.modified" h="691C3610">Data modyfikacji</text>
+		<text id="ls.column.modified.hint" h="12933E76">Data i godzina gdy plik, folder lub lista została ostatnio zmodyfikowana</text>
+		<text id="ls.column.size" h="17A58A52">Rozmiar</text>
+		<text id="ls.column.size.hint" h="E79CA174">Rozmiar pliku</text>
+		<text id="ls.column.title" h="D18643E3">Nazwa</text>
+		<text id="ls.column.title.hint" h="81F4F728">Nazwa pliku, nazwa folderu lub tytuł listy</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">Czy chcesz zaewidencjonować plik &lt;b&gt;%1&lt;/b&gt; zanim zostanie zamknięty? Dzięki temu zmiany będą możliwe dla innych użytkowników.</text>
+		<text id="msg.askForCheckOutOnOpen" h="B185C3DF">Możesz otworzyć plik &lt;b&gt;%1&lt;/b&gt; z wyewidencjonowaniem, aby ustawić plik jako "tylko do odczytu" dla innych użytkowników, aby móc go bezpiecznie zmienić i zapisać zmiany w SharePoint lub zezwolić innym użytkownikom na zmianę pliku, ale mogą pojawić się konflikty, jeśli spróbujesz zmienić i zapisać plik ze swojej strony.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">Plik &lt;b&gt;%1&lt;/b&gt; jest wyewidencjonowany dla ciebie. Czy chcesz odrzucić wyewidencjonowanie i zezwolić innym użytkownikom na edycję pliku?</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">Zaewidencjonuj plik &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="msg.checkInFailed" h="3E327B8B">Nie można zaewidencjonować pliku &lt;b&gt;%1&lt;/b&gt;. Upewnij się, że ten plik istnieje i jest wyewidencjonowany dla ciebie.</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">Nie można wyewidencjonować pliku &lt;b&gt;%1&lt;/b&gt;. Upewnij się, że ten plik istnieje na serwerze i nie jest wyewidencjonowany dla innego użytkownika.</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">Nie możesz otworzyć pliku &lt;b&gt;%1&lt;/b&gt; z wyewidencjonowaniem, ponieważ jest wyewidencjonowany dla użytkownika "%2".</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">Plik &lt;b&gt;%1&lt;/b&gt; jest wyewidencjonowany dla użytkownika "%2". Nie można zapisać tego pliku do SharePoint, dopóki jest on wyewidencjonowany dla ciebie, ale możesz zapisać swoje zmiany w innym miejscu.</text>
+		<text id="msg.connectError" h="18DFEDBE">Nie można połączyć się z serwerem SharePoint. Sprawdź połączenie internetowe, adres serwera i prawa dostępu do wymaganego zasobu SharePoint.</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">Nie można odrzucić wyewidencjonowanego stanu pliku &lt;b&gt;%1&lt;/b&gt;. Sprawdź czy plik istnieje i jest dla ciebie wyewidencjonowany.</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">Nie możesz wyewidencjonować pliku &lt;b&gt;%1&lt;/b&gt;, ponieważ nie masz uprawnień do edycji tego pliku.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">Nie możesz otworzyć pliku &lt;b&gt;%1&lt;/b&gt; z wyewidencjonowaniem, ponieważ nie masz uprawnień do edycji tego pliku.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">Nie możesz otworzyć pliku &lt;b&gt;%1&lt;/b&gt; do edycji, ponieważ nie masz uprawnień do edycji tego pliku.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">Plik &lt;b&gt;%1&lt;/b&gt; musi zostać wyewidencjonowany przed zapisaniem, nie masz uprawnień do edycji tego pliku.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="C492B710">Nie możesz zapisać pliku &lt;b&gt;%1&lt;/b&gt; do SharePoint, ponieważ nie masz uprawnień do edycji tego pliku.</text>
+		<text id="msg.fileNotFound" h="381368F8">Plik &lt;b&gt;%1&lt;/b&gt; nie został znaleziony w bieżącym folderze.</text>
+		<text id="msg.invalidFileName" h="6BAFE9F2">&lt;b&gt;%1&lt;/b&gt; nie jest prawidłową nazwą pliku. Plik nie może zawierać znaków &lt;b&gt;%2&lt;/b&gt;</text>
+		<text id="msg.navigateError" h="CF23B4B6">Nie można przejść do zasobu SharePoint. Sprawdź połączenie internetowe, adres serwera i prawo dostępu do wymaganego zasobu SharePoint.</text>
+		<text id="msg.openFailed" h="34DE1259">Nie można otworzyć pliku. Sprawdź czy plik istnieje, czy nie jest wyewidencjonowany dla innego użytkownika i czy masz uprawnienia dostępu do niego.</text>
+		<text id="msg.outdatedFileOnWrite" h="93CDEA71">Pobrany dokument zawiera zmiany wprowadzone w &lt;b&gt;%2&lt;/b&gt;, ale serwer zawiera nowsze zmiany wprowadzone w &lt;b&gt;%3&lt;/b&gt;. Zapisz zmiany w nowym pliku, a następnie otwórz najnowszy dokument z wyewidencjonowaniem z SharePoint, scal zmiany i zapisz je na serwerze.</text>
+		<text id="msg.outdatedFileOnWrite.question" h="4802DC49">Plik &lt;b&gt;%1&lt;/b&gt; zawiera konflikt zmian. Pobrany dokument zawiera zmiany wprowadzone w &lt;b&gt;%2&lt;/b&gt;, ale serwer zawiera nowsze zmiany wprowadzone w &lt;b&gt;%3&lt;/b&gt;. Możesz wymusić nadpisanie wersji na serwerze lub anulować bieżące zapisywanie, aby zapisać zmiany w nowym pliku, a następnie otworzyć najnowszy dokument z wyewidencjonowaniem z SharePoint, scalić zmiany i zapisać je na serwerze.</text>
+		<text id="msg.saveFailed" h="967D2A64">Nie można zapisać pliku. Sprawdź czy nazwa pliku jest poprawna, czy nie jest wyewidencjonowany dla innego użytkownika i czy masz uprawnienia do jego edycji.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Plik &lt;b&gt;%1&lt;/b&gt; już istnieje. Czy chcesz go zastąpić?</text>
+		<text id="msg.signOutError" h="0E6A5F45">Nie można wylogować bieżącego użytkownika z serwera SharePoint. Jednak nadal możesz uzyskać dostęp do SharePoint bez żądania uwierzytelnienia.</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="69F2FCB2">Nie masz uprawnień do edycji pliku &lt;b&gt;%1&lt;/b&gt;. Pamiętaj, że zmiany w SharePoint można zapisywać tylko po uzyskaniu niezbędnych uprawnień.</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">Plik &lt;b&gt;%1&lt;/b&gt; jest wyewidencjonowany dla użytkownika "%2". Nie można zapisać tego pliku do SharePoint, dopóki "%2" odrzuca stan wyewidencjonowania. Jeśli "% 2" zaewidencjonuje plik ze zmianami to wystąpi konflikt zmian.</text>
+		<text id="opt.dontShowAgain" h="492B5D79">&amp;Nie pokazuj więcej tego komunikatu</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="str.sharePoint" h="56A5F9B3">SharePoint</text>
+	</Strings>
+</Localization>

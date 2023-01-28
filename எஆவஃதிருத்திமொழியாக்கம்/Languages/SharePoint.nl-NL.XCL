@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627200651">2.00.00</Version>
+	<Author>pdf.xchange.translate@gmail.com</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Dutch (Netherlands)" lName="Nederlands" code="nl-NL" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="7.0.325.10"/>
+	<Strings>
+		<text id="DlgAppPrefs.SharePoint.Name" h="56A5F9B3">SharePoint</text>
+		<text id="DlgAppPrefs.SharePoint.Title" h="07F34B45">SharePoint-opties</text>
+		<text id="btn.cancelSaving" h="36FF91F6">Opslaan naar de server &amp;annuleren </text>
+		<text id="btn.checkIn" h="09996473">&amp;Inchecken</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">&amp;Inchecken en uitgecheckt houden</text>
+		<text id="btn.clearLogs" h="848E003C">Alles verwijderen</text>
+		<text id="btn.connect" h="A79F815C">&amp;Verbinden</text>
+		<text id="btn.discardCheckOut" h="40AC5603">Uitchecken &amp;negeren</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">Uitgecheckt &amp;houden</text>
+		<text id="btn.navigate" h="B03F439E">&amp;Navigeren</text>
+		<text id="btn.open" h="B1A510F0">&amp;Openen</text>
+		<text id="btn.openLog" h="F3E66367">Openen</text>
+		<text id="btn.openLogFolder" h="0B1D9C13">Map openen</text>
+		<text id="btn.openWithCheckOut" h="2F774735">Openen en &amp;uitchecken</text>
+		<text id="btn.overwrite" h="48E63C4C">&amp;Overschrijven</text>
+		<text id="btn.resetPreferences" h="A7132527">Standaardinstellingen</text>
+		<text id="btn.save" h="F363C410">Op&amp;slaan</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">&amp;Opslaan en uitchecken</text>
+		<text id="btn.saveReplace" h="11BF9724">Opslaan en &amp;vervangen</text>
+		<text id="btn.settings" h="4AD05264">&amp;Instellingen</text>
+		<text id="btn.signOut" h="645CEBE2">&amp;Afmelden</text>
+		<text id="cb.url.tip" h="CD81E674">Adres invoeren...</text>
+		<text id="cbitem.afterSave.ask" h="5F9AC292">Vraag wat te doen</text>
+		<text id="cbitem.afterSave.checkIn" h="FA91CFF8">Inchecken</text>
+		<text id="cbitem.afterSave.checkInCheckOut" h="6C7252F6">Inchecken en uitchecken</text>
+		<text id="cbitem.afterSave.keepCheckOut" h="F4487016">Uitgecheckt houden</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.ask" h="5F9AC292">Vraag wat te doen</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.discardCheckOut" h="CA75DE00">Uitchecken negeren</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.keepCheckOut" h="F4487016">Uitgecheckt houden</text>
+		<text id="cbitem.closeNeedCheckIn.ask" h="5F9AC292">Vraag wat te doen</text>
+		<text id="cbitem.closeNeedCheckIn.checkIn" h="FA91CFF8">Inchecken</text>
+		<text id="cbitem.closeNeedCheckIn.checkInCheckOut" h="6C7252F6">Inchecken en uitchecken</text>
+		<text id="cbitem.closeNeedCheckIn.keepCheckOut" h="F4487016">Uitgecheckt houden</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.ask" h="5F9AC292">Vraag wat te doen</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.checkOut" h="95775966">Openen en uitchecken</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.open" h="38A34D1A">Openen zonder uitchecken</text>
+		<text id="cbitem.whenSaveConflict.ask" h="5F9AC292">Vraag wat te doen</text>
+		<text id="cbitem.whenSaveConflict.cancel" h="554F5523">Opslaan op de server annuleren</text>
+		<text id="cbitem.whenSaveConflict.overwrite" h="B67489D8">Overschrijf de versie op de server</text>
+		<text id="check.dontShowThisMessageAgain" h="AC16D0EE">Dit bericht niet meer weergeven</text>
+		<text id="check.enableLogging" h="496D4808">Logbestand</text>
+		<text id="check.whenOpenDocumentCheckoutNoneDisableEditing" h="778336E0">Bewerken uitschakelen</text>
+		<text id="check.whenOpenDocumentCheckoutNoneShowWarning" h="E97BFF00">Toon waarschuwingsbericht</text>
+		<text id="cmd.checkIn" h="AEF235ED">&amp;Inchecken</text>
+		<text id="cmd.checkIn.tip" h="C9DCA405">Het document inchecken naar SharePoint.</text>
+		<text id="cmd.checkOut" h="E6A87AFE">&amp;Uitchecken</text>
+		<text id="cmd.checkOut.tip" h="E1B64D30">Het document uitchecken uit SharePoint.</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">Uitchecken &amp;negeren</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">Negeer het uitgecheckte bestand op SharePoint.</text>
+		<text id="cmd.enableEditing" h="340AFFD4">&amp;Bewerken inschakelen</text>
+		<text id="cmd.enableEditing.tip" h="8A29948D">Schakel bewerkings- en interactieve functies in.</text>
+		<text id="cmd.open" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.open.tip" h="007B7200">Open documenten vanuit SharePoint.</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">Bestands&amp;info voorbereiden</text>
+		<text id="cmd.prepareFileInfo.tip" h="E609EA07">Bereid bestandsinformatie voor op SharePoint</text>
+		<text id="cmd.save" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.save.tip" h="C48C1C25">Sla een actief document op naar SharePoint.</text>
+		<text id="cmd.share_point" h="B7423C0E">Share&amp;Point</text>
+		<text id="cmd.share_point.tip" h="CA99078B">Werk met documenten in SharePoint</text>
+		<text id="dlg.liveLogin" h="BFADC685">Live inloggen</text>
+		<text id="dlg.openFile" h="435887CD">Bestand openen</text>
+		<text id="dlg.saveFile" h="520CB069">Bestand opslaan</text>
+		<text id="group.Logging" h="F9DEFF33">Logboekregistratie</text>
+		<text id="group.documentActions" h="64C10405">Werken met document</text>
+		<text id="ibar.cannotEditEditing" h="13F24128">U hebt geen rechten om het bestand op de server te bewerken. Alleen opslaan als lokale kopie is toegestaan.</text>
+		<text id="ibar.cannotEditNoEditing" h="52C758B6">U hebt geen rechten om het bestand op de server te bewerken. Alle bewerkings- en interactieve functies zijn uitgeschakeld.</text>
+		<text id="ibar.checkedOutToMe" h="B5AF7047">Het bestand is uitgecheckt naar u.</text>
+		<text id="ibar.checkedOutToOtherEditing" h="4F420124">Het bestand is uitgecheckt naar %1. U kunt het bestand niet opslaan op de server.</text>
+		<text id="ibar.checkedOutToOtherNoEditing" h="B8C2709A">Het bestand is uitgecheckt naar %1. Alle bewerkings- en interactieve functies zijn uitgeschakeld.</text>
+		<text id="ibar.notCheckedOutEditing" h="A4D56FD1">Het bestand is niet uitgecheckt. Als andere gebruikers het bestand op de server wijzigen, kunt u wijzigingen in dit bestand niet opslaan.</text>
+		<text id="ibar.notCheckedOutNoEditing" h="E3EA5586">Het bestand is niet uitgecheckt. Alle bewerkings- en interactieve functies zijn uitgeschakeld.</text>
+		<text id="ibar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="ibar.sharepoint.description" h="6F2E3CDD">SharePoint-documentcontextinformatie en -bewerkingen</text>
+		<text id="ibar.sharepoint.title" h="C3F43468">SharePoint-document</text>
+		<text id="lb.afterSave" h="6ABC46B3">Bij opslaan van het document:</text>
+		<text id="lb.checkInComment" h="694DD18A">Opmerking (optioneel):</text>
+		<text id="lb.closeDoesNotNeedCheckIn" h="7B029545">Bij sluiten van uitgecheckt document zond. wijzigingen:</text>
+		<text id="lb.closeNeedCheckIn" h="E2376C82">Bij sluiten van uitgecheckt document met wijzigingen:</text>
+		<text id="lb.currentLogFile" h="79D35843">Huidig log:</text>
+		<text id="lb.name" h="F7B9E475">Bestandnaam:</text>
+		<text id="lb.numberOfDaysToStoreLogs" h="E12F4F23">Aantal dagen logs:</text>
+		<text id="lb.sharePointPlaceUrl" h="F900769A">SharePoint-URL:</text>
+		<text id="lb.sharePointPlaceValidUrl" h="9BFA1D20">Kan geen verbinding maken met de SharePoint-server. Controleer de internetverbinding en de opgegeven server-URL.</text>
+		<text id="lb.whenOpenDocumentCheckoutNone" h="1BB05A3E">Bij openen van een document dat niet uitgecheckt is:</text>
+		<text id="lb.whenOpenDocumentCheckoutOther" h="8E43C402">Bij openen van een document dat al uitgescheckt is:</text>
+		<text id="lb.whenOpenDocumentWithoutWritePermissions" h="4ACDAA34">Bij openen van een document zonder schrijfrechten:</text>
+		<text id="lb.whenSaveConflict" h="174E79E4">Bij opslaan van document dat op server is gewijzigd:</text>
+		<text id="ls.column.created" h="FE6510B7">Aanmaakdatum</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Datum en tijd waarop bestand, map of lijst is gemaakt</text>
+		<text id="ls.column.extension" h="14FEB836">Extensie</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Bestandsextensie</text>
+		<text id="ls.column.modified" h="691C3610">Wijzigingsdatum</text>
+		<text id="ls.column.modified.hint" h="12933E76">Datum en tijd waarop bestand, map of lijst voor het laatst is gewijzigd</text>
+		<text id="ls.column.size" h="17A58A52">Grootte</text>
+		<text id="ls.column.size.hint" h="E79CA174">Bestandsgrootte</text>
+		<text id="ls.column.title" h="D18643E3">Naam</text>
+		<text id="ls.column.title.hint" h="81F4F728">Bestandsnaam, mapnaam of lijsttitel</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">Wilt u het bestand &lt;b&gt;%1&lt;/b&gt; inchecken voordat het wordt gesloten? Hierdoor zijn de wijzigingen beschikbaar voor andere gebruikers.</text>
+		<text id="msg.askForCheckOutOnOpen" h="B185C3DF">U kunt het bestand &lt;b&gt;%1&lt;/b&gt; openen en uitchecken om het bestand in te stellen als "alleen-lezen" voor andere gebruikers, zodat u het veilig kunt wijzigen en de wijzigingen in SharePoint kunt opslaan, of andere gebruikers kunt toestaan te wijzigen het bestand maar kunnen conflicten krijgen als u het bestand van uw kant probeert te wijzigen en op te slaan.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">Het bestand &lt;b&gt;%1&lt;/b&gt; is uitgecheckt naar u. Wilt u het uitchecken annuleren en andere gebruikers toestaan het bestand te bewerken?</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">Bestand &lt;b&gt;%1&lt;/b&gt; inchecken.</text>
+		<text id="msg.checkInFailed" h="3E327B8B">Het bestand &lt;b&gt;%1&lt;/b&gt; kan niet ingecheckt worden. Controleer of dit bestand bestaat en is uitgecheckt.</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">Het bestand &lt;b&gt;%1&lt;/b&gt; kan niet uitgecheckt worden. Zorg ervoor dat dit bestand op de server staat en niet is uitgecheckt door een andere gebruiker.</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">U kunt het bestand &lt;b&gt;%1&lt;/b&gt; niet openen en uitchecken omdat het is uitgecheckt naar gebruiker "%2".</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">Het bestand &lt;b&gt;%1&lt;/b&gt; is uitgecheckt naar gebruiker "%2". U kunt dit bestand niet opslaan in SharePoint tenzij het is uitgecheckt, maar u kunt uw wijzigingen op een andere locatie opslaan.</text>
+		<text id="msg.connectError" h="18DFEDBE">Kan geen verbinding maken met de SharePoint-server. Controleer de internetverbinding, het serveradres en de toegangsrechten tot de vereiste SharePoint-bron.</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">Kan de uitgecheckte status van het bestand &lt;b&gt;%1&lt;/b&gt; niet verwijderen. Zorg ervoor dat dit bestand bestaat en is uitgecheckt.</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">U kunt het bestand &lt;b&gt;%1&lt;/b&gt; niet uitchecken omdat u geen bewerkingsrechten voor dit bestand hebt.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">U kunt het bestand &lt;b&gt;%1&lt;/b&gt; niet openen en uitchecken omdat u geen bewerkingsrechten voor dit bestand hebt.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">U kunt het bestand &lt;b&gt;%1&lt;/b&gt; niet openen om te bewerken omdat u geen bewerkingsrechten voor dit bestand hebt.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">Het bestand &lt;b&gt;%1&lt;/b&gt; moet zijn uitgecheckt voordat het is opgeslagen, maar u beschikt niet over bewerkingsrechten voor dit bestand.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="C492B710">U kunt het bestand &lt;b&gt;%1&lt;/b&gt; niet opslaan in SharePoint omdat u geen bewerkingsrechten voor dit bestand hebt.</text>
+		<text id="msg.fileNotFound" h="381368F8">Het bestand &lt;b&gt;%1&lt;/b&gt; is niet gevonden in de huidige map.</text>
+		<text id="msg.invalidFileName" h="6BAFE9F2">&lt;b&gt;%1&lt;/b&gt; is geen geldige bestandsnaam. Bestandsnaam mag geen tekens &lt;b&gt;%2&lt;/b&gt; bevatten</text>
+		<text id="msg.navigateError" h="CF23B4B6">Kan niet naar de SharePoint-bron navigeren. Controleer de internetverbinding, het serveradres en het toegangsrecht tot de vereiste SharePoint-bron.</text>
+		<text id="msg.openFailed" h="34DE1259">Kan bestand niet openen. Zorg ervoor dat dit bestand bestaat en niet is uitgecheckt voor een andere gebruiker en dat u over de benodigde machtigingen beschikt om toegang te krijgen tot het bestand.</text>
+		<text id="msg.outdatedFileOnWrite" h="93CDEA71">Het document dat u hebt gedownload bevat wijzigingen die zijn aangebracht op &lt;b&gt;%2&lt;/b&gt;, maar de server bevat nieuwere wijzigingen, gemaakt op &lt;b&gt;%3&lt;/b&gt;. Sla uw wijzigingen op in een nieuw bestand en open vervolgens het nieuwste document met uitchecken van SharePoint, voeg de wijzigingen samen en sla ze op de server op.</text>
+		<text id="msg.outdatedFileOnWrite.question" h="4802DC49">Het bestand &lt;b&gt;%1&lt;/b&gt; heeft een wijzigingconflict. Het document dat u hebt gedownload bevat wijzigingen die zijn aangebracht op &lt;b&gt;%2&lt;/b&gt;, maar de server bevat nieuwere wijzigingen, gemaakt op &lt;b&gt;%3&lt;/b&gt;. U kunt dwingen om de serverversie te overschrijven of de huidige opslag te annuleren om uw wijzigingen in een nieuw bestand op te slaan, open vervolgens het laatste document met uitchecken van SharePoint, voeg de wijzigingen samen en sla ze op de server op.</text>
+		<text id="msg.saveFailed" h="967D2A64">Kan bestand niet opslaan. Zorg ervoor dat de bestandsnaam geldig is, dat het bestand niet is uitgecheckt naar een andere gebruiker en dat u over de benodigde machtigingen beschikt om het bestand te bewerken.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Het bestand &lt;b&gt;%1&lt;/b&gt; bestaat al. Wil je het vervangen?</text>
+		<text id="msg.signOutError" h="0E6A5F45">Kan de huidige gebruiker niet afmelden van de SharePoint-server. U kunt echter nog steeds toegang krijgen tot SharePoint zonder een verificatieaanvraag.</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="69F2FCB2">U beschikt niet over bewerkingsrechten voor het bestand &lt;b&gt;%1&lt;/b&gt;. Houd er rekening mee dat u wijzigingen in SharePoint niet kunt opslaan tenzij u over de benodigde machtigingen beschikt.</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">Het bestand &lt;b&gt;%1&lt;/b&gt; is uitgecheckt naar gebruiker "%2". U kunt dit bestand niet opslaan in SharePoint, tenzij "%2" de uitgecheckte status verwijdert. Als "%2" het bestand met wijzigingen incheckt, zult u een wijzigingconflict ervaren.</text>
+		<text id="opt.dontShowAgain" h="492B5D79">&amp;Dit bericht niet meer weergeven</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="str.sharePoint" h="56A5F9B3">SharePoint</text>
+	</Strings>
+</Localization>

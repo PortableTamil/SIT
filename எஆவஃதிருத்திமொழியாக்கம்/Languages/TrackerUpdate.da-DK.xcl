@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123214826">2.00.00</Version>
+	<Author>Regmos</Author>
+	<Copyright>Regmos 2018</Copyright>
+	<Product id="TrackerUpdate"/>
+	<Language eName="Danish (Denmark)" lName="dansk" code="da-DK" R2L="false"/>
+	<Module name="TrackerUpdate" namespace="" version="7.0.323.3"/>
+	<Strings>
+		<text id="setting.grBox.proxyConfig" h="A43FB5FD">Indstil proxy</text>
+		<text id="setting.radioBtn.noProxy" h="8293FBBF">Ingen proxy</text>
+		<text id="setting.radioBtn.useSysProxy" h="9BDC934C">Brug systemproxy</text>
+		<text id="setting.radioBtn.manualProxy" h="5B87F9A2">Manuel proxy:</text>
+		<text id="setting.txtBox.server" h="CA95B724">Proxyserver:</text>
+		<text id="setting.txtBox.port" h="C83E8ED8">Port:</text>
+		<text id="setting.chBox.passRequire" h="133A47A0">Proxyserver kræver kodeord:</text>
+		<text id="setting.txtBox.user" h="B9C79FA6">Proxybruger:</text>
+		<text id="setting.txtBox.password" h="F37B341A">Kodeord:</text>
+		<text id="setting.chBox.expiration" h="01C8ABA3">Inkludér opdateringer der ikke er kompatible med vedligeholdelsesplanen</text>
+		<text id="setting.dlg.name" h="9EAEE28F">Indstillinger</text>
+		<text id="setting.grBox.language" h="0C4A07DE">Sprog</text>
+		<text id="setting.grBox.general" h="30673BCD">Generelt</text>
+		<text id="setting.chBox.useRegLan" h="F0AA3B6E">Brug lokalt sprog</text>
+		<text id="setting.txtBox.interfaceLanguage" h="C20C59BF">Brugerfladesprog:</text>
+		<text id="setting.txtBox.automaticInstall" h="A40DBDBE">Installer automatisk opdateringer efter download</text>
+		<text id="setting.task.comment" h="7B9BE6EA">Denne opgave holder dit program opdateret med de seneste forbedringer og sikkerhedsrettelser.</text>
+		<text id="setting.msgBox.saveSettingError" h="8E30C180">Kan ikke gemme indstillinger!</text>
+		<text id="setting.msgBox.error" h="51BFF51D">Fejl</text>
+		<text id="main.txtBox.availableUpdate" h="5B1B87D4">Tilgængelige opdateringer:</text>
+		<text id="main.msgBox.incompatibleWithMaintenancePart1" h="FFB21F9F">Der er valgt opdateringer, der ikke er indeholdt i din aktuelle vedligeholdelsesplan. Vil du opdatere?</text>
+		<text id="main.msgBox.incompatibleWithMaintenancePart2" h="97A2D5BB">** ADVARSEL ** Hvis du vælger at opdatere, vil programmet blive til en prøveversion. Klik 'Nej' for at beholde din aktuelle version.</text>
+		<text id="main.msgBox.lockedUpdatesPart1" h="EE39CB5E">Følgende produkter blokerer for søgning efter opdateringer: %1</text>
+		<text id="main.msgBox.lockedUpdatesPart2" h="9DD22F03">Hvis du vil installere opdateringen, så fjern disse produkter.</text>
+		<text id="main.btn.setting" h="9147CD71">Indstillinger</text>
+		<text id="main.btn.help" h="03718903">Hjælp</text>
+		<text id="main.btn.installedProduct" h="C0C93CE4">Installerede produkter</text>
+		<text id="main.btn.updateHistory" h="2A22C89B">Historik</text>
+		<text id="main.btn.checkAgain" h="A3D44F4A">Søg igen</text>
+		<text id="main.btn.close" h="9594DBB7">Luk</text>
+		<text id="main.chBox.showHidden" h="30E4BACB">Vis skjulte opdateringer</text>
+		<text id="main.context.makeHidden" h="86B28783">Skjul</text>
+		<text id="main.context.makeVisible" h="C3CA8E89">Vis</text>
+		<text id="main.context.check" h="B50F4762">Søg valgte</text>
+		<text id="main.ballon.autoStartDownloadTimer" h="2EB87226">Opdateringer hentes automatisk om et minut.</text>
+		<text id="main.ballon.downloadingUpdates" h="DC6A6C81">Indlæser...</text>
+		<text id="main.ballon.installingUpdates" h="7DBFF5EC">Installation...</text>
+		<text id="main.ballon.autoStartInstallTimer" h="8DE069CA">Opdateringer installeres automatisk om et minut.</text>
+		<text id="main.ballon.newUpdates" h="825EA76A">Der findes nye opdateringer.</text>
+		<text id="main.ballon.updatesDownloaded" h="D9BE4C80">Opdateringer hentet.</text>
+		<text id="main.tooltip.maintenanceExpired" h="8CDDAEC6">Produktets vedligeholdelsesplan er udløbet.</text>
+		<text id="main.tooltip.lockedItem" h="8DBDABA7">Opdatering låst af et andet produkt.</text>
+		<text id="state.msg.gatheringInformation" h="0348E22F">Henter oplysninger. Vent et øjeblik...</text>
+		<text id="state.msg.noAvailableUpdate" h="CEA582A0">Ingen nye opdateringer.</text>
+		<text id="state.msg.error" h="EC250F30">Der opstod en fejl:</text>
+		<text id="state.msg.getListError" h="A0755DE4">Kan ikke hente opdateringsliste.</text>
+		<text id="state.msg.InternetConectionError" h="99D4EBF8">Ingen forbindelse. Prøv igen senere</text>
+		<text id="state.msg.getDataFileError" h="C7A70F8D">Kan ikke indlæse oplysninger.</text>
+		<text id="state.msg.selfUpdateError" h="D018D1C4">Selvopdateringsfejl: Prøv igen senere.</text>
+		<text id="state.msg.disabledByGroupPilisy" h="066F184E">Tracker Updater er deaktiveret af din systemadministrator.</text>
+		<text id="main.btn.download" h="BCE8145B">Download</text>
+		<text id="main.btn.downloadWithTimer" h="DACCF32D">Download (%1)</text>
+		<text id="main.listCol.name" h="D18643E3">Navn</text>
+		<text id="main.listCol.version" h="7922E696">Tilgængelig</text>
+		<text id="main.listCol.installed" h="DECE7C42">Installeret</text>
+		<text id="main.state.warning" h="95988032">Der er ingen installerede Tracker produkter.</text>
+		<text id="existing.dlg.name" h="C0C93CE4">Installerede produkter</text>
+		<text id="existing.btn.close" h="9594DBB7">Luk</text>
+		<text id="existing.listCol.name" h="D18643E3">Navn</text>
+		<text id="existing.listCol.version" h="F76458F4">Version</text>
+		<text id="progress.txt.pageHedear.installing" h="117B6562">Installerer opdateringer. Vent et øjeblik...</text>
+		<text id="progress.txt.pageHedear.finished" h="A4834E77">Færdig.</text>
+		<text id="progress.txt.pageHedear.downloading" h="15200E48">henter opdatering %1 af %2. Vent et øjeblik...</text>
+		<text id="progress.txt.downloaded" h="7F7E73C2">Gennemført</text>
+		<text id="progress.txt.totalSize" h="E542B598">Total størrelse</text>
+		<text id="progress.txt.averageSpeed" h="B07DD6C6">Gennemsnitshastighed</text>
+		<text id="progress.txt.timeRemaining" h="EBAC62EA">Resterende tid</text>
+		<text id="progress.btn.stop" h="F89FDAAE">Stop</text>
+		<text id="progress.btn.back" h="F8750C11">Tilbage</text>
+		<text id="progress.btn.exit" h="748EB8A1">Luk</text>
+		<text id="progress.btn.done" h="68F991B5">Færdig</text>
+		<text id="progress.btn.installWithTimer" h="83E409E9">Installer (%1)</text>
+		<text id="progress.btn.install" h="9F075946">Installer</text>
+		<text id="progress.txt.time.aboutMinute" h="1A471830">Ca. 1 minut</text>
+		<text id="progress.txt.clickToContinue" h="6B000F4A">Klik 'Installer' for at opdatere.</text>
+		<text id="progress.txt.time.unknown" h="8566CB94">Ukendt</text>
+		<text id="progress.userMsg.connectToServer" h="179110BC">Kontakter server %1...</text>
+		<text id="progress.userMsg.connectedSuccessfully" h="51738A9A">Forbindelse oprettet</text>
+		<text id="progress.userMsg.gettingFile" h="7B8DD0BC">Henter: %1...</text>
+		<text id="progress.userMsg.proxyFail" h="0BB99791">Proxygodkendelse fejlede for brugeren '%1'</text>
+		<text id="progress.userMsg.errorRequesting" h="071BA7D1">Forespørgselsfejl for filen '%1'</text>
+		<text id="progress.userMsg.userBreakDownloading" h="741C0781">'%1' download stoppet af bruger</text>
+		<text id="progress.userMsg.errorDownloading" h="08A92D7A">Fejl ved download af '%1'</text>
+		<text id="progress.userMsg.filedownloaded" h="C2923C57">Download af filen %1 gennemført.</text>
+		<text id="progress.userMsg.unableToConnect" h="875EB6BC">Ingen forbindelse til serveren %1...</text>
+		<text id="progress.userMsg.errorParceURL" h="CF0D1F96">URL fortolkningsfejl</text>
+		<text id="main.msgBox.newUpdatesAvailable" h="1208BEAF">Der blev fundet en opdatering. Vil du hente den?</text>
+		<text id="main.msgBox.newVersionOfTracker" h="14EF65E8">Tracker Updater er blevet opdateret, og skal installeres for at fortsætte. Vil du opdatere nu?</text>
+		<text id="progress.msgBox.askStartInstall" h="51A613BC">Er du klar til at installere de hentede opdateringer?</text>
+		<text id="progress.msgBox.askRebootAfterInstallPart1" h="1B90BEF6">Din computer skal genstartes for at anvende ændringerne.</text>
+		<text id="progress.msgBox.askRebootAfterInstallPart2" h="4D247ABD">Vil di genstarte nu?</text>
+		<text id="progress.userMsg.downloadingStarted" h="6DC1B7E7">Download startet.</text>
+		<text id="progress.userMsg.downloadingFinished" h="46E2EC7E">Download gennemført.</text>
+		<text id="progress.userMsg.installSkipped" h="A5730336">Installation sprunget over.</text>
+		<text id="progress.userMsg.installingStarted" h="13E62395">Installation startet.</text>
+		<text id="progress.userMsg.installingFinished" h="AC89DE70">Installation gennemført.</text>
+		<text id="progress.userMsg.installingRebootRequired" h="F3062B13">Genstart krævet.</text>
+		<text id="progress.userMsg.packageHasInvalidHash" h="009F880A">Pakken '%1' har ugyldig hash.</text>
+		<text id="progress.userMsg.packageInstalationStarted" h="7F8B3B69">Installation af pakken '%1' startet.</text>
+		<text id="progress.userMsg.packageInstalationFailed" h="2B458CDE">Installation af pakken '%1' fejlede.</text>
+		<text id="progress.userMsg.userBreakInstalling" h="0C3382A0">Bruger stoppede installation af pakken '%1'.</text>
+		<text id="progress.userMsg.userCanceledInstalling" h="01F91004">Installationen blev annulleret af bruger.</text>
+		<text id="progress.txt.speedValue" h="E0217E21">%1 KB/sek</text>
+		<text id="progress.txt.sizeValue" h="CCB7B0F4">%1 KB (%2 bytes)</text>
+		<text id="progress.txt.sec" h="CEB4987D">%1 sek</text>
+		<text id="progress.txt.min" h="08103A63">%1 min</text>
+		<text id="progress.txt.hour" h="CDADDDAA">%1 time</text>
+		<text id="settings.txt.noShedule" h="F1BADD25">Intet planlagt</text>
+		<text id="main.msgBox.prepareDataText" h="A0AC1F07">Loggen findes her: %1. Send den til %2 med en beskrivelse af problemet, og vedhæft logen.Vil du åbne logmappen?</text>
+		<text id="main.msgBox.prepareDataCaption" h="3084BBD4">Forbereder datarapport...</text>
+		<text id="logDlg.context.copy" h="348DE55D">Kopier</text>
+		<text id="logDlg.context.enableAutoScroll" h="418EBA20">Aktiver autoscroll</text>
+		<text id="logDlg.context.disableAutoScroll" h="1222DA17">Deaktiver autoscroll</text>
+		<text id="progress.userMsg.downloadFailed" h="ECCCF9A3">Der blev ikke hentet opdateringer</text>
+		<text id="progress.userMsg.adminRightsReject" h="3F1C4DFD">Administrative rettigheder afvist.</text>
+		<text id="scheduler.txt.recurEvery" h="E86F8BDB">Gentag hver:</text>
+		<text id="scheduler.txt.weeks" h="C36D0B1F">uger</text>
+		<text id="scheduler.txt.days" h="7AD34862">dage</text>
+		<text id="scheduler.txt.start" h="D0E7B7BC">Start:</text>
+		<text id="scheduler.txt.schedulerDisabled" h="77C6980A">Planlægning deaktiveret</text>
+		<text id="scheduler.chBox.sunday" h="8F1994C3">Søndag</text>
+		<text id="scheduler.chBox.monday" h="5ABCBB00">Mandag</text>
+		<text id="scheduler.chBox.tuesday" h="86A20B4F">Tirsdag</text>
+		<text id="scheduler.chBox.wednesday" h="66E67084">Onsdag</text>
+		<text id="scheduler.chBox.thursdat" h="DE9BC0A4">Torsdag</text>
+		<text id="scheduler.chBox.friday" h="F3BB1C4F">Fredag</text>
+		<text id="scheduler.chBox.saturday" h="38E79019">Lørdag</text>
+		<text id="scheduler.radioBtn.onlyShowNotification" h="6534C15A">Vis kun beskeder</text>
+		<text id="scheduler.radioBtn.automaticDownload" h="1819F958">Hent automatisk tilgængelige opdateringer</text>
+		<text id="scheduler.chBox.wakeTheComputer" h="60C8B46E">Væk computeren for at køre denne opgave</text>
+		<text id="scheduler.radioBtn.never" h="2B0D94AA">Aldrig</text>
+		<text id="scheduler.radioBtn.daily" h="D4192C96">Dagligt</text>
+		<text id="scheduler.radioBtn.weekly" h="F5E7580A">Ugentligt</text>
+		<text id="scheduler.radioBtn.monthly" h="DFE427B6">Månedligt</text>
+		<text id="scheduler.grBox.general" h="30673BCD">Generelt</text>
+		<text id="scheduler.comBox.first" h="D7CC2CC2">Første</text>
+		<text id="scheduler.comBox.second" h="FE7A8C73">Anden</text>
+		<text id="scheduler.comBox.third" h="A352FAE5">Tredje</text>
+		<text id="scheduler.comBox.fourth" h="EB6E5748">Fjerde</text>
+		<text id="scheduler.comBox.last" h="70BC4722">Sidste</text>
+		<text id="scheduler.radioBtn.day" h="A21EDE78">Dag:</text>
+		<text id="scheduler.radioBtn.specificDate" h="61688DB5">Bestem dato</text>
+		<text id="scheduler.chBox.january" h="087B2F92">Januar</text>
+		<text id="scheduler.chBox.february" h="A468CF34">Februar</text>
+		<text id="scheduler.chBox.march" h="4AA7C642">Marts</text>
+		<text id="scheduler.chBox.april" h="EB5B3219">April</text>
+		<text id="scheduler.chBox.may" h="315EB494">Maj</text>
+		<text id="scheduler.chBox.june" h="DF3EA27A">Juni</text>
+		<text id="scheduler.chBox.july" h="934037AC">Juli</text>
+		<text id="scheduler.chBox.august" h="F741CCEC">August</text>
+		<text id="scheduler.chBox.september" h="27819FF0">September</text>
+		<text id="scheduler.chBox.october" h="15BA27E1">Oktober</text>
+		<text id="scheduler.chBox.november" h="C8D0282F">November</text>
+		<text id="scheduler.chBox.december" h="7AEFD274">December</text>
+		<text id="settings.btn.save" h="B120B787">Gem</text>
+		<text id="settings.btn.cancel" h="08961956">Annuller</text>
+		<text id="settings.tabItem.general" h="30673BCD">Generelt</text>
+		<text id="settings.tabItem.autostart" h="DAB331BD">Autostart</text>
+		<text id="scheduler.txtBox.day" h="A21EDE78">Dag:</text>
+		<text id="scheduler.txtBox.week" h="AD8BFC83">Uge:</text>
+		<text id="scheduler.msgBox.saveSchedulerError" h="C70CA03C">Kan ikke gemme autostart!</text>
+		<text id="scheduler.txtBox.dontHavePermission" h="26DDF955">Du har ikke rettigheder til at ændre opgaven. Klik 'Kør som administrator' og prøv igen.</text>
+		<text id="scheduler.btn.runAsAdministrator" h="405279C2">Kør som administrator</text>
+		<text id="history.list.details" h="AEE125D6">Detaljer</text>
+		<text id="history.list.status" h="922A166F">Status:</text>
+		<text id="history.list.installedOn" h="C6F19FCA">Installeret den:</text>
+		<text id="history.list.successfullyInstalled" h="F63D7CC9">Opdatering gennemført.</text>
+		<text id="history.list.emptyHistory" h="D65E5890">Ingen historik</text>
+		<text id="progress.msg.installQuestion" h="BF2CB299">Opdateringer hentet. Klik 'Installer' for at opdatere.</text>
+		<text id="trayMenu.updatesList" h="B08D6B01">Åben vindue</text>
+		<text id="trayMenu.installed" h="B4602F1B">Installerede produkter...</text>
+		<text id="trayMenu.updateHistory" h="2A22C89B">Historik</text>
+		<text id="trayMenu.settings" h="EC675489">Indstillinger...</text>
+		<text id="trayMenu.help" h="2C29CD29">Hjælp...</text>
+		<text id="trayMenu.about" h="06AA44B8">Om...</text>
+		<text id="about.dlg.name" h="F2596574">Om</text>
+		<text id="about.btn.ok" h="BA8105F8">OK</text>
+		<text id="about.txt.description.part1" h="D17E4313">Tracker Updater kan sørge for at  PDF-XChange produkter altid er opdateret.</text>
+		<text id="about.txt.description.part2" h="46D79C52"> Tracker Updater kan køre automatisk, eller startes manuelt fra hjælpemenuen i PDF-XChange Editor og computerens startmenu.</text>
+		<text id="about.dlg.version" h="2558B135">Version: %1</text>
+	</Strings>
+</Localization>

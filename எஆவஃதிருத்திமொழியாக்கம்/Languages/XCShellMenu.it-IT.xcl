@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220334">2.00.00</Version>
+	<Author>Pari D.</Author>
+	<Copyright></Copyright>
+	<Product id="XCShellMenu"/>
+	<Language eName="Italian (Italy)" lName="Italiano" code="it-IT" R2L="false"/>
+	<Module name="XCShellMenu" namespace="" version="6.0.322.7"/>
+	<Strings>
+		<text id="menu.open" h="D08F8302">Apri in PDFXChange Editor</text>
+		<text id="menu.combine" h="BF3B40FB">Unisci in PDFXChange Editor</text>
+		<text id="menu.open.help" h="DB2C9B04">Apri i file in PDFXChange Editor</text>
+		<text id="menu.combine.help" h="3E8460C6">Unisci i file in PDFXChange Editor</text>
+	</Strings>
+</Localization>

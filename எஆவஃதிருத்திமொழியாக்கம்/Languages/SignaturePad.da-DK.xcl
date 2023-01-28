@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220819">2.00.00</Version>
+	<Author>Regmos</Author>
+	<Copyright>Regmos 2018</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Danish (Denmark)" lName="dansk" code="da-DK" R2L="false"/>
+	<Module name="SignaturePad" namespace="sigpad" version="6.0.322.7"/>
+	<Strings>
+		<text id="btn.clear" h="8A6A002B">Ryd</text>
+		<text id="dgl.drawsign.title" h="8BE10CB7">Tegn signatur</text>
+		<text id="signature.pad" h="1CB89F08">Signaturblok</text>
+		<text id="signature.pad.desc" h="B2E4D573">Brug signaturblokker til at oprette signaturer</text>
+		<text id="msg.nodevice" h="69EAAE3A">Der er ingen &lt;i&gt;understøttet enhed&lt;/i&gt;
+
+Kontrollér at enheden er tilsluttet,
+at nødvendige drivere er installeret
+og prøv igen.</text>
+	</Strings>
+</Localization>

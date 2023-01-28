@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123230501">2.00.00</Version>
+	<Author>Kelvin Muriuki</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXDriver"/>
+	<Language eName="Kiswahili (Kenya)" lName="Kiswahili" code="sw-KE" R2L="false"/>
+	<Module name="officeAddin" namespace="addin" version="7.0.323.3"/>
+	<Strings>
+		<text id="settings.title" h="F15A1E8C">Mipangilio ya PDF-XChange</text>
+		<text id="Bookmark.Column0" h="C091D68E">Mtindo</text>
+		<text id="Bookmark.Column1" h="710B61B4">Aina</text>
+		<text id="Bookmark.Column2" h="FBB97B48">Kiwango</text>
+		<text id="Bookmark.TypeCustom" h="A918FF38">Binafsi</text>
+		<text id="Bookmark.TypeStandard" h="C6DA1F99">Kiwango</text>
+		<text id="BorderStyle.Dashed" h="39AEAEE8">Yenye Deshi</text>
+		<text id="BorderStyle.Dotted" h="59B655A2">Yenye Vitone</text>
+		<text id="BorderStyle.Solid" h="9C9EA9A8">Gumu</text>
+		<text id="BorderType.None" h="B6C5BE05">Bila Kingo</text>
+		<text id="BorderType.Rect" h="7D22CD90">Mstatili</text>
+		<text id="BorderType.Underline" h="2A187377">Pigilia Mstari</text>
+		<text id="DefaultProfile" h="67249AEE">Mipangilio Chaguo-msingi</text>
+		<text id="DefaultProfileDesc" h="BB9A105F">Mipangilio Chaguo-msingi ya kifaa nyongeza cha Office</text>
+		<text id="EndnoteProgress" h="529B97AF">Inachakata Tanbihimwisho</text>
+		<text id="FootnoteProgress" h="A6605BD0">Inachakata Tanbihi</text>
+		<text id="Group.C.Name" h="ACF7EBD1">Unda PDF</text>
+		<text id="Group.S.Name" h="9147CD71">Mipangilio</text>
+		<text id="HeaderProgress" h="05E7B20C">Inachakata Kichwa</text>
+		<text id="InternalRefsProgress" h="C2BBD553">Inachakata Marejeleo ya Kindani</text>
+		<text id="LinkProgress" h="108F709A">Inachakata Viungo Tovuti</text>
+		<text id="MCmd.SaveAs.Desc" h="6F4ACA50">Hifadhi waraka wa sasa kama faili ya PDF ukitumia PDF-Xchange</text>
+		<text id="MCmd.SaveAs.KeyTip" h="24ABE339">C</text>
+		<text id="MCmd.SaveAs.Name" h="7FC0B24F">&amp;Hifadhi Kama Faili ya PDF</text>
+		<text id="MCmd.SaveAs.SuperTip" h="6F4ACA50">Hifadhi waraka wa sasa kama faili ya PDF ukitumia PDF-Xchange</text>
+		<text id="MCmd.eMail.Desc" h="AAFB0EEB">Unda faili ya PDF kutoka kwa waraka wa sasa kisha itume kwa Barua Pepe kupitia PDF-Xchange</text>
+		<text id="MCmd.eMail.KeyTip" h="72F144BF">E</text>
+		<text id="MCmd.eMail.Name" h="8180E3CA">Unda PDF &amp;&amp; Barua pepe</text>
+		<text id="MCmd.eMail.SuperTip" h="AAFB0EEB">Unda faili ya PDF kutoka kwa waraka wa sasa kisha itume kwa Barua Pepe kupitia PDF-Xchange</text>
+		<text id="Menu.Name" h="4C8C428F">PDF-XChange</text>
+		<text id="Menu.Name.Acro" h="10548B2B">PDF-XChange ya AcrPlot Pro</text>
+		<text id="Msg.ApplyProfile" h="B138997E">Je unauhakika ungetaka kutekeleza maelezo mafupi yaliyoteuliwa?</text>
+		<text id="Msg.DeleteDefProfile" h="525BD8C5">Hauwezi kuondoa Maelezo mafupi yaliyopo. Tafadhali chagua maelezo mafupi mengine kabla ya kufuta maelezo mafupi haya.</text>
+		<text id="Msg.DeleteProfile" h="2A0B9CEB">Je unauhakika ungetaka kufuta maelezo mafupi haya?</text>
+		<text id="Msg.DuplicateProfileName" h="A74F5AE8">Maelezo fupi yenye jina hii yapo tayari! Je ungetaka kuandikia juu ya maelezo fupi haya?</text>
+		<text id="Msg.DuplicateProfileName2" h="34672AFB">Maelezo fupi yenye jina '%1' yapo tayari. Tafadhali taja jina la kipekee kupatia maelezo mafupi.</text>
+		<text id="Msg.EmptyProfileName" h="2B7E72C0">Jina la maelezo mafupi haliwezi kuwa tupu!</text>
+		<text id="Msg.ExistingProfile" h="40545C96">Maelezo fupi yenye jina '%1' yapo tayari. Je ungetaka kuyaandikia juu?</text>
+		<text id="Msg.ExistingProfile2" h="644B2B1B">Maelezo fupi yenye jina '%1' yapo tayari. Unaweza kuyaandikia juu na maelezo mafupi mapya ama kutumia jina tofauti.</text>
+		<text id="Msg.ExistingProfile3" h="6D39539C">Maelezo fupi yenye jina '%1' yapo tayari. Unafaa kutumia jina tofauti la maelezo mafupi mapya.</text>
+		<text id="Msg.NoPrinter" h="E42BE694">Kiendeshi cha Kichapishaji cha PDF-XChange hakikupatikana ama kuwezwa kuletwa.Tafadhali sakinisha upya.</text>
+		<text id="Msg.Title.Error" h="51BFF51D">Kosa</text>
+		<text id="MsgProfile.Protected" h="982F8083">Hauwezi kubadilisha ama kufuta Maelezo mafupi yaliyofafanuliwa na Msimamizi wa Ndani.</text>
+		<text id="Page.Advanced" h="59A2B513">Hali ya Juu</text>
+		<text id="Page.Bookmarks" h="E2032460">Vialamisho</text>
+		<text id="Page.Excel" h="35C252B3">Chaguo za Excel</text>
+		<text id="Page.Links" h="6E16975C">Viungo</text>
+		<text id="Page.PowerPoint" h="12124956">Chaguo za PowerPoint</text>
+		<text id="Page.Settings" h="9147CD71">Mipangilio</text>
+		<text id="Page.Visio" h="03CE54E1">Chaguo za Visio</text>
+		<text id="Page.Word" h="D263E6D0">Chaguo za Word</text>
+		<text id="Profile.Comment" h="3F85462D">Maoni</text>
+		<text id="Profile.Name" h="D18643E3">Jina</text>
+		<text id="Profile.NewName" h="5A67CE17">Maelezo Mafupi Mapya</text>
+		<text id="Progress" h="2F37A906">%1: %2% imekamilika</text>
+		<text id="RCmd.Convert.KeyTip" h="24ABE339">C</text>
+		<text id="RCmd.Convert.Name" h="3B5A05C5">Geuza kuwa PDF</text>
+		<text id="RCmd.Convert.SuperTip" h="1725521C">Geuza Waraka kuwa PDF</text>
+		<text id="RCmd.EditProfile.KeyTip" h="72F144BF">E</text>
+		<text id="RCmd.EditProfile.Name" h="19CBFB1E">Hariri Mipangilio</text>
+		<text id="RCmd.EditProfile.ScreenTip" h="19CBFB1E">Hariri Mipangilio</text>
+		<text id="RCmd.EditProfile.SuperTip" h="11200378">Hariri Mipangilio ya sasa ya ugeuzi wa waraka kuwa PDF. Maelezo mafupi asilia hayatabadilishwa.</text>
+		<text id="RCmd.ManageProfiles.KeyTip" h="BA28CEB7">M</text>
+		<text id="RCmd.ManageProfiles.Name" h="B559F46B">&amp;Simamia Maelezo Mafupi</text>
+		<text id="RCmd.ManageProfiles.ScreenTip" h="B3D65114">Simamia Maelezo Mafupi</text>
+		<text id="RCmd.ManageProfiles.SuperTip" h="0039EBFD">Inaonyesha kidadisi kusimamia orodha ya maelezo mafupi, Maelezo mafupi yanawezwa kukloniwa, kubadilishwa majina, kuondolwea , etc</text>
+		<text id="RCmd.Profiles.KeyTip" h="4544A2AB">P</text>
+		<text id="RCmd.Profiles.ScreenTip" h="D6837626">Maelezo mafupi yaliyopo</text>
+		<text id="RCmd.Profiles.SuperTip" h="2829A636">Inaonyesha maelezo mafupi ambayo yametumika kama chanzo cha mipangilio ya sasa.</text>
+		<text id="RCmd.SaveAsProfile.KeyTip" h="6E69F168">S</text>
+		<text id="RCmd.SaveAsProfile.Name" h="F338E347">Hifadhi Waraka Kama</text>
+		<text id="RCmd.SaveAsProfile.ScreenTip" h="F338E347">Hifadhi Waraka Kama</text>
+		<text id="RCmd.SaveAsProfile.SuperTip" h="1977811A">Inahifadhi mipangilio ya sasa kama maelezo mafupi mapya.</text>
+		<text id="RCmd.Setup.KeyTip" h="6E69F168">S</text>
+		<text id="RCmd.Setup.Name" h="9147CD71">Mipangilio</text>
+		<text id="RCmd.Setup.SuperTip" h="EFD54100">Sanidi Mipangilio ya Uundaji wa PDF</text>
+		<text id="RCmd.eMail.KeyTip" h="72F144BF">E</text>
+		<text id="RCmd.eMail.Name" h="8180E3CA">Unda PDF &amp;&amp; Barua pepe</text>
+		<text id="RCmd.eMail.SuperTip" h="B43480FF">Unda faili ya PDF kutoka kwa waraka wa sasa kisha itume kwa Barua Pepe</text>
+		<text id="Ribbon.Caption" h="4C8C428F">PDF-XChange</text>
+		<text id="Ribbon.Caption.Acro" h="10548B2B">PDF-XChange ya AcrPlot Pro</text>
+		<text id="Settings.Title" h="E0776D9E">Chaguo za PDF-XChange</text>
+		<text id="Settings.Title.AcroPlot" h="899B9FFA">Chaguo za PDF-XChange ya AcrPlot Pro</text>
+		<text id="Toolbar.Name" h="4C8C428F">PDF-XChange</text>
+		<text id="Toolbar.Name.Acro" h="10548B2B">PDF-XChange ya AcrPlot Pro</text>
+		<text id="TransitionProgress" h="9FF6C6E7">Inachakata Mipito</text>
+		<text id="U3DObjectProgress" h="4531AF6D">Inachakata violwa vya U3D Actify</text>
+		<text id="WebForms" h="CAE81AE2">Inachakata Fomu za Wavuti</text>
+		<text id="adv.compress3d" h="7BB049FD">Finyaza mito ya U3D (polepole)</text>
+		<text id="adv.docInfo" h="F0272E80">Geuza &amp;Maelezo ya Waraka</text>
+		<text id="adv.enable3d" h="DE910287">Ruhusu utambuzi wa Actify 3D</text>
+		<text id="adv.g1.title" h="818270A0">Chaguo za Hali ya Juu</text>
+		<text id="adv.g2.title" h="516D6797">Chaguo za Actify SFO</text>
+		<text id="adv.prompt" h="25DF82DF">&amp;Itisha Jina la Faili la PDF</text>
+		<text id="adv.removeAfterEmail" h="DDB35F39">Ondoa Faili ya PDF &amp;Baada ya Barua Pepe</text>
+		<text id="adv.run" h="0EDB56E0">&amp;Endesha Programu Chaguo-msingi ya Faili za PDF Baada ya Ugeuzi</text>
+		<text id="adv.save.before" h="C9BE1A86">&amp;Hifadhi Waraka Kabla ya Ugeuzi</text>
+		<text id="adv.save.toOrigin" h="F34DC54F">&amp;Hifadhi Waraka kwenye Kabrasha Asilia ya Waraka</text>
+		<text id="bkm.btn.clearAll" h="08DF5F04">&amp;Futa Zote</text>
+		<text id="bkm.btn.selectAll" h="CF8E2B6C">&amp;Teua Zote</text>
+		<text id="bkm.enable" h="5021B066">&amp;Zalisha Vialamisho kwenye Faili ya PDF Tokevu</text>
+		<text id="bkm.expandAll" h="9C0CA419">Pa&amp;nua Vialamisho Vyote</text>
+		<text id="bkm.g1.title" h="0E415522">Mitindo Iliyopo</text>
+		<text id="btn.clone" h="47D4FEC1">K&amp;loni</text>
+		<text id="btn.delete" h="9421FE90">&amp;Futa...</text>
+		<text id="btn.rename" h="8D2D4BFD">&amp;Badilisha Jina...</text>
+		<text id="dlg.addProfile" h="61A918CC">Ongeza/Hariri Maelezo Mafupi</text>
+		<text id="dlg.manageProfiles" h="CED5F01E">Kisimamizi Maelezo Mafupi</text>
+		<text id="excel.g1.title" h="CE5217C6">Laha Kugeuza</text>
+		<text id="excel.rb.active" h="B6F37C98">&amp;Laha Inayotumika Pekee</text>
+		<text id="excel.rb.range" h="CF13DFA5">Laha Kutoka kwa &amp;Masafa</text>
+		<text id="excel.rb.workbook" h="5619E7F2">Daftarikazi &amp;Yote</text>
+		<text id="forms.enable" h="3293C87D">Geuza Fomu za &amp;Wavuti</text>
+		<text id="forms.rev" h="8886F268">Geuza &amp;Marudio Dhulishi</text>
+		<text id="links.b.color" h="20E74546">&amp;Rangi ya Kingo:</text>
+		<text id="links.b.style" h="8CB0F062">&amp;Mtindo wa Kingo:</text>
+		<text id="links.b.type" h="F1E3B439">&amp;Aina ya Kingo:</text>
+		<text id="links.b.width" h="A7B7BD94">&amp;Upana wa Kingo:</text>
+		<text id="links.crossDoc" h="900A9DAB">Viungo kati ya Nyaraka</text>
+		<text id="links.crossRef" h="232E0A3E">Viungo Marejeo-mtambuko</text>
+		<text id="links.enable" h="1C059FA2">Zalisha Viungo kwenye PDF Tokevu</text>
+		<text id="links.ext" h="4649B6CA">Badilisha Kiendelezi cha Faili kuwa PDF</text>
+		<text id="links.footnote" h="4D696ED9">Viungo vya Tanbihi na Tanbihimwisho</text>
+		<text id="links.g1.title" h="5000B228">Geuza Viungo vya MS Office</text>
+		<text id="links.g2.title" h="3D4B6D6F">Mandhari ya Viungo</text>
+		<text id="links.g3.title" h="A6B53E0B">Viungo Kati ya Nyaraka</text>
+		<text id="links.relative" h="88BAD1C5">Julisha Waraka Lengwa kupitia Jina Husiani la Njia</text>
+		<text id="links.web" h="BAB40145">Viungo Tovuti</text>
+		<text id="page.adv" h="59A2B513">Hali ya Juu</text>
+		<text id="page.bookmarks" h="E2032460">Vialamisho</text>
+		<text id="page.excel" h="35C252B3">Chaguo za Excel</text>
+		<text id="page.forms" h="D263E6D0">Chaguo za Word</text>
+		<text id="page.links" h="6E16975C">Viungo</text>
+		<text id="page.powerpoint" h="12124956">Chaguo za PowerPoint</text>
+		<text id="page.visio" h="03CE54E1">Chaguo za Visio</text>
+		<text id="pp.bookmark" h="EF53BE72">Weka Kila Slaidi kama &amp;Kialamisho</text>
+		<text id="pp.transitions" h="204B92D3">Gueza &amp;Mpito wa Slaidi</text>
+		<text id="prof.l.comment" h="D41C404F">Ma&amp;oni:</text>
+		<text id="prof.l.name" h="09FAD31D">&amp;Jina:</text>
+		<text id="profile.manage.g1.title" h="C71AA825">Maelezo Mafupi Yaliopo</text>
+		<text id="visio.allPages" h="2DE2282D">Geuza Kurasa &amp;Zote</text>
+	</Strings>
+</Localization>

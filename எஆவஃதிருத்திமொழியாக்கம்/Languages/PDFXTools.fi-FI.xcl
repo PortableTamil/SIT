@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627201142">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXTools"/>
+	<Language eName="Finnish (Finland)" lName="suomi" code="fi-FI" R2L="false"/>
+	<Module name="PDFXTools" namespace="pdft" version="7.0.325.10"/>
+	<Strings>
+		<text id="accessed" h="45570324">Käsitelty</text>
+		<text id="act.askForSourceFiles" h="2E856073">Valitse syöttötiedostot</text>
+		<text id="act.askForSourceFiles.desc" h="3759C068">Tarjoaa mahdollisuuden määrittää syöttötiedostot työkalulle.</text>
+		<text id="act.bm.ExportActType_GotoR" h="41E1955E">Kirjanmerkit 'Siirry etäälle' -toiminnoilla</text>
+		<text id="act.bm.ExportActType_JS" h="31D8CD1A">Kirjanmerkit, joilla on JavaScript-toimintoja</text>
+		<text id="act.bm.ExportActType_Launch" h="38537D36">Kirjanmerkit 'Avaa tiedosto' -toiminnoilla</text>
+		<text id="act.bm.ExportActType_Page" h="05B4C93C">Kirjanmerkit 'Siirry sivulle' -toiminnoilla</text>
+		<text id="act.bm.ExportActType_URI" h="F39B51AE">Kirjanmerkit 'Avaa WEB-linkki' -toiminnoilla</text>
+		<text id="act.bm.ExportActTypesAll" h="B8B21253">Kirjanmerkit, joilla on kaikenlaisia ​​hyperlinkkitoimintoja</text>
+		<text id="act.bm.bmToExport" h="28D4BD73">Vietävät kirjanmerkit</text>
+		<text id="act.bm.export" h="F3EE1781">Vie kirjanmerkit</text>
+		<text id="act.bm.export.desc" h="1403C5AD">Vie kaikki kirjanmerkit dokument(e)ista</text>
+		<text id="act.bm.exportAll" h="8882D072">Vie kaikki</text>
+		<text id="act.bm.exportHyperlink" h="8AB29747">Vie kirjanmerkit, jotka suorittavat hyperlinkkitoimintoja:</text>
+		<text id="act.bm.exportToTextFile" h="01135DA3">Vie kirjanmerkit tekstitiedostoon</text>
+		<text id="act.bm.exportToTextFile.desc" h="7C68D13E">Vie kirjanmerkkien rakenteen tekstitiedostona</text>
+		<text id="act.bm.fromTextFile" h="CA5176DD">Tuo kirjanmerkit tekstitiedostosta</text>
+		<text id="act.bm.fromTextFile.desc" h="EE697E49">Luo kirjanmerkit tekstitiedostosta. Huomaa, että tekstitiedostomuodon tulisi noudattaa 'Vie kirjanmerkit tekstitiedostoon' -ominaisuuden sääntöjä.</text>
+		<text id="act.bm.generateFromText" h="383A949B">Luo kirjanmerkit sivun tekstistä</text>
+		<text id="act.bm.generateFromText.desc" h="6DDE7415">Luo kirjanmerkit nykyisestä asiakirjan tekstistä käyttämällä annettuja kirjasintyylejä ja parametreja.</text>
+		<text id="act.bm.import" h="DC7F6AD5">Tuo kirjanmerkit</text>
+		<text id="act.bm.import.desc" h="A5E69BAE">Tuo kirjanmerkit dokumenttiin aiemmin viedystä tiedostosta.</text>
+		<text id="act.bm.toTOC" h="2B3E9BF1">Muodosta sisällysluettelo</text>
+		<text id="act.bm.toTOC.desc" h="E92DA1A8">Luo sisällysluettelon kirjanmerkkien rakenteen ja viitattujen sivujen perusteella.</text>
+		<text id="act.deleteComments.all" h="E8642222">Poista kaikki kommentit</text>
+		<text id="act.deleteComments.all.desc" h="818B531A">Poistaa kaikki kommentit dokumentista.</text>
+		<text id="act.deleteComments.form" h="37ECB4B5">Poista lomakekenttiä</text>
+		<text id="act.deleteComments.form.desc" h="C5D21570">Poistaa lomakekentät asiakirjasta.</text>
+		<text id="act.deleteComments.grp" h="73395EF1">Valitse sivut, joista kommentteja poistetaan:</text>
+		<text id="act.deleteComments.lbl" h="605AA315">Valitse poistettavien kommenttien tyyppi:</text>
+		<text id="act.deleteComments.links" h="CC8F1411">Poista linkkejä</text>
+		<text id="act.deleteComments.links.desc" h="66D48AF5">Poistaa linkit asiakirjasta.</text>
+		<text id="act.deleteComments.markup" h="EA5127FB">Poista Markup-merkintöjä</text>
+		<text id="act.deleteComments.markup.desc" h="80CD5AA0">Poistaa merkintähuomautukset asiakirjasta.</text>
+		<text id="act.deleteComments.weblinks" h="87C8439E">Poista WEB-linkkejä</text>
+		<text id="act.deleteComments.weblinks.desc" h="158E179F">Poistaa WEB-linkit dokumentista.</text>
+		<text id="act.deletePages.dep.enable.lbl" h="6D295CF8">Poista vain tyhjiä sivuja</text>
+		<text id="act.deletePages.lbl" h="75141561">Poistettavat sivualueet</text>
+		<text id="act.discardPDFStd" h="E608B980">Hylkää määrätty PDF-standardi</text>
+		<text id="act.discardPDFStd.desc" h="947EF232">Poistaa määrätyt PDF-standarditiedot, kuten PDF/X, PDF/A, PDF/E jne.</text>
+		<text id="act.doc.addBackground" h="8B83981C">Sivun taustan muuttaminen</text>
+		<text id="act.doc.addBackground.desc" h="8C8F71BF">Määrittää taustan sivun sisällön taakse.</text>
+		<text id="act.doc.addBatesNumbering" h="5987A707">Lisää Bates-numerointi</text>
+		<text id="act.doc.addBatesNumbering.desc" h="19058FA5">Määrittää dokumentteihin Bates-numeroinnin, joka helpottaa niiden tunnistamista ja hakua, yms.</text>
+		<text id="act.doc.addDigSign" h="97DD789F">Lisää digitaalinen allekirjoitus</text>
+		<text id="act.doc.addDigSign.desc" h="BB76CA39">Lisää ja allekirjoittaa uuden allekirjoituskentän käyttäen sertifioitua digitaalista tunnusta.</text>
+		<text id="act.doc.addHeaderAndFooter" h="71EBAC62">Lisää ylä- ja alatunniste</text>
+		<text id="act.doc.addHeaderAndFooter.desc" h="8697B047">Lisää määritetyille sivuille ylä- ja alatunnisteen. Tunnisteet voivat sisältää päiväyksen, automaattisen sivunumeroinnin, otsikon ja tekijän, jne.</text>
+		<text id="act.doc.addTimeStamp" h="896D61BF">Lisää aikaleima</text>
+		<text id="act.doc.addTimeStamp.desc" h="2FDF1628">Lisää dokumenttitason aikaleiman, joka vahvistaa koko PDF-tiedoston tarkan sisällön aikaleiman lisäyshetkellä. Se on saatu viralliselta aikaleima-valtuuttajalta.</text>
+		<text id="act.doc.addWatermarks" h="AA010705">Lisää vesileimoja</text>
+		<text id="act.doc.addWatermarks.desc" h="A89FAD30">Lisää tekstiä/kuvan sivulla olemassa olevan sisällön eteen tai taakse.</text>
+		<text id="act.doc.certify" h="C2AFA656">Sertifioi dokumentti</text>
+		<text id="act.doc.certify.desc" h="402B64F2">Suojaa PDF-dokumentin sertifioimalla sen sertifioidulla allekirjoituskentällä.</text>
+		<text id="act.doc.changeProps" h="89CBAD2F">Dokumentin ominaisuuksien muuttaminen</text>
+		<text id="act.doc.changeProps.desc" h="40BD1FE7">Määrittää dokumentin ominaisuudet: otsikko, tekijä, aihe, avainsanat jne.</text>
+		<text id="act.doc.clearDigSign" h="7E6883B8">Tyhjennä digitaaliset allekirjoitukset</text>
+		<text id="act.doc.clearDigSign.desc" h="E1CDD425">Poistaa kaikki digitaaliset allekirjoitukset ja jos mahdollista, jättää tyhjät allekirjoituskentät.</text>
+		<text id="act.doc.convertToPDFA" h="86709E15">Muunna PDF/A-muotoon</text>
+		<text id="act.doc.convertToPDFA.desc" h="89A9625A">Muokkaa dokumentit PDF/A-standardin mukaisiksi pitkäaikaista arkistointia varten.</text>
+		<text id="act.doc.convertToPDFX" h="1D70370D">Muunna PDF/X-muotoon</text>
+		<text id="act.doc.convertToPDFX.desc" h="BB077FA6">Tekee PDF/X-standardin mukaiset asiakirjat tulostustietojen vaihtoa varten.</text>
+		<text id="act.doc.createWeblinks" h="F68EDD51">Luo WEB-linkkejä</text>
+		<text id="act.doc.createWeblinks.desc" h="6971A17D">Luo WEB-linkkejä dokumentin tekstisisällöstä.</text>
+		<text id="act.doc.cropPages" h="54A95B63">Rajaa sivuja</text>
+		<text id="act.doc.cropPages.desc" h="9F01A5F4">Säätää sivun näkyvää aluetta, muuttaa tai poistaa sivun/sivujen valkoiset reunukset, määrittää sivun ruutuja.</text>
+		<text id="act.doc.deletePages" h="E5284839">Poista sivuja</text>
+		<text id="act.doc.deletePages.desc" h="0EA6D9E9">Poistaa valitun sivualueen asiakirjasta.</text>
+		<text id="act.doc.duplicatePages" h="14C45200">Monista sivuja</text>
+		<text id="act.doc.duplicatePages.desc" h="0FD26A6C">Monistaa PDF-dokumentin  sivuja</text>
+		<text id="act.doc.enhanceScannedPages" h="0A810C6E">Paranna skannattuja sivuja</text>
+		<text id="act.doc.enhanceScannedPages.desc" h="95589020">Parantaa skannattuja kuvia PDF-dokumenteissa edistäen lukemista ja pienentäen tiedostokokoa.</text>
+		<text id="act.doc.exportToDOCX" h="D89F515F">Vie PDF Microsoft Word -asiakirjaksi</text>
+		<text id="act.doc.exportToDOCX.desc" h="D5E45C48">Vie PDF-dokumentit Microsoft Word -asiakirjoiksi (*.docx).</text>
+		<text id="act.doc.exportToImages" h="6DC3C315">Vie PDF kuviksi</text>
+		<text id="act.doc.exportToImages.desc" h="0EA3EE6B">Vie yhdestä tai useammasta PDF-tiedostosta sivuja eri rasterikuvamuotoihin, kuten JPEG, PNG, TIFF jne.</text>
+		<text id="act.doc.exportToPPTX" h="E673A7B8">Vie PDF Microsoft PowerPoint -esitykseksi</text>
+		<text id="act.doc.exportToPPTX.desc" h="E0A7703F">Vie PDF-dokumentit Microsoft PowerPoint -esityksiksi (*.pptx).</text>
+		<text id="act.doc.exportToTXT" h="29DDD177">Vie PDF Vain teksti -muotoon</text>
+		<text id="act.doc.exportToTXT.desc" h="3D8783C4">Vie PDF-dokumentit Vain teksti -tiedostoiksi (*.txt).</text>
+		<text id="act.doc.exportToXLSX" h="A31C131A">Vie PDF Microsoft Excel -taulukkoon</text>
+		<text id="act.doc.exportToXLSX.desc" h="66CD86D0">Vie PDF-dokumentit Microsoft Excel -tiedostoon (*.xlsx).</text>
+		<text id="act.doc.extractImages" h="4CF9FEB6">Poimi PDF-tiedoston kuvat</text>
+		<text id="act.doc.extractImages.desc" h="454EBA71">Etsii dokumentista rasterikuvat ja poimii ne.</text>
+		<text id="act.doc.extractPages" h="7AE73EC1">Poimi sivuja</text>
+		<text id="act.doc.extractPages.desc" h="8FCE1EA7">Poimii määritetyt sivut uudeksi dokumentiksi.</text>
+		<text id="act.doc.insertEmptyPages" h="3779032F">Lisää tyhjiä sivuja</text>
+		<text id="act.doc.insertEmptyPages.desc" h="65380D33">Lisää tyhjiä sivuja asiakirjaan.</text>
+		<text id="act.doc.insertPages" h="6B486B45">Lisää sivuja</text>
+		<text id="act.doc.insertPages.desc" h="C8087FC8">Lisää sivuja asiakirjaan toisesta asiakirjasta.</text>
+		<text id="act.doc.ocrPages" h="D2A189BC">Sivujen OCR-tekstintunnistus</text>
+		<text id="act.doc.ocrPages.desc" h="517C34C3">Skannaa kuvasivujen tekstiä  ja tunnistaa tekstimerkit. Lisää näkyvän tason, jossa tekstiä voi valita, etsiä jne.</text>
+		<text id="act.doc.optimize" h="854E1BE4">Dokumentin optimointi</text>
+		<text id="act.doc.optimize.desc" h="988BB3B9">Optimoi dokumentin pienentääkseen PDF-tiedoston kokoa.</text>
+		<text id="act.doc.overlayDoc" h="A113E021">Kerros-PDF</text>
+		<text id="act.doc.overlayDoc.desc" h="8AC5B664">Kerrosta PDF-dokumentit toisen PDF-dokumentin kanssa.</text>
+		<text id="act.doc.pageNumbering" h="21AF4605">Sivunumerointi</text>
+		<text id="act.doc.pageNumbering.desc" h="A2BA72A1">Lisää sivuille numerot.</text>
+		<text id="act.doc.pageTransitions" h="E9BE43D0">Aseta sivusiirtymät</text>
+		<text id="act.doc.pageTransitions.desc" h="17B37A25">Muuttaa sivun siirtymiä koko näytön tilassa.</text>
+		<text id="act.doc.printDocument" h="4F3750AE">Tulosta dokumentti</text>
+		<text id="act.doc.printDocument.desc" h="2523AB5C">Tulostaa syötedokumentin.</text>
+		<text id="act.doc.removeBackground" h="7C270CB4">Poista sivun tausta</text>
+		<text id="act.doc.removeBackground.desc" h="17700648">Poistaa sivuilta mukautetut taustat ja palauttaa valkoisen oletustaustan.</text>
+		<text id="act.doc.removeBatesNumbering" h="901F5ABD">Poista Bates-numerointi</text>
+		<text id="act.doc.removeBatesNumbering.desc" h="E4FBEB3C">Poistaa Bates-numeroinnin.</text>
+		<text id="act.doc.removeHeaderAndFooter" h="11E8A996">Poista ylä- ja alatunniste</text>
+		<text id="act.doc.removeHeaderAndFooter.desc" h="E1CC0743">Poistaa kaikki olemassa olevat ylä- ja alatunnisteet.</text>
+		<text id="act.doc.removeWatermarks" h="93F16CE2">Poista vesileimat</text>
+		<text id="act.doc.removeWatermarks.desc" h="629EC84B">Poistaa kaikki vesileimat.</text>
+		<text id="act.doc.replacePages" h="1311083C">Korvaa sivuja</text>
+		<text id="act.doc.replacePages.desc" h="8C5176DA">Korvaa dokumentin sivuja.</text>
+		<text id="act.doc.resizePages" h="8A5C31F1">Muuta sivun kokoa</text>
+		<text id="act.doc.resizePages.desc" h="8F74355D">Suurentaa/pienentää sivujen kokoa, skaalaa valinnaisesti samalla sivun sisällön.</text>
+		<text id="act.doc.rotatePages" h="CBD82045">Kierrä sivuja</text>
+		<text id="act.doc.rotatePages.desc" h="00CCD6AD">Kiertää sivuja myötäpäivään tai vastapäivään 90 asteen välein.</text>
+		<text id="act.doc.setSecurity" h="09A28BF5">Suojaa dokumentti</text>
+		<text id="act.doc.setSecurity.desc" h="AF6D0BF7">Suojaa PDF-dokumentin asettamalla salasanan avaamiseen ja/tai dokumentin sisällön muuttamiseen. Sallii suojausrajoitusten muuttamisen.</text>
+		<text id="act.doc.splitPages" h="2648812F">Jaa sivuja</text>
+		<text id="act.doc.splitPages.desc" h="4FA35C77">Jakaa PDF-dokumentin sivuja.</text>
+		<text id="act.doc.summarizeComments" h="2233C1CD">Yhteenveto kommenteista</text>
+		<text id="act.doc.summarizeComments.desc" h="8EA1DEF5">Luo yhteenvedon kaikista PDF-dokumentin kommenteista.</text>
+		<text id="act.filesToPDF" h="A382536E">Muuntaa tiedostoja PDF-tiedostoksi</text>
+		<text id="act.filesToPDF.desc" h="40567B4F">Muuntaa tuettuja muotoja olevat lähdetiedostot PDF:ksi.</text>
+		<text id="act.flags.arrdoc" h="F5023560">asiakirjajoukko</text>
+		<text id="act.flags.arrfile" h="AF02951A">tiedostojoukko</text>
+		<text id="act.flags.arrimage" h="AD43894A">kuvajoukko</text>
+		<text id="act.flags.arrname" h="A46C1DFE">nimijoukko</text>
+		<text id="act.flags.doc" h="0417E245">dokumentti</text>
+		<text id="act.flags.file" h="AFFADF08">tiedosto</text>
+		<text id="act.flags.image" h="6F479465">kuvat</text>
+		<text id="act.flags.name" h="28F021B5">nimi</text>
+		<text id="act.flags.nothing" h="C06D6B01">ei mitään</text>
+		<text id="act.flattenComments" h="CBA1AA18">Tiivistä kommentit</text>
+		<text id="act.flattenComments.desc" h="20A41E96">Muuntaa merkintöjä perussisältökohteiksi.</text>
+		<text id="act.group.PDFStandard" h="E51FAF25">PDF-standardi</text>
+		<text id="act.group.advanced" h="59A2B513">laajennettu </text>
+		<text id="act.group.bookmarks" h="E2032460">Kirjanmerkit</text>
+		<text id="act.group.comments" h="FA5EB905">Kommentit</text>
+		<text id="act.group.createPDF" h="ACF7EBD1">Luo PDF</text>
+		<text id="act.group.exportPDF" h="4AE54AB5">Vie PDF</text>
+		<text id="act.group.inputOutput" h="178214DA">Tulo/lähtö</text>
+		<text id="act.group.optimizePDF" h="E369C144">Optimoi PDF</text>
+		<text id="act.group.pages" h="47B1CB74">Sivut</text>
+		<text id="act.group.protection" h="B7EE190B">Suojaa</text>
+		<text id="act.imagesToPDF" h="B0C7E05C">Luo  PDF kuvista</text>
+		<text id="act.imagesToPDF.desc" h="43AF6AF6">Luo yhden PDF-dokumentin yhdestä tai useammasta rasterikuvasta.</text>
+		<text id="act.saveDocs" h="07936326">Tallenna dokumentit</text>
+		<text id="act.saveDocs.desc" h="32932EE9">Tallentaa dokumentteihin tehdyt muutokset tai uudet luodut tiedostot.</text>
+		<text id="act.saveImages" h="2EBC4084">Tallenna kuvat</text>
+		<text id="act.saveImages.desc" h="3A5C69E3">Tallentaa rasterikuvat levylle kuvatiedostoiksi.</text>
+		<text id="act.scan.showlist" h="18D7490A">Näytä kuvaluettelo skannauksen jälkeen</text>
+		<text id="act.scanToImages" h="3C7180B5">Tuo kuvia skannerilta</text>
+		<text id="act.scanToImages.desc" h="E0F7A297">Skannaa paperidokumentin ja luo skannauksesta kuvamuotoisen PDF-tiedoston.</text>
+		<text id="act.sendMail" h="1F56479B">Lähetä postia</text>
+		<text id="act.sendMail.desc" h="18F585BE">Lähettää tiedostot sähköpostilla määrättyyn osoitteeseen.</text>
+		<text id="act.showFiles" h="7E16D9C8">Näytä tiedostot</text>
+		<text id="act.showFiles.desc" h="5A081173">Avaa tiedostot sisältävän kansion, tai käynnistää jokaisen tiedoston oletuskäsittelyohjelman.</text>
+		<text id="act.splitMergeDocs" h="8343835D">Jaa/Yhdistä dokumentteja</text>
+		<text id="act.splitMergeDocs.desc" h="B253B87D">Yhdistää kaikki lähdetiedostot yhdeksi tai jakaa ne uusiksi PDF-tiedostoiksi, automaattisesti tai manuaalisesti.</text>
+		<text id="act.textToPDF" h="ECE46B63">Luo  PDF tekstistä</text>
+		<text id="act.textToPDF.desc" h="F9A66354">Luo yhden PDF-dokumentin yhdestä tai useammasta tekstitiedostosta.</text>
+		<text id="act.warn.title" h="76F57ED1">Varoitukset:</text>
+		<text id="actCloseBtnTip" h="087A8145">Napsauta ja poista toiminto luettelosta</text>
+		<text id="actOnOffUITip" h="18682AEB">Napsauta vaihtaaksesi toiminnon On/Off -tilaa ajon aikana</text>
+		<text id="actionInfo.defaultDesc" h="845515AD">Valitse edellä olevasta luettelosta työkalu, jonka tiedot haluat nähdä.</text>
+		<text id="actionInfo.defaultTitle" h="375B13FE">Valitse toiminto...</text>
+		<text id="addbookmark.chk" h="C7B70DCB">Lisää päätason kirjanmerkki tiedostonimineen</text>
+		<text id="afsf.choosefiles" h="BAE0C7B7">Valitse tiedostot</text>
+		<text id="afsf.choosefiles.editimage" h="56B4E1F8">Muokkaa kuvaa</text>
+		<text id="afsf.click2browse" h="ABC462F9">Napsauta tästä selataksesi...</text>
+		<text id="afsf.clicktoedit" h="56B17D30">Esikatsele ja muokkaa tallennettuja tiedostonimiä napsauttamalla</text>
+		<text id="afsf.clicktoremove" h="CAB117DD">Poista tallennetut tiedostonimet napsauttamalla</text>
+		<text id="afsf.dlg.editAvail" h="70C3C982">Käytettävissä olevat tiedostosuodattimet</text>
+		<text id="afsf.err.filelistempty" h="6A812F17">Tiedostoluettelo on tyhjä</text>
+		<text id="afsf.err.invalidsymbols" h="D036E0B4">Rivillä %1 on virheellisiä tiedostosymboleja</text>
+		<text id="afsf.listinfo" h="CEB468D3">Eriikoistiedosto laajennuksella &lt;b&gt;*.pdtfl &lt;/b&gt;.Tämän tiedoston pitäisi sisältää tiedostonimien luettelo:C:	iedostonimi1C:	iedostonimi2...C: 	iedostonimiN</text>
+		<text id="afsf.prop.choose.name" h="758F38E8">Valitse toimintosuodattimet</text>
+		<text id="afsf.prop.choose.tip" h="758F38E8">Valitse toimintosuodattimet</text>
+		<text id="afsf.prop.choose.title" h="758F38E8">Valitse toimintosuodattimet</text>
+		<text id="afsf.prop.manage.name" h="1B8E7007">Mukautetut suodattimet</text>
+		<text id="afsf.prop.manage.tip" h="1B8E7007">Mukautetut suodattimet</text>
+		<text id="afsf.prop.manage.title" h="1B8E7007">Mukautetut suodattimet</text>
+		<text id="afsf.selectfolder" h="3F89B943">Valitse kansio:</text>
+		<text id="afsf.sort" h="230935DB">Lajittelu:</text>
+		<text id="afsf.sort.creation" h="AEDBE5EB">luontipäivän mukaan</text>
+		<text id="afsf.sort.modification" h="B802AF12">muokkauspäivän mukaan</text>
+		<text id="afsf.sort.name" h="B3FDD284">nimen mukaan</text>
+		<text id="afsf.sort.none" h="004FEF2B">ei mitään</text>
+		<text id="afsf.sort.size" h="75DE1B35">koon mukaan</text>
+		<text id="afsf.storefiles" h="06AB1A20">Tallenna valitut tiedostonimet myöhempää käyttöä varten</text>
+		<text id="afsf.subfolders" h="EAAFE63E">Etsi alikansioista</text>
+		<text id="afsf.usestoredfiles" h="4A3B84D0">Käytä tallennettuja tiedostonimiä aiemmasta suorituksesta</text>
+		<text id="afsf.warn.concrete.ext" h="6634FBD4">Tiedoston %1 pääte ei ole yhteensopiva 'Valitse syöttötiedostot' -toimintoparametrien kanssa.</text>
+		<text id="afsf.warn.ext" h="16DBB55E">Tiedostopääte ei ole yhteensopiva "Valitse syöttötiedostot" toimintoparametrien kanssa.</text>
+		<text id="afsf.warn.filescontainer" h="FF3986E4">Vastaavien tiedostojen säilöä ei voi avata:
+&lt;b&gt;%1&lt;/b&gt;</text>
+		<text id="afsf.warn.listext" h="6B1988CB">Tiedostoluettelossa on oltava &lt;b&gt;*.pdtfl&lt;/b&gt; pääte</text>
+		<text id="align.bottom" h="08F4AB6F">Ala</text>
+		<text id="align.center" h="CBEFB4D0">Keskelle</text>
+		<text id="align.left" h="8CEAA299">Vasen</text>
+		<text id="align.middle" h="D27F520F">Keskelle</text>
+		<text id="align.right" h="2D8A4EE6">Oikea</text>
+		<text id="align.top" h="249A2BBD">Ylä</text>
+		<text id="alignoverlay" h="B7EB1785">Tasaa kerrossivut suhteessa uuden dokumentin sivuihin:</text>
+		<text id="another.ovrfile.title" h="AEFCE724">Valitse toinen kerrostiedosto</text>
+		<text id="askpwd.chk" h="24A0ED40">Älä kysy salasanoja</text>
+		<text id="askpwd.tip" h="3C6E1749">Kun tämä asetus on käytössä, kaikki salasanalla suojatut tiedostot, jotka eivät vastaa &lt;b&gt;Ennalta määritettyjä salasanoja&lt;/b&gt; salasanasäilössä, ohitetaan käsittelyn aikana.</text>
+		<text id="attributes" h="71F6D064">Ominaisuudet</text>
+		<text id="availActionsList" h="477E6AC0">Toimintokirjasto</text>
+		<text id="batchproc.chk" h="1194AD9C">Eräajotila</text>
+		<text id="batchproc.tip" h="8BED8A8A">• Kun tämä asetus on käytössä, kukin työkalutoiminto käsittelee kaikki syöteobjektit (tiedostot, skannatut kuvat jne.), ennen kuin siirrytään seuraavaan toimintoon.• Kun tämä asetus on poistettu käytöstä, kaikki työkalutoimet käsittelevät syöteobjektit ennen seuraavan syöteobjektin käsittelyä. Tämä voi auttaa vähentämään muistikuormitusta ja levyn käyttöä. Työkalut, joiden tarkoituksena on yhdistää syöteobjektit PDF-muotoon, eivät välttämättä toimi odotetusti, koska kukin syöteobjekti käsitellään erillään muista kohteista.</text>
+		<text id="bmnamesAndDoc.cmb" h="019AADA7">Lähdedokumentin ja kirjanmerkkien nimet</text>
+		<text id="bmnamesDoc.cmb" h="D7143742">Lähdedokumentin nimi</text>
+		<text id="bmnamesName.lbl" h="C761CCE0">Luo tiedostonimi kohteesta:</text>
+		<text id="bmnamesNames.cmb" h="DBDE73F8">Kirjanmerkkien nimet</text>
+		<text id="bookmarks.delimiter.lbl" h="A4269065">Kenttäerotin:</text>
+		<text id="bookmarks.invalidSeparator" h="44875D1F">Ominaisuuksien erotin ei saa olla tyhjä merkkijono, sisältää aakkosnumeerisia merkkejä tai välejä, eikä se saa olla jokin seuraavista merkeistä: @ #: { } </text>
+		<text id="bookmarks.log.bookmarksNotFound" h="184C696B">Kirjanmerkkejä ei löytynyt asiakirjasta.</text>
+		<text id="bookmarks.log.bookmarksNotFoundTOC" h="E3250FA7">Kirjanmerkkejä ei löytynyt asiakirjasta. Ohjelma luo tyhjän sisällysluettelon.</text>
+		<text id="bookmarks.log.txtSrcNotFound" h="52338723">Asiakirjaan ei voi tuoda kirjanmerkkejä. Kirjanmerkkien määrittelytiedostoa '%1' ei löytynyt.</text>
+		<text id="bookmarks.sourcefiletxt.lbl" h="8C896EF2">Valitse tekstitiedosto, joka sisältää kirjanmerkkien määritelmän:</text>
+		<text id="bookmarks.sourcefilexcbkm.lbl" h="20DDBCE7">Valitse kirjanmerkkien vientitiedosto:</text>
+		<text id="bookmarks.sourcefoldertxt.info" h="9C858B7C">Jokaiselle syöttöasiakirjan tekstitiedostolle, jolla on sama nimi, valitaan kirjanmerkkien määritelmälähdetiedosto.</text>
+		<text id="bookmarks.sourcefoldertxt.lbl" h="E5CB01F7">Valitse kansio, joka sisältää kirjanmerkkien määritelmien tiedostoja:</text>
+		<text id="bookmarks.sourcefolderxcbkm.info" h="2F8C4CA0">Jokaiselle syöttöasiakirjan kirjanmerkkien vientitiedostolle valitaan saman niminen kirjanmerkin määritelmälähdetiedosto.</text>
+		<text id="bookmarks.sourcefolderxcbkm.lbl" h="0E50F0BA">Valitse kansio, joka sisältää kirjanmerkkien vientitiedostot:</text>
+		<text id="btn.delete" h="D8FE3F70">Poista</text>
+		<text id="btn.edit" h="621534A3">Muokkaa..</text>
+		<text id="byhoriz" h="AE80ABA7">Vaakasuuntaan:</text>
+		<text id="byvert" h="138F572B">Pystysuoraan:</text>
+		<text id="chk.savepwd" h="2DACA98E">Tallenna salasana myöhempää käyttöä varten</text>
+		<text id="choose.file" h="D8D81DA5">Valitse tiedosto</text>
+		<text id="chooseFiles.chooseForPreview" h="B4BD25C6">Valitse esikatseltava kohde.</text>
+		<text id="chooseFiles.fromScanner" h="BDBDAE44">Kuva skannerilta</text>
+		<text id="chooseFiles.scansubfolders" h="05971C7B">Haluatko lisätä alikansion tiedostot valittuun kansioon?</text>
+		<text id="chooseFiles.unknownImageType" h="18901815">Tuntematon kuvatyyppi.</text>
+		<text id="choosefiles.title" h="2E856073">Valitse syöttötiedostot</text>
+		<text id="choosefiles.warning" h="88E4DD69">Lisää luetteloon joitakin tiedostoja.</text>
+		<text id="choosestd.lbl" h="F999AF4C">Valitse hylättävä PDF-standardi:</text>
+		<text id="choosetool.caption" h="F368DC49">Valintatyökalu</text>
+		<text id="choosetools.export.caption" h="89168619">Valitse vientityökalut</text>
+		<text id="choosetools.import.caption" h="4D9B8134">Valitse tuontityökalut</text>
+		<text id="ck.all" h="65CCA5D0">Sisällytä 'Kaikki tiedostot (*.*)' suodin</text>
+		<text id="clonetoolname.lbl" h="E63F45FA">Anna kloonatun työkalun nimi:</text>
+		<text id="cmd.actionInfoPane" h="BE3FF2AC">Toimintojen tietoruutu</text>
+		<text id="cmd.actionInfoPane.tip" h="EA4CDC04">Näytä/Piilota toimintojen tietoruutu.</text>
+		<text id="cmd.addFavorites" h="253AA8C4">Lisää suosikkeihin</text>
+		<text id="cmd.addFavorites.tip" h="D0494D1D">Lisää työkalu suosikkeihin</text>
+		<text id="cmd.availAct.append" h="44CFD997">Liitä -toiminto</text>
+		<text id="cmd.availActionsPane" h="70AE9683">Toimintokirjasto</text>
+		<text id="cmd.availActionsPane.tip" h="EE8A6FE7">Näytä/Piilota toimintojen kirjastoruutu.</text>
+		<text id="cmd.catlist.add" h="8E2EE8C1">Lisää</text>
+		<text id="cmd.catlist.add.tip" h="352D549C">Lisää uusi työkaluluokka</text>
+		<text id="cmd.catlist.copyID" h="76D03E52">Kopioi luokan tunniste</text>
+		<text id="cmd.catlist.copyID.tip" h="4D528776">Kopioi luokan tunniste leikepöydälle.</text>
+		<text id="cmd.catlist.delete" h="D8FE3F70">Poista</text>
+		<text id="cmd.catlist.delete.tip" h="F996D3A3">Poista valittu luokka</text>
+		<text id="cmd.catlist.rename" h="CF7E2A12">Nimeä uudelleen</text>
+		<text id="cmd.catlist.rename.tip" h="853B01D0">Nimeä valittu luokka uudelleen</text>
+		<text id="cmd.choosetools.checkAll" h="1ED93781">Valitse kaikki</text>
+		<text id="cmd.choosetools.checkAll.tip" h="5C10CA59">Valitse kaikki työkalut.</text>
+		<text id="cmd.choosetools.collapseAll" h="84E09D66">Tiivistä kaikki</text>
+		<text id="cmd.choosetools.collapseAll.tip" h="4B0945EA">Tiivistä kaikki laajennetut kohteet.</text>
+		<text id="cmd.choosetools.expandAll" h="6DA5A467">Laajenna kaikki</text>
+		<text id="cmd.choosetools.expandAll.tip" h="B8DEF87E">Laajenna kaikki tiivistetyt kohteet.</text>
+		<text id="cmd.choosetools.uncheckAll" h="5D53AA8D">Poista kaikki valinnat</text>
+		<text id="cmd.choosetools.uncheckAll.tip" h="E0FE40A8">Poista työkaluvalinnat.</text>
+		<text id="cmd.close" h="BFF0422C">Sulje muokkaus</text>
+		<text id="cmd.close.tip" h="803D7B54">Kysy muutosten tallennus ennen muokkauksen lopettamista.</text>
+		<text id="cmd.collapseAll" h="84E09D66">Supista kaikki</text>
+		<text id="cmd.collapseAll.tip" h="4B0945EA">Supista kaikki laajennetut kohteet.</text>
+		<text id="cmd.continue" h="A5F0062A">Jatka</text>
+		<text id="cmd.continue.tip" h="449BD617">Jatka suorittamista.</text>
+		<text id="cmd.copyToolID" h="29B6ACF3">Kopioi työkalun tunniste</text>
+		<text id="cmd.copyToolID.tip" h="C84C435C">Kopioi työkalun tunniste leikepöydälle.</text>
+		<text id="cmd.createFld" h="EDCA1553">Luo</text>
+		<text id="cmd.createFld.tip" h="0C2549D2">Luo kansion valvonta.</text>
+		<text id="cmd.delete" h="D8FE3F70">Poista</text>
+		<text id="cmd.delete.tip" h="1645B116">Poista valittu työkalu.</text>
+		<text id="cmd.deleteAction" h="D8FE3F70">Poista</text>
+		<text id="cmd.deleteAction.tip" h="8D3F7647">Poista valittu toiminto.</text>
+		<text id="cmd.deleteFld" h="D8FE3F70">Poista</text>
+		<text id="cmd.deleteFld.tip" h="FE6D13BD">Poista valittu valvonta.</text>
+		<text id="cmd.disableFld" h="3F68363A">Poista käytöstä</text>
+		<text id="cmd.disableFld.tip" h="0002F9EA">Poista käytöstä valittu valvonta.</text>
+		<text id="cmd.docsList.collapseAll" h="84E09D66">Supista kaikki</text>
+		<text id="cmd.docsList.collapseAll.tip" h="4B0945EA">Supista kaikki laajennetut kohteet.</text>
+		<text id="cmd.docsList.delete" h="D8FE3F70">Poista</text>
+		<text id="cmd.docsList.delete.tip" h="AFC734F6">Poista valitut kohteet luettelosta.</text>
+		<text id="cmd.docsList.expandAll" h="6DA5A467">Laajenna kaikki</text>
+		<text id="cmd.docsList.expandAll.tip" h="B8DEF87E">Laajenna kaikki supistetut kohteet.</text>
+		<text id="cmd.docsList.invertPagesSel" h="50358D1F">Käännä sivujen valinta</text>
+		<text id="cmd.docsList.invertPagesSel.tip" h="D48EAFF2">Käännä dokumentin sivujen valinta.</text>
+		<text id="cmd.docsList.redo" h="E6E48291">Toista</text>
+		<text id="cmd.docsList.redo.tip" h="D864EFC4">Toista aiemmin kumottu toiminto.</text>
+		<text id="cmd.docsList.rename" h="CF7E2A12">Nimeä uudelleen</text>
+		<text id="cmd.docsList.rename.tip" h="D13799F6">Nimeä uudelleen valittu dokumentin kohde.</text>
+		<text id="cmd.docsList.selectPages" h="CA96B5EB">Valitse sivut...</text>
+		<text id="cmd.docsList.selectPages.tip" h="2BA1CFDF">Valitse valitun dokumentin sivut.</text>
+		<text id="cmd.docsList.showPreview" h="0E09CAB8">Esikatselu</text>
+		<text id="cmd.docsList.showPreview.tip" h="5FDF66AB">Näytä/piilota valittujen kohteiden esikatselu.</text>
+		<text id="cmd.docsList.showRepo" h="75AE5FBB">Näytä varasto</text>
+		<text id="cmd.docsList.showRepo.tip" h="A9FDC14F">Näytä/piilota dokumenttien sivujen tilapäinen varasto. Se on hyödyllinen siirrettäessä sivuja.</text>
+		<text id="cmd.docsList.undo" h="86E67B4B">Kumoa</text>
+		<text id="cmd.docsList.undo.tip" h="68378895">Kumoa edellinen toiminto.</text>
+		<text id="cmd.docsList.zoomIn" h="21C9A3BF">Pienennä</text>
+		<text id="cmd.docsList.zoomIn.tip" h="EEFCC59E">Pienennä sivujen pienoiskuvat.</text>
+		<text id="cmd.docsList.zoomOut" h="7749FC62">Suurenna</text>
+		<text id="cmd.docsList.zoomOut.tip" h="B4B12D5A">Suurenna sivujen pienoiskuvat.</text>
+		<text id="cmd.docsList.zoomSlider" h="596A6E4A">Skaalaa</text>
+		<text id="cmd.docsList.zoomSlider.tip" h="0F91092C">Skaalaa sivujen pienoiskuvat.</text>
+		<text id="cmd.editDocList.clearAll" h="FCA74107">Tyhjennä varasto.</text>
+		<text id="cmd.editDocList.clearAll.tip" h="8D064794">Tyhjennä sivuvarasto.</text>
+		<text id="cmd.editFld" h="009A7A41">Muokkaa</text>
+		<text id="cmd.editFld.tip" h="6383A76C">Muokkaa valittua valvontaa.</text>
+		<text id="cmd.editModeView" h="2FCBB32C">Näytä</text>
+		<text id="cmd.editModeView.tip" h="FED08A06">Näytä/piilota muut ruudut.</text>
+		<text id="cmd.enableFld" h="A816D2F1">Ota kayttöön</text>
+		<text id="cmd.enableFld.tip" h="5C4A8F7C">Ota valittu valvonta käyttöön.</text>
+		<text id="cmd.expandAll" h="6DA5A467">Laajenna kaikki</text>
+		<text id="cmd.expandAll.tip" h="B8DEF87E">Laajenna kaikki supistetut kohteet.</text>
+		<text id="cmd.filesList.addFiles" h="6BB8C3C3">Lisää tiedostoja...</text>
+		<text id="cmd.filesList.addFiles.combo" h="6BB8C3C3">Lisää tiedostoja...</text>
+		<text id="cmd.filesList.addFiles.tip" h="49EDA302">Avaa tiedoston valinnan valintaikkuna...</text>
+		<text id="cmd.filesList.addFolder" h="48695541">Lisää kansio...</text>
+		<text id="cmd.filesList.addFolder.tip" h="6761456F">Avaa kansion valinnan valintaikkuna, lisää sitten tiedostoja...</text>
+		<text id="cmd.filesList.addFromScanner" h="F8B40B5F">Lisää skannerilta...</text>
+		<text id="cmd.filesList.addFromScanner.tip" h="B4E7ED2C">Valitse skannerilaite ja aloita kuvien tuominen...</text>
+		<text id="cmd.filesList.delete" h="D8FE3F70">Poista</text>
+		<text id="cmd.filesList.delete.tip" h="1B809C28">Poista valitut kohteet. Poistamista ei voi peruuttaa.</text>
+		<text id="cmd.filesList.detailsView" h="AEE125D6">Yksityiskohdat</text>
+		<text id="cmd.filesList.detailsView.tip" h="6570BFC4">Vaihda Yksityiskohdat-näkymään.</text>
+		<text id="cmd.filesList.edit" h="621534A3">Muokkaa...</text>
+		<text id="cmd.filesList.edit.tip" h="A8CCCC15">Muokkaa valittuja kohteita.</text>
+		<text id="cmd.filesList.moveDown" h="B590E566">Siirrä alas</text>
+		<text id="cmd.filesList.moveDown.tip" h="96CBF2AC">Siirrä valittuja kohteita alaspäin.</text>
+		<text id="cmd.filesList.moveUp" h="E466537C">Siirrä ylös</text>
+		<text id="cmd.filesList.moveUp.tip" h="239B490C">Siirrä valittuja kohteita ylöspäin.</text>
+		<text id="cmd.filesList.openContFolder" h="D3E03212">Avaa dokumentin kansio</text>
+		<text id="cmd.filesList.openContFolder.tip" h="4967EB0F">Avaa dokumentin kansio ja valitse tarvittava tiedosto Resurssienhallinnassa.</text>
+		<text id="cmd.filesList.selectPages" h="CA96B5EB">Valitse sivuja...</text>
+		<text id="cmd.filesList.selectPages.tip" h="9D36120F">Valitse valitun tiedoston määritetyt sivut.</text>
+		<text id="cmd.filesList.showPreview" h="0E09CAB8">Esikatselu</text>
+		<text id="cmd.filesList.showPreview.tip" h="5FDF66AB">Näytä/piilota valittujen kohteiden esikatselu.</text>
+		<text id="cmd.filesList.thumbsView" h="47B1B2D9">Sivut</text>
+		<text id="cmd.filesList.thumbsView.tip" h="E9F10E3C">Vaihda Sivut-näkymään.</text>
+		<text id="cmd.filesList.zoomIn" h="21C9A3BF">Suurenna</text>
+		<text id="cmd.filesList.zoomIn.tip" h="EEFCC59E">Suurenna sivujen pienoiskuvat.</text>
+		<text id="cmd.filesList.zoomOut" h="7749FC62">Pienennä</text>
+		<text id="cmd.filesList.zoomOut.tip" h="B4B12D5A">Pienennä sivujen pienoiskuvat.</text>
+		<text id="cmd.filesList.zoomSlider" h="596A6E4A">Skaalaa</text>
+		<text id="cmd.filesList.zoomSlider.tip" h="0F91092C">Skaalaa sivujen pienoiskuvat.</text>
+		<text id="cmd.help" h="03718903">Ohje</text>
+		<text id="cmd.help.about" h="06AA44B8">Tietoja...</text>
+		<text id="cmd.help.about.tip" h="D3746489">Näytä sovelluksen versio ja lisenssitiedot.</text>
+		<text id="cmd.help.checkForUpdates" h="B4EF7EF3">Tarkista päivitykset</text>
+		<text id="cmd.help.checkForUpdates.tip" h="73587378">Tarkistaa sovelluksen päivitykset.</text>
+		<text id="cmd.help.contents" h="567BC1D7">Sisältö</text>
+		<text id="cmd.help.contents.tip" h="08AC959F">Avaa yksityiskohtainen ohjeisto.</text>
+		<text id="cmd.help.enterkey" h="EF62658A">Syötä lisenssiavain...</text>
+		<text id="cmd.help.enterkey.tip" h="D3746489">Näytä sovelluksen versio ja lisenssitiedot.</text>
+		<text id="cmd.help.homepage" h="09F653F5">Kotisivu</text>
+		<text id="cmd.help.homepage.tip" h="EBA22B5A">Siirry sovelluksen web-sivustoon.</text>
+		<text id="cmd.help.support" h="31A29A3F">Tuki</text>
+		<text id="cmd.help.support.tip" h="B8C0C0FB">Siirry tukifoorumiin.</text>
+		<text id="cmd.help.tip" h="F59770E5">Ohje.</text>
+		<text id="cmd.impexp" h="1D5A9A8A">Tuo/Vie</text>
+		<text id="cmd.impexp.expseltools" h="C87F6A0D">Vie valitut työkalut</text>
+		<text id="cmd.impexp.expseltools.tip" h="0E445E08">Vie valitut työkalut tiedostoon.</text>
+		<text id="cmd.impexp.expsett" h="329179F2">Vie kaikki asetukset</text>
+		<text id="cmd.impexp.expsett.tip" h="1BEC5F75">Vie kaikki ohjelman asetukset ja työkalut tiedostoon.</text>
+		<text id="cmd.impexp.exptools" h="3B532E8F">Vie työkalut</text>
+		<text id="cmd.impexp.exptools.tip" h="66B0E107">Vie työkalut tiedostoon.</text>
+		<text id="cmd.impexp.impsett" h="92219071">Tuo kaikki asetukset</text>
+		<text id="cmd.impexp.impsett.tip" h="3845D20B">Tuo kaikki ohjelman asetukset ja työkalut tiedostosta.</text>
+		<text id="cmd.impexp.imptools" h="622631EF">Tuo työkalut</text>
+		<text id="cmd.impexp.imptools.tip" h="112B2FCB">Tuo työkalut tiedostosta.</text>
+		<text id="cmd.impexp.shortcut" h="64092D8C">Luo työpöydälle pikakuvake</text>
+		<text id="cmd.impexp.shortcut.tip" h="F695107D">Luo työpöydälle valitun työkalun pikakuvakkeen.</text>
+		<text id="cmd.impexp.tip" h="CE31B671">Tuo/Vie työkalutoiminnot tai ohjelman asetuket.</text>
+		<text id="cmd.moveDown" h="B590E566">Siirrä alas</text>
+		<text id="cmd.moveDown.tip" h="96CBF2AC">Siirrä valittuja kohteita alaspäin.</text>
+		<text id="cmd.moveUp" h="E466537C">Siirrä ylös</text>
+		<text id="cmd.moveUp.tip" h="239B490C">Siirrä valittuja kohteita ylöspäin.</text>
+		<text id="cmd.opts" h="DAD7B4F4">Asetukset</text>
+		<text id="cmd.opts.tip" h="0DB1D677">Ohjelman asetusten muokkaamistoiminnot.</text>
+		<text id="cmd.prefs" h="8D3CBDF0">Ohjelman asetukset...</text>
+		<text id="cmd.prefs.tip" h="35A54BBC">Näytä Ohjelman oletusasetukset -valintaikkuna.</text>
+		<text id="cmd.redo" h="E6E48291">Tee uudelleen</text>
+		<text id="cmd.redo.tip" h="D864EFC4">Tee uudelleen edellinen kumottu toiminto.</text>
+		<text id="cmd.removeFavorites" h="85360926">Poista suosikeista</text>
+		<text id="cmd.removeFavorites.tip" h="DEB12B60">Poista työkalu suosikeista</text>
+		<text id="cmd.report.clear" h="CB9CE353">Tyhjennä</text>
+		<text id="cmd.report.clear.tip" h="26272D30">Tyhjentää raportin</text>
+		<text id="cmd.report.collapseAll" h="84E09D66">Tiivistä kaikki</text>
+		<text id="cmd.report.collapseAll.tip" h="4B0945EA">Tiivistä kaikki laajennetut kohteet.</text>
+		<text id="cmd.report.copy" h="348DE55D">Kopioi</text>
+		<text id="cmd.report.copy.tip" h="7E2DF69D">Kopioi viestin teksti.</text>
+		<text id="cmd.report.copyname" h="895D5980">Kopioi tiedostonimi</text>
+		<text id="cmd.report.copyname.tip" h="C6C33FE5">Kopioi tiedostonimen leikepöydälle.</text>
+		<text id="cmd.report.expandAll" h="6DA5A467">Laajenna kaikki</text>
+		<text id="cmd.report.expandAll.tip" h="B8DEF87E">Laajenna kaikki kutistetut kohteet.</text>
+		<text id="cmd.report.fullreport" h="2B15B2F7">Täysi raportti</text>
+		<text id="cmd.report.fullreport.tip" h="B70410A1">Tämä vaihtoehto pakottaa PDF-Toolsin tulostamaan täyden työkaluraportin.</text>
+		<text id="cmd.report.openfolder" h="D3E03212">Avaa kansio</text>
+		<text id="cmd.report.openfolder.tip" h="897118C2">Avaa tiedoston sisältävän kansion</text>
+		<text id="cmd.report.options" h="9757D0D9">Asetukset...</text>
+		<text id="cmd.report.options.tip" h="84CAFD98">Näytä työkaluraportin asetukset.</text>
+		<text id="cmd.report.savetofile" h="ED4A08DE">Tallenna raportti...</text>
+		<text id="cmd.report.savetofile.tip" h="5BF810D7">Tallenna raportti tekstitiedostoon</text>
+		<text id="cmd.resetSelAction" h="1008C3F9">Nollaa</text>
+		<text id="cmd.resetSelAction.tip" h="9416B4A0">Nollaa valitut toimintoasetukset oletusarvoiksi.</text>
+		<text id="cmd.resetSett" h="1E06BB70">Palauta kaikki asetukset</text>
+		<text id="cmd.resetSett.tip" h="F72C4CB6">Palauta ohjelman asetukset ja vaihda takaisin oletusasetuksilla varustettuihinn vakiotyökaluihin.</text>
+		<text id="cmd.resetTool" h="0E4A9518">Nollaa työkalu</text>
+		<text id="cmd.resetTool.tip" h="63100C06">Palauta työkalun asetukset oletusarvoihin.</text>
+		<text id="cmd.resetseltools" h="11DC26AD">Nollaa valitut työkalut</text>
+		<text id="cmd.resetseltools.tip" h="7FCF3BF7">Palauttaa valittujen työkalujen asetukset oletusarvoihin.</text>
+		<text id="cmd.save" h="01991541">Tallenna muutokset</text>
+		<text id="cmd.save.tip" h="45AC7E5D">Tallenna työkalumuutokset.</text>
+		<text id="cmd.search" h="547E9E5A">Etsi...</text>
+		<text id="cmd.search.tip" h="FC8CBAA4">Etsimistyökalu.</text>
+		<text id="cmd.setupFolderMonitor" h="EDC6E6EA">Kansiovalvonnat</text>
+		<text id="cmd.setupFolderMonitor.tip" h="43BBFC78">Hallitse kansiovalvontoja.</text>
+		<text id="cmd.showActionInfoPane" h="DDDF9129">Näytä toiminnon tiedot</text>
+		<text id="cmd.showActionInfoPane.tip" h="B9D63B80">Näytä/Piilota toimintojen tietoruutu.</text>
+		<text id="cmd.showAvailActionsPane" h="7B4DF4C3">Näytä toimintokirjasto</text>
+		<text id="cmd.showAvailActionsPane.tip" h="7F2B551F">Näytä/Piilota toimintokirjasto.</text>
+		<text id="cmd.showReport" h="F1E7E74F">Työkaluraportti.</text>
+		<text id="cmd.showReport.tip" h="0310270C">Näytä työkaluraportti.</text>
+		<text id="cmd.test" h="327F2A55">Testi!</text>
+		<text id="cmd.test.tip" h="9E04AEAA">Testaa ominaisuus!</text>
+		<text id="cmd.tool.clone" h="37E754F5">Monista</text>
+		<text id="cmd.tool.clone.tip" h="D8321AF8">Monista valittu työkalu.</text>
+		<text id="cmd.tool.create" h="EDCA1553">Luo</text>
+		<text id="cmd.tool.create.tip" h="3D4C85B7">Luo uusi työkalu.</text>
+		<text id="cmd.tool.edit" h="009A7A41">Muokkaa</text>
+		<text id="cmd.tool.edit.tip" h="426AAF33">Muokkaa valittua työkalua.</text>
+		<text id="cmd.tool.run" h="19264084">Suorita</text>
+		<text id="cmd.tool.run.tip" h="BF1530FA">Käynnistä valittu työkalu.</text>
+		<text id="cmd.undo" h="86E67B4B">Kumoa</text>
+		<text id="cmd.undo.tip" h="68378895">Kumoa viimeisin toiminto.</text>
+		<text id="cmd.viewFld" h="2FCBB32C">Näytä</text>
+		<text id="cmd.viewFld.tip" h="7426084C">Näytä valittu valvonta.</text>
+		<text id="cmdline.toolnotfound" h="E24BDF60">Tarvittavaa työkalua ei löydy.</text>
+		<text id="common" h="FF51CD90">Yleinen</text>
+		<text id="created" h="BC03BBEA">Luotu</text>
+		<text id="custToolsGrName" h="22F07048">Mukautetut työkalut</text>
+		<text id="custom" h="A918FF38">Mukautetut</text>
+		<text id="dclick.authorize" h="E62FEA98">Valtuuta tallennustila napsauttamalla</text>
+		<text id="delete.all.pages" h="E66ECE13">Kaikkien sivujen poistaminen on kielletty.</text>
+		<text id="deleteComments.all" h="3DB14B53">Kaikki merkinnät</text>
+		<text id="deleteComments.link" h="D84C3990">Linkitä huomautukset</text>
+		<text id="deleteComments.markup" h="236E76D1">Markup-merkinnät</text>
+		<text id="deleteComments.widget" h="105429C0">Widget-merkinnät</text>
+		<text id="deleteInputFiles" h="66DB8878">Poista tulotiedostot onnistumisessa</text>
+		<text id="deletecat.warn" h="8A426B75">Haluatko varmasti poistaa luokan &lt;b&gt;"%1"&lt;/b&gt; ja kaikki siihen sisältyvät työkalut?
+Huomautus: poistoa ei voi kumota.</text>
+		<text id="deletestoredpath.warn" h="B01DF4C4">Haluatko varmasti poistaa tallennetut syötetiedostojen nimet?</text>
+		<text id="disable.ui.lbl" h="F51A0F89">Työkalun vuorovaikutus käyttäjään:</text>
+		<text id="dlg.managefilters" h="BEEA26C3">Suodatinten hallinta</text>
+		<text id="docauthor.l" h="7E318A91">Tekijä:</text>
+		<text id="doccreator.l" h="48BB2AC2">Laatija:</text>
+		<text id="dockeywords.l" h="EE89DD49">Avainsanat:</text>
+		<text id="docproducer.l" h="30A8E856">Tuottaja:</text>
+		<text id="docsubject.l" h="A59102F6">Aihe:</text>
+		<text id="doctitle.l" h="930D3835">Otsikko:</text>
+		<text id="editDocList.containsPages" h="8F4BA4D9">Sisältää %1 sivua</text>
+		<text id="editDocList.document" h="13289938">Dokumentti</text>
+		<text id="editDocList.empty.hint" h="C46828D2">Ei sivuja</text>
+		<text id="editDocList.noPages" h="DD007EC4">Tyhjä</text>
+		<text id="editDocList.repository.hint" h="0071AB8A">Voit siirtää sivuja väliaikaiseen varastoon.</text>
+		<text id="editDocList.title" h="BB7D1179">Manuaalinen dokumenttien jakaminen/yhdistäminen</text>
+		<text id="editDocList.undefined" h="9FA2DA79">Määrittämätön</text>
+		<text id="editDocList.warning" h="F36DBC31">Asiakirjaluettelon ei pitäisi olla tyhjä.
+Voit yrittää peruuttaa viimeiset toiminnot, jotta luettelo ei olisi tyhjä.</text>
+		<text id="editDocList.warning.emptyname" h="D690297C">Dokumentilla täytyy olla nimi</text>
+		<text id="editDocList.warning.invalidsymbols" h="40A214FA">Virheellinen tiedostonimi</text>
+		<text id="editview.header.changeicon" h="E86B95CD">Muuta...</text>
+		<text id="editview.header.dialog.multiline" h="767057E1">Muokkaa työkalun kuvausta</text>
+		<text id="empty.document" h="06A26641">Dokumentti "%1" on tyhjä. Se ohitetaan</text>
+		<text id="enter.pwd.descr" h="77485A4B">Kirjoita salasanan kuvaus (valinnainen)...</text>
+		<text id="enterNewDocName" h="68FD05C5">Syötä uusi dokumentin nimi:</text>
+		<text id="err.foldernotexists" h="4533B896">Valittua kansiota ei ole olemassa</text>
+		<text id="err.foldernotvalid" h="E422E783">Valittua kansiota ei voi valvoa</text>
+		<text id="err.hotfolderbusy" h="40F505AA">Määrittämääsi kansiota käsitellään toisella valvonnalla</text>
+		<text id="err.hotfolderempty" h="5734787D">Valitse valvottava kansio</text>
+		<text id="err.movefolderempty" h="141492EF">Valitse kansio, johon syötetiedostot siirretään</text>
+		<text id="err.selecttool" h="89F6967E">Valitse suoritettava työkalu</text>
+		<text id="err.toolnotexists" h="12CFDA38">Valittua työkalua ei ole olemassa</text>
+		<text id="expsett.extension.desc" h="F00D3D31">PDF-Tools ohjelman asetustiedosto</text>
+		<text id="expsett.failed" h="D36046ED">Asetusten vienti epäonnistui</text>
+		<text id="expsett.open.caption" h="92B281E9">Avaa tuontitiedosto</text>
+		<text id="expsett.save.caption" h="C1A8C6FD">Tallenna vientitiedosto</text>
+		<text id="exptools.extension.desc" h="DC98B451">PDF-Tools Exchange-tiedosto</text>
+		<text id="exptools.failed" h="7A69DC15">Työkalujen vienti epäonnistui</text>
+		<text id="exptools.open.caption" h="99F5ECED">Valitse tuontitiedosto</text>
+		<text id="exptools.save.caption" h="C1A8C6FD">Tallenna vientitiedosto</text>
+		<text id="extension" h="14FEB836">Tunniste</text>
+		<text id="fileLocation" h="7BC24E5F">Tiedoston sijainti:</text>
+		<text id="fileNames" h="0F80A6A8">Valitse tiedodstoluettelo:</text>
+		<text id="fileNames.desc" h="7B4EDEA4">PDF-Tools syötetiedostojen luettelo</text>
+		<text id="fileNames.open" h="8F1B7ED1">Avaa syötetiedostoluettelo</text>
+		<text id="fileprop.author" h="F6A8A4C0">Tekijä</text>
+		<text id="fileprop.bpc" h="02071BA4">Bittiä/kanava</text>
+		<text id="fileprop.bpp" h="EC790768">Bittiä/pikseli</text>
+		<text id="fileprop.channels" h="D3AE76A2">Kanavat</text>
+		<text id="fileprop.creator" h="CF26EE59">Laatija</text>
+		<text id="fileprop.dimension" h="96A76700">Mitat</text>
+		<text id="fileprop.horDpi" h="576C5071">Vaakasuuntainen DPI</text>
+		<text id="fileprop.page" h="D70A809E">Sivu</text>
+		<text id="fileprop.pageRotation" h="ECFC9C66">Pyöritys</text>
+		<text id="fileprop.pagesCount" h="AAE42CE5">Sivujen määrä</text>
+		<text id="fileprop.pdfVer" h="4C06CDA5">PDF-versio</text>
+		<text id="fileprop.producer" h="C54CE945">Tuottaja</text>
+		<text id="fileprop.subject" h="B6BCF595">Aihe</text>
+		<text id="fileprop.title" h="796DFAD3">Otsikko</text>
+		<text id="fileprop.verDpi" h="33423CE9">Pystysuuntainen DPI</text>
+		<text id="filestopdf.setup" h="FB20B28D">Asetukset...</text>
+		<text id="finalizing" h="B702861F">Viimeistellään %1...</text>
+		<text id="fitoverlay" h="E2F09068">Sovita kerrossivut uuden luodun dokumentin sivujen mukaan</text>
+		<text id="fld.disabled" h="AA5BC8D4">Poistettu käytöstä</text>
+		<text id="fld.enabled" h="2532774E">Käytössä</text>
+		<text id="fldmon.lbl" h="DEBCEDAF">Kansiovalvonnan nimi:</text>
+		<text id="folder.grp" h="9AE10AFA">Syötetiedostojen vaihtoehdot</text>
+		<text id="hotfld.opts.dlg.caption" h="D9DE9C84">Kansiovalvonnan asetukset</text>
+		<text id="impsett.alert" h="0B2EB063">Haluatko varmasti tuoda kaikki ohjelman asetukset?
+Huomaa: toimintoa ei voi kumota.</text>
+		<text id="impsett.failed" h="AA8A96CF">Asetusten tuonti epäonnistui</text>
+		<text id="imptools.failed" h="DAD93596">Työkalujen tuonti epäonnistui</text>
+		<text id="info" h="07FB97A4">Tiedot</text>
+		<text id="inpfiles.lbl" h="28477E27">Syötetiedostojen vaihtoehdot:</text>
+		<text id="inserting.page" h="7985F658">Lisätään sivu %1/%2</text>
+		<text id="keep.inputfiles" h="800C91A4">Säilytä tulotiedostot kansiossa</text>
+		<text id="keepaspect" h="A90996CD">Säilytä sivusuhde</text>
+		<text id="lb.availFF" h="6E3CAD3A">Valitse tiedostotyyppien suodattimet, jotka ovat käytettävissä valintaikkunassa:</text>
+		<text id="lb.presetFF" h="9C590515">Esiasetus:</text>
+		<text id="lbl.ShowResult" h="C5236BCD">Näytä tulos suorituksen loputtua</text>
+		<text id="lbl.actualview" h="D865F4B2">Kuvanäkymä</text>
+		<text id="lbl.allowMult" h="3B9DFCE0">Salli usean tiedoston valinta</text>
+		<text id="lbl.alwaysUseMultipage" h="6C82FB30">Käytä aina monisivuista muotoa</text>
+		<text id="lbl.askDeleteTool" h="1541D739">Haluatko varmasti poistaa työkalun &lt;b&gt;"%1"&lt;/b&gt;?
+Huomaa: Toimintoa ei voi kumota.</text>
+		<text id="lbl.askDeleteTools" h="25C684AA">Haluatko varmasti poistaa työkalut &lt;b&gt;"%1"&lt;/b&gt;?
+Huomaa: Toimintoa ei voi kumota. Vain omia työkaluja voi poistaa.</text>
+		<text id="lbl.askSaveChanges" h="4F19099B">Haluatko tallentaa muutokset ennen muokkauksen lopetusta?</text>
+		<text id="lbl.chooseAction" h="5EA681F4">Valitse toiminto luettelosta:</text>
+		<text id="lbl.choosefiles.dndhint" h="8CF7925F">Lisää tiedostoja työkalurivin painikkeella tai vedä ne tähän. Voi järjestää ne haluamaasi järjestykseen.</text>
+		<text id="lbl.choosefiles.itemscount" h="2CFE0C7C">%1 kohdetta</text>
+		<text id="lbl.choosefiles.selitemscount" h="402CD736">%1 kohdetta • %2 kohdetta valittu • %3</text>
+		<text id="lbl.choosepages" h="668A500A">Valitse dokumentista valittavat sivut:</text>
+		<text id="lbl.continue" h="A5F0062A">Jatka</text>
+		<text id="lbl.dblclick2browse" h="DB3D14F9">Selaa tuplaklikkaamalla tässä...</text>
+		<text id="lbl.editViewToolDesc" h="0F22DAFE">Syötä työkalun kuvausteksti:</text>
+		<text id="lbl.editViewToolName" h="76F4AA91">Syötä työkalun nimi:</text>
+		<text id="lbl.editdocs.dndhint" h="2FAC7414">Voit järjestellä sivuja ja siirtää sivuja dokumentista toiseen hiirellä vetämällä. Voit myös luoda uusia dokumentteja vetämällä sivuja dokumenttien ulkopuolelle.</text>
+		<text id="lbl.editview.dndhint" h="42E43BBA">Voit järjestää olemassa olevia toimintoja hiirellä vetämällä tai lisätä uusia toimintoja oikeanpuoleisesta luettelosta.</text>
+		<text id="lbl.editview.dndhint2" h="714B17C6">Napsauta ja vedä toiminto oikeanpuoleisesta luettelosta ja pudota se tähän.</text>
+		<text id="lbl.emptyCatList" h="488587B8">Luokkaluettelo on tyhjä</text>
+		<text id="lbl.emptyToolList" h="B2BFE203">Työkaluluettelo on tyhjä.</text>
+		<text id="lbl.extractSizeLimit" h="0EA996F6">Ohita tätä pienemmät kuvat:</text>
+		<text id="lbl.fileTypes" h="60ECC8E9">Tiedostotyypit:</text>
+		<text id="lbl.filestopdf.converters" h="902CF9B3">Muuntimet:</text>
+		<text id="lbl.folder" h="3F9ED2F9">Kansio:</text>
+		<text id="lbl.grouping" h="79C8A88E">Ryhmittelytila</text>
+		<text id="lbl.keeptransparent" h="5070A5EB">Säilytä läpinäkyvyys</text>
+		<text id="lbl.multipagetype" h="C5A5712F">Valitse monisivuisten kuvien tyyppi:</text>
+		<text id="lbl.noActionFound" h="105B87AB">Hakupyyntöä vastaavaa toimintoa ei löytynyt.</text>
+		<text id="lbl.noCategoryFound" h="CEC17229">Hakupyyntöä vastaavaa luokkaa ei löytynyt</text>
+		<text id="lbl.noToolFound" h="181055BB">Hakupyyntöä vastaavaa työkalua ei löytynyt.</text>
+		<text id="lbl.reverseOrder" h="9564C9FE">Tallenna käännettyyn järjestykseen</text>
+		<text id="lbl.run" h="19264084">Suorita</text>
+		<text id="lbl.savemode" h="D16859B7">Tallenna asetukset</text>
+		<text id="lbl.showextui" h="1E2770E2">Näytä tiedostojen valinnan laaja valintaikkuna</text>
+		<text id="lbl.singlepagetype" h="A6AF6C93">Valitse yksisivuisten kuvien tyyppi:</text>
+		<text id="listmonitors.lbl" h="7A930E45">Kansiomonitorien luettelo:</text>
+		<text id="lnk.browsefolder" h="57F5ECCB">Selaa syöttökansiota...</text>
+		<text id="lnk.createtitle" h="97F6DA95">Luo pikavalinta-asetukset</text>
+		<text id="lnk.inputfiles" h="3B5E3105">Valitse syöttötiedostot...</text>
+		<text id="lnk.noinput" h="365E2B73">Kysy aina syöttötiedostoja</text>
+		<text id="lnk.specifyinput" h="C331E1B9">Voit lisätä syöttötiedostoja/kansion pikakuvakkeeseen:</text>
+		<text id="loading" h="DC6A6C81">Ladataan...</text>
+		<text id="location" h="52D95020">Sijainti</text>
+		<text id="log.abort" h="6F8E5DCD">Keskeytä</text>
+		<text id="log.actiondone" h="E2806498">Toiminto valmistui</text>
+		<text id="log.andmore" h="54982D71">Klikkaamalla tässä näet lisää...</text>
+		<text id="log.andmore.tip" h="2D9BDCA0">Kaksoisnapsauttamalla näet kaikki kohteet...</text>
+		<text id="log.cancelled" h="E28236C9">Peruttu</text>
+		<text id="log.fail" h="A37F5F82">Epäonnistui</text>
+		<text id="log.filecreated" h="E300872F">Tiedosto luotu</text>
+		<text id="log.filenotexist" h="E9442568">Tiedostoa ei ole</text>
+		<text id="log.fileprocstart" h="254322E4">Tiedoston käsittely aloitettu</text>
+		<text id="log.filestat.failed" h="D1F8052C">Epäonnistuneesti käsitellyt tiedostot: %1/%2</text>
+		<text id="log.filestat.succeded" h="5A913587">Onnistuneesti käsitellyt tiedostot: %1/%2</text>
+		<text id="log.invalidarg" h="79E18E42">Virheellisiä parametreja</text>
+		<text id="log.nofilesinfolder" h="961510F8">Valitun tyypin tiedostoja ei löydy kansiosta. Valitse 'Valitse tulotiedostot' toimintoparametrit.</text>
+		<text id="log.nopermissions" h="7508C445">Ei riittäviä käyttöoikeuksia</text>
+		<text id="log.ok" h="BAD1F1D5">Onnistui</text>
+		<text id="log.summary" h="8BE8ABA0">Yhteenveto</text>
+		<text id="log.toolduration" h="8D5BD4C8">%1 käytettiin</text>
+		<text id="log.toolrunfinished" h="A50678CB">Työkalun suoritustulos: %1.</text>
+		<text id="log.toolstarted" h="4352D7A3">"%1" työkalu käynnistetty</text>
+		<text id="log.txtsummary" h="ABCB53D3">"%1" työkalu valmis: %2 virhettä, %3 käsitelty, %4 tiedostoa luotu, %5 varoitusta</text>
+		<text id="log.txttoolduration" h="1DED609F">kesto: %1</text>
+		<text id="log.unknown" h="8566CB94">Tuntematon</text>
+		<text id="log.wrongpass" h="473522EE">Väärä salasana</text>
+		<text id="modified" h="30325672">Muokattu</text>
+		<text id="moduleName" h="9B0F448F">PDF-Tools</text>
+		<text id="mon.priority" h="73E40EE1">Valvonnan prioriteetti:</text>
+		<text id="monitor.name.tip" h="A0EB9543">Anna valvonnan nimi tähän...</text>
+		<text id="monitor.subfold" h="7D8D9398">Valvo alikansioita</text>
+		<text id="moveInputFiles" h="61936C79">Siirrä syöttötiedostot kansioon:</text>
+		<text id="msgtype.debug" h="C3C4F565">Virheenkorjaus</text>
+		<text id="msgtype.error" h="51BFF51D">Virhe</text>
+		<text id="msgtype.info" h="07FB97A4">Tiedot</text>
+		<text id="msgtype.unknown" h="E52D4ED4">Tuntematon tyyppi</text>
+		<text id="msgtype.verbose" h="6817BBB0">Verbose</text>
+		<text id="msgtype.warning" h="E7AD7A2B">Varoitus</text>
+		<text id="name" h="D18643E3">Nimi</text>
+		<text id="no.pages.to.delete" h="7A9E4694">Ei poistettavia tiedostoja</text>
+		<text id="nooverlay.file" h="4D9B1EA6">Kerrostiedostoa ei valittu</text>
+		<text id="ocr.processall" h="705E5831">Suorita OCR asiakirjalle</text>
+		<text id="ocr.textContinue" h="31439CA0">Älä käytä OCR -toimintoa vaan jatka käsittelyä</text>
+		<text id="ocr.textSkip" h="92F274EB">Ohita asiakirjan käsitteleminen</text>
+		<text id="ocropt.lbl" h="791CC215">Jos dokumentissa on tekstiä:</text>
+		<text id="ovr.file" h="D8EE6FEB">Kerrostiedosto:</text>
+		<text id="ovr.norepeat" h="E58FFCC1">Ei toistoa</text>
+		<text id="ovr.positions" h="E9C070C5">Sijainnit</text>
+		<text id="ovr.repeat" h="DB39711A">Toistoasetukset:</text>
+		<text id="ovr.repeatall" h="FB4118C6">Lyhyemmän kerrostiedoston jatkuva toisto</text>
+		<text id="ovr.repeatlast" h="87F51B84">Toista lyhyemmän kerrostiedoston viimeinen sivu </text>
+		<text id="ovr.settings" h="2FF7690D">Kerrostiedostoasetukset</text>
+		<text id="page.props" h="F521B2C3">Sivun ominaisuudet</text>
+		<text id="pagenumber" h="29EED2B3">Numero</text>
+		<text id="pagesRange" h="30C24AC3">Sivualue</text>
+		<text id="pagesRange.All" h="83434A26">Kaikki</text>
+		<text id="pagesRange.Pages" h="23952CFD">Sivut:</text>
+		<text id="pagesSubset.all" h="599C6EE6">Kaikki sivut määritetystä alueesta</text>
+		<text id="pagesSubset.even" h="E64675B8">Vain alueen parilliset sivut</text>
+		<text id="pagesSubset.odd" h="87228BC5">Vain alueen parittomat sivut</text>
+		<text id="pagesrange.empty" h="630795CE">Sivualue ei saa olla tyhjä.</text>
+		<text id="pdf.properies" h="70EFADF5">PDF-ominaisuudet</text>
+		<text id="pdfahandle.keepPDFAunchanged" h="908B4A26">Pidä PDF/A asiakirja muuttumattomana</text>
+		<text id="pdfahandle.reconvert" h="1AFD2B27">Muunna asiakirja uudelleen</text>
+		<text id="pdfahandle.skipPDFA" h="9B11C61E">Ohita PDF/A-dokumentti</text>
+		<text id="pdfastd.lbl" h="83380816">Jos asiakirja sisältää PDF/A-standardi tiedot:</text>
+		<text id="place.foreground" h="0669CDF0">Sijoita kerrostiedosto eteen</text>
+		<text id="policy.msg" h="3AE36A58">Suojauskäytäntöä ei ole luotu.
+Haluatko luoda sen?</text>
+		<text id="preview.ovrfile" h="5593AECC">Esikatsele kerrostiedosto</text>
+		<text id="printDoc.collate" h="EB01FB70">Kokoa</text>
+		<text id="printDoc.copies" h="A516AF46">Kopioita:</text>
+		<text id="printDoc.deviceName" h="FEF6AD05">Nimi:</text>
+		<text id="printDoc.duplex" h="B915897E">Dupleksi:</text>
+		<text id="printDoc.paperSize" h="510A44DF">Paperikoko:</text>
+		<text id="printDoc.status" h="922A166F">Tila:</text>
+		<text id="priority.high" h="B7E10973">Korkea prioriteetti</text>
+		<text id="priority.low" h="15FDBBEA">Pieni prioriteetti</text>
+		<text id="priority.medium" h="5A523B97">Keskisuuri prioriteetti</text>
+		<text id="prn.status.serverOffline" h="9F1449AB">Palvelin offline-tilassa</text>
+		<text id="prn.status.unknown" h="8566CB94">Tuntematon</text>
+		<text id="progr.launching" h="5520AF34">Käynnistetään valvonta...</text>
+		<text id="progress.pause" h="6045D570">Tauko</text>
+		<text id="prompt.clearpwd" h="AB0C3147">Haluatko tyhjentää salasanasäilön?</text>
+		<text id="prompt.removemonitor" h="DF4CD355">Haluatko poistaa valitun kansiovalvonnan?</text>
+		<text id="prompt.removepwd" h="F4C34781">Haluatko poistaa valitun kohteen salasanasäilöstä?</text>
+		<text id="props" h="F6FFF0BE">Ominaisuudet</text>
+		<text id="pwd.defaultDescr" h="EBF5010F">Oma ennalta määritetty salasana</text>
+		<text id="pwd.descr.date" h="F8CC5563">Lisätty: %1</text>
+		<text id="pwd.descr.dflt" h="5C50975F">Ei kuvausta</text>
+		<text id="pwd.enter.new" h="D9992E89">Kirjoita tallennustilan salasana:</text>
+		<text id="pwd.enter.newdescr" h="9D40879A">Anna uusi kuvaus:</text>
+		<text id="pwdadd" h="AED8BB4C">Lisää...</text>
+		<text id="pwdclear" h="CB9CE353">Tyhjennä</text>
+		<text id="pwdedit" h="621534A3">Muokkaa...</text>
+		<text id="pwdgrp" h="202AB42A">Salasanojen säilö</text>
+		<text id="pwdlbl" h="5F4039B9">Luettelo esimääritetyistä salasanoista, joita käytetään automaattisesti asiakirjojen käsittelyssä:</text>
+		<text id="pwdprefs.name" h="D2C0C056">Salasanat</text>
+		<text id="pwdprefs.tip" h="7434F5A2">Ennalta määritetty salasanasäilö</text>
+		<text id="pwdprefs.title" h="7434F5A2">Ennalta määritetty salasanasäilö</text>
+		<text id="pwdremove" h="FCE39C1F">Poista</text>
+		<text id="report" h="E9D63CB7">Työkaluraportti</text>
+		<text id="report.cuetext" h="5A5BCB07">Raportissa ei ole näytettäviä viestejä.</text>
+		<text id="report.defaultDesc" h="882ACAE5">Ruutu näyttää viestit työkalutoiminnoista.</text>
+		<text id="report.fld.lbl" h="3F89B943">Valitse kansio:</text>
+		<text id="report.framed.dlg" h="E9D63CB7">Työkaluraportti</text>
+		<text id="report.name.lbl" h="553DE74A">Raportin nimi:</text>
+		<text id="report.opt" h="2D42B915">Raportin asetukset</text>
+		<text id="report.options.autoclear" h="F9D9404E">Automaattinen raportin tyhjennys ennen jokaisen työkalun käynnistymistä</text>
+		<text id="report.options.forcevisible" h="C79B47D7">Pakota raporttiruutu näkymään kaikentyyppisille viesteille (vain virheille, jos valintaa ei ole)</text>
+		<text id="report.options.header" h="7254B91C">Työkaluraportin asetukset</text>
+		<text id="report.options.main" h="31B3DC7C">Määritä raporttiruutu muuttamalla seuraavia asetuksia:</text>
+		<text id="report.options.reset" h="B02C5E5A">Palauta oletukset</text>
+		<text id="report.options.severity" h="B9C34921">Valitse ilmoitustyypit, jotka näkyvät työkaluraporttiruudussa:</text>
+		<text id="report.options.severity.document" h="5CD972FF">Ilmoitus toiminnoista PDF-dokumenttien kanssa</text>
+		<text id="report.options.severity.fileOperations" h="CAB821C9">Ilmoitus tiedostotoiminnoista (avaa, luo, muokkaa jne.)</text>
+		<text id="report.options.severity.info" h="A8EA107E">Tiedotusviestit</text>
+		<text id="report.options.severity.summary" h="692A1A26">Työkalun suoritustuloksen yhteenveto</text>
+		<text id="report.options.severity.title" h="B282840A">Ilmoitustyypit</text>
+		<text id="report.options.severity.warning" h="13217901">Varoitukset (Tapahtumat, jotka voivat vaikuttaa työkalun suoritusprosessiin)</text>
+		<text id="report.options.showtimestamp" h="2A6DB7B2">Näytä aikaleima raportissa oleville viesteille</text>
+		<text id="reprocess.files" h="72A687D7">Käsittele tiedostot uudelleen aloituksessa</text>
+		<text id="resetActionTip" h="D7E3E700">Palauta toimintoasetukset oletusarvoisiksi.</text>
+		<text id="resetact.warn" h="E5B97341">Haluatko palauttaa toimintovalinnat oletusasetuksiin?
+HUOMAUTUS: Tätä toimintoa ei voi kumota.</text>
+		<text id="resetprops.btn" h="1008C3F9">Palauta</text>
+		<text id="resetprops.btntip" h="33DDB5A0">Paina palataksesi alkutilaan</text>
+		<text id="resetseltools.warn" h="26BF4D94">Haluatko palauttaa toimintovalinnat oletusasetuksiin?
+HUOMAUTUS: Tätä toimintoa ei voi kumota.</text>
+		<text id="ressett.alert" h="9B2F79C2">Haluatko varmasti palauttaa oletusarvoihin kaikki ohjelman asetukset ja oletusominaisuuksilla varustetut vakiotyökalut?
+Huomaa: toimintoa ei voi kumota.</text>
+		<text id="ressett.toolsalert" h="8CCEF1F1">Kaikkien asetusten nollaaminen edellyttää kaikkien mukautettujen työkalujen poistamista. Jos haluat jatkaa tätä toimintoa, valitse Kyllä.
+Huomautus: nollaus-toimintoa ei voi kumota.</text>
+		<text id="resume" h="B0874E65">Jatka</text>
+		<text id="sameimg.autobpp" h="A216C11C">Valitse värisyvyys automaattisesti</text>
+		<text id="sameimg.autobpp.info" h="9E850B3C">Jos valittu, kuvan värisyvyys valitaan automaattisesti. Kuvamuodon tyyppiparametri jätetään huomiotta.</text>
+		<text id="saveas.ask" h="9DF35209">Varoita toiminnosta</text>
+		<text id="saveas.auto" h="C820D6B5">Tallenna uusi yksilöllisellä nimellä</text>
+		<text id="saveas.folder.ask" h="5DC29DB4">Kysy aina tiedoston sijainti</text>
+		<text id="saveas.folder.cust" h="C9BD54EB">Käytä määritettyä kansiota</text>
+		<text id="saveas.folder.src" h="5E2E8FE3">Käytä lähdekansiota kohteena</text>
+		<text id="saveas.overwrite" h="68C4F37C">Kirjoita uusi tiedosto päälle</text>
+		<text id="saveas.skip" h="CE81D302">Säilytä olemassa oleva tiedosto ennallaan</text>
+		<text id="saveas.text" h="7D366800">Kun tiedosto on jo olemassa:</text>
+		<text id="saveimg.default.folder" h="DCD2AF9C">Dokumentin kansio</text>
+		<text id="saveimg.default.name" h="5A425CCC">Nimetön</text>
+		<text id="saveimg.grouping.apart" h="8E717B39">Jokainen kuva eri tiedostoon</text>
+		<text id="saveimg.grouping.groupall" h="9E5BA5E4">Kaikki kuvat yhdeksi monisivuiseksi kuvatiedostoksi</text>
+		<text id="saveimg.grouping.groupdoc" h="E86A1581">Kaikki yhden dokumentin kuvat yhdeksi monisivuiseksi kuvatiedostoksi</text>
+		<text id="saveimg.grouping.grouppage" h="FDF715C4">Kaikki yhden sivun kuvat yhdeksi monisivuiseksi kuvatiedostoksi</text>
+		<text id="savereport.to" h="861DD843">Tallenna raportti</text>
+		<text id="searchActionTip" h="3591BAD8">Etsi-toiminto...</text>
+		<text id="searchToolTip" h="435392D9">Etsi-työkalu...</text>
+		<text id="secinfo.grp" h="F5A61224">Suojaustiedot</text>
+		<text id="secsetting.init.warn" h="61B936AD">Toiminto &lt;b&gt;"%1"&lt;/b&gt; on alustettava ennen käyttöä.Haluatko jatkaa suoritusta ja alustaa toiminnon?</text>
+		<text id="secsettings.btn" h="9147CD71">Asetukset</text>
+		<text id="selPages.all" h="7D499596">Kaikki sivut</text>
+		<text id="selPages.dlg" h="4B381B82">Valitse sivut</text>
+		<text id="selPages.even" h="CDE5C1A0">Parilliset</text>
+		<text id="selPages.exact" h="23952CFD">Sivut:</text>
+		<text id="selPages.fromsubset" h="3ADEE045">osajoukosta "%1"</text>
+		<text id="selPages.odd" h="242E0666">Parittomat</text>
+		<text id="select.ovrfile" h="74E5784A">Valitse kerrostiedosro</text>
+		<text id="selectDestFolder" h="D0F102DD">Valitse kohdekansio</text>
+		<text id="selectHotfolder.lbl" h="3A4859F6">Valitse seurattava kansio:</text>
+		<text id="sendmail.archive.defaultname" h="F758C4E9">Nimetön</text>
+		<text id="sendmail.by" h="8EF165F7">Miten:</text>
+		<text id="sendmail.chk.intoone" h="BE171523">Laita kaikki tiedostot yhteen sähköpostiviestiin</text>
+		<text id="sendmail.chk.priority" h="846616F7">Aseta sähköposti ensisijaiseksi</text>
+		<text id="sendmail.client" h="E8D90FF3">Työpöydän sähköpostiohjelma</text>
+		<text id="sendmail.compress.alltoone" h="C303528D">Kaikki tiedostot yhteen arkistoon</text>
+		<text id="sendmail.compress.eachfile" h="B972BFCC">Jokainen tiedosto eri arkistoon</text>
+		<text id="sendmail.compress.none" h="F9398D7D">Ei mitään</text>
+		<text id="sendmail.edt.cue" h="A179CC6C">Kirjoita viestiteksti...</text>
+		<text id="sendmail.from" h="976952DD">Mistä:</text>
+		<text id="sendmail.lbl.arcname" h="A630D28B">Arkistonimi:</text>
+		<text id="sendmail.lbl.compress" h="BC1093D8">Pakkaus:</text>
+		<text id="sendmail.log.cantcreatearchive" h="B40CACC8">Lähetettävää arkistoa ei voi luoda</text>
+		<text id="sendmail.log.nofiles" h="4C7A563E">Ei lähetettäviä tiedostoja</text>
+		<text id="serializing" h="92752B4F">Jaksotetaan %1...</text>
+		<text id="setup.grp" h="95DF47CE">Kansiovalvonnan asetukset</text>
+		<text id="setuphotfolder.dlg.caption" h="EDC6E6EA">Kansion valvonnat</text>
+		<text id="showFiles.enabled" h="2532774E">Käytössä</text>
+		<text id="showFiles.launchAssocApp" h="FE936D7D">Näytä tiedostot niihin liitetyllä ulkopuolisella ohjelmalla.</text>
+		<text id="showFiles.launchAssocAppWarn" h="97CF77EB">Esikatseltavien tiedostojen määrä on enemmän kuin yksi.
+Kaikkien niiden katselu samanaikaisesti voi tarvita liikaa koneesi resursseja.
+
+Oletko varma, että haluat nähdä ne?</text>
+		<text id="showFiles.openFolderAndSel" h="A95A4BE0">Avaa kansio ja valitse tiedostot</text>
+		<text id="showFiles.text" h="26A38ADF">Valitse toiminto:</text>
+		<text id="showMoreOpts" h="24B13299">Kaikki asetukset...</text>
+		<text id="showMoreOpts2" h="64C40213">Lisää asetuksia...</text>
+		<text id="showMoreOptsTip" h="C60CDB73">Näytä kaikki asetukset....</text>
+		<text id="showMoreOptsTip2" h="145A1CAD">Näytä lisäasetukset...</text>
+		<text id="showSetupUI" h="0E94449E">Näytä asetusikkuna suorituksen aikana</text>
+		<text id="showSetupUITip" h="0E94449E">Näytä asetusikkuna suorituksen aikana</text>
+		<text id="size" h="17A58A52">Koko</text>
+		<text id="sizelimit.nolimit" h="8E135818">Ei rajaa</text>
+		<text id="skipaction.b" h="A37FB4B0">Ohita toiminto</text>
+		<text id="skipdocsWithText" h="2683C8E5">Älä käytä OCR asiakirjoissa, jotka sisältävät tekstiä</text>
+		<text id="skipped" h="B7D8BB1E">ohitettu</text>
+		<text id="smmanual.chk" h="563576E6">Näytä manuaalisen jaon/yhdistämisen valintaikkuna</text>
+		<text id="smmethod" h="C894DD7E">Menetelmä</text>
+		<text id="smmethod.all2one" h="B3E7239B">Kaikki sivut yhdeksi dokumentiksi</text>
+		<text id="smmethod.asis" h="4C3BC0E6">Säilytä syöttödokumentit ennallaan</text>
+		<text id="smmethod.bookmarks" h="44B3EE11">Jaa ylätason kirjanmerkkien mukaan</text>
+		<text id="smmethod.npages" h="2D67CBA9">Kaikki N-sivut erillisessä asiakirjassa</text>
+		<text id="smreverse.chk" h="B766066F">Käännä sivujärjestys</text>
+		<text id="sourcepage" h="5D6277DD">Lähdesivu</text>
+		<text id="sourcetitle" h="81E00BC2">Lähteen nimi</text>
+		<text id="specific" h="67D7437D">Erityiset</text>
+		<text id="status" h="9FB9C788">Tila</text>
+		<text id="stdAll" h="C80F4913">Kaikki standardit</text>
+		<text id="stdToolsGrName" h="1906BB71">Vakiotyökalut</text>
+		<text id="stop" h="F89FDAAE">Pysäytä</text>
+		<text id="targettitle" h="F87B6FA7">Kohteen nimi</text>
+		<text id="timefmt.day" h="EF28C7D2">%1 päivä</text>
+		<text id="timefmt.days" h="F3C5276C">%1 päivää</text>
+		<text id="timefmt.days.short" h="E1985A1D">%1p</text>
+		<text id="timefmt.hour" h="CDADDDAA">%1 tunti</text>
+		<text id="timefmt.hours" h="E9410F6D">%1 tuntia</text>
+		<text id="timefmt.hours.short" h="4D2D1511">%1t</text>
+		<text id="timefmt.minute" h="2D014E0C">%1 minuutti</text>
+		<text id="timefmt.minutes" h="781A3650">%1 minuuttia</text>
+		<text id="timefmt.minutes.short" h="305AE154">%1m</text>
+		<text id="timefmt.second" h="CDE322F6">%1 sekunti</text>
+		<text id="timefmt.seconds" h="D24DF2F6">%1 sekuntia</text>
+		<text id="timefmt.seconds.short" h="E41BDE8B">%1s</text>
+		<text id="title.choosepages" h="4B381B82">Valitse sivut</text>
+		<text id="tool" h="7D3C7CB2">Työkalu</text>
+		<text id="tool.addBatesNumbering" h="5987A707">Lisää Bates-numerointi</text>
+		<text id="tool.addBatesNumbering.desc" h="19058FA5">Määrittää dokumentteihin Bates-numeroinnin, joka helpottaa niiden tunnistamista ja hakua, yms.</text>
+		<text id="tool.addDigSign" h="97DD789F">Lisää digitaalinen allekirjoitus</text>
+		<text id="tool.addDigSign.desc" h="84946427">Lisää PDF-tiedostoihin uuden allekirjoituskentän ja allekirjoittaa ne käyttäen sertifioitua digitaalista tunnusta.</text>
+		<text id="tool.addHeaderAndFooter" h="71EBAC62">Lisää ylä- ja alatunniste</text>
+		<text id="tool.addHeaderAndFooter.desc" h="36AA73F6">Lisää sivuille ylä- ja/tai alatunnisteet. Ne voivat sisältää päiväyksen, automaattisen sivunumeroinnin, otsikon ja tekijän, jne.</text>
+		<text id="tool.addPagesBackground" h="20D4DB07">Määritä sivujen tausta</text>
+		<text id="tool.addPagesBackground.desc" h="C639A1B2">Määrittää yksivärisen tai kuvataustan sivulla olevan sisällön taakse.</text>
+		<text id="tool.addTimeStamp" h="837FE6FB">Aikaleimaa PDF-tiedostot</text>
+		<text id="tool.addTimeStamp.desc" h="4D80E50C">Lisää viralliselta palvelimelta aikaleiman, joka vahvistaa koko PDF-tiedoston tarkan sisällön aikaleiman lisäyshetkellä.</text>
+		<text id="tool.addWatermarks" h="F5662DD3">Lisää vesileima</text>
+		<text id="tool.addWatermarks.desc" h="434D9E42">Lisää tekstiä tai kuvan sivulla olemassa olevan sisällön eteen tai taakse.</text>
+		<text id="tool.bookmarksBuildTOC" h="2B3E9BF1">Muodosta sisällysluettelo</text>
+		<text id="tool.bookmarksBuildTOC.desc" h="1D694D80">Luo sisällysluettelon, joka perustuu asiakirjojen kirjanmerkkien rakenteeseen ja viitattuihin sivuihin.</text>
+		<text id="tool.bookmarksExport" h="F3EE1781">Vie kirjanmerkit</text>
+		<text id="tool.bookmarksExport.desc" h="BB39B78E">Vie kaikki kirjanmerkit dokumentista</text>
+		<text id="tool.bookmarksExportToText" h="01135DA3">Vie kirjanmerkit tekstitiedostoon</text>
+		<text id="tool.bookmarksExportToText.desc" h="F351FF49">Tallentaa PDF-dokumentin kirjanmerkkien rakenteen tekstitiedostoon.</text>
+		<text id="tool.bookmarksFromText" h="383A949B">Luo kirjanmerkit sivun tekstistä</text>
+		<text id="tool.bookmarksFromText.desc" h="1EF3AF08">Luo kirjanmerkit asiakirjan tekstistä käyttämällä annettuja kirjasintyylejä ja parametreja.</text>
+		<text id="tool.bookmarksFromTextFile" h="CA5176DD">Tuo kirjanmerkit tekstitiedostosta</text>
+		<text id="tool.bookmarksFromTextFile.desc" h="792D900F">Luo kirjanmerkit PDF-dokumenttiin tekstitiedostosta.</text>
+		<text id="tool.bookmarksImport" h="DC7F6AD5">Tuo kirjanmerkit</text>
+		<text id="tool.bookmarksImport.desc" h="40AC7812">Tuo kirjanmerkit dokumenttiin aiemmin viedystä tiedostosta.</text>
+		<text id="tool.certifyPDF" h="52B0ED47">Sertifioi PDF-tiedostot</text>
+		<text id="tool.certifyPDF.desc" h="828838CF">Suojaa PDF-dokumentin sertifioimalla sen tietyntyyppisellä allekirjoituskentällä, jota kutsutaan sertifioiduksi allekirjoitukseksi.</text>
+		<text id="tool.changeProps" h="89CBAD2F">Muuta dokumentin ominaisuuksia</text>
+		<text id="tool.changeProps.desc" h="40BD1FE7">Asettaa dokumentin ominaisuudet: otsikko, tekijä, aihe, avainsanat jne.</text>
+		<text id="tool.clearDigSign" h="361BBD36">Tyhjennä kaikki digitaaliset allekirjoitukset</text>
+		<text id="tool.clearDigSign.desc" h="E1CDD425">Poistaa kaikki digitaaliset allekirjoitukset ja jos mahdollista, jättää tyhjät allekirjoituskentät.</text>
+		<text id="tool.convertToPDFA" h="86709E15">Muunna PDF/A-muotoon</text>
+		<text id="tool.convertToPDFA.desc" h="7DDE1660">Muokkaa dokumentit PDF/A-standardin mukaisiksi pitkäaikaista arkistointia varten.</text>
+		<text id="tool.convertToPDFX" h="1D70370D">Muunna PDF/X-muotoon</text>
+		<text id="tool.convertToPDFX.desc" h="CB599882">Tekee PDF/X-standardin mukaiset asiakirjat tulostustietojen vaihtoa varten.</text>
+		<text id="tool.copied" h="348DE55D">Kopioi</text>
+		<text id="tool.createWeblinks" h="F68EDD51">Luo WEB-linkkejä</text>
+		<text id="tool.createWeblinks.desc" h="6971A17D">Luo WEB-linkkejä dokumentin tekstisisällöstä.</text>
+		<text id="tool.cropPages" h="54A95B63">Rajaa sivuja</text>
+		<text id="tool.cropPages.desc" h="A9A477BE">Säätää sivun näkyvää aluetta, muuttaa tai poistaa sivujen valkoiset reunukset, määrittää sivun ruutuja.</text>
+		<text id="tool.deleteComments.all" h="E8642222">Poista kaikki kommentit</text>
+		<text id="tool.deleteComments.all.desc" h="818B531A">Poistaa kaikki kommentit dokumentista.</text>
+		<text id="tool.deleteComments.form" h="37ECB4B5">Poista lomakekenttiä</text>
+		<text id="tool.deleteComments.form.desc" h="C5D21570">Poistaa lomakekentät asiakirjasta.</text>
+		<text id="tool.deleteComments.links" h="CC8F1411">Poista linkkejä</text>
+		<text id="tool.deleteComments.links.desc" h="66D48AF5">Poistaa linkit asiakirjasta.</text>
+		<text id="tool.deleteComments.markup" h="EA5127FB">Poista Markup-merkintöjä</text>
+		<text id="tool.deleteComments.markup.desc" h="80CD5AA0">Poistaa merkintähuomautukset asiakirjasta.</text>
+		<text id="tool.deleteComments.weblinks" h="87C8439E">Poista WEB-linkkejä</text>
+		<text id="tool.deleteComments.weblinks.desc" h="158E179F">Poistaa WEB-linkit dokumentista.</text>
+		<text id="tool.deletePages" h="E5284839">Poista sivuja</text>
+		<text id="tool.deletePages.desc" h="4E1EBD43">Poistaa sivuja asiakirjasta.</text>
+		<text id="tool.descTip" h="04F6C0B5">Syötä työkalun kuvaus...</text>
+		<text id="tool.discardPDFStd" h="E608B980">Hylkää määrätty PDF-standardi</text>
+		<text id="tool.discardPDFStd.desc" h="947EF232">Poistaa määrätyt PDF-standarditiedot, kuten PDF/X, PDF/A, PDF/E jne.</text>
+		<text id="tool.duplicatePages" h="14C45200">Monista sivuja</text>
+		<text id="tool.duplicatePages.desc" h="0FD26A6C">Monistaa PDF-dokumentin  sivuja</text>
+		<text id="tool.enhanceScannedPages" h="0A810C6E">Paranna skannattuja sivuja</text>
+		<text id="tool.enhanceScannedPages.desc" h="95589020">Parantaa skannattuja kuvia PDF-dokumenteissa edistäen lukemista ja pienentäen tiedostokokoa.</text>
+		<text id="tool.extractImagesFromPDF" h="4CF9FEB6">Poimi PDF-tiedoston kuvat</text>
+		<text id="tool.extractImagesFromPDF.desc" h="C53280A8">Etsii PDF-dokumenttien sisällöstä rasterikuvia, poimii ne ja tallentaa levylle tiedostoiksi.</text>
+		<text id="tool.extractPages" h="7AE73EC1">Poimi sivuja</text>
+		<text id="tool.extractPages.desc" h="54BB795B">Poimii PDF-dokumentista määritetyn sivualueen uudeksi dokumentiksi.</text>
+		<text id="tool.filesToPDF" h="4CD7DD2F">Muuntaa tiedostoja PDF-tiedostoiksi</text>
+		<text id="tool.filesToPDF.desc" h="603206C4">Muuntaa tuettuja muotoja olevat lähdetiedostot PDF tiedostoiksi.</text>
+		<text id="tool.flattenComments" h="CBA1AA18">Tiivistä kommentit</text>
+		<text id="tool.flattenComments.desc" h="20A41E96">Muuntaa merkintöjä perussisältökohteiksi.</text>
+		<text id="tool.imagesToPDF" h="B0C7E05C">Luo  PDF kuvista</text>
+		<text id="tool.imagesToPDF.desc" h="0FDB3BE0">Luo yhden PDF-dokumentin yhdestä tai useammasta rasterikuvasta.</text>
+		<text id="tool.insertEmptyPages" h="3779032F">Lisää tyhjiä sivuja</text>
+		<text id="tool.insertEmptyPages.desc" h="65380D33">Lisää tyhjiä sivuja asiakirjaan.</text>
+		<text id="tool.insertPages" h="6B486B45">Lisää sivuja</text>
+		<text id="tool.insertPages.desc" h="E986FB1C">Lisää sivuja asiakirjaan valitusta asiakirjasta.</text>
+		<text id="tool.isused" h="F0A66FDB">Työkalua &lt;b&gt;"%1"&lt;/b&gt; ei voi poistaa.Sitä käytetään kansiovalvonnassa.</text>
+		<text id="tool.nameTip" h="92682EAF">Syötä työkalun nimi...</text>
+		<text id="tool.new.name" h="6431F60C">Uusi työkalu</text>
+		<text id="tool.ocrPages" h="D2A189BC">Sivujen OCR-tekstintunnistus</text>
+		<text id="tool.ocrPages.desc" h="E9D91493">Tunnistaa optisesti PDF-dokumentissa olevat merkit ja luo sivuille kerroksen, jossa teksi on valittavissa ja haettavissa.</text>
+		<text id="tool.optimizePDF" h="E369C144">Optimoi PDF</text>
+		<text id="tool.optimizePDF.desc" h="2DDF7F6C">Optimoi dokumentin sisällön pienentääkseen PDF-tiedoston kokoa, jos mahdollista.</text>
+		<text id="tool.overlayDoc" h="A113E021">Kerros-PDF</text>
+		<text id="tool.overlayDoc.desc" h="8AC5B664">Kerrosta PDF-dokumentit toisen PDF-dokumentin kanssa.</text>
+		<text id="tool.pageTransitions" h="B5EF0B7A">Aseta sivun siirtymät</text>
+		<text id="tool.pageTransitions.desc" h="33F5B755">Muuttaa sivun siirtymiä kokonäytön tilassa.</text>
+		<text id="tool.pdfToDOCX" h="D89F515F">Vie PDF Microsoft Word -asiakirjaksi</text>
+		<text id="tool.pdfToDOCX.desc" h="D34FB81F">Vie PDF-dokumentit Microsoft Word -asiakirjoiksi (*.docx).</text>
+		<text id="tool.pdfToImages" h="6DC3C315">Vie PDF kuviksi</text>
+		<text id="tool.pdfToImages.desc" h="87E8923B">Vie yhdestä tai useammasta PDF-tiedostosta sivuja eri rasterikuvamuotoihin, kuten JPEG, PNG, TIFF jne.</text>
+		<text id="tool.pdfToPPTX" h="E673A7B8">Vie PDF Microsoft PowerPoint -esitykseksi</text>
+		<text id="tool.pdfToPPTX.desc" h="65E608C6">Vie PDF-dokumentit Microsoft PowerPoint -esityksiksi (*.pptx).</text>
+		<text id="tool.pdfToTXT" h="29DDD177">Vie PDF Vain teksti -muotoon</text>
+		<text id="tool.pdfToTXT.desc" h="9C277C15">Vie PDF-dokumentit Vain teksti -tiedostoiksi (*.txt).</text>
+		<text id="tool.pdfToXSLX" h="A31C131A">Vie PDF Microsoft Excel -taulukkoon</text>
+		<text id="tool.pdfToXSLX.desc" h="325AEA86">Vie PDF-dokumentit Microsoft Excel -tiedostoon (*.xlsx).</text>
+		<text id="tool.printDocument" h="4F3750AE">Tulosta dokumentti</text>
+		<text id="tool.printDocument.desc" h="52ECFAA3">Tulostaa syötedokumentit.</text>
+		<text id="tool.removeBackground" h="E0246483">Poista sivun tausta</text>
+		<text id="tool.removeBackground.desc" h="17700648">Poistaa sivuilta mukautetut taustat ja palauttaa valkoisen oletustaustan.</text>
+		<text id="tool.removeBatesNumbering" h="901F5ABD">Poista Bates-numerointi</text>
+		<text id="tool.removeBatesNumbering.desc" h="E4FBEB3C">Poistaa Bates-numeroinnin.</text>
+		<text id="tool.removeHeaderAndFooter" h="11E8A996">Poista ylä- ja alatunniste</text>
+		<text id="tool.removeHeaderAndFooter.desc" h="E1CC0743">Poistaa kaikki olemassa olevat ylä- ja alatunnisteet.</text>
+		<text id="tool.removeWatermarks" h="93F16CE2">Poista vesileimat</text>
+		<text id="tool.removeWatermarks.desc" h="AFCD3BD4">Poistaa dokumentin kaikki vesileimat.</text>
+		<text id="tool.replacePages" h="1311083C">Korvaa sivuja</text>
+		<text id="tool.replacePages.desc" h="9C48D712">Korvaa dokumentin sivuja valitun dokumentin sivuilla.</text>
+		<text id="tool.report.dlg" h="E9D63CB7">Työkalun raportti</text>
+		<text id="tool.report.filename" h="C7908B93">Työkalun suoritusraportti</text>
+		<text id="tool.report.save" h="418B87C2">Tallenna tiedostoon...</text>
+		<text id="tool.resizePages" h="8A5C31F1">Muuta sivun kokoa</text>
+		<text id="tool.resizePages.desc" h="822401DC">Suurentaa tai pienentää sivujen kokoa, skaalaa valinnaisesti samalla sivun sisällön.</text>
+		<text id="tool.rotatePages" h="CBD82045">Kierrä sivuja</text>
+		<text id="tool.rotatePages.desc" h="66235E38">Kiertää PDF-dokumentista määritettyjä sivuja 90 astetta myötäpäivään tai vastapäivään.</text>
+		<text id="tool.scanToPDF" h="B9A05395">Skannaa PDF tiedostoksi</text>
+		<text id="tool.scanToPDF.desc" h="521CD5C0">Luo paperiasiakirjasta uuden PDF-dokumentin skannerin avulla.</text>
+		<text id="tool.securePDF" h="400E69FB">Suojaa PDF</text>
+		<text id="tool.securePDF.desc" h="322DE365">Suojaa PDF-dokumentin asettamalla salasanan avaamiseen ja/tai dokumentin sisällön muuttamiseen.</text>
+		<text id="tool.sendMail" h="9377A75B">Lähetä sähköpostia</text>
+		<text id="tool.sendMail.desc" h="13681586">Lähettää tiedostot määritettyyn sähköpostiosoitteeseen käyttämällä nykyistä 'Lähetä sähköpostia' -menetelmää.</text>
+		<text id="tool.splitMergePDF" h="51A86996">Jaa/Yhdistä PDF-tiedostoja</text>
+		<text id="tool.splitMergePDF.desc" h="73710D3B">Yhdistää kaikki lähdetiedostot yhdeksi tai jakaa ne uusiksi PDF-tiedostoiksi, automaattisesti ja/tai manuaalisesti.</text>
+		<text id="tool.splitPages" h="2648812F">Jaa sivuja</text>
+		<text id="tool.splitPages.desc" h="4FA35C77">Jakaa PDF-dokumentin sivuja.</text>
+		<text id="tool.summarizeComments" h="2233C1CD">Yhteenveto kommenteista</text>
+		<text id="tool.summarizeComments.desc" h="8EA1DEF5">Luo yhteenvedon kaikista PDF-dokumentin kommenteista.</text>
+		<text id="tool.textToPDF" h="ECE46B63">Luo  PDF tekstistä</text>
+		<text id="tool.textToPDF.desc" h="E1CF697C">Luo yhden PDF-dokumentin yhdestä tai useammasta tekstitiedostosta.</text>
+		<text id="tool.warn.actIncompatible" h="AE17E68E">tämä toiminto ei ole yhteensopiva toiminnon &lt;u&gt;%1&lt;/u&gt; kanssa. Jokin näistä toiminnoista on ohitettava</text>
+		<text id="tool.warn.actInvalid1" h="8442B509">Toiminnossa havaittiin yksi tai useampi ongelma:</text>
+		<text id="tool.warn.actInvalid2" h="442E6045">Tässä toiminnossa havaittiin virhe:</text>
+		<text id="tool.warn.actReqDoc" h="76C84E2B">tämä toiminto vaatii lähteeksi PDF:n, kuvan tai muun tuetun tiedoston</text>
+		<text id="tool.warn.actReqFile1" h="0B30D02F">tämä toiminto vaatii lähteeksi tiedostoja - voit lisätä &lt;u&gt;%1&lt;/u&gt;-toiminnon ennen tätä ongelman ratkaisemiseksi</text>
+		<text id="tool.warn.actReqFile2" h="CA8342FE">tämä toiminto vaatii lähteeksi tiedostoja</text>
+		<text id="tool.warn.actReqFile21" h="65B62BA0">unohdit lisätä &lt;u&gt;%1&lt;/u&gt;-toiminnon ennen tätä</text>
+		<text id="tool.warn.actReqImg" h="D28A3C63">tämä toiminto vaatii lähteeksi kuvan</text>
+		<text id="tool.warn.actReqSaveRes" h="3621DC81">toiminnon tulos on tallennettava levylle - voit lisätä toiminnon &lt;u&gt;%1&lt;/u&gt; tämän jälkeen ratkaistaksesi ongelman</text>
+		<text id="tool.warn.actReqSaveRes2" h="9B55FE54">työkalu sisältää &lt;u&gt;%1&lt;/u&gt; aikaisempien toimintojen joukossa ja sen tulos täytyy tallentaa ennen &lt;i&gt;tämän&lt;/i&gt; toiminnon käyttämistä. Sinun täytyy lisätä toiminto &lt;u&gt;%2&lt;/u&gt;.</text>
+		<text id="tool.warn.actTitle" h="7330FC41">&lt;u&gt;%1&lt;/u&gt; toiminto:</text>
+		<text id="tool.warn.cancel" h="8DD6365D">Haluatko lopettaa työkalun &lt;b&gt;"%1"&lt;/b&gt; suorittamisen?
+Jos et - napsauta&lt;b&gt; "Ei"&lt;/b&gt; jatkaaksesi työtä...</text>
+		<text id="tool.warn.empty" h="D05A0C43">työkalu on tyhjä -  voit napsauttaa työkalurivin painiketta '&lt;b&gt;Muokkaa&lt;/b&gt;'  ja lisätä toimintoja työkaluun.</text>
+		<text id="tool.warn.empty2" h="B4FD144F">Työkalu on tyhjä: ei määritettyjä toimintoja.</text>
+		<text id="tool.warn.imgNotFound" h="9A768995">Kuvia ei löydy.</text>
+		<text id="tool.warn.invalidActList" h="A2BB75D7">Työkalulla on puutteellinen toimintoluettelo.</text>
+		<text id="tool.warn.nextActNotSuitable" h="17376D04">&lt;i&gt;next&lt;/i&gt; -toimintoa ei voi käyttää, koska se ei hyväksy toiminnon &lt;i&gt;this&lt;/i&gt; tulosta syöttötietona</text>
+		<text id="tool.warn.nextActNotSuitable2" h="49941252">Voit ratkaista ongelman lisäämällä toiminnon &lt;u&gt;%1&lt;/u&gt; toiminnon &lt;i&gt;this&lt;/i&gt; perään</text>
+		<text id="tool.warn.nooperation" h="0063BA81">tähän toimintoon ei voi luoda toimintoa. Asenna tai korjaa vastaava laajennus</text>
+		<text id="tool.warn.runInvalid" h="58A31432">Työkalu &lt;b&gt;"%1"&lt;/b&gt; on virheellinen. Jos haluat käyttää sitä, korjaa toimintojen luetteloa.
+
+Haluatko muokata työkalua?</text>
+		<text id="tool.warn.toolInvalid1" h="D448BEEB">Työkalussa havaittiin yksi tai useampi ongelma:</text>
+		<text id="tool.warn.toolInvalid2" h="560926B8">Tässä työkalussa havaittiin virhe:</text>
+		<text id="toolActionsList" h="C9BE1A16">Työkalun toimintojen järjestys</text>
+		<text id="toolCategories" h="DB5C4D49">Luokat</text>
+		<text id="toolInfo" h="979A9FE1">Työkalun tiedot</text>
+		<text id="toolInfo.defaultDesc" h="D1FD06B6">Valitse luettelosta työkalu, jonka tiedot haluat nähdä.</text>
+		<text id="toolcat.PDFStandard" h="E51FAF25">PDF-standardi</text>
+		<text id="toolcat.advanced" h="59A2B513">Laajennettu</text>
+		<text id="toolcat.all" h="BF2EE9E9">Kaikki työkalut</text>
+		<text id="toolcat.bookmarks" h="E2032460">Kirjanmerkit</text>
+		<text id="toolcat.comments" h="FA5EB905">Kommentit</text>
+		<text id="toolcat.createPDF" h="ACF7EBD1">Luo PDF</text>
+		<text id="toolcat.customTools" h="22F07048">Mukautetut työkalut</text>
+		<text id="toolcat.exportPDF" h="4AE54AB5">Vie PDF</text>
+		<text id="toolcat.favorites" h="310DA860">Suosikit</text>
+		<text id="toolcat.importedTools" h="48FF1B1E">Tuodut työkalut</text>
+		<text id="toolcat.mostUsed" h="6274AE53">Eniten käytetty</text>
+		<text id="toolcat.newname" h="DB2A8F96">Uusi luokka</text>
+		<text id="toolcat.optimizePDF" h="E369C144">Optimoi PDF</text>
+		<text id="toolcat.pages" h="47B1CB74">Sivut</text>
+		<text id="toolcat.protection" h="B7EE190B">Suojaus</text>
+		<text id="toolcat.recents" h="F90189AF">Viimeaikaiset</text>
+		<text id="toolsList" h="CA8BB4DB">Työkalut</text>
+		<text id="toolselect.lbl" h="ECBB264F">Valitse suoritettava työkalu:</text>
+		<text id="toolslist.drop.nofiles" h="4F3412DD">Pudottavia tiedostoja ei ole.</text>
+		<text id="toolslist.tip.icofavorite.add" h="F53B42E1">Lisää työkalu Suosikit-luokkaan napsauttamalla tätä</text>
+		<text id="toolslist.tip.icofavorite.remove" h="04AC30FF">Työkalu on suosikkiluokassa.Poista työkalu Suosikit-luokasta napsauttamalla</text>
+		<text id="toolslist.tip.icomonitor" h="4A7E7A48">Työkalua käytetään kansion valvonnassa</text>
+		<text id="toolslist.tip.icouser" h="9864F819">Mukautetut työkalut</text>
+		<text id="toolsview.warning.emptyname" h="38B7A2E0">Työkalulla pitää olla nimi.</text>
+		<text id="type" h="710B61B4">Tyyppi</text>
+		<text id="userui.disable" h="14084105">Poista käytöstä vuorovaikutus</text>
+		<text id="userui.tooltip" h="439FDF26">Tämä asetus estää kaikki käyttöliittymän vuorovaikutukset, kun työkalut ovat käynnissä, kuten mukautus-valintaikkunoissa ja tulostustiedostojen näytössä.HUOM. Joillekin työkaluille, kuten &lt;b&gt;"%1"&lt;/b&gt;, vaaditaan alustus, joten asetus näytetään ensimmäisellä käynnistyskerralla.</text>
+		<text id="userui.usetool" h="D5A05798">Käytä työkalun asetuksia</text>
+		<text id="usetool.filter" h="4885292B">Käytä suodatinta työkalusta</text>
+		<text id="warn.textDocSkipOCR" h="FB74BE26">PDF-dokumentti sisältää tekstiä. OCR-toimintoa ei käytetä</text>
+		<text id="weblinks.grp" h="BC392B82">Valitse sivut, joilta WEB-linkit luodaan:</text>
+		<text id="wrong.file.msg" h="9F0126B0">Kerrostettavaa PDF-tiedostoa ei voi avata:
+&lt;b&gt;%1&lt;/b&gt;:
+%2
+Haluatko valita toisen? </text>
+	</Strings>
+</Localization>

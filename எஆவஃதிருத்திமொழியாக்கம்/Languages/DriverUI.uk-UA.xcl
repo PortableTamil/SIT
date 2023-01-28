@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171024234257">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXDriver"/>
+	<Language eName="Ukrainian (Ukraine)" lName="Українська" code="uk-UA" R2L="false"/>
+	<Module name="DriverUI" namespace="" version="6.0.322.7"/>
+	<Strings>
+		<text id="btn.ok" h="FEF0C771">Так</text>
+		<text id="btn.cancel" h="3D302A38">Відміна</text>
+		<text id="btn.yes" h="E38DE015">Так</text>
+		<text id="btn.no" h="B7A441B2">Ні</text>
+		<text id="btn.default" h="F24132BD">За замовчуванням</text>
+		<text id="btn.retry" h="82619C32">Повторити</text>
+		<text id="btn.add" h="B1378310">Додати</text>
+		<text id="btn.add_" h="9B7E8822">Додати...</text>
+		<text id="btn.remove" h="FCE39C1F">Видалити</text>
+		<text id="btn.remove_" h="C733C727">Видалити...</text>
+		<text id="btn.browse" h="61C204E1">Вибір...</text>
+		<text id="btn.browse.dot" h="89B34A98">...</text>
+		<text id="btn.close" h="6298A5AF">Закрити</text>
+		<text id="btn.saveAs" h="34A2687C">Зберегти як...</text>
+		<text id="None" h="F9398D7D">Не вказано</text>
+		<text id="None2" h="18A77318">&lt;Не вказано&gt;</text>
+		<text id="Yes" h="DC948BC4">Так</text>
+		<text id="No" h="6651A799">Ні</text>
+		<text id="issuer" h="278A5A41">Видавець</text>
+		<text id="expirationDate" h="62A26CAB">Дата закінчення терміну дії</text>
+		<text id="certificate.noname" h="7E323CFC">&lt;Ім’я недоступне&gt;</text>
+		<text id="Auto" h="471FE15D">Автоматично</text>
+		<text id="Mixed" h="B107EE41">Змішано</text>
+		<text id="Default" h="B6EF2024">За замовчуванням</text>
+		<text id="MoreColors" h="8E37A577">Більше кольорів ...</text>
+		<text id="StdColors" h="E77B1524">Стандартні кольори</text>
+		<text id="CustColors" h="E549B850">Нестандартний колір</text>
+		<text id="True" h="2C126145">Так</text>
+		<text id="False" h="6E2C778C">Неправильно</text>
+		<text id="propGroup.general" h="30673BCD">Загальне</text>
+		<text id="propGroup.other" h="4D02ADCA">Інше</text>
+		<text id="rangesNavigator.delSelRange" h="1679F90E">Видалии вибраний діапазон</text>
+		<text id="rangesNavigator.addNewRange" h="21AD5513">Додати новий діапазон</text>
+		<text id="NoDesc2" h="18F77191">&lt;Без опису&gt;</text>
+		<text id="Undo" h="86E67B4B">Відмінити</text>
+		<text id="Redo" h="E6E48291">Повторити</text>
+		<text id="Cut" h="61816B61">Обрізати</text>
+		<text id="Copy" h="348DE55D">Копіювати</text>
+		<text id="Paste" h="2BCB0ED4">Вставити</text>
+		<text id="Delete" h="D8FE3F70">Видалити</text>
+		<text id="Select" h="3E697735">Виділити</text>
+		<text id="SelectAll" h="35E0E32F">Виділити все</text>
+		<text id="DeselectAll" h="699E910A">Скасувати вибір</text>
+		<text id="Ignore" h="84719564">Пропустити</text>
+		<text id="IgnoreAll" h="8DA1370A">Пропустити все</text>
+		<text id="TextStyle" h="1FF454A3">Стиль тексту</text>
+		<text id="NoSuggestions" h="486A5F0F">(Без підказок у правописі)</text>
+		<text id="AddToDict" h="1E16C146">Додати до словника</text>
+		<text id="TextDirection" h="9A7C92FA">Напрямок тексту</text>
+		<text id="color.Black" h="8EC6ABE8">Чорний</text>
+		<text id="color.Brown" h="7FF1DD0C">Коричневий</text>
+		<text id="color.DarkOliveGreen" h="3B0086DA">Темно-оливковий зелений</text>
+		<text id="color.DarkGreen" h="32CD6682">Темно-зелений</text>
+		<text id="color.DarkTeal" h="07E82FA9">Темний зеленкувато-синій</text>
+		<text id="color.DarkBlue" h="948A3D4C">Темно-синій</text>
+		<text id="color.Indigo" h="A2D50E5C">Індиго</text>
+		<text id="color.DarkGrey" h="53D85A01">Темно-сірий</text>
+		<text id="color.DarkRed" h="404DA909">Темно-червоний</text>
+		<text id="color.Orange" h="DF701C8C">Оранжевий</text>
+		<text id="color.DarkYellow" h="2C647852">Темно-жовтий</text>
+		<text id="color.Green" h="C253AA3A">Зелений</text>
+		<text id="color.Teal" h="3C7828E7">Зеленкувато-синій</text>
+		<text id="color.Blue" h="AF1A3A02">Синій</text>
+		<text id="color.BlueGrey" h="2DEC56B3">Синьо-сірий</text>
+		<text id="color.Grey40" h="E3913C79">Сірий 40%</text>
+		<text id="color.Red" h="B3D0FF91">Червоний</text>
+		<text id="color.LightOrange" h="56F40088">Світло-оранжевий</text>
+		<text id="color.Lime" h="7FF0C6F3">Лайм</text>
+		<text id="color.SeaGreen" h="68AFBFF8">Морської води</text>
+		<text id="color.Aqua" h="FAB1E9A0">Зеленкувато-блакитний</text>
+		<text id="color.LightBlue" h="45312AF4">Блакитний</text>
+		<text id="color.Violet" h="301DE95C">Фіолетовий</text>
+		<text id="color.Grey50" h="28CDEFDC">Сірий 50%</text>
+		<text id="color.Pink" h="D8D260F7">Рожевий</text>
+		<text id="color.Gold" h="55646F9C">Золотий</text>
+		<text id="color.Yellow" h="92AA22E7">Жовтий</text>
+		<text id="color.BrightGreen" h="883F84F6">Яскраво-зелений</text>
+		<text id="color.Turquoise" h="26F8E234">Бірюзовий</text>
+		<text id="color.Skyblue" h="7BD04AE5">Небесно-блакитний</text>
+		<text id="color.Plum" h="595D865C">Сливовий</text>
+		<text id="color.LightGrey" h="82634DB9">Світло-сірий</text>
+		<text id="color.Rose" h="705E265B">Рожевий</text>
+		<text id="color.Tan" h="10046351">Рудувато-коричневий</text>
+		<text id="color.LightYellow" h="1B2E3EE3">Світло-жовтий</text>
+		<text id="color.PaleGreen" h="91D8BB4B">Блідо-зелений</text>
+		<text id="color.PaleTurquoise" h="8C6FB540">Блідо-бірюзовий</text>
+		<text id="color.PaleBlue" h="F5990CA0">Блідо-блакитний</text>
+		<text id="color.Lavender" h="DC3DBC32">Лавандовий</text>
+		<text id="color.White" h="74152F7B">Білий</text>
+		<text id="edit.InsertText" h="A931622B">Вставити текст "%1"</text>
+		<text id="edit.DeleteText" h="AAB9C45C">Видалити текст "%1"</text>
+		<text id="edit.PasteText" h="6DC029B4">Вставити текст "%1"</text>
+		<text id="edit.ModifyTextFormat" h="B2A9BA03">Змінити формат тексту</text>
+		<text id="edit.ModifyTextFont" h="E57A5027">Змінити шрифт тексту</text>
+		<text id="edit.ModifyTextSize" h="8BDA6FAD">Змінити розмір тексту</text>
+		<text id="edit.ModifyTextColor" h="C187B5B1">Змінити колір тексту</text>
+		<text id="edit.ModifyParaFormat" h="A4EFE81F">Змінити формат параграфа</text>
+		<text id="edit.ModifyParaAlign" h="5ABCBBF1">Змінити вирівнювання параграфа</text>
+		<text id="edit.SetLanguage" h="D8D265EB">Встановити мову</text>
+		<text id="layout.CloseTab" h="35FC1AA9">Закрити вкладку</text>
+		<text id="layout.DnDAllTabs" h="BC9A3B7F">Перетягнути всі вкладки</text>
+		<text id="layout.ShowTabsThumbs" h="4F46DD77">Показати мініатюри вкладок</text>
+		<text id="layout.ShowSortedTabs" h="2FA2819E">Показати відсортовані вкладки</text>
+		<text id="layout.ScrollTabsLeft" h="B23B9425">Прокрутити вкладки вліво</text>
+		<text id="layout.AddNewTab" h="2C5251EB">Додати нову закладку</text>
+		<text id="layout.ScrollTabsRight" h="AA40041A">Прокрутити вкладки вправо</text>
+		<text id="layout.CloseActiveTab" h="B83CF8F4">Закрити активну вкладку</text>
+		<text id="layout.Close" h="9594DBB7">Закрити</text>
+		<text id="layout.clickToShow" h="E85C828D">Клацніть, щоб показати</text>
+		<text id="layout.clickToHide" h="AD248B87">Клацніть, щоб приховати</text>
+		<text id="driver.mode.auto" h="471FE15D">Автоматично</text>
+		<text id="driver.mode.gdi" h="D86FFE0D">GDI</text>
+		<text id="driver.mode.xps" h="45B97450">XPS</text>
+		<text id="rules.column.app" h="66E8E89C">Програма</text>
+		<text id="rules.column.mode" h="97850036">Режим драйвера</text>
+		<text id="profile.default.title" h="67249AEE">Задані налаштування</text>
+		<text id="profile.default.desc" h="C63AA327">Задані налаштування драйвера</text>
+		<text id="profile.filter" h="1D42128D">PDF-XChange Printer Profile (*.pxpp)</text>
+		<text id="profile.title" h="0295B9AE">Вибрати профайл</text>
+		<text id="profile.newName" h="5A67CE17">Новий профайл</text>
+		<text id="product.ID" h="0F1AA23D">Ідентифікатор: %1</text>
+		<text id="licence.type" h="02FA2D70">Тип ліцензії: %1</text>
+		<text id="paper.group.ISO" h="79F157DD">ISO</text>
+		<text id="paper.group.ANSI" h="D7990290">ANSI</text>
+		<text id="paper.group.Envelope" h="1D74D29F">Конверт</text>
+		<text id="paper.group.JIS" h="26B6CFD5">JIS</text>
+		<text id="paper.group.Misc" h="04ADA73E">Різне</text>
+		<text id="paper.group.Custom" h="A918FF38">Власний</text>
+		<text id="sheet.auto" h="471FE15D">Автоматично</text>
+		<text id="sheet.custom" h="0B8B6CAF">Власний розмір</text>
+		<text id="unit.inch" h="86129307">дюйм</text>
+		<text id="unit.millimeter" h="C982BDAD">міліметр</text>
+		<text id="unit.point" h="BF2CAA20">пункт</text>
+		<text id="unit.in" h="42AF015F">дюйм</text>
+		<text id="unit.mm" h="E6E0C5CB">мм</text>
+		<text id="unit.pt" h="DF93E391">п.</text>
+		<text id="paperlayout.standard" h="C6DA1F99">Стандарт</text>
+		<text id="paperlayout.nUP" h="D4485C9D">Кратна кількість сторінок на аркуш</text>
+		<text id="paperlayout.booklet" h="901EA828">Буклет</text>
+		<text id="nUP.1" h="EEAD9B73">1 сторінка</text>
+		<text id="nUP.2" h="5A659345">2 сторінки</text>
+		<text id="nUP.4" h="A2A7D8F3">4 сторінки</text>
+		<text id="nUP.6" h="43C91C5E">6 сторінок</text>
+		<text id="nUP.8" h="885249DE">8 сторінок</text>
+		<text id="nUP.9" h="155DA8A8">9 сторінок</text>
+		<text id="nUP.16" h="1CB9C82C">16 сторінок</text>
+		<text id="nUP.order.L2R" h="949DEA01">Зліва направо</text>
+		<text id="nUP.order.R2L" h="171EAD0C">Справа наліво</text>
+		<text id="nUP.order.L2R2D" h="C8FF2262">Вправо і вниз</text>
+		<text id="nUP.order.L2D2R" h="EB9F4ED9">Зліва вниз</text>
+		<text id="nUP.order.R2L2D" h="377AB1A5">Вліво и вниз</text>
+		<text id="nUP.order.R2D2L" h="744FC8C5">Справа вниз</text>
+		<text id="bookletType.brochure" h="BC6BC70D">Брошура</text>
+		<text id="bookletType.book" h="88A9D2D9">Книга</text>
+		<text id="langsList.column.name" h="F479395C">Стандартне ім'я</text>
+		<text id="langsList.column.locName" h="45A2C755">Локальне ім'я</text>
+		<text id="langs.Default" h="A50C20C9">Англійська (США), вбудована</text>
+		<text id="langs.Auto" h="343D08C2">Використовувати регіональні налаштування</text>
+		<text id="compr.auto" h="471FE15D">Автоматично</text>
+		<text id="compr.zip" h="D460493A">Flate</text>
+		<text id="compr.jpeg" h="58DE58E0">JPEG</text>
+		<text id="compr.jpeg.zip" h="077BB505">JPEG/ZIP</text>
+		<text id="compr.j2k" h="BDEDDBB8">JPEG 2000</text>
+		<text id="compr.j2k.zip" h="5A9C90B5">JPEG 2000/ZIP</text>
+		<text id="compr.rle" h="82741A51">Run Length</text>
+		<text id="compr.lzw" h="D62F11BD">LZW</text>
+		<text id="compr.ccitt3" h="B7DD624B">CCITT Group 3</text>
+		<text id="compr.ccitt4" h="F89CF48C">CCITT Group 4</text>
+		<text id="compr.jbig2" h="DE3BC257">JBIG 2</text>
+		<text id="compr.jbig2.std" h="C6DA1F99">Стандарт</text>
+		<text id="compr.jbig2.crop" h="089616A4">Обрізати краї</text>
+		<text id="compr.jbig2.symbol" h="F60560F2">Символьний стиск</text>
+		<text id="conv.none" h="B58BD00F">Без перетворення</text>
+		<text id="conv.gray" h="AB87F2BA">Перетворити в сіре зображення</text>
+		<text id="conv.mono" h="CBA1AA37">Перетворити в монохромне зображення </text>
+		<text id="conv.bw" h="21CB967C">Перетворити в чорно-біле зображення </text>
+		<text id="down.none" h="747AEF4D">Без зменшення</text>
+		<text id="down.linear" h="A774B742">Лінійно зменшити до</text>
+		<text id="down.bilinear" h="404DEC83">Білінійно зменштити до</text>
+		<text id="down.bicubic" h="8DB42DD1">Бікубічно зменшити до</text>
+		<text id="align.left" h="8CEAA299">Зліва</text>
+		<text id="align.center" h="CBEFB4D0">По центру</text>
+		<text id="align.right" h="2D8A4EE6">Справа</text>
+		<text id="align.top" h="249A2BBD">Зверху</text>
+		<text id="align.middle" h="D27F520F">Посередині</text>
+		<text id="align.bottom" h="08F4AB6F">Знизу</text>
+		<text id="overlay.filter" h="21DC74BD">PDF документи (*.pdf)</text>
+		<text id="overlay.title" h="74E5784A">Вибрати файл накладання</text>
+		<text id="extrafile.title" h="2844ABF8">Вибрати файл</text>
+		<text id="border.type.none" h="B6C5BE05">Без рамки</text>
+		<text id="border.type.underline" h="2A187377">Підкреслення</text>
+		<text id="border.type.rect" h="7D22CD90">Прямокутник</text>
+		<text id="border.style.solid" h="9C9EA9A8">Суцільний</text>
+		<text id="border.style.dashed" h="39AEAEE8">Пунктирний</text>
+		<text id="border.style.dotted" h="59B655A2">Точковий</text>
+		<text id="blendMode.mode0" h="168CFA48">Звичайне</text>
+		<text id="blendMode.mode1" h="2F76AE4A">Множинний</text>
+		<text id="blendMode.mode2" h="CF00816C">Екран</text>
+		<text id="blendMode.mode3" h="F84F5CCD">Перекрити</text>
+		<text id="blendMode.mode4" h="897F3452">Затемнити</text>
+		<text id="blendMode.mode5" h="76486572">Освітлити</text>
+		<text id="blendMode.mode6" h="4BC50C39">Виділити колір</text>
+		<text id="blendMode.mode7" h="1C127744">Висвітлити колір</text>
+		<text id="blendMode.mode8" h="0E4D1D58">Різкий колір</text>
+		<text id="blendMode.mode9" h="8EBD9A0E">М’який колір</text>
+		<text id="blendMode.mode10" h="5C4C0DB6">Різниця</text>
+		<text id="blendMode.mode11" h="55666E14">Виключення</text>
+		<text id="detesselation.mode0" h="F9398D7D">Жоден</text>
+		<text id="detesselation.mode1" h="B05E374B">Простий</text>
+		<text id="email.method0" h="E67462E4">Запустити заданий поштовик</text>
+		<text id="email.method1" h="8E35F75F">Відправляти через заданий поштовик</text>
+		<text id="email.method2" h="D1439B34">Відправляти зразу через SMTP сервер</text>
+		<text id="email.mapi.title" h="10BF58CC">Вказати отримувачів</text>
+		<text id="save.smtp.auth0" h="F9398D7D">Пусто</text>
+		<text id="save.smtp.auth1" h="0ACB840D">Використовувати STARTTLS</text>
+		<text id="save.smtp.auth2" h="C0BEF71C">Використовувати SSL/TLS</text>
+		<text id="saveType.type0" h="7E1941B5">Скористатись pdfSaver™ для керування задачами</text>
+		<text id="saveType.type1" h="CA86F5C8">Додати дану задачу до останньої активної</text>
+		<text id="saveType.type2" h="DA754594">Записати створений PDF файл</text>
+		<text id="saveType.type3" h="C59E79F5">Створити PDF, відправити ел. поштою і видалити</text>
+		<text id="saveExists.type0" h="0D4B40B1">Показувати діалог з попередженням</text>
+		<text id="saveExists.type1" h="B605C0F3">Завжди замінювати</text>
+		<text id="saveExists.type2" h="A8CFCFB8">Авто-нумерація</text>
+		<text id="saveExists.type3" h="1C9B2F2A">Добавити до даного</text>
+		<text id="saveExists.type4" h="72FE1173">Помістити перед даним</text>
+		<text id="saveExists.type5" h="A00336E6">Запитувати нове ім’я файла</text>
+		<text id="save.browseFolder" h="74154CC7">Вибрати папку для зберігання отриманих файлів в</text>
+		<text id="save.app.title" h="B6BC08CF">Вибрати програму</text>
+		<text id="save.app.filter.exe" h="A976550E">Файл запуску  (*.exe)</text>
+		<text id="save.app.filter.all" h="EEDB8F4F">Всі файли</text>
+		<text id="hf.header" h="608B00E9">Верхній</text>
+		<text id="hf.footer" h="88C45397">Нижній</text>
+		<text id="hf.none" h="5D6722DD">&lt;жодний&gt;</text>
+		<text id="hf.pattern_0" h="962EF85B">Сторінка %1</text>
+		<text id="hf.pattern_1" h="BE4E95E1">Сторінка %1 з %2</text>
+		<text id="hf.pattern_2" h="839A130C">Секретний</text>
+		<text id="hf.pattern_3" h="CACAD862">Підготовлено %1 %2</text>
+		<text id="bm.mode0" h="0C46ECE4">Все відкрито</text>
+		<text id="bm.mode1" h="1A56CD8E">Все закрито</text>
+		<text id="bm.mode2" h="DBECA36A">Визначається елементом</text>
+		<text id="bm.mode3" h="5AC6D86A">Відкрити до вказаного рівня</text>
+		<text id="bm.fstyle0" h="BF452F19">Нормальний</text>
+		<text id="bm.fstyle1" h="1D8461F8">Півжирний</text>
+		<text id="bm.fstyle2" h="C61EB895">Курсив</text>
+		<text id="bm.fstyle3" h="1D47AA37">Півжир. курсив</text>
+		<text id="bm.level" h="533D38D5">Рівень %1</text>
+		<text id="encLevel.40RC" h="F45022E3">40-біт RC4 (Acrobat 3.0 і вище)</text>
+		<text id="encLevel.128RC" h="457934B5">128-біт RC4 (Acrobat 5.0 і вище)</text>
+		<text id="encLevel.128AES" h="FB60107D">128-біт AES (Acrobat 7.0 і вище)</text>
+		<text id="encLevel.256AES" h="25B75256">256-біт AES (Acrobat 9.0 і вище)</text>
+		<text id="encLevel.256AESR6" h="B4496CDA">256-біт AES R6 (Acrobat X і вище)</text>
+		<text id="enc.changes0" h="F9398D7D">Жодний</text>
+		<text id="enc.changes1" h="F5AAD140">Тільки редагування документу</text>
+		<text id="enc.changes2" h="8D9D64A1">Тільки заповнення полів форм чи підписання</text>
+		<text id="enc.changes3" h="AF018800">Додавання коментарів, заповнення полів форм</text>
+		<text id="enc.changes4" h="5C078DD2">Загальне редагування, створення/заповнення коментарів і полів форм</text>
+		<text id="enc.print0" h="50D7EDBB">Не дозволено</text>
+		<text id="enc.print1" h="D33F1C80">Низька розділова здатність</text>
+		<text id="enc.print2" h="1E5C0EC1">Без обмежень</text>
+		<text id="spec.auto" h="471FE15D">Автоматично</text>
+		<text id="spec.13" h="E6E813F4">Версія 1.3 (Acrobat 3.0 і вище)</text>
+		<text id="spec.14" h="2543EFD8">Версія 1.4 (Acrobat 5.0 і вище)</text>
+		<text id="spec.15" h="4E5114F2">Версія 1.5 (Acrobat 6.0 і вище)</text>
+		<text id="spec.16" h="F5B1EDF8">Версія 1.6 (Acrobat 7.0 і вище)</text>
+		<text id="spec.17" h="95DB0A4E">Версія 1.7 (Acrobat 8.0 і вище)</text>
+		<text id="spec.20" h="48278906">Версія 2.0</text>
+		<text id="spec.pdfa.1a" h="64CF1485">PDF/A-1a</text>
+		<text id="spec.pdfa.1b" h="4FE24746">PDF/A-1b</text>
+		<text id="spec.pdfa.2a" h="767ABB6B">PDF/A-2a</text>
+		<text id="spec.pdfa.2b" h="5D57E8A8">PDF/A-2b</text>
+		<text id="spec.pdfa.2u" h="58D46C3E">PDF/A-2u</text>
+		<text id="spec.pdfa.3a" h="CEC6DC0E">PDF/A-3a</text>
+		<text id="spec.pdfa.3b" h="E5EB8FCD">PDF/A-3b</text>
+		<text id="spec.pdfa.3u" h="E0680B5B">PDF/A-3u</text>
+		<text id="page.layout.default" h="5D937A45">Параметри перегляду за замовчуванням</text>
+		<text id="page.layout.singlePage" h="39A9F056">Одна сторінка</text>
+		<text id="page.layout.oneColumn" h="A12E03D3">Неперервно</text>
+		<text id="page.layout.twoPagesLeft" h="1B55DC78">Дві сторінки (Титульна сторінка)</text>
+		<text id="page.layout.twoPagesRight" h="38D09B41">Дві сторінки</text>
+		<text id="page.layout.twoColumnsLeft" h="DAED5097">Дві колонки (Титульна сторінка)</text>
+		<text id="page.layout.twoColumnsRight" h="CB1E034F">Дві колонки</text>
+		<text id="page.mode.default" h="5D937A45">Параметри перегляду за замовчуванням</text>
+		<text id="page.mode.none" h="26070E06">Тільки сторінки</text>
+		<text id="page.mode.bookmark" h="224DF1A0">Показати панель закладок</text>
+		<text id="page.mode.thumbnails" h="9B7F1418">Показати панель мініатюр сторінок</text>
+		<text id="page.mode.layers" h="5F54D2D3">Показати панель шарів</text>
+		<text id="page.mode.attachments" h="97605CC5">Показати панель вкладень</text>
+		<text id="page.mode.fullScreen" h="3BC2E4C1">Повнекраннний режим</text>
+		<text id="zoom.default" h="B6EF2024">За замовчуванням</text>
+		<text id="zoom.actualSize" h="5E4611C5">Дійсний розмір</text>
+		<text id="zoom.fitPage" h="E07FD6B2">До розмірів сторінки</text>
+		<text id="zoom.fitWidth" h="0AB6EA6C">По ширині</text>
+		<text id="zoom.fitHeight" h="F9EA7C91">По висоті</text>
+		<text id="zoom.fitVisible" h="D1A989D3">До розмірів вмісту</text>
+		<text id="trans.type.none" h="84AE3030">Без переходу</text>
+		<text id="trans.type.replace" h="0AD7C04B">Заміна</text>
+		<text id="trans.type.split" h="73C7987E">Розділення</text>
+		<text id="trans.type.comb" h="3FC8A185">Гребінець</text>
+		<text id="trans.type.blinds" h="A570ADB5">Затемнення</text>
+		<text id="trans.type.box" h="39CC4033">Обрамлення</text>
+		<text id="trans.type.wipe" h="FC5264CC">Стирання</text>
+		<text id="trans.type.dissolve" h="49B245E0">Розчинення</text>
+		<text id="trans.type.glitter" h="72796005">Мозаїка</text>
+		<text id="trans.type.flyIn" h="42ABD702">Спалах</text>
+		<text id="trans.type.flyOut" h="714AFAD0">Вилітання</text>
+		<text id="trans.type.push" h="25987E96">Витіснення</text>
+		<text id="trans.type.cover" h="4F3303D2">Покриття</text>
+		<text id="trans.type.uncover" h="62A51AE4">Відкриття</text>
+		<text id="trans.type.fade" h="7F6B17DC">Поступове злиття</text>
+		<text id="trans.type.random" h="F4885958">Випадково</text>
+		<text id="trans.mode.horIn" h="E83EC000">В горизонтальній</text>
+		<text id="trans.mode.horOut" h="C0AFB700">Горизонтальний з</text>
+		<text id="trans.mode.vertIn" h="F33AAC2D">В вертикальній</text>
+		<text id="trans.mode.vertOut" h="A481DB98">Вертикальний з</text>
+		<text id="trans.mode.hor" h="CDB47C8B">Горизонтальний</text>
+		<text id="trans.mode.vert" h="508CF71B">Вертикальний</text>
+		<text id="trans.mode.in" h="E29DAE61">Внутрішній</text>
+		<text id="trans.mode.out" h="1643AB1A">Зовнішній</text>
+		<text id="trans.mode.0" h="2D8A4EE6">Справа</text>
+		<text id="trans.mode.45" h="F02DBFA8">Справа вверху</text>
+		<text id="trans.mode.90" h="2C137999">Вверх</text>
+		<text id="trans.mode.135" h="04E1EA36">Зліва вверху</text>
+		<text id="trans.mode.180" h="8CEAA299">Зліва</text>
+		<text id="trans.mode.225" h="5F7E7454">Зліва внизу</text>
+		<text id="trans.mode.270" h="A61C506B">Знизу</text>
+		<text id="trans.mode.315" h="B509A0DF">Справа знизу</text>
+		<text id="dur.pattern" h="CEB4987D">%1 сек</text>
+		<text id="custom.form.name" h="207D7C65">Ім’я форми</text>
+		<text id="custom.form.sizeMM" h="B16A29F8">Розмір (мм)</text>
+		<text id="custom.form.sizeIN" h="E50D5298">Розмір (дюйм)</text>
+		<text id="custom.form.newName" h="F1E2436C">Форма користувача</text>
+		<text id="wtm.column.title0" h="D18643E3">Ім’я</text>
+		<text id="wtm.column.title1" h="51CDB637">Друкувати на</text>
+		<text id="wtm.column.title2" h="8693C3EA">На фоні</text>
+		<text id="wtm.column.title3" h="CD137DE4">Видимий для</text>
+		<text id="wtm.range.type0" h="32149646">Всі сторінки</text>
+		<text id="wtm.range.type1" h="C740A6A2">Тільки першу сторінку</text>
+		<text id="wtm.range.type2" h="3F1B0692">Тільки останню сторінку</text>
+		<text id="wtm.range.type3" h="82B8C270">Парні сторінки</text>
+		<text id="wtm.range.type4" h="6B7305B6">Непарні сторінки</text>
+		<text id="wtm.type.text" h="4D47FEC5">Водяний знак - Текст</text>
+		<text id="wtm.type.image" h="785F5EAB">Водяний знак - Зображення</text>
+		<text id="wtm.name.untitled" h="2C821098">&lt;Без назви&gt;</text>
+		<text id="wtm.visibleOn.view" h="2FCBB32C">Вигляд</text>
+		<text id="wtm.visibleOn.export" h="6D360289">Експорт</text>
+		<text id="wtm.visibleOn.print" h="17CF8D0A">Друкувати</text>
+		<text id="auto.size" h="471FE15D">Автоматично</text>
+		<text id="wtm.vis.pat1" h="C2D1C6C8">тільки %1</text>
+		<text id="wtm.vis.pat2" h="811F3E2C">%1 і %2</text>
+		<text id="wtm.vis.pat3" h="B7978C0D">%1, %2, і %3</text>
+		<text id="sign.reason.none" h="18A77318">&lt;Відсутні&gt;</text>
+		<text id="sign.reason.author" h="E5EE6464">Я є автором даного документа</text>
+		<text id="sign.reason.agreePortions" h="C314149A">Я погоджуюся із зазначеною частиною даного документа</text>
+		<text id="sign.reason.reviewed" h="82844CFE">Я переглянув(-ла) цей документ</text>
+		<text id="sign.reason.approving" h="B1A808AB">Я затверджую цей документ</text>
+		<text id="sign.reason.attest" h="69264D74">Я засвідчую точність і цілісність даного документа</text>
+		<text id="sign.reason.agreeTerms" h="5E38C209">Я погоджуюся з умовами, які визначені моїм підписом в документі</text>
+		<text id="sign.graphic.none" h="475DB295">Без зображення</text>
+		<text id="sign.graphic.image" h="DF6A504B">Зображення з файлу</text>
+		<text id="sign.graphic.name" h="8BFDAB3B">Найменувати як зображення</text>
+		<text id="cert.filter.PFX" h="57197ADC">Обмін особистими даними</text>
+		<text id="cert.openTitle" h="8488239C">Вибрати файл сертифікату</text>
+		<text id="cert.saveTitle" h="3F8886F2">Зберегти сертифікат</text>
+		<text id="cert.usage.digisig" h="F9D0083C">Цифрові підписи</text>
+		<text id="cert.usage.encryption" h="7DDDCF40">Шифрування даних</text>
+		<text id="cert.usage.both" h="E107F280">Цифрові підписи та шифрування даних</text>
+		<text id="cert.keyAlg.1024" h="27C369E8">1024-bit RSA</text>
+		<text id="cert.keyAlg.2048" h="E707241F">2048-bit RSA</text>
+		<text id="digisig.password.header" h="96999927">Цифровий підпис</text>
+		<text id="digisig.password.label" h="726DCB0F">Введіть пароль:</text>
+		<text id="digisig.password.label2" h="1CCEC2FE">Введений пароль недійсний. Будь ласка, введіть правильний пароль:</text>
+		<text id="digisig.certify.DocMDP1" h="B15220D4">Зміни заборонено</text>
+		<text id="digisig.certify.DocMDP2" h="550E66E3">Дозволити заповнення полів, підпис та створення шаблонів сторінок</text>
+		<text id="digisig.certify.DocMDP3" h="1BFCB157">Дозволити заповнення полів, підпис, коментування та створення шаблонів сторінок</text>
+		<text id="sign.by" h="CFEFFC81">%1</text>
+		<text id="msg.SMTP.NoServer" h="0141A9D3">Ім’я SMPT сервера повинно бути чітко визначеним.</text>
+		<text id="msg.SMTP.Remove" h="468A2A4A">Ви дійсно бажаєте видалити налаштування для вибраного SMPT сервера?</text>
+		<text id="msg.custom.form.delete" h="D5818ABF">Ви дійсно бажаєте знищити цю користувацьку форму?</text>
+		<text id="msg.custom.form.noDelete" h="96F67D4A">Ви не можете змінити або видалити користувацьку форму, визначену Вашим адміністратором для цього комп’ютера.</text>
+		<text id="msg.custom.form.noName" h="F0231E7A">Ви повинні вказати ім’я для вашої форми.</text>
+		<text id="msg.custom.form.noUnique" h="D3086CF3">Назва користувацької форми має бути унікальною.</text>
+		<text id="msg.wtm.noTitle" h="D3FF2D2C">Поле з назвою водяного знаку не може бути порожнім!</text>
+		<text id="msg.wtm.invName" h="80BBCEBB">Назва водяного знаку не може містити символ (;).</text>
+		<text id="msg.wtm.uniqueTitle" h="4EB400B7">Назва водяного знаку має бути унікальною!</text>
+		<text id="msg.wtm.delete" h="18BD3007">Ви дійсно бажаєте знищити цей водяний знак?</text>
+		<text id="msg.wtm.text" h="03F9D16D">Ви повинні визначити текст для водяного знаку.</text>
+		<text id="msg.wtm.image" h="96AAFCDF">Ви повинні вказати шлях до файлу із зобарженням і ім’я водяного знаку.</text>
+		<text id="msg.tsa.delete" h="1625F779">Ви дійсно бажаєте видалити цей опис сервера?</text>
+		<text id="msg.wrongCeritificate" h="4D7D8D33">Цифровий сертифікат не вибрано або неправильно заданно параметри. 
+Бажаєте скорегувати значення?</text>
+		<text id="msg.DigiSig.CertExpired" h="B5B2FB97">Термін дії вибраного сертифіката минув. Сертифікат не можна використовувати для цифрового підпису.</text>
+		<text id="msg.DigiSig.CertCantSign" h="633A9F30">Вказаний сертифікат не може бути використаним для цифрового підпису.
+Він призначений тільки для шифрування даних.</text>
+		<text id="msg.PasswordDlg.title" h="23DE88B2">Введіть пароль</text>
+		<text id="msg.NeedNameForCert" h="A9A6D514">Для створення особистого цифрового сертификата потрібно вибрати ім’я.</text>
+		<text id="msg.NeedEmailForCert" h="8E4FB22F">Необхідно ввести ел. адресу для створення автоматичного цифрового підпису.</text>
+		<text id="msg.NeedCorrectEmailForCert" h="D7CF5B49">Введіть правильну ел.адресу (напр.: john@mail.com ).</text>
+		<text id="msg.PasswTooShort" h="2637CEE9">Невідповідний пароль.
+Пароль повинен містити не менше шести символів.</text>
+		<text id="msg.WrongConfirmPassw" h="95BA117F">Паролі не співпадають. Будь ласка, повторіть пароль.</text>
+		<text id="msg.pwd.empty1" h="80C72A1D">Будь ласка, зніміть опцію "Для відкриття документа потрібен пароль" або введіть пароль.</text>
+		<text id="msg.pwd.empty2" h="60064900">Будь ласка, зніміть опцію "Для відкриття документа потрібен пароль" або введіть пароль.</text>
+		<text id="msg.pwd.equals" h="2CF348D2">Пароль для документа і для права доступу не може бути однаковим. Будь ласка, введіть різні паролі.</text>
+		<text id="msg.pwd.bothEmpty" h="8C384AF0">Вкажіть пароль на документ чи на доступ до документа.</text>
+		<text id="msg.profile.delete" h="2A0B9CEB">Ви дійсно бажаєте видалити цей профайл?</text>
+		<text id="msg.profile.apply" h="D4CD8FBF">Ви дійсно бажаєте примінити вибраний профайл?</text>
+		<text id="msg.existingProfile2" h="068DA8B9">Профайл з іменем '%1' вже існує. Ви можете перезаписати його на новий або задати інше ім’я для нового профайла.</text>
+		<text id="msg.existingProfile3" h="9F74E185">Профайл з іменем '%1' вже існує. Задайте інше ім’я для нового профайла.</text>
+		<text id="msg.digisig.selectCertificate" h="FFF5F514">Вкажіть сертифікат для підпису документа або відмініть опцію "Цифровиф підпис документа".</text>
+		<text id="msg.profile.EmptyProfileName" h="1C3A0E84">Ім’я профайлу не може бути порожнім!</text>
+		<text id="msg.profile.DuplicateProfileName" h="201ADD74">Профайл з іменем '%1' вже існує. Бажаєте перезаписати його на новий?</text>
+		<text id="cmd.menu.path.item0" h="8A695F02">Останній згаданий шлях</text>
+		<text id="cmd.menu.path.item1" h="5B2DCF0F">Робочий стіл</text>
+		<text id="cmd.menu.path.item2" h="98C46804">Мої документи</text>
+		<text id="cmd.menu.path.item3" h="4D4F3E29">Мої зображення</text>
+		<text id="cmd.menu.path.item4" h="310DA860">Улюблені</text>
+		<text id="cmd.menu.path.item5" h="38694011">Тимчасова папка</text>
+		<text id="cmd.menu.path.item6" h="D255B9B2">TMP (тимчасова) папка</text>
+		<text id="cmd.macro.0" h="F0E50ED7">Назва програми</text>
+		<text id="cmd.macro.1" h="766660A7">Назва документа</text>
+		<text id="cmd.macro.2" h="87E825E6">Шлях до документа</text>
+		<text id="cmd.macro.3" h="2F1434A9">Дата</text>
+		<text id="cmd.macro.4" h="317F717E">Рік</text>
+		<text id="cmd.macro.5" h="11FB07AE">Місяць</text>
+		<text id="cmd.macro.6" h="FEBA871A">День</text>
+		<text id="cmd.macro.7" h="92ED9FFA">Час</text>
+		<text id="cmd.macro.8" h="FF8EA365">Година</text>
+		<text id="cmd.macro.9" h="B11BAF25">Хвилина</text>
+		<text id="cmd.macro.10" h="E1793117">Секунди</text>
+		<text id="cmd.macro.11" h="0A5A0A0C">Ім’я комп’ютера</text>
+		<text id="cmd.macro.12" h="D8AEF468">Ім’я користувача</text>
+		<text id="cmd.macro.13" h="88AD9A13">Номер сторінки</text>
+		<text id="cmd.macro.14" h="4505FFA5">Кількість сторінок</text>
+		<text id="cmd.macro.15" h="62BE4191">Змінна середовища</text>
+		<text id="cmd.form.add" h="9B7E8822">Додати...</text>
+		<text id="cmd.form.add.tip" h="17513505">Додати нову форму користувача</text>
+		<text id="cmd.form.edit" h="26BB263A">Редагувати...</text>
+		<text id="cmd.form.edit.tip" h="6618248F">Редагувати форму користувача</text>
+		<text id="cmd.form.clone" h="689435EF">Клонувати</text>
+		<text id="cmd.form.clone.tip" h="06C30368">Клонувати вибрану форму користувача</text>
+		<text id="cmd.form.remove" h="C945AF71">Видалити</text>
+		<text id="cmd.form.remove.tip" h="4B938AAA">Видалити виділену форму користувача</text>
+		<text id="cmd.wtm.add" h="9B7E8822">Додати...</text>
+		<text id="cmd.wtm.add.tip" h="09971BC5">Додати новий водяний знак</text>
+		<text id="cmd.wtm.edit" h="26BB263A">Редагувати...</text>
+		<text id="cmd.wtm.edit.tip" h="034D81D9">Редагувати даний водяний знак</text>
+		<text id="cmd.wtm.clone" h="689435EF">Клонувати</text>
+		<text id="cmd.wtm.clone.tip" h="9C040A25">Клонувати вибраний водяний знак</text>
+		<text id="cmd.wtm.remove" h="C945AF71">Видалити</text>
+		<text id="cmd.wtm.remove.tip" h="4C4F77E8">Видалити вибраний водяний знак</text>
+		<text id="cmd.wtm.move.up" h="055499B8">Змістити вверх</text>
+		<text id="cmd.wtm.move.down" h="EAFA093E">Змістити вниз</text>
+		<text id="cmd.wtm.move.top" h="080FF561">Перемістити до самого верху</text>
+		<text id="cmd.wtm.move.bottom" h="E0041811">Перемістити до самого низу</text>
+		<text id="cmd.tsa.add" h="9B7E8822">Додати...</text>
+		<text id="cmd.tsa.add.tip" h="121573D6">Додати новий сервер відмітки часу</text>
+		<text id="cmd.tsa.edit" h="26BB263A">Редагувати...</text>
+		<text id="cmd.tsa.edit.tip" h="72EA14A0">Редагувати даний сервер відмітки часу</text>
+		<text id="cmd.tsa.clone" h="689435EF">Клонувати</text>
+		<text id="cmd.tsa.clone.tip" h="1AD29189">Клонувати вибраний сервер відмітки часу</text>
+		<text id="cmd.tsa.remove" h="C945AF71">Видалити</text>
+		<text id="cmd.tsa.remove.tip" h="3C28BE04">Видалити вибраний сервер відмітки часу</text>
+		<text id="cmd.tsa.move.up" h="055499B8">Змістити вверх</text>
+		<text id="cmd.tsa.move.down" h="EAFA093E">Змістити вниз</text>
+		<text id="cmd.tsa.move.top" h="080FF561">Перемістити до самого верху</text>
+		<text id="cmd.tsa.move.bottom" h="E0041811">Перемістити до самого низу</text>
+		<text id="cmd.rule.add" h="9B7E8822">Додати...</text>
+		<text id="cmd.rule.add.tip" h="DFDB4A9B">Додати нове правило режиму драйвера</text>
+		<text id="cmd.rule.edit" h="26BB263A">Редагувати...</text>
+		<text id="cmd.rule.edit.tip" h="D4A24586">Переглянути/Редагувати даний елемент</text>
+		<text id="cmd.rule.remove" h="C945AF71">Видалити</text>
+		<text id="cmd.rule.remove.tip" h="6CEDB37A">Видалити виділений елемент</text>
+		<text id="cmd.textStyle.bold" h="1D8461F8">Жирний</text>
+		<text id="cmd.textStyle.bold.tip" h="F2DE3410">Виділений текст півжирним шрифтом.</text>
+		<text id="cmd.textStyle.italic" h="C61EB895">Курсив</text>
+		<text id="cmd.textStyle.italic.tip" h="F196A5E2">Виділений текст курсивом.</text>
+		<text id="cmd.textStyle.underline" h="2A187377">Підкреслення</text>
+		<text id="cmd.textStyle.underline.tip" h="1D57F33C">Підкреслити виділений текст.</text>
+		<text id="cmd.textStyle.strikeOut" h="905D7C0F">Закреслення</text>
+		<text id="cmd.textStyle.strikeOut.tip" h="486E2331">Провести лінію через середину виділеного тексту.</text>
+		<text id="cmd.textStyle.superScript" h="48E13B49">Верхній індекс</text>
+		<text id="cmd.textStyle.superScript.tip" h="502CDB9F">Змінити літери на маленькі вище лінії тексту.</text>
+		<text id="cmd.textStyle.subScript" h="C13D1308">Нижній індекс</text>
+		<text id="cmd.textStyle.subScript.tip" h="83378A49">Змінити літери на маленькі нижче лінії тексту.</text>
+		<text id="cmd.textStyle.clear" h="D1756ADB">Очистити форматування тексту</text>
+		<text id="cmd.textStyle.clear.short" h="48BD8C4E">Очистити стиль</text>
+		<text id="cmd.textStyle.clear.tip" h="37581125">Очистити форматування тексту.</text>
+		<text id="cmd.text.hyphenate" h="9D162E6F">Переносити текст</text>
+		<text id="cmd.text.hyphenate.short" h="59DF3C8C">Переносити текст</text>
+		<text id="cmd.text.hyphenate.tip" h="3B30FFB2">Переносити текст.</text>
+		<text id="cmd.text.paraSettings" h="0161553A">Параграф...</text>
+		<text id="cmd.text.paraSettings.tip" h="A9CB27EC">Показати діалог налаштувань параграфа (для задання відстаней між рядками і текстом, відступів, вирівнювання тощо).</text>
+		<text id="cmd.textDirection.LTR" h="83A2917C">Зліва направо</text>
+		<text id="cmd.textDirection.LTR.tip" h="2E2C0505">Установити напрямок тексту зліва направо.</text>
+		<text id="cmd.textDirection.RTL" h="DA7AD5D4">Справа наліво</text>
+		<text id="cmd.textDirection.RTL.tip" h="75BC97C1">Установити напрямок тексту справа наліво.</text>
+		<text id="cmd.noProps" h="EB52FA55">Немає властивостей</text>
+		<text id="cmd.noProps.tip" h="2C064E7D">Не виділено жодного об'єкта з властивостями.</text>
+		<text id="cmd.profile.edit" h="26BB263A">Редагувати...</text>
+		<text id="cmd.profile.edit.tip" h="983E6A15">Редагувати даний профайл</text>
+		<text id="cmd.profile.clone" h="689435EF">Клонувати</text>
+		<text id="cmd.profile.clone.tip" h="9AAD99F9">Клонувати виділений профайл</text>
+		<text id="cmd.profile.remove" h="C945AF71">Видалити</text>
+		<text id="cmd.profile.remove.tip" h="02D435F9">Видалити виділений профайл</text>
+		<text id="cmd.profile.import" h="0FE6AAE6">Імпортувати</text>
+		<text id="cmd.profile.import.tip" h="C1B5CBD1">Імпортувати профайл з файла</text>
+		<text id="cmd.profile.export" h="02819881">Експортувати...</text>
+		<text id="cmd.profile.export.tip" h="8D4C4AE3">Експортувати виділений профайл</text>
+		<text id="page.paper.name" h="4079C816">Сторінка</text>
+		<text id="page.paper.title" h="BD068256">Параметри сторінки</text>
+		<text id="page.customForm.name" h="4902546D">Індивідуальні форми</text>
+		<text id="page.customForm.title" h="740C73DF">Налаштування індивідуальних форм</text>
+		<text id="page.general.name" h="30673BCD">Загальне</text>
+		<text id="page.general.title" h="37CF7747">Загальні налаштування</text>
+		<text id="page.graphics.name" h="63B3B423">Зображення</text>
+		<text id="page.graphics.title" h="C43D547E">Параметри зображень</text>
+		<text id="page.compression.name" h="A7C57E10">Стиск</text>
+		<text id="page.compression.title" h="0A4F2829">Налаштування стиску</text>
+		<text id="page.fonts.name" h="B72149DB">Шрифти</text>
+		<text id="page.fonts.title" h="50207349">Параметри вбудованих шрифтів</text>
+		<text id="page.links.name" h="6E16975C">Посилання</text>
+		<text id="page.links.title" h="4B8634B3">Налаштування посилань</text>
+		<text id="page.docInfo.name" h="3564CAE4">Інформація про документ</text>
+		<text id="page.docInfo.title" h="8E6BE160">Інформація про документ</text>
+		<text id="page.headers.name" h="5ECD7CD4">Колонтитули</text>
+		<text id="page.headers.title" h="261FD71E">Налаштування колонтитулів</text>
+		<text id="page.append.name" h="F84FF456">Вкладений файл за замовчуванням</text>
+		<text id="page.append.title" h="D1438457">Параметри приєднання/вкладення файла за замовчуванням</text>
+		<text id="page.bookmarks.name" h="E2032460">Закладки</text>
+		<text id="page.bookmarks.title" h="637228AD">Налаштування закладок</text>
+		<text id="page.overlay.name" h="59427459">Накладання</text>
+		<text id="page.overlay.title" h="7E41B81E">Параметри накладання файлів</text>
+		<text id="page.email.name" h="0BFBFB66">Електронна пошта</text>
+		<text id="page.email.title" h="D154F309">Налаштування електронної пошти</text>
+		<text id="page.save.name" h="B120B787">Збереження</text>
+		<text id="page.save.title" h="94A844CD">Налаштування збереження документа</text>
+		<text id="page.security.name" h="8292AF02">Захист</text>
+		<text id="page.security.title" h="DEDCAAE8">Захист документа</text>
+		<text id="page.watermarks.name" h="9EC3F447">Водяні знаки</text>
+		<text id="page.watermarks.title" h="1EABC5DE">Параметри "водяних знаків"</text>
+		<text id="page.optimization.name" h="32F54CF2">Оптимізація</text>
+		<text id="page.optimization.title" h="638FC2A7">Налаштування оптимізації</text>
+		<text id="page.languages.name" h="C41449B2">Мови</text>
+		<text id="page.languages.title" h="D5C43A44">Вибір мови для інтерфейсу</text>
+		<text id="about.copyright" h="959E18E0">Право власності &lt;a=1&gt;Tracker Software Products (Canada) Ltd,&lt;/a&gt;
+PO Box 79, 9622 Chemainus Rd, Chemainus, BC. V0R 1K0 - Всі права застрежено.</text>
+		<text id="about.credits" h="28592C00">Усі інші торгівельні марки / авторські права підтверджені та належать таким власникам:
+•     Zlib by Mark Adler &amp; Jean-Loup Gailly,
+•     Little CMS by Marti Maria and IPG © 1991-98.
+•     Freetype2 by David Turner, Robert Wilhelm, &amp; Werner Lemberg © 1996-2001, 2006
+•     Tesseract OCR Engine. Originally developed at Hewlett Packard Laboratories Bristol and at Hewlett-Packard Co, Greeley Colorado,
+       весь код у цьому дистрибутиві тепер ліцензовано відповідно до ліцензії Apache.</text>
+		<text id="about.help" h="6887DFB0">Допомога...</text>
+		<text id="about.reg" h="05BF124F">Реєстрація...</text>
+		<text id="about.version" h="52344715">Версія: &lt;b&gt;%1&lt;/b&gt; (Збірка &lt;b&gt;%2&lt;/b&gt;)%3%4</text>
+		<text id="above" h="09C2601E">для зображень чіткіших ніж:</text>
+		<text id="bk.asTitle" h="513216FA">Використовувати заголовок документа як кореневу закладку</text>
+		<text id="bk.disp.color" h="02977B17">Колір</text>
+		<text id="bk.disp.state" h="EE1B645B">Стан:</text>
+		<text id="bk.disp.style" h="AEC0CE33">Стиль:</text>
+		<text id="bk.enable" h="F09B2FCA">Дозволити автоматичне розпізнавання структури документа</text>
+		<text id="bk.g.title" h="1492312B">Параметри розпізнавання структури документа</text>
+		<text id="bk.g1.title" h="1366B304">Шаблон</text>
+		<text id="bk.g3.title" h="1B201DEF">Параметри відображення</text>
+		<text id="bk.load" h="96130CAB">Завантажити...</text>
+		<text id="bk.match" h="85EA08AA">Ігнорувати рівень елемента при детектуванні</text>
+		<text id="bk.multi" h="B5D3268E">Дозволити багаторядкові закладки</text>
+		<text id="bk.opened" h="ECDD3B81">Відкритий</text>
+		<text id="bk.save" h="46DCCD20">Зберегти...</text>
+		<text id="bk.use.color" h="37314879">Колір:</text>
+		<text id="bk.use.font" h="6196C38F">Шрифт:</text>
+		<text id="bk.use.size" h="2519C487">Розмір:</text>
+		<text id="bk.use.style" h="9B66FD5D">Стиль:</text>
+		<text id="btn.browse2" h="FF1DC93F">Проглянути...</text>
+		<text id="btn.browse3" h="0BAC1EBD">Проглянути...</text>
+		<text id="btn.edit" h="26BB263A">Редагувати...</text>
+		<text id="btn.new" h="F41C4AA5">Створити...</text>
+		<text id="btn.reset" h="E704BDE1">Відновити</text>
+		<text id="compr.cb.compr.ascii" h="2A016E94">ASCII формат (Більший файл)</text>
+		<text id="compr.cb.compr.graphics" h="ED1F20CB">Стиснути зображення</text>
+		<text id="compr.cb.compr.text" h="0FDBEC91">Стиснути текст</text>
+		<text id="compr.cb.use.high" h="E8B25BAD">Стиснути з:</text>
+		<text id="compr.cb.use.indexed" h="5622CD17">Стиснути з:</text>
+		<text id="compr.cb.use.mono" h="6E7D9ACB">Стиснути з:</text>
+		<text id="compr.g.general" h="30673BCD">Загальні налаштування</text>
+		<text id="compr.g.high" h="99D510D5">Повноколірні/Сірі зображення</text>
+		<text id="compr.g.indexed" h="FE837B06">Палітрові зображення</text>
+		<text id="compr.g.mono" h="19F5498E">Чорні-білі зображення</text>
+		<text id="compr.l.jbig2" h="D06E637F">Метод JBIG2</text>
+		<text id="compr.l.jpeg" h="C63A5BAE">Якість JPEG:</text>
+		<text id="cust.add" h="56C98524">Додати -&gt;</text>
+		<text id="cust.l.avpages" h="E7B700F9">Доступні сторінки:</text>
+		<text id="cust.l.height" h="ABCFFD24">Висота:</text>
+		<text id="cust.l.vispages" h="67E2B616">Видимі сторінки:</text>
+		<text id="cust.remove" h="DE318D1F">&lt;-Виключити</text>
+		<text id="custform.g1.title" h="567B3029">Назва форми користувача:</text>
+		<text id="custform.g2.title" h="3E43518D">Розміри форми користувача</text>
+		<text id="custform.g3.title" h="AA174316">Одиниці</text>
+		<text id="custform.l.width" h="B061B0AB">Ширина:</text>
+		<text id="dlg.AddCustomForm" h="B88CFE3B">Додавання/редагування форми</text>
+		<text id="dlg.AddMode" h="CBEDEC17">Додавання/редагування режиму драйвера</text>
+		<text id="dlg.AddMode.app.cue" h="696733B2">напр., winword.exe</text>
+		<text id="dlg.AddWatermark" h="F5059D91">Додавання/редагування “водяного знаку”</text>
+		<text id="dlg.Customize" h="E3787BF8">Налаштування</text>
+		<text id="dlg.CustomizeHF" h="B562B8E4">Налаштувати...</text>
+		<text id="dlg.DigiSig" h="B472008F">Цифровий підпис</text>
+		<text id="dlg.ManageMode" h="18A54865">Правила режиму драйвера</text>
+		<text id="dlg.ManageMode.defLabel" h="533A5A8B">Заданий режим драйвера:</text>
+		<text id="dlg.ManageMode.g1.title" h="16A3DE48">Доступні правила</text>
+		<text id="dlg.ManageMode.g2.title" h="B6EF2024">За замовчуванням</text>
+		<text id="dlg.ManageProfiles" h="CED5F01E">Менеджер профілів</text>
+		<text id="dlg.ProfileInfo" h="61A918CC">Додавання/редагування профілю</text>
+		<text id="dlg.SMTP" h="BE9019DD">Додавання/редагування SMTP сервера</text>
+		<text id="dlg.editTSA" h="F88151A4">Сервер відмітки часу</text>
+		<text id="dlg.manageTSA" h="E2652235">Список серверів відмітки часу</text>
+		<text id="dlg.newCertificate" h="15B8205F">Створення особистого цифрового сертифікату</text>
+		<text id="dnc.description" h="0065C015">Створення особистого цифрового сертифікату є безкоштовним способом для підписання PDF документів. Цей спосіб не варто використовувати тоді, коли необхідна перевірка сертифікату третьою стороною.</text>
+		<text id="dnc.file" h="DC86E810">Новий файл PKS#&amp;12 цифрового сертифікату</text>
+		<text id="dnc.g1.title" h="608B6BF2">Властивості цифрового сертифікату:</text>
+		<text id="dnc.g2.title" h="D4279166">Де бажаєте зберігати створений цифровий сертифікат?</text>
+		<text id="dnc.l.alg" h="E01D59D2">Алгоритм:</text>
+		<text id="dnc.l.confirm" h="AB328CBA">Повторити пароль:</text>
+		<text id="dnc.l.country" h="85808648">Країна/Регіон:</text>
+		<text id="dnc.l.email" h="BF27CB5F">Електронна пошта:</text>
+		<text id="dnc.l.name" h="09FAD31D">Ім'я:</text>
+		<text id="dnc.l.org" h="620DF5BE">Назва організації:</text>
+		<text id="dnc.l.pass" h="7FAD5B01">Пароль:</text>
+		<text id="dnc.l.pkcs12" h="543A3DAB">Створить захищений паролем файл з цифровим підписом в стандартному форматі PKCS#12. Цей формат підтримують більшість програм, зокрема, інтернет-браузери.  
+Файли формату PKCS#12 матимуть розширення .pfx чи .p12.</text>
+		<text id="dnc.l.system" h="F767B01F">Ваш цифровий сертифікат буде збережено на складі сертифікатів Windows, де він також буде доступним для інших програм. Цифровий сертифікат буде захищено Вашим паролем доступу до Windows.</text>
+		<text id="dnc.l.unit" h="82F8B8FF">Підрозділ:</text>
+		<text id="dnc.l.usage" h="8B979C65">Використовувати для:</text>
+		<text id="dnc.system" h="8D7E75D6">Системний склад сертифікатів</text>
+		<text id="docinfo.ask" h="BF944220">Запитувати про інформацію при старті друку</text>
+		<text id="docinfo.author" h="1737C813">Автор:</text>
+		<text id="docinfo.creator" h="1B812E77">Створено:</text>
+		<text id="docinfo.enable" h="F0A9B0E7">Вставляти додаткову інформацію в документ</text>
+		<text id="docinfo.g.title" h="E96E93B9">Інформація про PDF</text>
+		<text id="docinfo.keywords" h="70561097">Ключові слова:</text>
+		<text id="docinfo.producer" h="AE772588">Генератор PDF:</text>
+		<text id="docinfo.subject" h="F6AB0643">Тема:</text>
+		<text id="docinfo.title" h="A6AB0B5B">Заголовок:</text>
+		<text id="docinfo.xmp" h="0DF53689">Зберігати XMP метадані в документі</text>
+		<text id="ds.cb.date" h="6D57473E">Дата</text>
+		<text id="ds.cb.dname" h="F9ABD1CE">Спеціальне ім'я</text>
+		<text id="ds.cb.labels" h="4BA63161">Мітки</text>
+		<text id="ds.cb.location" h="52D95020">Місцезнаходження</text>
+		<text id="ds.cb.logo" h="EB08AA01">Логотип на фоні</text>
+		<text id="ds.cb.name" h="63FE3EDE">Ім’я</text>
+		<text id="ds.cb.reason" h="11BD8A6E">Причина</text>
+		<text id="ds.cb.subject" h="8D5A19C4">Власник</text>
+		<text id="ds.create" h="BB3716B9">Створити...</text>
+		<text id="ds.g1.title" h="96999927">Цифровий сертифікат</text>
+		<text id="ds.g2.title" h="AEE125D6">Додатково</text>
+		<text id="ds.g4.title" h="EFFDDE78">Зовнішній вигляд</text>
+		<text id="ds.img.cue" h="51846090">&lt;клацніть і виберіть графічний файл&gt;</text>
+		<text id="ds.l.contact" h="A8B0C056">Контактна інформація:</text>
+		<text id="ds.l.graphic" h="880A621F">Зображення:</text>
+		<text id="ds.l.height" h="EF61EFBD">Висота:</text>
+		<text id="ds.l.hoffset" h="DF4C107F">Гориз. зміщ.</text>
+		<text id="ds.l.issued" h="B245A018">Випущений для:</text>
+		<text id="ds.l.location" h="C9265ABC">Місцезнаходження</text>
+		<text id="ds.l.perms" h="65731FF3">Дозволи:</text>
+		<text id="ds.l.reason" h="9BA10106">Причина підписання:</text>
+		<text id="ds.l.useFile" h="7EA982B8">Ім’я файла:</text>
+		<text id="ds.l.voffset" h="ACE5B906">Вертик. зміщ.</text>
+		<text id="ds.l.width" h="85C783C5">Ширина:</text>
+		<text id="ds.lastPage" h="6362BC4B">На останній сторінці</text>
+		<text id="ds.useFile" h="664F560D">Використовувати сертифікат з файла</text>
+		<text id="ds.useSystem" h="B064DE08">Використовувати системний сертифікат</text>
+		<text id="ds.view" h="BE4DE4A8">Переглянути...</text>
+		<text id="ds.visible" h="D0D758F9">Розмісти видимий підпис у вказаному місці</text>
+		<text id="email.bcc" h="545EB298">Копія (bcc):</text>
+		<text id="email.cc" h="45106A78">Копія всім:</text>
+		<text id="email.content" h="64D3C808">Текст:</text>
+		<text id="email.enable" h="BA8783C7">Відправити створений документ електронною поштою</text>
+		<text id="email.from" h="60652CC5">Від:</text>
+		<text id="email.props" h="61B2B055">Властивості електронного повідомлення</text>
+		<text id="email.server" h="74EFFD0D">Сервер:</text>
+		<text id="email.smtp" h="28F504E2">Властивості SMTP</text>
+		<text id="email.subject" h="7E069DE3">Тема:</text>
+		<text id="email.to" h="1115E7E3">До:</text>
+		<text id="email.zip" h="5480212A">Послати документ як ZIP архів</text>
+		<text id="extra.append" h="C3DCB52D">Приєднати наприкінці створюваного PDF файла</text>
+		<text id="extra.f.append" h="FB213381">Файл:</text>
+		<text id="extra.f.prepend" h="02945BF9">Файл:</text>
+		<text id="extra.g1.title" h="A505B373">Вставлений перед документом</text>
+		<text id="extra.g2.title" h="0491DF99">Доданий наприкінці документа</text>
+		<text id="extra.p.append" h="7FAD5B01">Пароль:</text>
+		<text id="extra.p.prepend" h="6975636F">Пароль:</text>
+		<text id="extra.prepend" h="D317ECC5">Приєднати перед створюваним PDF файлом</text>
+		<text id="fonts.all" h="10AA37DF">Вбудувати всі використані шрифти</text>
+		<text id="fonts.always" h="F963BAE8">Завжди вбудовувати:</text>
+		<text id="fonts.extra" h="CC2E563C">Зберігати додаткову інформацію для шрифтів</text>
+		<text id="fonts.l.available" h="EE0273C3">Доступні шрифти:</text>
+		<text id="fonts.never" h="98D18B9F">Ніколи не вбудовувати шрифти:</text>
+		<text id="fonts.protected" h="3442F300">Завжди вбудовувати захищені шрифти</text>
+		<text id="fonts.subset" h="EAA9617B">Вбудовувати підмножини шрифтів, для яких відсоток використаних символів менший за: </text>
+		<text id="fonts.temp" h="B4A64053">Завжди вбудовувати тимчасові шрифти</text>
+		<text id="gen.center" h="36B29C58">Центрувати вікно документу</text>
+		<text id="gen.docTitle" h="20B838ED">Показувати назву документу в заголовку вікна</text>
+		<text id="gen.g1.title" h="F4A99A40">PDF специфікація</text>
+		<text id="gen.g2.title" h="BE761DF7">При відкритті документу</text>
+		<text id="gen.g3.title" h="99033ADB">Перехід між сторінками</text>
+		<text id="gen.g4.title" h="FC8108D3">Параметри перегляду</text>
+		<text id="gen.hideMenu" h="F0C440A1">Сховати меню</text>
+		<text id="gen.hideToolbars" h="54F815A4">Сховати панелі інструментів</text>
+		<text id="gen.hideUI" h="A2A6D4A8">Сховати елементи інтерфейсу вікна документу</text>
+		<text id="gen.l.fullscreen" h="094D1D93">Повноекранний режим:</text>
+		<text id="gen.l.layout" h="B301889D">Розміщення сторінки:</text>
+		<text id="gen.l.mode" h="710B6344">Режим сторінки:</text>
+		<text id="gen.l.page" h="109582AA">Відкрити на сторінці:</text>
+		<text id="gen.l.pdur" h="4463DE4F">Тривалість сторінки:</text>
+		<text id="gen.l.spec" h="439D58B3">Відповідно до специфікації:</text>
+		<text id="gen.l.tdur" h="6CB2A5F3">Тривалість переходу:</text>
+		<text id="gen.l.tmode" h="D1B57A88">Режим переходу:</text>
+		<text id="gen.l.ttype" h="289DA88B">Тип переходу:</text>
+		<text id="gen.l.zoom" h="362EEF1A">Масштабування:</text>
+		<text id="gen.resize" h="60879BE7">Змасштабувати вікно документу до розмірів першої сторінки</text>
+		<text id="graph.l.threshold" h="B2FADA6C">Поріг:</text>
+		<text id="graph.use.dither" h="3FA24F74">Застосувати дизерінг</text>
+		<text id="hf.enable" h="C8410A02">Додати колонтитули на сторінки документа</text>
+		<text id="hf.foot" h="ECBC4A48">Нижній:</text>
+		<text id="hf.g1.title" h="5244D472">Колонтитули</text>
+		<text id="hf.g2.title" h="DAD7B4F4">Параметри</text>
+		<text id="hf.g3.title" h="62C950A2">Поля</text>
+		<text id="hf.head" h="AF62F631">Верхній:</text>
+		<text id="hf.l.bottom" h="83BFDBE3">Знизу:</text>
+		<text id="hf.l.first" h="459E6554">Номер першої сторінки</text>
+		<text id="hf.l.left" h="0B27CDE3">Зліва:</text>
+		<text id="hf.l.right" h="C896EA9F">Справа:</text>
+		<text id="hf.l.top" h="DBE4B23E">Зверху:</text>
+		<text id="hf.units" h="A29BF002">Одиниці:</text>
+		<text id="links.check" h="572D738F">Перевіряти наявність файлів при створенні посилань</text>
+		<text id="links.detect" h="BADAE078">Розпізнавати імена файлів і перетворювати їх на PDF-посилання</text>
+		<text id="links.enable" h="88E82DA8">Розпізнавати URL в створюваному документі</text>
+		<text id="links.local" h="8C690B8E">Локальні файли</text>
+		<text id="links.options" h="4A56A155">Параметри посилань</text>
+		<text id="mail.smtp" h="E2F8F5FC">SMTP сервер</text>
+		<text id="mail.smtp.pass" h="7FAD5B01">Пароль:</text>
+		<text id="mail.smtp.port" h="3F32F0C0">Порт:</text>
+		<text id="mail.smtp.portDef" h="ED26CC87">За замовчуванням: %1</text>
+		<text id="mail.smtp.security" h="AF0F4585">Захист підключення:</text>
+		<text id="mail.smtp.serverAuthent" h="89DD97BE">Сервер потребує ідентифікації</text>
+		<text id="mail.smtp.serverName" h="BD084E34">Ім’я сервера:</text>
+		<text id="mail.smtp.serverNameCue" h="BE98874E">Приклад: smtp.example.com</text>
+		<text id="mail.smtp.userName" h="6901D750">Ім'я користувача:</text>
+		<text id="opt.grayAsRGB" h="BE6DCABB">Записати зображення з палітрою сірого в зображення з палітрою RGB </text>
+		<text id="opt.l.blend" h="5C764562">Спосіб змішування:</text>
+		<text id="opt.l.detess" h="04F08091">Спосіб де-тесселяції:</text>
+		<text id="opt.masked" h="6970012F">Використовувати зображення з маскою</text>
+		<text id="opt.mbytes" h="E03A7614">МБайт</text>
+		<text id="opt.optImages" h="0E1D0448">Дозволити оптимізацію послідовностей зображень</text>
+		<text id="opt.swap" h="305C86AE">Скидати на диск малюнки більші ніж:</text>
+		<text id="opt.transp" h="994F0333">Використовувати прозорі креслення</text>
+		<text id="ove.l.file" h="5690D310">Файл перекриття:</text>
+		<text id="over.enable" h="5AE47AAE">Перекрити існуючий PDF файл</text>
+		<text id="over.extra" h="EC77115A">Сторінки накладання додані з &lt;a=1&gt;додаткових прикріплених документів&lt;/a&gt;</text>
+		<text id="over.fit" h="3BA1739C">Вписати накладені сторінки в розміри сторінок створюваного документу</text>
+		<text id="over.foreground" h="CC9518F1">Розмістити накладений файл на передній план</text>
+		<text id="over.keep" h="A4D6664D">Зберегти пропорції</text>
+		<text id="over.l.align" h="78726E92">Вирівняти накладені сторінки відносно сторінок нового PDF документа:</text>
+		<text id="over.l.hor" h="080F71A2">По горизонталі:</text>
+		<text id="over.l.pass" h="3B996C2A">Пароль для захищеного файлу:</text>
+		<text id="over.l.vert" h="DD066115">По вертикалі:</text>
+		<text id="over.pos" h="E9C070C5">Позиціювання</text>
+		<text id="over.repeat" h="18BFF1DB">Параметри повторення</text>
+		<text id="over.repeat.cont" h="7A290673">Циклічно повторювати коротший накладений файл</text>
+		<text id="over.repeat.last" h="B744CD52">Повторювати останню сторінку коротшого накладеного файла</text>
+		<text id="over.repeat.none" h="6361EAE7">Не повторювати</text>
+		<text id="papList.label" h="5BB50205">Доступні індивідуальні форми</text>
+		<text id="paper.c.borders" h="872135AE">Друкувати межі сторінок:</text>
+		<text id="paper.cb.center" h="CBEFB4D0">По центру</text>
+		<text id="paper.cb.fit" h="9078F779">До розміру сторінки</text>
+		<text id="paper.cb.scale" h="A256041E">Масштаб:</text>
+		<text id="paper.g1" h="021E871D">Розмір сторінки</text>
+		<text id="paper.g2" h="6DD64EA1">Графіка</text>
+		<text id="paper.g3" h="A9BCB1A8">Розміщення</text>
+		<text id="paper.g4" h="D92FF225">Додаткові параметри друку</text>
+		<text id="paper.l.booklettype" h="E40660F9">Тип буклета:</text>
+		<text id="paper.l.gutter" h="453C4022">Розмір поля зшивки:</text>
+		<text id="paper.l.ltype" h="7E455932">Тип:</text>
+		<text id="paper.l.margins" h="07DCB677">Поля:</text>
+		<text id="paper.l.nup" h="A6078989">Сторінок на аркуші:</text>
+		<text id="paper.l.orientation" h="F5C1FFB9">Розміщення:</text>
+		<text id="paper.l.pageOrder" h="4415E37B">Порядок сторінок:</text>
+		<text id="paper.l.position" h="C87B8489">Позиція:</text>
+		<text id="paper.l.scale" h="C4EC7E3C">Масштаб:</text>
+		<text id="paper.l.sheets" h="3C8E1D5A">Аркушів в зшитку:</text>
+		<text id="paper.l.sheetsize" h="A2557222">Розмір аркуша:</text>
+		<text id="paper.l.size" h="E1908ECB">Розмір:</text>
+		<text id="paper.l.ssize" h="E1908ECB">Розмір:</text>
+		<text id="paper.mirror.x" h="C5289BB7">Дзеркальне відображення по осі Х</text>
+		<text id="paper.mirror.y" h="5E8DD7D8">Дзеркальне відображення по осі У</text>
+		<text id="paper.rb.custom" h="1A432471">Свій:</text>
+		<text id="paper.rb.landscape" h="CF68D0C1">Альбом</text>
+		<text id="paper.rb.portrait" h="A9A67C11">Портрет</text>
+		<text id="paper.rb.standard" h="D724FB24">Стандарт:</text>
+		<text id="ppi" h="164A6A9C">точок на дюйм</text>
+		<text id="prop.about" h="F2596574">Про</text>
+		<text id="prop.settings" h="9147CD71">Налаштування</text>
+		<text id="rb.inch" h="3D2782C6">Дюйми</text>
+		<text id="rb.mm" h="291025E5">Міліметри</text>
+		<text id="save.custom" h="A75E6832">Програма:</text>
+		<text id="save.default" h="BE686B14">Програма за замовчуванням для PDF файлів</text>
+		<text id="save.g1.title" h="D16859B7">Параметри запису</text>
+		<text id="save.g2.title" h="9AAF3E71">Параметри запуску</text>
+		<text id="save.l.digits" h="B5E21A30">Цифри:</text>
+		<text id="save.l.example" h="1F37513E">Приклад:</text>
+		<text id="save.l.exists" h="91940E79">Якщо файл існує:</text>
+		<text id="save.l.file" h="13B32EA0">Назва файла:</text>
+		<text id="save.l.path" h="E62EE9C8">Шлях:</text>
+		<text id="save.l.start" h="96A7DBF6">Почати з:</text>
+		<text id="save.run" h="44C73A89">Запустити програму по закінченню друку</text>
+		<text id="save.show.saveAs" h="E15C50B5">Показувати діалог “Зберегти як...”</text>
+		<text id="save.strip" h="F76AC075">Забрати шлях з назви документу</text>
+		<text id="sec.access" h="A05670C9">Дозволити доступ до вмісту документа людям з вадами зору</text>
+		<text id="sec.adding" h="47BDA760">Дозволити додавання чи зміну коментарів і полів форм</text>
+		<text id="sec.allowPrinting" h="0C5B81F1">Дозволити друк</text>
+		<text id="sec.changing" h="A8CFDC12">Дозволити зміни в документі</text>
+		<text id="sec.copying" h="2C2D88AC">Дозволити копіювання чи видалення вмісту, відкрити для легкого доступу</text>
+		<text id="sec.copying.new" h="96E15885">Дозволити копіюваня і виділення вмісту документа</text>
+		<text id="sec.digisig" h="1104629C">Цифровиф підпис документа</text>
+		<text id="sec.digisig.settings" h="EC675489">Параметри...</text>
+		<text id="sec.enable" h="D046B193">Використовувати захист PDF</text>
+		<text id="sec.g1.title" h="063B73F1">Паролі</text>
+		<text id="sec.g2.title" h="80E178CC">Дозволи доступу до документа</text>
+		<text id="sec.g3.title" h="8E15DAC5">Цифровий підпис</text>
+		<text id="sec.l.changes" h="54126A02">Дозволені зміни:</text>
+		<text id="sec.l.level" h="F1B06EF5">Спосіб шифрування:</text>
+		<text id="sec.l.printing" h="603A3C89">Друк документа:</text>
+		<text id="sec.l.userPass" h="F37B341A">Пароль:</text>
+		<text id="sec.meta" h="D336DF65">Шифрувати метадані документа (сумісно з Acrobat 6.0 і новішим)</text>
+		<text id="sec.timestamp" h="C75027C6">Сервер відмітки часу</text>
+		<text id="sec.tsa.manage" h="083DA21D">Налаштувати...</text>
+		<text id="sec.userPwd" h="8245E2E7">Для відкриття документа потрібен пароль:</text>
+		<text id="settings.btn.manage" h="083DA21D">Задати...</text>
+		<text id="settings.l.mode" h="71941FD8">Режим:</text>
+		<text id="settings.l.profile" h="235B6AC4">Профіль:</text>
+		<text id="tsa.auth" h="89DD97BE">Сервер вимагає підтвердження достовірності</text>
+		<text id="tsa.g1.title" h="23C488F9">Властивості сервера</text>
+		<text id="tsa.l.name" h="09FAD31D">Ім’я:</text>
+		<text id="tsa.l.pass" h="7FAD5B01">Пароль:</text>
+		<text id="tsa.l.url" h="B037DABE">URL:</text>
+		<text id="tsa.l.user" h="6901D750">Ім’я користувача:</text>
+		<text id="we.asBkgnd" h="ADDFAB64">Як фон</text>
+		<text id="we.bold" h="5FC7126F">Півжирн.</text>
+		<text id="we.fit" h="FA54BFC0">На всю сторінку</text>
+		<text id="we.g1.title" h="F6FFF0BE">Властивості</text>
+		<text id="we.g2.title" h="EFFDDE78">Вигляд:</text>
+		<text id="we.g3.title" h="A66EEC0E">Параметри розміщення</text>
+		<text id="we.italic" h="F3B88BFB">Курсив</text>
+		<text id="we.keepAspect" h="C8B15E62">Зберегти пропорції</text>
+		<text id="we.l.color" h="40DB132E">Колір:</text>
+		<text id="we.l.fname" h="09FAD31D">Файл:</text>
+		<text id="we.l.font" h="6196C38F">Шрифт:</text>
+		<text id="we.l.from" h="D834510D">від</text>
+		<text id="we.l.height" h="EF61EFBD">Висота:</text>
+		<text id="we.l.hoffset" h="49A48A03">Зміщення по Х:</text>
+		<text id="we.l.name" h="2639BB67">Назва "водяного знаку":</text>
+		<text id="we.l.opacity" h="F862D017">Прозорість:</text>
+		<text id="we.l.page" h="660A3F38">Сторінка:</text>
+		<text id="we.l.placeon" h="27B3C8C6">Розміщений на:</text>
+		<text id="we.l.rotation" h="4667EEF3">Поворот:</text>
+		<text id="we.l.size" h="E1908ECB">Розмір:</text>
+		<text id="we.l.talign" h="987B5D23">Вирівняти:</text>
+		<text id="we.l.text" h="EED05C77">Текст:</text>
+		<text id="we.l.type" h="2960F9E7">Тип:</text>
+		<text id="we.l.visibleon" h="70D63AFC">Видимий на:</text>
+		<text id="we.l.voffset" h="136683BA">Зміщення по У:</text>
+		<text id="we.l.width" h="85C783C5">Ширина:</text>
+		<text id="we.outlines" h="EF13DB11">Контур</text>
+		<text id="we.transColor" h="AC5903C6">Прозорість</text>
+		<text id="wtm.enable" h="E36FC80F">Друкувати "водяні знаки"</text>
+		<text id="wtm.list.cue" h="F89305B7">"Водяні знаки" не вказані</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627200315">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXDriver"/>
+	<Language eName="Finnish (Finland)" lName="suomi" code="fi-FI" R2L="false"/>
+	<Module name="officeAddin" namespace="addin" version="7.0.325.10"/>
+	<Strings>
+		<text id="settings.title" h="F15A1E8C">PDF-XChange asetukset</text>
+		<text id="Bookmark.Column0" h="C091D68E">Tyyli</text>
+		<text id="Bookmark.Column1" h="710B61B4">Tyyppi</text>
+		<text id="Bookmark.Column2" h="FBB97B48">Taso</text>
+		<text id="Bookmark.TypeCustom" h="A918FF38">Mukautettu</text>
+		<text id="Bookmark.TypeStandard" h="C6DA1F99">Vakio</text>
+		<text id="BorderStyle.Dashed" h="39AEAEE8">Tavuviiva</text>
+		<text id="BorderStyle.Dotted" h="59B655A2">Pisteviiva</text>
+		<text id="BorderStyle.Solid" h="9C9EA9A8">Kiinteä</text>
+		<text id="BorderType.None" h="B6C5BE05">Ei kehystä</text>
+		<text id="BorderType.Rect" h="7D22CD90">Suorakulmio</text>
+		<text id="BorderType.Underline" h="2A187377">Alleviivaus</text>
+		<text id="DefaultProfile" h="67249AEE">Oletusasetukset</text>
+		<text id="DefaultProfileDesc" h="BB9A105F">Office Addinin oletusasetukset</text>
+		<text id="EndnoteProgress" h="529B97AF">Käsitellään loppuviitteitä</text>
+		<text id="FootnoteProgress" h="A6605BD0">Käsitellään alaviitteitä</text>
+		<text id="Group.C.Name" h="ACF7EBD1">Luo PDF</text>
+		<text id="Group.S.Name" h="9147CD71">Asetukset</text>
+		<text id="HeaderProgress" h="05E7B20C">Käsitellään otsikoita</text>
+		<text id="InternalRefsProgress" h="C2BBD553">Käsitellään viittauksia</text>
+		<text id="LinkProgress" h="108F709A">Käsitellään hyperlinkkejä</text>
+		<text id="MCmd.SaveAs.Desc" h="6F4ACA50">Tallenna nykyinen asiakirja PDF-tiedostona käyttäen PDF-XChange ohjelmaa</text>
+		<text id="MCmd.SaveAs.KeyTip" h="24ABE339">C</text>
+		<text id="MCmd.SaveAs.Name" h="7FC0B24F">Tallenna PDF-tiedostoksi</text>
+		<text id="MCmd.SaveAs.SuperTip" h="6F4ACA50">Tallenna nykyinen asiakirja PDF-tiedostona käyttäen PDF-XChange ohjelmaa</text>
+		<text id="MCmd.eMail.Desc" h="AAFB0EEB">Luo PDF-tiedosto nykyisestä asiakirjasta ja lähetä se sähköpostissa PDF-XChangea käyttäen</text>
+		<text id="MCmd.eMail.KeyTip" h="72F144BF">E</text>
+		<text id="MCmd.eMail.Name" h="8180E3CA">Luo PDF ja lähetä sähköpostina</text>
+		<text id="MCmd.eMail.SuperTip" h="AAFB0EEB">Luo PDF-tiedosto nykyisestä asiakirjasta ja lähetä se sähköpostissa PDF-XChangea käyttäen</text>
+		<text id="Menu.Name" h="4C8C428F">PDF-XChange</text>
+		<text id="Menu.Name.Acro" h="10548B2B">PDF-XChange for AcroPlot Pro</text>
+		<text id="Msg.ApplyProfile" h="B138997E">Haluatko varmasti käyttää valittua profiilia?</text>
+		<text id="Msg.DeleteDefProfile" h="525BD8C5">Et voi poistaa nykyistä profiilia. Valitse oletukseksi jokin muu profiili ennen nykyisen poistamista.</text>
+		<text id="Msg.DeleteProfile" h="2A0B9CEB">Haluatko varmasti poistaa tämän profiilin?</text>
+		<text id="Msg.DuplicateProfileName" h="A74F5AE8">Samanniminen profiili on jo olemassa! Haluatko korvata tämän profiilin?</text>
+		<text id="Msg.DuplicateProfileName2" h="34672AFB">Samanniminen profiili on jo olemassa! Määritä uudelle profiilille yksilöllinen nimi.</text>
+		<text id="Msg.EmptyProfileName" h="2B7E72C0">Profiililla täytyy olla nimi!</text>
+		<text id="Msg.ExistingProfile" h="40545C96">Profiili '%1' on jo olemassa! Haluatko korvata sen?</text>
+		<text id="Msg.ExistingProfile2" h="644B2B1B">Profiili '%1' on jo olemassa. Voit korvata sen uudella profiililla tai antaa uudelle profiilille eri nimen.</text>
+		<text id="Msg.ExistingProfile3" h="6D39539C">Profiili '%1' on jo olemassa. Uudelle profiilille on annettava eri nimi.</text>
+		<text id="Msg.NoPrinter" h="E42BE694">PDF-XChange -tulostinohjainta e löydy tai sitä ei voi ladata. Ole hyvä ja asenna se uudelleen.</text>
+		<text id="Msg.Title.Error" h="51BFF51D">Virhe</text>
+		<text id="MsgProfile.Protected" h="982F8083">Et voi muokata tai poistaa profiilia, jonka on luonut pääkäyttäjä.</text>
+		<text id="Page.Advanced" h="59A2B513">Lisäasetukset</text>
+		<text id="Page.Bookmarks" h="E2032460">Kirjanmerkit</text>
+		<text id="Page.Excel" h="35C252B3">Excel-asetukset</text>
+		<text id="Page.Links" h="6E16975C">Linkit</text>
+		<text id="Page.PowerPoint" h="12124956">PowerPoint-asetukset</text>
+		<text id="Page.Settings" h="9147CD71">Asetukset</text>
+		<text id="Page.Visio" h="03CE54E1">Visio-asetukset</text>
+		<text id="Page.Word" h="D263E6D0">Word-asetukset</text>
+		<text id="Profile.Comment" h="3F85462D">Kommentti</text>
+		<text id="Profile.Name" h="D18643E3">Nimi</text>
+		<text id="Profile.NewName" h="5A67CE17">Uusi profiili</text>
+		<text id="Progress" h="2F37A906">%1: %2%% valmiina</text>
+		<text id="RCmd.Convert.KeyTip" h="24ABE339">C</text>
+		<text id="RCmd.Convert.Name" h="3B5A05C5">Muunna PDF:ksi</text>
+		<text id="RCmd.Convert.SuperTip" h="1725521C">Muunna dokumentti PDF:ksi</text>
+		<text id="RCmd.EditProfile.KeyTip" h="72F144BF">E</text>
+		<text id="RCmd.EditProfile.Name" h="19CBFB1E">Muokkaa asetuksia</text>
+		<text id="RCmd.EditProfile.ScreenTip" h="19CBFB1E">Muokkaa asetuksia</text>
+		<text id="RCmd.EditProfile.SuperTip" h="11200378">Muokkaa nykyisiä dokumentin asetuksia PDF-muuntoon. Alkuperäinen pprofiili säilyy ennallaan.</text>
+		<text id="RCmd.ManageProfiles.KeyTip" h="BA28CEB7">M</text>
+		<text id="RCmd.ManageProfiles.Name" h="B559F46B">Profiilien hallinta...</text>
+		<text id="RCmd.ManageProfiles.ScreenTip" h="B3D65114">Profiilien hallinta</text>
+		<text id="RCmd.ManageProfiles.SuperTip" h="0039EBFD">Avaa profiililuettelon hallinnan valintaikkunan. Profiileja voi monistaa, nimetä uudelleen, poistaa jne.</text>
+		<text id="RCmd.Profiles.KeyTip" h="4544A2AB">P</text>
+		<text id="RCmd.Profiles.ScreenTip" h="D6837626">Nykyinen profiili</text>
+		<text id="RCmd.Profiles.SuperTip" h="2829A636">Näyttää profiilin, jota on käytetty nykyisten asetusten pohjana.</text>
+		<text id="RCmd.SaveAsProfile.KeyTip" h="6E69F168">S</text>
+		<text id="RCmd.SaveAsProfile.Name" h="F338E347">Tallenna profiili nimellä</text>
+		<text id="RCmd.SaveAsProfile.ScreenTip" h="F338E347">Tallenna profiili nimellä</text>
+		<text id="RCmd.SaveAsProfile.SuperTip" h="1977811A">Tallentaa nykyiset asetukset uudeksi profiiliksi.</text>
+		<text id="RCmd.Setup.KeyTip" h="6E69F168">S</text>
+		<text id="RCmd.Setup.Name" h="9147CD71">Asetukset</text>
+		<text id="RCmd.Setup.SuperTip" h="EFD54100">Määritä PDF-luonnin muuntoasetukset</text>
+		<text id="RCmd.eMail.KeyTip" h="72F144BF">E</text>
+		<text id="RCmd.eMail.Name" h="8180E3CA">Luo PDF ja lähetä sähköpostina</text>
+		<text id="RCmd.eMail.SuperTip" h="B43480FF">Luo asiakirjasta PDF-tiedosto ja lähetä se sähköpostina</text>
+		<text id="Ribbon.Caption" h="4C8C428F">PDF-XChange</text>
+		<text id="Ribbon.Caption.Acro" h="10548B2B">PDF-XChange for AcroPlot Pro</text>
+		<text id="Settings.Title" h="E0776D9E">PDF-XChange asetukset</text>
+		<text id="Settings.Title.AcroPlot" h="899B9FFA">PDF-XChange for AcroPlot Pro asetukset</text>
+		<text id="Toolbar.Name" h="4C8C428F">PDF-XChange</text>
+		<text id="Toolbar.Name.Acro" h="10548B2B">PDF-XChange for AcroPlot Pro</text>
+		<text id="TransitionProgress" h="9FF6C6E7">Käsitellään siirtymiä</text>
+		<text id="U3DObjectProgress" h="4531AF6D">Käsitellään U3D Actify -objekteja</text>
+		<text id="WebForms" h="CAE81AE2">Käsitellään Web-lomakkeita</text>
+		<text id="adv.compress3d" h="7BB049FD">Pakkaa U3D-virrat (hitaampi)</text>
+		<text id="adv.docInfo" h="F0272E80">Muunna dokumentin tiedot</text>
+		<text id="adv.enable3d" h="DE910287">Salli Actify 3D tunnistus</text>
+		<text id="adv.g1.title" h="818270A0">Lisäasetukset</text>
+		<text id="adv.g2.title" h="516D6797">Actify SFO -asetukset</text>
+		<text id="adv.prompt" h="25DF82DF">Kysy PDF-tiedoston nimeä</text>
+		<text id="adv.removeAfterEmail" h="DDB35F39">Poista PDF-tiedosto kun sähköposti on lähetetty</text>
+		<text id="adv.run" h="0EDB56E0">Käynnistä PDF-tiedostojen katseluohjelma konversion jälkeen</text>
+		<text id="adv.save.before" h="C9BE1A86">Tallenna dokumentti ennen konversiota</text>
+		<text id="adv.save.toOrigin" h="F34DC54F">Tallenna dokumentti alkuperäisen asiakirjan kansioon</text>
+		<text id="bkm.btn.clearAll" h="08DF5F04">Poista kaikki</text>
+		<text id="bkm.btn.selectAll" h="CF8E2B6C">Valitse kaikki</text>
+		<text id="bkm.enable" h="5021B066">Luo tulostettavaan PDF-tiedostoon kirjanmerkit</text>
+		<text id="bkm.expandAll" h="9C0CA419">Laajenna kaikki kirjanmerkit</text>
+		<text id="bkm.g1.title" h="0E415522">Käytettävissä olevat tyylit</text>
+		<text id="btn.clone" h="47D4FEC1">Kopioi</text>
+		<text id="btn.delete" h="9421FE90">Poista...</text>
+		<text id="btn.rename" h="8D2D4BFD">Nimeä uudelleen...</text>
+		<text id="dlg.addProfile" h="61A918CC">Profiilin lisäys ja muokkaus</text>
+		<text id="dlg.manageProfiles" h="CED5F01E">Profiilien hallinta</text>
+		<text id="excel.g1.title" h="CE5217C6">Muunnettavat taulukot</text>
+		<text id="excel.rb.active" h="B6F37C98">Vain aktiivinen taulukko</text>
+		<text id="excel.rb.range" h="CF13DFA5">Taulukot alueelta</text>
+		<text id="excel.rb.workbook" h="5619E7F2">Koko työkirja</text>
+		<text id="forms.enable" h="3293C87D">Muunna Web-lomakkeet</text>
+		<text id="forms.rev" h="8886F268">Muunna muokkausmerkinnät</text>
+		<text id="links.b.color" h="20E74546">Kehyksen väri:</text>
+		<text id="links.b.style" h="8CB0F062">Kehyksen tyyli:</text>
+		<text id="links.b.type" h="F1E3B439">Kehyksen tyyppi:</text>
+		<text id="links.b.width" h="A7B7BD94">Kehyksen leveys:</text>
+		<text id="links.crossDoc" h="900A9DAB">Asiakirjojen väliset linkit</text>
+		<text id="links.crossRef" h="232E0A3E">Ristiviitelinkit</text>
+		<text id="links.enable" h="1C059FA2">Luo tulostettavaan PDF-tiedostoon linkit</text>
+		<text id="links.ext" h="4649B6CA">Vaihda tiedoston tunnisteeksi PDF</text>
+		<text id="links.footnote" h="4D696ED9">Alaviite- ja loppuviitelinkit</text>
+		<text id="links.g1.title" h="5000B228">Muunna MS Office-linkit</text>
+		<text id="links.g2.title" h="3D4B6D6F">Linkkien ulkoasu</text>
+		<text id="links.g3.title" h="A6B53E0B">Asiakirjojen väliset linkit</text>
+		<text id="links.relative" h="88BAD1C5">Käytä suhteellista osoitusta kohdeasiakirjaan</text>
+		<text id="links.web" h="BAB40145">Internet-linkit</text>
+		<text id="page.adv" h="59A2B513">Lisäasetukset</text>
+		<text id="page.bookmarks" h="E2032460">Kirjanmerkit</text>
+		<text id="page.excel" h="35C252B3">Excel-asetukset</text>
+		<text id="page.forms" h="D263E6D0">Wordin asetukset</text>
+		<text id="page.links" h="6E16975C">Linkit</text>
+		<text id="page.powerpoint" h="12124956">PowerPoint-asetukset</text>
+		<text id="page.visio" h="03CE54E1">Visio-asetukset</text>
+		<text id="pp.bookmark" h="EF53BE72">Tee jokaisesta diasta kirjanmerkki</text>
+		<text id="pp.transitions" h="204B92D3">Muunna diojen vaihtumistehosteet</text>
+		<text id="prof.l.comment" h="D41C404F">Kommentti:</text>
+		<text id="prof.l.name" h="09FAD31D">Nimi:</text>
+		<text id="profile.manage.g1.title" h="C71AA825">Käytettävissä olevat profiilit</text>
+		<text id="visio.allPages" h="2DE2282D">Muunna kaikki sivut</text>
+	</Strings>
+</Localization>

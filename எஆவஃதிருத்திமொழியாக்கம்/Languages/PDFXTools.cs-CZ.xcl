@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180403202141">2.00.00</Version>
+	<Author>Martin Paulík</Author>
+	<Copyright>TERAGON SW s.r.o.
+www.pdfxchange.cz		</Copyright>
+	<Product id="PDFXTools"/>
+	<Language eName="Czech (Czech Republic)" lName="čeština" code="cs-CZ" R2L="false"/>
+	<Module name="PDFXTools" namespace="pdft" version="7.0.324.4"/>
+	<Strings>
+		<text id="accessed" h="45570324">Přístupné</text>
+		<text id="act.askForSourceFiles" h="2E856073">Vyberte zdrojové soubory</text>
+		<text id="act.askForSourceFiles.desc" h="3759C068">Otevře okno pro zadání zdrojových souborů nástroje.</text>
+		<text id="act.bm.ExportActType_GotoR" h="41E1955E">Záložky s akcemi 'Jít na stránku v jiném dokumentu'</text>
+		<text id="act.bm.ExportActType_JS" h="31D8CD1A">Záložky s akcemi JavaScriptu</text>
+		<text id="act.bm.ExportActType_Launch" h="38537D36">Záložky s akcemi 'Otevřít soubor'</text>
+		<text id="act.bm.ExportActType_Page" h="05B4C93C">Záložky s akcemi 'Jít na stránku'</text>
+		<text id="act.bm.ExportActType_URI" h="F39B51AE">Záložky s akcemi 'Otevřít webový odkaz'</text>
+		<text id="act.bm.ExportActTypesAll" h="B8B21253">Záložky se všemi typy akcí s odkazy</text>
+		<text id="act.bm.bmToExport" h="28D4BD73">Záložky k exportu</text>
+		<text id="act.bm.exportAll" h="8882D072">Exportovat vše</text>
+		<text id="act.bm.exportHyperlink" h="8AB29747">Exportovat záložky, které provádějí akce hypertextových odkazů:</text>
+		<text id="act.bm.exportToTextFile" h="01135DA3">Export záložek do textového souboru</text>
+		<text id="act.bm.exportToTextFile.desc" h="7C68D13E">Exportuje strukturu záložek do textového souboru</text>
+		<text id="act.bm.generateFromText" h="383A949B">Generovat záložky z textu na stránce</text>
+		<text id="act.bm.generateFromText.desc" h="6DDE7415">Vytvoří záložky z textu v aktuálním dokumentu podle daného stylu písma a parametrů</text>
+		<text id="act.bm.fromTextFile" h="CA5176DD">Import záložek z textového souboru</text>
+		<text id="act.bm.fromTextFile.desc" h="EE697E49">Vytvoří záložky z textového souboru. Pamatujte na to, že datový formát souboru respektuje pravidla exportu.</text>
+		<text id="act.bm.export" h="F3EE1781">Export záložek</text>
+		<text id="act.bm.export.desc" h="1403C5AD">Exportuje všechny záložky z dokumentu(ů).</text>
+		<text id="act.bm.import" h="DC7F6AD5">Import záložek</text>
+		<text id="act.bm.import.desc" h="A5E69BAE">Importuje záložky do dokumentu(ů) z exportovaného souboru.</text>
+		<text id="act.bm.toTOC" h="2B3E9BF1">Vytvořit obsah</text>
+		<text id="act.bm.toTOC.desc" h="E92DA1A8">Vytvoří obsah ze struktury záložek a stránek na které záložky cílí.</text>
+		<text id="act.deleteComments.all" h="E8642222">Smazat všechny komentáře</text>
+		<text id="act.deleteComments.all.desc" h="818B531A">Smaže všechny komentáře v dokumentu.</text>
+		<text id="act.deleteComments.form" h="37ECB4B5">Smazat formulářová pole</text>
+		<text id="act.deleteComments.form.desc" h="C5D21570">Smaže formuláře z dokumentu.</text>
+		<text id="act.deleteComments.grp" h="EFCEA727">Vybrat stránky pro odstranění komentářů</text>
+		<text id="act.deleteComments.lbl" h="605AA315">Vyberte typ komentářů k odstranění:</text>
+		<text id="act.deleteComments.links" h="CC8F1411">Smazat odkazy</text>
+		<text id="act.deleteComments.links.desc" h="66D48AF5">Smaže odkazy z dokumentu.</text>
+		<text id="act.deleteComments.markup" h="EA5127FB">Smazat označení textu</text>
+		<text id="act.deleteComments.markup.desc" h="80CD5AA0">Smaže označení textu z dokumentu.</text>
+		<text id="act.deleteComments.weblinks" h="87C8439E">Smazat odkazy</text>
+		<text id="act.deleteComments.weblinks.desc" h="158E179F">Odstraní odkazy z dokumentu.</text>
+		<text id="act.deletePages.lbl" h="75141561">Rozsah stran pro odstranění:</text>
+		<text id="act.discardPDFStd" h="E608B980">Odstranit standard PDF</text>
+		<text id="act.discardPDFStd.desc" h="947EF232">Odstraní informace o standardu PDF, jako PDF/X, PDF/A, PDF/E, atd.</text>
+		<text id="act.doc.addBackground" h="8B83981C">Změnit pozadí stránky</text>
+		<text id="act.doc.addBackground.desc" h="8C8F71BF">Nastaví pozadí pod obsahem stránky.</text>
+		<text id="act.doc.addBatesNumbering" h="5987A707">Přidat Batesova čísla</text>
+		<text id="act.doc.addBatesNumbering.desc" h="19058FA5">Vložít Batesova čísla pro indexování právních dokumentů za účelem snadné identifikace a prohledávání, atd.</text>
+		<text id="act.doc.addDigSign" h="97DD789F">Přidat elektronický podpis</text>
+		<text id="act.doc.addDigSign.desc" h="BB76CA39">Přidá nové pole podpisu a podepíše ho pomocí podpisového certifikátu.</text>
+		<text id="act.doc.addHeaderAndFooter" h="71EBAC62">Přidat záhlaví a zápatí</text>
+		<text id="act.doc.addHeaderAndFooter.desc" h="8697B047">Přidá záhlaví a zápatí na zadané stránky. Zápatí a zápatí může obsahovat datum, číslování, titulek a autora, atd.</text>
+		<text id="act.doc.addTimeStamp" h="896D61BF">Přidat časové razítko</text>
+		<text id="act.doc.addTimeStamp.desc" h="2FDF1628">Přidá kvalifikované časové razítko, které potvrzuje přesný obsah PDF platný v okamžitu podání žádosti. Časové razítko získáte od certifikační autority.</text>
+		<text id="act.doc.addWatermarks" h="AA010705">Přidat vodoznaky</text>
+		<text id="act.doc.addWatermarks.desc" h="A89FAD30">Přidá text/obrázky, které se zobrazí buď před nebo za obsahem stránky.</text>
+		<text id="act.doc.certify" h="C2AFA656">Certifikovat dokument</text>
+		<text id="act.doc.certify.desc" h="402B64F2">Ochrání PDF dokumenty certifikací pomocí certifikovaného pole podpisu.</text>
+		<text id="act.doc.changeProps" h="89CBAD2F">Změnit vlastnosti dokumentu</text>
+		<text id="act.doc.changeProps.desc" h="40BD1FE7">Nastaví vlastnosti dokumentu: název, autora, předmět, klíčová slova, atd.</text>
+		<text id="act.doc.clearDigSign" h="7E6883B8">Smazat elektronické podpisy</text>
+		<text id="act.doc.clearDigSign.desc" h="E1CDD425">Odstraní všechny podpisy a pokud je to možné, tak také nepodepsané pole.</text>
+		<text id="act.doc.convertToPDFA" h="86709E15">Převod do PDF/A</text>
+		<text id="act.doc.convertToPDFA.desc" h="89A9625A">Uloží dokumenty ve shodě se standardem PDF/A pro dlouhodobou archivaci.</text>
+		<text id="act.doc.convertToPDFX" h="1D70370D">Převod do PDF/X</text>
+		<text id="act.doc.convertToPDFX.desc" h="BB077FA6">Uloží dokumenty ve shodě se standardem PDF/X pro výměnu tiskových dat.</text>
+		<text id="act.doc.createWeblinks" h="F68EDD51">Vytvořit odkazy</text>
+		<text id="act.doc.createWeblinks.desc" h="6971A17D">Vytvoří odkazy z textu v dokumentu.</text>
+		<text id="act.doc.cropPages" h="54A95B63">Ořezání stránek</text>
+		<text id="act.doc.cropPages.desc" h="9F01A5F4">Upraví viditelnou část stránky, změní nebo odstraní bílé okraje na stránkách, nastaví ořezové rámečky.</text>
+		<text id="act.doc.deletePages" h="E5284839">Smazat stránky</text>
+		<text id="act.doc.deletePages.desc" h="0EA6D9E9">Odstraní z dokumentu vybrané stránky.</text>
+		<text id="act.doc.duplicatePages" h="14C45200">Duplikovat stránky</text>
+		<text id="act.doc.duplicatePages.desc" h="0FD26A6C">Duplikuje stránky v dokumentu.</text>
+		<text id="act.doc.exportToDOCX" h="D89F515F">Export PDF do Microsoft Word</text>
+		<text id="act.doc.exportToDOCX.desc" h="D5E45C48">Exportuje PDF do formátu Microsoft Word (*.docx).</text>
+		<text id="act.doc.exportToImages" h="6DC3C315">Export PDF do obrázků</text>
+		<text id="act.doc.exportToImages.desc" h="0EA3EE6B">Převede stránky z jednoho nebo více PDF do rastrových obrázků: např. JPEG, PNG, TIFF, etc.</text>
+		<text id="act.doc.exportToPPTX" h="E673A7B8">Export PDF do Microsoft PowerPoint</text>
+		<text id="act.doc.exportToPPTX.desc" h="E0A7703F">Exportuje PDF do formátu Microsoft PowerPoint (*.pptx).</text>
+		<text id="act.doc.exportToTXT" h="29DDD177">Export PDF do textového souboru</text>
+		<text id="act.doc.exportToTXT.desc" h="3D8783C4">Exportuje PDF do textových souborů (*.txt).</text>
+		<text id="act.doc.exportToXLSX" h="A31C131A">Export PDF do Microsoft Excel</text>
+		<text id="act.doc.exportToXLSX.desc" h="66CD86D0">Exportuje PDF do Microsoft Excel (*.xlsx).</text>
+		<text id="act.doc.extractImages" h="4CF9FEB6">Výtah obrázků z PDF</text>
+		<text id="act.doc.extractImages.desc" h="454EBA71">Najde rastrové obrázky v dokumentech a uloží je do souboru.</text>
+		<text id="act.doc.extractPages" h="7AE73EC1">Výtah stránek</text>
+		<text id="act.doc.extractPages.desc" h="8FCE1EA7">Vytáhne zadané stránky do nového dokumentu.</text>
+		<text id="act.doc.insertEmptyPages" h="3779032F">Vložit prázdné stránky</text>
+		<text id="act.doc.insertEmptyPages.desc" h="65380D33">Vloží do dokumentu prázdné stránky.</text>
+		<text id="act.doc.insertPages" h="6B486B45">Vložit stránky</text>
+		<text id="act.doc.insertPages.desc" h="C8087FC8">Vloží do dokumentu stránky z jiného dokumentu.</text>
+		<text id="act.doc.ocrPages" h="D2A189BC">OCR</text>
+		<text id="act.doc.ocrPages.desc" h="517C34C3">Najde obrázky na stránkách a rozpozná v nich text. Vytvoří také novou textovou vrstvu pro výběr a prohledávání textu, atd.</text>
+		<text id="act.doc.optimize" h="854E1BE4">Optimalizace dokumentu</text>
+		<text id="act.doc.optimize.desc" h="988BB3B9">Provede snížení velikosti souboru PDF pomocí optimalizace.</text>
+		<text id="act.doc.overlayDoc" h="A113E021">Překrytí PDF</text>
+		<text id="act.doc.overlayDoc.desc" h="8AC5B664">Překryje soubory PDF jiným souborem PDF.</text>
+		<text id="act.doc.pageNumbering" h="21AF4605">Číslování stránek</text>
+		<text id="act.doc.pageNumbering.desc" h="A2BA72A1">Přidá čísla stránek.</text>
+		<text id="act.doc.pageTransitions" h="E9BE43D0">Nastavit přechody stránek</text>
+		<text id="act.doc.pageTransitions.desc" h="17B37A25">Změní přechody stránek pro režim celé obrazovky.</text>
+		<text id="act.doc.removeBackground" h="7C270CB4">Odstranit pozadí stránky</text>
+		<text id="act.doc.removeBackground.desc" h="17700648">Odstraní vlastní pozadí ze stránek a obnoví původní bílé pozadí.</text>
+		<text id="act.doc.removeBatesNumbering" h="901F5ABD">Odstranit Batesova čísla</text>
+		<text id="act.doc.removeBatesNumbering.desc" h="E4FBEB3C">Odstraní Batesova čísla.</text>
+		<text id="act.doc.removeHeaderAndFooter" h="11E8A996">Odstranit záhlaví a zápatí</text>
+		<text id="act.doc.removeHeaderAndFooter.desc" h="E1CC0743">Odstraní existující záhlaví a zápatí.</text>
+		<text id="act.doc.removeWatermarks" h="93F16CE2">Odstranit vodoznaky</text>
+		<text id="act.doc.removeWatermarks.desc" h="629EC84B">Odstraní všechny vodoznaky.</text>
+		<text id="act.doc.replacePages" h="1311083C">Nahradit stránky</text>
+		<text id="act.doc.replacePages.desc" h="8C5176DA">Nahradí stránky v dokumentu.</text>
+		<text id="act.doc.resizePages" h="8A5C31F1">Změnit velikost stránek</text>
+		<text id="act.doc.resizePages.desc" h="8F74355D">Zvýší/sníží velikost stránek; volitelně pomocí měřítka.</text>
+		<text id="act.doc.rotatePages" h="CBD82045">Natočit stránky</text>
+		<text id="act.doc.rotatePages.desc" h="00CCD6AD">Natočí stránky po nebo proti směru hodinových ručiček po 90 stupních.</text>
+		<text id="act.doc.setSecurity" h="09A28BF5">Zabezpečení dokumentu</text>
+		<text id="act.doc.setSecurity.desc" h="AF6D0BF7">Ochrání PDF dokument nastavením hesla pro otevření a/nebo změnu přístupových práv. Umožňuje odstranit bezpečnostní omezení.</text>
+		<text id="act.doc.splitPages" h="2648812F">Rozdělit stránky</text>
+		<text id="act.doc.splitPages.desc" h="4FA35C77">Rozdělí stránky v PDF dokumentu.</text>
+		<text id="act.doc.summarizeComments" h="2233C1CD">Sumarizovat komentáře</text>
+		<text id="act.doc.summarizeComments.desc" h="8EA1DEF5">Vytvoří sumář všech komentářů v PDF dokumentu.</text>
+		<text id="act.filesToPDF" h="A382536E">Převod souborů do PDF</text>
+		<text id="act.filesToPDF.desc" h="40567B4F">Převede zdrojové soubory v podporovaných formátech do PDF.</text>
+		<text id="act.flags.arrdoc" h="F5023560">řada dokumentů</text>
+		<text id="act.flags.arrfile" h="AF02951A">řada souborů</text>
+		<text id="act.flags.arrimage" h="AD43894A">řada obrázků</text>
+		<text id="act.flags.arrname" h="A46C1DFE">řada názvů</text>
+		<text id="act.flags.doc" h="0417E245">dokument</text>
+		<text id="act.flags.file" h="AFFADF08">soubor</text>
+		<text id="act.flags.image" h="6F479465">obrázky</text>
+		<text id="act.flags.name" h="28F021B5">název</text>
+		<text id="act.flags.nothing" h="C06D6B01">nic</text>
+		<text id="act.flattenComments" h="CBA1AA18">Sloučit komentáře</text>
+		<text id="act.flattenComments.desc" h="20A41E96">Převede komentáře na základní položky obsahu.</text>
+		<text id="act.group.PDFStandard" h="E51FAF25">Standard PDF</text>
+		<text id="act.group.advanced" h="59A2B513">Rozšířené</text>
+		<text id="act.group.bookmarks" h="E2032460">Záložky</text>
+		<text id="act.group.comments" h="FA5EB905">Komentáře</text>
+		<text id="act.group.createPDF" h="ACF7EBD1">Vytvořit PDF</text>
+		<text id="act.group.exportPDF" h="4AE54AB5">Export PDF</text>
+		<text id="act.group.inputOutput" h="178214DA">Vstup/Výstup</text>
+		<text id="act.group.optimizePDF" h="E369C144">Optimalizace PDF</text>
+		<text id="act.group.pages" h="47B1CB74">Stránky</text>
+		<text id="act.group.protection" h="B7EE190B">Ochrana</text>
+		<text id="act.imagesToPDF" h="B0C7E05C">Vytvořit PDF z obrázků</text>
+		<text id="act.imagesToPDF.desc" h="43AF6AF6">Vytvoří PDF dokument z jednoho nebo více rastrových obrázků.</text>
+		<text id="act.saveDocs" h="07936326">Uložení dokumentů</text>
+		<text id="act.saveDocs.desc" h="32932EE9">Uloží změny do dokumentu nebo uloží nově vytvořené soubory.</text>
+		<text id="act.saveImages" h="2EBC4084">Uložení obrázků</text>
+		<text id="act.saveImages.desc" h="3A5C69E3">Uloží rastrové obrázky do souborů na disku.</text>
+		<text id="act.scan.showlist" h="18D7490A">Zobrazit seznam obrázků po skenování</text>
+		<text id="act.scanToImages" h="3C7180B5">Získat obrázky ze skeneru</text>
+		<text id="act.scanToImages.desc" h="E0F7A297">Naskenuje papírový dokument a vytvoří z něj PDF složené z obrázků.</text>
+		<text id="act.sendMail" h="1F56479B">Odeslat</text>
+		<text id="act.sendMail.desc" h="18F585BE">Odešle soubory na zadané e-mailové adresy.</text>
+		<text id="act.showFiles" h="7E16D9C8">Zobrazení souborů</text>
+		<text id="act.showFiles.desc" h="5A081173">Otevře složku se soubory nebo spustí výchozí operaci pro každý ze souborů.</text>
+		<text id="act.splitMergeDocs" h="8343835D">Rozdělit/Sloučit PDF</text>
+		<text id="act.splitMergeDocs.desc" h="B253B87D">Zkombinuje všechny vstupní PDF do jednoho nebo je rozdělí do nového PDF, automaticky nebo ručně.</text>
+		<text id="act.textToPDF" h="ECE46B63">Vytvořit PDF z textu</text>
+		<text id="act.textToPDF.desc" h="F9A66354">Vytvoří PDF dokument z jednoho nebo více textových souborů.</text>
+		<text id="act.warn.title" h="76F57ED1">Varování:</text>
+		<text id="actCloseBtnTip" h="087A8145">Klikněte pro odstranění akce ze seznamu</text>
+		<text id="actOnOffUITip" h="18682AEB">Klikněte zde pro zapnutí/vypnutí akce v běhu</text>
+		<text id="actionInfo.defaultDesc" h="845515AD">Vyberte akci ze seznamu akcí pro zobrazení informací.</text>
+		<text id="actionInfo.defaultTitle" h="375B13FE">Vybrat akci...</text>
+		<text id="addbookmark.chk" h="C7B70DCB">Přidat kořenovou záložku s názvem souboru</text>
+		<text id="afsf.choosefiles" h="BAE0C7B7">Výběr souborů</text>
+		<text id="afsf.choosefiles.editimage" h="56B4E1F8">Upravit obrázek</text>
+		<text id="afsf.click2browse" h="ABC462F9">Procházet...</text>
+		<text id="afsf.clicktoedit" h="56B17D30">Klikněte pro náhled a úpravy uložených názvů souborů.</text>
+		<text id="afsf.clicktoremove" h="CAB117DD">Klikněte pro odstranění uložených názvů souborů</text>
+		<text id="afsf.dlg.editAvail" h="70C3C982">Dostupné filtry souborů</text>
+		<text id="afsf.prop.choose.name" h="758F38E8">Výběr filtrů akcí</text>
+		<text id="afsf.prop.choose.tip" h="758F38E8">Výběr filtrů akcí</text>
+		<text id="afsf.prop.choose.title" h="758F38E8">Výběr filtrů akcí</text>
+		<text id="afsf.prop.manage.name" h="1B8E7007">Vlastní filtry</text>
+		<text id="afsf.prop.manage.tip" h="1B8E7007">Vlastní filtry</text>
+		<text id="afsf.prop.manage.title" h="1B8E7007">Vlastní filtry</text>
+		<text id="afsf.selectfolder" h="3F89B943">Výběr složky:</text>
+		<text id="afsf.sort" h="230935DB">Řazení:</text>
+		<text id="afsf.sort.creation" h="AEDBE5EB">dle data vytvoření</text>
+		<text id="afsf.sort.modification" h="B802AF12">dle data úpravy</text>
+		<text id="afsf.sort.name" h="B3FDD284">dle názvu</text>
+		<text id="afsf.sort.none" h="004FEF2B">žádné</text>
+		<text id="afsf.sort.size" h="75DE1B35">dle velikosti</text>
+		<text id="afsf.err.filelistempty" h="6A812F17">Seznam souborů je prázdný</text>
+		<text id="afsf.storefiles" h="06AB1A20">Uložit názvy souborů pro budoucí použití</text>
+		<text id="afsf.subfolders" h="EAAFE63E">Prohlédnout podsložky</text>
+		<text id="afsf.warn.listext" h="6B1988CB">Seznam souborů musí mít příponu &lt;b&gt;*.pdtfl&lt;/b&gt;</text>
+		<text id="afsf.listinfo" h="CEB468D3">Speciální soubor s příponou &lt;b&gt;*.pdtfl&lt;/b&gt;.Ten soubor obsahuje seznam názvů souborů:c:soubor1c:soubor2...c:souborN</text>
+		<text id="afsf.usestoredfiles" h="4A3B84D0">Použít názvy souborů z předchozího zpracování</text>
+		<text id="afsf.err.invalidsymbols" h="D036E0B4">Řádek %1 má neplatné souborové symboly</text>
+		<text id="afsf.warn.concrete.ext" h="6634FBD4">Přípona souboru '%1' je nekompatibilní s parametry akce 'Vybrat vstupní soubory'. </text>
+		<text id="afsf.warn.ext" h="16DBB55E">Přípona souboru je nekompatibilní s parametry akce 'Vybrat vstupní soubory'. </text>
+		<text id="afsf.warn.filescontainer" h="FF3986E4">Nemohu otevřít odpovídající soubory kontajneru:
+&lt;b&gt;%1&lt;/b&gt;</text>
+		<text id="align.bottom" h="08F4AB6F">Dolů</text>
+		<text id="align.center" h="CBEFB4D0">Centrovat</text>
+		<text id="align.left" h="8CEAA299">Vlevo</text>
+		<text id="align.middle" h="D27F520F">Na střed</text>
+		<text id="align.right" h="2D8A4EE6">Vpravo</text>
+		<text id="align.top" h="249A2BBD">Nahoru</text>
+		<text id="alignoverlay" h="B7EB1785">Zarovnat stránky k překrytí relativně ke stránkám nového PDF dokumentu.</text>
+		<text id="another.ovrfile.title" h="AEFCE724">Vyberte jiný soubor k překrytí</text>
+		<text id="attributes" h="71F6D064">Atributy</text>
+		<text id="availActionsList" h="477E6AC0">Knihovna akcí</text>
+		<text id="batchproc.chk" h="1194AD9C">Mód dávkového zpracování</text>
+		<text id="batchproc.tip" h="8BED8A8A">• Je-li tato možnost zapnuta, každá akce nástroje zpracuje každý vstupní objekt (soubory, naskenované obrázky atd.) předtím, než se přesune na následující akci.• Když je tato možnost vypnutá, vstupní objekty budou zpracovány každou akcí nástroje předtím, než bude zpracován další vstupní objekt. To může pomoci snížit zatížení paměti a využití disku. Nástroje určené ke sloučení vstupních objektů do souborů PDF však nemusí fungovat podle očekávání, protože každý vstupní objekt je zpracováván nezávisle na ostatních.</text>
+		<text id="bookmarks.delimiter.lbl" h="A4269065">Oddělovač polí:</text>
+		<text id="bookmarks.invalidSeparator" h="44875D1F">Oddělovač vlastností nesmí být prázdný řetězec, nesmí obsahovat alfanumerické symboly nebo mezery a nesmí být jedním z následujících znaků: @ #: {} </text>
+		<text id="bookmarks.sourcefiletxt.lbl" h="8C896EF2">Vyberte textový soubor, který obsahuje definici záložek:</text>
+		<text id="bookmarks.sourcefoldertxt.lbl" h="E5CB01F7">Vyberte složku se soubory, které obsahují definice záložek:</text>
+		<text id="bookmarks.sourcefoldertxt.info" h="9C858B7C">Pro každý vstupní textový soubor se stejným názvem bude vybrán jako výchozí zdrojový soubor záložek.</text>
+		<text id="bookmarks.sourcefolderxcbkm.info" h="2F8C4CA0">Pro každý dokument exportovaného souboru záložek se stejným názvem bude zvolen jako zdrojový soubor definice záložek.</text>
+		<text id="bookmarks.sourcefilexcbkm.lbl" h="20DDBCE7">Vyberte soubor pro export záložek:</text>
+		<text id="bookmarks.sourcefolderxcbkm.lbl" h="0E50F0BA">Vyberte složku s exportovanými soubory záložek:</text>
+		<text id="bookmarks.log.txtSrcNotFound" h="52338723">Do dokumentu nelze importovat záložky. Definice souboru záložek '%1' nebyla nalezena.</text>
+		<text id="bookmarks.log.bookmarksNotFound" h="184C696B">V dokumentu nebyly nalezeny záložky.</text>
+		<text id="btn.delete" h="D8FE3F70">Smazat</text>
+		<text id="btn.edit" h="621534A3">Upravit...</text>
+		<text id="byhoriz" h="AE80ABA7">Vodorovně:</text>
+		<text id="byvert" h="138F572B">Svisle:</text>
+		<text id="chk.savepwd" h="2DACA98E">Uložit heslo pro budoucí použití</text>
+		<text id="choose.file" h="D8D81DA5">Vyberte soubor</text>
+		<text id="chooseFiles.chooseForPreview" h="B4BD25C6">Vyberte položku pro náhled.</text>
+		<text id="chooseFiles.fromScanner" h="BDBDAE44">Obrázek ze skeneru</text>
+		<text id="chooseFiles.scansubfolders" h="05971C7B">Chcete přidat soubor z podsložek vybrané složky?</text>
+		<text id="chooseFiles.unknownImageType" h="18901815">Neznámý typ obrázku.</text>
+		<text id="choosefiles.title" h="2E856073">Výběr vstupních souborů</text>
+		<text id="choosefiles.warning" h="88E4DD69">Prosím přidejte soubory do seznamu.</text>
+		<text id="choosestd.lbl" h="F999AF4C">Standard PDF k odstranění:</text>
+		<text id="choosetool.caption" h="F368DC49">Vyberte nástroj</text>
+		<text id="choosetools.export.caption" h="89168619">Vyberte nástroje pro export</text>
+		<text id="choosetools.import.caption" h="4D9B8134">Vyberte nástroje pro import</text>
+		<text id="ck.all" h="65CCA5D0">Včetně všech souborů</text>
+		<text id="clonetoolname.lbl" h="E63F45FA">Zadejte název klonu nástroje:</text>
+		<text id="cmd.actionInfoPane" h="BE3FF2AC">Panel Akce</text>
+		<text id="cmd.actionInfoPane.tip" h="EA4CDC04">Zobrazit/skrýt panel Akce.</text>
+		<text id="cmd.addFavorites" h="253AA8C4">Přidat k oblíbeným</text>
+		<text id="cmd.addFavorites.tip" h="D0494D1D">Přidat nástroj k oblíbeným.</text>
+		<text id="cmd.availAct.append" h="44CFD997">Připojit akci</text>
+		<text id="cmd.availActionsPane" h="70AE9683">Panel Knihovna akcí</text>
+		<text id="cmd.availActionsPane.tip" h="EE8A6FE7">Zobrazit/skrýt panel Knihovna akcí.</text>
+		<text id="cmd.catlist.add" h="8E2EE8C1">Přidat</text>
+		<text id="cmd.catlist.add.tip" h="352D549C">Přidat novou kategorii nástrojl.</text>
+		<text id="cmd.catlist.copyID" h="76D03E52">Kopírovat ID kategorie</text>
+		<text id="cmd.catlist.copyID.tip" h="4D528776">Kopírovat ID kategorie do schránky.</text>
+		<text id="cmd.catlist.delete" h="D8FE3F70">Smazat</text>
+		<text id="cmd.catlist.delete.tip" h="F996D3A3">Smazat vybranou kategorii</text>
+		<text id="cmd.catlist.rename" h="CF7E2A12">Přejmenovat</text>
+		<text id="cmd.catlist.rename.tip" h="853B01D0">Přejmenovat vybranou kategorii.</text>
+		<text id="cmd.choosetools.checkAll" h="1ED93781">Vybrat vše</text>
+		<text id="cmd.choosetools.checkAll.tip" h="5C10CA59">Vybrat všechny nástroje.</text>
+		<text id="cmd.choosetools.collapseAll" h="84E09D66">Sbalit vše</text>
+		<text id="cmd.choosetools.collapseAll.tip" h="4B0945EA">Sbalit všechny rozbalené položky.</text>
+		<text id="cmd.choosetools.expandAll" h="6DA5A467">Rozbalit vše</text>
+		<text id="cmd.choosetools.expandAll.tip" h="B8DEF87E">Rozbalit všechny sbalené položky.</text>
+		<text id="cmd.choosetools.uncheckAll" h="5D53AA8D">Zrušit výběr</text>
+		<text id="cmd.choosetools.uncheckAll.tip" h="E0FE40A8">Zrušit výběr všech nástrojů.</text>
+		<text id="cmd.close" h="BFF0422C">Zavřít úpravy</text>
+		<text id="cmd.close.tip" h="803D7B54">Zeptat se na uložení změn před zavřením editoru nástrojů.</text>
+		<text id="cmd.collapseAll" h="84E09D66">Sbalit vše</text>
+		<text id="cmd.collapseAll.tip" h="4B0945EA">Sbalit všechny rozbalené položky.</text>
+		<text id="cmd.continue" h="A5F0062A">Pokračovat</text>
+		<text id="cmd.continue.tip" h="449BD617">Pokračovat ve spuštění nástroje.</text>
+		<text id="cmd.copyToolID" h="29B6ACF3">Kopírovat ID nástroje</text>
+		<text id="cmd.copyToolID.tip" h="C84C435C">Kopírovat ID nástroje do schránky.</text>
+		<text id="cmd.createFld" h="EDCA1553">Vytvořit</text>
+		<text id="cmd.createFld.tip" h="0C2549D2">Vytvořit monitor složky.</text>
+		<text id="cmd.delete" h="D8FE3F70">Smazat</text>
+		<text id="cmd.delete.tip" h="1645B116">Smazat vybraný nástroj.</text>
+		<text id="cmd.deleteAction" h="D8FE3F70">Smazat</text>
+		<text id="cmd.deleteAction.tip" h="8D3F7647">Smazat vybranou akci.</text>
+		<text id="cmd.deleteFld" h="D8FE3F70">Odstranit</text>
+		<text id="cmd.deleteFld.tip" h="FE6D13BD">Odstranit vybraný monitor.</text>
+		<text id="cmd.disableFld" h="3F68363A">Zakázat</text>
+		<text id="cmd.disableFld.tip" h="0002F9EA">Zakázat vybraný monitor.</text>
+		<text id="cmd.docsList.collapseAll" h="84E09D66">Sbalit vše</text>
+		<text id="cmd.docsList.collapseAll.tip" h="4B0945EA">Sbalit všechny rozbalené položky.</text>
+		<text id="cmd.docsList.delete" h="D8FE3F70">Smazat</text>
+		<text id="cmd.docsList.delete.tip" h="AFC734F6">Odstranit vybrané položky ze seznamu.</text>
+		<text id="cmd.docsList.expandAll" h="6DA5A467">Rozbalit vše</text>
+		<text id="cmd.docsList.expandAll.tip" h="B8DEF87E">Rozbalit vše sbalené položky.</text>
+		<text id="cmd.docsList.invertPagesSel" h="50358D1F">Převrátit výběr stránek</text>
+		<text id="cmd.docsList.invertPagesSel.tip" h="D48EAFF2">Převrátit výběr stránek v položce dokumentu.</text>
+		<text id="cmd.docsList.redo" h="E6E48291">Znovu</text>
+		<text id="cmd.docsList.redo.tip" h="D864EFC4">Znovu spustit předchozí akci.</text>
+		<text id="cmd.docsList.rename" h="CF7E2A12">Přejmenovat</text>
+		<text id="cmd.docsList.rename.tip" h="D13799F6">Přejmenovat vybranou položku dokumentu.</text>
+		<text id="cmd.docsList.selectPages" h="CA96B5EB">Vybrat stránky...</text>
+		<text id="cmd.docsList.selectPages.tip" h="2BA1CFDF">Vybrat zadané stránky ve vybrané položce dokumentu.</text>
+		<text id="cmd.docsList.showPreview" h="0E09CAB8">Náhled</text>
+		<text id="cmd.docsList.showPreview.tip" h="5FDF66AB">Zobrazit/skrýt panel Náhled pro vybranou položku.</text>
+		<text id="cmd.docsList.showRepo" h="75AE5FBB">Stránky úložiště</text>
+		<text id="cmd.docsList.showRepo.tip" h="A9FDC14F">Zobrazit/skrýt panel Úložiště pro dočasné uložení stránek z jakékoliv dokumentu. To lze využít pro přetahování a vkládání stránek.</text>
+		<text id="cmd.docsList.undo" h="86E67B4B">Zpět</text>
+		<text id="cmd.docsList.undo.tip" h="68378895">Vrátit zpět poslední akci.</text>
+		<text id="cmd.docsList.zoomIn" h="21C9A3BF">Zvětšit</text>
+		<text id="cmd.docsList.zoomIn.tip" h="EEFCC59E">Zvětšit náhledy.</text>
+		<text id="cmd.docsList.zoomOut" h="7749FC62">Zmenšit</text>
+		<text id="cmd.docsList.zoomOut.tip" h="B4B12D5A">Zmenšit náhledy.</text>
+		<text id="cmd.docsList.zoomSlider" h="596A6E4A">Měřítko</text>
+		<text id="cmd.docsList.zoomSlider.tip" h="0F91092C">Měřítko náhledů stránek.</text>
+		<text id="cmd.editDocList.clearAll" h="FCA74107">Vyčistit úložiště</text>
+		<text id="cmd.editDocList.clearAll.tip" h="8D064794">Vyčistit úložiště stránek.</text>
+		<text id="cmd.editFld" h="009A7A41">Upravit</text>
+		<text id="cmd.editFld.tip" h="6383A76C">Upravit vybraný monitor.</text>
+		<text id="cmd.editModeView" h="2FCBB32C">Zobrazení</text>
+		<text id="cmd.editModeView.tip" h="FED08A06">Zobrazit/skrýt pokročilé panely.</text>
+		<text id="cmd.enableFld" h="A816D2F1">Povolit</text>
+		<text id="cmd.enableFld.tip" h="5C4A8F7C">Povolit vybraný monitor.</text>
+		<text id="cmd.expandAll" h="6DA5A467">Rozbalit vše</text>
+		<text id="cmd.expandAll.tip" h="B8DEF87E">Rozbalit všechny sbalené položky.</text>
+		<text id="cmd.filesList.addFiles" h="6BB8C3C3">Přidat soubory...</text>
+		<text id="cmd.filesList.addFiles.combo" h="6BB8C3C3">Přidat soubory...</text>
+		<text id="cmd.filesList.addFiles.tip" h="49EDA302">Kliknout pro otevření okna pro výběr souboru...</text>
+		<text id="cmd.filesList.addFolder" h="48695541">Přidat složku...</text>
+		<text id="cmd.filesList.addFolder.tip" h="6761456F">Kliknout pro otevření okna pro výběr složky a přidání souborů z...</text>
+		<text id="cmd.filesList.addFromScanner" h="F8B40B5F">Přidat ze skeneru...</text>
+		<text id="cmd.filesList.addFromScanner.tip" h="B4E7ED2C">Kliknout pro výběr zařízení pro skenování a poté začněte skenovat...</text>
+		<text id="cmd.filesList.delete" h="D8FE3F70">Smazat</text>
+		<text id="cmd.filesList.delete.tip" h="1B809C28">Smazat vybranou položku. Tato operace nelze vrátit zpět.</text>
+		<text id="cmd.filesList.detailsView" h="AEE125D6">Detaily</text>
+		<text id="cmd.filesList.detailsView.tip" h="6570BFC4">Přepnout na detailní pohled.</text>
+		<text id="cmd.filesList.edit" h="621534A3">Upravit...</text>
+		<text id="cmd.filesList.edit.tip" h="A8CCCC15">Upravit vybranou položku.</text>
+		<text id="cmd.filesList.moveDown" h="B590E566">Dolů</text>
+		<text id="cmd.filesList.moveDown.tip" h="96CBF2AC">Vybrané položky posunout dolů.</text>
+		<text id="cmd.filesList.moveUp" h="E466537C">Nahoru</text>
+		<text id="cmd.filesList.moveUp.tip" h="239B490C">Vybrané položky posunout nahoru.</text>
+		<text id="cmd.filesList.openContFolder" h="D3E03212">Otevřít složku</text>
+		<text id="cmd.filesList.openContFolder.tip" h="4967EB0F">Otevřít složku se soubory a vybrat odpovídající soubor v Průzkumníkovi souborů.</text>
+		<text id="cmd.filesList.selectPages" h="CA96B5EB">Vybrat stránky...</text>
+		<text id="cmd.filesList.selectPages.tip" h="9D36120F">Vybrat stránky ve vybraném dokumentu.</text>
+		<text id="cmd.filesList.showPreview" h="0E09CAB8">Náhled</text>
+		<text id="cmd.filesList.showPreview.tip" h="5FDF66AB">Zobrazit/skrýt panel Náhled pro vybranou položku.</text>
+		<text id="cmd.filesList.thumbsView" h="47B1B2D9">Náhledy</text>
+		<text id="cmd.filesList.thumbsView.tip" h="E9F10E3C">Přepnout na režim náhledů.</text>
+		<text id="cmd.filesList.zoomIn" h="21C9A3BF">Zvětšit</text>
+		<text id="cmd.filesList.zoomIn.tip" h="EEFCC59E">Zvětšit náhledy.</text>
+		<text id="cmd.filesList.zoomOut" h="7749FC62">Zmenšit</text>
+		<text id="cmd.filesList.zoomOut.tip" h="B4B12D5A">Zmenšit náhledy.</text>
+		<text id="cmd.filesList.zoomSlider" h="596A6E4A">Měřítko</text>
+		<text id="cmd.filesList.zoomSlider.tip" h="0F91092C">Změnit měřítko pro náhledy.</text>
+		<text id="cmd.help" h="03718903">Nápověda</text>
+		<text id="cmd.help.about" h="06AA44B8">O programu...</text>
+		<text id="cmd.help.about.tip" h="D3746489">Zobrazit verzi aplikace a licenční informace.</text>
+		<text id="cmd.help.checkForUpdates" h="B4EF7EF3">Zjistit aktualizace</text>
+		<text id="cmd.help.checkForUpdates.tip" h="73587378">Zjistit aktualizace programu.</text>
+		<text id="cmd.help.contents" h="567BC1D7">Obsah</text>
+		<text id="cmd.help.contents.tip" h="08AC959F">Otevřít online nápovědu.</text>
+		<text id="cmd.help.enterkey" h="EF62658A">Zadat licenční klíč...</text>
+		<text id="cmd.help.enterkey.tip" h="D3746489">Zobrazit informace o verzi aplikace a licenci.</text>
+		<text id="cmd.help.homepage" h="09F653F5">Homepage</text>
+		<text id="cmd.help.homepage.tip" h="EBA22B5A">Jít na stránku aplikace.</text>
+		<text id="cmd.help.support" h="31A29A3F">Podpora</text>
+		<text id="cmd.help.support.tip" h="B8C0C0FB">Přejít na fórum podpory.</text>
+		<text id="cmd.help.tip" h="F59770E5">Nápověda.</text>
+		<text id="cmd.impexp" h="1D5A9A8A">Import/Export</text>
+		<text id="cmd.impexp.expseltools" h="C87F6A0D">Export vybraných nástrojů</text>
+		<text id="cmd.impexp.expseltools.tip" h="0E445E08">Exportovat vybrané nástroje do souboru.</text>
+		<text id="cmd.impexp.expsett" h="329179F2">Export nastavení</text>
+		<text id="cmd.impexp.expsett.tip" h="1BEC5F75">Exportovat všechny možnosti programu a nástroje do souboru.</text>
+		<text id="cmd.impexp.exptools" h="3B532E8F">Export nástrojů</text>
+		<text id="cmd.impexp.exptools.tip" h="66B0E107">Exportovat nástroje do souboru.</text>
+		<text id="cmd.impexp.impsett" h="92219071">Import nastavení</text>
+		<text id="cmd.impexp.impsett.tip" h="3845D20B">Importovat všechna nastavení aplikace a nástroje ze souboru.</text>
+		<text id="cmd.impexp.imptools" h="622631EF">Import nástrojů</text>
+		<text id="cmd.impexp.imptools.tip" h="112B2FCB">Importovat nástroje ze souboru.</text>
+		<text id="cmd.impexp.shortcut" h="64092D8C">Vytvořit odkaz na ploše</text>
+		<text id="cmd.impexp.shortcut.tip" h="F695107D">Vytvořit odkaz na vybraný nástroj na ploše.</text>
+		<text id="cmd.impexp.tip" h="CE31B671">Import/Export operací pro nástroje nebo nastavení aplikace.</text>
+		<text id="cmd.moveDown" h="B590E566">Dolů</text>
+		<text id="cmd.moveDown.tip" h="96CBF2AC">Vybrané položky posunout dolů.</text>
+		<text id="cmd.moveUp" h="E466537C">Nahoru</text>
+		<text id="cmd.moveUp.tip" h="239B490C">Vybrané položky posunout nahoru.</text>
+		<text id="cmd.opts" h="DAD7B4F4">Možnosti</text>
+		<text id="cmd.opts.tip" h="0DB1D677">Obsahuje funkce pro správu nastavení aplikace.</text>
+		<text id="cmd.prefs" h="8D3CBDF0">Předvolby...</text>
+		<text id="cmd.prefs.tip" h="35A54BBC">Zobrazit dialogové okno s předvolbami.</text>
+		<text id="cmd.redo" h="E6E48291">Znovu</text>
+		<text id="cmd.redo.tip" h="D864EFC4">Opakovat předchozí vrácenou akci.</text>
+		<text id="cmd.removeFavorites" h="85360926">Odebrat z oblíbených</text>
+		<text id="cmd.removeFavorites.tip" h="DEB12B60">Odstranit nástroj z oblíbených.</text>
+		<text id="cmd.report.clear" h="CB9CE353">Vyčistit</text>
+		<text id="cmd.report.clear.tip" h="26272D30">Vyčistí report</text>
+		<text id="cmd.report.collapseAll" h="84E09D66">Sbalit vše</text>
+		<text id="cmd.report.collapseAll.tip" h="4B0945EA">Sbalit všechny rozbalené položky.</text>
+		<text id="cmd.report.copy" h="348DE55D">Kopírovat</text>
+		<text id="cmd.report.copy.tip" h="7E2DF69D">Kopírovat text zprávy.</text>
+		<text id="cmd.report.copyname" h="895D5980">Kopie názvu souboru</text>
+		<text id="cmd.report.copyname.tip" h="C6C33FE5">Zkopíruje název souboru do schránky</text>
+		<text id="cmd.report.expandAll" h="6DA5A467">Rozbalit vše</text>
+		<text id="cmd.report.expandAll.tip" h="B8DEF87E">Rozbalit všechny sbalené položky.</text>
+		<text id="cmd.report.fullreport" h="2B15B2F7">Úplný report</text>
+		<text id="cmd.report.fullreport.tip" h="B70410A1">Tato volby přinutí PDF-Tools vytisknout úplný report nástroje.</text>
+		<text id="cmd.report.openfolder" h="D3E03212">Otevřít složku se souborem</text>
+		<text id="cmd.report.openfolder.tip" h="897118C2">Otevře složku s obsaženým souborem</text>
+		<text id="cmd.report.options" h="9757D0D9">Možnosti...</text>
+		<text id="cmd.report.options.tip" h="84CAFD98">Zobrazí možnosti reportu.</text>
+		<text id="cmd.report.savetofile" h="ED4A08DE">Uložit report...</text>
+		<text id="cmd.report.savetofile.tip" h="5BF810D7">Uloží report do textového souboru.</text>
+		<text id="cmd.resetSelAction" h="1008C3F9">Obnovit</text>
+		<text id="cmd.resetSelAction.tip" h="9416B4A0">Obnovit vybranou akci do výchozího stavu.</text>
+		<text id="cmd.resetSett" h="1E06BB70">Obnovit nastavení</text>
+		<text id="cmd.resetSett.tip" h="F72C4CB6">Obnovit všechna nastavení aplikace na výchozí hodnoty a vrátit se ke standardním nástrojům.</text>
+		<text id="cmd.resetTool" h="0E4A9518">Obnovit Nástroj</text>
+		<text id="cmd.resetTool.tip" h="63100C06">Obnovení nástroje do výchozího stavu.</text>
+		<text id="cmd.resetseltools" h="11DC26AD">Obnovit vybrané nástroje</text>
+		<text id="cmd.resetseltools.tip" h="7FCF3BF7">Obnoví vybrané nástroje do jejich výchozího stavu.</text>
+		<text id="cmd.save" h="01991541">Uložit změny</text>
+		<text id="cmd.save.tip" h="45AC7E5D">Nástroj pro uložení změn.</text>
+		<text id="cmd.search" h="547E9E5A">Hledat...</text>
+		<text id="cmd.search.tip" h="FC8CBAA4">Nástroj hledání.</text>
+		<text id="cmd.setupFolderMonitor" h="EDC6E6EA">Monitory složky</text>
+		<text id="cmd.setupFolderMonitor.tip" h="43BBFC78">Správa monitorů složek.</text>
+		<text id="cmd.showActionInfoPane" h="DDDF9129">Informace o akci</text>
+		<text id="cmd.showActionInfoPane.tip" h="B9D63B80">Zobrazit/skrýt informace o akci.</text>
+		<text id="cmd.showActionLibrary" h="7B4DF4C3">Zobrazit knihovnu akcí</text>
+		<text id="cmd.showActionLibrary.tip" h="7F2B551F">Zobrazit/skrýt knihovnu akcí</text>
+		<text id="cmd.showReport" h="F1E7E74F">Report nástroje</text>
+		<text id="cmd.showReport.tip" h="0310270C">Zobrazit report nástroje.</text>
+		<text id="cmd.test" h="327F2A55">Test!</text>
+		<text id="cmd.test.tip" h="9E04AEAA">Testovací funkce!</text>
+		<text id="cmd.tool.clone" h="37E754F5">Klonovat</text>
+		<text id="cmd.tool.clone.tip" h="D8321AF8">Klonovat vybraný nástroj.</text>
+		<text id="cmd.tool.create" h="EDCA1553">Vytvořit</text>
+		<text id="cmd.tool.create.tip" h="3D4C85B7">Vytvořit nový nástroj.</text>
+		<text id="cmd.tool.edit" h="009A7A41">Upravit</text>
+		<text id="cmd.tool.edit.tip" h="426AAF33">Upravit vybraný nástroj.</text>
+		<text id="cmd.tool.run" h="19264084">Spustit</text>
+		<text id="cmd.tool.run.tip" h="BF1530FA">Spustit vybraný nástroj.</text>
+		<text id="cmd.undo" h="86E67B4B">Zpět</text>
+		<text id="cmd.undo.tip" h="68378895">Vrátit zpět poslední akci.</text>
+		<text id="cmd.viewFld" h="2FCBB32C">Zobrazit</text>
+		<text id="cmd.viewFld.tip" h="7426084C">Zobrazit vybraný monitor.</text>
+		<text id="cmdline.toolnotfound" h="E24BDF60">Nástroj nutný k běhu nebyl nalezen.</text>
+		<text id="common" h="FF51CD90">Běžný</text>
+		<text id="created" h="BC03BBEA">Vytvořeno</text>
+		<text id="custToolsGrName" h="22F07048">Vlastní nástroje</text>
+		<text id="custom" h="A918FF38">Vlastní</text>
+		<text id="dclick.authorize" h="E62FEA98">Klikněte pro autorizaci úložiště</text>
+		<text id="delete.all.pages" h="E66ECE13">Odstranění všech stránek je zakázáno.</text>
+		<text id="deleteComments.all" h="3DB14B53">Všechny komentáře</text>
+		<text id="deleteComments.link" h="D84C3990">Odkazy</text>
+		<text id="deleteComments.markup" h="236E76D1">Označení textu</text>
+		<text id="deleteComments.widget" h="105429C0">Widget komentářů</text>
+		<text id="deleteInputFiles" h="66DB8878">Smazat vstupní soubory po ukončení</text>
+		<text id="deletecat.warn" h="8A426B75">Opravdu chcete smazat kategorii &lt;b&gt;"%1"&lt;/b&gt; a obsažené nástroje?
+POZNÁMKA: operaci nelze vzít zpět.</text>
+		<text id="deletestoredpath.warn" h="B01DF4C4">Opravdu chcete odstranit uložené názvy souborů?</text>
+		<text id="disable.ui.lbl" h="F51A0F89">Interakce UI s uživatelem:</text>
+		<text id="dlg.managefilters" h="BEEA26C3">Správa filtrů</text>
+		<text id="docauthor.l" h="7E318A91">Autor:</text>
+		<text id="doccreator.l" h="48BB2AC2">Tvůrce:</text>
+		<text id="dockeywords.l" h="EE89DD49">Klíčová slova:</text>
+		<text id="docproducer.l" h="30A8E856">Tvůrce:</text>
+		<text id="docsubject.l" h="A59102F6">Předmět:</text>
+		<text id="doctitle.l" h="930D3835">Název:</text>
+		<text id="editDocList.containsPages" h="8F4BA4D9">Obsahuje %1 stránek</text>
+		<text id="editDocList.document" h="13289938">Dokument</text>
+		<text id="editDocList.empty.hint" h="C46828D2">Žádné stránky</text>
+		<text id="editDocList.noPages" h="DD007EC4">Prázdný</text>
+		<text id="editDocList.repository.hint" h="0071AB8A">Zde můžete uložit stránky do dočasného úložiště.</text>
+		<text id="editDocList.title" h="BB7D1179">Ruční rozdělení/sloučení dokumentů</text>
+		<text id="editDocList.undefined" h="9FA2DA79">Nedefinovaný</text>
+		<text id="editDocList.warning" h="F36DBC31">Seznam dokumentů nemůže být prázdný
+Můžete zkusit vrátit zpět poslední akci, aby seznam nebyl prázdný.</text>
+		<text id="editDocList.warning.emptyname" h="D690297C">Název dokumentu nemůže být prázdný</text>
+		<text id="editDocList.warning.invalidsymbols" h="40A214FA">Neplatný název dokumentu.</text>
+		<text id="editview.header.changeicon" h="E86B95CD">Změnit...</text>
+		<text id="editview.header.dialog.multiline" h="767057E1">Upravit popis nástroje</text>
+		<text id="empty.document" h="06A26641">Dokument "%1" je prázdný. Bude přeskočen</text>
+		<text id="enter.pwd.descr" h="77485A4B">Zadejte popis hesla (volitelné)...</text>
+		<text id="enterNewDocName" h="68FD05C5">Zadejte nový název dokumentu:</text>
+		<text id="err.foldernotexists" h="4533B896">Vybraná složka neexistuje</text>
+		<text id="err.foldernotvalid" h="E422E783">Zvolenou složku nelze monitorovat</text>
+		<text id="err.hotfolderbusy" h="40F505AA">Vámi zadaná složka je zpracovávána jiným monitorem</text>
+		<text id="err.hotfolderempty" h="5734787D">Prosím přidajte složku pro monitoring</text>
+		<text id="err.movefolderempty" h="141492EF">Vyberte složku pro přesun vstupních souborů</text>
+		<text id="err.selecttool" h="89F6967E">Prosím vyberte nástroje pro spuštění</text>
+		<text id="err.toolnotexists" h="12CFDA38">Vybraný nástroj neexistuje</text>
+		<text id="expsett.extension.desc" h="F00D3D31">PDF-Tools Program Settings File</text>
+		<text id="expsett.failed" h="D36046ED">Export nastavení selhal</text>
+		<text id="expsett.open.caption" h="92B281E9">Otevřít importovaný soubor</text>
+		<text id="expsett.save.caption" h="C1A8C6FD">Uložit exportovaný soubor</text>
+		<text id="exptools.extension.desc" h="DC98B451">Výměnný soubor PDF-Tools</text>
+		<text id="exptools.failed" h="7A69DC15">Export nástrojů selhal</text>
+		<text id="exptools.open.caption" h="99F5ECED">Vyberte importovaný soubor</text>
+		<text id="exptools.save.caption" h="C1A8C6FD">Uložit exportovaný soubor</text>
+		<text id="extension" h="14FEB836">Přípona</text>
+		<text id="fileLocation" h="7BC24E5F">Umístění souboru:</text>
+		<text id="fileNames" h="0F80A6A8">Výběr seznamu souborů:</text>
+		<text id="fileNames.desc" h="7B4EDEA4">Vstupní soubory PDF-Tools</text>
+		<text id="fileNames.open" h="8F1B7ED1">Otevřít seznam vstupních souborů</text>
+		<text id="fileprop.author" h="F6A8A4C0">Autor</text>
+		<text id="fileprop.bpc" h="02071BA4">Bitů na kanál</text>
+		<text id="fileprop.bpp" h="EC790768">Bitů na pixel</text>
+		<text id="fileprop.channels" h="D3AE76A2">Kanály</text>
+		<text id="fileprop.creator" h="CF26EE59">Tvůrce</text>
+		<text id="fileprop.dimension" h="96A76700">Rozměry</text>
+		<text id="fileprop.horDpi" h="576C5071">Horizontální DPI</text>
+		<text id="fileprop.page" h="D70A809E">Stránka</text>
+		<text id="fileprop.pageRotation" h="ECFC9C66">Natočení</text>
+		<text id="fileprop.pagesCount" h="AAE42CE5">Počet stránek</text>
+		<text id="fileprop.pdfVer" h="4C06CDA5">Verze PDF</text>
+		<text id="fileprop.producer" h="C54CE945">Tvůrce</text>
+		<text id="fileprop.subject" h="B6BCF595">Předmět</text>
+		<text id="fileprop.title" h="796DFAD3">Název</text>
+		<text id="fileprop.verDpi" h="33423CE9">Vertikální DPI</text>
+		<text id="filestopdf.setup" h="FB20B28D">Nastavení...</text>
+		<text id="finalizing" h="B702861F">Dokončuji %1...</text>
+		<text id="fitoverlay" h="E2F09068">Přizpůsobit překrývací stránky stránkám nového dokumentu</text>
+		<text id="fld.disabled" h="AA5BC8D4">Zakázáno</text>
+		<text id="fld.enabled" h="2532774E">Povoleno</text>
+		<text id="fldmon.lbl" h="DEBCEDAF">Název monitoru složky:</text>
+		<text id="folder.grp" h="9AE10AFA">Možnosti vstupních souborů</text>
+		<text id="hotfld.opts.dlg.caption" h="D9DE9C84">Nastavení monitoru složky</text>
+		<text id="impsett.alert" h="0B2EB063">Jste si jistí, že chcete importovat všechna nastavení aplikace?
+POZNÁMKA: tato operace nelze vrátit zpět.</text>
+		<text id="impsett.failed" h="AA8A96CF">Import nastavení selhal</text>
+		<text id="imptools.failed" h="DAD93596">Import nástrojů selhal</text>
+		<text id="info" h="07FB97A4">Informace</text>
+		<text id="inpfiles.lbl" h="28477E27">Možnosti vstupních souborů:</text>
+		<text id="inserting.page" h="7985F658">Vkládám stránku %1 z %2</text>
+		<text id="keep.inputfiles" h="800C91A4">Vstupní soubory ponechat ve složce</text>
+		<text id="keepaspect" h="A90996CD">Zachovat poměr stran</text>
+		<text id="lb.availFF" h="6E3CAD3A">Vyberte filtry pro typy souborů, které budou k dispozici v rozbalovacím seznamu níže:</text>
+		<text id="lb.presetFF" h="9C590515">Předvolba:</text>
+		<text id="lbl.ShowResult" h="C5236BCD">Po skončení zobrazit výsledek</text>
+		<text id="lbl.actualview" h="D865F4B2">Skutečné zobrazení obrázku</text>
+		<text id="lbl.allowMult" h="3B9DFCE0">Umožnit výběr více souborů</text>
+		<text id="lbl.alwaysUseMultipage" h="6C82FB30">Vždy použít vícestránkový formát</text>
+		<text id="lbl.askDeleteTool" h="1541D739">Opravdu chcete smazat nástroj &lt;b&gt;"%1"&lt;/b&gt;?
+POZNÁMKA: Tato operace nelze vrátit zpět.</text>
+		<text id="lbl.askDeleteTools" h="25C684AA">Opravdu chcete odstranit nástroje &lt;b&gt;%1&lt;/b&gt;?
+POZNÁMKA: Odstranění nelze vrátit zpět.</text>
+		<text id="lbl.askSaveChanges" h="4F19099B">Chcete před ukončením úpravy uložit změny?</text>
+		<text id="lbl.chooseAction" h="5EA681F4">Vyberte akci ze seznamu:</text>
+		<text id="lbl.choosefiles.dndhint" h="8CF7925F">Přidejte sem soubory pomocí tlačítka v panelu nástrojů nebo je přetáhněte. Můžete je uspořádat v požadovaném pořadí.</text>
+		<text id="lbl.choosefiles.itemscount" h="2CFE0C7C">%1 položek</text>
+		<text id="lbl.choosefiles.selitemscount" h="402CD736">%1 souborů • %2 vybraných • %3</text>
+		<text id="lbl.choosepages" h="668A500A">Vyberte stránky, které budou v dokumentu vybrány: </text>
+		<text id="lbl.continue" h="A5F0062A">Pokračovat</text>
+		<text id="lbl.editViewToolDesc" h="0F22DAFE">Zadejte popis tohoto nástroje:</text>
+		<text id="lbl.editViewToolName" h="76F4AA91">Zadejte název nástroje:</text>
+		<text id="lbl.editdocs.dndhint" h="2FAC7414">Přetáhnutím myší můžete přesunout stránky mezi dokumenty a změnit jejich pořadí. Tímto způsobem také můžete vytvořit nové dokumenty.</text>
+		<text id="lbl.editview.dndhint" h="42E43BBA">Přetáhnutím myší můžete změnit pořadí existujících akcí nebo přidat nové akce ze seznamu napravo.</text>
+		<text id="lbl.editview.dndhint2" h="714B17C6">Klikněte a přetáhněte sem jakoukoliv akci ze seznamu napravo.</text>
+		<text id="lbl.emptyCatList" h="488587B8">Seznam kategorií je prázdný</text>
+		<text id="lbl.emptyToolList" h="B2BFE203">Seznam nástrojů je prázdný.</text>
+		<text id="lbl.extractSizeLimit" h="0EA996F6">Vyloučit obrázky menší než:</text>
+		<text id="lbl.fileTypes" h="60ECC8E9">Formát souboru:</text>
+		<text id="lbl.filestopdf.converters" h="902CF9B3">Konvertory:</text>
+		<text id="lbl.folder" h="3F9ED2F9">Složka:</text>
+		<text id="lbl.grouping" h="79C8A88E">Mód seskupení</text>
+		<text id="lbl.keeptransparent" h="5070A5EB">Zachovat průhlednost</text>
+		<text id="lbl.multipagetype" h="C5A5712F">Vyberte typ vícestránkových obrázků:</text>
+		<text id="lbl.noActionFound" h="105B87AB">Pro Váš požadavek nebyla nalezena žádná akce.</text>
+		<text id="lbl.noCategoryFound" h="CEC17229">Podle vašeho požadavku nebyla nalezena žádná kategorie</text>
+		<text id="lbl.noToolFound" h="181055BB">Pro Váš požadavek nebyl nalezen žádný nástroj.</text>
+		<text id="lbl.reverseOrder" h="9564C9FE">Uložit v opačném pořadí</text>
+		<text id="lbl.run" h="19264084">Spustit</text>
+		<text id="lbl.savemode" h="D16859B7">Uložit možnosti</text>
+		<text id="lbl.showextui" h="1E2770E2">Zobrazit rozšířené okno pro výběr souborů</text>
+		<text id="lbl.singlepagetype" h="A6AF6C93">Vyberte typ jednostránkových obrázků:</text>
+		<text id="lbl.dblclick2browse" h="DB3D14F9">Klikněte dvakrát pro procházení...</text>
+		<text id="listmonitors.lbl" h="7A930E45">Seznam monitorů složek:</text>
+		<text id="lnk.browsefolder" h="57F5ECCB">Procházet vstupní složku...</text>
+		<text id="lnk.createtitle" h="97F6DA95">Možnosti vytvoření odkazů</text>
+		<text id="lnk.inputfiles" h="3B5E3105">Vyberte zdrojové soubory...</text>
+		<text id="lnk.noinput" h="365E2B73">Zeptat se pokaždé na vstupní soubory</text>
+		<text id="lnk.specifyinput" h="C331E1B9">Můžete přidat vstupní soubory/složky do zástupce:</text>
+		<text id="loading" h="DC6A6C81">Nahrávám...</text>
+		<text id="location" h="52D95020">Umístění</text>
+		<text id="log.abort" h="6F8E5DCD">Přerušit</text>
+		<text id="log.actiondone" h="E2806498">Akce je dokončena</text>
+		<text id="log.andmore" h="54982D71">Klikněte zde pro více informací...</text>
+		<text id="log.andmore.tip" h="2D9BDCA0">Dvojklik pro všechny položky...</text>
+		<text id="log.cancelled" h="E28236C9">Zrušeno</text>
+		<text id="log.fail" h="A37F5F82">Selhal</text>
+		<text id="log.filecreated" h="E300872F">Soubor vytvořen</text>
+		<text id="log.filenotexist" h="E9442568">Soubor neexistuje</text>
+		<text id="log.fileprocstart" h="254322E4">Zpracování souboru začalo</text>
+		<text id="log.filestat.failed" h="D1F8052C">Neúspěšně zpracované soubory: %1 z %2</text>
+		<text id="log.filestat.succeded" h="5A913587">Úspěšně zpracované soubory: %1 z %2</text>
+		<text id="log.invalidarg" h="79E18E42">Neplatné parametry</text>
+		<text id="log.nofilesinfolder" h="961510F8">Ve složce nejsou žádné soubory zvoleného typu. Ověřte parametry akce 'Vybrat vstupní soubory'.</text>
+		<text id="log.nopermissions" h="7508C445">Nedostatek přístupových práv</text>
+		<text id="log.ok" h="BAD1F1D5">Uspěl</text>
+		<text id="log.summary" h="8BE8ABA0">Sumarizace</text>
+		<text id="log.toolduration" h="8D5BD4C8">%1 bylo stráveno</text>
+		<text id="log.toolrunfinished" h="A50678CB">Výsledek běhu nástroje: %1.</text>
+		<text id="log.toolstarted" h="4352D7A3">Nástroj "%1" spuštěn</text>
+		<text id="log.txtsummary" h="ABCB53D3">Nástroj "%1" ukončen : %2 chyb, %3 zpracovaných, %4 vytvořených, %5 varování</text>
+		<text id="log.txttoolduration" h="1DED609F">doba trvání: %1</text>
+		<text id="log.unknown" h="8566CB94">Neznámý</text>
+		<text id="log.wrongpass" h="473522EE">Neplatné heslo</text>
+		<text id="modified" h="30325672">Upraveno</text>
+		<text id="moduleName" h="9B0F448F">PDF-Tools</text>
+		<text id="mon.priority" h="73E40EE1">Priorita monitoru:</text>
+		<text id="monitor.name.tip" h="A0EB9543">Sem zadejte název monitoru...</text>
+		<text id="monitor.subfold" h="7D8D9398">Monitorovat podsložky</text>
+		<text id="moveInputFiles" h="61936C79">Vstupní soubory do složky:</text>
+		<text id="msgtype.debug" h="C3C4F565">Ladění</text>
+		<text id="msgtype.error" h="51BFF51D">Chyba</text>
+		<text id="msgtype.info" h="07FB97A4">Informace</text>
+		<text id="msgtype.unknown" h="E52D4ED4">Neznámý typ</text>
+		<text id="msgtype.verbose" h="6817BBB0">Podrobně</text>
+		<text id="msgtype.warning" h="E7AD7A2B">Varování</text>
+		<text id="name" h="D18643E3">Název</text>
+		<text id="no.pages.to.delete" h="7A9E4694">Žádné stránky k odstranění.</text>
+		<text id="nooverlay.file" h="4D9B1EA6">Soubor k překrytí nebyl zadán</text>
+		<text id="ocr.processall" h="705E5831">OCR dokumentu</text>
+		<text id="ocr.textContinue" h="31439CA0">Pokračovat ve zpracování bez OCR</text>
+		<text id="ocr.textSkip" h="92F274EB">Přeskočit zpracování dokumentu</text>
+		<text id="ocropt.lbl" h="791CC215">Pokud dokument obsahuje text:</text>
+		<text id="ovr.file" h="D8EE6FEB">Soubor k překrytí:</text>
+		<text id="ovr.norepeat" h="E58FFCC1">Bez opakování</text>
+		<text id="ovr.positions" h="E9C070C5">Umístění</text>
+		<text id="ovr.repeat" h="DB39711A">Možnosti opakování:</text>
+		<text id="ovr.repeatall" h="FB4118C6">Kontinuální opakování překrývacího souboru</text>
+		<text id="ovr.repeatlast" h="87F51B84">Opakovat poslední stránku překrývacího souboru</text>
+		<text id="ovr.settings" h="2FF7690D">Nastavení překrytí</text>
+		<text id="page.props" h="F521B2C3">Vlastnosti stránky</text>
+		<text id="pagenumber" h="29EED2B3">Číslo</text>
+		<text id="pagesRange" h="30C24AC3">Rozsah stránek</text>
+		<text id="pagesRange.All" h="83434A26">Vše</text>
+		<text id="pagesRange.Pages" h="23952CFD">Stránky:</text>
+		<text id="pagesSubset.all" h="599C6EE6">Všechny stránky ze zadaného rozsahu</text>
+		<text id="pagesSubset.even" h="E64675B8">Sudé stránky z rozsahu</text>
+		<text id="pagesSubset.odd" h="87228BC5">Liché stránky z rozsahu</text>
+		<text id="pagesrange.empty" h="630795CE">Rozsah stránek nemůže být prázdný.</text>
+		<text id="pdf.properies" h="70EFADF5">Vlastnosti PDF</text>
+		<text id="pdfahandle.keepPDFAunchanged" h="908B4A26">Ponechat PDF/A dokument beze změn</text>
+		<text id="pdfahandle.reconvert" h="1AFD2B27">Rekonverze dokumentu</text>
+		<text id="pdfahandle.skipPDFA" h="9B11C61E">Přeskočit PDF/A dokument</text>
+		<text id="pdfastd.lbl" h="83380816">Pokud dokument obsahuje informaci o PDF/A:</text>
+		<text id="place.foreground" h="0669CDF0">Umístit soubor k překrytí do popředí</text>
+		<text id="policy.msg" h="3AE36A58">Bezpečnostní politika není vytvořena.
+Chcete ji vytvořit?</text>
+		<text id="preview.ovrfile" h="5593AECC">Náhled překrývacího souboru</text>
+		<text id="priority.high" h="B7E10973">Vysoká priorita</text>
+		<text id="priority.low" h="15FDBBEA">Nízká priorita</text>
+		<text id="priority.medium" h="5A523B97">Střední priorita</text>
+		<text id="progr.launching" h="5520AF34">Spouštím monitor...</text>
+		<text id="progress.pause" h="6045D570">Pauza</text>
+		<text id="prompt.clearpwd" h="AB0C3147">Chcete vyčistit úložiště hesel?</text>
+		<text id="prompt.removemonitor" h="DF4CD355">Chcete odstranit vybraný monitor složek?</text>
+		<text id="prompt.removepwd" h="F4C34781">Chcete odstranit vybrané heslo z úložiště hesel?</text>
+		<text id="props" h="F6FFF0BE">Vlastnosti</text>
+		<text id="pwd.defaultDescr" h="EBF5010F">Moje předdefinované heslo</text>
+		<text id="pwd.descr.date" h="F8CC5563">Přidáno: %1</text>
+		<text id="pwd.descr.dflt" h="5C50975F">Žádný popis</text>
+		<text id="pwd.enter.new" h="D9992E89">Zadejte heslo pro uložení do úložiště:</text>
+		<text id="pwd.enter.newdescr" h="9D40879A">Zadejte nový popis:</text>
+		<text id="pwdadd" h="AED8BB4C">Přidat...</text>
+		<text id="pwdclear" h="CB9CE353">Vyčistit</text>
+		<text id="pwdedit" h="621534A3">Upravit...</text>
+		<text id="pwdgrp" h="202AB42A">Úložiště hesel</text>
+		<text id="pwdlbl" h="5F4039B9">Seznam předdefinovaných hesel pro automatické zpracování dokumentů:</text>
+		<text id="pwdprefs.name" h="D2C0C056">Hesla</text>
+		<text id="pwdprefs.tip" h="7434F5A2">Předdefinované úložiště hesel</text>
+		<text id="pwdprefs.title" h="7434F5A2">Předdefinované úložiště hesel</text>
+		<text id="pwdremove" h="FCE39C1F">Odstranit</text>
+		<text id="report" h="E9D63CB7">Report nástroje</text>
+		<text id="report.cuetext" h="5A5BCB07">V reportu nejsou žádné zprávy.</text>
+		<text id="report.defaultDesc" h="882ACAE5">Panel zobrazí zprávy z akcí nástroje.</text>
+		<text id="report.fld.lbl" h="3F89B943">Vyberte složku:</text>
+		<text id="report.framed.dlg" h="E9D63CB7">Report nástroje</text>
+		<text id="report.name.lbl" h="553DE74A">Název reportu:</text>
+		<text id="report.opt" h="2D42B915">Možnosti reportu</text>
+		<text id="report.options.autoclear" h="F9D9404E">Smazat report před každým spuštěním nástroje</text>
+		<text id="report.options.forcevisible" h="C79B47D7">Vynutit zapnutí panelu Report pro všechny typy zpráv </text>
+		<text id="report.options.header" h="7254B91C">Možnosti reportu nástroje</text>
+		<text id="report.options.main" h="31B3DC7C">Konfigurovat panel Reportu změnou těchto možností:</text>
+		<text id="report.options.reset" h="B02C5E5A">Obnovit výchozí</text>
+		<text id="report.options.severity" h="B9C34921">Vyberte typy zpráv, které budou zobrazeny v panelu Report nástroje:</text>
+		<text id="report.options.severity.document" h="5CD972FF">Zprávy týkající se operací s PDF dokumenty</text>
+		<text id="report.options.severity.fileOperations" h="CAB821C9">Zprávy týkající se operací se soubory (otevření, vytvoření, úpravy, atd.)</text>
+		<text id="report.options.severity.info" h="A8EA107E">Informační zprávy</text>
+		<text id="report.options.severity.summary" h="692A1A26">Souhrnné informace o výsledku spuštění nástroje</text>
+		<text id="report.options.severity.title" h="B282840A">Typy zpráv</text>
+		<text id="report.options.severity.warning" h="13217901">Varování (zprávy o událostech mající dopad na spuštění nástroje)</text>
+		<text id="report.options.showtimestamp" h="2A6DB7B2">Zobrazit časové razítko pro zprávy v reportu</text>
+		<text id="reprocess.files" h="72A687D7">Přepracovat soubory při startu</text>
+		<text id="resetActionTip" h="D7E3E700">Obnovit akci do výchozího stavu.</text>
+		<text id="resetact.warn" h="E5B97341">Chcete obnovit možnosti akce do výchozího stavu?
+POZNÁMKA: tato operace nelze vzít zpět.</text>
+		<text id="resetprops.btn" h="1008C3F9">Obnovit</text>
+		<text id="resetprops.btntip" h="33DDB5A0">Stiskni reset pro původní stav</text>
+		<text id="resetseltools.warn" h="26BF4D94">Chcete obnovit vybrané nástroje do výchozího stavu?
+POZNÁMKA: tato operace nelze vzít zpět.</text>
+		<text id="ressett.alert" h="9B2F79C2">Opravdu chcete obnovit všechna nastavení aplikace na výchozí hodnoty a vrátit zpět všechny standardní nástroje?
+POZNÁMKA: Obnovení nelze vrátit zpět.</text>
+		<text id="ressett.toolsalert" h="8CCEF1F1">Obnovení všech možností vyžaduje odstranění všech vlastních nástrojů. Chcete-li v této operaci pokračovat, stiskněte tlačítko Ano.
+POZNÁMKA: tato operace nelze vzít zpět.</text>
+		<text id="resume" h="B0874E65">Shrnutí</text>
+		<text id="sameimg.autobpp" h="A216C11C">Barevná hloubka automaticky</text>
+		<text id="sameimg.autobpp.info" h="9E850B3C">Pokud je zaškrtnuto, bude barevná hloubka obrázku zvolena automaticky. Parametry typu obrázku pak budou ignorovány.</text>
+		<text id="saveas.ask" h="9DF35209">Dotázat se na akci</text>
+		<text id="saveas.auto" h="C820D6B5">Uložit nový soubor s jiným názvem</text>
+		<text id="saveas.folder.ask" h="5DC29DB4">Vždy se na umístění zeptat</text>
+		<text id="saveas.folder.cust" h="C9BD54EB">Použít vlastní složku</text>
+		<text id="saveas.folder.src" h="5E2E8FE3">Použít zdrojovou složku</text>
+		<text id="saveas.overwrite" h="68C4F37C">Přepsat novým souborem</text>
+		<text id="saveas.skip" h="CE81D302">Existující soubor ponechat beze změn</text>
+		<text id="saveas.text" h="7D366800">Pokud již soubor existuje:</text>
+		<text id="saveimg.default.folder" h="DCD2AF9C">Složka dokumentu</text>
+		<text id="saveimg.default.name" h="5A425CCC">Nepojmenovaný</text>
+		<text id="saveimg.grouping.apart" h="8E717B39">Každý obrázek do samostatného souboru</text>
+		<text id="saveimg.grouping.groupall" h="9E5BA5E4">Všechny obrázky do jednoho vícestránkového souboru</text>
+		<text id="saveimg.grouping.groupdoc" h="E86A1581">Obrázky z jednoho dokumentu do vícestránkového obrázkového souboru</text>
+		<text id="saveimg.grouping.grouppage" h="FDF715C4">Obrázky ze jedné stránky do vícestránkového obrázkového souboru</text>
+		<text id="savereport.to" h="861DD843">Uložit report</text>
+		<text id="searchActionTip" h="3591BAD8">Hledat akci...</text>
+		<text id="searchToolTip" h="435392D9">Hledat...</text>
+		<text id="secinfo.grp" h="F5A61224">Informace o zabezpečení</text>
+		<text id="secsetting.init.warn" h="61B936AD">Akce &lt;b&gt;"%1"&lt;/b&gt; musí být inicializována před spuštěním.
+Chcete pokračovat v provádění nástroje a inicializaci akce?</text>
+		<text id="secsettings.btn" h="9147CD71">Nastavení</text>
+		<text id="selPages.all" h="7D499596">Všechny stránky</text>
+		<text id="selPages.dlg" h="4B381B82">Vybrat stránky</text>
+		<text id="selPages.even" h="CDE5C1A0">Sudé stránky</text>
+		<text id="selPages.exact" h="23952CFD">Stránky:</text>
+		<text id="selPages.fromsubset" h="3ADEE045">z podmnožiny "%1"</text>
+		<text id="selPages.odd" h="242E0666">Liché stránky</text>
+		<text id="select.ovrfile" h="74E5784A">Vyberte překrývací soubor</text>
+		<text id="selectDestFolder" h="D0F102DD">Vyberte cílovou složku</text>
+		<text id="selectHotfolder.lbl" h="3A4859F6">Vyberte složku pro monitoring:</text>
+		<text id="sendmail.archive.defaultname" h="F758C4E9">Nepojmenovaný</text>
+		<text id="sendmail.by" h="8EF165F7">Od:</text>
+		<text id="sendmail.chk.intoone" h="BE171523">Všechny soubory do jednoho e-mailu</text>
+		<text id="sendmail.chk.priority" h="846616F7">Nastavir prioritu zprávy</text>
+		<text id="sendmail.client" h="E8D90FF3">Poštovní klient</text>
+		<text id="sendmail.compress.alltoone" h="C303528D">Všechny soubory do jednoho archivu</text>
+		<text id="sendmail.compress.eachfile" h="B972BFCC">Každý soubor do vlastního archívu</text>
+		<text id="sendmail.compress.none" h="F9398D7D">Žádná</text>
+		<text id="sendmail.edt.cue" h="A179CC6C">Zadejte text zprávy...</text>
+		<text id="sendmail.from" h="976952DD">Od:</text>
+		<text id="sendmail.lbl.arcname" h="A630D28B">Název archívu:</text>
+		<text id="sendmail.lbl.compress" h="BC1093D8">Komprese:</text>
+		<text id="sendmail.log.cantcreatearchive" h="B40CACC8">Nelze vytvořit archív k odeslání</text>
+		<text id="sendmail.log.nofiles" h="4C7A563E">Žádní soubory k odeslání</text>
+		<text id="serializing" h="92752B4F">Serializuji %1...</text>
+		<text id="setup.grp" h="95DF47CE">Možnosti monitoru složky</text>
+		<text id="setuphotfolder.dlg.caption" h="EDC6E6EA">Monitory složek</text>
+		<text id="showFiles.enabled" h="2532774E">Povoleno</text>
+		<text id="showFiles.launchAssocApp" h="FE936D7D">Zobrazit soubory v přidruženém prohlížeči</text>
+		<text id="showFiles.launchAssocAppWarn" h="97CF77EB">Souborů k prohlédnutí je více.
+Současné problížení více souborů najednou může výrazně zpomalovat počítač.
+
+Jste si jistí, že chcete zobrazit více souborů najednou?</text>
+		<text id="showFiles.openFolderAndSel" h="A95A4BE0">Otevřít složku se soubory a vybrat je</text>
+		<text id="showFiles.text" h="26A38ADF">Výběr akce:</text>
+		<text id="showMoreOpts" h="24B13299">Všechny možnosti...</text>
+		<text id="showMoreOpts2" h="64C40213">Více možností...</text>
+		<text id="showMoreOptsTip" h="C60CDB73">Zobrazit všechny možnosti...</text>
+		<text id="showMoreOptsTip2" h="145A1CAD">Klikněte pro zobrazení rozšířených možností...</text>
+		<text id="showSetupUI" h="0E94449E">Otevře při běhu okno s nastavením</text>
+		<text id="showSetupUITip" h="0E94449E">Otevře při běhu okno s nastavením</text>
+		<text id="size" h="17A58A52">Velikost</text>
+		<text id="sizelimit.nolimit" h="8E135818">Bez omezení</text>
+		<text id="skipaction.b" h="A37FB4B0">Přeskočit akci</text>
+		<text id="skipdocsWithText" h="2683C8E5">Neprovádět OCR pokud dokument obsahuje text</text>
+		<text id="skipped" h="B7D8BB1E">přeskočit</text>
+		<text id="smmanual.chk" h="563576E6">Zobrazit dialog pro ruční rozdělení/sloučení</text>
+		<text id="smmethod" h="C894DD7E">Metoda</text>
+		<text id="smmethod.all2one" h="B3E7239B">Všechny stránky do jednoho dokumentu</text>
+		<text id="smmethod.asis" h="4C3BC0E6">Ponechat vstupní dokumenty jak jsou</text>
+		<text id="smmethod.bookmarks" h="44B3EE11">Rozdělit podle hlavních záložek</text>
+		<text id="smmethod.npages" h="2D67CBA9">Každou n-tou stránku do samostatného dokumentu</text>
+		<text id="smreverse.chk" h="B766066F">Otočit pořadí stránek</text>
+		<text id="sourcepage" h="5D6277DD">Zdrojová stránka</text>
+		<text id="sourcetitle" h="81E00BC2">Zdrojový název</text>
+		<text id="specific" h="67D7437D">Specifický</text>
+		<text id="status" h="9FB9C788">Stav</text>
+		<text id="stdAll" h="C80F4913">Všechny standardy</text>
+		<text id="stdToolsGrName" h="1906BB71">Standardní nástroje</text>
+		<text id="stop" h="F89FDAAE">Stop</text>
+		<text id="targettitle" h="F87B6FA7">Cílový název</text>
+		<text id="timefmt.day" h="EF28C7D2">%1 den</text>
+		<text id="timefmt.days" h="F3C5276C">%1 dnů</text>
+		<text id="timefmt.days.short" h="E1985A1D">%1d</text>
+		<text id="timefmt.hour" h="CDADDDAA">%1 hodina</text>
+		<text id="timefmt.hours" h="E9410F6D">%1 hodin</text>
+		<text id="timefmt.hours.short" h="4D2D1511">%1h</text>
+		<text id="timefmt.minute" h="2D014E0C">%1 minuta</text>
+		<text id="timefmt.minutes" h="781A3650">%1 minut</text>
+		<text id="timefmt.minutes.short" h="305AE154">%1m</text>
+		<text id="timefmt.second" h="CDE322F6">%1 vteřina</text>
+		<text id="timefmt.seconds" h="D24DF2F6">%1 vteřin</text>
+		<text id="timefmt.seconds.short" h="E41BDE8B">%1s</text>
+		<text id="title.choosepages" h="4B381B82">Vybrat stránky</text>
+		<text id="tool" h="7D3C7CB2">Nástroj</text>
+		<text id="tool.addBatesNumbering" h="5987A707">Přidat Batesova čísla</text>
+		<text id="tool.addBatesNumbering.desc" h="19058FA5">Vloží Batesova čísla pro indexování právních dokumentů za účelem snadné identifikace a prohledávání, atd.</text>
+		<text id="tool.addDigSign" h="97DD789F">Přidat elektronický podpis</text>
+		<text id="tool.addDigSign.desc" h="84946427">Přidá do souborů PDF nové pole podpisu a podepíše ho pomocí podpisového certifikátu.</text>
+		<text id="tool.addHeaderAndFooter" h="71EBAC62">Přidat záhlaví a zápatí</text>
+		<text id="tool.addHeaderAndFooter.desc" h="36AA73F6">Přidá na stránky záhlaví a/nebo zápatí. Záhlaví/zápatí může obsahovat datum, automatické číslo stránky, titulek, autora, apod.</text>
+		<text id="tool.addPagesBackground" h="20D4DB07">Nastavit pozadí stránek</text>
+		<text id="tool.addPagesBackground.desc" h="C639A1B2">Nastavit výplň nebo grafické pozadí za existujícím obsahem stránky.</text>
+		<text id="tool.addTimeStamp" h="837FE6FB">Připojit časové razítko</text>
+		<text id="tool.addTimeStamp.desc" h="4D80E50C">Přidá kvalifikované časové razítko, které potvrzuje přesný obsah PDF platný v okamžitu podání žádosti.</text>
+		<text id="tool.addWatermarks" h="F5662DD3">Přidat vodoznak</text>
+		<text id="tool.addWatermarks.desc" h="434D9E42">Přidá text nebo obrázek, který se objeví buď před nebo za stávajícím obsahem stránek.</text>
+		<text id="tool.bookmarksExportToText" h="01135DA3">Export záložek do textového souboru</text>
+		<text id="tool.bookmarksExportToText.desc" h="F351FF49">Uloží strukturu záložek PDF dokumentu do textového souboru</text>
+		<text id="tool.bookmarksFromTextFile" h="CA5176DD">Import záložek z textového souboru</text>
+		<text id="tool.bookmarksFromTextFile.desc" h="792D900F">Vytvoří záložky v PDF dokumentu z textového souboru.</text>
+		<text id="tool.bookmarksFromText" h="383A949B">Generovat záložky z textu na stránce</text>
+		<text id="tool.bookmarksFromText.desc" h="1EF3AF08">Vytvoří záložky z textu dokumentu podle daného stylu písma a parametrů.</text>
+		<text id="tool.bookmarksExport" h="F3EE1781">Export záložek</text>
+		<text id="tool.bookmarksExport.desc" h="BB39B78E">Exportuje všechny záložky z dokumentu</text>
+		<text id="tool.bookmarksImport" h="DC7F6AD5">Import záložek</text>
+		<text id="tool.bookmarksImport.desc" h="40AC7812">Importuje záložky do dokumentu z exportovaného souboru.</text>
+		<text id="tool.bookmarksBuildTOC" h="2B3E9BF1">Vytvořit obsah</text>
+		<text id="tool.bookmarksBuildTOC.desc" h="1D694D80">Vytvoří obsah ze struktury záložek a stránek na které záložky cílí.</text>
+		<text id="tool.certifyPDF" h="52B0ED47">Certifikovat PDF</text>
+		<text id="tool.certifyPDF.desc" h="828838CF">Ochrání PDF dokumenty certifikováním daných polí podpisu certifikačním podpisem.</text>
+		<text id="tool.changeProps" h="89CBAD2F">Změnit vlastnosti dokumentu</text>
+		<text id="tool.changeProps.desc" h="40BD1FE7">Nastaví vlastnosti dokumentu: název, autora, předmět, klíčová slova, atd.</text>
+		<text id="tool.clearDigSign" h="361BBD36">Smazat všechny elektronické podpisy</text>
+		<text id="tool.clearDigSign.desc" h="E1CDD425">Odstraní všechny podpisy a pokud je to možné, tak také nepodepsané pole.</text>
+		<text id="tool.convertToPDFA" h="86709E15">Převod do PDF/A</text>
+		<text id="tool.convertToPDFA.desc" h="7DDE1660">Uloží dokumenty ve shodě se standardem PDF/A pro dlouhodobou archivaci.</text>
+		<text id="tool.convertToPDFX" h="1D70370D">Převod do PDF/X</text>
+		<text id="tool.convertToPDFX.desc" h="CB599882">Uloží dokumenty ve shodě se standardem PDF/X pro výměnu tiskových dat.</text>
+		<text id="tool.copied" h="348DE55D">Kopírovat</text>
+		<text id="tool.createWeblinks" h="F68EDD51">Vytvořit odkazy</text>
+		<text id="tool.createWeblinks.desc" h="6971A17D">Vytvoří odkazy z textu v dokumentu.</text>
+		<text id="tool.cropPages" h="54A95B63">Ořezat stránky</text>
+		<text id="tool.cropPages.desc" h="A9A477BE">Upraví viditelnou část stránky, změní nebo odstraní bílé okraje na stránkách, nastaví ořezové rámečky.</text>
+		<text id="tool.deleteComments.all" h="E8642222">Smazat všechny komentáře</text>
+		<text id="tool.deleteComments.all.desc" h="818B531A">Smaže všechny komentáře v dokumentu.</text>
+		<text id="tool.deleteComments.form" h="37ECB4B5">Smazat formulářová pole</text>
+		<text id="tool.deleteComments.form.desc" h="C5D21570">Smaže všechny formuláře z dokumentu.</text>
+		<text id="tool.deleteComments.links" h="CC8F1411">Smazat odkazy</text>
+		<text id="tool.deleteComments.links.desc" h="66D48AF5">Smaže odkazy z dokumentu.</text>
+		<text id="tool.deleteComments.markup" h="EA5127FB">Smazat označení textu</text>
+		<text id="tool.deleteComments.markup.desc" h="80CD5AA0">Smaže označení textu z dokumentu.</text>
+		<text id="tool.deleteComments.weblinks" h="87C8439E">Smazat odkazy</text>
+		<text id="tool.deleteComments.weblinks.desc" h="158E179F">Odstraní odkazy z dokumentu.</text>
+		<text id="tool.deletePages" h="E5284839">Smazat stránky</text>
+		<text id="tool.deletePages.desc" h="4E1EBD43">Odstraní stránky z dokumentu.</text>
+		<text id="tool.descTip" h="04F6C0B5">Zadat popis nástroje...</text>
+		<text id="tool.discardPDFStd" h="E608B980">Odstranit standard PDF</text>
+		<text id="tool.discardPDFStd.desc" h="947EF232">Odstraní informace o standardu PDF, jako PDF/X, PDF/A, PDF/E, atd.</text>
+		<text id="tool.duplicatePages" h="14C45200">Duplikovat stránky</text>
+		<text id="tool.duplicatePages.desc" h="0FD26A6C">Duplikuje stránky v dokumentu.</text>
+		<text id="tool.extractImagesFromPDF" h="4CF9FEB6">Výtah obrázků z PDF</text>
+		<text id="tool.extractImagesFromPDF.desc" h="C53280A8">Vyhledá rastrové obrázky obsažené v dokumentu PDF a uloží je na disk.</text>
+		<text id="tool.extractPages" h="7AE73EC1">Výtah stránek</text>
+		<text id="tool.extractPages.desc" h="54BB795B">Vytáhne zadaný rozsah stránek z PDF dokumentu do nového dokumentu.</text>
+		<text id="tool.filesToPDF" h="4CD7DD2F">Převod souborů do PDF</text>
+		<text id="tool.filesToPDF.desc" h="603206C4">Převede vstupní soubory podporovaných formátů do PDF.</text>
+		<text id="tool.flattenComments" h="CBA1AA18">Sloučit komentáře</text>
+		<text id="tool.flattenComments.desc" h="20A41E96">Převede komentáře na základní položky obsahu.</text>
+		<text id="tool.imagesToPDF" h="B0C7E05C">Vytvořit PDF z obrázků</text>
+		<text id="tool.imagesToPDF.desc" h="0FDB3BE0">Vytvořít PDF dokument z jednoho nebo více rastrových obrázků.</text>
+		<text id="tool.insertEmptyPages" h="3779032F">Vložit prázdné stránky</text>
+		<text id="tool.insertEmptyPages.desc" h="65380D33">Vloží do dokumentu prázdné stránky.</text>
+		<text id="tool.insertPages" h="6B486B45">Vložit stránky</text>
+		<text id="tool.insertPages.desc" h="E986FB1C">Vloží do dokumentu stránky z jiného dokumentu.</text>
+		<text id="tool.isused" h="F0A66FDB">Nemohu odstranit nástroj &lt;b&gt;"%1"&lt;/b&gt;.
+Je používán monitorem složek.</text>
+		<text id="tool.nameTip" h="92682EAF">Zadat název nástroje...</text>
+		<text id="tool.new.name" h="6431F60C">Nový nástroj</text>
+		<text id="tool.ocrPages" h="D2A189BC">OCR</text>
+		<text id="tool.ocrPages.desc" h="E9D91493">Opticky rozpozná text v PDF dokumentu a na stránkách vytvoří prohledatelnou textovou vrstvu.</text>
+		<text id="tool.optimizePDF" h="E369C144">Optimalizace PDF</text>
+		<text id="tool.optimizePDF.desc" h="2DDF7F6C">Pokud je to možné, provede snížení velikosti souboru PDF pomocí optimalizace obsahu.</text>
+		<text id="tool.overlayDoc" h="A113E021">Překrytí PDF</text>
+		<text id="tool.overlayDoc.desc" h="8AC5B664">Překryje soubory PDF jiným souborem PDF.</text>
+		<text id="tool.pageTransitions" h="B5EF0B7A">Nastavit přechody stránek</text>
+		<text id="tool.pageTransitions.desc" h="33F5B755">Změní speciální efekty přechodů stránek pro režim celé obrazovky.</text>
+		<text id="tool.pdfToDOCX" h="D89F515F">Export PDF do Microsoft Word</text>
+		<text id="tool.pdfToDOCX.desc" h="D34FB81F">Exportuje soubory PDF do formátu Microsoft Word (*.docx).</text>
+		<text id="tool.pdfToImages" h="6DC3C315">Export PDF do obrázků</text>
+		<text id="tool.pdfToImages.desc" h="87E8923B">Jednoduše převede stránky z jednoho nebo více souborů PDF do rastrových obrázků jako JPEG, PNG, TIFF, atd. </text>
+		<text id="tool.pdfToPPTX" h="E673A7B8">Export PDF do Microsoft PowerPoint</text>
+		<text id="tool.pdfToPPTX.desc" h="65E608C6">Exportuje soubory PDF do formátu Microsoft PowerPoint (*.pptx).</text>
+		<text id="tool.pdfToTXT" h="29DDD177">Export PDF do textového souboru</text>
+		<text id="tool.pdfToTXT.desc" h="9C277C15">Exportuje soubory PDF do textových souborů (*.txt).</text>
+		<text id="tool.pdfToXSLX" h="A31C131A">Export PDF do Microsoft Excel</text>
+		<text id="tool.pdfToXSLX.desc" h="325AEA86">Exportuje soubory PDF do Microsoft Excel (*.xlsx).</text>
+		<text id="tool.removeBackground" h="E0246483">Odstranit pozadí stránek</text>
+		<text id="tool.removeBackground.desc" h="17700648">Odstraní ze stránek vlastní pozadí a nahradí ho výchozím bílým pozadím.</text>
+		<text id="tool.removeBatesNumbering" h="901F5ABD">Odstranit Batesova čísla</text>
+		<text id="tool.removeBatesNumbering.desc" h="E4FBEB3C">Odstraní Batesova čísla.</text>
+		<text id="tool.removeHeaderAndFooter" h="11E8A996">Odstranit záhlaví a zápatí</text>
+		<text id="tool.removeHeaderAndFooter.desc" h="E1CC0743">Odstraní všechna záhlaví a zápatí.</text>
+		<text id="tool.removeWatermarks" h="93F16CE2">Odstranit vodoznaky</text>
+		<text id="tool.removeWatermarks.desc" h="AFCD3BD4">Odstraní z dokumentu všechny vodoznaky.</text>
+		<text id="tool.replacePages" h="1311083C">Nahradit stránky</text>
+		<text id="tool.replacePages.desc" h="9C48D712">Nahradí stránky v dokumentu stránkami z vybrané dokumentu.</text>
+		<text id="tool.report.dlg" h="E9D63CB7">Report nástroje</text>
+		<text id="tool.report.filename" h="C7908B93">Report běhu nástroje</text>
+		<text id="tool.report.save" h="418B87C2">Uložit do souboru...</text>
+		<text id="tool.resizePages" h="8A5C31F1">Změnit velikost stránek</text>
+		<text id="tool.resizePages.desc" h="822401DC">Zvyší nebo sníží velikost stránek, volitelně pomocí měřítka stránky.</text>
+		<text id="tool.rotatePages" h="CBD82045">Natočit stránky</text>
+		<text id="tool.rotatePages.desc" h="66235E38">Natočí zadané stránky v PDF o 90 stupňů pro nebo proti směru hodinových ručiček.</text>
+		<text id="tool.scanToPDF" h="B9A05395">Skenovat do PDF</text>
+		<text id="tool.scanToPDF.desc" h="521CD5C0">Využitím skeneru vytvoří nové PDF přímo z papírových dokumentů.</text>
+		<text id="tool.securePDF" h="400E69FB">Zabezpečení PDF</text>
+		<text id="tool.securePDF.desc" h="322DE365">Ochrání PDF dokument nastavením hesla pro otevření a/nebo změnu přístupových práv. </text>
+		<text id="tool.sendMail" h="9377A75B">Odeslat E-mail</text>
+		<text id="tool.sendMail.desc" h="13681586">Odešle soubory na zadané e-mailové adresy výchozí metodou.</text>
+		<text id="tool.splitMergePDF" h="51A86996">Rozdělit/Sloučit PDF</text>
+		<text id="tool.splitMergePDF.desc" h="73710D3B">Zkombinuje všechny vstupní PDF do jednoho nebo je rozdělí do nového PDF, automaticky nebo ručně.</text>
+		<text id="tool.splitPages" h="2648812F">Rozdělit stránky</text>
+		<text id="tool.splitPages.desc" h="4FA35C77">Rozdělí stránky v PDF dokumentu.</text>
+		<text id="tool.summarizeComments" h="2233C1CD">Sumarizovat komentáře</text>
+		<text id="tool.summarizeComments.desc" h="8EA1DEF5">Vytvoří sumář všech komentářů v PDF dokumentu.</text>
+		<text id="tool.textToPDF" h="ECE46B63">Vytvořit PDF z textu</text>
+		<text id="tool.textToPDF.desc" h="E1CF697C">Vytvoří PDF dokument z jednoho nebo více textových souborů.</text>
+		<text id="tool.warn.actInvalid1" h="8442B509">V této akci byla nalezena jedna nebo více chyb:</text>
+		<text id="tool.warn.actInvalid2" h="442E6045">U této akce došlo k chybě:</text>
+		<text id="tool.warn.actReqDoc" h="76C84E2B">tato akce vyžaduje PDF, obrázky nebo jiné podporované soubory</text>
+		<text id="tool.warn.actReqFile1" h="0B30D02F">tato akce vyžaduje soubory - pro vyřešení problému můžete vložit akci &lt;u&gt;%1&lt;/u&gt;</text>
+		<text id="tool.warn.actReqFile2" h="CA8342FE">tato akce vyžaduje soubory</text>
+		<text id="tool.warn.actReqFile21" h="65B62BA0">vypadá to, že jste zapoměli vložit akci &lt;u&gt;%1&lt;/u&gt;</text>
+		<text id="tool.warn.actReqImg" h="D28A3C63">tato akce vyžaduje obrázky</text>
+		<text id="tool.warn.actReqSaveRes" h="3621DC81">výsledky této akce je nutné uložit na disk - pro vyřešení problému můžete vložit akci &lt;u&gt;%1&lt;/u&gt;</text>
+		<text id="tool.warn.actReqSaveRes2" h="9B55FE54">nástroj obsahuje &lt;u&gt;%1&lt;/u&gt; mezi předchozími akcemi a jeho výsledky musí být uloženy před provedením &lt;i&gt;této&lt;/i&gt; akce. Musíte přidat akci &lt;u&gt;%2&lt;/u&gt; </text>
+		<text id="tool.warn.actTitle" h="7330FC41">Akce &lt;u&gt;%1&lt;/u&gt;:</text>
+		<text id="tool.warn.cancel" h="8DD6365D">Chcete zastavit provádění nástroje &lt;b&gt;"%1"&lt;/b&gt;?
+Pokud ne - klikněte na &lt;b&gt;Ne&lt;/b&gt; pro pokračování...</text>
+		<text id="tool.warn.empty" h="D05A0C43">tento nástroj je prázdný - můžete kliknout na tlačítko  '&lt;b&gt;Upravit&lt;/b&gt;' a přidat akce pro vytvoření funkčního nástroje.</text>
+		<text id="tool.warn.empty2" h="B4FD144F">Nástroj je prázdný: nejsou zde žádné akce.</text>
+		<text id="tool.warn.imgNotFound" h="9A768995">Obrázky nebyly nalezeny.</text>
+		<text id="tool.warn.invalidActList" h="A2BB75D7">Nástroj má neplatný seznam akcí.</text>
+		<text id="tool.warn.nextActNotSuitable" h="17376D04">&lt;i&gt;následující&lt;/i&gt; akce není vhodná, protože neakceptuje výsledek &lt;i&gt;této&lt;/i&gt; akce jako výstup</text>
+		<text id="tool.warn.nextActNotSuitable2" h="49941252">pro vyřešení problému můžete vložit akci &lt;u&gt;%1&lt;/u&gt; po &lt;i&gt;tomto&lt;/i&gt;</text>
+		<text id="tool.warn.runInvalid" h="58A31432">Nástroj &lt;b&gt;"%1"&lt;/b&gt; je neplatný. Aby bylo možné ho spustit, je nutné opravit seznam akcí.
+
+Opravdu chcete upravit tento nástroj?</text>
+		<text id="tool.warn.toolInvalid1" h="D448BEEB">V tomto nástroji byla nalezena jedna nebo více chyb:</text>
+		<text id="tool.warn.toolInvalid2" h="560926B8">U tohoto nástroje došlo k chybě:</text>
+		<text id="toolActionsList" h="C9BE1A16">Sekvence akcí nástroje</text>
+		<text id="toolCategories" h="DB5C4D49">Kategorie</text>
+		<text id="toolInfo" h="979A9FE1">Informace o nástroji</text>
+		<text id="toolInfo.defaultDesc" h="D1FD06B6">Vyberte nástroj ze seznamu nástrojů pro zobrazení informací.</text>
+		<text id="toolcat.PDFStandard" h="E51FAF25">Standard PDF</text>
+		<text id="toolcat.advanced" h="59A2B513">Rozšířené</text>
+		<text id="toolcat.all" h="BF2EE9E9">Všechny nástroje</text>
+		<text id="toolcat.bookmarks" h="E2032460">Záložky</text>
+		<text id="toolcat.comments" h="FA5EB905">Komentáře</text>
+		<text id="toolcat.createPDF" h="ACF7EBD1">Vytvořit PDF</text>
+		<text id="toolcat.customTools" h="22F07048">Vlastní nástroje</text>
+		<text id="toolcat.exportPDF" h="4AE54AB5">Export PDF</text>
+		<text id="toolcat.favorites" h="310DA860">Oblíbené</text>
+		<text id="toolcat.importedTools" h="48FF1B1E">Importované nástroje</text>
+		<text id="toolcat.mostUsed" h="6274AE53">Nejpoužívanější</text>
+		<text id="toolcat.newname" h="DB2A8F96">Nová kategorie</text>
+		<text id="toolcat.optimizePDF" h="E369C144">Optimalizace PDF</text>
+		<text id="toolcat.pages" h="47B1CB74">Stránky</text>
+		<text id="toolcat.protection" h="B7EE190B">Ochrana</text>
+		<text id="toolcat.recents" h="F90189AF">Nedávné</text>
+		<text id="toolsList" h="CA8BB4DB">Nástroje</text>
+		<text id="toolselect.lbl" h="ECBB264F">Vyberte nástroj ke spuštění:</text>
+		<text id="toolslist.drop.nofiles" h="4F3412DD">Žádné soubory k zahození.</text>
+		<text id="toolslist.tip.icofavorite.add" h="F53B42E1">Klikněte pro přidání nástroje do Oblíbených</text>
+		<text id="toolslist.tip.icofavorite.remove" h="04AC30FF">Nástroj je v oblíbených nástrojích.
+Klikněte pro odstranění nástroje z Oblíbených.</text>
+		<text id="toolslist.tip.icomonitor" h="4A7E7A48">Nástroj je použit v monitoru složky</text>
+		<text id="toolslist.tip.icouser" h="9864F819">Vlastní nástroj</text>
+		<text id="toolsview.warning.emptyname" h="38B7A2E0">Název nástroje musí být vyplněn.</text>
+		<text id="type" h="710B61B4">Typ</text>
+		<text id="bmnamesName.lbl" h="C761CCE0">Název dokumentu z:</text>
+		<text id="bmnamesDoc.cmb" h="D7143742">Název zdrojového dokumentu</text>
+		<text id="bmnamesNames.cmb" h="DBDE73F8">Název záložek</text>
+		<text id="bmnamesAndDoc.cmb" h="019AADA7">Zdrojový dokument a názvy záložek</text>
+		<text id="userui.disable" h="14084105">Zakázat interakci</text>
+		<text id="userui.tooltip" h="05865038">Vyřadí uživatelské rozhraní během běhu nástroje (zobrazování výsledných souborů, ...)
+POZNÁMKA: některé akce (např. &lt;b&gt;"%1"&lt;/b&gt;) vyžadují inicializaci: nastavení uživ. rozhraní se zobrazí &lt;u&gt;jednou&lt;/u&gt;.</text>
+		<text id="userui.usetool" h="D5A05798">Použít nastavení nástroje</text>
+		<text id="usetool.filter" h="4885292B">Použít filtr z nástroje</text>
+		<text id="warn.textDocSkipOCR" h="FB74BE26">PDF dokument obsahuje text. OCR nebude provedeno</text>
+		<text id="wrong.file.msg" h="9F0126B0">Nelze otevřít PDF k překrytí:
+&lt;b&gt;%1&lt;/b&gt;:
+%2
+Chcete vybrat jiný soubor?</text>
+	</Strings>
+</Localization>

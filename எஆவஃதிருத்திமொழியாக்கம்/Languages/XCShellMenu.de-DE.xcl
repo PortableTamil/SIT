@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171116222500">2.00.00</Version>
+	<Author>Michael Dodl</Author>
+	<Copyright></Copyright>
+	<Product id="XCShellMenu"/>
+	<Language eName="German (Germany)" lName="Deutsch" code="de-DE" R2L="false"/>
+	<Module name="XCShellMenu" namespace="" version="6.0.322.7"/>
+	<Strings>
+		<text id="menu.open" h="D08F8302">Mit PDF-XChange Editor öffnen</text>
+		<text id="menu.combine" h="BF3B40FB">Mit PDF-XChange Editor zusammenführen</text>
+		<text id="menu.open.help" h="DB2C9B04">Dateien mit PDF-XChange Editor öffnen</text>
+		<text id="menu.combine.help" h="3E8460C6">Dateien mit PDF-XChange Editor zusammenführen</text>
+	</Strings>
+</Localization>

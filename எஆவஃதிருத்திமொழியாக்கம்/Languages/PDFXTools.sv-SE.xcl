@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117213633">2.00.00</Version>
+	<Author>Markus Konsa, support@PDF-XChange.se, +46(0)31-3121100</Author>
+	<Copyright>PDF-XChange Sverige, +46(0)31-312 11 00
+https://pdf-xchange.se, 
+Tracker Software Products(Canada+UK) reg. partner.
+	</Copyright>
+	<Product id="PDFXTools"/>
+	<Language eName="Swedish (Sweden)" lName="Svenska" code="sv-SE" R2L="false"/>
+	<Module name="PDFXTools" namespace="pdft" version="6.0.322.7"/>
+	<Strings>
+		<text id="accessed" h="45570324">Nåbart</text>
+		<text id="act.askForSourceFiles" h="2E856073">Välj källfiler</text>
+		<text id="act.askForSourceFiles.desc" h="3759C068">Visar en dialog där källfiler kan specificeras för verktyg.</text>
+		<text id="act.doc.createWeblinks" h="F68EDD51">Skapa weblänk</text>
+		<text id="act.doc.createWeblinks.desc" h="6971A17D">Skapar weblänk från dokumentets textinnehåll</text>
+		<text id="act.deleteComments.all" h="E8642222">Ta bort alla kommentarer</text>
+		<text id="act.deleteComments.all.desc" h="818B531A">Radera alla kommentarer i dokumentet</text>
+		<text id="act.deleteComments.form" h="37ECB4B5">Ta bort formulärfält</text>
+		<text id="act.deleteComments.form.desc" h="C5D21570">Radera alla ifyllnadsfält i dokumentet</text>
+		<text id="act.deleteComments.grp" h="EFCEA727">Välj sidor för att radera kommentarer</text>
+		<text id="act.deleteComments.lbl" h="605AA315">Välj typ av kommentarer att ta bort:</text>
+		<text id="act.deleteComments.links" h="CC8F1411">Ta bort länkar</text>
+		<text id="act.deleteComments.links.desc" h="66D48AF5">Radera länkar i dokumentet</text>
+		<text id="act.deleteComments.weblinks" h="87C8439E">Radera weblänkar</text>
+		<text id="act.deleteComments.weblinks.desc" h="158E179F">Ta bort weblänkar från dokument</text>
+		<text id="act.deleteComments.markup" h="EA5127FB">Ta bort Markeringar - Kommentarer</text>
+		<text id="act.deleteComments.markup.desc" h="80CD5AA0">Radera Markeringar - Kommentarer i dokumentet</text>
+		<text id="act.deletePages.lbl" h="75141561">Sidintervall för radering</text>
+		<text id="act.discardPDFStd" h="E608B980">Avlägsna Special PDF-Standard</text>
+		<text id="act.discardPDFStd.desc" h="947EF232">Avlägsna Special PDF-Standard information så som PDF/X, PDF/A, PDF/E, etc</text>
+		<text id="act.doc.addBackground" h="8B83981C">Ändra sidbakgrund</text>
+		<text id="act.doc.addBackground.desc" h="8C8F71BF">Anger bakgrund bakom sidans innehåll.</text>
+		<text id="act.doc.addBatesNumbering" h="5987A707">Lägg till Bates-numrering</text>
+		<text id="act.doc.addBatesNumbering.desc" h="19058FA5">Tillhandahåler Bates-numrering för indexering av juridiska dokument, för enkel identifiering och sökning etc.</text>
+		<text id="act.doc.addDigSign" h="97DD789F">Lägg till digital signatur</text>
+		<text id="act.doc.addDigSign.desc" h="BB76CA39">Lägger till och signerar ett nytt signaturfält, med hjälp av ett certifikatbaserat digital-ID.</text>
+		<text id="act.doc.addHeaderAndFooter" h="71EBAC62">Lägg till sidhuvud och sidfot</text>
+		<text id="act.doc.addHeaderAndFooter.desc" h="8697B047">Lägger till sidhuvud och sidfot på specificerade sidor. Sidhuvud och sidfot kan inkludera datum, automatisk sidnumrering, titel och upphovsman etc.</text>
+		<text id="act.doc.addTimeStamp" h="896D61BF">Lägg till tidsstämpel</text>
+		<text id="act.doc.addTimeStamp.desc" h="2FDF1628">Lägger till en tidsstämpel på dokumentnivå,  som etablerar det exakta innehållet i PDF-filen vid den tidpunkt då stämpeln tillämpas. Detta erhålls från den angivna tidsstämpelmyndigheten.</text>
+		<text id="act.doc.addWatermarks" h="AA010705">Lägg till vattenstämplar</text>
+		<text id="act.doc.addWatermarks.desc" h="A89FAD30">Lägger till text/bild som visas antingen framför eller bakom befintligt sidinnehåll.</text>
+		<text id="act.doc.certify" h="C2AFA656">Certifiera dokument</text>
+		<text id="act.doc.certify.desc" h="402B64F2">Säkrar ett PDF-dokument med ett certifierat signaturfält.</text>
+		<text id="act.doc.changeProps" h="89CBAD2F">Ändra dokumentegenskaper</text>
+		<text id="act.doc.changeProps.desc" h="40BD1FE7">Anger dokumentegenskaper: Titel, författare, ämne, nyckelord, etc.</text>
+		<text id="act.doc.clearDigSign" h="7E6883B8">Rensa digitala signaturer</text>
+		<text id="act.doc.clearDigSign.desc" h="E1CDD425">Tar bort alla digitala signaturer. Lämnar om möjligt kvar osignerade signaturfält.</text>
+		<text id="act.doc.convertToPDFA" h="86709E15">Konvertera till PDF/A</text>
+		<text id="act.doc.convertToPDFA.desc" h="89A9625A">Gör dokument kompatibla med PDF/A-standard, för långvarig arkivering och lagring.</text>
+		<text id="act.doc.convertToPDFX" h="1D70370D">Konvertera till PDF/X</text>
+		<text id="act.doc.convertToPDFX.desc" h="BB077FA6">Gör dokument(-en) kompatibel med PDF/X standard för utbyte av utskriftsdata</text>
+		<text id="act.doc.cropPages" h="54A95B63">Beskär sidor</text>
+		<text id="act.doc.cropPages.desc" h="9F01A5F4">Justerar det synliga sidområdet, ändrar eller tar bort vita sidmarginaler, ställer in sidrutor.</text>
+		<text id="act.doc.deletePages" h="E5284839">Radera sidor</text>
+		<text id="act.doc.deletePages.desc" h="0EA6D9E9">Ta bort valda sidor från dokument</text>
+		<text id="act.doc.duplicatePages" h="14C45200">Dubblett sidor</text>
+		<text id="act.doc.duplicatePages.desc" h="0FD26A6C">Dubblett sidor av PDF dokument</text>
+		<text id="act.doc.exportToDOCX" h="D89F515F">Exportera PDF till Microsoft Word</text>
+		<text id="act.doc.exportToDOCX.desc" h="D5E45C48">Exporterar PDF:er till Microsoft Word-filer (*.docx).</text>
+		<text id="act.doc.exportToImages" h="6DC3C315">Exportera PDF som bilder</text>
+		<text id="act.doc.exportToImages.desc" h="0EA3EE6B">Exporterar sidor från en eller flera PDF:er, till olika rasterbildformat såsom JPEG, PNG, TIFF etc.</text>
+		<text id="act.doc.exportToPPTX" h="E673A7B8">Exportera PDF till Microsoft Powerpoint</text>
+		<text id="act.doc.exportToPPTX.desc" h="E0A7703F">Exporterar PDF:er till Microsoft Powerpoint-filer (*.pptx).</text>
+		<text id="act.doc.exportToTXT" h="29DDD177">Exportera PDF till oformaterad text</text>
+		<text id="act.doc.exportToTXT.desc" h="3D8783C4">Exporterar PDF:er till rena textfiler (*.txt).</text>
+		<text id="act.doc.exportToXLSX" h="A31C131A">Exportera PDF till Microsoft EXCEL ark</text>
+		<text id="act.doc.exportToXLSX.desc" h="66CD86D0">Exportera PDF:er till Microsoft EXCEL ark filer (*.xlsx).</text>
+		<text id="act.doc.extractImages" h="4CF9FEB6">Extrahera bilder från PDF</text>
+		<text id="act.doc.extractImages.desc" h="454EBA71">Söker efter rasterbilder i dokument och extraherar dem.</text>
+		<text id="act.doc.extractPages" h="7AE73EC1">Extrahera sidor</text>
+		<text id="act.doc.extractPages.desc" h="8FCE1EA7">Extraherar specificerade sidor, till ett nytt dokument.</text>
+		<text id="act.doc.insertEmptyPages" h="3779032F">Infoga tomma sidor</text>
+		<text id="act.doc.insertEmptyPages.desc" h="65380D33">Infoga tomma sidor till dokument</text>
+		<text id="act.doc.insertPages" h="6B486B45">Infoga sidor</text>
+		<text id="act.doc.insertPages.desc" h="C8087FC8">Infoga sidor från annat dokument</text>
+		<text id="act.doc.ocrPages" h="D2A189BC">OCR-sidor</text>
+		<text id="act.doc.ocrPages.desc" h="517C34C3">Skannar sidor efter bilder på text och och läser av texttecknen. Infogar sedan ett osynligt textlager för textmarkering och sökning etc.</text>
+		<text id="act.doc.optimize" h="854E1BE4">Optimera dokument</text>
+		<text id="act.doc.optimize.desc" h="988BB3B9">Optimerar dokumentinnehållet för att reducera storleken på PDF-filen.</text>
+		<text id="act.doc.overlayDoc" h="A113E021">Överläggs-PDF</text>
+		<text id="act.doc.overlayDoc.desc" h="8AC5B664">Lägger över ett PDF-dokument med ett annat PDF-dokument</text>
+		<text id="act.doc.pageNumbering" h="21AF4605">Sidnumrering</text>
+		<text id="act.doc.pageNumbering.desc" h="A2BA72A1">Lägger till antalet sidor.</text>
+		<text id="act.doc.pageTransitions" h="E9BE43D0">Ställ in sidövergångar</text>
+		<text id="act.doc.pageTransitions.desc" h="17B37A25">Ändra sidövergångar i helskärmsläge</text>
+		<text id="act.doc.removeBackground" h="7C270CB4">Ta bort sidbakgrund</text>
+		<text id="act.doc.removeBackground.desc" h="17700648">Tar bort anpassade bakgrunder från sidor och återställer solidvit standardbakgrund.</text>
+		<text id="act.doc.removeBatesNumbering" h="901F5ABD">Ta bort Bates-numrering</text>
+		<text id="act.doc.removeBatesNumbering.desc" h="E4FBEB3C">Tar bort Bate-numrering</text>
+		<text id="act.doc.removeHeaderAndFooter" h="11E8A996">Ta bort siduvuden och sidfötter</text>
+		<text id="act.doc.removeHeaderAndFooter.desc" h="E1CC0743">Tar bort alla befintliga siduvuden och sidfötter.</text>
+		<text id="act.doc.removeWatermarks" h="93F16CE2">Ta bort vattenstämplar</text>
+		<text id="act.doc.removeWatermarks.desc" h="629EC84B">Tar bort alla vattenstämplar</text>
+		<text id="act.doc.replacePages" h="1311083C">Ersätt sidor</text>
+		<text id="act.doc.replacePages.desc" h="8C5176DA">Ersätt sidor i dokument.</text>
+		<text id="act.doc.resizePages" h="8A5C31F1">Ändra sidstorlek</text>
+		<text id="act.doc.resizePages.desc" h="8F74355D">Ökar eller minskar sidstorleken, skalar också sidinnehåll som tillval.</text>
+		<text id="act.doc.rotatePages" h="CBD82045">Rotera sidor</text>
+		<text id="act.doc.rotatePages.desc" h="00CCD6AD">Roterar sidor medurs eller moturs, i steg om 90 grader.</text>
+		<text id="act.doc.setSecurity" h="09A28BF5">Säkert dokument</text>
+		<text id="act.doc.setSecurity.desc" h="AF6D0BF7">Skyddar ditt PDF-dokument genom att kräva ett lösenord för att öppna filen och/eller ändra innehållet. Tillåter borttagning av säkerhetsrestriktioner.</text>
+		<text id="act.doc.splitPages" h="2648812F">Dela upp sidor</text>
+		<text id="act.doc.splitPages.desc" h="4FA35C77">Dela upp sidor i PDF dokument</text>
+		<text id="act.doc.summarizeComments" h="2233C1CD">Sammanfattar kommentarer</text>
+		<text id="act.doc.summarizeComments.desc" h="8EA1DEF5">Skapar sammanfattning av alla kommentarer i PDF dokument</text>
+		<text id="act.filesToPDF" h="A382536E">Konvertera filer till PDF</text>
+		<text id="act.filesToPDF.desc" h="40567B4F">Konverterar källfiler av format som stöds, till PDF.</text>
+		<text id="act.flags.arrdoc" h="F5023560">dokumentmatris</text>
+		<text id="act.flags.arrfile" h="AF02951A">filmatris</text>
+		<text id="act.flags.arrimage" h="AD43894A">bildmatris</text>
+		<text id="act.flags.arrname" h="A46C1DFE">namnmatris</text>
+		<text id="act.flags.doc" h="0417E245">dokument</text>
+		<text id="act.flags.file" h="AFFADF08">fil</text>
+		<text id="act.flags.image" h="6F479465">bilder</text>
+		<text id="act.flags.name" h="28F021B5">namn</text>
+		<text id="act.flags.nothing" h="C06D6B01">Inget</text>
+		<text id="act.flattenComments" h="CBA1AA18">Flatten comments=&gt;pressa till redigerbart lager</text>
+		<text id="act.flattenComments.desc" h="20A41E96">konvertera anteckningar till bas innehållsobjekt</text>
+		<text id="act.group.PDFStandard" h="E51FAF25">PDF Standard</text>
+		<text id="act.group.advanced" h="59A2B513">Avancerad</text>
+		<text id="act.group.comments" h="FA5EB905">Kommentarer</text>
+		<text id="act.group.createPDF" h="ACF7EBD1">Skapa PDF</text>
+		<text id="act.group.exportPDF" h="4AE54AB5">Exportera PDF</text>
+		<text id="act.group.inputOutput" h="178214DA">Indata/Utdata</text>
+		<text id="act.group.optimizePDF" h="E369C144">Optimera PDF</text>
+		<text id="act.group.pages" h="47B1CB74">Sidor</text>
+		<text id="act.group.protection" h="B7EE190B">Skydd</text>
+		<text id="act.imagesToPDF" h="B0C7E05C">Skapa PDF av bilder</text>
+		<text id="act.imagesToPDF.desc" h="43AF6AF6">Skapar en enkelt-PDF av en eller flera rasterbilder.</text>
+		<text id="act.saveDocs" h="07936326">Spara dokument</text>
+		<text id="act.saveDocs.desc" h="32932EE9">Sparar ändringar i dokument/dokumentuppsättningar eller sparar nyskapade dokument.</text>
+		<text id="act.saveImages" h="2EBC4084">Spara bilder</text>
+		<text id="act.saveImages.desc" h="3A5C69E3">Sparar rasterbilder till filer på disk.</text>
+		<text id="act.scanToImages" h="3C7180B5">Hämta bilder från skanner</text>
+		<text id="act.scanToImages.desc" h="E0F7A297">Skannar ett pappersdokument och skapar en bildbaserad PDF från skanningen.</text>
+		<text id="act.sendMail" h="1F56479B">Skicka e-post</text>
+		<text id="act.sendMail.desc" h="E1FF897B">Skicka filer med e-post till angiven adress.</text>
+		<text id="act.showFiles" h="7E16D9C8">Visa filer</text>
+		<text id="act.showFiles.desc" h="5A081173">Öppnar mappen med filerna, eller startar standardhanteraren för respektive fil.</text>
+		<text id="act.splitMergeDocs" h="8343835D">Dela upp/Slå ihop dokument</text>
+		<text id="act.splitMergeDocs.desc" h="B253B87D">Kombinerar alla indata-PDF:er i en, eller delar upp dem i nya PDF:er, automatiskt eller manuellt.</text>
+		<text id="act.textToPDF" h="ECE46B63">Skapa PDF av text</text>
+		<text id="act.textToPDF.desc" h="F9A66354">Skapar ett enkelt PDF-dokument av en eller flera textfiler.</text>
+		<text id="act.warn.title" h="76F57ED1">Varningar:</text>
+		<text id="act.scan.showlist" h="18D7490A"> Visa lista InScan</text>
+		<text id="actCloseBtnTip" h="087A8145">Klicka för att ta bort åtgärden från listan</text>
+		<text id="actOnOffUITip" h="18682AEB">Klicka här för att slå på/av åtgärden i körtid</text>
+		<text id="actionInfo.defaultDesc" h="845515AD">Välj åtgärd i ovanstående åtgärdslista för att visa info.</text>
+		<text id="actionInfo.defaultTitle" h="375B13FE">Välj åtgärd...</text>
+		<text id="addbookmark.chk" h="C7B70DCB">Lägg till rotbokmärke med filnamn</text>
+		<text id="afsf.choosefiles" h="BAE0C7B7">Välj filer</text>
+		<text id="afsf.choosefiles.editimage" h="56B4E1F8">Redigera bild</text>
+		<text id="afsf.click2browse" h="ABC462F9">Klicka här för att öppna/bäddra</text>
+		<text id="afsf.clicktoedit" h="56B17D30">Klicka för förhansgranskning + ändra sparat filnamn</text>
+		<text id="afsf.clicktoremove" h="CAB117DD">Klicka för att ta bort sparade filnamn</text>
+		<text id="afsf.dlg.editAvail" h="70C3C982">Tillgängliga filfilter</text>
+		<text id="afsf.prop.choose.name" h="758F38E8">Välj åtgärdsfilter</text>
+		<text id="afsf.prop.choose.tip" h="758F38E8">Välj åtgärdsfilter</text>
+		<text id="afsf.prop.choose.title" h="758F38E8">Välj åtgärdsfilter</text>
+		<text id="afsf.prop.manage.name" h="1B8E7007">Anpassade filter</text>
+		<text id="afsf.prop.manage.tip" h="1B8E7007">Anpassade filter</text>
+		<text id="afsf.prop.manage.title" h="1B8E7007">Anpassade filter</text>
+		<text id="afsf.selectfolder" h="3F89B943">Välj mapp:</text>
+		<text id="afsf.sort" h="230935DB">Sortera</text>
+		<text id="afsf.sort.creation" h="AEDBE5EB">efter skapelsedatum</text>
+		<text id="afsf.sort.modification" h="B802AF12">efter ändringsdatum</text>
+		<text id="afsf.sort.name" h="B3FDD284">efter namn</text>
+		<text id="afsf.sort.none" h="004FEF2B">ingen</text>
+		<text id="afsf.sort.size" h="75DE1B35">efter storlek</text>
+		<text id="afsf.storefiles" h="06AB1A20">Spara valda filer för framtida bruk</text>
+		<text id="afsf.subfolders" h="EAAFE63E">Titta i undermappar</text>
+		<text id="afsf.usestoredfiles" h="4A3B84D0">Använd lagrade filnamn från förra körningen</text>
+		<text id="afsf.warn.concrete.ext" h="6634FBD4">Tillägg till fil '%1' är ej kompatibel med 'valda källfilers' åtgärdsparametrar</text>
+		<text id="afsf.warn.ext" h="16DBB55E">Filtillägg '%1' är ej kompatibel med 'valda källfilers' åtgärdsparametrar</text>
+		<text id="afsf.warn.filescontainer" h="FF3986E4">Kan ej öppna öppna motsvarande fil innehållare:
+&lt;b&gt;%1&lt;/b&gt;</text>
+		<text id="align.bottom" h="08F4AB6F">Underkant</text>
+		<text id="align.center" h="CBEFB4D0">Centrera</text>
+		<text id="align.left" h="8CEAA299">Vänster</text>
+		<text id="align.middle" h="D27F520F">Mitten</text>
+		<text id="align.right" h="2D8A4EE6">Höger</text>
+		<text id="align.top" h="249A2BBD">Överkant</text>
+		<text id="alignoverlay" h="B7EB1785">Justera överläggssidor i förhållande till nya PDF-dokumentsidor:</text>
+		<text id="another.ovrfile.title" h="AEFCE724">Välj en annan överläggsfil</text>
+		<text id="attributes" h="71F6D064">Attribut</text>
+		<text id="availActionsList" h="477E6AC0">Åtgärdsbibliotek</text>
+		<text id="btn.delete" h="D8FE3F70">Ta bort</text>
+		<text id="btn.edit" h="621534A3">Redigera...</text>
+		<text id="byhoriz" h="AE80ABA7">Horisontellt:</text>
+		<text id="byvert" h="138F572B">Vertikalt:</text>
+		<text id="chk.savepwd" h="2DACA98E">Spara lösenord för framtida bruk</text>
+		<text id="choose.file" h="D8D81DA5">Välj fil</text>
+		<text id="chooseFiles.chooseForPreview" h="B4BD25C6">Välj objekt för förhandsgranskning.</text>
+		<text id="chooseFiles.fromScanner" h="BDBDAE44">Bild från skanner</text>
+		<text id="chooseFiles.scansubfolders" h="05971C7B">Vill du lägga till filer från undermappar i den valda mappen?</text>
+		<text id="chooseFiles.unknownImageType" h="18901815">Okänd bildtyp.</text>
+		<text id="choosefiles.title" h="2E856073">Välj indatafiler</text>
+		<text id="choosefiles.warning" h="88E4DD69">Lägg till filer i listan.</text>
+		<text id="choosestd.lbl" h="F999AF4C">Välj bort typ</text>
+		<text id="choosetool.caption" h="F368DC49">Välj verktyg</text>
+		<text id="choosetools.export.caption" h="89168619">Välj verktyg för export</text>
+		<text id="choosetools.import.caption" h="4D9B8134">Välj verktyg för import</text>
+		<text id="ck.all" h="65CCA5D0">Inkl. filter 'Alla filer (*.*)'</text>
+		<text id="clonetoolname.lbl" h="E63F45FA">Skriv namn för klonat verktyg:</text>
+		<text id="cmd.actionInfoPane" h="BE3FF2AC">Panel för åtgärdsinformation</text>
+		<text id="cmd.actionInfoPane.tip" h="EA4CDC04">Visa/Dölj panel för åtgärdsinformation</text>
+		<text id="cmd.addFavorites" h="253AA8C4">Lägg till Favoriter</text>
+		<text id="cmd.addFavorites.tip" h="D0494D1D">Lägg verktyg till Favoriter</text>
+		<text id="cmd.availAct.append" h="44CFD997">Lägg till åtgärd</text>
+		<text id="cmd.availActionsPane" h="70AE9683">Panel för åtgärdsbibliotek</text>
+		<text id="cmd.availActionsPane.tip" h="EE8A6FE7">Visa/Dölj panel för åtgärdsbibliotek</text>
+		<text id="cmd.catlist.add" h="8E2EE8C1">Lägg till</text>
+		<text id="cmd.catlist.add.tip" h="352D549C">Lägg till ny verktygs kategori</text>
+		<text id="cmd.catlist.copyID" h="76D03E52">Kopiera Kategori Identifiering</text>
+		<text id="cmd.catlist.copyID.tip" h="4D528776">Kopiera Kategori Identifiering till Urklipp</text>
+		<text id="cmd.catlist.delete" h="D8FE3F70">Radera</text>
+		<text id="cmd.catlist.delete.tip" h="F996D3A3">Radera vald kategori</text>
+		<text id="cmd.catlist.rename" h="CF7E2A12">Namnändra</text>
+		<text id="cmd.catlist.rename.tip" h="853B01D0">Namnändra vald kategori</text>
+		<text id="cmd.close" h="BFF0422C">Stäng redigigering</text>
+		<text id="cmd.close.tip" h="803D7B54">Fråga om att spara ändringar före stängning av verktygsredigeraren.</text>
+		<text id="cmd.collapseAll" h="84E09D66">Komprimera alla</text>
+		<text id="cmd.collapseAll.tip" h="4B0945EA">Komprimera alla expanderade objekt.</text>
+		<text id="cmd.continue" h="A5F0062A">Fortsätt</text>
+		<text id="cmd.continue.tip" h="449BD617">Fortsätt köra verktyget</text>
+		<text id="cmd.copyToolID" h="29B6ACF3">Kopiera Verktygs Identifieraren</text>
+		<text id="cmd.copyToolID.tip" h="C84C435C">Kopiera Verktygs Identifieraren till Urklipp</text>
+		<text id="cmd.createFld" h="EDCA1553">Skapa</text>
+		<text id="cmd.createFld.tip" h="0C2549D2">Skapa  mapp övervakning</text>
+		<text id="cmd.delete" h="D8FE3F70">Ta bort</text>
+		<text id="cmd.delete.tip" h="1645B116">Ta bort det valda verktyget.</text>
+		<text id="cmd.deleteAction" h="D8FE3F70">Ta bort</text>
+		<text id="cmd.deleteAction.tip" h="8D3F7647">Ta bort den valda åtgärden</text>
+		<text id="cmd.deleteFld" h="D8FE3F70">Radera</text>
+		<text id="cmd.deleteFld.tip" h="FE6D13BD">Radera vald övervakare</text>
+		<text id="cmd.docsList.collapseAll" h="84E09D66">Komprimera alla</text>
+		<text id="cmd.docsList.collapseAll.tip" h="4B0945EA">Komprimera alla expanderade objekt.</text>
+		<text id="cmd.docsList.delete" h="D8FE3F70">Ta bort</text>
+		<text id="cmd.docsList.delete.tip" h="AFC734F6">Ta bort markerade objekt från listan.</text>
+		<text id="cmd.docsList.expandAll" h="6DA5A467">Expandera alla</text>
+		<text id="cmd.docsList.expandAll.tip" h="B8DEF87E">Expandera alla komprimerade objekt</text>
+		<text id="cmd.docsList.invertPagesSel" h="50358D1F">Invertera sidmarkering</text>
+		<text id="cmd.docsList.invertPagesSel.tip" h="D48EAFF2">Invertera sidvalet i dokumentobjektet.</text>
+		<text id="cmd.docsList.redo" h="E6E48291">Gör om</text>
+		<text id="cmd.docsList.redo.tip" h="D864EFC4">Gör om föregående ogjorda åtgärden</text>
+		<text id="cmd.docsList.rename" h="CF7E2A12">Byt namn</text>
+		<text id="cmd.docsList.rename.tip" h="D13799F6">Byt namn på markerat dokumentobjekt.</text>
+		<text id="cmd.docsList.selectPages" h="CA96B5EB">Välj sidor...</text>
+		<text id="cmd.docsList.selectPages.tip" h="2BA1CFDF">Välj specificerade sidor i det markerade dokumentobjektet.</text>
+		<text id="cmd.docsList.showPreview" h="0E09CAB8">Förhandsgranskning</text>
+		<text id="cmd.docsList.showPreview.tip" h="5FDF66AB">Visa/Dölj förhandsgranskningspanelen för det valda objektet</text>
+		<text id="cmd.docsList.showRepo" h="75AE5FBB">Sidlagring</text>
+		<text id="cmd.docsList.showRepo.tip" h="A9FDC14F">Visa / Dölj den tillfälliga lagringen av siduppsättningar,från alla dokument. Det är användbart för att dra och släppa sidor.</text>
+		<text id="cmd.docsList.undo" h="86E67B4B">Ångra</text>
+		<text id="cmd.docsList.undo.tip" h="68378895">Ångra senaste åtgärden</text>
+		<text id="cmd.docsList.zoomIn" h="21C9A3BF">Zooma in</text>
+		<text id="cmd.docsList.zoomIn.tip" h="EEFCC59E">Zooma in miniatyrer.</text>
+		<text id="cmd.docsList.zoomOut" h="7749FC62">Zooma ut</text>
+		<text id="cmd.docsList.zoomOut.tip" h="B4B12D5A">Zooma ut miniatyrer.</text>
+		<text id="cmd.docsList.zoomSlider" h="596A6E4A">Skala</text>
+		<text id="cmd.docsList.zoomSlider.tip" h="0F91092C">Skala sidminiatyrer.</text>
+		<text id="cmd.editDocList.clearAll" h="FCA74107">Rensa lagringen</text>
+		<text id="cmd.editDocList.clearAll.tip" h="8D064794">Rensa sidlagringen.</text>
+		<text id="cmd.editFld" h="009A7A41">Redigera</text>
+		<text id="cmd.editFld.tip" h="6383A76C">Redigera vald händelse/övervakning</text>
+		<text id="cmd.editModeView" h="2FCBB32C">Visa</text>
+		<text id="cmd.editModeView.tip" h="FED08A06">Visa/Dölj avancerade paneler.</text>
+		<text id="cmd.expandAll" h="6DA5A467">Expandera alla</text>
+		<text id="cmd.expandAll.tip" h="B8DEF87E">Expandera alla komprimerade objekt.</text>
+		<text id="cmd.filesList.addFiles" h="6BB8C3C3">Lägg till filer...</text>
+		<text id="cmd.filesList.addFiles.combo" h="6BB8C3C3">Lägg till filer...</text>
+		<text id="cmd.filesList.addFiles.tip" h="49EDA302">Klicka för att vissa standarddialog för filmarkering...</text>
+		<text id="cmd.filesList.addFolder" h="48695541">Lägg till mapp...</text>
+		<text id="cmd.filesList.addFolder.tip" h="6761456F">Klicka för att vissa standarddialog för mappmarkering, lägg sedan till filer från...</text>
+		<text id="cmd.filesList.addFromScanner" h="F8B40B5F">Lägg till från skanner...</text>
+		<text id="cmd.filesList.addFromScanner.tip" h="B4E7ED2C">Klicka för att välja skanningsenhet, hämta sedan filer från...</text>
+		<text id="cmd.filesList.delete" h="D8FE3F70">Ta bort</text>
+		<text id="cmd.filesList.delete.tip" h="1B809C28">Ta bort valda objekt. Borttagningen kan inte ångras.</text>
+		<text id="cmd.filesList.detailsView" h="AEE125D6">Detaljerat</text>
+		<text id="cmd.filesList.detailsView.tip" h="6570BFC4">Byt till detaljerad vy.</text>
+		<text id="cmd.filesList.edit" h="621534A3">Redigera...</text>
+		<text id="cmd.filesList.edit.tip" h="A8CCCC15">Redigera det valda objektet.</text>
+		<text id="cmd.filesList.moveDown" h="B590E566">Flytta ner</text>
+		<text id="cmd.filesList.moveDown.tip" h="96CBF2AC">Flytta ner valda objekt.</text>
+		<text id="cmd.filesList.moveUp" h="E466537C">Flytta upp</text>
+		<text id="cmd.filesList.moveUp.tip" h="239B490C">Flytta upp valda objekt.</text>
+		<text id="cmd.filesList.openContFolder" h="D3E03212">Öppna målmappen</text>
+		<text id="cmd.filesList.openContFolder.tip" h="4967EB0F">Öppna målmappen och markera den aktuella filen, i Utforskaren.</text>
+		<text id="cmd.filesList.selectPages" h="CA96B5EB">Välj sidor...</text>
+		<text id="cmd.filesList.selectPages.tip" h="9D36120F">Väj sidor i utvalt dokument.</text>
+		<text id="cmd.filesList.showPreview" h="0E09CAB8">Förhandsgranska</text>
+		<text id="cmd.filesList.showPreview.tip" h="5FDF66AB">Visa/Dölj förhandsgranslningen för det valda objektet.</text>
+		<text id="cmd.filesList.thumbsView" h="47B1B2D9">Miniatyrer</text>
+		<text id="cmd.filesList.thumbsView.tip" h="E9F10E3C">Växla tillm miniatyrvy.</text>
+		<text id="cmd.filesList.zoomIn" h="21C9A3BF">Zooma in</text>
+		<text id="cmd.filesList.zoomIn.tip" h="EEFCC59E">Zooma in miniatyrer.</text>
+		<text id="cmd.filesList.zoomOut" h="7749FC62">Zooma ut</text>
+		<text id="cmd.filesList.zoomOut.tip" h="B4B12D5A">Zooma ut miniatyrer.</text>
+		<text id="cmd.filesList.zoomSlider" h="596A6E4A">Skala</text>
+		<text id="cmd.filesList.zoomSlider.tip" h="0F91092C">Skala sidminiatyrer.</text>
+		<text id="cmd.help" h="03718903">Hjälp</text>
+		<text id="cmd.help.about" h="06AA44B8">Om...</text>
+		<text id="cmd.help.about.tip" h="D3746489">Visa versions- och licensinformation om programmet.</text>
+		<text id="cmd.help.checkForUpdates" h="B4EF7EF3">Sök efter uppdateringar</text>
+		<text id="cmd.help.checkForUpdates.tip" h="73587378">Sök efter programuppdateringar.</text>
+		<text id="cmd.help.contents" h="567BC1D7">Innehåll</text>
+		<text id="cmd.help.contents.tip" h="08AC959F">Öppna online-hjälpen.</text>
+		<text id="cmd.help.enterkey" h="EF62658A">Ange licensnyckel...</text>
+		<text id="cmd.help.enterkey.tip" h="D3746489">Visa licensinformation om programmet.</text>
+		<text id="cmd.help.homepage" h="09F653F5">Hemsida</text>
+		<text id="cmd.help.homepage.tip" h="EBA22B5A">Gå till programmets webbsida.</text>
+		<text id="cmd.help.support" h="31A29A3F">Support</text>
+		<text id="cmd.help.support.tip" h="B8C0C0FB">Gå till supportforum</text>
+		<text id="cmd.help.tip" h="F59770E5">Hjälp.</text>
+		<text id="cmd.impexp" h="1D5A9A8A">Import/Export</text>
+		<text id="cmd.impexp.expseltools" h="C87F6A0D">Exportera det valda verktyget</text>
+		<text id="cmd.impexp.expseltools.tip" h="0E445E08">Exporterar det valda verktyget till en fil.</text>
+		<text id="cmd.impexp.expsett" h="329179F2">Exportera alla inställningar</text>
+		<text id="cmd.impexp.expsett.tip" h="1BEC5F75">Exporterar alla programinställningar och verktyg till en fil.</text>
+		<text id="cmd.impexp.exptools" h="3B532E8F">Exportera verktyg</text>
+		<text id="cmd.impexp.exptools.tip" h="66B0E107">Exporterar verktyg till en fil.</text>
+		<text id="cmd.impexp.impsett" h="92219071">Importera alla inställningar</text>
+		<text id="cmd.impexp.impsett.tip" h="3845D20B">Importerar alla programinställningar och verktyg från en fil.</text>
+		<text id="cmd.impexp.imptools" h="622631EF">Importera verktyg</text>
+		<text id="cmd.impexp.imptools.tip" h="112B2FCB">Importerar verktyg från en fil.</text>
+		<text id="cmd.impexp.shortcut" h="64092D8C">Skapa genväg på skrivbordet</text>
+		<text id="cmd.impexp.shortcut.tip" h="F695107D">Skapar en genväg till det valda verktyget, på skrivbordet.</text>
+		<text id="cmd.impexp.tip" h="CE31B671">Import-/Exportåtgärder för verktyg eller programinställningar.</text>
+		<text id="cmd.moveDown" h="B590E566">Flytta ner</text>
+		<text id="cmd.moveDown.tip" h="96CBF2AC">Flytta ner markerat objekt</text>
+		<text id="cmd.moveUp" h="E466537C">Flytta upp</text>
+		<text id="cmd.moveUp.tip" h="239B490C">Flytta upp markerat objekt</text>
+		<text id="cmd.opts" h="9757D0D9">Alternativ...</text>
+		<text id="cmd.opts.tip" h="0DB1D677">Innehåller funktioner för att hantera programinställningarna.</text>
+		<text id="cmd.prefs" h="8D3CBDF0">Inställningar...</text>
+		<text id="cmd.prefs.tip" h="35A54BBC">Visa programmets inställningsdialog.</text>
+		<text id="cmd.redo" h="E6E48291">Upprepa</text>
+		<text id="cmd.redo.tip" h="D864EFC4">Upprepa den nyss ångrade åtgärden</text>
+		<text id="cmd.removeFavorites" h="85360926">Ta bort från Favoriter</text>
+		<text id="cmd.removeFavorites.tip" h="DEB12B60">Ta bort Verktyg från Favoriter</text>
+		<text id="cmd.report.clear" h="CB9CE353">Rensa</text>
+		<text id="cmd.report.clear.tip" h="26272D30">Rensa rapporten</text>
+		<text id="cmd.report.collapseAll" h="84E09D66">Fäll ihop</text>
+		<text id="cmd.report.collapseAll.tip" h="4B0945EA">Fäll ihop alla expanderade objekt</text>
+		<text id="cmd.report.copy" h="348DE55D">Kopiera</text>
+		<text id="cmd.report.copy.tip" h="7E2DF69D">Kopiera meddelande text</text>
+		<text id="cmd.report.expandAll" h="6DA5A467">Expandera allt</text>
+		<text id="cmd.report.expandAll.tip" h="B8DEF87E">Expandera all infällda objekt</text>
+		<text id="cmd.report.fullreport" h="2B15B2F7">Fullständig rapport</text>
+		<text id="cmd.report.fullreport.tip" h="B70410A1">Detta alternativet tvingar PDF-Tools att skriva ut hela verktygsrapporten</text>
+		<text id="cmd.report.options" h="9757D0D9">Alternativ...</text>
+		<text id="cmd.report.options.tip" h="84CAFD98">Visa Tool (verktygs) alternativen</text>
+		<text id="cmd.report.savetofile" h="ED4A08DE">Spara rapport...</text>
+		<text id="cmd.report.savetofile.tip" h="5BF810D7">Spara rapport till en text-fil</text>
+		<text id="cmd.resetSelAction" h="1008C3F9">Återställ</text>
+		<text id="cmd.resetSelAction.tip" h="9416B4A0">Återställ valda  åtgärdsalternativ till standard</text>
+		<text id="cmd.resetSett" h="1E06BB70">Återställer alla inställningar</text>
+		<text id="cmd.resetSett.tip" h="F72C4CB6">Återställer alla programalternativ till standardvärden, och går tillbaka till standardverktyg med standardinställningar.</text>
+		<text id="cmd.resetTool" h="0E4A9518">återställningsverktyg</text>
+		<text id="cmd.resetTool.tip" h="63100C06">Återställer verktygsalternativ till standard</text>
+		<text id="cmd.resetseltools" h="11DC26AD">Återställer valda verktyg</text>
+		<text id="cmd.resetseltools.tip" h="7FCF3BF7">Återställer valda verktygsalternativ till standard</text>
+		<text id="cmd.save" h="01991541">Spara ändringar</text>
+		<text id="cmd.save.tip" h="45AC7E5D">Spara verktygsändringar.</text>
+		<text id="cmd.search" h="547E9E5A">Sök...</text>
+		<text id="cmd.search.tip" h="FC8CBAA4">Sök verktyg.</text>
+		<text id="cmd.setupFolderMonitor" h="B1555F11">Mapp övervakning</text>
+		<text id="cmd.setupFolderMonitor.tip" h="EC88402D">Konfigurera mapp övervakning</text>
+		<text id="cmd.showActionInfoPane" h="DDDF9129">Visa åtgärdsinfo</text>
+		<text id="cmd.showActionInfoPane.tip" h="B9D63B80">Visa/Dölj åtgärdsinfo.</text>
+		<text id="cmd.showActionLibrary" h="7B4DF4C3">Visa åtgärdsbibliotek.</text>
+		<text id="cmd.showActionLibrary.tip" h="7F2B551F">Visa/Dölj åtgärdsbibliotek.</text>
+		<text id="cmd.showReport" h="F1E7E74F">Rapportverktyg</text>
+		<text id="cmd.showReport.tip" h="0310270C">Visa Rapportverktyg</text>
+		<text id="cmd.test" h="327F2A55">Testa!</text>
+		<text id="cmd.test.tip" h="9E04AEAA">Testfunktion!</text>
+		<text id="cmd.tool.clone" h="37E754F5">Klona</text>
+		<text id="cmd.tool.clone.tip" h="D8321AF8">Klona markerat verktyg.</text>
+		<text id="cmd.tool.create" h="EDCA1553">Skapa</text>
+		<text id="cmd.tool.create.tip" h="3D4C85B7">Skapa ett nytt verktyg.</text>
+		<text id="cmd.tool.edit" h="009A7A41">Redigera</text>
+		<text id="cmd.tool.edit.tip" h="426AAF33">Redigera det valda verktyget.</text>
+		<text id="cmd.tool.run" h="19264084">Kör</text>
+		<text id="cmd.tool.run.tip" h="BF1530FA">Kör det valda verktyget.</text>
+		<text id="cmd.undo" h="86E67B4B">Ångra</text>
+		<text id="cmd.undo.tip" h="68378895">Ångra senaste åtgärden.</text>
+		<text id="cmdline.toolnotfound" h="E24BDF60">Det begärda verktyget kan inte hittas.</text>
+		<text id="common" h="FF51CD90">Normal</text>
+		<text id="created" h="BC03BBEA">Skapad</text>
+		<text id="custToolsGrName" h="22F07048">Anpassade verktyg</text>
+		<text id="custom" h="A918FF38">Anpassat</text>
+		<text id="dclick.authorize" h="E62FEA98">Klicka för att godkänna lagringen</text>
+		<text id="delete.all.pages" h="E66ECE13">Förbjudet Radera alla sidor</text>
+		<text id="deleteComments.all" h="3DB14B53">alla anteckningar</text>
+		<text id="deleteComments.link" h="D84C3990">Länka annoteringar</text>
+		<text id="deleteComments.markup" h="236E76D1">Markerade annoteringar</text>
+		<text id="deleteComments.widget" h="105429C0">widget-annoteringar</text>
+		<text id="deletecat.warn" h="8A426B75">Vill du verkligen ta bort verktyget &lt;b&gt;"%1"&lt;/b&gt; kategori och alla innehållande verktyg?
+OBS! Borttagningen kan inte ångras.</text>
+		<text id="deletestoredpath.warn" h="B01DF4C4">Vill du verkligen ta bort lagrade inmatningsfilnamn?</text>
+		<text id="dlg.managefilters" h="BEEA26C3">Hantera filter</text>
+		<text id="docauthor.l" h="7E318A91">Upphovsman:</text>
+		<text id="doccreator.l" h="48BB2AC2">Skapare:</text>
+		<text id="dockeywords.l" h="EE89DD49">Nyckelord:</text>
+		<text id="docproducer.l" h="30A8E856">Producent:</text>
+		<text id="docsubject.l" h="A59102F6">Ämne:</text>
+		<text id="doctitle.l" h="930D3835">Titel:</text>
+		<text id="editDocList.containsPages" h="8F4BA4D9">Innehåller %1 sida(-or)</text>
+		<text id="editDocList.document" h="13289938">Dokument</text>
+		<text id="editDocList.empty.hint" h="C46828D2">Inga sidor</text>
+		<text id="editDocList.noPages" h="DD007EC4">Tom</text>
+		<text id="editDocList.repository.hint" h="0071AB8A">Du kan släppa filer här, för temporär lagring.</text>
+		<text id="editDocList.title" h="BB7D1179">Dela upp/Slå ihop dokument manuellt</text>
+		<text id="editDocList.undefined" h="9FA2DA79">Odefinierad</text>
+		<text id="editDocList.warning" h="F36DBC31">Dokumentlistan skall inte vara tom</text>
+		<text id="editDocList.warning.emptyname" h="D690297C">Dokumentnamnet kan inte vara tomt</text>
+		<text id="editDocList.warning.invalidsymbols" h="40A214FA">Ogiltigt dokumentnamn</text>
+		<text id="editview.header.changeicon" h="E86B95CD">Ändra...</text>
+		<text id="editview.header.dialog.multiline" h="767057E1">Redigera verktygsbeskrivning</text>
+		<text id="empty.document" h="06A26641">Dokumentet "%1" är tomt. Det kommer att undantas.</text>
+		<text id="enter.pwd.descr" h="77485A4B">Mata in beskrivning för lösenord (frivilligt)...</text>
+		<text id="enterNewDocName" h="68FD05C5">Ange nytt dokumentnamn:</text>
+		<text id="expsett.extension.desc" h="F00D3D31">PDF-verktygs programinställningsfil</text>
+		<text id="expsett.failed" h="D36046ED">Export av inställningar misslyckades</text>
+		<text id="expsett.open.caption" h="92B281E9">Öppna importfil</text>
+		<text id="expsett.save.caption" h="C1A8C6FD">Spara exportfil</text>
+		<text id="exptools.extension.desc" h="DC98B451">PDF-verktygs utbytesfil</text>
+		<text id="exptools.failed" h="7A69DC15">Export av verktyg misslyckades</text>
+		<text id="exptools.open.caption" h="99F5ECED">Välj importfil</text>
+		<text id="exptools.save.caption" h="C1A8C6FD">Spara exportfil</text>
+		<text id="extension" h="14FEB836">Filtillägg</text>
+		<text id="fileLocation" h="7BC24E5F">Filplats:</text>
+		<text id="fileprop.author" h="F6A8A4C0">Upphovsman</text>
+		<text id="fileprop.bpc" h="02071BA4">Bitar per kanal</text>
+		<text id="fileprop.bpp" h="EC790768">Bitar per pixel</text>
+		<text id="fileprop.channels" h="D3AE76A2">Kanaler</text>
+		<text id="fileprop.creator" h="CF26EE59">Skapare</text>
+		<text id="fileprop.dimension" h="96A76700">Dimensioner</text>
+		<text id="fileprop.horDpi" h="576C5071">Horisontell DPI</text>
+		<text id="fileprop.page" h="D70A809E">Sida</text>
+		<text id="fileprop.pageRotation" h="ECFC9C66">Rotation</text>
+		<text id="fileprop.pagesCount" h="AAE42CE5">Antal sidor</text>
+		<text id="fileprop.pdfVer" h="4C06CDA5">PDF-version</text>
+		<text id="fileprop.producer" h="C54CE945">Producent</text>
+		<text id="fileprop.subject" h="B6BCF595">Ämne</text>
+		<text id="fileprop.title" h="796DFAD3">Titel</text>
+		<text id="fileprop.verDpi" h="33423CE9">Vertikal DPI</text>
+		<text id="filestopdf.setup" h="FB20B28D">Inställning...</text>
+		<text id="finalizing" h="B702861F">Slutför %1...</text>
+		<text id="fitoverlay" h="E2F09068">Anpassa överläggssidor till nyskapade dokumentsidor</text>
+		<text id="impsett.alert" h="0B2EB063">Vill du verkligen importera alla programinställningar?
+NOTERA att importåtgärden inte kan ångras.</text>
+		<text id="impsett.failed" h="AA8A96CF">Import av inställningar misslyckades</text>
+		<text id="imptools.failed" h="DAD93596">Import av verktyg misslyckades</text>
+		<text id="info" h="07FB97A4">Info</text>
+		<text id="inserting.page" h="7985F658">Infogar sidan %1 från %2</text>
+		<text id="keepaspect" h="A90996CD">Bevara proportioner</text>
+		<text id="lb.availFF" h="6E3CAD3A">Välj filter för filtyper tillgängliga i dialogens rullgardinslista:</text>
+		<text id="lb.presetFF" h="9C590515">Förinställa:</text>
+		<text id="lbl.ShowResult" h="C5236BCD">Visa resultat efter slutförandet</text>
+		<text id="lbl.actualview" h="D865F4B2">Faktisk bildvy</text>
+		<text id="lbl.allowMult" h="3B9DFCE0">Tillåt val av flera filer</text>
+		<text id="lbl.alwaysUseMultipage" h="6C82FB30">Använd alltid flersidesformat</text>
+		<text id="lbl.askDeleteTool" h="1541D739">Vill du verkligen ta bort verktyget &lt;b&gt;"%1"&lt;/b&gt;?
+OBS! Borttagningen kan inte ångras.</text>
+		<text id="lbl.askDeleteTools" h="25C684AA">Vill du verkligen ta bort &lt;b&gt;%1&lt;/b&gt; verktyg? Notera att borttagningen inte kan ångras. Endast anpassade verktyg kan tas bort.</text>
+		<text id="lbl.askSaveChanges" h="4F19099B">Vill du spara ändring innan avslutar redigering?</text>
+		<text id="lbl.chooseAction" h="5EA681F4">Välj åtgärd från listan:</text>
+		<text id="lbl.choosefiles.dndhint" h="8CF7925F">Lägg till filer med knappen i ovanstående verktygsfält, eller dra och släpp dem här. Du kan sortera dem i önskad ordning.</text>
+		<text id="lbl.choosefiles.itemscount" h="2CFE0C7C">%1 objekt</text>
+		<text id="lbl.choosefiles.selitemscount" h="402CD736">%1 objekt * %2 objekt valda * %3</text>
+		<text id="lbl.choosepages" h="668A500A">Välj de sidor som skall markeras i dokumentet:</text>
+		<text id="lbl.continue" h="A5F0062A">Fortsätt</text>
+		<text id="lbl.editViewToolDesc" h="0F22DAFE">Ange beskrivningstext för verktyget:</text>
+		<text id="lbl.editViewToolName" h="76F4AA91">Ange verktygsnamn:</text>
+		<text id="lbl.editdocs.dndhint" h="2FAC7414">Du kan använda "Dra och släpp" för att flytta sidor mellan dokument och för att sortera om dem. Du kan också skapa nya dokument genom att släppa sidor utanför/mellan dokumentobjekt.</text>
+		<text id="lbl.editview.dndhint" h="42E43BBA">Du kan använda "Dra och släpp" för att sortera om befintliga åtgärder, eller för att lägga till nya åtgärder från listan till höger.</text>
+		<text id="lbl.editview.dndhint2" h="714B17C6">Klicka och dra valfri åtgärd från listan till höger, och släpp den här.</text>
+		<text id="lbl.emptyCatList" h="488587B8">Kategorilistan är tom</text>
+		<text id="lbl.emptyToolList" h="B2BFE203">Listan är tom</text>
+		<text id="lbl.extractSizeLimit" h="0EA996F6">Undanta bilder mindre än:</text>
+		<text id="lbl.fileTypes" h="60ECC8E9">Filtyper:</text>
+		<text id="lbl.filestopdf.converters" h="902CF9B3">Konverterare:</text>
+		<text id="lbl.grouping" h="79C8A88E">Grupperingsläge</text>
+		<text id="lbl.keeptransparent" h="5070A5EB">Behåll genomskinlighet</text>
+		<text id="lbl.multipagetype" h="C5A5712F">Välj typ av flersidesbilder:</text>
+		<text id="lbl.noActionFound" h="105B87AB">Ingen åtgärd hittad, som motsvarar din sökning.</text>
+		<text id="lbl.noCategoryFound" h="CEC17229">Ingen kategori hittad som matchar din sökning</text>
+		<text id="lbl.noToolFound" h="181055BB">Inget verktyg hittat, som motsvarar din sökning.</text>
+		<text id="lbl.reverseOrder" h="9564C9FE">Spara i omvänd ordning</text>
+		<text id="lbl.run" h="19264084">Kör</text>
+		<text id="lbl.savemode" h="D16859B7">Alternativ för att spara</text>
+		<text id="lbl.showextui" h="1E2770E2">Visa utökad dialog för filväljare</text>
+		<text id="lbl.singlepagetype" h="A6AF6C93">Välj typ av enkelsidesbilder:</text>
+		<text id="listmonitors.lbl" h="7A930E45">Lista mapp övervakning:</text>
+		<text id="lnk.browsefolder" h="57F5ECCB">Bläddra efter indatafiler</text>
+		<text id="lnk.createtitle" h="97F6DA95">Skapa genväg alternativ</text>
+		<text id="lnk.inputfiles" h="3B5E3105">Välj indatafiler</text>
+		<text id="lnk.noinput" h="365E2B73">Fråga mig varje gång för indatafiler</text>
+		<text id="lnk.specifyinput" h="C331E1B9">Du kan lägga till källfiler/källmapp till genväg:</text>
+		<text id="loading" h="DC6A6C81">Läser in...</text>
+		<text id="location" h="52D95020">Plats</text>
+		<text id="log.abort" h="6F8E5DCD">avbryta</text>
+		<text id="log.actiondone" h="E2806498">Åtgärden är klar</text>
+		<text id="log.cancelled" h="E28236C9">Annulerad</text>
+		<text id="log.fail" h="A37F5F82">Misslyckades</text>
+		<text id="log.filecreated" h="E300872F">Fil skapad</text>
+		<text id="log.filenotexist" h="E9442568">Filen finns inte</text>
+		<text id="log.fileprocstart" h="254322E4">Filhantering startat</text>
+		<text id="log.filestat.failed" h="D1F8052C">Misslyckad fil bearbetning: %1 av %2</text>
+		<text id="log.filestat.succeded" h="5A913587">Lyckad fil aktivitet: %1 av %2</text>
+		<text id="log.invalidarg" h="79E18E42">Felaktig parameter</text>
+		<text id="log.nopermissions" h="7508C445">Ej tillräckliga behörigheter</text>
+		<text id="log.ok" h="BAD1F1D5">Lyckades</text>
+		<text id="log.summary" h="8BE8ABA0">Sammanfattning</text>
+		<text id="log.toolrunfinished" h="A50678CB">Verktygsresultat: %1.</text>
+		<text id="log.toolstarted" h="4352D7A3">"%1" verktyg startat</text>
+		<text id="log.txtsummary" h="22396BE4">"%1" verktyg färdiga : %2 fel, %3 filer processade, %4 filer skapade, %5 varningar </text>
+		<text id="log.unknown" h="8566CB94">Okänd</text>
+		<text id="log.wrongpass" h="473522EE">Fel lösenord</text>
+		<text id="modified" h="30325672">Ändrad</text>
+		<text id="moduleName" h="9B0F448F">PDF-verktyg</text>
+		<text id="monitor.name.tip" h="A0EB9543">Skriv övervaknings namn här...</text>
+		<text id="msgtype.debug" h="C3C4F565">Rätta till</text>
+		<text id="msgtype.error" h="51BFF51D">Fel</text>
+		<text id="msgtype.info" h="07FB97A4">Info</text>
+		<text id="msgtype.unknown" h="E52D4ED4">Okänd typ, format</text>
+		<text id="msgtype.verbose" h="6817BBB0">Mångordig/detaljerad</text>
+		<text id="msgtype.warning" h="E7AD7A2B">Varning</text>
+		<text id="name" h="D18643E3">Namn</text>
+		<text id="no.pages.to.delete" h="7A9E4694">Inga sidor att ta bort</text>
+		<text id="nooverlay.file" h="4D9B1EA6">Ingen överläggsfil har specificerats</text>
+		<text id="ovr.file" h="D8EE6FEB">Överläggsfil:</text>
+		<text id="ovr.norepeat" h="E58FFCC1">Ingen upprepning</text>
+		<text id="ovr.positions" h="E9C070C5">Positioner</text>
+		<text id="ovr.repeat" h="DB39711A">Upprepningsval:</text>
+		<text id="ovr.repeatall" h="FB4118C6">Kontinuerlig upprepning av kortare överläggsfil</text>
+		<text id="ovr.repeatlast" h="87F51B84">Upprepa senaste sidan med kortare överläggsfil</text>
+		<text id="ovr.settings" h="2FF7690D">Inställningar för överläggsfil</text>
+		<text id="page.props" h="F521B2C3">Sidegenskaper</text>
+		<text id="pagenumber" h="29EED2B3">Nummer</text>
+		<text id="pagesRange" h="30C24AC3">Sid intervall</text>
+		<text id="pagesRange.All" h="83434A26">Allt</text>
+		<text id="pagesRange.Pages" h="23952CFD">Sidor:</text>
+		<text id="pagesSubset.all" h="599C6EE6">Alla sidor från angivet intervall</text>
+		<text id="pagesSubset.even" h="E64675B8">jämna sidor bara från intervallet(-en)</text>
+		<text id="pagesSubset.odd" h="87228BC5">Udda sidor endast från intervall (-en)</text>
+		<text id="pagesrange.empty" h="630795CE">Sid intervall ska ej lämnas tomt</text>
+		<text id="pdf.properies" h="70EFADF5">PDF-egenskaper</text>
+		<text id="pdfahandle.keepPDFAunchanged" h="908B4A26">Behåll PDF/A dokumentet oförändrat</text>
+		<text id="pdfahandle.reconvert" h="1AFD2B27">Återkonvertera dokument</text>
+		<text id="pdfahandle.skipPDFA" h="9B11C61E">Hoppa över PDF/A dokument</text>
+		<text id="pdfastd.lbl" h="83380816">Om dokument innehåller PDF/A standard information:</text>
+		<text id="place.foreground" h="0669CDF0">Placera överläggsfil som förgrund</text>
+		<text id="policy.msg" h="3AE36A58">Ingen säkerhetspolicy har skapats.
+Vill du skapa en?</text>
+		<text id="preview.ovrfile" h="5593AECC">Förhandsgranska överläggsfil</text>
+		<text id="progress.pause" h="6045D570">Paus</text>
+		<text id="prompt.clearpwd" h="AB0C3147">Vill du rensa lösenordslagring</text>
+		<text id="prompt.removepwd" h="F4C34781">Vill du ta bort utvalda objekt från lösenordslagring</text>
+		<text id="props" h="F6FFF0BE">Egenskaper</text>
+		<text id="pwd.defaultDescr" h="EBF5010F">Mitt fördefinierade lösenord</text>
+		<text id="pwd.descr.date" h="F8CC5563">Tillagd: %1</text>
+		<text id="pwd.descr.dflt" h="5C50975F">Ingen beskrivning</text>
+		<text id="pwd.enter.new" h="D9992E89">Skriv lösenord som sparas och lagras</text>
+		<text id="pwd.enter.newdescr" h="9D40879A">Skriv ny beskrivning:</text>
+		<text id="pwdadd" h="AED8BB4C">Lägg till...</text>
+		<text id="pwdclear" h="CB9CE353">Rensa</text>
+		<text id="pwdedit" h="621534A3">Ändra...</text>
+		<text id="pwdgrp" h="202AB42A">Lösenordslagring</text>
+		<text id="pwdlbl" h="5F4039B9">Förteckning över fördefinierade lösenord som automatiskt används för dokumentbehandling</text>
+		<text id="pwdprefs.name" h="D2C0C056">Lösenord</text>
+		<text id="pwdprefs.tip" h="7434F5A2">Fördefinierad lagring av Lösenord</text>
+		<text id="pwdprefs.title" h="7434F5A2">Fördefinierad lagring av Lösenord</text>
+		<text id="pwdremove" h="FCE39C1F">Ta bort</text>
+		<text id="report" h="E9D63CB7">Verktygsrapport</text>
+		<text id="report.cuetext" h="5A5BCB07">Finns inga meddelanden att visa i rapporten.</text>
+		<text id="report.defaultDesc" h="882ACAE5">Fönster visar meddelande från verktygsåtgärder</text>
+		<text id="report.framed.dlg" h="E9D63CB7">Verktygsrapport</text>
+		<text id="report.options.autoclear" h="F9D9404E">Auto-Rensa rapporten före varje verktygsstart</text>
+		<text id="report.options.forcevisible" h="C79B47D7">Tvinga  rapportrutan bli synlig för alla typer av meddelanden (bara för fel om "check" EJ PÅ)</text>
+		<text id="report.options.header" h="7254B91C">Verktygsrapport alternativ</text>
+		<text id="report.options.main" h="31B3DC7C">Konfigurera rapportrutan genom att ändra följande alternativ</text>
+		<text id="report.options.reset" h="B02C5E5A">Återställ standard</text>
+		<text id="report.options.severity" h="B9C34921">Välj typer av meddelanden som kommer att visas i verktygsrapportrutan</text>
+		<text id="report.options.severity.document" h="5CD972FF">Meddelande om aktiviteter med PDF-dokument</text>
+		<text id="report.options.severity.fileOperations" h="CAB821C9">Meddelande om fil-aktiviteter (öppna, skapa, ändra, etc.)</text>
+		<text id="report.options.severity.info" h="A8EA107E">Informations meddelande</text>
+		<text id="report.options.severity.summary" h="692A1A26">Sammanfattande information om verktygets resultat</text>
+		<text id="report.options.severity.title" h="B282840A">Meddelande typer</text>
+		<text id="report.options.severity.warning" h="13217901">Varningar (Meddelanden om händelser som kan påverka verktygsprocessen) </text>
+		<text id="resetActionTip" h="D7E3E700">Återställ åtgärdsalternativ till standardinställningar</text>
+		<text id="resetact.warn" h="E5B97341">Vill du återställa åtgärdsalternativ till standard?
+OBS! Återställning kan ej ångras.</text>
+		<text id="resetprops.btn" h="1008C3F9">Återställ</text>
+		<text id="resetprops.btntip" h="33DDB5A0">Tryck för att återställa ursprunglig status</text>
+		<text id="resetseltools.warn" h="26BF4D94">Vill du återställa utvalda verktyg till standard?
+OBS! Återställning kan ej ångras.</text>
+		<text id="ressett.alert" h="9B2F79C2">Vill du verkligen återställa alla programinställningar till standardläget och återgå till standardverktyg i standardläge?
+
+NOTERA att återställningen inte kan ångras.</text>
+		<text id="ressett.toolsalert" h="8CCEF1F1">Återställning av alla alternativ avlägsnar alla anpassade verktyg. Om du vill fortsätta med denna funktion, tryck JA.
+OBS! Återställning kan ej ångras.</text>
+		<text id="resume" h="B0874E65">Återuppta</text>
+		<text id="sameimg.autobpp" h="A216C11C">Välj färgdjup automatiskt</text>
+		<text id="sameimg.autobpp.info" h="9E850B3C">Om kontrollerat, bildens färgdjup blir automatiskt justerat. Bildens typ, format parametrar ignoreras. </text>
+		<text id="saveas.ask" h="9DF35209">Fråga efter åtgärd</text>
+		<text id="saveas.auto" h="C820D6B5">Spara med annat unikt namn</text>
+		<text id="saveas.folder.ask" h="5DC29DB4">Fråga alltid efter filplats</text>
+		<text id="saveas.folder.cust" h="C9BD54EB">Använd specificerad mapp</text>
+		<text id="saveas.folder.src" h="5E2E8FE3">Använd källmappen som destination</text>
+		<text id="saveas.overwrite" h="68C4F37C">Skriv över med ny fil</text>
+		<text id="saveas.skip" h="CE81D302">Behåll befintlig fil oförändrad</text>
+		<text id="saveas.text" h="7D366800">När filen redan finns:</text>
+		<text id="saveimg.default.folder" h="DCD2AF9C">Dokumentmapp</text>
+		<text id="saveimg.default.name" h="5A425CCC">Namnlös</text>
+		<text id="saveimg.grouping.apart" h="8E717B39">Varje bild som separat fil</text>
+		<text id="saveimg.grouping.groupall" h="9E5BA5E4">Alla bilder, till en flersidig bildfil</text>
+		<text id="saveimg.grouping.groupdoc" h="E86A1581">Alla bilder från ett dokument, till en flersidig bildfil</text>
+		<text id="saveimg.grouping.grouppage" h="FDF715C4">Alla bilder från en sida, till en flersidig bildfil</text>
+		<text id="searchActionTip" h="3591BAD8">Sökåtgärd...</text>
+		<text id="searchToolTip" h="435392D9">Sökverktyg...</text>
+		<text id="secinfo.grp" h="F5A61224">Säkerhetsinformation</text>
+		<text id="secsetting.init.warn" h="3CEA5A12">Åtgärden &lt;b&gt;"%1"&lt;/b&gt; måste initieras före användning. 
+Vill ni genomföra funktionen och initiera uppgiften?</text>
+		<text id="secsettings.btn" h="9147CD71">Inställningar</text>
+		<text id="selPages.all" h="7D499596">Alla sidor</text>
+		<text id="selPages.dlg" h="4B381B82">Välj sidor</text>
+		<text id="selPages.even" h="CDE5C1A0">Jämna sidor</text>
+		<text id="selPages.exact" h="23952CFD">Sidor:</text>
+		<text id="selPages.fromsubset" h="3ADEE045">från "%1" delmängd</text>
+		<text id="selPages.odd" h="242E0666">Udda sidor</text>
+		<text id="select.ovrfile" h="74E5784A">Välj överläggsfil</text>
+		<text id="selectDestFolder" h="D0F102DD">Välj destinationsmapp</text>
+		<text id="sendmail.archive.defaultname" h="F758C4E9">Namnlös</text>
+		<text id="sendmail.chk.intoone" h="BE171523">Lägg alla filer i ett e-mail</text>
+		<text id="sendmail.chk.priority" h="846616F7">Sätt e-post på hög prioritet</text>
+		<text id="sendmail.compress.alltoone" h="C303528D">Alla filer till ett arkiv</text>
+		<text id="sendmail.compress.eachfile" h="B972BFCC">Varje fil till separat arkiv</text>
+		<text id="sendmail.compress.none" h="F9398D7D">Ingen</text>
+		<text id="sendmail.edt.cue" h="A179CC6C">Skriv meddelandetext</text>
+		<text id="sendmail.lbl.arcname" h="A630D28B">Arkiv namn:</text>
+		<text id="sendmail.lbl.compress" h="BC1093D8">Komprimera</text>
+		<text id="sendmail.from" h="976952DD">Från:</text>
+		<text id="sendmail.by" h="8EF165F7">Av:</text>
+		<text id="sendmail.client" h="E8D90FF3">PC epost klient</text>
+		<text id="sendmail.log.cantcreatearchive" h="B40CACC8">Kan ej skapa arkiv att skicka</text>
+		<text id="sendmail.log.nofiles" h="4C7A563E">Ingen fil att skicka</text>
+		<text id="serializing" h="92752B4F">seriealisering %1...</text>
+		<text id="showFiles.enabled" h="2532774E">Aktiverad</text>
+		<text id="showFiles.launchAssocApp" h="FE936D7D">Visa filer med externt associerat program</text>
+		<text id="showFiles.launchAssocAppWarn" h="97CF77EB">Antalet filer som skall visas är fler än en.
+Att visa samtliga simultant, riskerar att ta för mycket av dina datorresurser i anspråk.
+
+Vill du verkligen visa samtliga?</text>
+		<text id="showFiles.openFolderAndSel" h="A95A4BE0">Öppna målmappen och välj filer</text>
+		<text id="showFiles.text" h="26A38ADF">Välj åtgärd:</text>
+		<text id="showMoreOpts" h="24B13299">Alla alternativ...</text>
+		<text id="showMoreOpts2" h="64C40213">Fler alternativ...</text>
+		<text id="showMoreOptsTip" h="C60CDB73">Klicka för att visa alla alternativ...</text>
+		<text id="showMoreOptsTip2" h="145A1CAD">Klicka för att visa avancerade alternativ...</text>
+		<text id="showSetupUI" h="0E94449E">Visa inställningsdialog vid körning</text>
+		<text id="showSetupUITip" h="0E94449E">Visa inställningsdialog vid körning</text>
+		<text id="size" h="17A58A52">Storlek</text>
+		<text id="sizelimit.nolimit" h="8E135818">Ingen begränsning</text>
+		<text id="skipaction.b" h="A37FB4B0">Hoppa över åtgärd</text>
+		<text id="skipdocsWithText" h="2683C8E5">Kör inte OCR på normal PDF med markerbar text</text>
+		<text id="skipped" h="B7D8BB1E">undantaget</text>
+		<text id="smmanual.chk" h="563576E6">Manuellt dela/sammanslå</text>
+		<text id="smmethod" h="C894DD7E">Metod</text>
+		<text id="smmethod.all2one" h="B3E7239B">Alla sidor, till ett dokument</text>
+		<text id="smmethod.asis" h="4C3BC0E6">Bevara indatadokument som dom är</text>
+		<text id="smmethod.bookmarks" h="44B3EE11">Dela upp efter toppbokmärken</text>
+		<text id="smmethod.npages" h="2D67CBA9">Varje N sida i separat dokument</text>
+		<text id="smreverse.chk" h="B766066F">omvända sidor</text>
+		<text id="sourcepage" h="5D6277DD">Källsida</text>
+		<text id="sourcetitle" h="81E00BC2">Källtitel</text>
+		<text id="specific" h="67D7437D">Specifik</text>
+		<text id="status" h="9FB9C788">Status</text>
+		<text id="stdAll" h="C80F4913">alla standarder</text>
+		<text id="stdToolsGrName" h="1906BB71">Standardverktyg</text>
+		<text id="stop" h="F89FDAAE">Stopp</text>
+		<text id="targettitle" h="F87B6FA7">Måltitel</text>
+		<text id="title.choosepages" h="4B381B82">Välj sidor</text>
+		<text id="tool.addBatesNumbering" h="5987A707">Lägg till Bates-numrering</text>
+		<text id="tool.addBatesNumbering.desc" h="19058FA5">Tillhandahåler Bates-numrering för indexering av juridiska dokument, för enkel identifiering och hämtning etc.</text>
+		<text id="tool.addDigSign" h="97DD789F">Lägg till digital signatur</text>
+		<text id="tool.addDigSign.desc" h="84946427">Lägger till och signerar nya signaturfält, med hjälp av ett certifikatbaserat digital-ID.</text>
+		<text id="tool.addHeaderAndFooter" h="71EBAC62">Lägg till sidhuvud och sidfot</text>
+		<text id="tool.addHeaderAndFooter.desc" h="36AA73F6">Lägger till sidhuvud och/eller sidfot på sidor, sidhuvud/sidfot kan inkludera datum, automatisk sidnumrering, titel och upphovsman etc.</text>
+		<text id="tool.addPagesBackground" h="20D4DB07">Ange sidbakgrund</text>
+		<text id="tool.addPagesBackground.desc" h="C639A1B2">Anger solid grafisk bakgrund bakom befintligt sidinnehåll.</text>
+		<text id="tool.addTimeStamp" h="837FE6FB">Tidsstämpla PDF</text>
+		<text id="tool.addTimeStamp.desc" h="4D80E50C">Lägger till en tidsstämpel från en auktoriserad server, som etablerar det exakta innehållet i PDF-filen vid den tidpunkt då stämpeln tillämpas.</text>
+		<text id="tool.addWatermarks" h="F5662DD3">Lägg till vattenstämpel</text>
+		<text id="tool.addWatermarks.desc" h="434D9E42">Lägger till text eller en bild som visas antingen framför eller bakom befintligt sidinnehåll.</text>
+		<text id="tool.certifyPDF" h="52B0ED47">Certifiera PDF:er</text>
+		<text id="tool.certifyPDF.desc" h="828838CF">Säkrar ett PDF-dokument genom att certifiera det med en särskild typ av signaturfält, kallat certifierad signatur.</text>
+		<text id="tool.changeProps" h="89CBAD2F">Ändra dokumentegenskaper</text>
+		<text id="tool.changeProps.desc" h="40BD1FE7">Anger dokumentegenskaper: Titel, författare, ämne, nyckelord, etc.</text>
+		<text id="tool.clearDigSign" h="361BBD36">Rensa alla digitala Signaturer</text>
+		<text id="tool.clearDigSign.desc" h="E1CDD425">Tar bort alla digitala signaturer. Lämnar om möjligt kvar osignerade signaturfält.</text>
+		<text id="tool.convertToPDFA" h="86709E15">Konvertera till PDF/A</text>
+		<text id="tool.convertToPDFA.desc" h="7DDE1660">Gör dokument kompatibla med PDF/A-standard, för långvarigt arkiverings- och lagringsändamål.</text>
+		<text id="tool.convertToPDFX" h="1D70370D">Konvertera till PDF/X</text>
+		<text id="tool.convertToPDFX.desc" h="CB599882">Gör PDF dokument(-en) kompatibel med PDF/X standard för utbyte av utskriftsdata</text>
+		<text id="tool.copied" h="348DE55D">Kopiera</text>
+		<text id="tool.cropPages" h="54A95B63">Beskär sidor</text>
+		<text id="tool.cropPages.desc" h="A9A477BE">Justerar det synliga sidområdet, ändrar eller tar bort vita sidmarginaler, ställer in sidrutor.</text>
+		<text id="tool.createWeblinks" h="F68EDD51">Skapa weblänk</text>
+		<text id="tool.createWeblinks.desc" h="6971A17D">Skapar weblänk från dokumentets textinnehåll</text>
+		<text id="tool.deleteComments.all" h="E8642222">Ta bort alla kommentarer</text>
+		<text id="tool.deleteComments.all.desc" h="818B531A">Radera alla kommentarer i dokumentet</text>
+		<text id="tool.deleteComments.form" h="37ECB4B5">Ta bort formulärfält</text>
+		<text id="tool.deleteComments.form.desc" h="C5D21570">Radera alla ifyllnadsfält i dokumentet</text>
+		<text id="tool.deleteComments.links" h="CC8F1411">Ta bort länkar</text>
+		<text id="tool.deleteComments.links.desc" h="66D48AF5">Radera länkar i dokumentet</text>
+		<text id="tool.deleteComments.weblinks" h="87C8439E">Radera weblänkar</text>
+		<text id="tool.deleteComments.weblinks.desc" h="158E179F">Ta bort weblänkar från dokument</text>
+		<text id="tool.deleteComments.markup" h="EA5127FB">Ta bort Markeringar - Kommentarer</text>
+		<text id="tool.deleteComments.markup.desc" h="80CD5AA0">Radera Markeringar - Kommentarer i dokumentet</text>
+		<text id="tool.deletePages" h="E5284839">Radera sidor</text>
+		<text id="tool.deletePages.desc" h="4E1EBD43">Radera sidor i dokumentet</text>
+		<text id="tool.descTip" h="04F6C0B5">Ange verktygsbeskrivning...</text>
+		<text id="tool.discardPDFStd" h="E608B980">Avlägsna Special PDF-Standard</text>
+		<text id="tool.discardPDFStd.desc" h="947EF232">Avlägsna Special PDF-Standard information så som PDF/X, PDF/A, PDF/E, etc</text>
+		<text id="tool.duplicatePages" h="14C45200">Dubblett sidor</text>
+		<text id="tool.duplicatePages.desc" h="0FD26A6C">Dubblett sidor av PDF dokument</text>
+		<text id="tool.extractImagesFromPDF" h="4CF9FEB6">Extrahera bilder från PDF</text>
+		<text id="tool.extractImagesFromPDF.desc" h="C53280A8">Genomsöker PDF:er efter rasterbilder i dokumentinnehållet, för att extrahera och spara dem som bildfiler.</text>
+		<text id="tool.extractPages" h="7AE73EC1">Extrahera sidor</text>
+		<text id="tool.extractPages.desc" h="54BB795B">Extraherar specificerat sidintervall från PDF till ett nytt dokument.</text>
+		<text id="tool.filesToPDF" h="4CD7DD2F">Konvertera filer till PDF:er</text>
+		<text id="tool.filesToPDF.desc" h="603206C4">Konverterar indatafiler av format som stöds, till PDF.</text>
+		<text id="tool.flattenComments" h="CBA1AA18">Flatten comments=&gt;pressa till redigerbart lager</text>
+		<text id="tool.flattenComments.desc" h="20A41E96">konvertera anteckningar till bas innehållsobjekt</text>
+		<text id="tool.imagesToPDF" h="B0C7E05C">Skapa PDF av bilder</text>
+		<text id="tool.imagesToPDF.desc" h="0FDB3BE0">Skapar ett enkelt PDF-dokument av en eller flera rasterbilder.</text>
+		<text id="tool.insertEmptyPages" h="3779032F">Infoga tomma sidor</text>
+		<text id="tool.insertEmptyPages.desc" h="65380D33">Infoga tomma sidor till dokument</text>
+		<text id="tool.insertPages" h="6B486B45">Infoga sidor</text>
+		<text id="tool.insertPages.desc" h="E986FB1C">Infoga sidor till dokumentet från utvalt dokument</text>
+		<text id="tool.nameTip" h="92682EAF">Ange verktygsnamn...</text>
+		<text id="tool.new.name" h="6431F60C">Nytt verktyg</text>
+		<text id="tool.ocrPages" h="D2A189BC">OCR-sidor</text>
+		<text id="tool.ocrPages.desc" h="E9D91493">Läser optiskt av text i ett PDF-dokument. Skapar markeringsbart och sökbart textlager på sidorna.</text>
+		<text id="tool.optimizePDF" h="E369C144">Optimera PDF</text>
+		<text id="tool.optimizePDF.desc" h="2DDF7F6C">Optimerar dokumentinnehållet för att om möjligt reducera storleken på PDF-filen.</text>
+		<text id="tool.overlayDoc" h="A113E021">Överläggs-PDF</text>
+		<text id="tool.overlayDoc.desc" h="8AC5B664">Lägger över ett PDF-dokument med ett annat PDF-dokument</text>
+		<text id="tool.pageTransitions" h="E9BE43D0">Ställ in sidövergångar</text>
+		<text id="tool.pageTransitions.desc" h="17B37A25">Ändra sidövergångar i helskärmsläge</text>
+		<text id="tool.pdfToDOCX" h="D89F515F">Exportera PDF till Microsoft Word</text>
+		<text id="tool.pdfToDOCX.desc" h="D34FB81F">Exporterar PDF-dokument till Microsoft Word-filer (*.docx).</text>
+		<text id="tool.pdfToImages" h="6DC3C315">Exportera PDF som bilder</text>
+		<text id="tool.pdfToImages.desc" h="87E8923B">Exporterar sidor från en eller flera PDF:er till olika rasterbildformat, inklusive JPEG, PNG, TIFF etc.</text>
+		<text id="tool.pdfToPPTX" h="E673A7B8">Exportera PDF till Microsoft Powerpoint</text>
+		<text id="tool.pdfToPPTX.desc" h="65E608C6">Exporterar PDF-dokument till Microsoft Powerpoint-filer (*.pptx).</text>
+		<text id="tool.pdfToTXT" h="29DDD177">Exportera PDF till oformaterad text</text>
+		<text id="tool.pdfToTXT.desc" h="9C277C15">Exporterar PDF-dokument till rena textfiler (*.txt).</text>
+		<text id="tool.pdfToXSLX" h="A31C131A">Exportera PDF till Microsoft EXCEL ark</text>
+		<text id="tool.pdfToXSLX.desc" h="325AEA86">Exportera PDF dokument till Microsoft EXCEL filer (*.xlsx).</text>
+		<text id="tool.removeBackground" h="E0246483">Ta bort sidbakgrund</text>
+		<text id="tool.removeBackground.desc" h="17700648">Tar bort anpassade bakgrunder från sidor och återställer solidvit standardbakgrund.</text>
+		<text id="tool.removeBatesNumbering" h="901F5ABD">Ta bort Bates-numrering</text>
+		<text id="tool.removeBatesNumbering.desc" h="E4FBEB3C">Tar bort Bate-numrering</text>
+		<text id="tool.removeHeaderAndFooter" h="11E8A996">Ta bort siduvuden och sidfötter</text>
+		<text id="tool.removeHeaderAndFooter.desc" h="E1CC0743">Tar bort alla befintliga siduvuden och sidfötter.</text>
+		<text id="tool.removeWatermarks" h="93F16CE2">Ta bort vattenstämplar</text>
+		<text id="tool.removeWatermarks.desc" h="AFCD3BD4">Tar bort alla vattenstämplar</text>
+		<text id="tool.replacePages" h="1311083C">Ersätt sidor</text>
+		<text id="tool.replacePages.desc" h="9C48D712">Ersätt sidor i dokument med sidor från utvalt dokument</text>
+		<text id="tool.report.dlg" h="E9D63CB7">Verktygsrapport</text>
+		<text id="tool.report.filename" h="C7908B93">Verktygsrapportering</text>
+		<text id="tool.report.save" h="418B87C2">Spara till fil...</text>
+		<text id="tool.resizePages" h="8A5C31F1">Ändra sidstorlek</text>
+		<text id="tool.resizePages.desc" h="822401DC">Ökar eller minskar sidstorleken, skalar även sidinnehåll.</text>
+		<text id="tool.rotatePages" h="CBD82045">Rotera sidor</text>
+		<text id="tool.rotatePages.desc" h="66235E38">Roterar sidor 90 grader medurs eller moturs, i PDF-dokument.</text>
+		<text id="tool.scanToPDF" h="B9A05395">Skanna till PDF</text>
+		<text id="tool.scanToPDF.desc" h="521CD5C0">Skapar nytt PDF-dokument av ett pappersdokument, med hjälp av din skanner.</text>
+		<text id="tool.securePDF" h="400E69FB">Säker PDF</text>
+		<text id="tool.securePDF.desc" h="322DE365">Skyddar ditt PDF-dokument genom att kräva ett lösenord för att öppna filen och/eller ändra innehållet.</text>
+		<text id="tool.splitMergePDF" h="51A86996">Dela upp/Slå ihop PDF:er</text>
+		<text id="tool.splitMergePDF.desc" h="73710D3B">Kombinerar alla indata-PDF:er i en, eller delar upp dem i nya PDF:er, automatiskt och/eller manuellt.</text>
+		<text id="tool.splitPages" h="2648812F">Dela upp sidor</text>
+		<text id="tool.splitPages.desc" h="4FA35C77">Dela upp sidor i PDF dokument</text>
+		<text id="tool.summarizeComments" h="2233C1CD">Sammanfattar kommentarer</text>
+		<text id="tool.summarizeComments.desc" h="8EA1DEF5">Skapar sammanfattning av alla kommentarer i PDF dokument</text>
+		<text id="tool.textToPDF" h="ECE46B63">Skapa PDF av text</text>
+		<text id="tool.textToPDF.desc" h="E1CF697C">Skapar ett enkelt PDF-dokument av en eller flera textfiler.</text>
+		<text id="tool.warn.actInvalid1" h="8442B509">Ett eller flera problem hittades med denna åtgärd:</text>
+		<text id="tool.warn.actInvalid2" h="442E6045">Problem hittades med denna åtgärd:</text>
+		<text id="tool.warn.actReqDoc" h="76C84E2B">denna åtgärd kräver PDF:er, bilder eller andra kompatibla filer som indata</text>
+		<text id="tool.warn.actReqFile1" h="0B30D02F">denna åtgärd kräver filer som indata. Du kan infoga åtgärden &lt;u&gt;"%1"&lt;/u&gt; före denna, för att lösa problemet</text>
+		<text id="tool.warn.actReqFile2" h="CA8342FE">denna åtgärd kräver filer som indata</text>
+		<text id="tool.warn.actReqFile21" h="65B62BA0">Det verkar som om du glömde infoga &lt;u&gt;%1&lt;/u&gt;, före det här</text>
+		<text id="tool.warn.actReqImg" h="D28A3C63">denna åtgärd kräver bilder som indata</text>
+		<text id="tool.warn.actReqSaveRes" h="3621DC81">Det krävs att den här åtgärden sparas till disk. Du kan infoga &lt;u&gt;%1&lt;/u&gt; efter detta, för att lösa problemet.</text>
+		<text id="tool.warn.actReqSaveRes2" h="9B55FE54">Verktyget innehåller &lt;u&gt;%1&lt;/u&gt; bland föregående åtgärder och resultatet måste sparas före tillämpning av &lt;i&gt;denna&lt;/i&gt; åtgärd. Du behöver lägga till &lt;u&gt;%2&lt;/u&gt;.</text>
+		<text id="tool.warn.actTitle" h="7330FC41">&lt;u&gt;%1&lt;/u&gt; åtgärd:</text>
+		<text id="tool.warn.cancel" h="8DD6365D">Vill du stoppa verktyget &lt;b&gt;"%1"&lt;/b&gt; från att köras?
+
+Om inte - klicka &lt;b&gt;Nej&lt;/b&gt; för att fortsätta...</text>
+		<text id="tool.warn.empty" h="D05A0C43">detta verktyg är tomt. Du kan klicka på &lt;b&gt;Redigera&lt;/b&gt; i verktygsfältet och lägga till åtgärder, för att skapa ett fungerande verktyg.</text>
+		<text id="tool.warn.empty2" h="B4FD144F">Verktyget är tomt. Det finns inga åtgärder.</text>
+		<text id="tool.warn.imgNotFound" h="9A768995">Inga bilder hittades.</text>
+		<text id="tool.warn.invalidActList" h="A2BB75D7">Verktyget har en ogiltig åtgärdslista.</text>
+		<text id="tool.warn.nextActNotSuitable" h="17376D04">&lt;i&gt;nästa&lt;/i&gt; åtgärd är inte passande, eftersom den inte accepterar resultatet av &lt;i&gt;denna&lt;/i&gt; åtgärd som indata</text>
+		<text id="tool.warn.nextActNotSuitable2" h="49941252">du kan infoga åtgärden &lt;u&gt;"%1"&lt;/u&gt; efter &lt;i&gt;denna&lt;/i&gt;, för att lösa problemet</text>
+		<text id="tool.warn.runInvalid" h="58A31432">Verktyget &lt;b&gt;"%1"&lt;/b&gt; är ogiltigt. För att kunna använda det, måste du fixa åtgärdslistan.
+
+Vill du redigera verktyget?</text>
+		<text id="tool.warn.toolInvalid1" h="D448BEEB">Ett eller flera problem hittades med detta verktyg:</text>
+		<text id="tool.warn.toolInvalid2" h="560926B8">Problem hittades med detta verktyg:</text>
+		<text id="toolActionsList" h="C9BE1A16">Åtgärdsfrekvens för verktyg</text>
+		<text id="toolCategories" h="DB5C4D49">Kategori</text>
+		<text id="toolInfo" h="979A9FE1">Verktygs info</text>
+		<text id="toolInfo.defaultDesc" h="D1FD06B6">Välj ett verktyg från verktygslistan för att visa info.</text>
+		<text id="toolcat.PDFStandard" h="E51FAF25">PDF Standard</text>
+		<text id="toolcat.advanced" h="59A2B513">Avancerad</text>
+		<text id="toolcat.comments" h="FA5EB905">Kommentarer</text>
+		<text id="toolcat.createPDF" h="ACF7EBD1">Skapa PDF</text>
+		<text id="toolcat.customTools" h="22F07048">Anpassade verktyg</text>
+		<text id="toolcat.exportPDF" h="4AE54AB5">Exportera PDF</text>
+		<text id="toolcat.favorites" h="310DA860">Favoriter</text>
+		<text id="toolcat.importedTools" h="48FF1B1E">Importerade verktyg</text>
+		<text id="toolcat.mostUsed" h="6274AE53">Mest använt</text>
+		<text id="toolcat.newname" h="DB2A8F96">Ny kategori</text>
+		<text id="toolcat.optimizePDF" h="E369C144">Optimera PDF</text>
+		<text id="toolcat.pages" h="47B1CB74">Sidor</text>
+		<text id="toolcat.protection" h="B7EE190B">Skydd</text>
+		<text id="toolcat.recents" h="F90189AF">Senaste</text>
+		<text id="toolsList" h="1B82ED70">Verktygslista</text>
+		<text id="toolsListCat" h="94032F58">Verktygslista (%1)</text>
+		<text id="toolslist.drop.nofiles" h="4F3412DD">Finns inga filer att släppa/drop</text>
+		<text id="toolsview.warning.emptyname" h="38B7A2E0">Verktygsnamnet kan inte saknas.</text>
+		<text id="type" h="710B61B4">Typ</text>
+		<text id="usebmname.chk" h="A4B3C883">Använd bookmärkesnamn som dokumentnamn</text>
+		<text id="warn.textDocSkipOCR" h="A36A170E">PDF dokumentet innehåller normal TEXT. OCR behandling genomförs EJ.</text>
+		<text id="wrong.file.msg" h="9F0126B0">Kan inte öppna överlager-PDF:
+&lt;b&gt;%1&lt;/b&gt;:
+%2
+Vill du välja en annan? </text>
+	</Strings>
+</Localization>

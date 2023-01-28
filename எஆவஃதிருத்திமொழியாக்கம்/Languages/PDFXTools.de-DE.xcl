@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627201142">2.00.00</Version>
+	<Author>Michael Dodl</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXTools"/>
+	<Language eName="German (Germany)" lName="Deutsch" code="de-DE" R2L="false"/>
+	<Module name="PDFXTools" namespace="pdft" version="7.0.325.10"/>
+	<Strings>
+		<text id="accessed" h="45570324">Geöffnet</text>
+		<text id="act.askForSourceFiles" h="2E856073">Quelldateien auswählen</text>
+		<text id="act.askForSourceFiles.desc" h="3759C068">Ermöglicht es die Quelldateien für das Werkzeug anzugeben</text>
+		<text id="act.bm.ExportActType_GotoR" h="41E1955E">Lesezeichen mit 'Gehe zu Remote'-Aktionen</text>
+		<text id="act.bm.ExportActType_JS" h="31D8CD1A">Lesezeichen mit JavaScript-Aktionen</text>
+		<text id="act.bm.ExportActType_Launch" h="38537D36">Lesezeichen mit 'Öffne Datei'-Aktionen</text>
+		<text id="act.bm.ExportActType_Page" h="05B4C93C">Lesezeichen mit 'Gehe zu Seite'-Aktionen</text>
+		<text id="act.bm.ExportActType_URI" h="F39B51AE">Lesezeichen mit 'Öffne Weblink'-Aktionen</text>
+		<text id="act.bm.ExportActTypesAll" h="B8B21253">Lesezeichen mit beliebigen Hyperlink-Aktionen</text>
+		<text id="act.bm.bmToExport" h="28D4BD73">Zu exportierende Lesezeichen</text>
+		<text id="act.bm.export" h="F3EE1781">Lesezeichen exportieren</text>
+		<text id="act.bm.export.desc" h="1403C5AD">Exportiert alle Lesezeichen aus Dokumenten.</text>
+		<text id="act.bm.exportAll" h="8882D072">Alle exportieren</text>
+		<text id="act.bm.exportHyperlink" h="8AB29747">Lesezeichen exportieren, die eine Hyperlink-Aktion ausführen:</text>
+		<text id="act.bm.exportToTextFile" h="01135DA3">Lesezeichen in Textdatei exportieren</text>
+		<text id="act.bm.exportToTextFile.desc" h="7C68D13E">Exportiert die Lesezeichenstruktur in eine Textdatei</text>
+		<text id="act.bm.fromTextFile" h="CA5176DD">Lesezeichen aus einer Textdatei importieren</text>
+		<text id="act.bm.fromTextFile.desc" h="EE697E49">Erstellt Lesezeichen aus einer Textdatei. Beachten Sie, dass das Format der Textdatei dem Format der Textdateien, die durch die 'Lesezeichen exportieren'-Funktion erzeugt werden, entsprechen muss.</text>
+		<text id="act.bm.generateFromText" h="383A949B">Lesezeichen aus Seitentext erstellen </text>
+		<text id="act.bm.generateFromText.desc" h="6DDE7415">Erstellt Lesezeichen aus dem Inhalt des Dokuments anhand von vorgegebenem Schriftstil und weiteren Parametern</text>
+		<text id="act.bm.import" h="DC7F6AD5">Lesezeichen importieren</text>
+		<text id="act.bm.import.desc" h="A5E69BAE">Importiert Lesezeichen in Dokument(e), die zuvor in eine Datei exportiert wurden.</text>
+		<text id="act.bm.toTOC" h="2B3E9BF1">Inhaltsverzeichnis erstellen</text>
+		<text id="act.bm.toTOC.desc" h="E92DA1A8">Erstellt ein Inhaltsverzeichnis auf Basis der vorhandenen Lesezeichenstruktur und der Seiten auf die sie verweisen.</text>
+		<text id="act.deleteComments.all" h="E8642222">Alle Anmerkungen löschen</text>
+		<text id="act.deleteComments.all.desc" h="818B531A">Löscht alle Anmerkungen aus dem Dokument</text>
+		<text id="act.deleteComments.form" h="37ECB4B5">Formularfelder löschen</text>
+		<text id="act.deleteComments.form.desc" h="C5D21570">Löscht Formularfelder aus dem Dokument</text>
+		<text id="act.deleteComments.grp" h="73395EF1">Seiten auf denen Anmerkungen gelöscht werden</text>
+		<text id="act.deleteComments.lbl" h="605AA315">Anmerkungstypen, die gelöscht werden sollen, auswählen:</text>
+		<text id="act.deleteComments.links" h="CC8F1411">Verweise löschen</text>
+		<text id="act.deleteComments.links.desc" h="66D48AF5">Verweise aus Dokument entfernen</text>
+		<text id="act.deleteComments.markup" h="EA5127FB">Markierungen löschen</text>
+		<text id="act.deleteComments.markup.desc" h="80CD5AA0">Löscht Markierungen aus dem Dokument</text>
+		<text id="act.deleteComments.weblinks" h="87C8439E">Weblinks löschen</text>
+		<text id="act.deleteComments.weblinks.desc" h="158E179F">Löscht Weblinks aus dem Dokument</text>
+		<text id="act.deletePages.dep.enable.lbl" h="6D295CF8">Nur leere Seiten löschen</text>
+		<text id="act.deletePages.lbl" h="75141561">Seitenbereich löschen:</text>
+		<text id="act.discardPDFStd" h="E608B980">PDF-Standard entfernen</text>
+		<text id="act.discardPDFStd.desc" h="947EF232">Entfernt Informationen zu PDF-Standards wie PDF/X, PDF/A, PDF/E aus dem Dokument...</text>
+		<text id="act.doc.addBackground" h="8B83981C">Seitenhintergrund ändern</text>
+		<text id="act.doc.addBackground.desc" h="8C8F71BF">Ändert den Hintergrund der Seite.</text>
+		<text id="act.doc.addBatesNumbering" h="5987A707">Paginierung hinzufügen</text>
+		<text id="act.doc.addBatesNumbering.desc" h="19058FA5">Ermöglicht eine Paginierung für die Indizierung amtlicher Dokumente zur einfachen Identifikation und zum Wiederauffinden, usw.</text>
+		<text id="act.doc.addDigSign" h="97DD789F">Digitale Signatur hinzufügen</text>
+		<text id="act.doc.addDigSign.desc" h="BB76CA39">Fügt ein neues Signaturfeld hinzu und signiert es mit einer zertifikatsbasierten digitalen ID.</text>
+		<text id="act.doc.addHeaderAndFooter" h="71EBAC62">Kopf- und Fußzeilen hinzufügen</text>
+		<text id="act.doc.addHeaderAndFooter.desc" h="8697B047">Fügt den Seiten Kopf- und Fußzeilen hinzu. Kopf- und Fußzeilen können ein Datum, automatische Seitenzahlen, Titel und Autor, usw. enthalten.</text>
+		<text id="act.doc.addTimeStamp" h="896D61BF">Zeitstempel hinzufügen</text>
+		<text id="act.doc.addTimeStamp.desc" h="2FDF1628">Fügt einen Zeitstempel auf Dokumentenebene hinzu, der die Inhalte des kompletten PDFs zum Zeitpunkt, bestätigt. Der Zeitstempel kommt vom festgelegten authoritativen Zeitstempel-Server.</text>
+		<text id="act.doc.addWatermarks" h="AA010705">Wasserzeichen hinzufügen</text>
+		<text id="act.doc.addWatermarks.desc" h="A89FAD30">Fügt Text oder ein Bild vor oder hinter dem Seiteninhalt hinzu.</text>
+		<text id="act.doc.certify" h="C2AFA656">Dokument zertifizieren</text>
+		<text id="act.doc.certify.desc" h="402B64F2">Sichert ein PDF-Dokument mit einem ausgefüllten zertifizierenden Signaturfeld.</text>
+		<text id="act.doc.changeProps" h="89CBAD2F">Dokumenteigenschaften ändern</text>
+		<text id="act.doc.changeProps.desc" h="40BD1FE7">Ändert die Dokumenteigenschaften: Titel, Autor, Betreff, Schlüsselwörter, usw.</text>
+		<text id="act.doc.clearDigSign" h="7E6883B8">Digitale Signaturen entfernen</text>
+		<text id="act.doc.clearDigSign.desc" h="E1CDD425">Entfernt alle digitale Signaturen, falls möglich bleiben leere Signaturfelder erhalten.</text>
+		<text id="act.doc.convertToPDFA" h="86709E15">In PDF/A umwandeln</text>
+		<text id="act.doc.convertToPDFA.desc" h="89A9625A">Wandelt Dokumente um, dass sie dem PDF/A-Standard für Langzeitarchivierung entsprechen.</text>
+		<text id="act.doc.convertToPDFX" h="1D70370D">In PDF/X umwandeln</text>
+		<text id="act.doc.convertToPDFX.desc" h="BB077FA6">Bringt Dokumente in den PDF/X-Standard für den Austausch von Druckdaten.</text>
+		<text id="act.doc.createWeblinks" h="F68EDD51">Weblink erstellen</text>
+		<text id="act.doc.createWeblinks.desc" h="6971A17D">Weblink aus Text im Dokument erstellen</text>
+		<text id="act.doc.cropPages" h="54A95B63">Seiten zuschneiden</text>
+		<text id="act.doc.cropPages.desc" h="9F01A5F4">Passt den sichtbaren Seitenbereich an, ändert oder entfernt weiße Ränder auf Seiten, setzt Seitenbereiche.</text>
+		<text id="act.doc.deletePages" h="E5284839">Seiten löschen</text>
+		<text id="act.doc.deletePages.desc" h="0EA6D9E9">Löscht den ausgewählten Seitenbereich aus dem Dokument.</text>
+		<text id="act.doc.duplicatePages" h="14C45200">Seiten duplizieren</text>
+		<text id="act.doc.duplicatePages.desc" h="0FD26A6C">Seiten des PDF-Dokuments duplizieren.</text>
+		<text id="act.doc.enhanceScannedPages" h="0A810C6E">Eingescannte Seiten optimieren</text>
+		<text id="act.doc.enhanceScannedPages.desc" h="95589020">Optimiert eingescannte Bilder in PDF-Dokumenten um die Lesbarkeit zu erhöhen und die Dateigröße zu reduzieren.</text>
+		<text id="act.doc.exportToDOCX" h="D89F515F">PDF in Microsoft Word-Dokument exportieren</text>
+		<text id="act.doc.exportToDOCX.desc" h="D5E45C48">Exportiert PDFs in Microsoft Word-Dokumente (*.docx)</text>
+		<text id="act.doc.exportToImages" h="6DC3C315">PDF in Bilder exportieren</text>
+		<text id="act.doc.exportToImages.desc" h="0EA3EE6B">Exportiert Seiten von einem oder mehreren PDFs in verschiedende Rasterbildformate, wie JPEG, PNG, TIFF, usw.</text>
+		<text id="act.doc.exportToPPTX" h="E673A7B8">PDF in Microsoft PowerPoint-Präsentation exportieren</text>
+		<text id="act.doc.exportToPPTX.desc" h="E0A7703F">Exportiert PDFs in Microsoft PowerPoint-Präsentationen (*.pptx)</text>
+		<text id="act.doc.exportToTXT" h="29DDD177">PDF in Textdatei exportieren</text>
+		<text id="act.doc.exportToTXT.desc" h="3D8783C4">Exportiert PDFs in einfache Textdateien (*.txt)</text>
+		<text id="act.doc.exportToXLSX" h="A31C131A">PDF in Microsoft Excel-Tabelle exportieren</text>
+		<text id="act.doc.exportToXLSX.desc" h="66CD86D0">Exportiert PDFs in Microsoft Excel-Tabellen (*.xlsx)</text>
+		<text id="act.doc.extractImages" h="4CF9FEB6">Bilder aus PDF extrahieren</text>
+		<text id="act.doc.extractImages.desc" h="454EBA71">Sucht nach Rasterbildern in den Dokumenten und extrahiert sie.</text>
+		<text id="act.doc.extractPages" h="7AE73EC1">Seiten extrahieren</text>
+		<text id="act.doc.extractPages.desc" h="8FCE1EA7">Bestimmte Seiten in ein neues Dokument extrahieren.</text>
+		<text id="act.doc.insertEmptyPages" h="3779032F">Leere Seiten einfügen</text>
+		<text id="act.doc.insertEmptyPages.desc" h="65380D33">Fügt leere Seiten in das Dokument ein.</text>
+		<text id="act.doc.insertPages" h="6B486B45">Seiten einfügen</text>
+		<text id="act.doc.insertPages.desc" h="C8087FC8">Seiten aus einem anderen Dokument in das Dokument einfügen.</text>
+		<text id="act.doc.ocrPages" h="D2A189BC">Texterkennung</text>
+		<text id="act.doc.ocrPages.desc" h="517C34C3">Seiten als Bilder vom Scanner einlesen und Buchstaben erkennen. Fügt zum Suchen oder zur Textauswahl eine unsichtbare Textebene ein.</text>
+		<text id="act.doc.optimize" h="854E1BE4">Dokument optimieren</text>
+		<text id="act.doc.optimize.desc" h="988BB3B9">Optimiert das Dokument, um die Dateigröße zu verringern.</text>
+		<text id="act.doc.overlayDoc" h="A113E021">Überlagerungs-PDF</text>
+		<text id="act.doc.overlayDoc.desc" h="8AC5B664">Überlagert PDF-Dokumente mit einem anderen PDF-Dokument.</text>
+		<text id="act.doc.pageNumbering" h="21AF4605">Seitennummerierung</text>
+		<text id="act.doc.pageNumbering.desc" h="A2BA72A1">Fügt Seitenzahlen hinzu.</text>
+		<text id="act.doc.pageTransitions" h="E9BE43D0">Seitenübergänge einrichten</text>
+		<text id="act.doc.pageTransitions.desc" h="17B37A25">Ändert Seitenübergänge im Vollbildmodus</text>
+		<text id="act.doc.printDocument" h="4F3750AE">Dokument drucken</text>
+		<text id="act.doc.printDocument.desc" h="2523AB5C">Quelldokument drucken.</text>
+		<text id="act.doc.removeBackground" h="7C270CB4">Seitenhintergrund entfernen</text>
+		<text id="act.doc.removeBackground.desc" h="17700648">Entfernt eigene Seitenhintergründe, setzt einen einfarbigen weißen Hintergrund.</text>
+		<text id="act.doc.removeBatesNumbering" h="901F5ABD">Paginierung entfernen</text>
+		<text id="act.doc.removeBatesNumbering.desc" h="E4FBEB3C">Entfernt die Paginierung.</text>
+		<text id="act.doc.removeHeaderAndFooter" h="11E8A996">Kopf- und Fußzeilen entfernen</text>
+		<text id="act.doc.removeHeaderAndFooter.desc" h="E1CC0743">Entfernt alle Kopf- und Fußzeilen.</text>
+		<text id="act.doc.removeWatermarks" h="93F16CE2">Wasserzeichen entfernen</text>
+		<text id="act.doc.removeWatermarks.desc" h="629EC84B">Entfernt alle Wasserzeichen.</text>
+		<text id="act.doc.replacePages" h="1311083C">Seiten ersetzen</text>
+		<text id="act.doc.replacePages.desc" h="8C5176DA">Seiten im Dokument ersetzen.</text>
+		<text id="act.doc.resizePages" h="8A5C31F1">Seitengröße ändern</text>
+		<text id="act.doc.resizePages.desc" h="8F74355D">Vergrößert/verkleinert die Seitengröße, Skalierung des Seiteninhalts ist optional.</text>
+		<text id="act.doc.rotatePages" h="CBD82045">Seiten drehen</text>
+		<text id="act.doc.rotatePages.desc" h="00CCD6AD">Dreht Seiten in 90°-Schritten im oder gegen den Uhrzeigersinn.</text>
+		<text id="act.doc.setSecurity" h="09A28BF5">Dokument sichern</text>
+		<text id="act.doc.setSecurity.desc" h="AF6D0BF7">Schützt Ihr PDF-Dokument durch ein Kennwort, das zum Öffnen oder Ändern des Inhalts benötigt wird. Ermöglicht das Entfernen von Sicherheitseinschränkungen.</text>
+		<text id="act.doc.splitPages" h="2648812F">Seiten teilen</text>
+		<text id="act.doc.splitPages.desc" h="4FA35C77">Seiten des PDF-Dokuments aufteilen</text>
+		<text id="act.doc.summarizeComments" h="2233C1CD">Anmerkungen zusammenfassen</text>
+		<text id="act.doc.summarizeComments.desc" h="8EA1DEF5">Eine Zusammenfassung aller Anmerkungen des PDF-Dokuments erstellen</text>
+		<text id="act.filesToPDF" h="A382536E">Dateien in PDF umwandeln</text>
+		<text id="act.filesToPDF.desc" h="40567B4F">Wandelt die Quelldateien mit unterstützten Formaten in PDF um.</text>
+		<text id="act.flags.arrdoc" h="F5023560">Dokumentenliste</text>
+		<text id="act.flags.arrfile" h="AF02951A">Dateiliste</text>
+		<text id="act.flags.arrimage" h="AD43894A">Bildliste</text>
+		<text id="act.flags.arrname" h="A46C1DFE">Namensliste</text>
+		<text id="act.flags.doc" h="0417E245">Dokument</text>
+		<text id="act.flags.file" h="AFFADF08">Datei</text>
+		<text id="act.flags.image" h="6F479465">Bilder</text>
+		<text id="act.flags.name" h="28F021B5">Name</text>
+		<text id="act.flags.nothing" h="C06D6B01">Nichts</text>
+		<text id="act.flattenComments" h="CBA1AA18">Anmerkungen einbetten</text>
+		<text id="act.flattenComments.desc" h="20A41E96">Anmerkungen in normalen Inhalt umwandeln</text>
+		<text id="act.group.PDFStandard" h="E51FAF25">PDF-Standard</text>
+		<text id="act.group.advanced" h="59A2B513">Erweitert</text>
+		<text id="act.group.bookmarks" h="E2032460">Lesezeichen</text>
+		<text id="act.group.comments" h="FA5EB905">Anmerkungen</text>
+		<text id="act.group.createPDF" h="ACF7EBD1">PDF erstellen</text>
+		<text id="act.group.exportPDF" h="4AE54AB5">PDF exportieren</text>
+		<text id="act.group.inputOutput" h="178214DA">Ein-/Ausgabe</text>
+		<text id="act.group.optimizePDF" h="E369C144">PDF optimieren</text>
+		<text id="act.group.pages" h="47B1CB74">Seiten</text>
+		<text id="act.group.protection" h="B7EE190B">Schutz</text>
+		<text id="act.imagesToPDF" h="B0C7E05C">PDF aus Bildern erstellen</text>
+		<text id="act.imagesToPDF.desc" h="43AF6AF6">Erstellt ein einzelnes PDF aus einem oder mehreren Rasterbildern.</text>
+		<text id="act.saveDocs" h="07936326">Dokumente speichern</text>
+		<text id="act.saveDocs.desc" h="32932EE9">Speichert Änderungen an Dokumenten oder speichert neu erstellte Dateien.</text>
+		<text id="act.saveImages" h="2EBC4084">Bilder speichern</text>
+		<text id="act.saveImages.desc" h="3A5C69E3">Speichert Rasterbilder in Dateien.</text>
+		<text id="act.scan.showlist" h="18D7490A">Liste der Bilder nach dem Scannen anzeigen</text>
+		<text id="act.scanToImages" h="3C7180B5">Bilder von Scanner holen</text>
+		<text id="act.scanToImages.desc" h="E0F7A297">Ein Dokument vom Scanner einlesen und ein PDF aus Bildern erstellen.</text>
+		<text id="act.sendMail" h="1F56479B">E-Mail versenden</text>
+		<text id="act.sendMail.desc" h="18F585BE">Dateien per E-Mail an eine angegebene Adresse senden</text>
+		<text id="act.showFiles" h="7E16D9C8">Dateien anzeigen</text>
+		<text id="act.showFiles.desc" h="5A081173">Öffnet den Ordner, der die Dateien enthält oder öffnet die Dateien in der verknüpften Anwendung.</text>
+		<text id="act.splitMergeDocs" h="8343835D">Dokumente aufteilen/verschmelzen</text>
+		<text id="act.splitMergeDocs.desc" h="B253B87D">Kombiniert alle Quell-PDFs automatisch oder manuell in eines oder teilt sie in neue PDFs.</text>
+		<text id="act.textToPDF" h="ECE46B63">PDF aus Text erstellen</text>
+		<text id="act.textToPDF.desc" h="F9A66354">Erstellt ein einzelnes PDF-Dokument aus einer oder mehreren Textdateien.</text>
+		<text id="act.warn.title" h="76F57ED1">Warnungen</text>
+		<text id="actCloseBtnTip" h="087A8145">Klicken, um die Aktion aus der Liste zu entfernen</text>
+		<text id="actOnOffUITip" h="18682AEB">Klicken Sie hier, um die Aktion während der Ausführung ein und auszuschalten.</text>
+		<text id="actionInfo.defaultDesc" h="845515AD">Wählen Sie eine Aktion aus der Liste, um die Informationen anzuzeigen.</text>
+		<text id="actionInfo.defaultTitle" h="375B13FE">Aktion wählen...</text>
+		<text id="addbookmark.chk" h="C7B70DCB">Dateiname als Lesezeichen hinzufügen</text>
+		<text id="afsf.choosefiles" h="BAE0C7B7">Dateien auswählen</text>
+		<text id="afsf.choosefiles.editimage" h="56B4E1F8">Bild bearbeiten</text>
+		<text id="afsf.click2browse" h="ABC462F9">Klicken Sie hier zum Auswählen...</text>
+		<text id="afsf.clicktoedit" h="56B17D30">Klicken Sie hier, um gespeicherte Dateinamen anzusehen und zu bearbeiten</text>
+		<text id="afsf.clicktoremove" h="CAB117DD">Klicken Sie hier, um gespeicherte Dateinamen zu entfernen</text>
+		<text id="afsf.dlg.editAvail" h="70C3C982">Verfügbare Dateifilter</text>
+		<text id="afsf.err.filelistempty" h="6A812F17">Die Dateiliste ist leer</text>
+		<text id="afsf.err.invalidsymbols" h="D036E0B4">Zeile %1 enthält ungültige Symbole</text>
+		<text id="afsf.listinfo" h="CEB468D3">Datei mit der Erweiterung &lt;b&gt;*.pdtfl&lt;/b&gt;.Die Datei muss eine Liste mit Dateinamen enthalten:c:filename1c:filename2...c:filenameN</text>
+		<text id="afsf.prop.choose.name" h="758F38E8">Aktions-Filter auswählen</text>
+		<text id="afsf.prop.choose.tip" h="758F38E8">Aktions-Filter auswählen</text>
+		<text id="afsf.prop.choose.title" h="758F38E8">Aktions-Filter auswählen</text>
+		<text id="afsf.prop.manage.name" h="1B8E7007">Eigene Filter</text>
+		<text id="afsf.prop.manage.tip" h="1B8E7007">Eigene Filter</text>
+		<text id="afsf.prop.manage.title" h="1B8E7007">Eigene Filter</text>
+		<text id="afsf.selectfolder" h="3F89B943">Ordner auswählen:</text>
+		<text id="afsf.sort" h="230935DB">Sortieren:</text>
+		<text id="afsf.sort.creation" h="AEDBE5EB">nach Erstellungsdatum</text>
+		<text id="afsf.sort.modification" h="B802AF12">nach Änderungsdatum</text>
+		<text id="afsf.sort.name" h="B3FDD284">nach Name</text>
+		<text id="afsf.sort.none" h="004FEF2B">keine</text>
+		<text id="afsf.sort.size" h="75DE1B35">nach Größe</text>
+		<text id="afsf.storefiles" h="06AB1A20">Dateinamen für das nächste Mal speichern</text>
+		<text id="afsf.subfolders" h="EAAFE63E">Unterordner durchsuchen</text>
+		<text id="afsf.usestoredfiles" h="4A3B84D0">Gespeicherte Dateinamen von der letzten Ausführung benutzen</text>
+		<text id="afsf.warn.concrete.ext" h="6634FBD4">Die Erweiterung der Datei '%1' ist wegen der Einstellungen für die Aktion 'Quelldateien auswählen' nicht erlaubt.</text>
+		<text id="afsf.warn.ext" h="16DBB55E">Die Dateierweiterung ist wegen der Einstellungen für die Aktion 'Quelldateien auswählen' nicht erlaubt.</text>
+		<text id="afsf.warn.filescontainer" h="FF3986E4">Der Datei-Container konnte nicht geöffnet werden:
+&lt;b&gt;%1&lt;/b&gt;</text>
+		<text id="afsf.warn.listext" h="6B1988CB">Die Dateiliste muss die Erweiterung &lt;b&gt;*.pdtfl&lt;/b&gt; haben</text>
+		<text id="align.bottom" h="08F4AB6F">Unten</text>
+		<text id="align.center" h="CBEFB4D0">Mittig</text>
+		<text id="align.left" h="8CEAA299">Links</text>
+		<text id="align.middle" h="D27F520F">Mittig</text>
+		<text id="align.right" h="2D8A4EE6">Rechts</text>
+		<text id="align.top" h="249A2BBD">Oben</text>
+		<text id="alignoverlay" h="B7EB1785">Überlagernde Seiten relativ zu neuem PDF-Dokument ausrichten:</text>
+		<text id="another.ovrfile.title" h="AEFCE724">Andere Datei zum Überlagern auswählen</text>
+		<text id="askpwd.chk" h="24A0ED40">Nicht nach Kennwörtern fragen</text>
+		<text id="askpwd.tip" h="3C6E1749">Wenn diese Einstellung aktiv ist, werden alle Dateien, die mit einem Kennwort geschützt sind, übersprungen, falls die Kennwörter nicht im &lt;b&gt;Kennwortspeicher&lt;/b&gt; enthalten sind.</text>
+		<text id="attributes" h="71F6D064">Attribute</text>
+		<text id="availActionsList" h="477E6AC0">Aktionsbibliothek</text>
+		<text id="batchproc.chk" h="1194AD9C">Stapelverarbeitung</text>
+		<text id="batchproc.tip" h="8BED8A8A">• Wenn diese Einstellung aktiv ist, wird jedes Werkzeug jedes Quellobjekt (Dateien, eingescannte Bilder, usw.) verarbeiten, bevor die nächste Aktion durchgeführt wird.
+• Wenn diese Einstellung nicht aktiv ist, werden Quellobjekte bei jeder Aktion verarbeitet, bevor das nächste Quellobjekt verarbeitet wird. Dies hilft dabei den Speicherverbrauch zu reduzieren. Werkzeuge, die PDF(s) verschmelzen funktionieren unter Umständen nicht wie erwartet, da alle Quellobjekte unabhängig voneinander verarbeitet werden.</text>
+		<text id="bmnamesAndDoc.cmb" h="019AADA7">Quelldokument und Lesezeichen</text>
+		<text id="bmnamesDoc.cmb" h="D7143742">Name des Quelldokuments</text>
+		<text id="bmnamesName.lbl" h="C761CCE0">Erzeuge Dokumentnamen aus:</text>
+		<text id="bmnamesNames.cmb" h="DBDE73F8">Lesezeichennamen</text>
+		<text id="bookmarks.delimiter.lbl" h="A4269065">Trennzeichen</text>
+		<text id="bookmarks.invalidSeparator" h="44875D1F">Das Trennzeichen darf nicht leer sein, alphanumerische Zeichen oder Leerzeichen enthalten und darf keines der folgenden Zeichen sein: @ # : { } \</text>
+		<text id="bookmarks.log.bookmarksNotFound" h="184C696B">Lesezeichen, die nicht im Dokument gefunden werden.</text>
+		<text id="bookmarks.log.bookmarksNotFoundTOC" h="E3250FA7">Es wurden keine Lesezeichen im Dokument gefunden. Ein leeres Inhaltsverzeichnis wird erstellt.</text>
+		<text id="bookmarks.log.txtSrcNotFound" h="52338723">Die Lesezeichen konnten nicht in das Dokument importiert werden. Die Lesezeichendatei '%1' konnte nicht gefunden werden.</text>
+		<text id="bookmarks.sourcefiletxt.lbl" h="8C896EF2">Auswahl einer Textdatei, die Lesezeichen enthält:</text>
+		<text id="bookmarks.sourcefilexcbkm.lbl" h="20DDBCE7">Datei für Lesezeichenexport auswählen:</text>
+		<text id="bookmarks.sourcefoldertxt.info" h="9C858B7C">Für jedes PDF-Dokument wird die Textdatei mit demselben Namen als Quelle für Lesezeichen verwendet.</text>
+		<text id="bookmarks.sourcefoldertxt.lbl" h="E5CB01F7">Auswahl eines Ordners, der Textdateien mit Lesezeichen enthält:</text>
+		<text id="bookmarks.sourcefolderxcbkm.info" h="2F8C4CA0">Für jedes PDF-Dokument werden die Lesezeichen in eine Datei mit demselben Namen exportiert.</text>
+		<text id="bookmarks.sourcefolderxcbkm.lbl" h="0E50F0BA">Ordner für Lesezeichenexport auswählen:</text>
+		<text id="btn.delete" h="D8FE3F70">Entfernen</text>
+		<text id="btn.edit" h="621534A3">Bearbeiten...</text>
+		<text id="byhoriz" h="AE80ABA7">Horizontal:</text>
+		<text id="byvert" h="138F572B">Vertikal:</text>
+		<text id="chk.savepwd" h="2DACA98E">Kennwort für zukünftige Verwendung speichern</text>
+		<text id="choose.file" h="D8D81DA5">Datei auswählen</text>
+		<text id="chooseFiles.chooseForPreview" h="B4BD25C6">Objekt für die Vorschau auswählen</text>
+		<text id="chooseFiles.fromScanner" h="BDBDAE44">Bild von Scanner</text>
+		<text id="chooseFiles.scansubfolders" h="05971C7B">Wollen Sie Dateien aus den Unterordnern hinzufügen?</text>
+		<text id="chooseFiles.unknownImageType" h="18901815">Unbekanntes Bildformat</text>
+		<text id="choosefiles.title" h="2E856073">Quelldateien auswählen</text>
+		<text id="choosefiles.warning" h="88E4DD69">Bitte fügen Sie der Liste einige Dateien hinzu.</text>
+		<text id="choosestd.lbl" h="F999AF4C">PDF-Standard entfernen:</text>
+		<text id="choosetool.caption" h="F368DC49">Werkzeug auswählen</text>
+		<text id="choosetools.export.caption" h="89168619">Werkzeuge zum Exportieren auswählen</text>
+		<text id="choosetools.import.caption" h="4D9B8134">Werkzeuge zum Importieren auswählen</text>
+		<text id="ck.all" h="65CCA5D0">'Alle Dateien (*.*)'-Filter hinzufügen</text>
+		<text id="clonetoolname.lbl" h="E63F45FA">Name des geklonten Werkzeugs:</text>
+		<text id="cmd.actionInfoPane" h="BE3FF2AC">Aktionsinformationen</text>
+		<text id="cmd.actionInfoPane.tip" h="EA4CDC04">Aktionsinformationen anzeigen/verbergen</text>
+		<text id="cmd.addFavorites" h="253AA8C4">Zu Favoriten hinzufügen</text>
+		<text id="cmd.addFavorites.tip" h="D0494D1D">Werkzeug zu den Favoriten hinzufügen</text>
+		<text id="cmd.availAct.append" h="44CFD997">Aktion anhängen</text>
+		<text id="cmd.availActionsPane" h="70AE9683">Aktionsbibliothek</text>
+		<text id="cmd.availActionsPane.tip" h="EE8A6FE7">Aktionsbibliothek anzeigen/verbergen</text>
+		<text id="cmd.catlist.add" h="8E2EE8C1">Hinzufügen</text>
+		<text id="cmd.catlist.add.tip" h="352D549C">Neue Kategorie hinzufügen</text>
+		<text id="cmd.catlist.copyID" h="76D03E52">Kategorie-ID kopieren</text>
+		<text id="cmd.catlist.copyID.tip" h="4D528776">Kopiert die Kategorie-ID in die Zwischenablage</text>
+		<text id="cmd.catlist.delete" h="D8FE3F70">Löschen</text>
+		<text id="cmd.catlist.delete.tip" h="F996D3A3">Ausgewählte Kategorie löschen</text>
+		<text id="cmd.catlist.rename" h="CF7E2A12">Umbenennen</text>
+		<text id="cmd.catlist.rename.tip" h="853B01D0">Ausgewählte Kategorie umbenennen</text>
+		<text id="cmd.choosetools.checkAll" h="1ED93781">Alle</text>
+		<text id="cmd.choosetools.checkAll.tip" h="5C10CA59">Alle Werkzeuge auswählen.</text>
+		<text id="cmd.choosetools.collapseAll" h="84E09D66">Alle einklappen</text>
+		<text id="cmd.choosetools.collapseAll.tip" h="4B0945EA">Alle Einträge einklappen.</text>
+		<text id="cmd.choosetools.expandAll" h="6DA5A467">Alle ausklappen</text>
+		<text id="cmd.choosetools.expandAll.tip" h="B8DEF87E">Alle Einträge ausklappen.</text>
+		<text id="cmd.choosetools.uncheckAll" h="5D53AA8D">Keine</text>
+		<text id="cmd.choosetools.uncheckAll.tip" h="E0FE40A8">Kein Werkzeug auswählen.</text>
+		<text id="cmd.close" h="BFF0422C">Schließen</text>
+		<text id="cmd.close.tip" h="803D7B54">Nachfragen, ob Änderungen gespeichert werden sollen und Werkzeug-Editor schließen.</text>
+		<text id="cmd.collapseAll" h="84E09D66">Alle einklappen</text>
+		<text id="cmd.collapseAll.tip" h="4B0945EA">Alle Elemente einklappen</text>
+		<text id="cmd.continue" h="A5F0062A">Fortsetzen</text>
+		<text id="cmd.continue.tip" h="449BD617">Laufendes Werkzeug fortsetzen</text>
+		<text id="cmd.copyToolID" h="29B6ACF3">Werkzeugbezeichner kopieren</text>
+		<text id="cmd.copyToolID.tip" h="C84C435C">Kopiert den eindeutigen Bezeichner für das Werkzeug in die Zwischenablage</text>
+		<text id="cmd.createFld" h="EDCA1553">Erstellen</text>
+		<text id="cmd.createFld.tip" h="0C2549D2">Ordnerüberwachung einrichten</text>
+		<text id="cmd.delete" h="D8FE3F70">Löschen</text>
+		<text id="cmd.delete.tip" h="1645B116">Ausgewähltes Werkzeug löschen</text>
+		<text id="cmd.deleteAction" h="D8FE3F70">Löschen</text>
+		<text id="cmd.deleteAction.tip" h="8D3F7647">Ausgewählte Aktion löschen</text>
+		<text id="cmd.deleteFld" h="D8FE3F70">Löschen</text>
+		<text id="cmd.deleteFld.tip" h="FE6D13BD">Ausgewählte Ordnerüberwachung löschen</text>
+		<text id="cmd.disableFld" h="3F68363A">Ausschalten</text>
+		<text id="cmd.disableFld.tip" h="0002F9EA">Ordnerüberwachung ausschalten</text>
+		<text id="cmd.docsList.collapseAll" h="84E09D66">Alle einklappen</text>
+		<text id="cmd.docsList.collapseAll.tip" h="4B0945EA">Alle Elemente einklappen</text>
+		<text id="cmd.docsList.delete" h="D8FE3F70">Löschen</text>
+		<text id="cmd.docsList.delete.tip" h="AFC734F6">Ausgewählte Einträge aus der Liste löschen</text>
+		<text id="cmd.docsList.expandAll" h="6DA5A467">Alle ausklappen</text>
+		<text id="cmd.docsList.expandAll.tip" h="B8DEF87E">Alle Elemente ausklappen</text>
+		<text id="cmd.docsList.invertPagesSel" h="50358D1F">Seitenauswahl umkehren</text>
+		<text id="cmd.docsList.invertPagesSel.tip" h="D48EAFF2">Seitenauswahl im Dokument umkehren.</text>
+		<text id="cmd.docsList.redo" h="E6E48291">Wiederherstellen</text>
+		<text id="cmd.docsList.redo.tip" h="D864EFC4">Die letzte Aktion wiederherstellen</text>
+		<text id="cmd.docsList.rename" h="CF7E2A12">Umbenennen</text>
+		<text id="cmd.docsList.rename.tip" h="D13799F6">Ausgewähltes Element umbenennen</text>
+		<text id="cmd.docsList.selectPages" h="CA96B5EB">Seiten auswählen...</text>
+		<text id="cmd.docsList.selectPages.tip" h="2BA1CFDF">Seiten im ausgewählten Dokument auswählen.</text>
+		<text id="cmd.docsList.showPreview" h="0E09CAB8">Vorschau</text>
+		<text id="cmd.docsList.showPreview.tip" h="5FDF66AB">Vorschauleiste für das ausgewählte Element anzeigen/verbergen</text>
+		<text id="cmd.docsList.showRepo" h="75AE5FBB">Seiten-Zwischenspeicher</text>
+		<text id="cmd.docsList.showRepo.tip" h="A9FDC14F">Den Zwischenspeicher für Seiten anzeigen/verbergen. Hier lassen sich beliebige Seitenbereiche aus verschiedenen Dokumenten temporär zwischenspeichern. Das ist beim Verschieben von Seiten nützlich.</text>
+		<text id="cmd.docsList.undo" h="86E67B4B">Rückgängig</text>
+		<text id="cmd.docsList.undo.tip" h="68378895">Die letzte Aktion rückgängig machen</text>
+		<text id="cmd.docsList.zoomIn" h="21C9A3BF">Vergrößern</text>
+		<text id="cmd.docsList.zoomIn.tip" h="EEFCC59E">Vorschaubilder vergrößern</text>
+		<text id="cmd.docsList.zoomOut" h="7749FC62">Verkleinern</text>
+		<text id="cmd.docsList.zoomOut.tip" h="B4B12D5A">Vorschaubilder verkleinern</text>
+		<text id="cmd.docsList.zoomSlider" h="596A6E4A">Skalieren</text>
+		<text id="cmd.docsList.zoomSlider.tip" h="0F91092C">Vorschaubilder skalieren</text>
+		<text id="cmd.editDocList.clearAll" h="FCA74107">Zwischenspeicher leeren</text>
+		<text id="cmd.editDocList.clearAll.tip" h="8D064794">Den Seiten-Zwischenspeicher leeren</text>
+		<text id="cmd.editFld" h="009A7A41">Bearbeiten</text>
+		<text id="cmd.editFld.tip" h="6383A76C">Ausgewählte Ordnerüberwachung bearbeiten</text>
+		<text id="cmd.editModeView" h="2FCBB32C">Ansicht</text>
+		<text id="cmd.editModeView.tip" h="FED08A06">Weitere Leisten anzeigen/verbergen</text>
+		<text id="cmd.enableFld" h="A816D2F1">Einschalten</text>
+		<text id="cmd.enableFld.tip" h="5C4A8F7C">Ordnerüberwachung einschalten</text>
+		<text id="cmd.expandAll" h="6DA5A467">Alle ausklappen</text>
+		<text id="cmd.expandAll.tip" h="B8DEF87E">Alle Elemente ausklappen</text>
+		<text id="cmd.filesList.addFiles" h="6BB8C3C3">Dateien hinzufügen...</text>
+		<text id="cmd.filesList.addFiles.combo" h="6BB8C3C3">Dateien hinzufügen...</text>
+		<text id="cmd.filesList.addFiles.tip" h="49EDA302">Dialog zur Dateiauswahl anzeigen...</text>
+		<text id="cmd.filesList.addFolder" h="48695541">Ordner hinzufügen...</text>
+		<text id="cmd.filesList.addFolder.tip" h="6761456F">Dialog zur Ordnerauswahl anzeigen, um Dateien hinzuzufügen...</text>
+		<text id="cmd.filesList.addFromScanner" h="F8B40B5F">Von Scanner hinzufügen...</text>
+		<text id="cmd.filesList.addFromScanner.tip" h="B4E7ED2C">Scanner auswählen und Bilder einscannen...</text>
+		<text id="cmd.filesList.delete" h="D8FE3F70">Löschen</text>
+		<text id="cmd.filesList.delete.tip" h="1B809C28">Ausgewählte Elemente aus der Liste entfernen. Das Entfernen kann nicht rückgängig gemacht werden.</text>
+		<text id="cmd.filesList.detailsView" h="AEE125D6">Details</text>
+		<text id="cmd.filesList.detailsView.tip" h="6570BFC4">Zur Detailansicht wechseln</text>
+		<text id="cmd.filesList.edit" h="621534A3">Bearbeiten...</text>
+		<text id="cmd.filesList.edit.tip" h="A8CCCC15">Das ausgewählte Element bearbeiten</text>
+		<text id="cmd.filesList.moveDown" h="B590E566">Ab</text>
+		<text id="cmd.filesList.moveDown.tip" h="96CBF2AC">Ausgewählte Elemente nach unten verschieben</text>
+		<text id="cmd.filesList.moveUp" h="E466537C">Auf</text>
+		<text id="cmd.filesList.moveUp.tip" h="239B490C">Ausgewählte Elemente nach oben verschieben</text>
+		<text id="cmd.filesList.openContFolder" h="D3E03212">Beinhaltenden Ordner öffnen</text>
+		<text id="cmd.filesList.openContFolder.tip" h="4967EB0F">Den Ordner, der die Datei enthält, im Windows-Explorer öffnen</text>
+		<text id="cmd.filesList.selectPages" h="CA96B5EB">Seiten auswählen...</text>
+		<text id="cmd.filesList.selectPages.tip" h="9D36120F">Seiten im aktiven Dokument auswählen</text>
+		<text id="cmd.filesList.showPreview" h="0E09CAB8">Vorschau</text>
+		<text id="cmd.filesList.showPreview.tip" h="5FDF66AB">Vorschauleiste anzeigen/verbergen</text>
+		<text id="cmd.filesList.thumbsView" h="47B1B2D9">Miniaturansicht</text>
+		<text id="cmd.filesList.thumbsView.tip" h="E9F10E3C">Zur Miniaturansicht wechseln</text>
+		<text id="cmd.filesList.zoomIn" h="21C9A3BF">Vergrößern</text>
+		<text id="cmd.filesList.zoomIn.tip" h="EEFCC59E">Miniaturansicht vergrößern</text>
+		<text id="cmd.filesList.zoomOut" h="7749FC62">Verkleinern</text>
+		<text id="cmd.filesList.zoomOut.tip" h="B4B12D5A">Miniaturansicht verkleinern</text>
+		<text id="cmd.filesList.zoomSlider" h="596A6E4A">Skalieren</text>
+		<text id="cmd.filesList.zoomSlider.tip" h="0F91092C">Größe der Miniaturansicht ändern</text>
+		<text id="cmd.help" h="03718903">Hilfe</text>
+		<text id="cmd.help.about" h="06AA44B8">Über...</text>
+		<text id="cmd.help.about.tip" h="D3746489">Versions- und Lizenzinformationen anzeigen</text>
+		<text id="cmd.help.checkForUpdates" h="B4EF7EF3">Nach neuer Version suchen...</text>
+		<text id="cmd.help.checkForUpdates.tip" h="73587378">Nach neuer Version suchen...</text>
+		<text id="cmd.help.contents" h="567BC1D7">Inhalt</text>
+		<text id="cmd.help.contents.tip" h="08AC959F">Die detaillierte Online-Hilfe öffnen</text>
+		<text id="cmd.help.enterkey" h="EF62658A">Lizenzschlüssel eingeben...</text>
+		<text id="cmd.help.enterkey.tip" h="D3746489">Versions- und Lizenzinformationen anzeigen</text>
+		<text id="cmd.help.homepage" h="09F653F5">Homepage</text>
+		<text id="cmd.help.homepage.tip" h="EBA22B5A">Die Homepage von Tracker Software Products, Ltd. öffnen</text>
+		<text id="cmd.help.support" h="31A29A3F">Support</text>
+		<text id="cmd.help.support.tip" h="B8C0C0FB">Die Seite des Support-Forums anzeigen</text>
+		<text id="cmd.help.tip" h="F59770E5">Hilfe</text>
+		<text id="cmd.impexp" h="1D5A9A8A">Im-/Export</text>
+		<text id="cmd.impexp.expseltools" h="C87F6A0D">Ausgewählte Werkzeuge exportieren</text>
+		<text id="cmd.impexp.expseltools.tip" h="0E445E08">Ausgewählte Werkzeuge in eine Datei exportieren</text>
+		<text id="cmd.impexp.expsett" h="329179F2">Alle Einstellungen exportieren</text>
+		<text id="cmd.impexp.expsett.tip" h="1BEC5F75">Alle Programmeinstellungen und Werkzeuge in eine Datei exportieren</text>
+		<text id="cmd.impexp.exptools" h="3B532E8F">Werkzeuge exportieren</text>
+		<text id="cmd.impexp.exptools.tip" h="66B0E107">Werkzeuge in eine Datei exportieren</text>
+		<text id="cmd.impexp.impsett" h="92219071">Alle Einstellungen importieren</text>
+		<text id="cmd.impexp.impsett.tip" h="3845D20B">Alle Programmeinstellungen und Werkzeuge aus einer Datei importieren</text>
+		<text id="cmd.impexp.imptools" h="622631EF">Werkzeuge importieren</text>
+		<text id="cmd.impexp.imptools.tip" h="112B2FCB">Werkzeuge aus einer Datei importieren</text>
+		<text id="cmd.impexp.shortcut" h="64092D8C">Verknüpfung auf dem Desktop erstellen</text>
+		<text id="cmd.impexp.shortcut.tip" h="F695107D">Erstellt eine Verknüpfung zum ausgewählten Werkzeug auf dem Desktop</text>
+		<text id="cmd.impexp.tip" h="CE31B671">Aktionen für Werkzeuge oder Anwendungseinstellungen im-/exportieren</text>
+		<text id="cmd.moveDown" h="B590E566">Ab</text>
+		<text id="cmd.moveDown.tip" h="96CBF2AC">Ausgewählte Elemente nach unten verschieben</text>
+		<text id="cmd.moveUp" h="E466537C">Auf</text>
+		<text id="cmd.moveUp.tip" h="239B490C">Ausgewählte Elemente nach oben verschieben</text>
+		<text id="cmd.opts" h="DAD7B4F4">Einstellungen</text>
+		<text id="cmd.opts.tip" h="0DB1D677">Einstellungen der Anwendung verwalten</text>
+		<text id="cmd.prefs" h="8D3CBDF0">Einstellungen</text>
+		<text id="cmd.prefs.tip" h="35A54BBC">Einstellungen für die Anwendung anzeigen</text>
+		<text id="cmd.redo" h="E6E48291">Wiederherstellen</text>
+		<text id="cmd.redo.tip" h="D864EFC4">Eine rückgängig gemachte Aktion wiederherstellen</text>
+		<text id="cmd.removeFavorites" h="85360926">Aus Favoriten entfernen</text>
+		<text id="cmd.removeFavorites.tip" h="DEB12B60">Werkzeug aus Favoriten entfernen</text>
+		<text id="cmd.report.clear" h="CB9CE353">Leeren</text>
+		<text id="cmd.report.clear.tip" h="26272D30">Bericht leeren</text>
+		<text id="cmd.report.collapseAll" h="84E09D66">Alle einklappen</text>
+		<text id="cmd.report.collapseAll.tip" h="4B0945EA">Alle ausgeklappten Elemente einklappen</text>
+		<text id="cmd.report.copy" h="348DE55D">Kopieren</text>
+		<text id="cmd.report.copy.tip" h="7E2DF69D">Meldung kopieren</text>
+		<text id="cmd.report.copyname" h="895D5980">Dateiname kopieren</text>
+		<text id="cmd.report.copyname.tip" h="C6C33FE5">Dateiname in die Zwischenablage kopieren</text>
+		<text id="cmd.report.expandAll" h="6DA5A467">Alle ausklappen</text>
+		<text id="cmd.report.expandAll.tip" h="B8DEF87E">Alle eingeklappten Elemente ausklappen</text>
+		<text id="cmd.report.fullreport" h="2B15B2F7">Kompletter Bericht</text>
+		<text id="cmd.report.fullreport.tip" h="B70410A1">Diese Einstellung sorgt für die Ausgabe des kompletten Berichts über die Ausführung des Werkzeugs</text>
+		<text id="cmd.report.openfolder" h="D3E03212">Übergeordneten Ordner öffnen</text>
+		<text id="cmd.report.openfolder.tip" h="897118C2">Öffnet den Ordner, der die Datei enthält</text>
+		<text id="cmd.report.options" h="9757D0D9">Einstellungen...</text>
+		<text id="cmd.report.options.tip" h="84CAFD98">Berichtseinstellungen anzeigen</text>
+		<text id="cmd.report.savetofile" h="ED4A08DE">Bericht speichern...</text>
+		<text id="cmd.report.savetofile.tip" h="5BF810D7">Bericht in eine Textdatei speichern</text>
+		<text id="cmd.resetSelAction" h="1008C3F9">Zurücksetzen</text>
+		<text id="cmd.resetSelAction.tip" h="9416B4A0">Die ausgewählte Aktion auf die Standardeinstellungen zurücksetzen</text>
+		<text id="cmd.resetSett" h="1E06BB70">Alle Einstellungen zurücksetzen</text>
+		<text id="cmd.resetSett.tip" h="F72C4CB6">Alle Anwendungseinstellungen auf die Standardwerte und die Werkzeuge auf den Standard zurücksetzen</text>
+		<text id="cmd.resetTool" h="0E4A9518">Werkzeug Zurücksetzen</text>
+		<text id="cmd.resetTool.tip" h="63100C06">Das Werkzeug auf seine Standardeinstellungen zurücksetzen</text>
+		<text id="cmd.resetseltools" h="11DC26AD">Ausgewählte Werkzeuge zurücksetzen</text>
+		<text id="cmd.resetseltools.tip" h="7FCF3BF7">Die ausgewählten Werkzeuge auf ihre Standardeinstellungen zurücksetzen</text>
+		<text id="cmd.save" h="01991541">Speichern</text>
+		<text id="cmd.save.tip" h="45AC7E5D">Änderungen speichern</text>
+		<text id="cmd.search" h="547E9E5A">Suchen...</text>
+		<text id="cmd.search.tip" h="FC8CBAA4">Suche</text>
+		<text id="cmd.setupFolderMonitor" h="EDC6E6EA">Ordnerüberwachung</text>
+		<text id="cmd.setupFolderMonitor.tip" h="43BBFC78">Überwachung von Ordnern einrichten</text>
+		<text id="cmd.showActionInfoPane" h="DDDF9129">Aktionsinformationen anzeigen</text>
+		<text id="cmd.showActionInfoPane.tip" h="B9D63B80">Aktionsinformationen anzeigen</text>
+		<text id="cmd.showActionLibrary" h="7B4DF4C3">Aktionsbibliothek anzeigen</text>
+		<text id="cmd.showActionLibrary.tip" h="7F2B551F">Aktionsbibliothek anzeigen</text>
+		<text id="cmd.showReport" h="F1E7E74F">Bericht</text>
+		<text id="cmd.showReport.tip" h="0310270C">Bericht anzeigen</text>
+		<text id="cmd.test" h="327F2A55">Test!</text>
+		<text id="cmd.test.tip" h="9E04AEAA">Test-Funktion!</text>
+		<text id="cmd.tool.clone" h="37E754F5">Klonen</text>
+		<text id="cmd.tool.clone.tip" h="D8321AF8">Das ausgewählte Werkzeug klonen</text>
+		<text id="cmd.tool.create" h="EDCA1553">Erstellen</text>
+		<text id="cmd.tool.create.tip" h="3D4C85B7">Ein neues Werkzeug erstellen</text>
+		<text id="cmd.tool.edit" h="009A7A41">Bearbeiten</text>
+		<text id="cmd.tool.edit.tip" h="426AAF33">Das ausgewählte Werkzeug bearbeiten</text>
+		<text id="cmd.tool.run" h="19264084">Starten</text>
+		<text id="cmd.tool.run.tip" h="BF1530FA">Das ausgewählte Werkzeug ausführen</text>
+		<text id="cmd.undo" h="86E67B4B">Rückgängig</text>
+		<text id="cmd.undo.tip" h="68378895">Letzte Aktion rückgängig machen</text>
+		<text id="cmd.viewFld" h="2FCBB32C">Anzeigen</text>
+		<text id="cmd.viewFld.tip" h="7426084C">Ausgewählte Ordnerüberwachung anzeigen</text>
+		<text id="cmdline.toolnotfound" h="E24BDF60">Das angeforderte Werkzeug wurde nicht gefunden.</text>
+		<text id="common" h="FF51CD90">Allgemein</text>
+		<text id="created" h="BC03BBEA">Erstellt</text>
+		<text id="custToolsGrName" h="22F07048">Eigene Werkzeuge</text>
+		<text id="custom" h="A918FF38">Benutzerdefiniert</text>
+		<text id="dclick.authorize" h="E62FEA98">Klicken Sie hier, um den Speicher zu öffnen</text>
+		<text id="delete.all.pages" h="E66ECE13">Das Löschen aller Seiten ist nicht erlaubt</text>
+		<text id="deleteComments.all" h="3DB14B53">Alle Anmerkungen</text>
+		<text id="deleteComments.link" h="D84C3990">Verweise</text>
+		<text id="deleteComments.markup" h="236E76D1">Markierungen</text>
+		<text id="deleteComments.widget" h="105429C0">Widget-Anmerkungen</text>
+		<text id="deleteInputFiles" h="66DB8878">Dateien nach erfolgreicher Verarbeitung löschen</text>
+		<text id="deletecat.warn" h="8A426B75">Sind Sie sich sicher, dass Sie die Kategorie &lt;b&gt;"%1"&lt;/b&gt; und alle enthaltenen Werkzeuge löschen wollen?
+ACHTUNG: Das Löschen kann nicht rückgängig gemacht werden.</text>
+		<text id="deletestoredpath.warn" h="B01DF4C4">Sind Sie sicher, dass Sie die gespeicherten Dateinamen löschen wollen?</text>
+		<text id="disable.ui.lbl" h="F51A0F89">Interaktion mit dem Benutzer:</text>
+		<text id="dlg.managefilters" h="BEEA26C3">Filter verwalten</text>
+		<text id="docauthor.l" h="7E318A91">Autor:</text>
+		<text id="doccreator.l" h="48BB2AC2">Ersteller:</text>
+		<text id="dockeywords.l" h="EE89DD49">Schlüsselwörter:</text>
+		<text id="docproducer.l" h="30A8E856">Erstellt mit:</text>
+		<text id="docsubject.l" h="A59102F6">Betreff:</text>
+		<text id="doctitle.l" h="930D3835">Titel:</text>
+		<text id="editDocList.containsPages" h="8F4BA4D9">Enthält %1 Seite(n)</text>
+		<text id="editDocList.document" h="13289938">Dokument</text>
+		<text id="editDocList.empty.hint" h="C46828D2">Keine Seiten</text>
+		<text id="editDocList.noPages" h="DD007EC4">Leer</text>
+		<text id="editDocList.repository.hint" h="0071AB8A">Sie können Seiten hierher ziehen, um sie zwischenzuspeichern.</text>
+		<text id="editDocList.title" h="BB7D1179">Dokumente aufteilen/verschmelzen</text>
+		<text id="editDocList.undefined" h="9FA2DA79">Nicht definiert</text>
+		<text id="editDocList.warning" h="F36DBC31">Die Dokumentenliste sollte nicht leer sein.
+Sie können versuchen Ihre letzte Aktion rückgängig zu machen, um die Liste wieder zu füllen.</text>
+		<text id="editDocList.warning.emptyname" h="D690297C">Der Name des Dokuments darf nicht leer sein</text>
+		<text id="editDocList.warning.invalidsymbols" h="40A214FA">Ungültiger Dokumentname</text>
+		<text id="editview.header.changeicon" h="E86B95CD">Ändern...</text>
+		<text id="editview.header.dialog.multiline" h="767057E1">Werkzeugbeschreibung bearbeiten</text>
+		<text id="empty.document" h="06A26641">Das Dokument "%1" ist leer und wird übersprungen.</text>
+		<text id="enter.pwd.descr" h="77485A4B">Beschreibung für das Kennwort (optional)...</text>
+		<text id="enterNewDocName" h="68FD05C5">Neuen Dokumentnamen eingeben:</text>
+		<text id="err.foldernotexists" h="4533B896">Der ausgewählte Ordner existiert nicht</text>
+		<text id="err.foldernotvalid" h="E422E783">Der ausgewählte Ordner kann nicht überwacht werden</text>
+		<text id="err.hotfolderbusy" h="40F505AA">Der Ordner, den Sie ausgewählt haben, wird bereits überwacht</text>
+		<text id="err.hotfolderempty" h="5734787D">Bitte wählen Sie einen Ordner, der überwacht werden soll</text>
+		<text id="err.movefolderempty" h="141492EF">Bitte wählen Sie einen Ordner, in den die Dateien verschoben werden sollen</text>
+		<text id="err.selecttool" h="89F6967E">Bitte wählen Sie das Werkzeug, das ausgeführt werden soll</text>
+		<text id="err.toolnotexists" h="12CFDA38">Das ausgewählte Werkzeug existiert nicht</text>
+		<text id="expsett.extension.desc" h="F00D3D31">PDF-Tools Einstellungen</text>
+		<text id="expsett.failed" h="D36046ED">Beim Exportieren der Einstellungen ist ein Fehler aufgetreten</text>
+		<text id="expsett.open.caption" h="92B281E9">Datei zum Import öffnen</text>
+		<text id="expsett.save.caption" h="C1A8C6FD">Exportdatei speichern</text>
+		<text id="exptools.extension.desc" h="DC98B451">PDF-Tools Austauschdatei</text>
+		<text id="exptools.failed" h="7A69DC15">Beim Exportieren der Werkzeuge ist ein Fehler aufgetreten</text>
+		<text id="exptools.open.caption" h="99F5ECED">Datei zum Importieren auswählen</text>
+		<text id="exptools.save.caption" h="C1A8C6FD">Exportdatei speichern</text>
+		<text id="extension" h="14FEB836">Erweiterung</text>
+		<text id="fileLocation" h="7BC24E5F">Dateispeicherort:</text>
+		<text id="fileNames" h="0F80A6A8">Dateien auswählen:</text>
+		<text id="fileNames.desc" h="7B4EDEA4">PDF-Tools Liste mit Quelldateien</text>
+		<text id="fileNames.open" h="8F1B7ED1">Öffne Liste mit Quelldateien</text>
+		<text id="fileprop.author" h="F6A8A4C0">Autor</text>
+		<text id="fileprop.bpc" h="02071BA4">Bits pro Kanal</text>
+		<text id="fileprop.bpp" h="EC790768">Bits pro Pixel</text>
+		<text id="fileprop.channels" h="D3AE76A2">Kanäle</text>
+		<text id="fileprop.creator" h="CF26EE59">Ersteller</text>
+		<text id="fileprop.dimension" h="96A76700">Maße</text>
+		<text id="fileprop.horDpi" h="576C5071">DPI (horizontal)</text>
+		<text id="fileprop.page" h="D70A809E">Seite</text>
+		<text id="fileprop.pageRotation" h="ECFC9C66">Drehen</text>
+		<text id="fileprop.pagesCount" h="AAE42CE5">Seitenzahl</text>
+		<text id="fileprop.pdfVer" h="4C06CDA5">PDF-Version</text>
+		<text id="fileprop.producer" h="C54CE945">Erstellt mit</text>
+		<text id="fileprop.subject" h="B6BCF595">Betreff</text>
+		<text id="fileprop.title" h="796DFAD3">Titel</text>
+		<text id="fileprop.verDpi" h="33423CE9">DPI (vertikal)</text>
+		<text id="filestopdf.setup" h="FB20B28D">Einstellungen</text>
+		<text id="finalizing" h="B702861F">%1 abschließen...</text>
+		<text id="fitoverlay" h="E2F09068">Überlagerung an neu erstelltes Dokument anpassen</text>
+		<text id="fld.disabled" h="AA5BC8D4">Aus</text>
+		<text id="fld.enabled" h="2532774E">Ein</text>
+		<text id="fldmon.lbl" h="DEBCEDAF">Name:</text>
+		<text id="folder.grp" h="9AE10AFA">Einstellungen für die zu verarbeitenden Dateien</text>
+		<text id="hotfld.opts.dlg.caption" h="D9DE9C84">Ordnerüberwachung einrichten</text>
+		<text id="impsett.alert" h="0B2EB063">Sind Sie sicher, dass Sie alle Programmeinstellungen importieren wollen?
+ACHTUNG: Das Importieren kann nicht rückgängig gemacht werden.</text>
+		<text id="impsett.failed" h="AA8A96CF">Beim Import der Einstellungen ist ein Fehler aufgetreten</text>
+		<text id="imptools.failed" h="DAD93596">Beim Import der Werkzeuge ist ein Fehler aufgetreten</text>
+		<text id="info" h="07FB97A4">Info</text>
+		<text id="inpfiles.lbl" h="28477E27">Einstellungen für Dateien:</text>
+		<text id="inserting.page" h="7985F658">Füge Seite %1 aus %2 ein</text>
+		<text id="keep.inputfiles" h="800C91A4">Dateien in Ordner belassen</text>
+		<text id="keepaspect" h="A90996CD">Seitenverhältnis beibehalten</text>
+		<text id="lb.availFF" h="6E3CAD3A">Wählen Sie Filter für Dateitypen, die für Sie in der Auswahlliste im Dialog verfügbar sein sollen:</text>
+		<text id="lb.presetFF" h="9C590515">Voreinstellung:</text>
+		<text id="lbl.ShowResult" h="C5236BCD">Am Ende das Ergebnis anzeigen</text>
+		<text id="lbl.actualview" h="D865F4B2">Bildansicht</text>
+		<text id="lbl.allowMult" h="3B9DFCE0">Auswahl mehrerer Dateien erlauben</text>
+		<text id="lbl.alwaysUseMultipage" h="6C82FB30">Immer mehrseitiges Format benutzen</text>
+		<text id="lbl.askDeleteTool" h="1541D739">Sind Sie sich sicher, dass Sie das Werkzeug &lt;b&gt;"%1"&lt;/b&gt; löschen wollen?
+ACHTUNG: Das Löschen kann nicht rückgängig gemacht werden.</text>
+		<text id="lbl.askDeleteTools" h="25C684AA">Sind Sie sicher, dass Sie &lt;b&gt;%1&lt;/b&gt; Werkzeuge löschen möchten?
+ACHTUNG: Das Löschen kann nicht rückgängig gemacht werden.</text>
+		<text id="lbl.askSaveChanges" h="4F19099B">Wollen Sie die Änderungen vor dem Beenden speichern?</text>
+		<text id="lbl.chooseAction" h="5EA681F4">Wählen Sie eine Aktion aus der Liste:</text>
+		<text id="lbl.choosefiles.dndhint" h="8CF7925F">Fügen Sie Dateien hinzu, indem Sie auf die Schaltfläche in der Symbolleiste klicken oder ziehen Sie sie in das Feld. Sie können sie in der gewünschten Reihenfolge anordnen.</text>
+		<text id="lbl.choosefiles.itemscount" h="2CFE0C7C">%1 Einträge</text>
+		<text id="lbl.choosefiles.selitemscount" h="402CD736">%1 Einträge • %2 Einträge ausgewählt • %3</text>
+		<text id="lbl.choosepages" h="668A500A">Seiten im Dokument auswählen:</text>
+		<text id="lbl.continue" h="A5F0062A">Fortsetzen</text>
+		<text id="lbl.dblclick2browse" h="DB3D14F9">Doppelklicken für Dateiauswahl</text>
+		<text id="lbl.editViewToolDesc" h="0F22DAFE">Beschreibung für das Werkzeug eingeben:</text>
+		<text id="lbl.editViewToolName" h="76F4AA91">Namen für das Werkzeug eingeben:</text>
+		<text id="lbl.editdocs.dndhint" h="2FAC7414">Sie können die Seiten mit der Maus zwischen Dokumenten verschieben und neu anordnen. Sie können außerdem neue Dokumente erstellen, indem Sie Seiten außerhalb von Dokumentelementen los lassen.</text>
+		<text id="lbl.editview.dndhint" h="42E43BBA">Sie können existierende Aktionen mit der Maus neu anordnen oder neue Aktionen aus der Liste rechts hinzufügen.</text>
+		<text id="lbl.editview.dndhint2" h="714B17C6">Ziehen Sie eine Aktion aus der Liste nach rechts und lassen Sie sie dort los.</text>
+		<text id="lbl.emptyCatList" h="488587B8">Die Liste der Kategorien ist leer</text>
+		<text id="lbl.emptyToolList" h="B2BFE203">Werkzeugliste ist leer.</text>
+		<text id="lbl.extractSizeLimit" h="0EA996F6">Bilder ausschließen, falls kleiner als:</text>
+		<text id="lbl.fileTypes" h="60ECC8E9">Dateitypen:</text>
+		<text id="lbl.filestopdf.converters" h="902CF9B3">Umwandler:</text>
+		<text id="lbl.folder" h="3F9ED2F9">Ordner:</text>
+		<text id="lbl.grouping" h="79C8A88E">Gruppieren</text>
+		<text id="lbl.keeptransparent" h="5070A5EB">Transparenzen behalten</text>
+		<text id="lbl.multipagetype" h="C5A5712F">Typ für mehrseitige Bilder auswählen:</text>
+		<text id="lbl.noActionFound" h="105B87AB">Ihrer Suchanfrage entspricht keine Aktion.</text>
+		<text id="lbl.noCategoryFound" h="CEC17229">Ihrer Suchanfrage entspricht keine Kategorie.</text>
+		<text id="lbl.noToolFound" h="181055BB">Kein Werkzeug für Ihre Suchanfrage gefunden.</text>
+		<text id="lbl.reverseOrder" h="9564C9FE">In umgekehrter Reihenfolge speichern</text>
+		<text id="lbl.run" h="19264084">Ausführen</text>
+		<text id="lbl.savemode" h="D16859B7">Einstellungen für das Speichern</text>
+		<text id="lbl.showextui" h="1E2770E2">Erweiterten Dialog für die Dateiauswahl anzeigen</text>
+		<text id="lbl.singlepagetype" h="A6AF6C93">Typ für einseitige Bilder auswählen:</text>
+		<text id="listmonitors.lbl" h="7A930E45">Liste überwachter Ordner:</text>
+		<text id="lnk.browsefolder" h="57F5ECCB">Ordner mit Quelldateien auswählen...</text>
+		<text id="lnk.createtitle" h="97F6DA95">Einstellungen für das Erstellen von Verweisen</text>
+		<text id="lnk.inputfiles" h="3B5E3105">Quelldateien auswählen...</text>
+		<text id="lnk.noinput" h="365E2B73">Jedes Mal nach Quelldateien fragen</text>
+		<text id="lnk.specifyinput" h="C331E1B9">Sie können Quelldateien/Ordner zu einem Verweis hinzufügen:</text>
+		<text id="loading" h="DC6A6C81">Laden...</text>
+		<text id="location" h="52D95020">Ort</text>
+		<text id="log.abort" h="6F8E5DCD">Abbrechen</text>
+		<text id="log.actiondone" h="E2806498">Aktion durchgeführt</text>
+		<text id="log.andmore" h="54982D71">Hier klicken um mehr anzuzeigen...</text>
+		<text id="log.andmore.tip" h="2D9BDCA0">Klicken Sie doppelt, um alle Elemente anzuzeigen...</text>
+		<text id="log.cancelled" h="E28236C9">Abgebrochen</text>
+		<text id="log.fail" h="A37F5F82">Fehlgeschlagen</text>
+		<text id="log.filecreated" h="E300872F">Datei erstellt</text>
+		<text id="log.filenotexist" h="E9442568">Datei existiert nicht</text>
+		<text id="log.fileprocstart" h="254322E4">Verarbeitung von Dateien wurde begonnen</text>
+		<text id="log.filestat.failed" h="D1F8052C">Nicht erfolgreich verarbeitete Dateien: %1 von %2</text>
+		<text id="log.filestat.succeded" h="5A913587">Erfolgreich verarbeitete Dateien: %1 von %2</text>
+		<text id="log.invalidarg" h="79E18E42">Ungültige Einstellungen</text>
+		<text id="log.nofilesinfolder" h="961510F8">Es wurden keine Dateien vom ausgewählten Typ gefunden. Prüfen Sie die ausgewählten Quelldateien.</text>
+		<text id="log.nopermissions" h="7508C445">Keine ausreichenden Berechtigungen</text>
+		<text id="log.ok" h="BAD1F1D5">Erfolgreich</text>
+		<text id="log.summary" h="8BE8ABA0">Zusammenfassung</text>
+		<text id="log.toolduration" h="8D5BD4C8">%1 wurden benötigt</text>
+		<text id="log.toolrunfinished" h="A50678CB">Ergebnis der Ausführung: %1</text>
+		<text id="log.toolstarted" h="4352D7A3">Werkzeug "%1" gestartet</text>
+		<text id="log.txtsummary" h="ABCB53D3">Werkzeug "%1" ausgeführt: %2 Fehler, %3 Dateien verarbeitet, %4 Dateien erstellt, %5 Warnungen</text>
+		<text id="log.txttoolduration" h="1DED609F">Dauer: %1</text>
+		<text id="log.unknown" h="8566CB94">Unbekannt</text>
+		<text id="log.wrongpass" h="473522EE">Falsches Kennwort</text>
+		<text id="modified" h="30325672">Geändert</text>
+		<text id="moduleName" h="9B0F448F">PDF-Tools</text>
+		<text id="mon.priority" h="73E40EE1">Priorität:</text>
+		<text id="monitor.name.tip" h="A0EB9543">Name der Ordnerüberwachung...</text>
+		<text id="monitor.subfold" h="7D8D9398">Unterordner überwachen</text>
+		<text id="moveInputFiles" h="61936C79">Dateien in Ordner verschieben:</text>
+		<text id="msgtype.debug" h="C3C4F565">Debug</text>
+		<text id="msgtype.error" h="51BFF51D">Fehler</text>
+		<text id="msgtype.info" h="07FB97A4">Info</text>
+		<text id="msgtype.unknown" h="E52D4ED4">Unbekannter Typ</text>
+		<text id="msgtype.verbose" h="6817BBB0">Ausführlich</text>
+		<text id="msgtype.warning" h="E7AD7A2B">Warnung</text>
+		<text id="name" h="D18643E3">Name</text>
+		<text id="no.pages.to.delete" h="7A9E4694">Keine Seiten zu löschen.</text>
+		<text id="nooverlay.file" h="4D9B1EA6">Es wurde keine Überlagerungsdatei ausgewählt</text>
+		<text id="ocr.processall" h="705E5831">Texterkennung</text>
+		<text id="ocr.textContinue" h="31439CA0">Keinen Text erkennen und Verarbeitung fortsetzen</text>
+		<text id="ocr.textSkip" h="92F274EB">Verarbeitung des Dokuments abbrechen</text>
+		<text id="ocropt.lbl" h="791CC215">Falls Dokument Text enthält:</text>
+		<text id="ovr.file" h="D8EE6FEB">Überlagerungsdatei:</text>
+		<text id="ovr.norepeat" h="E58FFCC1">Nicht wiederholen</text>
+		<text id="ovr.positions" h="E9C070C5">Positionen</text>
+		<text id="ovr.repeat" h="DB39711A">Einstellungen für Wiederholung:</text>
+		<text id="ovr.repeatall" h="FB4118C6">Kürzere Überlagerungsdatei wiederholen</text>
+		<text id="ovr.repeatlast" h="87F51B84">Letzte Seite von kürzerer Überlagerungsdatei wiederholen</text>
+		<text id="ovr.settings" h="2FF7690D">Einstellungen für Überlagerungsdatei</text>
+		<text id="page.props" h="F521B2C3">Seiteneigenschaften</text>
+		<text id="pagenumber" h="29EED2B3">Nummer</text>
+		<text id="pagesRange" h="30C24AC3">Seitenbereich</text>
+		<text id="pagesRange.All" h="83434A26">Alle</text>
+		<text id="pagesRange.Pages" h="23952CFD">Seiten:</text>
+		<text id="pagesSubset.all" h="599C6EE6">Alle Seiten aus dem angegebenen Bereich</text>
+		<text id="pagesSubset.even" h="E64675B8">Gerade Seiten aus dem Bereich</text>
+		<text id="pagesSubset.odd" h="87228BC5">Ungerade Seiten aus dem Bereich</text>
+		<text id="pagesrange.empty" h="630795CE">Der Seitenbereich darf nicht leer sein.</text>
+		<text id="pdf.properies" h="70EFADF5">PDF-Eigenschaften</text>
+		<text id="pdfahandle.keepPDFAunchanged" h="908B4A26">PDF/A-Dokument nicht verändern</text>
+		<text id="pdfahandle.reconvert" h="1AFD2B27">Dokument neu umwandeln</text>
+		<text id="pdfahandle.skipPDFA" h="9B11C61E">PDF/A-Dokument überspringen</text>
+		<text id="pdfastd.lbl" h="83380816">Falls das Dokument Informationen des PDF/A-Standards enthält:</text>
+		<text id="place.foreground" h="0669CDF0">Überlagerung in den Vordergrund setzen</text>
+		<text id="policy.msg" h="3AE36A58">Es wurde noch keine Sicherheitsrichtlinie erstellt.
+Wollen Sie jetzt eine erstellen?</text>
+		<text id="preview.ovrfile" h="5593AECC">Vorschau der Überlagerungsdatei</text>
+		<text id="printDoc.collate" h="EB01FB70">Sammeln</text>
+		<text id="printDoc.copies" h="A516AF46">Kopien:</text>
+		<text id="printDoc.deviceName" h="FEF6AD05">Name:</text>
+		<text id="printDoc.duplex" h="B915897E">Duplex:</text>
+		<text id="printDoc.paperSize" h="510A44DF">Größe:</text>
+		<text id="printDoc.status" h="922A166F">Status:</text>
+		<text id="priority.high" h="B7E10973">Hohe Priorität</text>
+		<text id="priority.low" h="15FDBBEA">Niedrige Priorität</text>
+		<text id="priority.medium" h="5A523B97">Mittlere Priorität</text>
+		<text id="prn.status.serverOffline" h="9F1449AB">Server nicht erreichbar</text>
+		<text id="prn.status.unknown" h="8566CB94">Unbekannt</text>
+		<text id="progr.launching" h="5520AF34">Starte Überwachung...</text>
+		<text id="progress.pause" h="6045D570">Pause</text>
+		<text id="prompt.clearpwd" h="AB0C3147">Wollen Sie den Kennwortspeicher leeren?</text>
+		<text id="prompt.removemonitor" h="DF4CD355">Wollen Sie die ausgewählte Überwachung entfernen?</text>
+		<text id="prompt.removepwd" h="F4C34781">Wollen Sie den ausgewählten Eintrag aus dem Kennwortspeicher entfernen?</text>
+		<text id="props" h="F6FFF0BE">Eigenschaften</text>
+		<text id="pwd.defaultDescr" h="EBF5010F">Mein voreingestelltes Kennwort</text>
+		<text id="pwd.descr.date" h="F8CC5563">Hinzugefügt: %1</text>
+		<text id="pwd.descr.dflt" h="5C50975F">Keine Beschreibung</text>
+		<text id="pwd.enter.new" h="D9992E89">Kennwort, das gespeichert werden soll, eingeben:</text>
+		<text id="pwd.enter.newdescr" h="9D40879A">Neue Beschreibung:</text>
+		<text id="pwdadd" h="AED8BB4C">Hinzufügen...</text>
+		<text id="pwdclear" h="CB9CE353">Leeren</text>
+		<text id="pwdedit" h="621534A3">Bearbeiten...</text>
+		<text id="pwdgrp" h="202AB42A">Kennwortspeicher</text>
+		<text id="pwdlbl" h="5F4039B9">Liste von Kennwörtern, die automatisch bei der Verarbeitung verwendet werden:</text>
+		<text id="pwdprefs.name" h="D2C0C056">Kennwörter</text>
+		<text id="pwdprefs.tip" h="7434F5A2">Kennwortspeicher</text>
+		<text id="pwdprefs.title" h="7434F5A2">Kennwortspeicher</text>
+		<text id="pwdremove" h="FCE39C1F">Entfernen</text>
+		<text id="report" h="E9D63CB7">Bericht</text>
+		<text id="report.cuetext" h="5A5BCB07">Es gibt keine Meldungen für einen Bericht</text>
+		<text id="report.defaultDesc" h="882ACAE5">In der Leiste werden Meldungen über Aktionen von Werkzeugen angezeigt</text>
+		<text id="report.fld.lbl" h="3F89B943">Ordner wählen:</text>
+		<text id="report.framed.dlg" h="E9D63CB7">Bericht</text>
+		<text id="report.name.lbl" h="553DE74A">Berichtsname:</text>
+		<text id="report.opt" h="2D42B915">Berichtseinstellungen</text>
+		<text id="report.options.autoclear" h="F9D9404E">Berichtleiste vor dem Start eines Werkzeugs automatisch leeren</text>
+		<text id="report.options.forcevisible" h="C79B47D7">Berichtleiste bei allen Meldungen einblenden (sonst nur für Fehler)</text>
+		<text id="report.options.header" h="7254B91C">Einstellungen für den Bericht</text>
+		<text id="report.options.main" h="31B3DC7C">Berichtleiste konfigurieren:</text>
+		<text id="report.options.reset" h="B02C5E5A">Zurücksetzen</text>
+		<text id="report.options.severity" h="B9C34921">Wählen Sie die Meldungen, die im Bericht angezeigt werden:</text>
+		<text id="report.options.severity.document" h="5CD972FF">Meldungen über Aktionen mit PDF-Dokumenten</text>
+		<text id="report.options.severity.fileOperations" h="CAB821C9">Meldungen über Dateiaktionen (öffnen, erstellen, ändern, usw.)</text>
+		<text id="report.options.severity.info" h="A8EA107E">Informationen</text>
+		<text id="report.options.severity.summary" h="692A1A26">Zusammenfassung des Ergebnis</text>
+		<text id="report.options.severity.title" h="B282840A">Meldungen</text>
+		<text id="report.options.severity.warning" h="13217901">Warnungen (Ereignisse, die Auswirkungen auf die Ausführung des Werkzeugs haben)</text>
+		<text id="report.options.showtimestamp" h="2A6DB7B2">Zeitstempel zu Meldungen in Berichten hinzufügen</text>
+		<text id="reprocess.files" h="72A687D7">Dateien beim Start erneut verarbeiten</text>
+		<text id="resetActionTip" h="D7E3E700">Einstellungen der Aktion auf Standardwerte zurücksetzen.</text>
+		<text id="resetact.warn" h="E5B97341">Wollen Sie die Einstellungen für die Aktion auf die Standardwerte zurücksetzen?
+ACHTUNG: Diese Aktion kann nicht rückgängig gemacht werden.</text>
+		<text id="resetprops.btn" h="1008C3F9">Zurücksetzen</text>
+		<text id="resetprops.btntip" h="33DDB5A0">Klicken, um den Ursprungszustand wiederherzustellen</text>
+		<text id="resetseltools.warn" h="26BF4D94">Wollen Sie die Einstellungen der Werkzeuge auf die Standardwerte zurücksetzen?
+ACHTUNG: Diese Aktion kann nicht rückgängig gemacht werden.</text>
+		<text id="ressett.alert" h="9B2F79C2">Sind Sie sicher, dass Sie alle Programmeinstellungen und Werkzeuge auf die Standardwerte zurücksetzen wollen?
+ACHTUNG: Das Zurücksetzen kann nicht rückgängig gemacht werden.</text>
+		<text id="ressett.toolsalert" h="8CCEF1F1">Das Zurücksetzen aller Einstellungen wird auch alle eigenen Werkzeuge entfernen. Klicken Sie auf "Ja", wenn Sie mit der Aktion fortfahren wollen.
+ACHTUNG: Das Zurücksetzen kann nicht rückgängig gemacht werden.</text>
+		<text id="resume" h="B0874E65">Fortsetzen</text>
+		<text id="sameimg.autobpp" h="A216C11C">Farbtiefe automatisch wählen</text>
+		<text id="sameimg.autobpp.info" h="9E850B3C">Falls die Einstellung ausgewählt ist, wird die Farbtiefe des Bilds automatisch gewählt. Die Einstellung des Bildformats wird ignoriert.</text>
+		<text id="saveas.ask" h="9DF35209">Nach Aktion fragen</text>
+		<text id="saveas.auto" h="C820D6B5">Unter neuem Namen speichern</text>
+		<text id="saveas.folder.ask" h="5DC29DB4">Immer nach Dateiort fragen</text>
+		<text id="saveas.folder.cust" h="C9BD54EB">Den angegebenen Ordner benutzen</text>
+		<text id="saveas.folder.src" h="5E2E8FE3">Quellordner als Ziel benutzen</text>
+		<text id="saveas.overwrite" h="68C4F37C">Mit neuer Datei überschreiben</text>
+		<text id="saveas.skip" h="CE81D302">Existierende Datei nicht verändern</text>
+		<text id="saveas.text" h="7D366800">Falls Datei bereits existiert:</text>
+		<text id="saveimg.default.folder" h="DCD2AF9C">Dokumentordner</text>
+		<text id="saveimg.default.name" h="5A425CCC">Nicht benannt</text>
+		<text id="saveimg.grouping.apart" h="8E717B39">Jedes Bild in eine neue Datei</text>
+		<text id="saveimg.grouping.groupall" h="9E5BA5E4">Alle Bilder in eine mehrseitige Bilddatei</text>
+		<text id="saveimg.grouping.groupdoc" h="E86A1581">Alle Bilder aus einem Dokument in eine mehrseitige Bilddatei</text>
+		<text id="saveimg.grouping.grouppage" h="FDF715C4">Alle Bilder von einer Seite in eine mehrseitige Bilddatei</text>
+		<text id="savereport.to" h="861DD843">Bericht speichern</text>
+		<text id="searchActionTip" h="3591BAD8">Aktion suchen...</text>
+		<text id="searchToolTip" h="435392D9">Werkzeug suchen...</text>
+		<text id="secinfo.grp" h="F5A61224">Sicherheitsinformation</text>
+		<text id="secsetting.init.warn" h="61B936AD">Die Aktion &lt;b&gt;"%1"&lt;/b&gt; muss vor der Benutzung initialisiert werden.
+Wollen Sie die Ausführung fortsetzen und die Aktion initialisieren?</text>
+		<text id="secsettings.btn" h="9147CD71">Einstellungen</text>
+		<text id="selPages.all" h="7D499596">Alle Seiten</text>
+		<text id="selPages.dlg" h="4B381B82">Seiten auswählen</text>
+		<text id="selPages.even" h="CDE5C1A0">Gerade Seiten</text>
+		<text id="selPages.exact" h="23952CFD">Seiten:</text>
+		<text id="selPages.fromsubset" h="3ADEE045">aus Teilmenge "%1"</text>
+		<text id="selPages.odd" h="242E0666">Ungerade Seiten</text>
+		<text id="select.ovrfile" h="74E5784A">Überlagerungsdatei auswählen</text>
+		<text id="selectDestFolder" h="D0F102DD">Zielordner auswählen</text>
+		<text id="selectHotfolder.lbl" h="3A4859F6">Ordner:</text>
+		<text id="sendmail.archive.defaultname" h="F758C4E9">Unbenannt</text>
+		<text id="sendmail.by" h="8EF165F7">Von:</text>
+		<text id="sendmail.chk.intoone" h="BE171523">Alle Dateien in einer E-Mail versenden</text>
+		<text id="sendmail.chk.priority" h="846616F7">E-Mail als "Wichtig" markieren</text>
+		<text id="sendmail.client" h="E8D90FF3">E-Mail-Programm</text>
+		<text id="sendmail.compress.alltoone" h="C303528D">Alle Dateien in ein Archiv</text>
+		<text id="sendmail.compress.eachfile" h="B972BFCC">Jede Datei in ein eigenes Archiv</text>
+		<text id="sendmail.compress.none" h="F9398D7D">Keine</text>
+		<text id="sendmail.edt.cue" h="A179CC6C">Nachricht eingeben...</text>
+		<text id="sendmail.from" h="976952DD">Von:</text>
+		<text id="sendmail.lbl.arcname" h="A630D28B">Archivname:</text>
+		<text id="sendmail.lbl.compress" h="BC1093D8">Komprimieren:</text>
+		<text id="sendmail.log.cantcreatearchive" h="B40CACC8">Archiv zum Versenden konnte nicht erstellt werden</text>
+		<text id="sendmail.log.nofiles" h="4C7A563E">Keine Dateien zum Senden</text>
+		<text id="serializing" h="92752B4F">Serialisiere %1...</text>
+		<text id="setup.grp" h="95DF47CE">Einstellungen für die Überwachung</text>
+		<text id="setuphotfolder.dlg.caption" h="EDC6E6EA">Überwachte Ordner</text>
+		<text id="showFiles.enabled" h="2532774E">Aktiv</text>
+		<text id="showFiles.launchAssocApp" h="FE936D7D">Dateien mit dem verknüpften Programm öffnen</text>
+		<text id="showFiles.launchAssocAppWarn" h="97CF77EB">Die Anzahl von Dateien, die angezeigt werden sollen, ist größer als eins.
+Das gleichzeitige Anzeigen von allen, könnte zu viele Ressourcen Ihres Computers beanspruchen.
+
+Sind Sie sicher, dass Sie alle anzeigen wollen?</text>
+		<text id="showFiles.openFolderAndSel" h="A95A4BE0">Beinhaltenden Ordner öffnen und Dateien auswählen</text>
+		<text id="showFiles.text" h="26A38ADF">Aktion wählen:</text>
+		<text id="showMoreOpts" h="24B13299">Alle  Einstellungen...</text>
+		<text id="showMoreOpts2" h="64C40213">Mehr Einstellungen...</text>
+		<text id="showMoreOptsTip" h="C60CDB73">Klicken, um alle Einstellungen anzuzeigen...</text>
+		<text id="showMoreOptsTip2" h="145A1CAD">Klicken, um die erweiterten Einstellungen anzuzeigen...</text>
+		<text id="showSetupUI" h="0E94449E">Einstellungsdialog beim Ausführen anzeigen</text>
+		<text id="showSetupUITip" h="0E94449E">Einstellungsdialog beim Ausführen anzeigen</text>
+		<text id="size" h="17A58A52">Größe</text>
+		<text id="sizelimit.nolimit" h="8E135818">Keine Beschränkung</text>
+		<text id="skipaction.b" h="A37FB4B0">Aktion abbrechen</text>
+		<text id="skipdocsWithText" h="2683C8E5">Keinen Text erkennen, wenn das Dokument schon Text enthält</text>
+		<text id="skipped" h="B7D8BB1E">Abgebrochen</text>
+		<text id="smmanual.chk" h="563576E6">Manuelles Aufteilen/Verschmelzen</text>
+		<text id="smmethod" h="C894DD7E">Methode</text>
+		<text id="smmethod.all2one" h="B3E7239B">Alle Seiten in ein Dokument</text>
+		<text id="smmethod.asis" h="4C3BC0E6">Quelldokument(e) nicht verändern</text>
+		<text id="smmethod.bookmarks" h="44B3EE11">Nach Lesezeichen aufteilen</text>
+		<text id="smmethod.npages" h="2D67CBA9">Dokument alle N Seiten unterteilen</text>
+		<text id="smreverse.chk" h="B766066F">Seitenreihenfolge umkehren</text>
+		<text id="sourcepage" h="5D6277DD">Quellseite</text>
+		<text id="sourcetitle" h="81E00BC2">Quelltitel</text>
+		<text id="specific" h="67D7437D">Speziell</text>
+		<text id="status" h="9FB9C788">Status</text>
+		<text id="stdAll" h="C80F4913">Alle Standards</text>
+		<text id="stdToolsGrName" h="1906BB71">Standardwerkzeuge</text>
+		<text id="stop" h="F89FDAAE">Anhalten</text>
+		<text id="targettitle" h="F87B6FA7">Zieltitel</text>
+		<text id="timefmt.day" h="EF28C7D2">%1 Tag</text>
+		<text id="timefmt.days" h="F3C5276C">%1 Tage</text>
+		<text id="timefmt.days.short" h="E1985A1D">%1d</text>
+		<text id="timefmt.hour" h="CDADDDAA">%1 Stunde</text>
+		<text id="timefmt.hours" h="E9410F6D">%1 Stunden</text>
+		<text id="timefmt.hours.short" h="4D2D1511">%1h</text>
+		<text id="timefmt.minute" h="2D014E0C">%1 Minute</text>
+		<text id="timefmt.minutes" h="781A3650">%1 Minuten</text>
+		<text id="timefmt.minutes.short" h="305AE154">%1m</text>
+		<text id="timefmt.second" h="CDE322F6">%1 Sekunde</text>
+		<text id="timefmt.seconds" h="D24DF2F6">%1 Sekunden</text>
+		<text id="timefmt.seconds.short" h="E41BDE8B">%1s</text>
+		<text id="title.choosepages" h="4B381B82">Seiten auswählen</text>
+		<text id="tool" h="7D3C7CB2">Werkzeug</text>
+		<text id="tool.addBatesNumbering" h="5987A707">Paginierung hinzufügen</text>
+		<text id="tool.addBatesNumbering.desc" h="19058FA5">Ermöglicht eine Paginierung für die Indizierung amtlicher Dokumente zur einfachen Identifikation und zum Wiederfinden, usw.</text>
+		<text id="tool.addDigSign" h="97DD789F">Digitale Signatur hinzufügen</text>
+		<text id="tool.addDigSign.desc" h="84946427">Fügt ein neues Signaturfeld zu PDFs hinzu und signiert sie mit einer zertifikatsbasierten digitalen ID.</text>
+		<text id="tool.addHeaderAndFooter" h="71EBAC62">Kopf- und Fußzeilen hinzufügen</text>
+		<text id="tool.addHeaderAndFooter.desc" h="36AA73F6">Fügt Kopf- und/oder Fußzeilen auf Seiten hinzu, die ein Datum, automatische Seitenzahlen, Titel, Autor, usw. enthalten können.</text>
+		<text id="tool.addPagesBackground" h="20D4DB07">Seitenhintergrund festlegen</text>
+		<text id="tool.addPagesBackground.desc" h="C639A1B2">Setzt einen einfarbigen oder graphischen Hintergrund hinter den existierenden Seiteninhalt.</text>
+		<text id="tool.addTimeStamp" h="837FE6FB">PDFs mit Zeitstempel versehen</text>
+		<text id="tool.addTimeStamp.desc" h="4D80E50C">Fügt einen Zeitstempel von einem authorisierten Server hinzu, der die Inhalte des kompletten PDFs zum diesem Zeitpunkt bestätigt.</text>
+		<text id="tool.addWatermarks" h="F5662DD3">Wasserzeichen hinzufügen</text>
+		<text id="tool.addWatermarks.desc" h="434D9E42">Fügt Text oder ein Bild vor oder hinter dem existierenden Seiteninhalt hinzu.</text>
+		<text id="tool.bookmarksBuildTOC" h="2B3E9BF1">Inhaltsverzeichnis erstellen</text>
+		<text id="tool.bookmarksBuildTOC.desc" h="1D694D80">Erstellt ein Inhaltsverzeichnis auf Basis der vorhandenen Lesezeichenstruktur des Dokuments und der Seiten auf die sie verweisen.</text>
+		<text id="tool.bookmarksExport" h="F3EE1781">Lesezeichen exportieren</text>
+		<text id="tool.bookmarksExport.desc" h="BB39B78E">Exportiert alle Lesezeichen aus dem Dokument</text>
+		<text id="tool.bookmarksExportToText" h="01135DA3">Lesezeichen in Textdatei exportieren</text>
+		<text id="tool.bookmarksExportToText.desc" h="F351FF49">Speichert die Lesezeichenstruktur des PDF-Dokuments in eine Textdatei</text>
+		<text id="tool.bookmarksFromText" h="383A949B">Lesezeichen aus Seitentext erstellen </text>
+		<text id="tool.bookmarksFromText.desc" h="1EF3AF08">Erstellt Lesezeichen aus dem Text im Dokument anhand von vorgegebenem Schriftstil und weiteren Parametern.</text>
+		<text id="tool.bookmarksFromTextFile" h="CA5176DD">Lesezeichen aus einer Textdatei importieren</text>
+		<text id="tool.bookmarksFromTextFile.desc" h="792D900F">Erstellt Lesezeichen im PDF-Dokument aus einer Textdatei.</text>
+		<text id="tool.bookmarksImport" h="DC7F6AD5">Lesezeichen importieren</text>
+		<text id="tool.bookmarksImport.desc" h="40AC7812">Importiert Lesezeichen in ein Dokument, die zuvor in eine Datei exportiert wurden.</text>
+		<text id="tool.certifyPDF" h="52B0ED47">PDFs zertifizieren</text>
+		<text id="tool.certifyPDF.desc" h="828838CF">Sichert ein PDF-Dokument mit dem Ausfüllen eines speziellen Typs von Signaturfeld, dies ist eine zertifizierte Signatur.</text>
+		<text id="tool.changeProps" h="89CBAD2F">Dokumenteigenschaften ändern</text>
+		<text id="tool.changeProps.desc" h="40BD1FE7">Ändert die Dokumenteigenschaften: Titel, Autor, Betreff, Schlüsselwörter, usw.</text>
+		<text id="tool.clearDigSign" h="361BBD36">Entfernt alle digitalen Signaturen</text>
+		<text id="tool.clearDigSign.desc" h="E1CDD425">Entfernt alle digitale Signaturen, falls möglich bleiben leere Signaturfelder erhalten.</text>
+		<text id="tool.convertToPDFA" h="86709E15">In PDF/A umwandeln</text>
+		<text id="tool.convertToPDFA.desc" h="7DDE1660">Bringt Dokumente in den PDF/A-Standard für Langzeitarchivierung.</text>
+		<text id="tool.convertToPDFX" h="1D70370D">In PDF/X umwandeln</text>
+		<text id="tool.convertToPDFX.desc" h="CB599882">Bringt Dokumente in den PDF/X-Standard für den Austausch von Druckdaten.</text>
+		<text id="tool.copied" h="348DE55D">Kopieren</text>
+		<text id="tool.createWeblinks" h="F68EDD51">Weblinks erstellen</text>
+		<text id="tool.createWeblinks.desc" h="6971A17D">Weblinks aus Text im Dokument erstellen</text>
+		<text id="tool.cropPages" h="54A95B63">Seiten zuschneiden</text>
+		<text id="tool.cropPages.desc" h="A9A477BE">Passt den sichtbaren Seitenbereich an, ändert oder entfernt weiße Ränder auf Seiten, setzt Seitenbereiche.</text>
+		<text id="tool.deleteComments.all" h="E8642222">Alle Anmerkungen löschen</text>
+		<text id="tool.deleteComments.all.desc" h="818B531A">Löscht alle Anmerkungen aus dem Dokument</text>
+		<text id="tool.deleteComments.form" h="37ECB4B5">Formularfelder löschen</text>
+		<text id="tool.deleteComments.form.desc" h="C5D21570">Löscht Formularfelder aus dem Dokument</text>
+		<text id="tool.deleteComments.links" h="CC8F1411">Verweise löschen</text>
+		<text id="tool.deleteComments.links.desc" h="66D48AF5">Verweise aus Dokument entfernen</text>
+		<text id="tool.deleteComments.markup" h="EA5127FB">Markierungen löschen</text>
+		<text id="tool.deleteComments.markup.desc" h="80CD5AA0">Löscht Markierungen aus dem Dokument</text>
+		<text id="tool.deleteComments.weblinks" h="87C8439E">Weblinks löschen</text>
+		<text id="tool.deleteComments.weblinks.desc" h="158E179F">Löscht Weblinks aus dem Dokument</text>
+		<text id="tool.deletePages" h="E5284839">Seiten löschen</text>
+		<text id="tool.deletePages.desc" h="4E1EBD43">Löscht Seiten aus dem Dokument.</text>
+		<text id="tool.descTip" h="04F6C0B5">Beschreibung eingeben...</text>
+		<text id="tool.discardPDFStd" h="E608B980">Speziellen PDF-Standard entfernen</text>
+		<text id="tool.discardPDFStd.desc" h="947EF232">Entfernt spezielle Informationen zu PDF-Standardkonformität wie PDF/X, PDF/A, PDF/E usw. aus dem Dokument.</text>
+		<text id="tool.duplicatePages" h="14C45200">Seiten duplizieren</text>
+		<text id="tool.duplicatePages.desc" h="0FD26A6C">Seiten des PDF-Dokuments duplizieren.</text>
+		<text id="tool.enhanceScannedPages" h="0A810C6E">Eingescannte Seiten optimieren</text>
+		<text id="tool.enhanceScannedPages.desc" h="95589020">Optimiert eingescannte Bilder in PDF-Dokumenten um die Lesbarkeit zu erhöhen und die Dateigröße zu reduzieren.</text>
+		<text id="tool.extractImagesFromPDF" h="4CF9FEB6">Bilder aus PDF extrahieren</text>
+		<text id="tool.extractImagesFromPDF.desc" h="C53280A8">Durchsucht PDF(s) nach Rasterbildern im Inhalt und extrahiert Sie in Dateien.</text>
+		<text id="tool.extractPages" h="7AE73EC1">Seiten extrahieren</text>
+		<text id="tool.extractPages.desc" h="54BB795B">Bestimmte Seiten aus einem PDF-Dokument in ein neues Dokument extrahieren.</text>
+		<text id="tool.filesToPDF" h="4CD7DD2F">Dateien in PDFs umwandeln</text>
+		<text id="tool.filesToPDF.desc" h="603206C4">Wandelt Quelldateien mit unterstützten Formaten in PDF um.</text>
+		<text id="tool.flattenComments" h="CBA1AA18">Anmerkungen einbetten</text>
+		<text id="tool.flattenComments.desc" h="20A41E96">Anmerkungen in normalen Inhalt umwandeln</text>
+		<text id="tool.imagesToPDF" h="B0C7E05C">PDF aus Bildern erstellen</text>
+		<text id="tool.imagesToPDF.desc" h="0FDB3BE0">Erstellt ein einzelnes PDF-Dokument aus einem oder mehreren Rasterbildern.</text>
+		<text id="tool.insertEmptyPages" h="3779032F">Leere Seiten einfügen</text>
+		<text id="tool.insertEmptyPages.desc" h="65380D33">Leere Seiten in ein Dokument einfügen</text>
+		<text id="tool.insertPages" h="6B486B45">Seiten einfügen</text>
+		<text id="tool.insertPages.desc" h="E986FB1C">Seiten aus dem ausgewählten Dokument in das Dokument einfügen.</text>
+		<text id="tool.isused" h="F0A66FDB">Das Werkzeug &lt;b&gt;"%1"&lt;/b&gt; kann nicht gelöscht werden.
+Es wird in für einen überwachten Ordner verwendet.</text>
+		<text id="tool.nameTip" h="92682EAF">Namen eingeben...</text>
+		<text id="tool.new.name" h="6431F60C">Neues Werkzeug</text>
+		<text id="tool.ocrPages" h="D2A189BC">Texterkennung</text>
+		<text id="tool.ocrPages.desc" h="E9D91493">Erkennt Zeichen in PDF-Dokumenten und erzeugt eine Ebene mit auswählbarem und durchsuchbarem Text auf den Seiten.</text>
+		<text id="tool.optimizePDF" h="E369C144">PDF optimieren</text>
+		<text id="tool.optimizePDF.desc" h="2DDF7F6C">Optimiert den Dokumenteninhalt, um die Dateigröße des PDFs zu verringern, falls dies möglich ist.</text>
+		<text id="tool.overlayDoc" h="A113E021">Überlagerungs-PDF</text>
+		<text id="tool.overlayDoc.desc" h="8AC5B664">Überlagert PDF-Dokumente mit einem anderen PDF-Dokument.</text>
+		<text id="tool.pageTransitions" h="B5EF0B7A">Seitenübergänge einrichten</text>
+		<text id="tool.pageTransitions.desc" h="33F5B755">Ändert spezielle Effekte für Seitenübergänge im Vollbildmodus</text>
+		<text id="tool.pdfToDOCX" h="D89F515F">PDF in Microsoft Word-Dokument exportieren</text>
+		<text id="tool.pdfToDOCX.desc" h="D34FB81F">Exportiert PDF-Dokumente in Microsoft Word-Dokumente (*.docx)</text>
+		<text id="tool.pdfToImages" h="6DC3C315">PDF in Bilder exportieren</text>
+		<text id="tool.pdfToImages.desc" h="87E8923B">Exportiert Seiten von einem oder mehreren PDFs in verschiedende Rasterbildformate, wie JPEG, PNG, TIFF, usw.</text>
+		<text id="tool.pdfToPPTX" h="E673A7B8">PDF in Microsoft PowerPoint-Präsentation exportieren</text>
+		<text id="tool.pdfToPPTX.desc" h="65E608C6">Exportiert PDF-Dokumente in Microsoft PowerPoint-Präsentationen (*.pptx)</text>
+		<text id="tool.pdfToTXT" h="29DDD177">PDF in Textdatei exportieren</text>
+		<text id="tool.pdfToTXT.desc" h="9C277C15">Exportiert PDF-Dokumente in einfache Textdateien (*.txt)</text>
+		<text id="tool.pdfToXSLX" h="A31C131A">PDF in Microsoft Excel-Tabelle exportieren</text>
+		<text id="tool.pdfToXSLX.desc" h="325AEA86">Exportiert PDF-Dokumente in Microsoft Excel-Tabellen (*.xlsx)</text>
+		<text id="tool.printDocument" h="4F3750AE">Dokument drucken</text>
+		<text id="tool.printDocument.desc" h="52ECFAA3">Alle Quelldokumente drucken.</text>
+		<text id="tool.removeBackground" h="E0246483">Entfernt Seitenhintergründe</text>
+		<text id="tool.removeBackground.desc" h="17700648">Entfernt eigene Seitenhintergründe, setzt einen einfarbigen weißen Hintergrund.</text>
+		<text id="tool.removeBatesNumbering" h="901F5ABD">Paginierung entfernen</text>
+		<text id="tool.removeBatesNumbering.desc" h="E4FBEB3C">Entfernt die Paginierung</text>
+		<text id="tool.removeHeaderAndFooter" h="11E8A996">Kopf- und Fußzeilen entfernen</text>
+		<text id="tool.removeHeaderAndFooter.desc" h="E1CC0743">Entfernt alle Kopf- und Fußzeilen</text>
+		<text id="tool.removeWatermarks" h="93F16CE2">Wasserzeichen entfernen</text>
+		<text id="tool.removeWatermarks.desc" h="AFCD3BD4">Entfernt alle Wasserzeichen aus dem Dokument</text>
+		<text id="tool.replacePages" h="1311083C">Seiten ersetzen</text>
+		<text id="tool.replacePages.desc" h="9C48D712">Ersetzt Seiten im Dokument durch Seiten aus einem anderen Dokument.</text>
+		<text id="tool.report.dlg" h="E9D63CB7">Bericht</text>
+		<text id="tool.report.filename" h="C7908B93">Bericht</text>
+		<text id="tool.report.save" h="418B87C2">In Datei speichern...</text>
+		<text id="tool.resizePages" h="8A5C31F1">Seitengröße ändern</text>
+		<text id="tool.resizePages.desc" h="822401DC">Vergrößert oder verkleinert die Seitengröße, der Seiteninhalt kann optional skaliert werden.</text>
+		<text id="tool.rotatePages" h="CBD82045">Seiten drehen</text>
+		<text id="tool.rotatePages.desc" h="66235E38">Dreht Seiten des PDF-Dokuments im oder gegen den Uhrzeigersinn um 90°.</text>
+		<text id="tool.scanToPDF" h="B9A05395">Als PDF scannen</text>
+		<text id="tool.scanToPDF.desc" h="521CD5C0">Erstellt ein neues PDF-Dokument aus einem eingescannten Papierdokument.</text>
+		<text id="tool.securePDF" h="400E69FB">PDF absichern</text>
+		<text id="tool.securePDF.desc" h="322DE365">Schützt Ihr PDF-Dokument durch ein Kennwort, das zum Öffnen oder Ändern des Inhalts benötigt wird.</text>
+		<text id="tool.sendMail" h="9377A75B">E-Mail senden</text>
+		<text id="tool.sendMail.desc" h="13681586">Sendet Dateien mit der aktuellen Methode zum Versenden von Mails an eine E-Mail-Adresse.</text>
+		<text id="tool.splitMergePDF" h="51A86996">PDFs aufteilen/verschmelzen</text>
+		<text id="tool.splitMergePDF.desc" h="73710D3B">Kombiniert alle Quell-PDFs automatisch und/oder manuell in eines oder teilt sie in neue PDFs.</text>
+		<text id="tool.splitPages" h="2648812F">Seiten teilen</text>
+		<text id="tool.splitPages.desc" h="4FA35C77">Seiten des PDF-Dokuments aufteilen</text>
+		<text id="tool.summarizeComments" h="2233C1CD">Anmerkungen zusammenfassen</text>
+		<text id="tool.summarizeComments.desc" h="8EA1DEF5">Eine Zusammenfassung aller Anmerkungen des PDF-Dokuments erstellen</text>
+		<text id="tool.textToPDF" h="ECE46B63">PDF aus Text erstellen</text>
+		<text id="tool.textToPDF.desc" h="E1CF697C">Erstellt ein einzelnes PDF-Dokument aus einer oder mehreren Textdateien.</text>
+		<text id="tool.warn.actIncompatible" h="AE17E68E">diese Aktion kann nicht mit der Aktion &lt;u&gt;%1&lt;/u&gt; kombiniert werden. Eine der Aktionen muss entfernt werden</text>
+		<text id="tool.warn.actInvalid1" h="8442B509">Ein oder mehrere Probleme wurden bei dieser Aktion gefunden:</text>
+		<text id="tool.warn.actInvalid2" h="442E6045">Ein Problem bei dieser Aktion wurde gefunden:</text>
+		<text id="tool.warn.actReqDoc" h="76C84E2B">diese Aktion benötigt PDFs, Bilder oder andere unterstützte Dateitypen als Quelle</text>
+		<text id="tool.warn.actReqFile1" h="0B30D02F">diese Aktion benötigt Dateien als Quelle - Sie können die Aktion &lt;u&gt;%1&lt;/u&gt; davor einfügen, um das Problem zu lösen</text>
+		<text id="tool.warn.actReqFile2" h="CA8342FE">diese Aktion benötigt Dateien als Quelle</text>
+		<text id="tool.warn.actReqFile21" h="65B62BA0">es scheint, Sie haben vergessen die Aktion &lt;u&gt;%1&lt;/u&gt; vor dieser einzufügen.</text>
+		<text id="tool.warn.actReqImg" h="D28A3C63">diese Aktion benötigt Bilder als Quelle</text>
+		<text id="tool.warn.actReqSaveRes" h="3621DC81">es ist nötig das Ergebnis dieser Aktion zu speichern - Sie können die Aktion &lt;u&gt;%1&lt;/u&gt; nach dieser einfügen, um das Problem zu lösen.</text>
+		<text id="tool.warn.actReqSaveRes2" h="9B55FE54">Werkzeug enthält die Aktion &lt;u&gt;%1&lt;/u&gt;  und das Ergebnis muss gespeichert werden, bevor &lt;i&gt;diese&lt;/i&gt; Aktion durchgeführt werden kann. Sie müssen die Aktion &lt;u&gt;%2&lt;/u&gt; hinzufügen.</text>
+		<text id="tool.warn.actTitle" h="7330FC41">Aktion &lt;u&gt;%1&lt;/u&gt;:</text>
+		<text id="tool.warn.cancel" h="8DD6365D">Wollen Sie das Werkzeug &lt;b&gt;"%1"&lt;/b&gt; stoppen?
+Falls nicht, klicken Sie auf &lt;b&gt;Nein&lt;/b&gt; um mit der Abarbeitung fortzufahren...</text>
+		<text id="tool.warn.empty" h="D05A0C43">dieses Werkzeug enthält keine Aktionen - Sie können auf '&lt;b&gt;Bearbeiten&lt;/b&gt;' klicken und Aktionen hinzufügen, um ein funktionierendes Werkzeug zu erstellen.</text>
+		<text id="tool.warn.empty2" h="B4FD144F">In diesem Werkzeug sind keine Aktionen definiert.</text>
+		<text id="tool.warn.imgNotFound" h="9A768995">Keine Bilder gefunden</text>
+		<text id="tool.warn.invalidActList" h="A2BB75D7">Das Werkzeug hat eine ungültige Aktionsliste.</text>
+		<text id="tool.warn.nextActNotSuitable" h="17376D04">die &lt;i&gt;nächste&lt;/i&gt; Aktion ist ungeeignet, weil Sie das Ergebnis &lt;i&gt;dieser&lt;/i&gt; Aktion nicht als Quelle akzeptiert</text>
+		<text id="tool.warn.nextActNotSuitable2" h="49941252">Sie können die Aktion &lt;u&gt;%1&lt;/u&gt; nach &lt;i&gt;dieser&lt;/i&gt; einfügen, um das Problem zu beheben</text>
+		<text id="tool.warn.nooperation" h="0063BA81">Die Aktion konnte nicht erstellt werden. Bitte installieren oder reparieren Sie das zugehörige Plugin.</text>
+		<text id="tool.warn.runInvalid" h="58A31432">Das Werkzeug &lt;b&gt;"%1"&lt;/b&gt; enthält ungültige Aktionen. Um es auszuführen, müssen Sie die Aktionsliste reparieren.
+
+Wollen Sie das Werkzeug bearbeiten?</text>
+		<text id="tool.warn.toolInvalid1" h="D448BEEB">Ein oder mehrere Probleme wurden bei diesem Werkzeug gefunden:</text>
+		<text id="tool.warn.toolInvalid2" h="560926B8">Ein Problem bei diesem Werkzeug wurde gefunden:</text>
+		<text id="toolActionsList" h="C9BE1A16">Aktions-Sequenz</text>
+		<text id="toolCategories" h="DB5C4D49">Kategorien</text>
+		<text id="toolInfo" h="979A9FE1">Werkzeuginformation</text>
+		<text id="toolInfo.defaultDesc" h="D1FD06B6">Wählen Sie ein Werkzeug aus der Liste, um die Informationen anzuzeigen.</text>
+		<text id="toolcat.PDFStandard" h="E51FAF25">PDF-Standard</text>
+		<text id="toolcat.advanced" h="59A2B513">Erweitert</text>
+		<text id="toolcat.all" h="BF2EE9E9">Alle Werkzeuge</text>
+		<text id="toolcat.bookmarks" h="E2032460">Lesezeichen</text>
+		<text id="toolcat.comments" h="FA5EB905">Anmerkungen</text>
+		<text id="toolcat.createPDF" h="ACF7EBD1">PDF erstellen</text>
+		<text id="toolcat.customTools" h="22F07048">Eigene Werkzeuge</text>
+		<text id="toolcat.exportPDF" h="4AE54AB5">PDF exportieren</text>
+		<text id="toolcat.favorites" h="310DA860">Favoriten</text>
+		<text id="toolcat.importedTools" h="48FF1B1E">Importierte Werkzeuge</text>
+		<text id="toolcat.mostUsed" h="6274AE53">Häufig verwendet</text>
+		<text id="toolcat.newname" h="DB2A8F96">Neue Kategorie</text>
+		<text id="toolcat.optimizePDF" h="E369C144">PDF optimieren</text>
+		<text id="toolcat.pages" h="47B1CB74">Seiten</text>
+		<text id="toolcat.protection" h="B7EE190B">Schutz</text>
+		<text id="toolcat.recents" h="F90189AF">Zuletzt verwendet</text>
+		<text id="toolsList" h="CA8BB4DB">Werkzeuge</text>
+		<text id="toolselect.lbl" h="ECBB264F">Werkzeug anwenden:</text>
+		<text id="toolslist.drop.nofiles" h="4F3412DD">Es gibt keine Dateien zum Ablegen.</text>
+		<text id="toolslist.tip.icofavorite.add" h="F53B42E1">Klicken Sie hier, um das Werkzeug zu den Favoriten hinzuzufügen</text>
+		<text id="toolslist.tip.icofavorite.remove" h="04AC30FF">Das Werkzeug ist in den Favoriten enthalten.Klicken Sie hier, um es aus den Favoriten zu entfernen.</text>
+		<text id="toolslist.tip.icomonitor" h="4A7E7A48">Das Werkzeug wird für einen überwachten Ordner verwendet</text>
+		<text id="toolslist.tip.icouser" h="9864F819">Eigenes Werkzeug</text>
+		<text id="toolsview.warning.emptyname" h="38B7A2E0">Werkzeugname sollte nicht leer sein.</text>
+		<text id="type" h="710B61B4">Typ</text>
+		<text id="userui.disable" h="14084105">Keine Meldungen</text>
+		<text id="userui.tooltip" h="439FDF26">Schaltet alle Meldungen, wie Einstellungsdialoge oder die Anzeige der Ausgabedateien, während der Ausführung der Werkzeuge ab.ACHTUNG: Einige Aktionen, wie z.B. &lt;b&gt;"%1"&lt;/b&gt;, benötigen eine Konfiguration. Deshalb wird der entsprechende Dialog einmal angezeigt.</text>
+		<text id="userui.usetool" h="D5A05798">Einstellungen des Werkzeugs</text>
+		<text id="usetool.filter" h="4885292B">Filter aus Werkzeug verwenden</text>
+		<text id="warn.textDocSkipOCR" h="FB74BE26">Das PDF-Dokument enthält Text. Die Texterkennung wird nicht durchgeführt</text>
+		<text id="weblinks.grp" h="BC392B82">Seiten auswählen, aus denen Weblinks erzeugt werden sollen:</text>
+		<text id="wrong.file.msg" h="9F0126B0">Die Überlagerungsdatei konnte nicht geöffnet werden:
+&lt;b&gt;%1&lt;/b&gt;:
+%2
+Wollen Sie eine andere Datei auswählen?</text>
+	</Strings>
+</Localization>

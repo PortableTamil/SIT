@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627201034">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Finnish (Finland)" lName="Suomi" code="fi-FI" R2L="false"/>
+	<Module name="MarkdownPlugin" namespace="md" version="7.0.325.10"/>
+	<Strings>
+		<text id="btn.md.submenu" h="89D1502A">&amp;Markdownista...</text>
+		<text id="cmd.tip" h="117085B4">Luo uusi asiakirja Markdown-tiedostoista.</text>
+		<text id="converter.desc" h="41356938">Muunna Markdown-tiedostoja</text>
+		<text id="converter.filterName" h="AE86B691">Markdown-tiedostot</text>
+		<text id="converter.name" h="AE86B691">Markdown-tiedostot</text>
+		<text id="converting.progress.text" h="4DD2C8CD">Muunnetaan tiedosto:</text>
+		<text id="grb.style" h="1FF454A3">Tekstityyli</text>
+		<text id="msg.error" h="51BFF51D">Virhe</text>
+		<text id="msg.file.empty" h="8F9B5982">Tiedosto on tyhjä.</text>
+		<text id="opt.all.files" h="C68ACE05">Kaikki tiedostot</text>
+		<text id="opt.btn.clear.style" h="8932B6EE">Palauttaa CSS-tyylin oletusarvoksi</text>
+		<text id="opt.create.style" h="EDCA1553">Luo</text>
+		<text id="opt.file" h="45B5DF3A">Tiedosto</text>
+		<text id="opt.margins.fixed" h="6103695E">Marginaalit ovat liian suuret. Ne korjataan automaattisesti.</text>
+		<text id="opt.none" h="F9398D7D">Ei mitään</text>
+		<text id="opt.style" h="5CEA121A">Tyyli:</text>
+		<text id="opt.test.title" h="44732FAA">Testi</text>
+		<text id="opt.title" h="45D26671">Markdown -&gt; PDF-asetukset</text>
+		<text id="opt.unavailable" h="5669C949">ei ole saatavilla</text>
+		<text id="prefs.name" h="07E67B98">Markdown -&gt; PDF</text>
+		<text id="prefs.title" h="45D26671">Markdown -&gt; PDF-asetukset</text>
+		<text id="prop.list.extension" h="14FEB836">Pääte</text>
+		<text id="prop.list.location" h="BB241F45">Sijainnit</text>
+		<text id="prop.list.modified" h="30325672">Muokattu</text>
+		<text id="prop.list.size" h="17A58A52">Koko</text>
+		<text id="prop.list.title" h="796DFAD3">Otsikko</text>
+		<text id="prop.source" h="AE86B691">Markdown-tiedostot</text>
+		<text id="prop.source.file" h="F3110572">Valitse Markdown-tiedostoja</text>
+		<text id="prop.source.file.unavailable" h="AE2771B8">Tyylitiedostoa ei ole saatavilla</text>
+		<text id="prop.source.folder" h="8477FBD3">Valitse kansio, jossa on Markdown</text>
+		<text id="prop.source.subfolder" h="F053B635">Katso alikansiot</text>
+		<text id="prop.source.txt" h="0B465380">Tekstitiedostot</text>
+		<text id="prop.window.name" h="6E4F5CCE">Muunna Markdown PDF-muotoon</text>
+		<text id="style.edit.default" h="600F2F18">Käytä oletustyyliä</text>
+		<text id="style.files.title" h="26E23587">CSS-tiedostot</text>
+		<text id="style.folder.name" h="2F5ECDDE">Markdown-tyylit</text>
+		<text id="style.save.title" h="2E270E87">Tallenna tyyli</text>
+		<text id="style.select.file" h="37C34A80">Valitse tyylitiedosto</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171220230630">2.00.00</Version>
+	<Author>Kenny Deng</Author>
+	<Copyright></Copyright>
+	<Product id="XCShellMenu"/>
+	<Language eName="Chinese (Simplified, China)" lName="中文(简体)" code="zh-CN" R2L="false"/>
+	<Module name="XCShellMenu" namespace="" version="7.0.323.2"/>
+	<Strings>
+		<text id="menu.open" h="D08F8302">用PDF-XChange Editor打开</text>
+		<text id="menu.combine" h="BF3B40FB">用PDF-XChange Editor合并</text>
+		<text id="menu.open.help" h="DB2C9B04">在PDF-XChange Editor中打开文件</text>
+		<text id="menu.combine.help" h="3E8460C6">在PDF-XChange Editor中合并文件</text>
+	</Strings>
+</Localization>

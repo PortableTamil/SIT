@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123230407">2.00.00</Version>
+	<Author>Kelvin Muriuki</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXDriver"/>
+	<Language eName="Kiswahili (Kenya)" lName="Kiswahili" code="sw-KE" R2L="false"/>
+	<Module name="DriverUI" namespace="" version="7.0.323.3"/>
+	<Strings>
+		<text id="btn.ok" h="FEF0C771">&amp;Sawa</text>
+		<text id="btn.cancel" h="3D302A38">&amp;Kataa</text>
+		<text id="btn.yes" h="E38DE015">&amp;Ndio</text>
+		<text id="btn.no" h="B7A441B2">&amp;La</text>
+		<text id="btn.default" h="F24132BD">&amp;Chaguo-msingi</text>
+		<text id="btn.retry" h="82619C32">&amp;Jaribu Tena</text>
+		<text id="btn.add" h="B1378310">&amp;Ongeza</text>
+		<text id="btn.add_" h="9B7E8822">&amp;Ongeza...</text>
+		<text id="btn.remove" h="FCE39C1F">Ondoa</text>
+		<text id="btn.remove_" h="C733C727">&amp;Ondoa...</text>
+		<text id="btn.browse" h="61C204E1">Vinjari..</text>
+		<text id="btn.browse.dot" h="89B34A98">...</text>
+		<text id="btn.close" h="6298A5AF">&amp;Funga</text>
+		<text id="btn.saveAs" h="34A2687C">Hifadhi Kama...</text>
+		<text id="None" h="F9398D7D">Hakuna</text>
+		<text id="None2" h="18A77318">&lt;Hakuna&gt;</text>
+		<text id="Yes" h="DC948BC4">Ndio</text>
+		<text id="No" h="6651A799">La</text>
+		<text id="issuer" h="278A5A41">Mpatiaji:</text>
+		<text id="expirationDate" h="62A26CAB">Tarehe ya Mwisho</text>
+		<text id="certificate.noname" h="7E323CFC">&lt;Jina haipo&gt;</text>
+		<text id="Auto" h="471FE15D">Otomatiki</text>
+		<text id="Mixed" h="B107EE41">Changanifu</text>
+		<text id="Default" h="B6EF2024">Chaguo-msingi</text>
+		<text id="MoreColors" h="8E37A577">Rangi Zaidi</text>
+		<text id="StdColors" h="E77B1524">Rangi za Kawaida</text>
+		<text id="CustColors" h="E549B850">Rangi Binafsi</text>
+		<text id="True" h="2C126145">Kweli</text>
+		<text id="False" h="6E2C778C">Uongo</text>
+		<text id="propGroup.general" h="30673BCD">Kawaida</text>
+		<text id="propGroup.other" h="4D02ADCA">Zingenezo</text>
+		<text id="rangesNavigator.delSelRange" h="1679F90E">Futa masafa yaliyoteuliwa</text>
+		<text id="rangesNavigator.addNewRange" h="21AD5513">Ongeza Masafa Mapya</text>
+		<text id="NoDesc2" h="18F77191">&lt;Hakuna Ufafanuzi&gt;</text>
+		<text id="Undo" h="86E67B4B">Tendua</text>
+		<text id="Redo" h="E6E48291">Rudia</text>
+		<text id="Cut" h="61816B61">Kata</text>
+		<text id="Copy" h="348DE55D">Nakili</text>
+		<text id="Paste" h="2BCB0ED4">Bandika</text>
+		<text id="Delete" h="D8FE3F70">Futa</text>
+		<text id="Select" h="3E697735">Teua</text>
+		<text id="SelectAll" h="35E0E32F">Teua Zote</text>
+		<text id="DeselectAll" h="699E910A">Kataa Zote</text>
+		<text id="Ignore" h="84719564">Puuza</text>
+		<text id="IgnoreAll" h="8DA1370A">Puuza Zote</text>
+		<text id="TextStyle" h="1FF454A3">Mtindo wa Matini</text>
+		<text id="NoSuggestions" h="486A5F0F">(Hakuna Mapendekezo ya Tahajia) </text>
+		<text id="AddToDict" h="1E16C146">Ongeza kwenye Kamusi</text>
+		<text id="TextDirection" h="9A7C92FA">Mwelekeo wa Matini</text>
+		<text id="color.Black" h="8EC6ABE8">Nyeusi</text>
+		<text id="color.Brown" h="7FF1DD0C">Kahawia</text>
+		<text id="color.DarkOliveGreen" h="3B0086DA">Kijani Zeituni Nzito</text>
+		<text id="color.DarkGreen" h="32CD6682">Kijani Nzito</text>
+		<text id="color.DarkTeal" h="07E82FA9">Teal Nzito</text>
+		<text id="color.DarkBlue" h="948A3D4C">Samawati Nzito</text>
+		<text id="color.Indigo" h="A2D50E5C">Nili</text>
+		<text id="color.DarkGrey" h="53D85A01">Kijivu Nzito</text>
+		<text id="color.DarkRed" h="404DA909">Nyekundu Nzito</text>
+		<text id="color.Orange" h="DF701C8C">Chungwa</text>
+		<text id="color.DarkYellow" h="2C647852">Manjano Nzito</text>
+		<text id="color.Green" h="C253AA3A">Kijani</text>
+		<text id="color.Teal" h="3C7828E7">Teal</text>
+		<text id="color.Blue" h="AF1A3A02">Samawati</text>
+		<text id="color.BlueGrey" h="2DEC56B3">Samawati-Kijivu</text>
+		<text id="color.Grey40" h="E3913C79">Kijivu 40%</text>
+		<text id="color.Red" h="B3D0FF91">Nyekundu</text>
+		<text id="color.LightOrange" h="56F40088">Machungwa Hafifu</text>
+		<text id="color.Lime" h="7FF0C6F3">Ndimu</text>
+		<text id="color.SeaGreen" h="68AFBFF8">Kijani cha Bahari</text>
+		<text id="color.Aqua" h="FAB1E9A0">Zumaridi</text>
+		<text id="color.LightBlue" h="45312AF4">Samawati Hafifu</text>
+		<text id="color.Violet" h="301DE95C">Urujuani</text>
+		<text id="color.Grey50" h="28CDEFDC">Kijivu 50%</text>
+		<text id="color.Pink" h="D8D260F7">Waridi</text>
+		<text id="color.Gold" h="55646F9C">Dhahabu</text>
+		<text id="color.Yellow" h="92AA22E7">Manjano</text>
+		<text id="color.BrightGreen" h="883F84F6">Kijani Angavu</text>
+		<text id="color.Turquoise" h="26F8E234">Feruzi</text>
+		<text id="color.Skyblue" h="7BD04AE5">Mbingu Samawi</text>
+		<text id="color.Plum" h="595D865C">Plamu</text>
+		<text id="color.LightGrey" h="82634DB9">Kijivu Hafifu</text>
+		<text id="color.Rose" h="705E265B">Nyekundu ya Waridi</text>
+		<text id="color.Tan" h="10046351">Hudhurungi </text>
+		<text id="color.LightYellow" h="1B2E3EE3">Manjano Hafifu</text>
+		<text id="color.PaleGreen" h="91D8BB4B">Kijani Hafifu</text>
+		<text id="color.PaleTurquoise" h="8C6FB540">Feruzi Hafifu</text>
+		<text id="color.PaleBlue" h="F5990CA0">Samawati Hafifu</text>
+		<text id="color.Lavender" h="DC3DBC32">Urujuani</text>
+		<text id="color.White" h="74152F7B">Nyeupe</text>
+		<text id="edit.InsertText" h="A931622B">Ingiza Matini "%1"</text>
+		<text id="edit.DeleteText" h="AAB9C45C">Futa Matini "%1"</text>
+		<text id="edit.PasteText" h="6DC029B4">Bandika Matini "%1"</text>
+		<text id="edit.ModifyTextFormat" h="B2A9BA03">Badili Umbizo la Matini</text>
+		<text id="edit.ModifyTextFont" h="E57A5027">Badili Fonti ya Matini</text>
+		<text id="edit.ModifyTextSize" h="8BDA6FAD">Badili Ukubwa wa Matini</text>
+		<text id="edit.ModifyTextColor" h="C187B5B1">Badili Rangi ya Matini</text>
+		<text id="edit.ModifyParaFormat" h="A4EFE81F">Badili Umbizo la Aya</text>
+		<text id="edit.ModifyParaAlign" h="5ABCBBF1">Badili Mpangilio wa Aya</text>
+		<text id="edit.SetLanguage" h="D8D265EB">Weka Lugha</text>
+		<text id="layout.CloseTab" h="35FC1AA9">Funga Kichupo</text>
+		<text id="layout.DnDAllTabs" h="BC9A3B7F">Kokota na Angusha Vichupo Vyote</text>
+		<text id="layout.ShowTabsThumbs" h="4F46DD77">Onyesha Kijipicha cha Kichupo</text>
+		<text id="layout.ShowSortedTabs" h="2FA2819E">Onyesha Vichupo Vilivyopangwa</text>
+		<text id="layout.ScrollTabsLeft" h="B23B9425">Biringiza Vichupo Kushoto</text>
+		<text id="layout.AddNewTab" h="2C5251EB">Ongeza Kichupo Kipya</text>
+		<text id="layout.ScrollTabsRight" h="AA40041A">Biringiza Vichupo Kulia</text>
+		<text id="layout.CloseActiveTab" h="B83CF8F4">Funga Kichupo Amilifu</text>
+		<text id="layout.Close" h="9594DBB7">Funga</text>
+		<text id="layout.clickToShow" h="E85C828D">Bonyeza kuonyesha</text>
+		<text id="layout.clickToHide" h="AD248B87">Bonyeza kuficha</text>
+		<text id="driver.mode.auto" h="471FE15D">Otomatiki</text>
+		<text id="driver.mode.gdi" h="D86FFE0D">GDI</text>
+		<text id="driver.mode.xps" h="45B97450">XPS</text>
+		<text id="rules.column.app" h="66E8E89C">Programu</text>
+		<text id="rules.column.mode" h="97850036">Hali ya Kiendeshi</text>
+		<text id="btn.configMode.tooltip" h="59D88CB9">Sanidi kanuni za Hali ya Kiendeshi</text>
+		<text id="profile.default.title" h="67249AEE">Mipangilio Chaguo-msingo</text>
+		<text id="profile.default.desc" h="C63AA327">Mipangilio chaguo-msingo ya kiendeshi</text>
+		<text id="profile.filter" h="1D42128D">PDF-Xchange Printer Profile (*.pxpp)</text>
+		<text id="profile.title" h="0295B9AE">Teua Faili ya Maelezo Mafupi</text>
+		<text id="profile.newName" h="5A67CE17">Maelezo Mafupi Mapya</text>
+		<text id="btn.manage.tooltip" h="02E97817">Hariri orodha ya maelezo mafupi yaliopo</text>
+		<text id="btn.add.tooltip" h="3EEBE19F">Unda maelezo mafupi mapya ukitumia mipangilio ya sasa</text>
+		<text id="btn.save.tooltip" h="EB7F125C">Hifadhi mipangilio ya sasa kwenye maelezo mafupi</text>
+		<text id="tip.settings.modified" h="AFEF528F">Mipangilio yako ya sasa yamebadilishwa tangu maelezo mafupi kutekelezwa.
+Kuhifadhi mipangilio yako kwenye maelezo mafupi, bonyeza kitufe cha 'Hifadhi' ama 'Unda'</text>
+		<text id="product.ID" h="0F1AA23D">ID ya Bidhaa: %1</text>
+		<text id="licence.type" h="02FA2D70">Aina ya Leseni: %1</text>
+		<text id="paper.group.ISO" h="79F157DD">ISO</text>
+		<text id="paper.group.ANSI" h="D7990290">ANSI</text>
+		<text id="paper.group.Envelope" h="1D74D29F">Bahasha</text>
+		<text id="paper.group.JIS" h="26B6CFD5">JIS</text>
+		<text id="paper.group.Misc" h="04ADA73E">Mchanganyiko</text>
+		<text id="paper.group.Custom" h="A918FF38">Binafsi</text>
+		<text id="sheet.auto" h="471FE15D">Otomatiki</text>
+		<text id="sheet.custom" h="0B8B6CAF">Ukubwa Binafsi</text>
+		<text id="unit.inch" h="86129307">inch</text>
+		<text id="unit.millimeter" h="C982BDAD">milimeta</text>
+		<text id="unit.point" h="BF2CAA20">Pointi</text>
+		<text id="unit.in" h="42AF015F">in</text>
+		<text id="unit.mm" h="E6E0C5CB">mm</text>
+		<text id="unit.pt" h="DF93E391">pt</text>
+		<text id="paperlayout.standard" h="C6DA1F99">Kawaida</text>
+		<text id="paperlayout.nUP" h="D4485C9D">Kurasa Anuwai kwa Laha</text>
+		<text id="paperlayout.booklet" h="901EA828">Kijitabu</text>
+		<text id="nUP.1" h="EEAD9B73">ukurasa 1</text>
+		<text id="nUP.2" h="5A659345">ukurasa 2</text>
+		<text id="nUP.4" h="A2A7D8F3">ukurasa 4</text>
+		<text id="nUP.6" h="43C91C5E">ukurasa 6</text>
+		<text id="nUP.8" h="885249DE">ukurasa 8</text>
+		<text id="nUP.9" h="155DA8A8">ukurasa 9</text>
+		<text id="nUP.16" h="1CB9C82C">ukurasa 16</text>
+		<text id="nUP.order.L2R" h="949DEA01">Kushoto Kwenda Kulia</text>
+		<text id="nUP.order.R2L" h="171EAD0C">Kulia kwenda Kushoto</text>
+		<text id="nUP.order.L2R2D" h="C8FF2262">Toka Upande wa Kushoto</text>
+		<text id="nUP.order.L2D2R" h="EB9F4ED9">Chini kutoka Kushoto</text>
+		<text id="nUP.order.R2L2D" h="377AB1A5">Toka Upande wa Kulia</text>
+		<text id="nUP.order.R2D2L" h="744FC8C5">Chini kutoka Kulia</text>
+		<text id="bookletType.brochure" h="BC6BC70D">Brosha</text>
+		<text id="bookletType.book" h="88A9D2D9">Kitabu</text>
+		<text id="langsList.column.name" h="F479395C">Jina la Kawaida</text>
+		<text id="langsList.column.locName" h="45A2C755">Jina la Ndani</text>
+		<text id="langs.Default" h="A50C20C9">Kiingereza (US), Imeundiwa Ndani</text>
+		<text id="langs.Auto" h="343D08C2">Tumia Mipangilio ya Kieneo</text>
+		<text id="compr.auto" h="471FE15D">Otomatiki</text>
+		<text id="compr.zip" h="D460493A">Flate</text>
+		<text id="compr.jpeg" h="58DE58E0">JPEG</text>
+		<text id="compr.jpeg.zip" h="077BB505">JPEG/ZIP</text>
+		<text id="compr.j2k" h="BDEDDBB8">JPEG 2000</text>
+		<text id="compr.j2k.zip" h="5A9C90B5">JPEG 2000/ZIP</text>
+		<text id="compr.rle" h="82741A51">Urefu Endeshi</text>
+		<text id="compr.lzw" h="D62F11BD">LZW</text>
+		<text id="compr.ccitt3" h="B7DD624B">CCITT Kikundi 3</text>
+		<text id="compr.ccitt4" h="F89CF48C">CCITT Kikundi 4</text>
+		<text id="compr.jbig2" h="DE3BC257">JBIG2</text>
+		<text id="compr.jbig2.std" h="C6DA1F99">Kawaida</text>
+		<text id="compr.jbig2.crop" h="089616A4">Puna Kingo</text>
+		<text id="compr.jbig2.symbol" h="8EB3D116">Mfinyazo wa Alama (kisicho na hasara)</text>
+		<text id="conv.none" h="B58BD00F">Bila Ugeuzi</text>
+		<text id="conv.gray" h="AB87F2BA">Geuza kuwa Rekebu-kijivu</text>
+		<text id="conv.mono" h="CBA1AA37">Geuza kuwa Rangi Moja</text>
+		<text id="conv.bw" h="21CB967C">Geuza kuwa Nyeusi Nyeupe</text>
+		<text id="down.none" h="747AEF4D">Bila Upunguzaji Ubora</text>
+		<text id="down.linear" h="A774B742">Upunguzaji Ubora wa Linear</text>
+		<text id="down.bilinear" h="404DEC83">Upunguzaji Ubora wa Bilinear</text>
+		<text id="down.bicubic" h="8DB42DD1">Upunguzaji Ubora wa Bicubic</text>
+		<text id="align.left" h="8CEAA299">Kushoto</text>
+		<text id="align.center" h="CBEFB4D0">Katikati</text>
+		<text id="align.right" h="2D8A4EE6">Kulia</text>
+		<text id="align.top" h="249A2BBD">Juu</text>
+		<text id="align.middle" h="D27F520F">Katikati</text>
+		<text id="align.bottom" h="08F4AB6F">Chini</text>
+		<text id="overlay.filter" h="21DC74BD">Waraka wa PDF (*.pdf)</text>
+		<text id="overlay.title" h="74E5784A">Teua Faili Tandazo</text>
+		<text id="extrafile.title" h="2844ABF8">Teua Faili </text>
+		<text id="border.type.none" h="B6C5BE05">Bila Ukingo</text>
+		<text id="border.type.underline" h="2A187377">Pigia Mstari</text>
+		<text id="border.type.rect" h="7D22CD90">Mstatili</text>
+		<text id="border.style.solid" h="9C9EA9A8">Ngumu</text>
+		<text id="border.style.dashed" h="39AEAEE8">Yenye Deshi</text>
+		<text id="border.style.dotted" h="59B655A2">Yenye Vitone</text>
+		<text id="blendMode.mode0" h="168CFA48">Kawaida</text>
+		<text id="blendMode.mode1" h="2F76AE4A">Zidisha</text>
+		<text id="blendMode.mode2" h="CF00816C">Skrini</text>
+		<text id="blendMode.mode3" h="F84F5CCD">Tandazo</text>
+		<text id="blendMode.mode4" h="897F3452">Fanya Nzito</text>
+		<text id="blendMode.mode5" h="76486572">Ng'arisha</text>
+		<text id="blendMode.mode6" h="4BC50C39">Ukwepaji Rangi</text>
+		<text id="blendMode.mode7" h="1C127744">Uchomeshaji Rangi</text>
+		<text id="blendMode.mode8" h="0E4D1D58">MwangazaMgumu</text>
+		<text id="blendMode.mode9" h="8EBD9A0E">MwangazaNyepesi</text>
+		<text id="blendMode.mode10" h="5C4C0DB6">Tofauti</text>
+		<text id="blendMode.mode11" h="55666E14">Uchujaji</text>
+		<text id="detesselation.mode0" h="F9398D7D">Hakuna</text>
+		<text id="detesselation.mode1" h="B05E374B">Rahisi</text>
+		<text id="email.method0" h="E67462E4">Anzisha Teja Chaguo-msingi la Barua Pepe</text>
+		<text id="email.method1" h="8E35F75F">Tuma Kupitia Teja Chaguo-msingi la Barua Pepe</text>
+		<text id="email.method2" h="D1439B34">Tuma Moja kwa Moja Kupitia Seva ya SMTP</text>
+		<text id="email.mapi.title" h="10BF58CC">Teua Wapokeaji</text>
+		<text id="save.smtp.auth0" h="F9398D7D">Hakuna</text>
+		<text id="save.smtp.auth1" h="0ACB840D">Tumia STARTTLS</text>
+		<text id="save.smtp.auth2" h="C0BEF71C">Tumia SSL/TLS</text>
+		<text id="saveType.type0" h="7E1941B5">Tumia pdfSaver™ kwa Usimamizi wa Kazi</text>
+		<text id="saveType.type1" h="CA86F5C8">Ambatisha Kazi ya Sasa kwenye Kazi Amilifu ya Miwsho</text>
+		<text id="saveType.type2" h="DA754594">Hifadhi Faili ya PDF Iliyozalishwa</text>
+		<text id="saveType.type3" h="C59E79F5">Kuza PDF, Tuma kwa Barua Pepe kisha FUta</text>
+		<text id="saveExists.type0" h="0D4B40B1">Onyesha Kidadasi cha Onyo</text>
+		<text id="saveExists.type1" h="B605C0F3">Andikia Juu Kila Wakati</text>
+		<text id="saveExists.type2" h="A8CFCFB8">Namba Otomatiki</text>
+		<text id="saveExists.type3" h="1C9B2F2A">Unganisha Na Iliopo (Ambatisha Kwa)</text>
+		<text id="saveExists.type4" h="72FE1173">Unganisha Na Iliopo (Ingiza Kabla)</text>
+		<text id="saveExists.type5" h="A00336E6">Ulizia jina mpya la faili</text>
+		<text id="save.browseFolder" h="74154CC7">Chagua kabrasha ya kuhifadhi faili tokevu</text>
+		<text id="save.app.title" h="B6BC08CF">Chagua programu</text>
+		<text id="save.app.filter.exe" h="A976550E">Faili Tekelevu (*.exe)</text>
+		<text id="save.app.filter.all" h="EEDB8F4F">Faili Zote</text>
+		<text id="hf.header" h="608B00E9">Kijajuu </text>
+		<text id="hf.footer" h="88C45397">Kijachini</text>
+		<text id="hf.none" h="5D6722DD">(hakuna)</text>
+		<text id="hf.pattern_0" h="962EF85B">Ukurasa %1</text>
+		<text id="hf.pattern_1" h="BE4E95E1">Ukurasa %1 kwa %2</text>
+		<text id="hf.pattern_2" h="839A130C">Ya Siri</text>
+		<text id="hf.pattern_3" h="CACAD862">Imetayarishwa na %1 %2</text>
+		<text id="bm.mode0" h="0C46ECE4">Zote zimefunguliwa</text>
+		<text id="bm.mode1" h="1A56CD8E">Zote zimefungwa</text>
+		<text id="bm.mode2" h="DBECA36A">Imefafanuliwa na kipengee</text>
+		<text id="bm.mode3" h="5AC6D86A">Fungua kwa kiwango cha fundo</text>
+		<text id="bm.fstyle0" h="BF452F19">Kawaida</text>
+		<text id="bm.fstyle1" h="1D8461F8">Herufi Nzito</text>
+		<text id="bm.fstyle2" h="C61EB895">italiki</text>
+		<text id="bm.fstyle3" h="1D47AA37">Herufi Nzito na Italiki</text>
+		<text id="bm.level" h="533D38D5">Kiwango %1</text>
+		<text id="encLevel.40RC" h="F45022E3">40-bit RC4 (Tangamanifu na Acrobat 3.0 kwenda juu)</text>
+		<text id="encLevel.128RC" h="457934B5">128-bit RC4 (Tangamanifu na Acrobat 7.0 kwenda juu)</text>
+		<text id="encLevel.128AES" h="FB60107D">128-bit AES (Tangamanifu na Acrobat 7.0 kwenda juu)</text>
+		<text id="encLevel.256AES" h="25B75256">256-bit AES (Tangamanifu na Acrobat 9.0 kwenda juu)</text>
+		<text id="encLevel.256AESR6" h="B4496CDA">256-bit AES (Tangamanifu na Acrobat X kwenda juu)</text>
+		<text id="enc.changes0" h="F9398D7D">Hakuna</text>
+		<text id="enc.changes1" h="F5AAD140">Uunganishi wa Waraka Pekee</text>
+		<text id="enc.changes2" h="8D9D64A1">Ujazaji Nyuga za Fomu ama Kusaini</text>
+		<text id="enc.changes3" h="AF018800">Uandishi Maoni, Ujazaji wa Nyuga za Fomu ama Kusaini</text>
+		<text id="enc.changes4" h="5C078DD2">Uhariri, Uandishi Maoni na Nyuga za Fomu wa Kawaida</text>
+		<text id="enc.print0" h="50D7EDBB">Hairuhusiwi</text>
+		<text id="enc.print1" h="D33F1C80">Mwonekano wa Chini</text>
+		<text id="enc.print2" h="1E5C0EC1">Imekubaliwa Kabisa</text>
+		<text id="spec.auto" h="471FE15D">Otomatiki</text>
+		<text id="spec.13" h="E6E813F4">Toleo 1.3 (Acrobat v3.0 kwenda juu)</text>
+		<text id="spec.14" h="2543EFD8">Toleo 1.4 (Acrobat v5.0 kwenda juu)</text>
+		<text id="spec.15" h="4E5114F2">Toleo 1.5 (Acrobat v6.0 kwenda juu)</text>
+		<text id="spec.16" h="F5B1EDF8">Toleo 1.6 (Acrobat v7.0 kwenda juu)</text>
+		<text id="spec.17" h="95DB0A4E">Toleo 1.7 (Acrobat v8.0 kwenda juu)</text>
+		<text id="spec.20" h="48278906">Toleo 2.0</text>
+		<text id="spec.pdfa.1a" h="64CF1485">PDF/A-1a</text>
+		<text id="spec.pdfa.1b" h="4FE24746">PDF/A-1b</text>
+		<text id="spec.pdfa.2a" h="767ABB6B">PDF/A-2a</text>
+		<text id="spec.pdfa.2b" h="5D57E8A8">PDF/A-2b</text>
+		<text id="spec.pdfa.2u" h="58D46C3E">PDF/A-2u</text>
+		<text id="spec.pdfa.3a" h="CEC6DC0E">PDF/A-3a</text>
+		<text id="spec.pdfa.3b" h="E5EB8FCD">PDF/A-3b</text>
+		<text id="spec.pdfa.3u" h="E0680B5B">PDF/A-3u</text>
+		<text id="page.layout.default" h="5D937A45">Mtazamo Chaguo-msingi</text>
+		<text id="page.layout.singlePage" h="39A9F056">Ukurasa Mmoja</text>
+		<text id="page.layout.oneColumn" h="A12E03D3">Endelevu</text>
+		<text id="page.layout.twoPagesLeft" h="1B55DC78">Kurasa Mbili (Ukurasa wa Kwanza)</text>
+		<text id="page.layout.twoPagesRight" h="38D09B41">Kurasa Mbili</text>
+		<text id="page.layout.twoColumnsLeft" h="DAED5097">Safuwima Mbii (Ukurasa wa Kwanza)</text>
+		<text id="page.layout.twoColumnsRight" h="CB1E034F">Safuwima Mbii</text>
+		<text id="page.mode.default" h="5D937A45">Mtazamo Chaguo-msingi</text>
+		<text id="page.mode.none" h="26070E06">Mtazamo wa ukurasa pekee</text>
+		<text id="page.mode.bookmark" h="224DF1A0">Onyesha kidirisha cha Vialamisho</text>
+		<text id="page.mode.thumbnails" h="9B7F1418">Onyesha Kidirisha cha Vijipiicha</text>
+		<text id="page.mode.layers" h="5F54D2D3">Onyesha Kidirisha cha Rusu</text>
+		<text id="page.mode.attachments" h="97605CC5">Onyesha Kidirisha cha Viambatisho</text>
+		<text id="page.mode.fullScreen" h="3BC2E4C1">Skrini Nzima</text>
+		<text id="zoom.default" h="B6EF2024">Chaguo-msingi</text>
+		<text id="zoom.actualSize" h="5E4611C5">Ukubwa Halisi</text>
+		<text id="zoom.fitPage" h="E07FD6B2">Tosheleza Ukurasa</text>
+		<text id="zoom.fitWidth" h="0AB6EA6C">Tosheleza Upana</text>
+		<text id="zoom.fitHeight" h="F9EA7C91">Tosheleza Urefu</text>
+		<text id="zoom.fitVisible" h="D1A989D3">Tosheleza Onefu</text>
+		<text id="trans.type.none" h="84AE3030">Bila Mipito</text>
+		<text id="trans.type.replace" h="0AD7C04B">Badilisha</text>
+		<text id="trans.type.split" h="73C7987E">Gawanya</text>
+		<text id="trans.type.comb" h="3FC8A185">Unganisha</text>
+		<text id="trans.type.blinds" h="A570ADB5">Pofu</text>
+		<text id="trans.type.box" h="39CC4033">Sanduku</text>
+		<text id="trans.type.wipe" h="FC5264CC">Pangusa</text>
+		<text id="trans.type.dissolve" h="49B245E0">Yeyusha</text>
+		<text id="trans.type.glitter" h="72796005">Kimeto</text>
+		<text id="trans.type.flyIn" h="42ABD702">Paa Ndani</text>
+		<text id="trans.type.flyOut" h="714AFAD0">Paa Nje</text>
+		<text id="trans.type.push" h="25987E96">Sukuma</text>
+		<text id="trans.type.cover" h="4F3303D2">Jalada</text>
+		<text id="trans.type.uncover" h="62A51AE4">Funua</text>
+		<text id="trans.type.fade" h="7F6B17DC">Fifia</text>
+		<text id="trans.type.random" h="F4885958">Nasibu</text>
+		<text id="trans.mode.horIn" h="E83EC000">Mlalo Ndani</text>
+		<text id="trans.mode.horOut" h="C0AFB700">Mlalo Nje</text>
+		<text id="trans.mode.vertIn" h="F33AAC2D">Wima Ndani</text>
+		<text id="trans.mode.vertOut" h="A481DB98">Wima Nje</text>
+		<text id="trans.mode.hor" h="CDB47C8B">Mlalo</text>
+		<text id="trans.mode.vert" h="508CF71B">Wima</text>
+		<text id="trans.mode.in" h="E29DAE61">In</text>
+		<text id="trans.mode.out" h="1643AB1A">Nje</text>
+		<text id="trans.mode.0" h="2D8A4EE6">Kulia</text>
+		<text id="trans.mode.45" h="F02DBFA8">Kulia Juu</text>
+		<text id="trans.mode.90" h="2C137999">Juu</text>
+		<text id="trans.mode.135" h="04E1EA36">Kushoto Juu</text>
+		<text id="trans.mode.180" h="8CEAA299">Kushoto</text>
+		<text id="trans.mode.225" h="5F7E7454">Kushoto Chini</text>
+		<text id="trans.mode.270" h="A61C506B">Chini</text>
+		<text id="trans.mode.315" h="B509A0DF">Kulia Chini</text>
+		<text id="dur.pattern" h="CEB4987D">%1 sec</text>
+		<text id="custom.form.name" h="207D7C65">Jina la Fomu</text>
+		<text id="custom.form.sizeMM" h="B16A29F8">Ukubwa (mm)</text>
+		<text id="custom.form.sizeIN" h="E50D5298">Ukubwa (inch)</text>
+		<text id="custom.form.newName" h="F1E2436C">Fomu ya Mtumiaji</text>
+		<text id="wtm.column.title0" h="D18643E3">Jina</text>
+		<text id="wtm.column.title1" h="51CDB637">Chapisha Kwenye</text>
+		<text id="wtm.column.title2" h="8693C3EA">Kwenye Mandharinyuma</text>
+		<text id="wtm.column.title3" h="CD137DE4">Itaonekana kwenye</text>
+		<text id="wtm.range.type0" h="32149646">Kurasa Zote</text>
+		<text id="wtm.range.type1" h="C740A6A2">Ukurasa wa Kwanza Pekee</text>
+		<text id="wtm.range.type2" h="3F1B0692">Ukurasa wa Mwisho Pekee</text>
+		<text id="wtm.range.type3" h="82B8C270">Kurasa Shufwa</text>
+		<text id="wtm.range.type4" h="6B7305B6">Kurasa Witiri </text>
+		<text id="wtm.type.text" h="4D47FEC5">Taswira Fifi ya Matini</text>
+		<text id="wtm.type.image" h="785F5EAB">Taswira Fifi Picha</text>
+		<text id="wtm.name.untitled" h="2C821098">(&lt;Isiyojina&gt;</text>
+		<text id="wtm.visibleOn.view" h="2FCBB32C">Tazama</text>
+		<text id="wtm.visibleOn.export" h="6D360289">Hamisha </text>
+		<text id="wtm.visibleOn.print" h="17CF8D0A">Chapisha</text>
+		<text id="auto.size" h="471FE15D">Otomatiki</text>
+		<text id="wtm.vis.pat1" h="C2D1C6C8">%1 pekee</text>
+		<text id="wtm.vis.pat2" h="811F3E2C">%1 na %2</text>
+		<text id="wtm.vis.pat3" h="B7978C0D">%1, %2 na, %3</text>
+		<text id="sign.reason.none" h="18A77318">&lt;Hakuna&gt;</text>
+		<text id="sign.reason.author" h="E5EE6464">Mimi ndio mwandishi wa waraka huu</text>
+		<text id="sign.reason.agreePortions" h="C314149A">Nakubali kwenye vipande tajwa vya waraka huu</text>
+		<text id="sign.reason.reviewed" h="82844CFE">Nimekagua waraka huu</text>
+		<text id="sign.reason.approving" h="B1A808AB">Naidhinisha waraka huu</text>
+		<text id="sign.reason.attest" h="69264D74">Na thibitisha usahihi na uadilifu wa waraka huu</text>
+		<text id="sign.reason.agreeTerms" h="5E38C209">Nakubali makubaliano yanayofafanuliwa kwa kuweka saini yangu kwenye waraka huu</text>
+		<text id="sign.graphic.none" h="475DB295">Bila Mchoro</text>
+		<text id="sign.graphic.image" h="DF6A504B">Taswira kutoka kwa Faili</text>
+		<text id="sign.graphic.name" h="8BFDAB3B">Jina kama Mchoro</text>
+		<text id="cert.filter.PFX" h="57197ADC">Personal Information Exchnage (*.pfx, *.p12)</text>
+		<text id="cert.openTitle" h="8488239C">Teua Faili ya Cheti</text>
+		<text id="cert.saveTitle" h="3F8886F2">Hifadhi Cheti</text>
+		<text id="cert.usage.digisig" h="F9D0083C">Saini za Dijitali</text>
+		<text id="cert.usage.encryption" h="7DDDCF40">Usimbaji Fiche wa Data</text>
+		<text id="cert.usage.both" h="E107F280">Saini za Dijitali na Usimbaji Fiche wa Data</text>
+		<text id="cert.keyAlg.1024" h="27C369E8">1024-bit RSA</text>
+		<text id="cert.keyAlg.2048" h="E707241F">2048-bit RSA</text>
+		<text id="digisig.password.header" h="96999927">ID ya Dijitali</text>
+		<text id="digisig.password.label" h="726DCB0F">Tafadhali ingiza nenosiri:</text>
+		<text id="digisig.password.label2" h="1CCEC2FE">Nenosiri iliyowekwa ni batili. Tafadhali ingiza nenosiri halali:</text>
+		<text id="digisig.certify.DocMDP1" h="B15220D4">Hakuna Mabadiliko Yanakubaliwa</text>
+		<text id="digisig.certify.DocMDP2" h="550E66E3">Kubali Ujazaji wa Fomu, Kusaini Waraka na Uundaji wa Violezo vya Ukurasa</text>
+		<text id="digisig.certify.DocMDP3" h="1BFCB157">Kubali Ujazaji wa Fomu, Kusaini Waraka, Uwekaji Maoni na Uundaji wa Violezo vya Ukurasa</text>
+		<text id="sign.by" h="CFEFFC81">kwa %1</text>
+		<text id="dlg.lic.l1" h="D7BC993E">Funguo za Leseni Zilizosakinishwa:</text>
+		<text id="dlg.lic.btn.addKey" h="0F0F4E82">&amp;Ongeza Kifunguo kipya cha Leseni...</text>
+		<text id="dlg.lic.title" h="43843004">Vifunguo vya Leseni</text>
+		<text id="lic.User" h="7E7E6177">Mtumiaji</text>
+		<text id="lic.Email" h="EABC42C8">Barua Pepe</text>
+		<text id="lic.License" h="D06D20AC">Leseni</text>
+		<text id="lic.licNum" h="B97469F0">namba: %1</text>
+		<text id="lic.KeyData" h="835E068C">Data Msingi</text>
+		<text id="lic.daysLeftTip" h="949D0A02">SIKU ZILIZOBAKIA ZA UTUNZAJI</text>
+		<text id="lic.key.expDate" h="CB67C29C">Tarehe ya Mwisho</text>
+		<text id="lic.key.expDateExp" h="6FBA08FE">muda wa utunzaji umekwisha</text>
+		<text id="lic.key.expDateLeft" h="604D2189">siku %1 za utunzaji zimebakia</text>
+		<text id="lic.key.state" h="E2F3ED6A">Hali Msingi</text>
+		<text id="lic.key.valid" h="A4519C22">HALALI</text>
+		<text id="lic.key.expired" h="F6CD9EED">KIMEISHA MUDA WAKE</text>
+		<text id="lic.key.blocked" h="B99C4175">IMEZUILIWA!</text>
+		<text id="lic.key.expiredPart" h="CC7B6389">KIMEISHA MUDA WAKE KIASI</text>
+		<text id="lic.key.renew" h="9E0CAE70">Fanya upya...</text>
+		<text id="lic.noSerialKeys" h="02AAA3DD">Hauna vfunguo vya leseni vilivyosakinishwa.</text>
+		<text id="lic.msg.Title" h="43843004">Vifunguo vya Leseni</text>
+		<text id="lic.remSerial.Text" h="34FE2748">Unauhakika unataka kuondoa vifunguo vya leseni vilivyoteuliwa?
+Operesheni hii haiwezi tenduliwa.</text>
+		<text id="lic.msg.remSerial.Hdr" h="A49A7771">Thibibitisha uondoaji wa vifunguo vya leseni.</text>
+		<text id="lic.msg.cpySerial.Text1" h="C7390EF4">Mwili wa kifunguo cha leseni kilichoteuliwa kimenakiliwa kwenye ubao nakili.</text>
+		<text id="lic.msg.cpySerial.Text2" h="24BBB950">Ufafanuzi wa kifunguo cha leseni umenakiliwa kwenye Ubao nakili.</text>
+		<text id="lic.msg.addSerial.Hdr" h="ECE08EA4">Tokeo la kuongeza vifungo vipya vya leseni:</text>
+		<text id="lic.msg.addSerial.Text11" h="64C435DB">%1 kifunguo cha leseni kimefanikiwa kuongezwa kwenye orodha yako.</text>
+		<text id="lic.msg.addSerial.Text12" h="58D1D708">%1 vifunguo vya leseni vimefanikiwa kuongezwa kwenye orodha yako.</text>
+		<text id="lic.msg.addSerial.Text21" h="529FFB06">%1 kifunguo cha leseni kimerukwa kwa sababu kipo tayari kwenye orodha yako.</text>
+		<text id="lic.msg.addSerial.Text22" h="2DA01DFD">%1 vifunguo vya leseni vimerukwa kwa sababu vipo tayari kwenye orodha yako.</text>
+		<text id="lic.msg.addSerial.Text31" h="569F1BFD">%1 kifunguo cha leseni kimechujwa kwa sababu hakifai kwa bidhaa hii</text>
+		<text id="lic.msg.addSerial.Text32" h="E59ABEEE">%1 vifunguo vya leseni vimerukwa kwa sababu havifai kwa bidhaa hii.</text>
+		<text id="lic.msg.addSerial.Text41" h="73FF4C94">%1 kifunguo cha leseni kimerukwa kwa sababu kina makosa.</text>
+		<text id="lic.msg.addSerial.Text42" h="CF2052FF">%1 vifunguo vya leseni vimerukwa kwa sababu vina makosa.</text>
+		<text id="lic.msg.addSerialErr.Hdr" h="443BD774">Imeshindwa kuongeza kifunguo kipya cha leseni.</text>
+		<text id="lic.msg.addSerialErr.Text1" h="9712BF06">Hakuna vifunguo halali vya leseni kwenye ubao nakili.</text>
+		<text id="lic.msg.activateErr.Hdr2" h="7134134A">Parameta Kosefu ya Uamilisho</text>
+		<text id="lic.msg.activateErr.noKey" h="914AF056">Tafadhali taja kifunguo cha uamilisho.</text>
+		<text id="lic.msg.activateErr.invKey" h="AC0C8EFB">Tafadhali taja kifunguo cha uamilisho halali.</text>
+		<text id="lic.msg.activateErr.noEmail" h="425602D2">Tafadhali taja anwani yako ya barua pepe. Inahitajika katika uamilisho.</text>
+		<text id="lic.msg.activateErr.invEmail" h="87A6E4BF">Anwani hii ya barua pepe inakaa si sahihi.
+
+Je unataka kutumia anwani hii kwa uamilisho?</text>
+		<text id="lic.msg.activateErr.invEmail.tip" h="BD3014C1">TAMBUA: iwapo barua pepe batili ama isiyopo itatajwa, vifunguo vyako vya leseni havitatumwa.</text>
+		<text id="lic.Error" h="51BFF51D">Kosa</text>
+		<text id="lic.Unknown2" h="769B45E0">(&lt;Isiyojulikana&gt;</text>
+		<text id="lic.msg.activateErr.Hdr" h="7660B951">Imeshindwa kuweka msimbo wa uamilisho.</text>
+		<text id="lic.msg.activateErr.Text1" h="82B43AB0">Sababu ni:
+
+%1
+
+Unaweza tembelea &lt;a id="1"&gt;tovuti hii&lt;/a&gt; kutekeleza msimbo wako wa uamilisho kimkono.Pia, unaweza wasiliana na &lt;a id="2"&gt;Wasaidizi&lt;/a&gt; ama kutembela &lt;a id="3"&gt;Msingi wa Maarifa&lt;/a&gt; wetu kwenye tovuti kupata maelezo zaidi.</text>
+		<text id="lic.msg.upgradeSerialErr.Hdr" h="E3C03B87">Haijawezekana kupandisha kifunguo chako cha leseni.</text>
+		<text id="lic.msg.upgradeSerialErr.Text" h="32DC2043">Sababu ni:
+
+%1
+
+Unaweza tembelea &lt;a id="1"&gt;tovuti hii&lt;/a&gt; kupandisha ngazi leseni yako kimkono.Pia, unaweza wasiliana na &lt;a id="2"&gt;Wasaidizi&lt;/a&gt; ama kutembela &lt;a id="3"&gt;Msingi wa Maarifa&lt;/a&gt; wetu kwenye tovuti kupata maelezo zaidi.</text>
+		<text id="lic.Retry" h="82619C32">&amp;Jaribu Tena</text>
+		<text id="lic.Cancel" h="3D302A38">&amp;Kataa</text>
+		<text id="lic.Close" h="6298A5AF">&amp;Funga</text>
+		<text id="lic.bnt.yes" h="EDFA42B4">&amp;Ndio, Pandisha Daraja Sasa Hivi!</text>
+		<text id="lic.bnt.later" h="BCDE8358">La wakati huu, uliza inapofunguliwa tena</text>
+		<text id="lic.bnt.no" h="E1CC0F76">&amp;La, na usiniulize tena</text>
+		<text id="lic.request.header" h="996E7CF5">Tafadhali sambiza kifunguo chako cha leseni.</text>
+		<text id="lic.msg.request" h="42CC8ECA">Toleo la programu lako linahitaji umbizo la kifunguo tofauti na lenye liko kwa toleo lako mzee/la awali. Inawezekana kufanya hivyo kiotomatiki kupandisha daraja kwa umbizo mpya.
+
+Ungetaka kujaribu hivyo sasa hivi (wavuti utahitajika)?
+
+Pia, unaweza tembelea &lt;a id="1"&gt;tovuti&lt;/a&gt; hii kupandisha kifungup chako kimkono ama wasiliana na &lt;a id="2"&gt;Wasaidizi&lt;/a&gt; ama tembela &lt;a id="3"&gt;Msingi wa Maarifa&lt;/a&gt; wetu kwenye tovuti kupata maelezo zaidi.</text>
+		<text id="lic.request_note" h="AD21560C">TAMBUA: hadi upate na kutumia kifunguo cha leseni chenye umbizo iliyorekebishwa, programu hii itafanya kazi katika hali ya 'BURE' ama 'Kutathmini' pekee. Asante kwa ushirikiano wako.</text>
+		<text id="lic.actDlg.title" h="347123F6">Amilisha...</text>
+		<text id="lic.actDlg.header" h="06854D52">Tafadhali ingiza jina lako na barua pepe halali.</text>
+		<text id="lic.actDlg.msg" h="90B85877">Tafadhali hakikisha kuwa anwani ya barua pepe unayotupa ni imara na halali, kwani seva zetu za uamilisho zitatoa sombezo zote na funguo za leseni kupitia hii barua pepe! Pindi tu uamilisho utakapofaulu, programu itasasisha kompyuta lako na funguo ya leseni inayohitajika. </text>
+		<text id="lic.actDlg.name" h="2F83636A">&amp;Jina Lako:</text>
+		<text id="lic.actDlg.email" h="6DC91F37">Barua &amp;Pepe yako:</text>
+		<text id="lic.actDlg.key" h="100602A5">&amp;Ufunguo wa Uamilisho:</text>
+		<text id="lic.actDlg.btn.Activate" h="83914F23">Amilisha</text>
+		<text id="lic.addKeyDlg.title" h="EB4CA58B">Ongeza Kifunguo Kipya cha Leseni/Msimbo wa Uamilisho</text>
+		<text id="lic.addKeyDlg.tip" h="A75F4604">Tafadhali taja kifunguo kipya cha leseni ama msimbo wa uamilisho kwenye kisanduku matini kifuatacho:</text>
+		<text id="lic.addKeyDlg.btn.Paste" h="E7F59864">Bandika Ufungo kutoka kwa Ubao Nakili</text>
+		<text id="lic.addKeyDlg.btn.Continue" h="B72C4E18">Endelea...</text>
+		<text id="lic.msg.addSerialErr.Text2" h="E821568E">Haukutaja kifunguo halali cha leseni.</text>
+		<text id="msg.SMTP.NoServer" h="0141A9D3">Jina la Seva ya SMTP lazima itajwe!</text>
+		<text id="msg.SMTP.Remove" h="468A2A4A">Unauhakika unataka kuondoa mipangilio ya seva ya SMTP iliyoteuliwa?</text>
+		<text id="msg.custom.form.delete" h="D5818ABF">Unauhakika unataka kufuta fomu binafsi hi?</text>
+		<text id="msg.custom.form.noDelete" h="96F67D4A">Hauwezi badilisha ama kufuta Fomu za Binafsi zilizofafanuliwa na Msimamizi wa Mfumo Huu.</text>
+		<text id="msg.custom.form.noName" h="F0231E7A">Unafaa kutaja jina la fomu lako la binafsi.</text>
+		<text id="msg.custom.form.noUnique" h="D3086CF3">Jina la fomu binafsi lazima liwe la kipekee.</text>
+		<text id="msg.wtm.noTitle" h="E85415C3">Jina la Taswira Fifi haliwezi kuwa tupu!</text>
+		<text id="msg.wtm.invName" h="FFE6E784">Jina la Taswira Fifi halifai kuwa na alama ya nusu mkato (;).</text>
+		<text id="msg.wtm.uniqueTitle" h="ECA89E0F">Jina la Taswira Fifi lazima liwe la kipekee!</text>
+		<text id="msg.wtm.delete" h="18BD3007">Unauhakika unataka kufuta taswira fifi hii?</text>
+		<text id="msg.wtm.text" h="03F9D16D">Unafaa kutaja matini ya taswira fifi.</text>
+		<text id="msg.wtm.image" h="96AAFCDF">Unafaa kutaja njia ya faili ya taswira na jina la taswira fifi.</text>
+		<text id="msg.tsa.delete" h="1625F779">Unauhakika unataka kufuta ufafanuzi huu wa seva?</text>
+		<text id="msg.wrongCeritificate" h="4D7D8D33">Cheti cha Dijitali hakijateuliwa ama parameta kosefu zimetajwa.
+Je ungetaka kusahihisha thamani?</text>
+		<text id="msg.DigiSig.CertExpired" h="B5B2FB97">Cheti iliyoteuliwa iliishwa na muda na kwa hivyo haiwezi tumika katika saini za dijitali.</text>
+		<text id="msg.DigiSig.CertCantSign" h="633A9F30">Cheti kilichoteuliwa hakiwezi tumika kwenye saini ya dijitali.
+Inalengewa kwa usimbaji fiche pekee.</text>
+		<text id="msg.PasswordDlg.title" h="23DE88B2">Weka Nenosiri</text>
+		<text id="msg.NeedNameForCert" h="A9A6D514">Jina inahitajika kuunda ID ya Dijitali uliosaini wewe mwenywe.</text>
+		<text id="msg.NeedEmailForCert" h="8E4FB22F">Anwani ya barua pepe inahitajika ilikuunda ID ya Dijitali utakayosaini wewe mwenyewe.</text>
+		<text id="msg.NeedCorrectEmailForCert" h="D7CF5B49">Tafadhali ingiza anwani ya barua pepe iliyohalali (kwa mfano john@mail.com).</text>
+		<text id="msg.PasswTooShort" h="2637CEE9">Nenosiri hafifu.
+Nenosiri yafaa iwe na urefu wa zaidi ya vibambo sita.</text>
+		<text id="msg.WrongConfirmPassw" h="95BA117F">Nenosiri hazilingani.
+Tafadhali weka tena nenosiri.</text>
+		<text id="msg.pwd.empty1" h="80C72A1D">Tafadhali batilisha chaguo kwenye 'Inahitaji nenosiri kufungua waraka' ama ingiza nenosiri.</text>
+		<text id="msg.pwd.empty2" h="60064900">Tafadhali batilisha chaguo kwenye 'Inahitaji nenosiri kubadilisha vibali vya waraka' ama ingiza nenosiri.</text>
+		<text id="msg.pwd.equals" h="2CF348D2">Nenosiri za kufungua waraka na ya vibali haziwezi kuwa sawa. Tafadhali weka neneosiri tofauti kwenye uga moja wa nenosiri.</text>
+		<text id="msg.pwd.bothEmpty" h="8C384AF0">Nenosiri ya Kufungua Waraka ama ya Vibali inafaa kutajwa.</text>
+		<text id="msg.profile.delete" h="2A0B9CEB">Unauhakika unataka kufuta maelezo mafupi haya?</text>
+		<text id="msg.profile.apply" h="D4CD8FBF">Unauhakika unataka kutekeleza maelezo mafupi yaliyoteuliwa?</text>
+		<text id="msg.existingProfile2" h="068DA8B9">Maelezo mafupi '%1' yapo tayari. Unaweza kuyaandikia juu na maelezo mapya ama kutumia jina tofauti  kwa maelezo mafupi mapya.</text>
+		<text id="msg.existingProfile3" h="9F74E185">Maelezo mafupi '%1' yapo tayari. Unfaa kutumia jina tofauti kwa maelezo mafupi mapya.</text>
+		<text id="msg.digisig.selectCertificate" h="FFF5F514">Tafadhali taja cheti cha kusaini waraka ama ondoa tiki kutoka chaguo la 'Saini Waraka Kidijitali'</text>
+		<text id="msg.profile.EmptyProfileName" h="1C3A0E84">Jina la maelezo  mafupi hayawezi kuwa matupu!</text>
+		<text id="msg.profile.DuplicateProfileName" h="201ADD74">Maelezo mafupi yenye jina hili yapo tayari. Je ungetaka kuyaandikia juu?</text>
+		<text id="cmd.menu.path.item0" h="8A695F02">Njia Iliyo&amp;tumika Mwisho</text>
+		<text id="cmd.menu.path.item1" h="5B2DCF0F">Eneo Kazi</text>
+		<text id="cmd.menu.path.item2" h="98C46804">Nyaraka Zangu</text>
+		<text id="cmd.menu.path.item3" h="4D4F3E29">Taswira Zangu</text>
+		<text id="cmd.menu.path.item4" h="310DA860">Vipendwa</text>
+		<text id="cmd.menu.path.item5" h="38694011">Kabrasha ya Muda</text>
+		<text id="cmd.menu.path.item6" h="D255B9B2">Kabrasha ya TMP</text>
+		<text id="cmd.macro.0" h="F0E50ED7">Jina la &amp;Programu</text>
+		<text id="cmd.macro.1" h="766660A7">&amp;Jina la Waraka</text>
+		<text id="cmd.macro.2" h="87E825E6">&amp;Njia ya Waraka</text>
+		<text id="cmd.macro.3" h="2F1434A9">&amp;Tarehe</text>
+		<text id="cmd.macro.4" h="317F717E">&amp;Mwaka</text>
+		<text id="cmd.macro.5" h="11FB07AE">&amp;Mwezi</text>
+		<text id="cmd.macro.6" h="FEBA871A">S&amp;iku</text>
+		<text id="cmd.macro.7" h="92ED9FFA">&amp;Wakati</text>
+		<text id="cmd.macro.8" h="FF8EA365">&amp;Saa</text>
+		<text id="cmd.macro.9" h="B11BAF25">&amp;Dakika</text>
+		<text id="cmd.macro.10" h="E1793117">&amp;Sekunde</text>
+		<text id="cmd.macro.11" h="0A5A0A0C">Jina la Kompyuta</text>
+		<text id="cmd.macro.12" h="D8AEF468">Jina la Mtumiaji</text>
+		<text id="cmd.macro.13" h="88AD9A13">Namba la Ukurasa</text>
+		<text id="cmd.macro.14" h="4505FFA5">&amp;Idadi ya Kurasa</text>
+		<text id="cmd.macro.15" h="62BE4191">Variable ya Mazingira</text>
+		<text id="cmd.form.add" h="9B7E8822">&amp;Ongeza...</text>
+		<text id="cmd.form.add.tip" h="17513505">Ongeza fomu binafsi mpya</text>
+		<text id="cmd.form.edit" h="26BB263A">&amp;Hariri...</text>
+		<text id="cmd.form.edit.tip" h="6618248F">Hariri fomu binafsi iliopo</text>
+		<text id="cmd.form.clone" h="689435EF">Klo&amp;ni</text>
+		<text id="cmd.form.clone.tip" h="06C30368">Tengeneza nakila kloni ya fomu binafsi iliyoteuliwa</text>
+		<text id="cmd.form.remove" h="C945AF71">&amp;Ondoa</text>
+		<text id="cmd.form.remove.tip" h="4B938AAA">Ondoa fomu binafsi iliopo</text>
+		<text id="cmd.wtm.add" h="9B7E8822">&amp;Ongeza...</text>
+		<text id="cmd.wtm.add.tip" h="09971BC5">Ongeza taswira fifi mpya</text>
+		<text id="cmd.wtm.edit" h="26BB263A">&amp;Hariri...</text>
+		<text id="cmd.wtm.edit.tip" h="034D81D9">Hariri taswira fifi iliopo</text>
+		<text id="cmd.wtm.clone" h="689435EF">Klon&amp;ni</text>
+		<text id="cmd.wtm.clone.tip" h="9C040A25">Tengeneza nakala kloni ya taswira fifi iliyoteuliwa</text>
+		<text id="cmd.wtm.remove" h="C945AF71">&amp;Ondoa</text>
+		<text id="cmd.wtm.remove.tip" h="4C4F77E8">Ondoa taswira fifi iliyoteuliwa</text>
+		<text id="cmd.wtm.move.up" h="055499B8">Hamisha &amp;Juu</text>
+		<text id="cmd.wtm.move.down" h="EAFA093E">Hamisha &amp;Chini</text>
+		<text id="cmd.wtm.move.top" h="080FF561">Hamisha &amp;Juu Kabisa</text>
+		<text id="cmd.wtm.move.bottom" h="E0041811">Hamisha &amp;Chini Kabisa</text>
+		<text id="cmd.tsa.add" h="9B7E8822">&amp;Ongeza...</text>
+		<text id="cmd.tsa.add.tip" h="121573D6">Ongeza seva mpya ya mhuri wa muda</text>
+		<text id="cmd.tsa.edit" h="26BB263A">&amp;Hariri...</text>
+		<text id="cmd.tsa.edit.tip" h="72EA14A0">Hariri  seva ya mhuri wa muda iliopo</text>
+		<text id="cmd.tsa.clone" h="689435EF">Klon&amp;ni</text>
+		<text id="cmd.tsa.clone.tip" h="1AD29189">Tengeneza nakala kloni ya seva ya mhuri wa muda iliyoteuliwa</text>
+		<text id="cmd.tsa.remove" h="C945AF71">&amp;Ondoa</text>
+		<text id="cmd.tsa.remove.tip" h="3C28BE04">Ondoa seva ya mhuri wa muda iliyoteuliwa</text>
+		<text id="cmd.tsa.move.up" h="055499B8">Hamisha &amp;Juu</text>
+		<text id="cmd.tsa.move.down" h="EAFA093E">Hamisha &amp;Chini</text>
+		<text id="cmd.tsa.move.top" h="080FF561">Hamisha &amp;Juu Kabisa</text>
+		<text id="cmd.tsa.move.bottom" h="E0041811">Hamisha &amp;Chini Kabisa</text>
+		<text id="cmd.rule.add" h="9B7E8822">&amp;Ongeza...</text>
+		<text id="cmd.rule.add.tip" h="DFDB4A9B">Ongeza kanuni mpya ya hali ya kiendeshi</text>
+		<text id="cmd.rule.edit" h="26BB263A">&amp;hariri</text>
+		<text id="cmd.rule.edit.tip" h="D4A24586">Tazama/hariri kipengee kilichopo</text>
+		<text id="cmd.rule.remove" h="C945AF71">&amp;Ondoa</text>
+		<text id="cmd.rule.remove.tip" h="6CEDB37A">Ondoa kipengee kilichoteuliwa</text>
+		<text id="cmd.textStyle.bold" h="1D8461F8">Herifi Nzito</text>
+		<text id="cmd.textStyle.bold.tip" h="F2DE3410">Fanya matini yaliyoteuliwa herufi nzito</text>
+		<text id="cmd.textStyle.italic" h="C61EB895">Italiki</text>
+		<text id="cmd.textStyle.italic.tip" h="F196A5E2">Fanya italiki matini yaliyoteuliwa</text>
+		<text id="cmd.textStyle.underline" h="2A187377">Pigia Mstari</text>
+		<text id="cmd.textStyle.underline.tip" h="1D57F33C">Pigilia mstari matini yaliyoteuliwa</text>
+		<text id="cmd.textStyle.strikeOut" h="905D7C0F">Pigia Mkato Ulalo</text>
+		<text id="cmd.textStyle.strikeOut.tip" h="486E2331">Chora laini katikati ya matini yaliyoteuliwa</text>
+		<text id="cmd.textStyle.superScript" h="48E13B49">Hati Juu</text>
+		<text id="cmd.textStyle.superScript.tip" h="502CDB9F">Unda herufi ndogo juu ya laini msingi ya matini.</text>
+		<text id="cmd.textStyle.subScript" h="C13D1308">Hati Chini</text>
+		<text id="cmd.textStyle.subScript.tip" h="83378A49">Unda herufi ndogo chini ya laini msingi ya matini.</text>
+		<text id="cmd.textStyle.clear" h="D1756ADB">Futa Uumbizaji Matini</text>
+		<text id="cmd.textStyle.clear.short" h="48BD8C4E">Futa Mtindo</text>
+		<text id="cmd.textStyle.clear.tip" h="37581125">Futa uumbizaji matini</text>
+		<text id="cmd.text.hyphenate" h="9D162E6F">Weka Matini Kistariungio</text>
+		<text id="cmd.text.hyphenate.short" h="59DF3C8C">Weka Kistariungio</text>
+		<text id="cmd.text.hyphenate.tip" h="3B30FFB2">Weka matini kistariungio.</text>
+		<text id="cmd.text.paraSettings" h="0161553A">Aya...</text>
+		<text id="cmd.text.paraSettings.tip" h="A9CB27EC">Onyesha kidadisi cha mipangilio ya aya ili kubadilisha laini na nafasi kati ya matini, jongezo, mpangilio, etc.</text>
+		<text id="cmd.textDirection.LTR" h="83A2917C">Kushoto kwenda Kulia</text>
+		<text id="cmd.textDirection.LTR.tip" h="2E2C0505">Weka mwelekeo wa Kushoto kwenda Kulia</text>
+		<text id="cmd.textDirection.RTL" h="DA7AD5D4">Kulia kwenda Kushoto</text>
+		<text id="cmd.textDirection.RTL.tip" h="75BC97C1">Weka mwelekeo wa Kulia kwenda Kushoto</text>
+		<text id="cmd.noProps" h="EB52FA55">Hakuna Sifa</text>
+		<text id="cmd.noProps.tip" h="2C064E7D">Hakuna kiolwa chenye sifa kimeteuliwa sasa hivi.</text>
+		<text id="cmd.profile.edit" h="26BB263A">&amp;Hariri...</text>
+		<text id="cmd.profile.edit.tip" h="983E6A15">Hariri maelezo mafupi yaliop tayari</text>
+		<text id="cmd.profile.clone" h="689435EF">Klo&amp;ni</text>
+		<text id="cmd.profile.clone.tip" h="9AAD99F9">Tengeneza nakala kloni ya maelezo mafupi yaliyoteuliwa</text>
+		<text id="cmd.profile.remove" h="C945AF71">&amp;Ondoa</text>
+		<text id="cmd.profile.remove.tip" h="02D435F9">Ondoa maelezo mafupi yaliyoteuliwa</text>
+		<text id="cmd.profile.import" h="0FE6AAE6">&amp;Leta...</text>
+		<text id="cmd.profile.import.tip" h="C1B5CBD1">Leta maelezo mafupi kwa faili</text>
+		<text id="cmd.profile.export" h="02819881">Ha&amp;misha...</text>
+		<text id="cmd.profile.export.tip" h="8D4C4AE3">Hamisha maelezo mafupi yaliyoteuliwa</text>
+		<text id="cmd.help.help" h="1DDADC82">Usaidizi wa Bidhaa</text>
+		<text id="cmd.help.home" h="09F653F5">Ukurasa wa Byumbani</text>
+		<text id="cmd.help.support" h="FA313F31">Mkutano wa Usaidizi</text>
+		<text id="cmd.help.checkForUpdates" h="B4EF7EF3">Angalia Visasisho</text>
+		<text id="page.paper.name" h="4079C816">Karatasi</text>
+		<text id="page.paper.title" h="BD068256">Mipangilio ya Karatasi</text>
+		<text id="page.customForm.name" h="4902546D">Fomu Binafsi</text>
+		<text id="page.customForm.title" h="740C73DF">Mipangilio Binafsi ya Fomu</text>
+		<text id="page.general.name" h="30673BCD">Kawaida</text>
+		<text id="page.general.title" h="37CF7747">Mipangilio ya Kawaida</text>
+		<text id="page.graphics.name" h="63B3B423">Michoro</text>
+		<text id="page.graphics.title" h="C43D547E">Mipangilio ya Michoro</text>
+		<text id="page.compression.name" h="A7C57E10">Mfinyazo</text>
+		<text id="page.compression.title" h="0A4F2829">Mipangilio ya Mfinyazo</text>
+		<text id="page.fonts.name" h="B72149DB">Fonti</text>
+		<text id="page.fonts.title" h="50207349">Chaguo za Fonti Pachikwa</text>
+		<text id="page.links.name" h="6E16975C">Viungo</text>
+		<text id="page.links.title" h="4B8634B3">Mipangilio ya Viungo</text>
+		<text id="page.docInfo.name" h="3564CAE4">Maelezo ya Waraka</text>
+		<text id="page.docInfo.title" h="8E6BE160">Maelezo ya Waraka</text>
+		<text id="page.headers.name" h="5ECD7CD4">Kijajuu/Kijachini</text>
+		<text id="page.headers.title" h="261FD71E">Mipangilio ya Kijajuu na Kijachini</text>
+		<text id="page.append.name" h="F84FF456">Faili ambatisho chaguo-msingi</text>
+		<text id="page.append.title" h="D1438457">Ambatusho la Faili ya Zida/Chaguo za uingizi</text>
+		<text id="page.bookmarks.name" h="E2032460">Vialamisho </text>
+		<text id="page.bookmarks.title" h="637228AD">Mipangilio ya Vialamisho</text>
+		<text id="page.overlay.name" h="59427459">Tandazo</text>
+		<text id="page.overlay.title" h="7E41B81E">Mipangilio ya Tandazo</text>
+		<text id="page.email.name" h="0BFBFB66">Barua Pepe</text>
+		<text id="page.email.title" h="D154F309">Mipangilio ya Barua Pepe</text>
+		<text id="page.save.name" h="B120B787">Hifadhi</text>
+		<text id="page.save.title" h="94A844CD">Hifadhi Mipangilio</text>
+		<text id="page.security.name" h="8292AF02">Usalama</text>
+		<text id="page.security.title" h="DEDCAAE8">Usalama wa Waraka</text>
+		<text id="page.watermarks.name" h="9EC3F447">Taswira Fifi</text>
+		<text id="page.watermarks.title" h="1EABC5DE">Mipangilio ya Taswira Fifi</text>
+		<text id="page.optimization.name" h="32F54CF2">Ubroreshaji</text>
+		<text id="page.optimization.title" h="638FC2A7">Mipangilio ya Ubroreshaji</text>
+		<text id="page.languages.name" h="C41449B2">Lugha:</text>
+		<text id="page.languages.title" h="D5C43A44">Chagua Lugha ya Kiolesura cha Mtumiaji</text>
+		<text id="about.copyright" h="959E18E0">Hakimiliki © 2001-2017 na &lt;a=1&gt;Tracker Sofware Products (Canada) Ltd,&lt;/a&gt;/nPO BOX 79, 9622 Chemainus RD, Chemainus, BC. VOR 1K0 - HAKI ZOTE ZIMEHIFADHIWA.</text>
+		<text id="about.credits" h="28592C00">Alama zigenezo za Biashara/Hakimiliki zinathibitishwa &amp; kuwa ni mali za wamiliki wanaofaa, wakiwemo:
+•     Zlib na Mark Adler &amp; Jean-Loup Gailly,
+•     Little CMS na Marti Maria na IPG © 1991-98.
+•     Freetype2 na David Turner, Robert Wilhelm &amp; Werner Lemberg © 1996-2001, 2006
+•     Tesseract OCR Engine. Uundaji asilia ulifanywa na Hewlett Packard Laboratories katika Hewlett-Packard Co, Greeley Colorado,
+       misimbo yote kwenye usambazaji huu imo katika leseni ya Apache.</text>
+		<text id="about.help" h="6887DFB0">Usai&amp;dizi...</text>
+		<text id="about.reg" h="05BF124F">&amp;Usajili...</text>
+		<text id="about.version" h="52344715">Toleo: &lt;b&gt;%1&lt;/b&gt; (Mjengo &lt;b&gt;%2&lt;/b&gt;)%3%4</text>
+		<text id="above" h="09C2601E">kwa taswira zilizojuu ya:</text>
+		<text id="bk.asTitle" h="513216FA">&amp;Tumia Kichwa cha Waraka Kama Shina ya Vialamisho</text>
+		<text id="bk.disp.color" h="02977B17">Rangi:</text>
+		<text id="bk.disp.state" h="EE1B645B">Hali:</text>
+		<text id="bk.disp.style" h="AEC0CE33">Mtindo:</text>
+		<text id="bk.enable" h="F09B2FCA">&amp;Wezesha Ugunduzi wa Kiotomatiki wa Vialamisho</text>
+		<text id="bk.g.title" h="1492312B">Chaguo za ugunduzi</text>
+		<text id="bk.g1.title" h="1366B304">Kiolezo</text>
+		<text id="bk.g3.title" h="1B201DEF">Chaguo za Uonyesho</text>
+		<text id="bk.load" h="96130CAB">&amp;Pakia...</text>
+		<text id="bk.match" h="85EA08AA">&amp;Linganisha Fundo Bila Kufuatilia Kiwango</text>
+		<text id="bk.multi" h="B5D3268E">&amp;Kubalia Vialamisho vya Laini Anuwai</text>
+		<text id="bk.dispMode" h="5CA46335">&amp;Hali ya Uonyesho:</text>
+		<text id="bk.Level" h="AEA169E8">&amp;Kiwango:</text>
+		<text id="bk.opened" h="ECDD3B81">Imefunguliwa</text>
+		<text id="bk.save" h="46DCCD20">&amp;Hifadhi...</text>
+		<text id="bk.use.color" h="37314879">&amp;Rangi:</text>
+		<text id="bk.use.font" h="6196C38F">&amp;Fonti:</text>
+		<text id="bk.use.size" h="2519C487">Uku&amp;bwa:</text>
+		<text id="bk.use.style" h="9B66FD5D">&amp;Mtindo:</text>
+		<text id="btn.browse2" h="FF1DC93F">&amp;Vinjari..</text>
+		<text id="btn.browse3" h="0BAC1EBD">Vin&amp;jari</text>
+		<text id="btn.edit" h="26BB263A">&amp;Hariri...</text>
+		<text id="btn.new" h="F41C4AA5">&amp;Mpya...</text>
+		<text id="btn.reset" h="E704BDE1">&amp;Weka Upya</text>
+		<text id="btn.macro" h="A202F8D8">Mak&amp;ro:</text>
+		<text id="compr.cb.compr.ascii" h="2A016E94">Umbizo la &amp;ASCII (Faili Kubwa Zaidi)</text>
+		<text id="compr.cb.compr.graphics" h="ED1F20CB">Finyaza &amp;Michoro</text>
+		<text id="compr.cb.compr.text" h="0FDBEC91">Finyaza &amp;Matini</text>
+		<text id="compr.cb.use.high" h="E8B25BAD">&amp;Finyaza kutumia:</text>
+		<text id="compr.cb.use.indexed" h="5622CD17">Finyaza &amp;Kutumia:</text>
+		<text id="compr.cb.use.mono" h="6E7D9ACB">Fin&amp;yaza Kutumia:</text>
+		<text id="compr.g.general" h="30673BCD">Kawaida</text>
+		<text id="compr.g.high" h="99D510D5">Rangi ya Upeo / Taswira Rekebu-kijivu</text>
+		<text id="compr.g.indexed" h="FE837B06">Taswira kwenye Kielezo</text>
+		<text id="compr.g.mono" h="19F5498E">Taswira za Rangi Moja</text>
+		<text id="compr.l.jbig2" h="D06E637F">Mbinu ya J&amp;BIG2</text>
+		<text id="compr.l.jpeg" h="C63A5BAE">&amp;Ubora wa JPEG:</text>
+		<text id="cust.add" h="56C98524">Ongeza -&amp;&gt;</text>
+		<text id="cust.l.avpages" h="E7B700F9">Kurasa Ziliopo:</text>
+		<text id="cust.l.height" h="ABCFFD24">&amp;Urefu:</text>
+		<text id="cust.l.vispages" h="67E2B616">Kurasa Zinazooenekana:</text>
+		<text id="cust.remove" h="DE318D1F">Ondoa -&amp;&gt;</text>
+		<text id="custform.g1.title" h="567B3029">&amp;Jina Binafsi la Fomu: </text>
+		<text id="custform.g2.title" h="3E43518D">Pandeolwa Binafsi za Ukubwa wa Fomu</text>
+		<text id="custform.g3.title" h="AA174316">Vigezo</text>
+		<text id="custform.l.width" h="B061B0AB">&amp;Upana:</text>
+		<text id="dlg.AddCustomForm" h="B88CFE3B">Ongeza/Hariri Fomu Binafsi</text>
+		<text id="dlg.AddMode" h="CBEDEC17">Ongeza/Hariri Hali ya Kiendeshi</text>
+		<text id="dlg.AddMode.app.cue" h="696733B2">kwa mfano, winword.exe</text>
+		<text id="dlg.AddWatermark" h="F5059D91">Ongeza/Hariri Taswira Fifi</text>
+		<text id="dlg.Customize" h="E3787BF8">Geuza Kukufaa</text>
+		<text id="dlg.CustomizeHF" h="B562B8E4">Geuza Kukufaa</text>
+		<text id="dlg.DigiSig" h="B472008F">Saini ya Dijitali</text>
+		<text id="dlg.ManageMode" h="18A54865">Kanuni za Hali ya Kiendeshi</text>
+		<text id="dlg.ManageMode.defLabel" h="533A5A8B">Hali Chaguo-msingi</text>
+		<text id="dlg.ManageMode.g1.title" h="16A3DE48">Kanuni Zilizopo</text>
+		<text id="dlg.ManageMode.g2.title" h="B6EF2024">Chaguo-msingi</text>
+		<text id="dlg.ManageProfiles" h="CED5F01E">Kisimamizi Maelezo Mafupi</text>
+		<text id="dlg.ProfileInfo" h="61A918CC">Ongeza/Hariri Maelezo Mafupi</text>
+		<text id="dlg.SMTP" h="BE9019DD">Ongeza/Hariri Seva ya SMTP</text>
+		<text id="dlg.editTSA" h="F88151A4">Seva ya Mhuri wa Muda</text>
+		<text id="dlg.manageTSA" h="E2652235">Orodha ya Seva za Mhuri wa Muda</text>
+		<text id="dlg.newCertificate" h="15B8205F">Unda ID ya Dijitali Uliosaini Wewe Mwenywe</text>
+		<text id="dnc.description" h="0065C015">Kujitengenezea saini binafsi ya ID Dijitali ni mbinu ya bure yakusaini kitarakimu waraka wa PDF, lakini inaweza kuwa sio mwafaka nyakati zinapohitaji uhakikishi wa mtu wa tatu</text>
+		<text id="dnc.file" h="DC86E810">Faili Aina Mpya ya PKCS#12 Digital ID</text>
+		<text id="dnc.g1.title" h="608B6BF2">Sifa za ID ya Dijitali:</text>
+		<text id="dnc.g2.title" h="D4279166">Ni wapi ungepotaka kuhifadhi saini yako ya ID ya Dijitali?</text>
+		<text id="dnc.l.alg" h="E01D59D2">&amp;Alogarithimu ya Ufunguo:</text>
+		<text id="dnc.l.confirm" h="AB328CBA">Thibi&amp;tisha Nenosiri:</text>
+		<text id="dnc.l.country" h="85808648">Nchi/&amp;Eneo:</text>
+		<text id="dnc.l.email" h="BF27CB5F">&amp;Anwani ya Barua Pepe</text>
+		<text id="dnc.l.name" h="09FAD31D">&amp;Jina:</text>
+		<text id="dnc.l.org" h="620DF5BE">Jina la Shi&amp;rika:</text>
+		<text id="dnc.l.pass" h="7FAD5B01">Neno&amp;siri:</text>
+		<text id="dnc.l.pkcs12" h="543A3DAB">Inatengeneza ID ya Dijitali inayolindwa na nenosiri inayutumia kiwango umbizo cha PKCS#12. Hii mbinu inakubalika na programu nyingi za usalama, ikiwemo vivinjari wavuti vinavyojulikana. Faili za PKCS#12 hutumia viendelezi vya .pfx ama .p12.</text>
+		<text id="dnc.l.system" h="F767B01F">ID yako ya Dijitali itahifadhiwa ndani ya Hifadhi Cheti cha Windows, ambapo itakuwa inapatikana na programu zingenezo za Windows. ID hii ya dijitali inalindwa na kiingizi akaunti chako cha Windows.</text>
+		<text id="dnc.l.unit" h="82F8B8FF">&amp;Kitengo cha Shirika:</text>
+		<text id="dnc.l.usage" h="8B979C65">Tumia ID ya &amp;Dijitali Kwa:</text>
+		<text id="dnc.system" h="8D7E75D6">Hifadhi Cheti cha Windows&lt;</text>
+		<text id="docinfo.ask" h="BF944220">&amp;Ulizia Maelezo ya Waraka Uchapishaki Ukianza</text>
+		<text id="docinfo.author" h="1737C813">Mwan&amp;dishi:</text>
+		<text id="docinfo.creator" h="1B812E77">M&amp;uundaji:</text>
+		<text id="docinfo.enable" h="F0A9B0E7">Weka Maelezo ya Ziada kwenye &amp;Waraka</text>
+		<text id="docinfo.g.title" h="E96E93B9">Maelezo ya PDF</text>
+		<text id="docinfo.keywords" h="70561097">Maneno M&amp;singi:</text>
+		<text id="docinfo.producer" h="AE772588">&amp;Kizalishi:</text>
+		<text id="docinfo.subject" h="F6AB0643">&amp;Mada:</text>
+		<text id="docinfo.title" h="A6AB0B5B">&amp;Kichwa</text>
+		<text id="docinfo.xmp" h="0DF53689">Ongeza &amp;Metadata ya XMP kwenye Waraka</text>
+		<text id="ds.cb.date" h="6D57473E">Tarehe</text>
+		<text id="ds.cb.dname" h="F9ABD1CE">Jina la Kipekee</text>
+		<text id="ds.cb.labels" h="4BA63161">Lebo</text>
+		<text id="ds.cb.location" h="52D95020">Mahali</text>
+		<text id="ds.cb.logo" h="EB08AA01">On&amp;yesha Logo</text>
+		<text id="ds.cb.name" h="63FE3EDE">Ji&amp;na</text>
+		<text id="ds.cb.reason" h="11BD8A6E">Sababu</text>
+		<text id="ds.cb.subject" h="8D5A19C4">Ma&amp;da</text>
+		<text id="ds.create" h="BB3716B9">Un&amp;da Cheti...</text>
+		<text id="ds.g1.title" h="96999927">ID ya Dijitali</text>
+		<text id="ds.g2.title" h="AEE125D6">Maelezo</text>
+		<text id="ds.g4.title" h="EFFDDE78">Mandhari</text>
+		<text id="ds.g5.title" h="0C13107E">Nafasi</text>
+		<text id="ds.img.cue" h="51846090">&lt;bonyeza kuvinjari taswira&gt;</text>
+		<text id="ds.l.contact" h="A8B0C056">Maelezo ya Mwasiliani:</text>
+		<text id="ds.l.graphic" h="880A621F">&amp;Michoro</text>
+		<text id="ds.l.height" h="EF61EFBD">Urefu:</text>
+		<text id="ds.l.hoffset" h="DF4C107F">Fidio &amp;Mlalo:</text>
+		<text id="ds.l.issued" h="B245A018">Imepatiwa Kwa:</text>
+		<text id="ds.l.location" h="C9265ABC">Ma&amp;hali:</text>
+		<text id="ds.l.perms" h="65731FF3">&amp;Vigezo:</text>
+		<text id="ds.l.reason" h="9BA10106">&amp;Sababu la Kusaini:</text>
+		<text id="ds.l.useFile" h="7EA982B8">Jina la &amp;Faili:</text>
+		<text id="ds.l.voffset" h="ACE5B906">Fidio &amp;Wima:</text>
+		<text id="ds.l.width" h="85C783C5">Upana:</text>
+		<text id="ds.l.page" h="660A3F38">Ukurasa:</text>
+		<text id="ds.lastPage" h="6362BC4B">Weka kwa Ukursa &amp;Mwisho</text>
+		<text id="ds.useFile" h="664F560D">Tumia Cheti kutoka kwa Faili</text>
+		<text id="ds.useSystem" h="B064DE08">Tumia Cheti kutoka kwa Hifadhi ya &amp;Mfumo</text>
+		<text id="ds.view" h="BE4DE4A8">Ta&amp;zama Cheti...</text>
+		<text id="ds.visible" h="D0D758F9">Wekelea Saini &amp;Inayoonekana kwenye Nafasi Iliyotajwa</text>
+		<text id="email.method" h="6900EC9A">&amp;Mbinu:</text>
+		<text id="email.bcc" h="545EB298">&amp;Bcc:</text>
+		<text id="email.cc" h="45106A78">&amp;Cc:</text>
+		<text id="email.content" h="64D3C808">Ma&amp;udhui:</text>
+		<text id="email.enable" h="BA8783C7">Tuma Waraka Ulioundwa kama &amp;Kiambatisho cha Barua Pepe</text>
+		<text id="email.from" h="60652CC5">&amp;Kutoka:</text>
+		<text id="email.props" h="61B2B055">Sifa za Barua Pepe</text>
+		<text id="email.server" h="74EFFD0D">&amp;Seva:</text>
+		<text id="email.smtp" h="28F504E2">Sifa za STMP</text>
+		<text id="email.subject" h="7E069DE3">Ma&amp;da:</text>
+		<text id="email.to" h="1115E7E3">&amp;Kwa:</text>
+		<text id="email.zip" h="5480212A">Tuma Waraka kwenye Hifadhi ya &amp;ZIP</text>
+		<text id="extra.append" h="C3DCB52D">&amp;Ambatisha towe na faili ya PDF </text>
+		<text id="extra.f.append" h="FB213381">F&amp;aili:</text>
+		<text id="extra.f.prepend" h="02945BF9">&amp;Faili</text>
+		<text id="extra.g1.title" h="A505B373">Ambatisha kwenye mwanzo wa Waraka</text>
+		<text id="extra.g2.title" h="0491DF99">Ambatisha waraka</text>
+		<text id="extra.p.append" h="7FAD5B01">Nen&amp;osiri:</text>
+		<text id="extra.p.prepend" h="6975636F">Neno&amp;siri:</text>
+		<text id="extra.prepend" h="D317ECC5">&amp;Ambatisha kwenye mwanzo wa PDF towe</text>
+		<text id="fonts.all" h="10AA37DF">Pachika Fonti &amp;Zote Zilizotumika</text>
+		<text id="fonts.always" h="F963BAE8">&amp;Pachika Hizi Fonti Kila Wakati:</text>
+		<text id="fonts.extra" h="CC2E563C">Pachika Maelezo ya Zaidi ya Fonti/Vibambo</text>
+		<text id="fonts.l.available" h="EE0273C3">&amp;Fonti Ziliopo: </text>
+		<text id="fonts.never" h="98D18B9F">&amp;Usiwahi Pachika Fonti:</text>
+		<text id="fonts.protected" h="3442F300">Lazimisha Kupachikwa kwa Fonti Zilizo&amp;lindwa</text>
+		<text id="fonts.subset" h="EAA9617B">Pachika kundi la fonti pekee iwapo asilimia ya vibambo vilivyotumika ni chini ya: </text>
+		<text id="fonts.temp" h="B4A64053">Lazimisha Kupachikwa kwa Fonti za &amp;Muda</text>
+		<text id="gen.center" h="36B29C58">Weka Dirisha la &amp;Waraka Katikati</text>
+		<text id="gen.docTitle" h="20B838ED">Onyesha Kichwa cha Wa&amp;raka kwenye Mwambaa Kichwa wa Dirisha</text>
+		<text id="gen.g1.title" h="F4A99A40">Kiwango cha PDF</text>
+		<text id="gen.g2.title" h="BE761DF7">Waraka Ukifunguliwa:</text>
+		<text id="gen.g3.title" h="99033ADB">Mpito</text>
+		<text id="gen.g4.title" h="FC8108D3">Mipangilio ya Mtazamaji:</text>
+		<text id="gen.hideMenu" h="F0C440A1">Ficha Mwambaa wa Men&amp;yu</text>
+		<text id="gen.hideToolbars" h="54F815A4">Ficha &amp;Upauzana:</text>
+		<text id="gen.hideUI" h="A2A6D4A8">Ficha Elementi za Kiolesura cha Mtumiaji la Dirisha la Waraka </text>
+		<text id="gen.l.fullscreen" h="094D1D93">Hali ya Ukurasa Skrini Nzima:</text>
+		<text id="gen.l.layout" h="B301889D">&amp;Mpangilio wa Ukurasa:</text>
+		<text id="gen.l.mode" h="710B6344">&amp;Hali ya Ukurasa:</text>
+		<text id="gen.l.page" h="109582AA">&amp;Fungua kwenye Ukurasa:</text>
+		<text id="gen.l.pdur" h="4463DE4F">Muda wa Ukurasa:</text>
+		<text id="gen.l.spec" h="439D58B3">Fuata Kiwa&amp;go cha:</text>
+		<text id="gen.l.tdur" h="6CB2A5F3">Muda wa Mpito:</text>
+		<text id="gen.l.tmode" h="D1B57A88">Hali ya Mpito:</text>
+		<text id="gen.l.ttype" h="289DA88B">Aina ya Mpito:</text>
+		<text id="gen.l.zoom" h="362EEF1A">Uku&amp;zaji:</text>
+		<text id="gen.resize" h="60879BE7">Badilii Ukubwa wa Dirisha Kulingana na Ukubwa wa Ukurasa Kwanza</text>
+		<text id="graph.l.threshold" h="B2FADA6C">Kizingiti:</text>
+		<text id="graph.use.dither" h="3FA24F74">Tumia Dithering</text>
+		<text id="hf.enable" h="C8410A02">&amp;Ongeza Vijajuu na Vijachini kwenye Kurasa za Waraka</text>
+		<text id="hf.foot" h="ECBC4A48">Kijachini</text>
+		<text id="hf.g1.title" h="5244D472">Kijajuu na Kijachini</text>
+		<text id="hf.g2.title" h="DAD7B4F4">Chaguo</text>
+		<text id="hf.g3.title" h="62C950A2">Kingo</text>
+		<text id="hf.head" h="AF62F631">&amp;Kijajuu:</text>
+		<text id="hf.l.bottom" h="83BFDBE3">&amp;Chini:</text>
+		<text id="hf.l.first" h="459E6554">&amp;Nambari ya Kwanza ya Ukurasa:</text>
+		<text id="hf.l.left" h="0B27CDE3">&amp;Kushoto:</text>
+		<text id="hf.l.right" h="C896EA9F">K&amp;ulia:</text>
+		<text id="hf.l.top" h="DBE4B23E">&amp;Juu:</text>
+		<text id="hf.units" h="A29BF002">&amp;Vitengo:</text>
+		<text id="hf.customize1" h="B562B8E4">Geuza Kukufaa...</text>
+		<text id="hf.customize2" h="B562B8E4">Geuza Kukufaa...</text>
+		<text id="links.check" h="572D738F">Kagua Faili Ipo kwa Uanganishi</text>
+		<text id="links.detect" h="BADAE078">Gundua &amp;Majina ya Faili na Gueza Kuwa Viungo vya PDF</text>
+		<text id="links.enable" h="88E82DA8">&amp;Changanua URL za Matini Iliyochapishwa </text>
+		<text id="links.local" h="8C690B8E">Faili za Ndani</text>
+		<text id="links.options" h="4A56A155">Chaguo za Viungo</text>
+		<text id="links.border.type" h="F1E3B439">Aina ya Ukingo:</text>
+		<text id="links.border.color" h="20E74546">&amp;Rangi ya Ukingo:</text>
+		<text id="links.border.style" h="8CB0F062">&amp;Mtindo wa Ukingo:</text>
+		<text id="links.border.width" h="A7B7BD94">&amp;Upana wa Ukingo:</text>
+		<text id="links.l.example" h="1F37513E">Mfano:</text>
+		<text id="mail.smtp" h="E2F8F5FC">Seva ya SMTP</text>
+		<text id="mail.smtp.pass" h="7FAD5B01">Neno&amp;siri:</text>
+		<text id="mail.smtp.port" h="3F32F0C0">Kituo &amp;tarishi:</text>
+		<text id="mail.smtp.portDef" h="ED26CC87">Chaguo-msingi: %1</text>
+		<text id="mail.smtp.security" h="AF0F4585">&amp;Usalama wa Muunganisho</text>
+		<text id="mail.smtp.serverAuthent" h="89DD97BE">Seva Inahitaji &amp;Uhalalishaji</text>
+		<text id="mail.smtp.serverName" h="BD084E34">&amp;Jina la Seva:</text>
+		<text id="mail.smtp.serverNameCue" h="BE98874E">Mfano: smtp.example.com</text>
+		<text id="mail.smtp.userName" h="6901D750">&amp;Jina la Mtumiaji:</text>
+		<text id="lang.l.select" h="8E26C53F">Teua lugha ya kiolesura cha mtumiaji unayopendelea:</text>
+		<text id="lang.l.more" h="2E2CCD84">&lt;a=1&gt;Lugha Zaidi...&lt;/a&gt;</text>
+		<text id="lang.btn.asDefault" h="DFA4AF2F">Weka kama &amp;Chaguo-msingi</text>
+		<text id="opt.grayAsRGB" h="BE6DCABB">Andika Paleti ya Rekebu-kijivu kwenye Nafasi rangi ya RGB</text>
+		<text id="opt.l.blend" h="5C764562">Operesheni ya Kuchanganya:</text>
+		<text id="opt.l.detess" h="04F08091">Mbinu ya De-tesselation:</text>
+		<text id="opt.masked" h="6970012F">Tumia Taswira Barakoa</text>
+		<text id="opt.g1" h="DAD7B4F4">Chaguo</text>
+		<text id="opt.mbytes" h="E03A7614">Mbytes</text>
+		<text id="opt.optImages" h="0E1D0448">Wezesha Uboreshaji wa Taswira &amp;Zinazofuatana</text>
+		<text id="opt.swap" h="305C86AE">Badilisha kwa Taswira Diski Zenye Ukubwa Zaidi Ya:</text>
+		<text id="opt.transp" h="994F0333">Tumia Uchoraji Angavu</text>
+		<text id="ove.l.file" h="5690D310">Faili Tanda&amp;zo:</text>
+		<text id="over.enable" h="5AE47AAE">&amp;Tandaza na Faili ya PDF iliopo</text>
+		<text id="over.extra" h="EC77115A">Kurasa zilizotandazwa zimeongezwa na &lt;a=1&gt;nyaraka zilizoambatishwa kwa ziada&lt;/a&gt;</text>
+		<text id="over.fit" h="3BA1739C">Toshele&amp;za Kurasa Tandazo kwenye Kurasa za Nyaraka Zilizoundwa Upya</text>
+		<text id="over.foreground" h="CC9518F1">Weka Faili Tandazo kama Mand&amp;harimbele</text>
+		<text id="over.keep" h="A4D6664D">Hifadhi &amp;Uwiano Kimo-upana</text>
+		<text id="over.l.align" h="78726E92">Pangilia Kurasa Tandazo Husiani na Kurasa Mpya za Waraka wa PDF:</text>
+		<text id="over.l.hor" h="080F71A2">Kwa M&amp;lalo:</text>
+		<text id="over.l.pass" h="3B996C2A">&amp;Nenosiri la kufungua faili iliyolindwa:</text>
+		<text id="over.l.vert" h="DD066115">Kwa &amp;Wima:</text>
+		<text id="over.pos" h="E9C070C5">Sehemu</text>
+		<text id="over.repeat" h="18BFF1DB">Chaguo za Marudio</text>
+		<text id="over.repeat.cont" h="7A290673">&amp;Rudio la Kunedelea la Faili Tandazo liliofupi Zaidi</text>
+		<text id="over.repeat.last" h="B744CD52">&amp;Rudia Ukurasa wa &amp;Mwisho wa Faili Tandazo Uliomfupi Zaidi</text>
+		<text id="over.repeat.none" h="6361EAE7">&amp;Bila Kurudia</text>
+		<text id="papList.label" h="5BB50205">Fomu binafsi ziliopo:</text>
+		<text id="paper.c.borders" h="872135AE">Chapisho Kingo za Kurasa</text>
+		<text id="paper.cb.center" h="CBEFB4D0">Katikati</text>
+		<text id="paper.cb.fit" h="9078F779">Rekebsiha Kutoshea</text>
+		<text id="paper.cb.scale" h="A256041E">Ureke&amp;bishaji:</text>
+		<text id="paper.g1" h="021E871D">Ukubwa wa Ukurasa</text>
+		<text id="paper.g2" h="6DD64EA1">Mchoro</text>
+		<text id="paper.g3" h="A9BCB1A8">Mpangilio</text>
+		<text id="paper.g4" h="D92FF225">Chaguo za Hali ya Juu za Uchapishaj</text>
+		<text id="paper.l.booklettype" h="E40660F9">Aina ya Kijitabu:</text>
+		<text id="paper.l.gutter" h="453C4022">Ukubwa wa Gata:</text>
+		<text id="paper.l.ltype" h="7E455932">Jinsi Mpangilio:</text>
+		<text id="paper.l.margins" h="07DCB677">&amp;Pambizo:</text>
+		<text id="paper.l.nup" h="A6078989">Kurasa kwa La&amp;ha:</text>
+		<text id="paper.l.orientation" h="F5C1FFB9">&amp;Uelekeo:</text>
+		<text id="paper.l.pageOrder" h="4415E37B">Mpan&amp;gilio wa Kurasa:</text>
+		<text id="paper.l.position" h="C87B8489">Sehemu:</text>
+		<text id="paper.l.scale" h="C4EC7E3C">Rekebisha:</text>
+		<text id="paper.l.sheets" h="3C8E1D5A">Laha kwenye saini:</text>
+		<text id="paper.l.sheetsize" h="A2557222">Ukubwa Laha:</text>
+		<text id="paper.l.size" h="E1908ECB">Ukubwa:</text>
+		<text id="paper.l.ssize" h="E1908ECB">Ukubwa:</text>
+		<text id="paper.l.resolution" h="4103E512">&amp;Mwonekano:</text>
+		<text id="paper.mirror.x" h="C5289BB7">Fananisha kwa jira-&amp;X</text>
+		<text id="paper.mirror.y" h="5E8DD7D8">Fananisha kwa jira-&amp;Y</text>
+		<text id="paper.rb.custom" h="1A432471">&amp;Binafsi:</text>
+		<text id="paper.rb.landscape" h="CF68D0C1">Mlalo</text>
+		<text id="paper.rb.portrait" h="A9A67C11">Wima</text>
+		<text id="paper.rb.standard" h="D724FB24">&amp;Kawaida:</text>
+		<text id="ppi" h="164A6A9C">pikseli kwa inchi</text>
+		<text id="prop.about" h="F2596574">Kuhusu</text>
+		<text id="prop.settings" h="9147CD71">Mipangilio</text>
+		<text id="rb.inch" h="3D2782C6">&amp;Inchi</text>
+		<text id="rb.mm" h="291025E5">&amp;Milimeta</text>
+		<text id="save.custom" h="A75E6832">&amp;Programu:</text>
+		<text id="save.default" h="BE686B14">Programu &amp;Chaguo-msingi ya Faili za PDF</text>
+		<text id="save.g1.title" h="D16859B7">Chaguo za Uhifadhi</text>
+		<text id="save.g2.title" h="9AAF3E71">Chaguo za Uendeshaji:</text>
+		<text id="save.l.digits" h="B5E21A30">Di&amp;jiti:</text>
+		<text id="save.l.example" h="1F37513E">Mfano:</text>
+		<text id="save.l.exists" h="91940E79">&amp;Iwapo Faili Ipo:</text>
+		<text id="save.l.file" h="13B32EA0">&amp;Jina la Faili:</text>
+		<text id="save.l.path" h="E62EE9C8">&amp;Njia:</text>
+		<text id="save.l.start" h="96A7DBF6">Anzia &amp;Kutoka:</text>
+		<text id="save.l.params" h="4C3CFCB9">Parame&amp;ta:</text>
+		<text id="save.run" h="44C73A89">&amp;Endesha Peogramu Baada ya Uchapishaji</text>
+		<text id="save.show.saveAs" h="E15C50B5">&amp;Onyesha Kidadisi cha 'Hifadhi Kama...'</text>
+		<text id="save.strip" h="F76AC075">Ondoa Njia kutoka kwa Jina la Warala</text>
+		<text id="sec.access" h="A05670C9">Kubali &amp;Ufikiaji wa Maudhui kwa Wasioona Vizuri</text>
+		<text id="sec.adding" h="47BDA760">Kubali Kuongeza ama Kubadilisha Maoni na Nyuga za &amp;Fomu</text>
+		<text id="sec.allowPrinting" h="0C5B81F1">Kubali U&amp;chapishaji:</text>
+		<text id="sec.changing" h="A8CFDC12">Kubali Kubadilisha &amp;Waraka:</text>
+		<text id="sec.copying" h="2C2D88AC">Kubali Ku&amp;nakili na Kuopoa kwa Maudhui, Wezesha Ufikiaji</text>
+		<text id="sec.copying.new" h="96E15885">Kubali Ku&amp;nakili na Kuopoa kwa Maudhui</text>
+		<text id="sec.digisig" h="1104629C">Saini Waraka Kidijitali</text>
+		<text id="sec.digisig.settings" h="EC675489">Mipangilio...</text>
+		<text id="sec.enable" h="D046B193">&amp;Tumia usalama wa PDF</text>
+		<text id="sec.g1.title" h="063B73F1">Nenosiri za Waraka</text>
+		<text id="sec.g2.title" h="80E178CC">Vibali vya Waraka:</text>
+		<text id="sec.g3.title" h="8E15DAC5">Usaini wa Dijitali</text>
+		<text id="sec.l.changes" h="54126A02">Mabadiliko Yanakubaliwa:</text>
+		<text id="sec.l.level" h="F1B06EF5">Usimbaji Fiche:</text>
+		<text id="sec.l.printing" h="603A3C89">&amp;Kuchapisha Waraka:</text>
+		<text id="sec.l.userPass" h="F37B341A">Nenosiri:</text>
+		<text id="sec.meta" h="D336DF65">Sima Fiche &amp;Metadata ya Waraka (tangamanifu na Acrobat 6.0 na baadaye)</text>
+		<text id="sec.timestamp" h="C75027C6">Tumia Seva ya M&amp;huri Muda:</text>
+		<text id="sec.tsa.manage" h="083DA21D">Simamia...</text>
+		<text id="sec.userPwd" h="8245E2E7">Nenosiri inahitajika kufungua Waraka:</text>
+		<text id="sec.ownerPwd" h="CFDC25CE">Nenosiri inahitajika kubadilisha Vibali na/ama Nenosiri:</text>
+		<text id="settings.btn.manage" h="083DA21D">Simamia...</text>
+		<text id="settings.l.mode" h="71941FD8">Hali ya &amp;Kiendeshi:</text>
+		<text id="settings.l.profile" h="235B6AC4">Melezo Mafupi:</text>
+		<text id="tsa.auth" h="89DD97BE">Seva Inahitaji &amp;Uhalalishaji</text>
+		<text id="tsa.g1.title" h="23C488F9">Sifa za Seva</text>
+		<text id="tsa.l.name" h="09FAD31D">&amp;Jina:</text>
+		<text id="tsa.l.pass" h="7FAD5B01">Neno&amp;siri:</text>
+		<text id="tsa.l.url" h="B037DABE">U&amp;RL ya Seva:</text>
+		<text id="tsa.l.user" h="6901D750">&amp;Jina la Mtumiaji:</text>
+		<text id="we.asBkgnd" h="ADDFAB64">Kama Mandharinyuma</text>
+		<text id="we.bold" h="5FC7126F">&amp;Herufi Nzito</text>
+		<text id="we.fit" h="FA54BFC0">Tosheleza kwenye &amp;Ukurasa</text>
+		<text id="we.g1.title" h="F6FFF0BE">Sifa:</text>
+		<text id="we.g2.title" h="EFFDDE78">Mandhari</text>
+		<text id="we.g3.title" h="A66EEC0E">Chaguo za Uwekaji:</text>
+		<text id="we.italic" h="F3B88BFB">&amp;Italiki</text>
+		<text id="we.keepAspect" h="C8B15E62">&amp;Hifadhi Uwiano Kimo-upana</text>
+		<text id="we.l.color" h="40DB132E">Ran&amp;gi:</text>
+		<text id="we.l.fname" h="09FAD31D">&amp;Jina:</text>
+		<text id="we.l.font" h="6196C38F">&amp;Fonti:</text>
+		<text id="we.l.from" h="D834510D">kutoka:</text>
+		<text id="we.l.height" h="EF61EFBD">Urefu:</text>
+		<text id="we.l.hoffset" h="49A48A03">Fidio M&amp;lalo:</text>
+		<text id="we.l.name" h="2639BB67">Jina la &amp;Taswira Fifi:</text>
+		<text id="we.l.opacity" h="F862D017">Kutopitisha nuru:</text>
+		<text id="we.l.page" h="660A3F38">Ukurasa:</text>
+		<text id="we.l.of" h="253BE8A3">(ya %1)</text>
+		<text id="we.l.placeon" h="27B3C8C6">Imewekelewa Kwenye:</text>
+		<text id="we.l.rotation" h="4667EEF3">Mzungu&amp;ko:</text>
+		<text id="we.l.size" h="E1908ECB">Ukubwa:</text>
+		<text id="we.l.talign" h="987B5D23">Mpangilio Matini:</text>
+		<text id="we.l.text" h="EED05C77">Ma&amp;tini:</text>
+		<text id="we.l.type" h="2960F9E7">&amp;Aina:</text>
+		<text id="we.l.visibleon" h="70D63AFC">Itaonekana kwenye:</text>
+		<text id="we.l.voffset" h="136683BA">&amp;Fidio Wima:</text>
+		<text id="we.l.width" h="85C783C5">Upana:</text>
+		<text id="we.outlines" h="EF13DB11">Kama Mi&amp;paka</text>
+		<text id="we.transColor" h="AC5903C6">Rangi Angavu:</text>
+		<text id="wtm.enable" h="E36FC80F">Wezesha Uchapishaji wa &amp;Taswira Fifi</text>
+		<text id="wtm.list.cue" h="F89305B7">Hakuna taswira fifi zilizofafanuliwa</text>
+		<text id="prof.l.info" h="D5319E61">Maelezo ya Maelezo Mafupi</text>
+		<text id="prof.l.name" h="09FAD31D">&amp;Jina</text>
+		<text id="prof.l.comment" h="D41C404F">Mao&amp;ni:</text>
+		<text id="prof.manage.g1" h="C71AA825">Maelezo Mafupi Yaliyopo</text>
+		<text id="custhf.l.left" h="192F6142">Kipande cha Kushoto</text>
+		<text id="custhf.l.center" h="C0678ECB">Kipande cha Kati</text>
+		<text id="custhf.l.right" h="3CB13D9F">Kipande cha Kulia</text>
+		<text id="dlg.AddMode.app" h="D2DF7469">Jina la Programu:</text>
+		<text id="dlg.AddMode.mode" h="25328698">Hali ya Kiendeshi ya programu iliyotajwa:</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123230436">2.00.00</Version>
+	<Author>Kelvin Muriuki</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXDriver"/>
+	<Language eName="Kiswahili (Kenya)" lName="Kiswahili" code="sw-KE" R2L="false"/>
+	<Module name="pdfSaver" namespace="saver" version="7.0.323.3"/>
+	<Strings>
+		<text id="about.version" h="2558B135">Toleo: %1</text>
+		<text id="btn.help" h="2C29CD29">Usaidizi...</text>
+		<text id="btn.hide" h="C4F1F414">&amp;Ficha</text>
+		<text id="dlg.About" h="F2596574">Kuhusu</text>
+		<text id="dlg.AskDocInfo" h="8E6BE160">Maelezo ya Waraka</text>
+		<text id="dlg.Progress" h="B3F9EEBF">Uendeleaji wa Uchapishaji</text>
+		<text id="dlg.Settings" h="9147CD71">Mipangilio</text>
+		<text id="docInfo.enable" h="F0A9B0E7">Weka Maelezo ya Zaidi Kwenye &amp;Waraka</text>
+		<text id="docinfo.author" h="3A9F9808">&amp;Mwandishi</text>
+		<text id="docinfo.creator" h="1B812E77">&amp;Muundaji</text>
+		<text id="docinfo.enable" h="F0A9B0E7">Weka Maelezo ya Zaidi Kwenye &amp;Waraka</text>
+		<text id="docinfo.g.title" h="E96E93B9">Maelezo ya PDF</text>
+		<text id="docinfo.keywords" h="70561097">&amp;Maneno Msingi:</text>
+		<text id="docinfo.subject" h="F6AB0643">&amp;Mada:</text>
+		<text id="docinfo.title" h="A6AB0B5B">&amp;Kichwa:</text>
+		<text id="errDlg.header" h="E8A076C8">Hawezi kuhifadhi &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="errDlg.text" h="3FD6CA0D">Kosa lilitendeka wakati waraka uikuwa unahifadhiwa kwenye faili:
+&lt;b&gt;%1&lt;/b&gt;</text>
+		<text id="filter.all" h="A1868C9F">Faili Zote</text>
+		<text id="filter.pdf" h="21DC74BD">Nyaraka za PDF (*.pdf)</text>
+		<text id="l.sec" h="68B35B56">sekunde</text>
+		<text id="mainDlg" h="60C6805D">PDF-XChange Standard: pdfSaver</text>
+		<text id="msg.tray.close" h="7E4415DD">pdfSaver haikufungwa.
+Kuifunga, chagua kipengee cha Ondoka kweneye menyu ya trei.</text>
+		<text id="opt.autoUnload" h="96863D52">Zima &lt;i&gt;pdfsaver&lt;/i&gt; kiotomatiki  baada ya:</text>
+		<text id="opt.g1.title" h="30673BCD">Kawaida</text>
+		<text id="opt.g2.title" h="6781287A">Marekebisho</text>
+		<text id="opt.keepFile" h="537941B8">Usiondoe Faili za Muda</text>
+		<text id="opt.keepFolder" h="F30EC396">Usifute Kabrasha la Muda ukifungulia pdfSaver</text>
+		<text id="opt.showProgress" h="86E70298">Onyesha Dirisha ya Uendeleaji Uchapishaji</text>
+		<text id="opt.systray" h="D55CEA00">Onyesha &amp;Ikoni kwenye Trei ya Mfumo</text>
+		<text id="overDlg.header" h="54920390">Faili '%1' ipo tayari</text>
+		<text id="overDlg.text" h="984124BE">Tafadhali taja hatua inayofaa kuchukuliwa:</text>
+		<text id="overwrite.append" h="98ADB7C4">Ambatisha
+Ambatisha maudhui ya faili mpya kwa iliopo.</text>
+		<text id="overwrite.autoNumber" h="95BDC2AD">Namba Otomatiki
+Hifadhi na kipengele cha namba otomatiki</text>
+		<text id="overwrite.leaveJob" h="0CE1E2D3">Ahirisha
+Katiza operesheni ya kazi na kuiaga</text>
+		<text id="overwrite.over" h="13CC8739">Andikia juu
+Andikia juu ya faili iliopo</text>
+		<text id="overwrite.prepend" h="7703513C">Ingiza Kabla
+Unganisha na faili iliopo</text>
+		<text id="overwrite.select" h="60AA7DB4">Chagua Faili Nyingine
+Chagua jina nyingine la waraka mpya</text>
+		<text id="progress.done" h="F14B47CB">%1%% imekamilika</text>
+		<text id="progress.generating" h="4509E71B">Inazalisha PDF...</text>
+		<text id="progress.optimizing" h="6F2453BB">Inaboresha</text>
+		<text id="progress.page" h="962EF85B">Ukurasa %1</text>
+		<text id="progress.saving" h="B1CEA7B0">Inahifadhi PDF...</text>
+		<text id="progress.sending" h="BBDB8877">Inatuma PDF...</text>
+		<text id="progress.spooling" h="D7D10A9E">Spooling</text>
+		<text id="save.btn.additional" h="36A51922">Sifa za Ziada...</text>
+		<text id="save.cb.append" h="DF2206AB">Ambatisha kwenye &amp;PDF Iliopo</text>
+		<text id="save.cb.email" h="93B339D4">Tuma PDF kwa Barua Pepe baada ya Kuundwa</text>
+		<text id="save.cb.run" h="B14F25C0">Anzisha Programu ya Kusoma baada ya Kuhifadhi</text>
+		<text id="tryAgain" h="B119E265">Jaribu Tena</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627193902">2.00.00</Version>
+	<Author>Facta D.</Author>
+	<Copyright>Creato nuovo da Facta D.
+per versione 7.0 build 326.1</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Italian (Italy)" lName="Italiano" code="it-IT" R2L="false"/>
+	<Module name="SignaturePad" namespace="sigpad" version="7.0.325.10"/>
+	<Strings>
+		<text id="btn.clear" h="8A6A002B">&amp;Pulisci</text>
+		<text id="dgl.drawsign.title" h="8BE10CB7">Disegna firma</text>
+		<text id="signature.pad" h="1CB89F08">Segnaposto</text>
+		<text id="signature.pad.desc" h="B2E4D573">Usa il segnaposto sul tuo computer per creare le firme</text>
+		<text id="msg.nodevice" h="69EAAE3A">Non c'è alcun &lt;i&gt;dispositivo supportato&lt;/i&gt; disponibile.
+
+Per favore verifica che il dispositivo 
+sia connesso e dotato di driver validi,
+quindi riprova.</text>
+	</Strings>
+</Localization>

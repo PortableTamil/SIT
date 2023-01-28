@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123230436">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXDriver"/>
+	<Language eName="Ukrainian (Ukraine)" lName="Українська" code="uk-UA" R2L="false"/>
+	<Module name="pdfSaver" namespace="saver" version="7.0.323.3"/>
+	<Strings>
+		<text id="about.version" h="2558B135">Версія: %1</text>
+		<text id="btn.help" h="2C29CD29">Довідка...</text>
+		<text id="btn.hide" h="C4F1F414">Приховати</text>
+		<text id="dlg.About" h="F2596574">Про</text>
+		<text id="dlg.AskDocInfo" h="8E6BE160">Інформація про документ</text>
+		<text id="dlg.Progress" h="B3F9EEBF">Прогрес друку</text>
+		<text id="dlg.Settings" h="9147CD71">Налаштування</text>
+		<text id="docInfo.enable" h="F0A9B0E7">Розмістити додаткову інформацію в документ</text>
+		<text id="docinfo.author" h="3A9F9808">Автор:</text>
+		<text id="docinfo.creator" h="1B812E77">Створено в програмі:</text>
+		<text id="docinfo.enable" h="F0A9B0E7">Розмістити додаткову інформацію в документ</text>
+		<text id="docinfo.g.title" h="E96E93B9">Інформація про PDF</text>
+		<text id="docinfo.keywords" h="70561097">Ключові слова:</text>
+		<text id="docinfo.subject" h="F6AB0643">Тема:</text>
+		<text id="docinfo.title" h="A6AB0B5B">Назва:</text>
+		<text id="errDlg.header" h="E8A076C8">Не вдалось зберегти &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="errDlg.text" h="3FD6CA0D">Помилка при збереженні документа в файл:
+&lt;b&gt;%1&lt;/b&gt;</text>
+		<text id="filter.all" h="A1868C9F">Всі файли</text>
+		<text id="filter.pdf" h="21DC74BD">PDF документи  (*.pdf)</text>
+		<text id="l.sec" h="68B35B56">секунд</text>
+		<text id="mainDlg" h="60C6805D">PDF-XChange Standard: pdfSaver</text>
+		<text id="msg.tray.close" h="7E4415DD">pdfSaver не закритий.
+Щоб закрити pdfSaver, виберіть пункт Вихід в системному меню. </text>
+		<text id="opt.autoUnload" h="96863D52">Автоматично вийти з &lt;i&gt;pdfSaver&lt;/i&gt; через:</text>
+		<text id="opt.g1.title" h="30673BCD">Загальні</text>
+		<text id="opt.g2.title" h="6781287A">Додаткові</text>
+		<text id="opt.keepFile" h="537941B8">Не видаляти тимчасові файли</text>
+		<text id="opt.keepFolder" h="F30EC396">Не витирати тимчасову папку при запуску pdfSaver</text>
+		<text id="opt.showProgress" h="86E70298">Показати вікно прогресу друку</text>
+		<text id="opt.systray" h="D55CEA00">Показувати значки в системній панелі</text>
+		<text id="overDlg.header" h="54920390">Файл '%1' вже існує</text>
+		<text id="overDlg.text" h="984124BE">Задайте дію, яку необхідно виконати:</text>
+		<text id="overwrite.append" h="98ADB7C4">Приєднати
+Додати вміст нового файла до чинного</text>
+		<text id="overwrite.autoNumber" h="95BDC2AD">Автонумерація
+Автоматично нумерувати при збереженні</text>
+		<text id="overwrite.leaveJob" h="0CE1E2D3">Відкладено
+Відмінити операцію і завершити роботу</text>
+		<text id="overwrite.over" h="13CC8739">Перезаписати
+Перезаписати даний файл</text>
+		<text id="overwrite.prepend" h="7703513C">Вставити перед
+Об’єднати з даним файлом</text>
+		<text id="overwrite.select" h="60AA7DB4">Вибір іншого файла
+Виберіть інше ім’я файла для нового документа</text>
+		<text id="progress.done" h="F14B47CB">Зроблено %1%%</text>
+		<text id="progress.generating" h="4509E71B">Генерування PDF...</text>
+		<text id="progress.optimizing" h="6F2453BB">Оптимізація...</text>
+		<text id="progress.page" h="962EF85B">Сторінка %1</text>
+		<text id="progress.saving" h="B1CEA7B0">Збереження PDF...</text>
+		<text id="progress.sending" h="BBDB8877">Відправлення PDF...</text>
+		<text id="progress.spooling" h="D7D10A9E">Буферизація даних</text>
+		<text id="save.btn.additional" h="36A51922">Додаткові властивості...</text>
+		<text id="save.cb.append" h="DF2206AB">Приєднати до даного PDF файла</text>
+		<text id="save.cb.email" h="93B339D4">Відправити електронною поштою створений PDF файл</text>
+		<text id="save.cb.run" h="B14F25C0">Запустити програму перегляду після збереження</text>
+		<text id="tryAgain" h="B119E265">Спробуйте ще раз</text>
+	</Strings>
+</Localization>

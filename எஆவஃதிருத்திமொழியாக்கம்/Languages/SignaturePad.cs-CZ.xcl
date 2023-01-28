@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171220231402">2.00.00</Version>
+	<Author>Martin Paulík</Author>
+	<Copyright>TERAGON SW s.r.o.
+www.pdfxchange.cz		</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Czech (Czech Republic)" lName="čeština" code="cs-CZ" R2L="false"/>
+	<Module name="SignaturePad" namespace="sigpad" version="7.0.323.2"/>
+	<Strings>
+		<text id="btn.clear" h="8A6A002B">Vyčistit</text>
+		<text id="dgl.drawsign.title" h="8BE10CB7">Nakreslení podpisu</text>
+		<text id="signature.pad" h="1CB89F08">Signature Pad</text>
+		<text id="signature.pad.desc" h="B2E4D573">Použijte zařízení Signature Pad pro vytvoření podpisů</text>
+		<text id="msg.nodevice" h="69EAAE3A">Není zde žádné &lt;i&gt;podporované zařízení&lt;/i&gt;.
+
+Prosím ověřte, zda je zařízení připojeno a
+zda jsou nainstalovány platné ovladače,
+a pak to zkuste znovu.</text>
+	</Strings>
+</Localization>

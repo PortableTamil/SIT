@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123214816">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="XCShellMenu"/>
+	<Language eName="Ukrainian (Ukraine)" lName="Українська" code="uk-UA" R2L="false"/>
+	<Module name="XCShellMenu" namespace="" version="7.0.323.3"/>
+	<Strings>
+		<text id="menu.open" h="D08F8302">Відкрити в PDFXChange Editor-і</text>
+		<text id="menu.combine" h="BF3B40FB">Об’єднати в PDFXChange Editor-і</text>
+		<text id="menu.open.help" h="DB2C9B04">Відкрити файли в PDFXChange Editor-і</text>
+		<text id="menu.combine.help" h="3E8460C6">Об’єднати файли в PDFXChange Editor-і</text>
+	</Strings>
+</Localization>

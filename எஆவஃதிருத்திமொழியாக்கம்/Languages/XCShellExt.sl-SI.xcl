@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123215335">2.00.00</Version>
+	<Author>Stanko Horvat</Author>
+	<Copyright>Stanko Horvat</Copyright>
+	<Product id="XCShellExt"/>
+	<Language eName="Slovenian (Slovenia)" lName="Slovenščina" code="sl-SI" R2L="false"/>
+	<Module name="XCShellExt" namespace="" version="7.0.323.3"/>
+	<Strings>
+		<text id="title" h="930D3835">Naslov:</text>
+		<text id="subject" h="A59102F6">Predmet:</text>
+		<text id="author" h="7E318A91">Avtor:</text>
+		<text id="keywords" h="EE89DD49">Ključne besede:</text>
+		<text id="keywords2" h="D125B2C4">Ključne besede</text>
+		<text id="producer" h="30A8E856">Izdelovalec:</text>
+		<text id="producer2" h="C54CE945">Izdelovalec</text>
+		<text id="producer.description" h="3EFB9FA5">Ime proizvajalca PDF</text>
+		<text id="size" h="17A58A52">Velikost</text>
+		<text id="encrypted" h="83E2242D">Šifrirano:</text>
+		<text id="encrypted2" h="0A613267">&lt;Šifrirano&gt;</text>
+		<text id="creator" h="48BB2AC2">Ustvarjalec:</text>
+		<text id="creator2" h="CF26EE59">Ustvarjalec</text>
+		<text id="creator.description" h="C2D9A34F">Ime nastajajoče aplikacije</text>
+		<text id="pdfVersion" h="4C06CDA5">Različica PDF:</text>
+		<text id="pdfVersion2" h="52D57621">Različica PDF:</text>
+		<text id="pdfVersion.description" h="3087428D">Različica specifikacije PDF</text>
+		<text id="infoTip.pages" h="145D976C">Strani: %d stran(i) </text>
+		<text id="zoomMode.actualSize" h="5E4611C5">Dejanska velikost</text>
+		<text id="zoomMode.fitPage" h="E07FD6B2">Prilagodi stran</text>
+		<text id="zoomMode.fitWidth" h="0AB6EA6C">Prilagodi širino</text>
+		<text id="noPreview" h="6A6778D0">Predogled ni na voljo</text>
+		<text id="MegaBytes" h="54CE5298">MB</text>
+		<text id="KiloBytes" h="71A50D44">KB</text>
+		<text id="GigaBytes" h="3B73B2FC">GB</text>
+		<text id="TeraBytes" h="79DF4A8D">TB</text>
+		<text id="bytes" h="01ABC3DA">bajtov</text>
+		<text id="no" h="6651A799">Ne</text>
+		<text id="yes" h="DC948BC4">Da</text>
+		<text id="numOfPages" h="114E2EF6">%d stran(i)</text>
+		<text id="notAllowed" h="50D7EDBB">Ni dovoljeno</text>
+		<text id="lowRes" h="D33F1C80">Nizka ločljivost</text>
+		<text id="fullyAllowed" h="1E5C0EC1">Popolnoma dovoljeno</text>
+		<text id="allowed" h="D74F0AF3">Dovoljeno</text>
+		<text id="pdfInfo" h="E96E93B9">PDF informacije</text>
+		<text id="docInfo" h="8E6BE160">Podatki o dokumentu</text>
+		<text id="linearized" h="BA000D8B">Linearno:</text>
+		<text id="pages" h="23952CFD">Strani:</text>
+		<text id="docSecurity" h="C4D42148">Varnost dokumenta</text>
+		<text id="printing" h="515F6B19">Tiskanje:</text>
+		<text id="changing" h="8F212BD7">Spreminjanje dokumenta:</text>
+		<text id="copying" h="A3FBC31C">Kopiranje vsebine ali izluščenje:</text>
+		<text id="commenting" h="00D1CE97">Urejanje pripisov in polj obrazca:</text>
+		<text id="formFilling" h="000F1E62">Izpolni obrazec polja ali podpis:</text>
+		<text id="contAccessibility" h="307DE41E">Dostopnost vsebine je omogočena:</text>
+		<text id="docAssembly" h="54F5D6FC">Sestava dokumenta:</text>
+		<text id="pageExtraction" h="4511684F">Izvleček strani:</text>
+		<text id="signing" h="D103863D">Podpisovanje:</text>
+		<text id="xcPropSheetCaption" h="E96E93B9">PDF informacije</text>
+		<text id="tool.hand" h="1C47D4CB">Roka</text>
+		<text id="cmd.view.goto.firstPage" h="DFC0D45F">Prva stran</text>
+		<text id="cmd.view.goto.firstPage.tip" h="631EFAFD">Pojdi na prvo stran dokumenta.</text>
+		<text id="cmd.view.goto.lastPage" h="1848BA27">Zadnja stran</text>
+		<text id="cmd.view.goto.lastPage.tip" h="51B1BF96">Pojdi na zadnjo stran dokumenta.</text>
+		<text id="cmd.view.goto.prevPage" h="5F473CED">Prejšnja stran</text>
+		<text id="cmd.view.goto.prevPage.tip" h="55CEF405">Pojdi na prejšnjo stran dokumenta.</text>
+		<text id="cmd.view.goto.nextPage" h="8695A6CE">Naslednja stran</text>
+		<text id="cmd.view.goto.nextPage.tip" h="8F537F4E">Pojdi na naslednjo stran dokumenta.</text>
+		<text id="cmd.view.gotoPage" h="6A0FCD98">Pojdi na številko strani</text>
+		<text id="cmd.view.gotoPage.tip" h="DE1F81BE">Pojdi na določeno številko strani.</text>
+		<text id="cmd.zoomIn" h="21C9A3BF">Povečati</text>
+		<text id="cmd.zoomIn.tip" h="7A209714">Povečaj na strani.</text>
+		<text id="cmd.zoomOut" h="7749FC62">Zmanjšati</text>
+		<text id="cmd.zoomOut.tip" h="A00D108F">Pomanjšaj na strani.</text>
+		<text id="cmd.zoom.combo" h="71AD5FC1">Zumiranje</text>
+		<text id="cmd.zoom.combo.tip" h="9DAF1E10">Nastavi stopnjo povečave po meri za dokument.</text>
+		<text id="cmd.zoom.level.actual" h="10ADBDEF">&amp;Dejanska velikost</text>
+		<text id="cmd.zoom.level.actual.tip" h="F4F3470F">Nastavi stopnjo povečave do 100%, ki prikazuje strani dokumenta na njihovi dejanski velikosti.</text>
+		<text id="cmd.zoom.level.fitWidth" h="2EA35656">Prilagodi po &amp;širini</text>
+		<text id="cmd.zoom.level.fitWidth.tip" h="82C4DEAE">Določi stopnjo povečave, tako da širina strani ustreza širini okna.</text>
+		<text id="cmd.zoom.level.fitPage" h="2E705B13">Prilagodi &amp;stran</text>
+		<text id="cmd.zoom.level.fitPage.tip" h="D2455889">Nastavi stopnjo povečave, tako da se stran (ali dve soočajoči strani) prilegata v okno dokumenta.</text>
+		<text id="cmd.tool.hand" h="648630C6">Roka</text>
+		<text id="cmd.tool.hand.tip" h="97579DF6">Klikni za premikanje po dokumentu.</text>
+		<text id="cmd.selectLanguage" h="DF3F8256">Izberi jezik</text>
+		<text id="cmd.selectLanguage.tip" h="47EE650B">Izberi jezikovno možnost iz podmenija.</text>
+		<text id="cmd.selectSysLang" h="31F4B9FA">Uporabi regionalne nastavitve</text>
+		<text id="cmd.selectBuildInLang" h="1C70EF34">Angleščina (ZDA), vgrajen</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220819">2.00.00</Version>
+	<Author>Jungle, Inc</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Japanese (Japan)" lName="日本語" code="ja-JP" R2L="false"/>
+	<Module name="SignaturePad" namespace="sigpad" version="6.0.322.7"/>
+	<Strings>
+		<text id="btn.clear" h="8A6A002B">クリア(&amp;e)</text>
+		<text id="dgl.drawsign.title" h="8BE10CB7">署名を描く</text>
+		<text id="signature.pad" h="1CB89F08">署名パッド</text>
+		<text id="signature.pad.desc" h="B2E4D573">コンピュータ上の署名パッドを使用して署名を作成する</text>
+		<text id="msg.nodevice" h="69EAAE3A">利用可能な&lt;i&gt;サポートデバイス&lt;/i&gt;はありません。
+
+デバイスが接続されていることを確認してください
+有効なドライバがインストールされていること、
+再度試してください。</text>
+	</Strings>
+</Localization>

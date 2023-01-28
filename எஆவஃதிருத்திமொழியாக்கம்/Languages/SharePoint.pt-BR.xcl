@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627200651">2.00.00</Version>
+	<Author>Hélio de Souza</Author>
+	<Copyright>Hélio de Souza ©
+hdstec@gmail.com</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Portuguese (Brazil)" lName="Português" code="pt-BR" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="7.0.325.10"/>
+	<Strings>
+		<text id="DlgAppPrefs.SharePoint.Name" h="56A5F9B3">SharePoint</text>
+		<text id="DlgAppPrefs.SharePoint.Title" h="07F34B45">Opções de Config do SharePoint</text>
+		<text id="btn.cancelSaving" h="36FF91F6">&amp;Cancelar salvamento no servidor</text>
+		<text id="btn.checkIn" h="09996473">Desbloquear</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">Desbloquear e manter Desbloqueado</text>
+		<text id="btn.clearLogs" h="848E003C">Apagar todos os logs</text>
+		<text id="btn.connect" h="A79F815C">C&amp;onectar</text>
+		<text id="btn.discardCheckOut" h="40AC5603">Descartar o Bloqueio</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">Manter o Bloqueio</text>
+		<text id="btn.navigate" h="B03F439E">&amp;Navegar</text>
+		<text id="btn.open" h="B1A510F0">&amp;Abrir</text>
+		<text id="btn.openLog" h="F3E66367">Abrir</text>
+		<text id="btn.openLogFolder" h="0B1D9C13">Abrir Pasta</text>
+		<text id="btn.openWithCheckOut" h="2F774735">Abrir com &amp;Verificação</text>
+		<text id="btn.overwrite" h="48E63C4C">&amp;Substituir</text>
+		<text id="btn.resetPreferences" h="A7132527">Restaurar Padrão</text>
+		<text id="btn.save" h="F363C410">Salvar</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">Salvar e Bloquear</text>
+		<text id="btn.saveReplace" h="11BF9724">Salvar e Substituir</text>
+		<text id="btn.settings" h="4AD05264">Configuraçõ&amp;es</text>
+		<text id="btn.signOut" h="645CEBE2">Sa&amp;ir</text>
+		<text id="cb.url.tip" h="CD81E674">Digite o Endereço</text>
+		<text id="cbitem.afterSave.ask" h="5F9AC292">Perguntar o que fazer</text>
+		<text id="cbitem.afterSave.checkIn" h="FA91CFF8">Entrada</text>
+		<text id="cbitem.afterSave.checkInCheckOut" h="6C7252F6">Entrada e saída</text>
+		<text id="cbitem.afterSave.keepCheckOut" h="F4487016">Armazenar saída</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.ask" h="5F9AC292">Perguntar o que fazer</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.discardCheckOut" h="CA75DE00">Descartar saída</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.keepCheckOut" h="F4487016">Armazenar saída</text>
+		<text id="cbitem.closeNeedCheckIn.ask" h="5F9AC292">Perguntar o que fazer</text>
+		<text id="cbitem.closeNeedCheckIn.checkIn" h="FA91CFF8">Entrada</text>
+		<text id="cbitem.closeNeedCheckIn.checkInCheckOut" h="6C7252F6">Entrada e saída</text>
+		<text id="cbitem.closeNeedCheckIn.keepCheckOut" h="F4487016">Armazenar saída</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.ask" h="5F9AC292">Perguntar o que fazer</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.checkOut" h="95775966">Abrir e sair</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.open" h="38A34D1A">Abrir sem sair</text>
+		<text id="cbitem.whenSaveConflict.ask" h="5F9AC292">Perguntar o que fazer</text>
+		<text id="cbitem.whenSaveConflict.cancel" h="554F5523">Cancelar salvamento no servidor</text>
+		<text id="cbitem.whenSaveConflict.overwrite" h="B67489D8">Substituir versão no servidor</text>
+		<text id="check.dontShowThisMessageAgain" h="AC16D0EE">Não exibir esta mensagem de novo</text>
+		<text id="check.enableLogging" h="496D4808">Gravar Logs</text>
+		<text id="check.whenOpenDocumentCheckoutNoneDisableEditing" h="778336E0">Desativar a edição</text>
+		<text id="check.whenOpenDocumentCheckoutNoneShowWarning" h="E97BFF00">Mostrar mensagem de aviso</text>
+		<text id="cmd.checkIn" h="AEF235ED">&amp;Desbloquear</text>
+		<text id="cmd.checkIn.tip" h="C9DCA405">Desbloqueia o documento do arquivo no SharePoint</text>
+		<text id="cmd.checkOut" h="E6A87AFE">&amp;Bloquear</text>
+		<text id="cmd.checkOut.tip" h="E1B64D30">Bloqueia o documento do arquivo no SharePoint</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">Descar&amp;tar o Bloqueio</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">&amp;Descarta o bloqueio do arquivo no SharePoint</text>
+		<text id="cmd.enableEditing" h="340AFFD4">Habilitar &amp;Edição</text>
+		<text id="cmd.enableEditing.tip" h="8A29948D">Ativar edição e recursos interativos.</text>
+		<text id="cmd.open" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.open.tip" h="007B7200">Abre um documento a partir do SharePoint</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">Preparar &amp;Informação do Arquivo</text>
+		<text id="cmd.prepareFileInfo.tip" h="E609EA07">Prepara a informação para o SharePoint</text>
+		<text id="cmd.save" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.save.tip" h="C48C1C25">Salva o documento atual no SharePoint.</text>
+		<text id="cmd.share_point" h="B7423C0E">Share&amp;Point</text>
+		<text id="cmd.share_point.tip" h="CA99078B">Trabalhar com documentos do SharePoint</text>
+		<text id="dlg.liveLogin" h="BFADC685">Acesso Ao Vivo</text>
+		<text id="dlg.openFile" h="435887CD">Abrir Arquivo</text>
+		<text id="dlg.saveFile" h="520CB069">Salvar Arquivo</text>
+		<text id="group.Logging" h="F9DEFF33">Logs</text>
+		<text id="group.documentActions" h="64C10405">Trabalhar com documentos</text>
+		<text id="ibar.cannotEditEditing" h="13F24128">Você não tem permissão para editar o arquivo no servidor. Você pode apenas salvar uma cópia local do documento.</text>
+		<text id="ibar.cannotEditNoEditing" h="52C758B6">Você não tem permissão para editar o arquivo no servidor. Todos os recursos de edição e interativos estão desativados.</text>
+		<text id="ibar.checkedOutToMe" h="B5AF7047">O arquivo está bloqueado para você.</text>
+		<text id="ibar.checkedOutToOtherEditing" h="4F420124">O arquivo %1 está bloqueado. Você não poderá salvar o arquivo no servidor.</text>
+		<text id="ibar.checkedOutToOtherNoEditing" h="B8C2709A">O arquivo %1 está bloqueado. Todos os recursos de edição e interativos estão desativados.</text>
+		<text id="ibar.notCheckedOutEditing" h="A4D56FD1">O arquivo não está bloqueado. Se outros usuários alterarem o arquivo no servidor, você não poderá salvar as alterações nesse arquivo.</text>
+		<text id="ibar.notCheckedOutNoEditing" h="E3EA5586">O arquivo não está bloqueado. Todos os recursos de edição e interativos estão ativados.</text>
+		<text id="ibar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="ibar.sharepoint.description" h="6F2E3CDD">Informações e operações de contexto do documento do SharePoint</text>
+		<text id="ibar.sharepoint.title" h="C3F43468">Documento do SharePoint</text>
+		<text id="lb.afterSave" h="6ABC46B3">Quando o documento for salvo:</text>
+		<text id="lb.checkInComment" h="694DD18A">Comentário (opcional):</text>
+		<text id="lb.closeDoesNotNeedCheckIn" h="7B029545">Quando o documento for bloqueado sem alterações:</text>
+		<text id="lb.closeNeedCheckIn" h="E2376C82">Quando o documento for bloqueado com alterações:</text>
+		<text id="lb.currentLogFile" h="79D35843">Log atual:</text>
+		<text id="lb.name" h="F7B9E475">Nome:</text>
+		<text id="lb.numberOfDaysToStoreLogs" h="E12F4F23">Dias para armazenar logs:</text>
+		<text id="lb.sharePointPlaceUrl" h="F900769A">URL do SharePoint:</text>
+		<text id="lb.sharePointPlaceValidUrl" h="9BFA1D20">Falha ao conectar-se ao servidor do SharePoint. Por favor, verifique a conexão com a internet e a URL do servidor fornecido.</text>
+		<text id="lb.whenOpenDocumentCheckoutNone" h="1BB05A3E">Quando o documento aberto não estiver bloqueado:</text>
+		<text id="lb.whenOpenDocumentCheckoutOther" h="8E43C402">Quando o documento aberto estiver bloqueado:</text>
+		<text id="lb.whenOpenDocumentWithoutWritePermissions" h="4ACDAA34">Quando o documento aberto for apenas para leitura:</text>
+		<text id="lb.whenSaveConflict" h="174E79E4">Quando salvar documento alterado no servidor:</text>
+		<text id="ls.column.created" h="FE6510B7">Data de Criação</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Data e hora em arquivo, pasta ou lista foi criada</text>
+		<text id="ls.column.extension" h="14FEB836">Extensão</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Extensão de Arquivo</text>
+		<text id="ls.column.modified" h="691C3610">Data de Modificação</text>
+		<text id="ls.column.modified.hint" h="12933E76">Data e hora em arquivo, pasta ou lista foi modificada pela última vez</text>
+		<text id="ls.column.size" h="17A58A52">Tamanho</text>
+		<text id="ls.column.size.hint" h="E79CA174">Tamanho do Arquivo</text>
+		<text id="ls.column.title" h="D18643E3">Nome</text>
+		<text id="ls.column.title.hint" h="81F4F728">Nome do arquivo, nome da pasta ou título da lista</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">Deseja desbloquear o arquivo &lt;b&gt;%1&lt;/b&gt; antes de fechar para tornar as alterações disponíveis para outros usuários?</text>
+		<text id="msg.askForCheckOutOnOpen" h="B185C3DF">Você pode abrir o arquivo &lt;b&gt;%1&lt;/b&gt; com o bloqueio para definir o arquivo como "somente leitura" para outros usuários e para que você possa alterá-lo com segurança e salvar as alterações no SharePoint ou você pode permitir que outros usuários alterem o arquivo, mas pode causar conflitos se você tentar alterar e salvar o arquivo.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">O arquivo &lt;b&gt;%1&lt;/b&gt; está bloqueado para você. Deseja cancelar o bloqueio e permitir que outros usuários possam editar o arquivo?</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">Desbloquear o arquivo &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="msg.checkInFailed" h="3E327B8B">Falha ao desbloquear o arquivo &lt;b&gt;%1&lt;/b&gt;. Certifique-se que este arquivo está bloqueado para você.</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">Falha ao bloquear o arquivo &lt;b&gt;%1&lt;/b&gt;. Certifique-se de que o arquivo existe no servidor e não está bloqueado para um usuário diferente.</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">Você não pode abrir o arquivo &lt;b&gt;%1&lt;/b&gt; com o bloqueio. Ele já está bloqueado para o usuário "%2".</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">O arquivo &lt;b&gt;%1&lt;/b&gt; está desbloqueado para o usuário "%2". Você não pode salvar o arquivo no SharePoint até ele ser desbloqueado para você, mas você poderá salvar as alterações em um local diferente.</text>
+		<text id="msg.connectError" h="18DFEDBE">Falha ao conectar ao servidor SharePoint. Por favor, verifique sua conexão com a internet, exatidão do endereço do servidor e os direitos de acesso a recursos do SharePoint solicitado.</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">Falha ao descartar o desbloqueio do arquivo &lt;b&gt;%1&lt;/b&gt;. Certifique-se de que este arquivo existe e está desbloqueado para você.</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">Você não pode bloquear o arquivo &lt;b&gt;%1&lt;/b&gt; e não possui permissões para editá-lo.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">Você não pode abrir o arquivo bloqueado &lt;b&gt;%1&lt;/b&gt;, já que não possui as permissões de edição para este arquivo.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">Você não possui permissões para abrir ou editar o arquivo &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">O arquivo &lt;b&gt;%1&lt;/b&gt; deve ser desbloqueado antes de ser salvo, mas você não possui permissões para isso.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="C492B710">Você não pode salvar o arquivo &lt;b&gt;%1&lt;/b&gt; no SharePoint e você não possui permissões de edição neste arquivo.</text>
+		<text id="msg.fileNotFound" h="381368F8">O arquivo &lt;b&gt;%1&lt;/b&gt; não foi encontrado na pasta atual.</text>
+		<text id="msg.invalidFileName" h="6BAFE9F2">&lt;b&gt;%1&lt;/b&gt; não é um nome de arquivo válido.O arquivo não pode conter os caracteres &lt;b&gt;%2&lt;/b&gt;.</text>
+		<text id="msg.navigateError" h="CF23B4B6">Falha ao acessar os recursos do SharePoint. Por favor, verifique sua conexão com a internet, exatidão do endereço e direitos para acessar os recursos do SharePoint solicitado.</text>
+		<text id="msg.openFailed" h="34DE1259">Falha ao abrir arquivo. Certifique-se de que o arquivo existe, não está desbloqueado para outro usuário e você tem permissões de leitura para ele.</text>
+		<text id="msg.outdatedFileOnWrite" h="93CDEA71">O arquivo baixado por você contém modificações em &lt;b&gt;%2&lt;/b&gt;, mas o servidor contém novas modificações, feita em &lt;b&gt;%3&lt;/b&gt;. Salve as alterações num novo arquivo e depois o último arquivo com saída do SharePoint, mescle as alterações e salve-as no servidor.</text>
+		<text id="msg.outdatedFileOnWrite.question" h="4802DC49">O arquivo &lt;b&gt;%1&lt;/b&gt; tem um conflito de alterações. O documento que você baixou contém alterações feitas em &lt;b&gt;%2&lt;/b&gt;, mas o servidor contém alterações mais recentes, feitas em &lt;b&gt;%3&lt;/b&gt;. Você pode forçar a gravação no servidor ou cancelar o salvamento atual para salvar suas alterações em um novo arquivo, depois abrir o documento mais recente com o bloqueio do SharePoint, mesclar as alterações e salvá-las no servidor.</text>
+		<text id="msg.saveFailed" h="967D2A64">Não foi possível salvar o arquivo. Certifique-se o nome do arquivo é válido, que não está desbloqueado para outro usuário e você tem permissão.</text>
+		<text id="msg.saveReplace" h="B1889DFB">O arquivo &lt;b&gt;%1&lt;/b&gt; já existe. Deseja substituir?</text>
+		<text id="msg.signOutError" h="0E6A5F45">Falha ao sair do usuário atual do servidor do SharePoint. Você ainda poderá acessar o SharePoint sem solicitação de autenticação.</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="69F2FCB2">Você não tem permissão para editar o arquivo &lt;b&gt;%1&lt;/b&gt;. Favor observar que você não poderá salvar alterações no SharePoint, a menos que as permissões necessárias.</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">O arquivo &lt;b&gt;%1&lt;/b&gt; está desbloqueado para o usuário "%2". Você não pode salvar o arquivo no SharePoint até o "%2" descartar o desbloqueio. Se o "%2" bloquear o arquivo, existirá um conflito de alterações.</text>
+		<text id="opt.dontShowAgain" h="492B5D79">Não &amp;mostrar esta mensagem novamente</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="str.sharePoint" h="56A5F9B3">SharePoint</text>
+	</Strings>
+</Localization>

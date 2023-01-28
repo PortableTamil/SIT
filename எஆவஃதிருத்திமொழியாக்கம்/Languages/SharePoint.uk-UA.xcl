@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627200651">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Ukrainian (Ukraine)" lName="Українська" code="uk-UA" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="7.0.325.10"/>
+	<Strings>
+		<text id="DlgAppPrefs.SharePoint.Name" h="56A5F9B3">SharePoint</text>
+		<text id="DlgAppPrefs.SharePoint.Title" h="07F34B45">Параметри SharePoint</text>
+		<text id="btn.cancelSaving" h="36FF91F6">Відмінити збереження файла на сервер</text>
+		<text id="btn.checkIn" h="09996473">Зарезервувати</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">Зайти і утримувати заразервованим</text>
+		<text id="btn.clearLogs" h="848E003C">Видалити всі</text>
+		<text id="btn.connect" h="A79F815C">З’єднати</text>
+		<text id="btn.discardCheckOut" h="40AC5603">Зняти блокування файла</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">Утримувати зарезервованим</text>
+		<text id="btn.navigate" h="B03F439E">Переміститись</text>
+		<text id="btn.open" h="B1A510F0">Відкрити</text>
+		<text id="btn.openLog" h="F3E66367">Відкрити</text>
+		<text id="btn.openLogFolder" h="0B1D9C13">Відкрити папку</text>
+		<text id="btn.openWithCheckOut" h="2F774735">Відкрити і зарезервувати</text>
+		<text id="btn.overwrite" h="48E63C4C">Перезаписати</text>
+		<text id="btn.resetPreferences" h="A7132527">Відновити</text>
+		<text id="btn.save" h="F363C410">Зберегти</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">Зберегти і заблокувати</text>
+		<text id="btn.saveReplace" h="11BF9724">Зберегти і замінити</text>
+		<text id="btn.settings" h="4AD05264">Налаштування</text>
+		<text id="btn.signOut" h="645CEBE2">Вийти</text>
+		<text id="cb.url.tip" h="CD81E674">Ввести адресу...</text>
+		<text id="cbitem.afterSave.checkIn" h="FA91CFF8">Зайти</text>
+		<text id="cbitem.afterSave.checkInCheckOut" h="6C7252F6">Зайти і заблокувати для себе</text>
+		<text id="cbitem.afterSave.keepCheckOut" h="F4487016">Утримувати заблокованим</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.discardCheckOut" h="CA75DE00">Зняти блокування файла</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.keepCheckOut" h="F4487016">Утримувати заблокованим</text>
+		<text id="cbitem.closeNeedCheckIn.checkIn" h="FA91CFF8">Зайти</text>
+		<text id="cbitem.closeNeedCheckIn.checkInCheckOut" h="6C7252F6">Зайти і заблокувати для себе</text>
+		<text id="cbitem.closeNeedCheckIn.keepCheckOut" h="F4487016">Утримувати заблокованим</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.checkOut" h="95775966">Відкрити і заблокувати</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.open" h="38A34D1A">Вікдрити без блокування</text>
+		<text id="cbitem.whenSaveConflict.cancel" h="554F5523">Відмінити запис на сервер</text>
+		<text id="cbitem.whenSaveConflict.overwrite" h="B67489D8">Перезаписати версію на сервері</text>
+		<text id="check.dontShowThisMessageAgain" h="AC16D0EE">Не показувати це повідомлення надалі</text>
+		<text id="check.enableLogging" h="496D4808">Журнал в файл</text>
+		<text id="check.whenOpenDocumentCheckoutNoneDisableEditing" h="778336E0">Заборонити редагування</text>
+		<text id="check.whenOpenDocumentCheckoutNoneShowWarning" h="E97BFF00">Показувати попередження</text>
+		<text id="cmd.checkIn" h="AEF235ED">Розблокувати</text>
+		<text id="cmd.checkIn.tip" h="C9DCA405">Розблокувати документ в SharePoint.</text>
+		<text id="cmd.checkOut" h="E6A87AFE">Зарезервувати</text>
+		<text id="cmd.checkOut.tip" h="E1B64D30">Зарезервувати документ в SharePoint.</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">Відмінити резервування</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">Відмінити резервування документа в SharePoint.</text>
+		<text id="cmd.enableEditing" h="340AFFD4">Дозволити редагування</text>
+		<text id="cmd.enableEditing.tip" h="8A29948D">Дозволити редагування та інтерактивні функції.</text>
+		<text id="cmd.open" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.open.tip" h="007B7200">Відкрити документ з SharePoint.</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">Підготувати інформацію про документ</text>
+		<text id="cmd.prepareFileInfo.tip" h="E609EA07">Підготувати інформацію про документ в SharePoint.</text>
+		<text id="cmd.save" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.save.tip" h="C48C1C25">Зберегти активний документ в SharePoint.</text>
+		<text id="cmd.share_point" h="B7423C0E">Share&amp;Point</text>
+		<text id="cmd.share_point.tip" h="CA99078B">Працювати з документом в SharePoint</text>
+		<text id="dlg.liveLogin" h="BFADC685">Live Login</text>
+		<text id="dlg.openFile" h="435887CD">Відкрити файл</text>
+		<text id="dlg.saveFile" h="520CB069">Зберегти файл</text>
+		<text id="group.Logging" h="F9DEFF33">Дії із журналом запису</text>
+		<text id="group.documentActions" h="64C10405">Робота з документом</text>
+		<text id="ibar.cannotEditEditing" h="13F24128">Ви не можете редагувати файл на сервері. Дозволено зберігати лише локальні копії.</text>
+		<text id="ibar.cannotEditNoEditing" h="52C758B6">Ви не можете редагувати файл на сервері. Всі функції редагування та інтерактивності недоступні.</text>
+		<text id="ibar.checkedOutToMe" h="B5AF7047">Файл зарезервовано для Вас.</text>
+		<text id="ibar.checkedOutToOtherEditing" h="4F420124">Файл зарезервовано для %1. Ви не можете зберегти файл на сервер.</text>
+		<text id="ibar.checkedOutToOtherNoEditing" h="B8C2709A">Файл зарезервовано для %1. Всі функції редагування та інтерактивності недоступні.</text>
+		<text id="ibar.notCheckedOutEditing" h="A4D56FD1">Файл не зарезервовано для Вас. Якщо інші користувачі змінять файл на сервері, Ви не зможете зберегти зміни в цьому файлі.</text>
+		<text id="ibar.notCheckedOutNoEditing" h="E3EA5586">Файл не зарезервовано для Вас. Всі функції редагування та інтерактивності недоступні.</text>
+		<text id="ibar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="ibar.sharepoint.description" h="6F2E3CDD">Контекстна інформація та операції документа SharePoint</text>
+		<text id="ibar.sharepoint.title" h="C3F43468">Документ SharePoint</text>
+		<text id="lb.afterSave" h="6ABC46B3">Коли документ вже збережено:</text>
+		<text id="lb.checkInComment" h="694DD18A">Коментар (необов'язково):</text>
+		<text id="lb.closeDoesNotNeedCheckIn" h="7B029545">При закритті зарезервованого документа без змін:</text>
+		<text id="lb.closeNeedCheckIn" h="E2376C82">При закритті зарезервованого док. зі змінами:</text>
+		<text id="lb.currentLogFile" h="79D35843">Поточний журнал запису:</text>
+		<text id="lb.name" h="F7B9E475">Ім’я файла:</text>
+		<text id="lb.numberOfDaysToStoreLogs" h="E12F4F23">Днів зберігання:</text>
+		<text id="lb.sharePointPlaceUrl" h="F900769A">SharePoint URL:</text>
+		<text id="lb.sharePointPlaceValidUrl" h="9BFA1D20">Помилка при спробі під’єднання до серверу SharePoint. Переконайтесь в підключенні до інтернету і в правильності запису URL.</text>
+		<text id="lb.whenOpenDocumentCheckoutNone" h="1BB05A3E">При відкритті незарезервованого документа:</text>
+		<text id="lb.whenOpenDocumentCheckoutOther" h="8E43C402">При відкритті док-та, зарезервованого іншими:</text>
+		<text id="lb.whenOpenDocumentWithoutWritePermissions" h="4ACDAA34">При відкритті док-та без дозволу на запис:</text>
+		<text id="lb.whenSaveConflict" h="174E79E4">При збереженні док-та, зміненого на сервері:</text>
+		<text id="ls.column.created" h="FE6510B7">Дата створення</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Дата і час створення файла, папки чи списку</text>
+		<text id="ls.column.extension" h="14FEB836">Розширення</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Розширення файла</text>
+		<text id="ls.column.modified" h="691C3610">Дата зміни</text>
+		<text id="ls.column.modified.hint" h="12933E76">Дата і час зміни файла, папки чи списку</text>
+		<text id="ls.column.size" h="17A58A52">Розмір</text>
+		<text id="ls.column.size.hint" h="E79CA174">Розмір файла</text>
+		<text id="ls.column.title" h="D18643E3">Ім’я</text>
+		<text id="ls.column.title.hint" h="81F4F728">Ім’я файла, папки чи списку</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">Чи бажаєте зарезрвувати файл &lt;b&gt;%1&lt;/b&gt; перед закриттям? Тоді Ви зробите Ваші зміни доступними для інших користувачів.</text>
+		<text id="msg.askForCheckOutOnOpen" h="B185C3DF">Ви можете зарезервувати відкритий файл &lt;b&gt;%1&lt;/b&gt;  і дозволити іншим користувачам відкривати його "лише для читання". Тоді ви можете спокійно змінюваити його та зберігати зміни в SharePoint. Якщо Ви дозволити іншим користувачам змінювати файл, може виникнути конфлікт при спробі змінити та зберегти файл зі свого боку.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">Файл &lt;b&gt;%1&lt;/b&gt; зарезервовано для Вас. Чи бажаєте відмінити резервацію і дозволити іншим користувачам редагувати його?</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">Зарезервувати файл &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="msg.checkInFailed" h="3E327B8B">Не вдалось зарезрвувати файл &lt;b&gt;%1&lt;/b&gt;. Переконайтесь, що цей файл існує і заблокований для Вас.</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">Не вдалось зарезервувати файл &lt;b&gt;%1&lt;/b&gt;. Переконайтесь, що цей файл існує і не зарезервований іншим користувачем.</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">Ви не можете відкрити файл &lt;b&gt;%1&lt;/b&gt; та зарезервувати, тому що він вже зарезервований для користувача "%2".</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">Файл &lt;b&gt;%1&lt;/b&gt; заразервовано для користувача "%2". Ви не можете зберегти цей файл в SharePoint допоки не зарезервуєте файл для себе, але Ви можете зберегти змінений файл в інше місце.</text>
+		<text id="msg.connectError" h="18DFEDBE">Помилка при спробі під’єднання до серверу SharePoint. Переконайтесь в підключенні до інтернету, правильному записі адреси і правах доступу до ресурсу SharePoint.</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">Не вдалось відмінити резервування файла &lt;b&gt;%1&lt;/b&gt;. Переконайтесь в наявності файла і резервації для Вас.</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">Ви не можете зарезервувати файл &lt;b&gt;%1&lt;/b&gt;, у Вас нема дозволу на редагування цього файла.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">Ви не можете відкрити файл &lt;b&gt;%1&lt;/b&gt; та зарезервувати, тому що у Вас немає дозволу на редагування. </text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">Ви не можете відкрити файл &lt;b&gt;%1&lt;/b&gt; для редагування, у Вас нема дозволу редагувати цей файл.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">Файл &lt;b&gt;%1&lt;/b&gt; слід зарезервувати для себе перед збереженням, але Ви не матимете змоги редагувати його.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="C492B710">Ви не можете зберегти файл &lt;b&gt;%1&lt;/b&gt; в SharePoint, тому що у Вас немає дозволу на редагування. </text>
+		<text id="msg.fileNotFound" h="381368F8">Файл &lt;b&gt;%1&lt;/b&gt; не знайдено в даній папці.</text>
+		<text id="msg.invalidFileName" h="6BAFE9F2">Ім’я файла &lt;b&gt;%1&lt;/b&gt; неправильне. Воно не може містити символи &lt;b&gt;%2&lt;/b&gt;</text>
+		<text id="msg.navigateError" h="CF23B4B6">Помилка при переході до ресурсів SharePoint. Переконайтесь, чи підключенні до інтернету, чи правильний записі адреси і чи є права досутпу до ресурсу SharePoint.</text>
+		<text id="msg.openFailed" h="34DE1259">Помилка при відкритті файла. Переконайтесь, чи файл існує, чи не заререзрвований іншим користувачем і чи маєте Ви дозвіл на його відкриття.</text>
+		<text id="msg.outdatedFileOnWrite" h="93CDEA71">Завантажений Вами документ містить зміни, внесені на &lt;b&gt;%2&lt;/b&gt;,  але сервер містить нові зміни, внесені на &lt;b&gt;%3&lt;/b&gt;.  Збережіть зміни у файл з новим іменем, а далі відкрийте останній документ із резервуванням в SharePoint, об'єднайте зміни та збережіть їх на сервері.</text>
+		<text id="msg.outdatedFileOnWrite.question" h="4802DC49">Конфлікт змін для файла &lt;b&gt;%1&lt;/b&gt; . Завантажений вами документ містить зміни, внесені на &lt;&lt;b&gt;%2&lt;/b&gt;, але сервер містить інші зміни, внесені на &lt;b&gt;%3&lt;/b&gt;. Ви можете перезаписати версію сервера або, щоб зберегти зміни в новому файлі, скасувати поточне збереження, а потім відкрити останній документ із перевіркою в SharePoint, об'єднати зміни та зберегти їх на сервері.</text>
+		<text id="msg.saveFailed" h="967D2A64">Помилка при збереженні файла. Переконайтесь, чи ім’я файла правильне, чи він не зарезервований іншим користувачем і чи маєте Ви дозвіл на його редагування.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Файл &lt;b&gt;%1&lt;/b&gt; уже існує. Чи бажаєте замінити його?</text>
+		<text id="msg.signOutError" h="0E6A5F45">Спроба виходу з сервера SharePoint не вдалась, Ви все ще можете мати доступ до SharePoint без підтвердження ідентифікації.</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="69F2FCB2">У Вас не маєте дозволу на редагування файла &lt;b&gt;%1&lt;/b&gt;. Зауважте, Ви не зможете зберегти зміни в SharePoint без необхідного дозволу.</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">Файл &lt;b&gt;%1&lt;/b&gt; заразервовано для користувача "%2". Ви не можете зберегти цей файл в SharePoint допоки користувач "%2" не відмінить резервацію. Якщо користувач "%2" розблокує файл з його змінами, може виникнути конфлікт змін.</text>
+		<text id="opt.dontShowAgain" h="492B5D79">Не показувати це повідомлення надалі</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="str.sharePoint" h="56A5F9B3">SharePoint</text>
+	</Strings>
+</Localization>

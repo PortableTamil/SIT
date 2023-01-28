@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627200651">2.00.00</Version>
+	<Author>Jungle, Inc / Tz</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Japanese (Japan)" lName="日本語" code="ja-JP" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="7.0.325.10"/>
+	<Strings>
+		<text id="DlgAppPrefs.SharePoint.Name" h="56A5F9B3">SharePoint</text>
+		<text id="DlgAppPrefs.SharePoint.Title" h="07F34B45">SharePoint オプション</text>
+		<text id="btn.cancelSaving" h="36FF91F6">サーバーへの保存をキャンセル（&amp;C）</text>
+		<text id="btn.checkIn" h="09996473">チェックイン(&amp;C)</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">チェックインして、チェックアウトを維持する(&amp;h)</text>
+		<text id="btn.clearLogs" h="848E003C">すべて削除</text>
+		<text id="btn.connect" h="A79F815C">接続</text>
+		<text id="btn.discardCheckOut" h="40AC5603">チェックアウトを取り消し(&amp;D)</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">チェックアウトを維持(&amp;K)</text>
+		<text id="btn.navigate" h="B03F439E">ナビゲート(&amp;N)</text>
+		<text id="btn.open" h="B1A510F0">開く(&amp;O)</text>
+		<text id="btn.openLog" h="F3E66367">開く</text>
+		<text id="btn.openLogFolder" h="0B1D9C13">フォルダを開く</text>
+		<text id="btn.openWithCheckOut" h="2F774735">チェックアウトで開く(&amp;h)</text>
+		<text id="btn.overwrite" h="48E63C4C">上書き（&amp;O）</text>
+		<text id="btn.resetPreferences" h="A7132527">既定にリセット</text>
+		<text id="btn.save" h="F363C410">保存(&amp;S)</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">保存してチェックアウト(&amp;S)</text>
+		<text id="btn.saveReplace" h="11BF9724">置換して保存(&amp;R)</text>
+		<text id="btn.settings" h="4AD05264">設定</text>
+		<text id="btn.signOut" h="645CEBE2">サインアウト(&amp;I)</text>
+		<text id="cb.url.tip" h="CD81E674">アドレスを入力</text>
+		<text id="cbitem.afterSave.ask" h="5F9AC292">やるべきことを尋ねる</text>
+		<text id="cbitem.afterSave.checkIn" h="FA91CFF8">チェックイン</text>
+		<text id="cbitem.afterSave.checkInCheckOut" h="6C7252F6">チェックインとチェックアウト</text>
+		<text id="cbitem.afterSave.keepCheckOut" h="F4487016">チェックアウトしたままにする</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.ask" h="5F9AC292">やるべきことを尋ねる</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.discardCheckOut" h="CA75DE00">チェックアウトを破棄</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.keepCheckOut" h="F4487016">チェックアウトしたままにする</text>
+		<text id="cbitem.closeNeedCheckIn.ask" h="5F9AC292">やるべきことを尋ねる</text>
+		<text id="cbitem.closeNeedCheckIn.checkIn" h="FA91CFF8">チェックイン</text>
+		<text id="cbitem.closeNeedCheckIn.checkInCheckOut" h="6C7252F6">チェックインとチェックアウト</text>
+		<text id="cbitem.closeNeedCheckIn.keepCheckOut" h="F4487016">チェックアウトしたままにする</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.ask" h="5F9AC292">やるべきことを尋ねる</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.checkOut" h="95775966">開いてチェックアウトする</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.open" h="38A34D1A">チェックアウトせずに開く</text>
+		<text id="cbitem.whenSaveConflict.ask" h="5F9AC292">やるべきことを尋ねる</text>
+		<text id="cbitem.whenSaveConflict.cancel" h="554F5523">サーバーへの保存をキャンセル</text>
+		<text id="cbitem.whenSaveConflict.overwrite" h="B67489D8">サーバーのヴァージョンを上書きする</text>
+		<text id="check.dontShowThisMessageAgain" h="AC16D0EE">このメッセージを今後表示しない</text>
+		<text id="check.enableLogging" h="496D4808">ログを記録する</text>
+		<text id="check.whenOpenDocumentCheckoutNoneDisableEditing" h="778336E0">編集を非表示</text>
+		<text id="check.whenOpenDocumentCheckoutNoneShowWarning" h="E97BFF00">警告文を表示</text>
+		<text id="cmd.checkIn" h="AEF235ED">チェックイン(&amp;I)</text>
+		<text id="cmd.checkIn.tip" h="C9DCA405">ドキュメントファイルをSharePointにチェックインします</text>
+		<text id="cmd.checkOut" h="E6A87AFE">チェックアウト(&amp;O)</text>
+		<text id="cmd.checkOut.tip" h="E1B64D30">シェアポイントからドキュメントファイルをチェックアウトします</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">シェアポイント</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">チェックアウトを破棄(&amp;D)</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">SharePoint上のチェックアウトされたファイルを破棄します</text>
+		<text id="cmd.enableEditing" h="340AFFD4">編集を有効化</text>
+		<text id="cmd.enableEditing.tip" h="8A29948D">編集とインタラクティブ機能を有効化します</text>
+		<text id="cmd.open" h="68595810">シェアポイント(&amp;P)</text>
+		<text id="cmd.open.tip" h="007B7200">SharePointからドキュメントを開きます</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">ファイル情報を準備(&amp;I)</text>
+		<text id="cmd.prepareFileInfo.tip" h="E609EA07">SharePoint上のファイル情報を準備します</text>
+		<text id="cmd.save" h="68595810">シェアポイント(&amp;P)</text>
+		<text id="cmd.save.tip" h="C48C1C25">現在のドキュメントを SharePoint に保存します</text>
+		<text id="cmd.share_point" h="B7423C0E">シェアポイント(&amp;P)</text>
+		<text id="cmd.share_point.tip" h="CA99078B">シェアポイント内のドキュメントで作業します</text>
+		<text id="dlg.liveLogin" h="BFADC685">ライブログイン</text>
+		<text id="dlg.openFile" h="435887CD">ファイルを開く</text>
+		<text id="dlg.saveFile" h="520CB069">ファイルを保存</text>
+		<text id="group.Logging" h="F9DEFF33">ログ</text>
+		<text id="group.documentActions" h="64C10405">ドキュメント操作</text>
+		<text id="ibar.cannotEditEditing" h="13F24128">サーバー上のファイルを編集する権限がありません。ローカルコピー（ダウンロード）のみ許可されています。</text>
+		<text id="ibar.cannotEditNoEditing" h="52C758B6">サーバー上のファイルを編集する権限がありません。 全編集 / インタラクティブ機能は無効になっています。</text>
+		<text id="ibar.checkedOutToMe" h="B5AF7047">ファイルがチェックアウトしています。</text>
+		<text id="ibar.checkedOutToOtherEditing" h="4F420124">ファイルは%1にチェックアウトしています。 サーバ上に保存できません。</text>
+		<text id="ibar.checkedOutToOtherNoEditing" h="B8C2709A">ファイルは%1にチェックアウトしています。 全編集機能、インタラクティブ機能は無効です。</text>
+		<text id="ibar.notCheckedOutEditing" h="A4D56FD1">ファイルがチェックアウトしていません。他のユーザーがサーバー上のファイルを更新した場合、このファイルの変更を保存できません。</text>
+		<text id="ibar.notCheckedOutNoEditing" h="E3EA5586">ファイルがチェックアウトしていません。全編集機能、インタラクティブ機能は無効です。</text>
+		<text id="ibar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="ibar.sharepoint.description" h="6F2E3CDD">SharePointドキュメントのコンテキスト情報と操作</text>
+		<text id="ibar.sharepoint.title" h="C3F43468">SharePoint ドキュメント</text>
+		<text id="lb.afterSave" h="6ABC46B3">ドキュメントを保存した場合:</text>
+		<text id="lb.checkInComment" h="694DD18A">コメント（オプション）：</text>
+		<text id="lb.closeDoesNotNeedCheckIn" h="7B029545">変更せずドキュメントを閉じ、チェックアウトした場合：</text>
+		<text id="lb.closeNeedCheckIn" h="E2376C82">変更後、ドキュメントを閉じた場合：</text>
+		<text id="lb.currentLogFile" h="79D35843">現在のログ</text>
+		<text id="lb.name" h="F7B9E475">ファイル名：</text>
+		<text id="lb.numberOfDaysToStoreLogs" h="E12F4F23">ログ保存期間：</text>
+		<text id="lb.sharePointPlaceUrl" h="F900769A">シェアポイント URL：</text>
+		<text id="lb.sharePointPlaceValidUrl" h="9BFA1D20">SharePointサーバーに接続できませんでした。インターネットが接続されている または 指定されたサーバーのURLを確認してください。</text>
+		<text id="lb.whenOpenDocumentCheckoutNone" h="1BB05A3E">同一ドキュメントが、誰もチェックアウトしていない場合：</text>
+		<text id="lb.whenOpenDocumentCheckoutOther" h="8E43C402">同一ドキュメントに対しチェックアウトした場合：</text>
+		<text id="lb.whenOpenDocumentWithoutWritePermissions" h="4ACDAA34">書込権限が無いドキュメントを開こうとする場合:</text>
+		<text id="lb.whenSaveConflict" h="174E79E4">サーバー上で文書を変更した場合：</text>
+		<text id="ls.column.created" h="FE6510B7">作成日時</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">ファイル、フォルダ、リストが作成された日時</text>
+		<text id="ls.column.extension" h="14FEB836">拡張子</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">ファイル拡張子</text>
+		<text id="ls.column.modified" h="691C3610">更新日時</text>
+		<text id="ls.column.modified.hint" h="12933E76">ファイル、フォルダ、リストが最後に更新された日時</text>
+		<text id="ls.column.size" h="17A58A52">サイズ</text>
+		<text id="ls.column.size.hint" h="E79CA174">ファイルサイズ</text>
+		<text id="ls.column.title" h="D18643E3">名前</text>
+		<text id="ls.column.title.hint" h="81F4F728">ファイル名、フォルダ名、リストタイトル</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">閉じる前にファイル&lt;b&gt;%1&lt;/b&gt;をチェックインしますか？ これにより、他のユーザーが変更できるようになります。</text>
+		<text id="msg.askForCheckOutOnOpen" h="B185C3DF">ファイルを安全に変更・保存できるよう、ファイルを&lt;b&gt;%1&lt;/b&gt;でチェックアウトして、他ユーザーに対し「読み取り専用」として設定する。または、他ユーザーに変更を許可できます。他ユーザーに変更を許可した場合、該当ファイルが競合し、サーバに保存できなくなる可能性があります。</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">ファイル&lt;b&gt;%1&lt;/b&gt;がチェックアウトされています。チェックアウトを破棄して他のユーザーがファイルを編集できるようにしますか？</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">チェックインファイル&lt;b&gt;%1&lt;/b&gt;。</text>
+		<text id="msg.checkInFailed" h="3E327B8B">ファイル&lt;b&gt;%1&lt;/b&gt;がチェックインに失敗しました。このファイルが存在し、チェックアウトされていることを確認してください。</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">ファイル&lt;b&gt;%1&lt;/b&gt;がチェックアウトに失敗しました。このファイルがサーバー上に存在し、別のユーザーにチェックアウトされていないことを確認してください。</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">ユーザー "%2"にチェックアウトされている為、チェックアウトでファイル&lt;b&gt;%1&lt;/b&gt;を開けません。</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">ファイル&lt;b&gt;%1&lt;/b&gt;がユーザー "%2"にチェックアウトされています。チェックアウトされていない限り、このファイルをSharePointに保存することはできませんが、変更を別の場所に保存することはできます。</text>
+		<text id="msg.connectError" h="18DFEDBE">SharePointサーバーに接続できませんでした。 インターネット接続、サーバーアドレス、および必要なSharePointリソースへアクセス権を確認してください。</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">ファイル&lt;b&gt;%1&lt;/b&gt;がチェックアウトできませんでした。このファイルが存在し、チェックアウトされている事を確認してください。</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">このファイルに対し、編集権限がない為、ファイル&lt;b&gt;%1&lt;/b&gt;をチェックアウトすることはできません。</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">このファイルに対し、編集権限がない為、チェックアウトしてファイル&lt;b&gt;%1&lt;/b&gt;を開けません。</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">このファイルに対し、編集権限がない為、ファイル&lt;b&gt;%1&lt;/b&gt;を開くことはできません。</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">ファイル&lt;b&gt;%1&lt;/b&gt;は保存する前にチェックアウトする必要がありますが、このファイルの編集権限はありません。</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="C492B710">このファイルに対する編集権限がない為、&lt;b&gt;%1&lt;/b&gt;を保存できません。</text>
+		<text id="msg.fileNotFound" h="381368F8">ファイル&lt;b&gt;%1&lt;/b&gt;は現在のフォルダに見つかりませんでした。</text>
+		<text id="msg.invalidFileName" h="6BAFE9F2">&lt;b&gt;%1&lt;/b&gt;は無効なファイル名です（ファイル名に&lt;b&gt;%2&lt;/b&gt;を使用できません）</text>
+		<text id="msg.navigateError" h="CF23B4B6">シェアポイントにアクセスできませんでした。インターネットに接続されている、サーバーアドレス、アクセス権等を確認してください。</text>
+		<text id="msg.openFailed" h="34DE1259">ファイルを開けませんでした。 このファイルが存在し、別のユーザーにチェックアウトされていないこと、およびファイルにアクセスするために必要な権限があることを確認してください。</text>
+		<text id="msg.outdatedFileOnWrite" h="93CDEA71">ダウンロードしたドキュメントに &lt;b&gt;%2&lt;/b&gt; で行った変更が含まれていますが、サーバーには &lt;b&gt;%3&lt;/b&gt; で行われた新しい変更が含まれています。変更を新しいファイルに保存し、SharePoint からチェックアウトして最新のドキュメントを開き、変更をマージしてサーバーに保存してください。</text>
+		<text id="msg.outdatedFileOnWrite.question" h="4802DC49">ファイル&lt;b&gt;%1&lt;/b&gt;は変更が競合している為、SharePontに保存できません。ダウンロードしたドキュメントに&lt;b&gt;%2&lt;/b&gt;の変更が含まれています。しかし、サーバー上では&lt;b&gt;%3&lt;/b&gt;で行われた更新情報が含まれています。SharePointから最新のファイルをダウンロード、更新情報を統合し、再度サーバーにアップしてください。</text>
+		<text id="msg.saveFailed" h="967D2A64">ファイルを保存できませんでした。 ファイル名が有効であること、ファイルが別のユーザーにチェックアウトされていないこと、ファイルを編集するために必要な権限があることを確認してください。</text>
+		<text id="msg.saveReplace" h="B1889DFB">ファイル&lt;b&gt;%1&lt;/b&gt;は既に存在します。 上書きしますか？</text>
+		<text id="msg.signOutError" h="0E6A5F45">現在のユーザーがシェアポイントサーバーからサインアウトできませんでした。 ただし、認証要求がなくてもシェアポイントにアクセスできる可能性があります。</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="69F2FCB2">ファイル &lt;b&gt;%1&lt;/b&gt; に対する編集権限がありません。 必要な権限がないと SharePoint への変更を保存することはできません。</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">ファイル&lt;b&gt;%1&lt;/b&gt;がユーザー "%2"にチェックアウトされています。"%2"がチェックアウトされた状態を破棄しない限り、このファイルをSharePointに保存することはできません。 "%2"の変更を含むファイルをチェックインすると、変更の競合が発生します。</text>
+		<text id="opt.dontShowAgain" h="492B5D79">このメッセージを再表示させない</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="str.sharePoint" h="56A5F9B3">SharePoint</text>
+	</Strings>
+</Localization>

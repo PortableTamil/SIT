@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171221002804">2.00.00</Version>
+	<Author>Martin Paulík</Author>
+	<Copyright>TERAGON SW s.r.o.
+www.pdfxchange.cz</Copyright>
+	<Product id="PDFXDriver"/>
+	<Language eName="Czech (Czech Republic)" lName="čeština" code="cs-CZ" R2L="false"/>
+	<Module name="pdfSaver" namespace="saver" version="7.0.323.2"/>
+	<Strings>
+		<text id="about.version" h="2558B135">Verze: %1</text>
+		<text id="btn.help" h="2C29CD29">Nápověda...</text>
+		<text id="btn.hide" h="C4F1F414">Skrýt</text>
+		<text id="dlg.About" h="F2596574">O aplikaci</text>
+		<text id="dlg.AskDocInfo" h="8E6BE160">Informace o dokumentu</text>
+		<text id="dlg.Progress" h="B3F9EEBF">Proces tisku</text>
+		<text id="dlg.Settings" h="9147CD71">Nastavení</text>
+		<text id="docInfo.enable" h="F0A9B0E7">Přidat do dokumentu doplňující informace</text>
+		<text id="docinfo.author" h="3A9F9808">Autor:</text>
+		<text id="docinfo.creator" h="1B812E77">Tvůrce:</text>
+		<text id="docinfo.enable" h="F0A9B0E7">Přidat do dokumentu doplňující informace</text>
+		<text id="docinfo.g.title" h="E96E93B9">Informace o PDF</text>
+		<text id="docinfo.keywords" h="70561097">Klíčová slova:</text>
+		<text id="docinfo.subject" h="F6AB0643">Předmět:</text>
+		<text id="docinfo.title" h="A6AB0B5B">Název:</text>
+		<text id="errDlg.header" h="E8A076C8">Nemohu uložit &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="errDlg.text" h="3FD6CA0D">Při ukládání dokumentu do souboru došlo k chybě:
+&lt;b&gt;%1&lt;/b&gt;</text>
+		<text id="filter.all" h="A1868C9F">Všechny soubory</text>
+		<text id="filter.pdf" h="21DC74BD">PDF dokumenty (*.pdf)</text>
+		<text id="l.sec" h="68B35B56">vteřinách</text>
+		<text id="mainDlg" h="60C6805D">PDF-XChange Standard: pdfSaver</text>
+		<text id="msg.tray.close" h="7E4415DD">pdfSaver nebyl ukončen.
+Pro ukončení pdfSaveru vyberte Ukončit v systémové liště.</text>
+		<text id="opt.autoUnload" h="96863D52">Automaticky ukončit &lt;i&gt;pdfSaver&lt;/i&gt;:</text>
+		<text id="opt.g1.title" h="30673BCD">Obecné</text>
+		<text id="opt.g2.title" h="6781287A">Tweaks</text>
+		<text id="opt.keepFile" h="537941B8">Neodstraňovat dočasné soubory</text>
+		<text id="opt.keepFolder" h="F30EC396">Nemazat dočasnou složku při startu pdfSaveru</text>
+		<text id="opt.showProgress" h="86E70298">Zobrazit okno s průběhem tisku</text>
+		<text id="opt.systray" h="D55CEA00">Zobrazit ikonu na systémové liště</text>
+		<text id="overDlg.header" h="54920390">Soubor '%1' opravdu existuje</text>
+		<text id="overDlg.text" h="984124BE">Zadejte prosím požadovanou akci:</text>
+		<text id="overwrite.append" h="98ADB7C4">Připojit za
+Připojit nový soubor za již existující</text>
+		<text id="overwrite.autoNumber" h="95BDC2AD">Automatické číslo
+Uloží název s automatickým číslem</text>
+		<text id="overwrite.leaveJob" h="0CE1E2D3">Odložit
+Zrušit provádění úloh a opustit úlohu</text>
+		<text id="overwrite.over" h="13CC8739">Přepsat
+Přepsat existující soubor</text>
+		<text id="overwrite.prepend" h="7703513C">Přidat před
+Sloučit s existujícím souborem</text>
+		<text id="overwrite.select" h="60AA7DB4">Vybrat jiný soubor
+Vybrat jiný název souboru pro nový dokument</text>
+		<text id="progress.done" h="F14B47CB">%1%% hotovo</text>
+		<text id="progress.generating" h="4509E71B">Generuji PDF...</text>
+		<text id="progress.optimizing" h="6F2453BB">Optimalizuji...</text>
+		<text id="progress.page" h="962EF85B">Stránka %1</text>
+		<text id="progress.saving" h="B1CEA7B0">Ukládám PDF...</text>
+		<text id="progress.sending" h="BBDB8877">Odesílám PDF...</text>
+		<text id="progress.spooling" h="D7D10A9E">Spooling</text>
+		<text id="save.btn.additional" h="36A51922">Doplňující vlastnosti...</text>
+		<text id="save.cb.append" h="DF2206AB">Připojit k existujícímu PDF</text>
+		<text id="save.cb.email" h="93B339D4">Odeslat PDF po vytvoření</text>
+		<text id="save.cb.run" h="B14F25C0">Po uložení spustit prohlížeč PDF</text>
+		<text id="tryAgain" h="B119E265">Zkusit znovu</text>
+	</Strings>
+</Localization>

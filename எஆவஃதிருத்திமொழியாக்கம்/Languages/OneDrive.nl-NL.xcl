@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627193906">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Dutch (Netherlands)" lName="Nederlands" code="nl-NL" R2L="false"/>
+	<Module name="OneDrivePlugin" namespace="od" version="7.0.325.10"/>
+	<Strings>
+		<text id="DlgOpenFile" h="F5F0D3C4">Bestand openen van OneDrive</text>
+		<text id="DlgSaveFile" h="8E6D35E7">Bestand opslaan naar OneDrive</text>
+		<text id="GDPlugin" h="55E9533C">OneDrive-plug-in</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Nieuwe login...</text>
+		<text id="cmd.cmdsCategory" h="A8DDA089">OneDrive</text>
+		<text id="cmd.onedrive" h="FBE7A43C">&amp;OneDrive...</text>
+		<text id="cmd.open" h="C3A80FF4">&amp;OneDrive...</text>
+		<text id="cmd.open.tip" h="03DE0A0A">Open het document van OneDrive.</text>
+		<text id="cmd.save" h="C3A80FF4">&amp;OneDrive...</text>
+		<text id="cmd.save.tip" h="BC9750BB">Sla een actief document op in OneDrive.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Bestand niet gevonden</text>
+		<text id="cpt.invalidFileName" h="79C1387C">"Ongeldige bestandsnaam</text>
+		<text id="cpt.navigateError" h="3D300A1C">Navigatiefout</text>
+		<text id="cpt.saveReplace" h="520CB069">Bestand opslaan</text>
+		<text id="cpt.selectFile" h="C55D68B0">Bestand selecteren</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Kan bestand niet opslaan naar map</text>
+		<text id="dlg.Auth" h="EC0513C8">$$$.od.dlg.Auth</text>
+		<text id="dlg.Auth" h="6D5E22C0">One Drive-authenticatie</text>
+		<text id="fileName" h="DEC92488">Bestandsnaam:</text>
+		<text id="lb.CurrentFolder" h="44158804">Huidige map:</text>
+		<text id="lb.Test" h="273F3E5B">Test Test Test!</text>
+		<text id="lb.onedriveAccName" h="740F2198">OneDrive-account:</text>
+		<text id="ls.column.created" h="FE6510B7">Aanmaakdatum</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Datum en tijd waarop bestand, map of lijst is gemaakt</text>
+		<text id="ls.column.extension" h="14FEB836">Extensie</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Bestandsextensie</text>
+		<text id="ls.column.modified" h="7E234D6D">Wijzigingsdatum</text>
+		<text id="ls.column.modified.hint" h="12933E76">Datum en tijd waarop bestand, map of lijst voor het laatst is gewijzigd</text>
+		<text id="ls.column.size" h="17A58A52">Grootte</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Bestandsgrootte</text>
+		<text id="ls.column.title" h="D18643E3">Naam</text>
+		<text id="ls.column.title.hint" h="6A895576">Bestandsnaam, mapnaam of lijsttitel</text>
+		<text id="msg.fileNotFound" h="430E08B1">Bestand "%1" is niet gevonden in de huidige map.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" is geen geldige bestandsnaam.</text>
+		<text id="msg.navigateError" h="9C1CD106">Kan niet naar de OneDrive-bron navigeren. Controleer uw internetverbinding en rechten voor toegang tot de gevraagde OneDrive-bron.</text>
+		<text id="msg.openFailed" h="AC94D960">Bestand openen mislukt. Zorg ervoor dat het bestand bestaat, niet is uitgecheckt naar andere gebruikers en dat u leesrechten hebt.</text>
+		<text id="msg.saveFailed" h="4D413392">Kan bestand niet opslaan. Zorg ervoor dat de bestandsnaam geldig is en dat je daarvoor schrijfrechten hebt.</text>
+		<text id="msg.saveReplace" h="5D56833E">Het bestand %1 bestaat al. Wil je het vervangen?</text>
+		<text id="msg.selectFile" h="2530C20F">Selecteer een bestand voordat u op OK drukt</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Het bestand kan niet worden opgeslagen op de geselecteerde locatie. Kies de map 'My Drive', een van de submappen of een van de submappen 'Gedeeld met mij' om het bestand op te slaan.</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">My Drive</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Gedeeld met mij</text>
+	</Strings>
+</Localization>

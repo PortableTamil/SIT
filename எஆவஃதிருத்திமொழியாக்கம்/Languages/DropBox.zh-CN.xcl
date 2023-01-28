@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123223803">2.00.00</Version>
+	<Author>sunniar, Zach Yu</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Chinese (Simplified, China)" lName="中文(简体)" code="zh-CN" R2L="false"/>
+	<Module name="Dropbox" namespace="db" version="7.0.323.3"/>
+	<Strings>
+		<text id="btn.cancel" h="3D302A38">取消（&amp;C）</text>
+		<text id="btn.chooseUser" h="4E5DDBFB">选择用户(&amp;S)</text>
+		<text id="btn.ok" h="FEF0C771">&amp;OK</text>
+		<text id="btn.open" h="B1A510F0">打开(&amp;O)</text>
+		<text id="btn.save" h="F363C410">保存(&amp;S)</text>
+		<text id="btn.saveReplace" h="11BF9724">保存并替换(&amp;R)</text>
+		<text id="cmd.cmdsCategory" h="22B8ECE9">Dropbox</text>
+		<text id="cmd.open" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.open.tip" h="683AE278">从 Dropbox 打开文档</text>
+		<text id="cmd.save" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.save.tip" h="B5D0B78F">将当前文档保存到 Dropbox.</text>
+		<text id="cmd.dropbox" h="6616FE70">&amp;Dropbox</text>
+		<text id="dlg.authenticate" h="E6E77652">授权</text>
+		<text id="dlg.openFile" h="435887CD">打开文件</text>
+		<text id="dlg.saveFile" h="520CB069">保存文件</text>
+		<text id="lb.itemsInFolder" h="8F56A98C">%d个项目</text>
+		<text id="lb.name" h="F7B9E475">文件名:</text>
+		<text id="ls.column.created" h="9E0B497D">创建日期</text>
+		<text id="ls.column.created.hint" h="291F5AEC">创建文件、文件夹或列表的日期和时间</text>
+		<text id="ls.column.extension" h="14FEB836">扩展</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">文件扩展名</text>
+		<text id="ls.column.modified" h="691C3610">修改日期</text>
+		<text id="ls.column.modified.hint" h="2C2CF8F2">最后修改文件、文件夹或列表的日期和时间</text>
+		<text id="ls.column.size" h="17A58A52">大小</text>
+		<text id="ls.column.size.hint" h="E79CA174">文件大小</text>
+		<text id="ls.column.title" h="D18643E3">名称</text>
+		<text id="ls.column.title.hint" h="D883F263">文件/文件夹的名称</text>
+		<text id="msg.connectError" h="A594B0D5">无法连接到 Dropbox。请检查您的网络连接和访问权限</text>
+		<text id="msg.fileNotFound" h="381368F8">当前文件夹中不存在文件 &lt;b&gt;%1&lt;/b&gt;</text>
+		<text id="msg.invalidFileName" h="6BE657E3">&lt;b&gt;%1&lt;/b&gt; 不是有效的文件名（不允许使用符号 &lt; &gt; " / \ | ? *)</text>
+		<text id="msg.navigateError" h="8BCFBD0F">请检查您的互联网连接，确保地址正确并且你有权访问此 Dropbox 资源</text>
+		<text id="msg.openFailed" h="794811DE">无法打开文件。请确保文件存在且您有权读取</text>
+		<text id="msg.saveFailed" h="36780EC6">无法保存文件。请确保文件名称有效，你有写入权限并且你的 Dropbox 空间足够</text>
+		<text id="msg.saveReplace" h="B1889DFB">文件 &lt;b&gt;%1&lt;/b&gt; 已存在。你要替换它吗？</text>
+		<text id="msg.wrongUser" h="27773B86">无法打开文件/文件夹，因为它是属于另一个用户的 Dropbox。你想要选择另一个用户吗？</text>
+		<text id="str.fileSystemName" h="22B8ECE9">Dropbox</text>
+	</Strings>
+</Localization>

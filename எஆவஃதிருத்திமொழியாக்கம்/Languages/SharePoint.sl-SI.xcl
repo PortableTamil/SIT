@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627200651">2.00.00</Version>
+	<Author>Stanko Horvat</Author>
+	<Copyright>Stanko Horvat</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Slovenian (Slovenia)" lName="slovenščina" code="sl-SI" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="7.0.325.10"/>
+	<Strings>
+		<text id="DlgAppPrefs.SharePoint.Name" h="56A5F9B3">SharePoint</text>
+		<text id="DlgAppPrefs.SharePoint.Title" h="07F34B45">Možnosti za SharePoint</text>
+		<text id="btn.cancelSaving" h="36FF91F6">&amp;Prekliči shranjevanje na strežnik</text>
+		<text id="btn.checkIn" h="09996473">&amp;Sprosti</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">S&amp;prosti in zadrži rezervirano</text>
+		<text id="btn.clearLogs" h="848E003C">Izbriši vse</text>
+		<text id="btn.connect" h="A79F815C">P&amp;oveži</text>
+		<text id="btn.discardCheckOut" h="40AC5603">&amp;Zavrzi rezervacijo</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">&amp;Zadrži rezervirano</text>
+		<text id="btn.navigate" h="B03F439E">&amp;Navigacija</text>
+		<text id="btn.open" h="B1A510F0">&amp;Odpri</text>
+		<text id="btn.openLog" h="F3E66367">Odpri</text>
+		<text id="btn.openLogFolder" h="0B1D9C13">Odpri mapo</text>
+		<text id="btn.openWithCheckOut" h="2F774735">Odpri z r&amp;ezervacijo</text>
+		<text id="btn.overwrite" h="48E63C4C">&amp;Prepiši</text>
+		<text id="btn.resetPreferences" h="A7132527">Ponastavi na privzeto</text>
+		<text id="btn.save" h="F363C410">&amp;Shrani</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">&amp;Shrani in rezerviraj</text>
+		<text id="btn.saveReplace" h="11BF9724">Shrani in &amp;zamenjaj</text>
+		<text id="btn.settings" h="4AD05264">N&amp;astavitve</text>
+		<text id="btn.signOut" h="645CEBE2">O&amp;djava</text>
+		<text id="cb.url.tip" h="CD81E674">Vnesi naslov ...</text>
+		<text id="cbitem.afterSave.ask" h="5F9AC292">Vprašaj kaj naj naredim</text>
+		<text id="cbitem.afterSave.checkIn" h="FA91CFF8">Sprosti</text>
+		<text id="cbitem.afterSave.checkInCheckOut" h="6C7252F6">Sprosti in zadrži rezervirano</text>
+		<text id="cbitem.afterSave.keepCheckOut" h="F4487016">Zadrži rezervirano</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.ask" h="5F9AC292">Vprašaj kaj naj naredim</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.discardCheckOut" h="CA75DE00">Zavrzi rezervacijo</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.keepCheckOut" h="F4487016">Zadrži rezervirano</text>
+		<text id="cbitem.closeNeedCheckIn.ask" h="5F9AC292">Vprašaj kaj naj naredim</text>
+		<text id="cbitem.closeNeedCheckIn.checkIn" h="FA91CFF8">Sprosti</text>
+		<text id="cbitem.closeNeedCheckIn.checkInCheckOut" h="6C7252F6">Sprosti in zadrži rezervirano</text>
+		<text id="cbitem.closeNeedCheckIn.keepCheckOut" h="F4487016">Zadrži rezervirano</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.ask" h="5F9AC292">Vprašaj kaj naj naredim</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.checkOut" h="95775966">Odpri in zadrži rezervirano</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.open" h="38A34D1A">Odpri brez rezervacije</text>
+		<text id="cbitem.whenSaveConflict.ask" h="5F9AC292">Vprašaj kaj naj naredim</text>
+		<text id="cbitem.whenSaveConflict.cancel" h="554F5523">Prekliči shranjevanje na strežnik</text>
+		<text id="cbitem.whenSaveConflict.overwrite" h="B67489D8">Prepiši različico strežnika</text>
+		<text id="check.dontShowThisMessageAgain" h="AC16D0EE">Ne prikazuj znova to sporočilo</text>
+		<text id="check.enableLogging" h="496D4808">Zapiši dnevnik v datoteko</text>
+		<text id="check.whenOpenDocumentCheckoutNoneDisableEditing" h="778336E0">Onemogoči urejanje</text>
+		<text id="check.whenOpenDocumentCheckoutNoneShowWarning" h="E97BFF00">Pokaži opozorilno sporočilo</text>
+		<text id="cmd.checkIn" h="AEF235ED">Spros&amp;ti</text>
+		<text id="cmd.checkIn.tip" h="C9DCA405">Sprosti datoteko dokumenta v SharePoint-u.</text>
+		<text id="cmd.checkOut" h="E6A87AFE">&amp;Rezerviraj</text>
+		<text id="cmd.checkOut.tip" h="E1B64D30">Rezerviraj datoteko dokumenta v SharePoint-u.</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">&amp;Prekliči rezervacijo</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">Zavrzi rezervacijo datoteke dokumenta v SharePoint-u.</text>
+		<text id="cmd.enableEditing" h="340AFFD4">&amp;Omogoči urejanje</text>
+		<text id="cmd.enableEditing.tip" h="8A29948D">Omogoči urejanje in interaktivne funkcije.</text>
+		<text id="cmd.open" h="68595810">Share&amp;Point ...</text>
+		<text id="cmd.open.tip" h="007B7200">Odpri dokument iz SharePoint-a.</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">Pripravi datotečne &amp;podatke</text>
+		<text id="cmd.prepareFileInfo.tip" h="E609EA07">Pripravi datotečne podatke dokumenta za SharePoint.</text>
+		<text id="cmd.save" h="68595810">Share&amp;Point ...</text>
+		<text id="cmd.save.tip" h="C48C1C25">Shrani aktivni dokument v SharePoint.</text>
+		<text id="cmd.share_point" h="B7423C0E">Share&amp;Point</text>
+		<text id="cmd.share_point.tip" h="CA99078B">Delaj z dokumenti v SharePoint-u</text>
+		<text id="dlg.liveLogin" h="BFADC685">Živa prijava</text>
+		<text id="dlg.openFile" h="435887CD">Odpri datoteko</text>
+		<text id="dlg.saveFile" h="520CB069">Shrani datoteko</text>
+		<text id="group.Logging" h="F9DEFF33">Pisanje dnevnika</text>
+		<text id="group.documentActions" h="64C10405">Delo z dokumentom</text>
+		<text id="ibar.cannotEditEditing" h="13F24128">Nimate dovoljenj za urejanje datoteke na strežniku. Dovoljeno je le shranjevanje kot lokalna kopija.</text>
+		<text id="ibar.cannotEditNoEditing" h="52C758B6">Nimate dovoljenj za urejanje datoteke na strežniku. Vso urejanje in interaktivne funkcije so onemogočene.</text>
+		<text id="ibar.checkedOutToMe" h="B5AF7047">Datoteka je rezervirana od vas.</text>
+		<text id="ibar.checkedOutToOtherEditing" h="4F420124">Datoteka je rezervirana za %1. Datoteke ne boste mogli shraniti v strežnik.</text>
+		<text id="ibar.checkedOutToOtherNoEditing" h="B8C2709A">Datoteka je rezervirana za %1. Vso urejanje in interaktivne funkcije so onemogočene.</text>
+		<text id="ibar.notCheckedOutEditing" h="A4D56FD1">Datoteka ni rezervirana. Če drugi uporabniki spremenijo datoteko na strežniku, potem ne morete shraniti sprememb te datoteke.</text>
+		<text id="ibar.notCheckedOutNoEditing" h="E3EA5586">Datoteka ni rezervirana. Vso urejanje in interaktivne funkcije so onemogočene.</text>
+		<text id="ibar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="ibar.sharepoint.description" h="6F2E3CDD">SharePointove informacije o kontekstu dokumenta in operacijah</text>
+		<text id="ibar.sharepoint.title" h="C3F43468">SharePoint dokument.</text>
+		<text id="lb.afterSave" h="6ABC46B3">Ko je dokument shranjen:</text>
+		<text id="lb.checkInComment" h="694DD18A">Komentar (neobvezno):</text>
+		<text id="lb.closeDoesNotNeedCheckIn" h="7B029545">Ko je zaprt dokument rezerviran brez sprememb:</text>
+		<text id="lb.closeNeedCheckIn" h="E2376C82">Ko je zaprt dokument rezerviran s spremembami:</text>
+		<text id="lb.currentLogFile" h="79D35843">Trenutni dnevnik:</text>
+		<text id="lb.name" h="F7B9E475">Ime datoteke:</text>
+		<text id="lb.numberOfDaysToStoreLogs" h="E12F4F23">Število dni za shranjevanje dnevnikov:</text>
+		<text id="lb.sharePointPlaceUrl" h="F900769A">SharePoint URL:</text>
+		<text id="lb.sharePointPlaceValidUrl" h="9BFA1D20">Povezava s strežnikom SharePoint ni uspela. Preverite internetno povezavo in določen URL strežnika.</text>
+		<text id="lb.whenOpenDocumentCheckoutNone" h="1BB05A3E">Ko odprt dokument ni rezerviran za kogarkoli:</text>
+		<text id="lb.whenOpenDocumentCheckoutOther" h="8E43C402">Ko je odprt dokument rezerviran za drugega uporabnika:</text>
+		<text id="lb.whenOpenDocumentWithoutWritePermissions" h="4ACDAA34">Ko je odprt dokument brez dovoljenj za pisanje:</text>
+		<text id="lb.whenSaveConflict" h="174E79E4">Ko shranite spremembe dokumenta na strežnik:</text>
+		<text id="ls.column.created" h="FE6510B7">Datum nastanka</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Datum in čas, ko je bila ustvarjena datoteka, mapa ali seznam</text>
+		<text id="ls.column.extension" h="14FEB836">Pripona</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Pripona datoteke</text>
+		<text id="ls.column.modified" h="691C3610">Datum spremembe</text>
+		<text id="ls.column.modified.hint" h="12933E76">Datum in čas, ko so bili datoteka, mapa ali seznam nazadnje spremenjeni</text>
+		<text id="ls.column.size" h="17A58A52">Velikost</text>
+		<text id="ls.column.size.hint" h="E79CA174">Velikost datoteke</text>
+		<text id="ls.column.title" h="D18643E3">Ime</text>
+		<text id="ls.column.title.hint" h="81F4F728">Ime datoteke, ime mape ali naziv seznama</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">Ali želite sprostiti datoteko &lt;b&gt;%1&lt;/b&gt; pred zapiranjem? To bo omogočilo, da bodo spremembe na voljo drugim uporabnikom.</text>
+		<text id="msg.askForCheckOutOnOpen" h="B185C3DF">Lahko odprete datoteko &lt;b&gt;%1&lt;/b&gt; z rezervacijo tako, da jo nastavite kot 'samo za branje' za druge uporabnike, da jo lahko varno spremenijo in shranijo spremembe v SharePoint ali pa drugim uporabnikom omogočite spremembo datoteke, vendar lahko pride do sporov, če poskusijo spremeniti in shraniti datoteko kot svoje delo.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">Datoteka &lt;b&gt;%1&lt;/b&gt; je rezervirana od vas. Ali želite zavreči rezervacijo, da bi drugim uporabnikom omogočili, da urejajo to datoteko?</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">Sprosti datoteko &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="msg.checkInFailed" h="3E327B8B">Datoteke &lt;b&gt;%1&lt;/b&gt; ni bilo mogoče sprostiti. Preverite, ali datoteka obstaja in ali ni rezervirana za vas.</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">Datoteke &lt;b&gt;%1&lt;/b&gt; ni bilo mogoče rezervirati. Preverite, ali datoteka obstaja na strežniku in ali jo ni rezerviral drug uporabnik.</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">Ne morete odpreti datoteko &lt;b&gt;%1&lt;/b&gt; z rezervacijo, ker je že rezervirana od uporabnika '%2'.</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">Datoteka &lt;b&gt;%1&lt;/b&gt; je rezervirana za uporabnika '%2'. Te datoteke ne morete shraniti v SharePoint, razen če ste jo rezervirali, vendar lahko svoje spremembe shranite na drugo lokacijo.</text>
+		<text id="msg.connectError" h="18DFEDBE">Napaka pri povezovanju s strežnikom SharePoint. Preverite internetno povezavo, pravilnost naslova strežnika in pravic za dostop do zahtevanega vira SharePoint.</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">Napaka pri rezervaciji datoteke &lt;b&gt;%1&lt;/b&gt;. Preverite, ali datoteka obstaja in ali ni rezervirana za vas.</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">Ne morete rezervirati datoteko &lt;b&gt;%1&lt;/b&gt;, ker nimate dovoljenj za urejanje.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">Ne morete odpreti datoteko &lt;b&gt;%1&lt;/b&gt; z rezervacijo, ker nimate dovoljenj za urejanje.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">Ne morete odpreti datoteko &lt;b&gt;%1&lt;/b&gt; za urejanje, ker nimate dovoljenj za urejanje.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">Datoteko &lt;b&gt;%1&lt;/b&gt;, je treba rezervirati, preden se shrani, vendar nimate dovoljenja za urejanje.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="C492B710">Ne morete shraniti datoteke &lt;b&gt;%1&lt;/b&gt; v SharePoint, ker nimate dovoljenja za urejanje.</text>
+		<text id="msg.fileNotFound" h="381368F8">Datoteke &lt;b&gt;%1&lt;/b&gt;  ni mogoče najti v trenutni mapi.</text>
+		<text id="msg.invalidFileName" h="6BAFE9F2">&lt;b&gt;%1&lt;/b&gt; ni veljavno ime datoteke. Ime datoteke ne sme vsebovati znakov &lt;b&gt;%2&lt;/b&gt;</text>
+		<text id="msg.navigateError" h="CF23B4B6">Napaka pri odpiranju SharePoint vira. Preverite internetno povezavo, pravilnost naslova vira in pravic za dostop do zahtevanega vira SharePoint.</text>
+		<text id="msg.openFailed" h="34DE1259">Napaka pri odpiranju datoteke. Prepričajte se, da datoteka obstaja, da ni rezervirana s strani drugega uporabnika in da imate potrebna dovoljenja za dostop do datoteke.</text>
+		<text id="msg.outdatedFileOnWrite" h="93CDEA71">Dokument, ki ste ga prenesli, vsebuje spremembe, izdelane v &lt;b&gt;%2&lt;/b&gt;, vendar strežnik vsebuje novejše spremembe izdelane v &lt;b&gt;%3&lt;/b&gt;. Shranite spremembe v novo datoteko, odprite najnovejši dokument z rezervacijo iz SharePointa, združite spremembe in jih shranite v strežnik.</text>
+		<text id="msg.outdatedFileOnWrite.question" h="4802DC49">Datoteka &lt;b&gt;%1&lt;/b&gt; ima konflikte. Dokument, ki ste ga prenesli, vsebuje spremembe, narejene od &lt;b&gt;%2&lt;/b&gt;, vendar strežnik vsebuje novejše spremembe od &lt;b&gt;%3&lt;/b&gt;. Lahko prepišete različico na strežniku ali prekličete trenutno shranjevanje, da shranite spremembe v novo datoteko, nato odprete najnovejši dokument z rezervacijo iz SharePointa, združite spremembe in jih shranite v strežnik.</text>
+		<text id="msg.saveFailed" h="967D2A64">Datoteke ni bilo mogoče shraniti. Prepričajte se, da je ime datoteke veljavno, da ni rezervirana s strani drugega uporabnika in da imate potrebna dovoljenja za urejanje.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Datoteka &lt;b&gt;%1&lt;/b&gt; že obstaja. Ali jo želite zamenjati?</text>
+		<text id="msg.signOutError" h="0E6A5F45">Trenutnega uporabnika ni mogoče odjaviti iz strežnika SharePoint. Vendar pa boste morda še vedno lahko dostopali do SharePoint-a brez zahteve za preverjanje pristnosti.</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="69F2FCB2">Nimate dovoljenj za urejanje datoteke &lt;b&gt;%1&lt;/b&gt;. Upoštevajte, da ne boste mogli shraniti sprememb v SharePoint, razen če imate potrebna dovoljenja.</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">Datoteka &lt;b&gt;%1&lt;/b&gt; je rezervirana od uporabnika '%2'. Te datoteke ne morete shraniti v SharePoint, dokler '%2' ne zavrže rezervacije za to datoteko. Če datoteka od '%2' vsebuje spremembe, bo to povzročilo spore.</text>
+		<text id="opt.dontShowAgain" h="492B5D79">&amp;Ne prikazuj tega sporočila znova</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="str.sharePoint" h="56A5F9B3">SharePoint</text>
+	</Strings>
+</Localization>

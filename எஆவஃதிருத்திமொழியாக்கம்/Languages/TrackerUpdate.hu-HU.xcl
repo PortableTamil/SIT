@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20160415182442">2.00.00</Version>
+	<Author>Tóth Norbert (loloticpower@gmail.com)</Author>
+	<Copyright></Copyright>
+	<Product id="TrackerUpdate"/>
+	<Language eName="Hungarian" lName="magyar" code="hu-HU" R2L="false"/>
+	<Module name="TrackerUpdate" namespace="" version="6.0.317.0"/>
+	<Strings>
+		<text id="progress.userMsg.connectedSuccessfully" h="8A8A081E">Csatlakozás sikeres.</text>
+		<text id="progress.userMsg.errorDownloading" h="0CE95B18">Hiba a fájl letöltése közben: '%1'</text>
+		<text id="progress.userMsg.errorRequesting" h="33AE9111">Hiba a fájl lekérése közben: '%1'</text>
+		<text id="progress.userMsg.filedownloaded" h="470F7566">A(z) %1 fájl sikeresen letöltve.</text>
+		<text id="progress.userMsg.packageInstalationFailed" h="3AEDB055">'%1' csomag telepítése sikertelen.</text>
+		<text id="progress.userMsg.proxyFail" h="4BB3CEA7">Proxy meghatalmazás érvénytelen „%1” felhasználóhoz</text>
+		<text id="progress.userMsg.unableToConnect" h="96F68A37">Sikertelen a szerverhez való csatlakozás: %1...</text>
+		<text id="progress.userMsg.userBreakDownloading" h="4F004A48">Használati szünet ennek a fájlnak a letöltése közben: '%1'</text>
+		<text id="progress.txt.hour" h="CDADDDAA">%1 óra</text>
+		<text id="progress.txt.sizeValue" h="CCB7B0F4">%1 KB (%2 byte)</text>
+		<text id="progress.txt.speedValue" h="E0217E21">%1 KB/másodperc</text>
+		<text id="progress.txt.min" h="08103A63">%1 perc</text>
+		<text id="progress.txt.sec" h="CEB4987D">%1 másodperc</text>
+		<text id="main.msgBox.newVersionOfTracker" h="BC5E93C1">Frissítés érhető el a Tracker Update-hez, amit szükséges telepíteni a folytatáshoz. Szeretné telepíteni most?</text>
+		<text id="progress.txt.time.aboutMinute" h="75EB2EB2">Körülbelül egy perc</text>
+		<text id="state.msg.error" h="EC250F30">Egy hiba lépett fel:</text>
+		<text id="scheduler.chBox.april" h="EB5B3219">Április</text>
+		<text id="progress.msgBox.askStartInstall" h="51A613BC">Készen áll a letöltött frissítések telepítésére?</text>
+		<text id="scheduler.chBox.august" h="F741CCEC">Augusztus</text>
+		<text id="setting.chBox.expiration" h="8B3B89EA">Automatikus frissítések ellenőrzése, amelyek összeegyeztethetetlenek a karbantartási előfizetéssel</text>
+		<text id="scheduler.radioBtn.automaticDownload" h="BB3286A9">Elérhető frissítések automatikus letöltése</text>
+		<text id="setting.txtBox.automaticInstall" h="00C9D7BC">Letöltött frissítések automatikus telepítése</text>
+		<text id="settings.tabItem.autostart" h="DAB331BD">Automatikus indítás</text>
+		<text id="main.listCol.version" h="7922E696">Elérhető</text>
+		<text id="main.txtBox.availableUpdate" h="5B1B87D4">Elérhető frissítések:</text>
+		<text id="progress.txt.averageSpeed" h="B07DD6C6">Átlagos sebesség</text>
+		<text id="progress.btn.back" h="F8750C11">Vissza</text>
+		<text id="settings.btn.cancel" h="08961956">Mégsem</text>
+		<text id="state.msg.InternetConectionError" h="CA67F2D7">Kapcsolat nem hozható létre. Kérem próbálja meg később.</text>
+		<text id="state.msg.getListError" h="FC0D4CDC">Nem szerezhető be a frissítések listája.</text>
+		<text id="state.msg.getDataFileError" h="AD2EC6D3">Nem tölthető be információ a Tracker termékekről.</text>
+		<text id="scheduler.msgBox.saveSchedulerError" h="9B74B104">Nem lehet menteni az automatikus indítási feladatot!</text>
+		<text id="setting.msgBox.saveSettingError" h="851722FE">Beállítások nem menthetők!</text>
+		<text id="main.btn.checkAgain" h="A3D44F4A">Újboli ellenőrzés</text>
+		<text id="main.context.check" h="A2303C1F">Kijelöltek ellenőrzése</text>
+		<text id="progress.txt.clickToContinue" h="BF8EFEB0">Kattintson a Telepítés-re a frissítés folytatásához.</text>
+		<text id="existing.btn.close" h="9594DBB7">Bezár</text>
+		<text id="setting.grBox.proxyConfig" h="A43FB5FD">Proxy beállítása az internethez való hozzáféréshez</text>
+		<text id="progress.userMsg.connectToServer" h="179110BC">Kapcsolódás a(z) %1 szerverhez...</text>
+		<text id="logDlg.context.copy" h="348DE55D">Másolás</text>
+		<text id="scheduler.radioBtn.daily" h="D4192C96">Napi</text>
+		<text id="scheduler.txtBox.day" h="A21EDE78">Nap:</text>
+		<text id="scheduler.radioBtn.day" h="A21EDE78">Nap:</text>
+		<text id="scheduler.txt.days" h="7AD34862">nap</text>
+		<text id="scheduler.chBox.december" h="7AEFD274">December</text>
+		<text id="logDlg.context.disableAutoScroll" h="08DE8A1C">Automatikus görgetés tiltása</text>
+		<text id="progress.msgBox.askRebootAfterInstallPart2" h="4D247ABD">Szeretné újraindítani most?</text>
+		<text id="main.msgBox.incompatibleWithMaintenancePart2" h="5D6A7A67">Szeretné ezeket frissíteni most?</text>
+		<text id="main.btn.download" h="BCE8145B">Letöltés</text>
+		<text id="progress.userMsg.downloadingFinished" h="1BA4544E">Letöltés befejezve.</text>
+		<text id="progress.userMsg.downloadingStarted" h="7AFECC9A">Letöltés elkezdődött.</text>
+		<text id="progress.txt.downloaded" h="7F7E73C2">Letöltve</text>
+		<text id="progress.txt.pageHedear.downloading" h="15200E48">%1 frissítés letöltése a(z) %2-ból/ből, kérem várjon...</text>
+		<text id="logDlg.context.enableAutoScroll" h="5B72EA2B">Automatikus görgetés engedélyezése</text>
+		<text id="setting.msgBox.error" h="51BFF51D">Hiba</text>
+		<text id="progress.userMsg.errorParceURL" h="CF0D1F96">Hiba az URL elemzésénél</text>
+		<text id="progress.btn.exit" h="748EB8A1">Kilépés</text>
+		<text id="main.btn.exit" h="748EB8A1">Kilépés</text>
+		<text id="scheduler.chBox.february" h="A468CF34">Február</text>
+		<text id="progress.txt.pageHedear.finished" h="A4834E77">Befejezve.</text>
+		<text id="scheduler.comBox.first" h="D7CC2CC2">Első</text>
+		<text id="scheduler.comBox.fourth" h="EB6E5748">Negyedik</text>
+		<text id="scheduler.chBox.friday" h="F3BB1C4F">Péntek</text>
+		<text id="state.msg.gatheringInformation" h="37FDD4EF">Információ gyűjtése, kérem várjon...</text>
+		<text id="settings.tabItem.general" h="30673BCD">Általános</text>
+		<text id="scheduler.grBox.general" h="30673BCD">Általános</text>
+		<text id="setting.grBox.general" h="30673BCD">Általános</text>
+		<text id="progress.userMsg.gettingFile" h="F73F4B04">Fájl beszerzése: %1...</text>
+		<text id="main.btn.help" h="03718903">Súgó</text>
+		<text id="main.msgBox.lockedUpdatesPart2" h="1AC7FABE">A frissítés telepítéséhez kérem távolítsa el ezeket a termékeket.</text>
+		<text id="progress.btn.install" h="9F075946">Telepítés</text>
+		<text id="progress.btn.installWithTimer" h="83E409E9">Telepítés (%1)</text>
+		<text id="progress.userMsg.installSkipped" h="2C75EA82">Telepítés átugorva.</text>
+		<text id="progress.userMsg.installingFinished" h="F1CF6640">Telepítés befejezve.</text>
+		<text id="progress.userMsg.userCanceledInstalling" h="2D008840">A telepítés a felhasználó által meg lett szakítva.</text>
+		<text id="progress.userMsg.installingStarted" h="04D958E8">Telepítés elkezdődött.</text>
+		<text id="main.listCol.installed" h="DECE7C42">Telepítve</text>
+		<text id="existing.dlg.name" h="C0C93CE4">Telepített termékek</text>
+		<text id="main.btn.installedProduct" h="C0C93CE4">Telepített termékek</text>
+		<text id="progress.txt.pageHedear.installing" h="35478468">Frissítések telepítése, kérem várjon...</text>
+		<text id="setting.txtBox.interfaceLanguage" h="9F4AE18F">Felhasználói felület nyelve:</text>
+		<text id="scheduler.chBox.january" h="087B2F92">Január</text>
+		<text id="scheduler.chBox.july" h="934037AC">Július</text>
+		<text id="scheduler.chBox.june" h="DF3EA27A">Június</text>
+		<text id="setting.grBox.language" h="0C4A07DE">Nyelv</text>
+		<text id="scheduler.comBox.last" h="70BC4722">Utolsó</text>
+		<text id="main.context.makeHidden" h="32A71975">Elrejt</text>
+		<text id="main.context.makeVisible" h="2B228456">Láthatóvá tesz</text>
+		<text id="setting.radioBtn.manualProxy" h="5F875BBF">Kézi proxy beállítások:</text>
+		<text id="scheduler.chBox.march" h="4AA7C642">Március</text>
+		<text id="scheduler.chBox.may" h="315EB494">Május</text>
+		<text id="scheduler.chBox.monday" h="5ABCBB00">Hétfő</text>
+		<text id="scheduler.radioBtn.monthly" h="DFE427B6">Eredeti</text>
+		<text id="existing.listCol.name" h="D18643E3">Név</text>
+		<text id="main.listCol.name" h="D18643E3">Név</text>
+		<text id="scheduler.radioBtn.never" h="2B0D94AA">Soha</text>
+		<text id="setting.radioBtn.noProxy" h="8293FBBF">Nincs proxy</text>
+		<text id="settings.txt.noShedule" h="F1BADD25">Nincs ütemezés</text>
+		<text id="scheduler.chBox.november" h="C8D0282F">November</text>
+		<text id="scheduler.chBox.october" h="15BA27E1">Október</text>
+		<text id="scheduler.radioBtn.onlyShowNotification" h="D08E0C66">Csak a figyelmeztetések mutatása</text>
+		<text id="progress.userMsg.packageHasInvalidHash" h="009F880A">%1 csomag érvénytelen hasítófüggvényű (érvénytelen hash).</text>
+		<text id="progress.userMsg.packageInstalationStarted" h="7F8B3B69">%1 csomag telepítése megkezdődött.</text>
+		<text id="setting.txtBox.password" h="F37B341A">Jelszó:</text>
+		<text id="setting.txtBox.port" h="C83E8ED8">Port:</text>
+		<text id="main.msgBox.prepareDataCaption" h="26F63F16">Adat előkészítése a jelentéshez</text>
+		<text id="setting.chBox.passRequire" h="FA0F7DAC">Proxy szerver jelszót igényel</text>
+		<text id="setting.txtBox.server" h="07F1CFFC">Proxy szerver:</text>
+		<text id="setting.txtBox.user" h="F69A9C76">Proxy felhasználó:</text>
+		<text id="progress.userMsg.installingRebootRequired" h="F3062B13">Újraindítás szükséges.</text>
+		<text id="scheduler.txt.recurEvery" h="E86F8BDB">Ismétel minden:</text>
+		<text id="progress.userMsg.adminRightsReject" h="3F1C4DFD">Rendszergazdai jogosultság kérése el lett utasítva.</text>
+		<text id="scheduler.chBox.saturday" h="38E79019">Szombat</text>
+		<text id="settings.btn.save" h="B120B787">Mentés</text>
+		<text id="scheduler.txt.schedulerDisabled" h="77C6980A">Ütemező letiltva</text>
+		<text id="scheduler.comBox.second" h="FE7A8C73">Második</text>
+		<text id="scheduler.chBox.september" h="27819FF0">Szeptember</text>
+		<text id="main.btn.setting" h="9147CD71">Beállítások</text>
+		<text id="main.chBox.showHidden" h="CB3F61B3">Rejtett frissítések megjelenítése</text>
+		<text id="scheduler.radioBtn.specificDate" h="61688DB5">Adott dátum</text>
+		<text id="scheduler.txt.start" h="D0E7B7BC">Kezdés:</text>
+		<text id="progress.btn.stop" h="F89FDAAE">Állj</text>
+		<text id="scheduler.chBox.sunday" h="8F1994C3">Vasárnap</text>
+		<text id="main.msgBox.prepareDataText" h="6E824F3F">A fájl a jelentés adataival a(z) %1 útvonalon lett létrehozva. Kérem küldjön egy emailt a(z) %2 címére a probléma leírásával és csatolja hozzá ezt a fájlt. Szeretné megnyitni azt a mappát, ahol a létrehozott fájl található?</text>
+		<text id="main.msgBox.lockedUpdatesPart1" h="A77BA0BA">A következő termékek blokkolják a jelenlegi frissítés ellenőrzését: %1</text>
+		<text id="main.ballon.newUpdates" h="825EA76A">Új frissítések elérhetőek.</text>
+		<text id="main.state.warning" h="95988032">Nincs Tracker termék telepítve.</text>
+		<text id="state.msg.noAvailableUpdate" h="CEA582A0">Nincsenek elérhető frissítések.</text>
+		<text id="main.msgBox.incompatibleWithMaintenancePart1" h="53E473E7">Frissítések lettek kijelölve, melyek nem kompatibilisek a meglévő karbantartási előfizetésével.</text>
+		<text id="main.msgBox.newUpdatesAvailable" h="1208BEAF">Új frissítés érhető el a szerveren. Szeretné letölteni?</text>
+		<text id="scheduler.comBox.third" h="A352FAE5">Harmadik</text>
+		<text id="setting.task.comment" h="97A4F743">Ez a feladat frissen tartja az Ön Tracker Software termékeit a legújabb fejlesztésekkel és biztonsági javításokkal.</text>
+		<text id="scheduler.chBox.thursdat" h="DE9BC0A4">Csütörtök</text>
+		<text id="progress.txt.timeRemaining" h="EBAC62EA">Hátralévő idő</text>
+		<text id="progress.txt.totalSize" h="E542B598">Teljes méret</text>
+		<text id="scheduler.chBox.tuesday" h="86A20B4F">Kedd</text>
+		<text id="progress.txt.time.unknown" h="8566CB94">Ismeretlen</text>
+		<text id="main.tooltip.lockedItem" h="8DBDABA7">Frissítés lezárva másik termék által.</text>
+		<text id="setting.dlg.name" h="9EAEE28F">Frissítő beállításai</text>
+		<text id="progress.msg.installQuestion" h="F1812466">Frissítések letöltésre kerültek. Kattintson a Telepítés-re, ha nem folytatja a frissítéseket.</text>
+		<text id="main.ballon.updatesDownloaded" h="60A2FCC7">Frissítések letöltésre kerültek. Mostmár telepítheti azokat.</text>
+		<text id="progress.userMsg.downloadFailed" h="85611884">Frissítések nem lettek letöltve.</text>
+		<text id="setting.chBox.useRegLan" h="F0AA3B6E">Helyi nyelv használata</text>
+		<text id="setting.radioBtn.useSysProxy" h="9C30994D">Rendszer proxy beállításainak használata</text>
+		<text id="progress.userMsg.userBreakInstalling" h="9643B0E5">Használati szünet ennek a csomagnak a telepítésekor: '%1'</text>
+		<text id="existing.listCol.version" h="F76458F4">Verzió</text>
+		<text id="scheduler.chBox.wakeTheComputer" h="1774BA03">Számítógép felébresztése, hogy elvégezze ezt a feladatot</text>
+		<text id="scheduler.chBox.wednesday" h="66E67084">Szerda</text>
+		<text id="scheduler.txtBox.week" h="AD8BFC83">Hét:</text>
+		<text id="scheduler.radioBtn.weekly" h="F5E7580A">Heti</text>
+		<text id="scheduler.txt.weeks" h="C36D0B1F">hét</text>
+		<text id="progress.msgBox.askRebootAfterInstallPart1" h="1B90BEF6">A változtatások életbe lépéséhez újra kell indítania a számítógépet.</text>
+		<text id="main.tooltip.maintenanceExpired" h="9885EB6B">A karbantartás erre a termékre lejárt</text>
+</Strings>
+</Localization>

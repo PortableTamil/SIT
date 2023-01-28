@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627200651">2.00.00</Version>
+	<Author>Violi S.; Pari D.; Facta D.</Author>
+	<Copyright>Basata su traduzione parziale precedente,
+completato ed aggiornato da Facta D.
+per versione 7.0 build 326.1
+
+©Violi S.
+Opera distribuita con Licenza Creative Commons
+Attribuzione - Condividi allo stesso modo 3.0 Italia
+http://creativecommons.org/l</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Italian (Italy)" lName="italiano" code="it-IT" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="7.0.325.10"/>
+	<Strings>
+		<text id="DlgAppPrefs.SharePoint.Name" h="56A5F9B3">SharePoint</text>
+		<text id="DlgAppPrefs.SharePoint.Title" h="07F34B45">Opzioni SharePoint</text>
+		<text id="btn.cancelSaving" h="36FF91F6">&amp;Annulla salvataggio sul server</text>
+		<text id="btn.checkIn" h="09996473">&amp;Archivia</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">&amp;Archivia e lascia non estratto</text>
+		<text id="btn.clearLogs" h="848E003C">Cancella tutti</text>
+		<text id="btn.connect" h="A79F815C">C&amp;onnetti</text>
+		<text id="btn.discardCheckOut" h="40AC5603">A&amp;nnulla Estrazione</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">&amp;Mantieni Estratto</text>
+		<text id="btn.navigate" h="B03F439E">&amp;Vai...</text>
+		<text id="btn.open" h="B1A510F0">&amp;Apri</text>
+		<text id="btn.openLog" h="F3E66367">Apri</text>
+		<text id="btn.openLogFolder" h="0B1D9C13">Apri cartella</text>
+		<text id="btn.openWithCheckOut" h="2F774735">&amp;Apri ed estrai</text>
+		<text id="btn.overwrite" h="48E63C4C">&amp;Sovrascrivi</text>
+		<text id="btn.resetPreferences" h="A7132527">Ripristina default</text>
+		<text id="btn.save" h="F363C410">&amp;Salva</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">&amp;Salva ed Estrai</text>
+		<text id="btn.saveReplace" h="11BF9724">Salva e Sos&amp;tituisci </text>
+		<text id="btn.settings" h="4AD05264">&amp;Impostazioni</text>
+		<text id="btn.signOut" h="645CEBE2">Dis&amp;connetti</text>
+		<text id="cb.url.tip" h="CD81E674">Inserisci indirizzo...</text>
+		<text id="cbitem.afterSave.ask" h="5F9AC292">Chiedi come procedere</text>
+		<text id="cbitem.afterSave.checkIn" h="FA91CFF8">Archivia</text>
+		<text id="cbitem.afterSave.checkInCheckOut" h="6C7252F6">Archivia ed estrai</text>
+		<text id="cbitem.afterSave.keepCheckOut" h="F4487016">Mantieni estrazione</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.ask" h="5F9AC292">Chiedi come procedere</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.discardCheckOut" h="CA75DE00">Annulla estrazione</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.keepCheckOut" h="F4487016">Mantieni estrazione</text>
+		<text id="cbitem.closeNeedCheckIn.ask" h="5F9AC292">Chiedi come procedere</text>
+		<text id="cbitem.closeNeedCheckIn.checkIn" h="FA91CFF8">Archivia</text>
+		<text id="cbitem.closeNeedCheckIn.checkInCheckOut" h="6C7252F6">Archivia ed estrai</text>
+		<text id="cbitem.closeNeedCheckIn.keepCheckOut" h="F4487016">Mantieni estrazione</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.ask" h="5F9AC292">Chiedi come procedere</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.checkOut" h="95775966">Apri ed estrai</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.open" h="38A34D1A">Apri ma non estrarre</text>
+		<text id="cbitem.whenSaveConflict.ask" h="5F9AC292">Chiedi come procedere</text>
+		<text id="cbitem.whenSaveConflict.cancel" h="554F5523">Annulla salvataggio sul server</text>
+		<text id="cbitem.whenSaveConflict.overwrite" h="B67489D8">Sovrascrivi la versione sul server</text>
+		<text id="check.dontShowThisMessageAgain" h="AC16D0EE">Non mostrare questo messaggio nuovamente</text>
+		<text id="check.enableLogging" h="496D4808">Scrivi log su file</text>
+		<text id="check.whenOpenDocumentCheckoutNoneDisableEditing" h="778336E0">Disabilita modifiche</text>
+		<text id="check.whenOpenDocumentCheckoutNoneShowWarning" h="E97BFF00">Mostra messaggi di avviso</text>
+		<text id="cmd.checkIn" h="AEF235ED">&amp;Archivia</text>
+		<text id="cmd.checkIn.tip" h="C9DCA405">Archivia (Check In) il documento su SharePoint</text>
+		<text id="cmd.checkOut" h="E6A87AFE">&amp;Estrai</text>
+		<text id="cmd.checkOut.tip" h="E1B64D30">Estrae (Check Out) il documento da SharePoint.</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">A&amp;nnulla estrazione</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">Annulla l'Estrazione (Check Out) del documento da SharePoint.</text>
+		<text id="cmd.enableEditing" h="340AFFD4">Consenti &amp;modifiche</text>
+		<text id="cmd.enableEditing.tip" h="8A29948D">Consenti modifiche e funzionalità di interazione</text>
+		<text id="cmd.open" h="68595810">&amp;SharePoint...</text>
+		<text id="cmd.open.tip" h="007B7200">Apre un documento da SharePoint</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">Prepara le &amp;informazioni del file</text>
+		<text id="cmd.prepareFileInfo.tip" h="E609EA07">Prepara le informazioni del file di documento su SharePoint</text>
+		<text id="cmd.save" h="68595810">&amp;SharePoint...</text>
+		<text id="cmd.save.tip" h="C48C1C25">Salva il documento attivo su SharePoint.</text>
+		<text id="cmd.share_point" h="B7423C0E">&amp;SharePoint</text>
+		<text id="cmd.share_point.tip" h="CA99078B">Lavora con documenti su SharePoint</text>
+		<text id="dlg.liveLogin" h="BFADC685">Live Login</text>
+		<text id="dlg.openFile" h="435887CD">Apri file</text>
+		<text id="dlg.saveFile" h="520CB069">Salva il file</text>
+		<text id="group.Logging" h="F9DEFF33">Registrazione log</text>
+		<text id="group.documentActions" h="64C10405">Lavoro con il documento</text>
+		<text id="ibar.cannotEditEditing" h="13F24128">Non disponi dei permessi per modificare il file sul server. E' consentito solo il salvataggio di una copia locale.</text>
+		<text id="ibar.cannotEditNoEditing" h="52C758B6">Non disponi dei permessi per modificare il file sul server. Tutte le funzioni di modifica ed interazione sono disabilitate.</text>
+		<text id="ibar.checkedOutToMe" h="B5AF7047">Il file è estratto da te.</text>
+		<text id="ibar.checkedOutToOtherEditing" h="4F420124">Il file è estratto da %1. Non potrai salvare il file sul server.</text>
+		<text id="ibar.checkedOutToOtherNoEditing" h="B8C2709A">Il file è estratto da %1. Tutte le funzioni di modifica ed interazione sono disabilitate.</text>
+		<text id="ibar.notCheckedOutEditing" h="A4D56FD1">Il file non è estratto. Se altri utenti modificano il file sul server, non sarai più in grado di salvare le modifiche apportate al file.</text>
+		<text id="ibar.notCheckedOutNoEditing" h="E3EA5586">Il file non è estratto. Tutte le funzioni di modifica ed interazione sono disabilitate.</text>
+		<text id="ibar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="ibar.sharepoint.description" h="6F2E3CDD">Informazioni contestuali ed operazioni sul documento SharePoint</text>
+		<text id="ibar.sharepoint.title" h="C3F43468">Documento SharePoint</text>
+		<text id="lb.afterSave" h="6ABC46B3">In caso di salvataggio del documento:</text>
+		<text id="lb.checkInComment" h="694DD18A">Commento (opzionale):</text>
+		<text id="lb.closeDoesNotNeedCheckIn" h="7B029545">In caso si chiuda il doc. estratto NON modificato:</text>
+		<text id="lb.closeNeedCheckIn" h="E2376C82">In caso si chiuda il documento estratto modificato:</text>
+		<text id="lb.currentLogFile" h="79D35843">Log corrente:</text>
+		<text id="lb.name" h="F7B9E475">Nome file:</text>
+		<text id="lb.numberOfDaysToStoreLogs" h="E12F4F23">Giorni conservaz.:</text>
+		<text id="lb.sharePointPlaceUrl" h="F900769A">URL SharePoint:</text>
+		<text id="lb.sharePointPlaceValidUrl" h="9BFA1D20">Impossibile connettersi al server di SharePoint. Per favore verifica la connettività Internet ed il nome del sito.</text>
+		<text id="lb.whenOpenDocumentCheckoutNone" h="1BB05A3E">In caso di apertura doc. non estratto (checked out):</text>
+		<text id="lb.whenOpenDocumentCheckoutOther" h="8E43C402">In caso di doc. estratto (checked out) da altri utenti:</text>
+		<text id="lb.whenOpenDocumentWithoutWritePermissions" h="4ACDAA34">In caso di apertura documento senza diritti di scrittura:</text>
+		<text id="lb.whenSaveConflict" h="174E79E4">In caso il doc. da salvare sia modificato sul server:</text>
+		<text id="ls.column.created" h="FE6510B7">Data di creazione</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Data e ora di creazione del file, cartella o elenco</text>
+		<text id="ls.column.extension" h="14FEB836">Estensione</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Estensione</text>
+		<text id="ls.column.modified" h="691C3610">Data di modifica</text>
+		<text id="ls.column.modified.hint" h="12933E76">Data e ora di modifica del file, cartella o elenco</text>
+		<text id="ls.column.size" h="17A58A52">Dimensione</text>
+		<text id="ls.column.size.hint" h="E79CA174">Dimensione del file</text>
+		<text id="ls.column.title" h="D18643E3">Nome</text>
+		<text id="ls.column.title.hint" h="81F4F728">Nome del file, cartella o titolo dell'elenco</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">Vuoi Archiviare il file &lt;b&gt;%1&lt;/b&gt; prima di chiuderlo per rendere le modifiche disponibili agli altri utenti?</text>
+		<text id="msg.askForCheckOutOnOpen" h="B185C3DF">Puoi aprire il file &lt;b&gt;%1&lt;/b&gt; ed estrarlo per impostarlo in sola lettura per gli altri utenti, in modo da poterlo modificare e poi salvare le modifiche su SharePoint, oppure permettere anche agli altri utenti di modificarlo, ma questo potrebbe generare dei conflitti quando provi a modificare e salvare il file dalla tua postazione.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">Il file &lt;b&gt;%1&lt;/b&gt; è stato estratto da te. Desideri annullare l'estrazione e permettere ad altri utenti di modificare il file?</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">Archivia nel file &lt;b&gt;%1&lt;/b&gt;</text>
+		<text id="msg.checkInFailed" h="3E327B8B">Il file &lt;b&gt;%1&lt;/b&gt; non può essere archiviato. Controlla che il file esista e sia estratto da te.</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">Il file &lt;b&gt;%1&lt;/b&gt; non può essere estratto. Controlal che il file eissta sul server e non sia già estratto da un altro utente.</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">Non puoi aprire il file &lt;b&gt;%1&lt;/b&gt; ed estrarlo perché è già stato estratto dall'utente "%2".</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">Il file &lt;b&gt;%1&lt;/b&gt; è già estratto dall'utente "%2". Non puoi salvare questo file su SharePoint a meno che sia estratto da te, ma puoi salvare le tue modifiche in una posizione differente.</text>
+		<text id="msg.connectError" h="18DFEDBE">Impossibile connettersi con il server di SharePoint. Controlla la connessione, la correttezza dell'indirizzo del server e i diritti di accesso richiesti dalle risorse di SharePoint.</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">Impossibile eliminare lo stato di 'Estratto' per il file &lt;b&gt;%1&lt;/b&gt;. Assicurati che il file esista e sia Estratto da te.</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">Non puoi estrarre il file &lt;b&gt;%1&lt;/b&gt; perché non disponi dei permessi di modifica per questo file.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">Non puoi aprire il file &lt;b&gt;%1&lt;/b&gt; ed estrarlo perché non disponi dei permessi di modifica per questo file.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">Non puoi aprire il file &lt;b&gt;%1&lt;/b&gt; per la modifica perché non disponi dei permessi di modifica per questo file.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">Il file &lt;b&gt;%1&lt;/b&gt; deve essere archiviato prima di essere salvato, ma non disponi delle autorizzazioni di modifica per questo file.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="C492B710">Non puoi salvare il file &lt;b&gt;%1&lt;/b&gt; su SharePoint perché non disponi dei permessi di modifica per questo file.</text>
+		<text id="msg.fileNotFound" h="381368F8">Il documento &lt;b&gt;%1&lt;/b&gt;  non è presente nella cartella corrente.</text>
+		<text id="msg.invalidFileName" h="6BAFE9F2">&lt;b&gt;%1&lt;/b&gt; non è un nome file valido. Il nome del file non può contenere i caratteri &lt;b&gt;%2&lt;/b&gt;</text>
+		<text id="msg.navigateError" h="CF23B4B6">Impossibile raggiungere la risorsa di SharePoint. Controlla la connessione, l'indirizzo della risorsa e i diritti di accesso richiesti dalla risorsa di SharePoint.</text>
+		<text id="msg.openFailed" h="34DE1259">Impossibile aprire il documento. Assicurati che il documento esista, che non sia stato estratto da altri utenti e di averne i diritti di lettura.</text>
+		<text id="msg.outdatedFileOnWrite" h="93CDEA71">Il documento che hai scaricato contiene delle modifiche efffettuate il &lt;b&gt;%2&lt;/b&gt;, ma nel server ci sono delle modifiche del &lt;b&gt;%3&lt;/b&gt;. Salva le tue modifiche in un nuovo file, apri l'ultima versione del documento col comando estrai da SharePoint, unisci le modifiche e salvale sul server.</text>
+		<text id="msg.outdatedFileOnWrite.question" h="4802DC49">Il file &lt;b&gt;%1&lt;/b&gt; presenta un conflitto sulle modifiche. Il documento che hai scaricato contiene delle modifiche efffettuate il &lt;b&gt;%2&lt;/b&gt;, ma nel server ci sono delle modifiche del &lt;b&gt;%3&lt;/b&gt;. Puoi scegliere di sovrascrivere la versione sul server, o annullare il salvataggio in corso e salvare il documento in un nuovo file, quindi aprire ed estrarre l'ultimo documento su SharePoint, unirei le modifiche e salvale sul server.</text>
+		<text id="msg.saveFailed" h="967D2A64">Impossibile salvare il documento. Assicurati che il nome sia valido, che non sia stato Estratto da altri utenti e di averne i diritti di scrittura</text>
+		<text id="msg.saveReplace" h="B1889DFB">Il file &lt;b&gt;%1&lt;/b&gt; è già esistente. Desideri sostituirlo?</text>
+		<text id="msg.signOutError" h="0E6A5F45">Impossibile disconnettere l'utente corrente dal server SharePoint. Potresti essere ancora in grado di accere a SharePoint senza alcuna richiesta di autenticazione.</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="69F2FCB2">Non disponi dei permessi necessari per la modifica del file &lt;b&gt;%1&lt;/b&gt;. Considera che non sarai in grado di salvare le modifiche su SharePoint a meno che tu disponga dei permessi necessari.</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">Il file &lt;b&gt;%1&lt;/b&gt; è già estratto dall'utente "%2". Non puoi salvare su questo file finché SharePoint libera lo stato di estrazione. Se "%2" archivia il file con delle modfiche si genererà un conflitto di modifiche.</text>
+		<text id="opt.dontShowAgain" h="492B5D79">Non mostrare questo &amp;messaggio nuovamente</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="str.sharePoint" h="56A5F9B3">SharePoint</text>
+	</Strings>
+</Localization>

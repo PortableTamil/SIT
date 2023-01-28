@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171220230630">2.00.00</Version>
+	<Author>Martin Paulík</Author>
+	<Copyright>TERAGON SW s.r.o.
+www.pdfxchange.cz</Copyright>
+	<Product id="XCShellMenu"/>
+	<Language eName="Czech (Czech Republic)" lName="čeština" code="cs-CZ" R2L="false"/>
+	<Module name="XCShellMenu" namespace="" version="7.0.323.2"/>
+	<Strings>
+		<text id="menu.open" h="D08F8302">Otevřít v PDF-XChange Editoru</text>
+		<text id="menu.combine" h="BF3B40FB">Kombinovat v PDF-XChange Editoru</text>
+		<text id="menu.open.help" h="DB2C9B04">Otevřít soubory v PDF-XChange Editoru</text>
+		<text id="menu.combine.help" h="3E8460C6">Kombinovat soubor v PDF-XChange Editoru</text>
+	</Strings>
+</Localization>

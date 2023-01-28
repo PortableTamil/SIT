@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123215831">2.00.00</Version>
+	<Author>Stanko Horvat</Author>
+	<Copyright>Stanko Horvat</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Slovenian (Slovenia)" lName="slovenščina" code="sl-SI" R2L="false"/>
+	<Module name="SpellChecker" namespace="spell" version="7.0.323.3"/>
+	<Strings>
+		<text id="dict.param.hyphen" h="50549BEC">Deljenje besed</text>
+		<text id="dict.param.spell" h="E10DA1DD">Črkovanje</text>
+		<text id="lstDicts.empty" h="FFD5B8BB">&lt;Ni slovarjev&gt;</text>
+		<text id="msg.CopyDictError" h="81324CC9">Ne morem kopirati datoteke slovarjev</text>
+		<text id="msg.DictExists" h="650ABF1A">Slovar že obstaja</text>
+		<text id="msg.DictExists.title" h="B025530B">Slovar obstaja</text>
+		<text id="msg.ErrorTitle" h="D9DB5E01">Napaka črkovalnika</text>
+		<text id="msg.LoadDictError" h="D139CD51">Ni bilo mogoče naložiti slovarja</text>
+		<text id="msg.RemoveError" h="DDD3D452">Ne morem odstraniti datoteke slovarjev. Dostop zavrnjen.</text>
+		<text id="msg.WordExists" h="54B206DA">Beseda že obstaja</text>
+		<text id="msg.WordExists.title" h="A9AFB29B">Beseda obstaja</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">Dodaj slovar</text>
+		<text id="opt.b.CustomWordList" h="D1505337">Seznam besed po meri</text>
+		<text id="opt.b.RemoveDict" h="D94F3439">Odstrani slovar</text>
+		<text id="opt.cb.AllowAlgoHyphens" h="D8C41308">Deli neznane besede</text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">Omogoči deljenje besed</text>
+		<text id="opt.cb.EnableHyphens" h="71ECEEC4">Omogoči deljenje iz slovarja</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">Omogoči črkovalnik</text>
+		<text id="opt.cb.IgnoreWordsInUppercase" h="BEB17F5B">Prezri besede z VELIKIMI ČRKAMI</text>
+		<text id="opt.cb.IgnoreWordsWithNumbers" h="2AA28F70">Prezri besede, ki vsebujejo številke</text>
+		<text id="opt.title" h="AEF9F007">Nastavitve za črkovalnik</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">Dodaj</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">Izbriši</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">Izbriši vse</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">Slovar:</text>
+		<text id="wrd.l.Word" h="7AFBC23E">Beseda:</text>
+		<text id="wrd.title" h="66DDC653">Seznam besed po meri</text>
+	</Strings>
+</Localization>

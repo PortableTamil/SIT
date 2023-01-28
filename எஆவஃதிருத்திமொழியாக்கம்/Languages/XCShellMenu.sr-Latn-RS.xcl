@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220334">2.00.00</Version>
+	<Author>Jovo Vilendečić</Author>
+	<Copyright>Jovo Vilendečić</Copyright>
+	<Product id="XCShellMenu"/>
+	<Language eName="Serbian (Latin, Serbia)" lName="Srpski" code="sr-Latn-RS" R2L="false"/>
+	<Module name="XCShellMenu" namespace="" version="6.0.322.7"/>
+	<Strings>
+		<text id="menu.open" h="D08F8302">Otvori u PDFXChange Editoru</text>
+		<text id="menu.combine" h="BF3B40FB">Kombinuj u PDFXChange Editoru</text>
+		<text id="menu.open.help" h="DB2C9B04">Otvori datoteke u PDFXChange Editoru</text>
+		<text id="menu.combine.help" h="3E8460C6">Kombinuj datoteke u PDFXChange Editoru</text>
+	</Strings>
+</Localization>

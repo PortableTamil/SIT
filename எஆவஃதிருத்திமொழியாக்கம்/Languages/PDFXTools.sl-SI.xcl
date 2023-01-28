@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627201142">2.00.00</Version>
+	<Author>Stanko Horvat</Author>
+	<Copyright>Stanko Horvat</Copyright>
+	<Product id="PDFXTools"/>
+	<Language eName="Slovenian (Slovenia)" lName="slovenščina" code="sl-SI" R2L="false"/>
+	<Module name="PDFXTools" namespace="pdft" version="7.0.325.10"/>
+	<Strings>
+		<text id="accessed" h="45570324">Dostop</text>
+		<text id="act.askForSourceFiles" h="2E856073">Izberi vhodno datoteko</text>
+		<text id="act.askForSourceFiles.desc" h="3759C068">Zagotavlja možnost za določitev vhodne datoteke za orodje.</text>
+		<text id="act.bm.ExportActType_GotoR" h="41E1955E">Zaznamki z dejanjem 'Go-to Remote'</text>
+		<text id="act.bm.ExportActType_JS" h="31D8CD1A">Zaznamki z dejanji JavaScript</text>
+		<text id="act.bm.ExportActType_Launch" h="38537D36">Zaznamki z dejanjem 'Odpri datoteko'</text>
+		<text id="act.bm.ExportActType_Page" h="05B4C93C">Zaznamki z dejanjem 'Pojdi na stran'</text>
+		<text id="act.bm.ExportActType_URI" h="F39B51AE">Zaznamki z dejanjem 'Odpri spletno povezavo'</text>
+		<text id="act.bm.ExportActTypesAll" h="B8B21253">Zaznamki z vsemi vrstami dejanj hiperpovezave</text>
+		<text id="act.bm.bmToExport" h="28D4BD73">Zaznamki za izvoz</text>
+		<text id="act.bm.export" h="F3EE1781">Izvozi zaznamke</text>
+		<text id="act.bm.export.desc" h="1403C5AD">Izvozi vse zaznamke iz dokumentov.</text>
+		<text id="act.bm.exportAll" h="8882D072">Izvozi vse</text>
+		<text id="act.bm.exportHyperlink" h="8AB29747">Izvoz zaznamkov, ki izvajajo hiperpovezavna dejanja:</text>
+		<text id="act.bm.exportToTextFile" h="01135DA3">Izvozi zaznamke v besedilno datoteko</text>
+		<text id="act.bm.exportToTextFile.desc" h="7C68D13E">Izvozi strukturo zaznamkov kot besedilno datoteko</text>
+		<text id="act.bm.fromTextFile" h="CA5176DD">Uvozi zaznamke iz besedilne datoteke</text>
+		<text id="act.bm.fromTextFile.desc" h="EE697E49">Ustvari zaznamke iz besedilne datoteke. Upoštevajte, da mora biti oblika zapisa besedilne datoteke skladna s pravilniki o lastnostih zaznamkov do besedilne datoteke.</text>
+		<text id="act.bm.generateFromText" h="383A949B">Ustvari zaznamke iz besedila strani</text>
+		<text id="act.bm.generateFromText.desc" h="6DDE7415">Ustvari zaznamke iz besedila trenutnega dokumenta s pomočjo določenega sloga in parametrov pisav</text>
+		<text id="act.bm.import" h="DC7F6AD5">Uvozi zaznamke</text>
+		<text id="act.bm.import.desc" h="A5E69BAE">Uvozi zaznamke v dokumente iz predhodno izvožene datoteke.</text>
+		<text id="act.bm.toTOC" h="2B3E9BF1">Zgradi kazalo vsebine</text>
+		<text id="act.bm.toTOC.desc" h="E92DA1A8">Ustvari kazalo vsebine, ki temelji na strukturi zaznamkov in straneh, na katere kažejo.</text>
+		<text id="act.deleteComments.all" h="E8642222">Izbriši vse komentarje</text>
+		<text id="act.deleteComments.all.desc" h="818B531A">Izbriši vse komentarje iz dokumenta.</text>
+		<text id="act.deleteComments.form" h="37ECB4B5">Izbriši polja obrazca</text>
+		<text id="act.deleteComments.form.desc" h="C5D21570">Izbriši polja obrazca iz dokumenta.</text>
+		<text id="act.deleteComments.grp" h="73395EF1">Izberite strani za brisanje komentarjev iz:</text>
+		<text id="act.deleteComments.lbl" h="605AA315">Izberite vrsto komentarja, ki ga želite izbrisati:</text>
+		<text id="act.deleteComments.links" h="CC8F1411">Počisti povezave</text>
+		<text id="act.deleteComments.links.desc" h="66D48AF5">Brisanje povezav iz dokumenta.</text>
+		<text id="act.deleteComments.markup" h="EA5127FB">Brisanje komentarjev za označevanje</text>
+		<text id="act.deleteComments.markup.desc" h="80CD5AA0">Brisanje komentarjev označevanja iz dokumenta.</text>
+		<text id="act.deleteComments.weblinks" h="87C8439E">Počisti spletne povezave</text>
+		<text id="act.deleteComments.weblinks.desc" h="158E179F">Izbriši spletne povezave iz dokumenta.</text>
+		<text id="act.deletePages.dep.enable.lbl" h="6D295CF8">Izbriši samo prazne strani</text>
+		<text id="act.deletePages.lbl" h="75141561">Strani, ki jih želite izbrisati:</text>
+		<text id="act.discardPDFStd" h="E608B980">Zavrzi poseben PDF standard</text>
+		<text id="act.discardPDFStd.desc" h="947EF232">Zavrzi informacije o posebnem standardu PDF, na primer PDF/X, PDF/A, PDF/E itd.</text>
+		<text id="act.doc.addBackground" h="8B83981C">Zamenjaj ozadje strani</text>
+		<text id="act.doc.addBackground.desc" h="8C8F71BF">Nastavi ozadje za vsebino na strani.</text>
+		<text id="act.doc.addBatesNumbering" h="5987A707">Dodaj Bates oštevilčevanje</text>
+		<text id="act.doc.addBatesNumbering.desc" h="19058FA5">Zagotavlja Bates številčenje za indeksiranje pravnih dokumentov, za lažje prepoznavanje in dostopnost, itd</text>
+		<text id="act.doc.addDigSign" h="97DD789F">Dodaj digitalni podpis</text>
+		<text id="act.doc.addDigSign.desc" h="BB76CA39">Doda in podpiše novo podpisno polje, z uporabo certifikatnega digitalnega ID.</text>
+		<text id="act.doc.addHeaderAndFooter" h="71EBAC62">Dodaj glavo in nogo</text>
+		<text id="act.doc.addHeaderAndFooter.desc" h="8697B047">Doda glave in noge na določenih straneh. Glave in noge lahko vključujejo datum, samodejno številčenje strani, naslov in avtorja, itd</text>
+		<text id="act.doc.addTimeStamp" h="896D61BF">Dodaj časovno oznako</text>
+		<text id="act.doc.addTimeStamp.desc" h="2FDF1628">Doda raven časovnega žiga dokumenta, da vzpostavi tisto natančno vsebino popolne PDF datoteke, v času časovne oznake, ki je naveden. Ta je pridobljen od organa navedenega časovnega žiga.</text>
+		<text id="act.doc.addWatermarks" h="AA010705">Dodaj vodni žig</text>
+		<text id="act.doc.addWatermarks.desc" h="A89FAD30">Doda besedilo/sliko, ki se prikaže bodisi v ospredju ali v ozadju vsebine strani.</text>
+		<text id="act.doc.certify" h="C2AFA656">Overi dokument</text>
+		<text id="act.doc.certify.desc" h="402B64F2">Zaščiti PDF dokument z overjanjem področja overjenega podpisa.</text>
+		<text id="act.doc.changeProps" h="89CBAD2F">Spremeni lastnosti dokumenta</text>
+		<text id="act.doc.changeProps.desc" h="40BD1FE7">Nastavi lastnosti dokumenta:naslov, avtor, predmet, ključne besede, itd</text>
+		<text id="act.doc.clearDigSign" h="7E6883B8">Počisti digitalne podpise</text>
+		<text id="act.doc.clearDigSign.desc" h="E1CDD425">Odstrani vse digitalne podpise, če je to mogoče, pri čemer pusti nepodpisana podpisna polja.</text>
+		<text id="act.doc.convertToPDFA" h="86709E15">Pretvarjanje v PDF/A</text>
+		<text id="act.doc.convertToPDFA.desc" h="89A9625A">Naredi dokument(e) skladne s PDF/A standardom, za dolgoročno arhiviranje in hrambo.</text>
+		<text id="act.doc.convertToPDFX" h="1D70370D">Pretvori v PDF/X</text>
+		<text id="act.doc.convertToPDFX.desc" h="BB077FA6">Naredi dokument(e) v skladu s standardom PDF/X za izmenjavo podatkov za tiskanje.</text>
+		<text id="act.doc.createWeblinks" h="F68EDD51">Ustvari spletne povezave</text>
+		<text id="act.doc.createWeblinks.desc" h="6971A17D">Ustvari spletne povezave iz vsebine besedila v dokumentu.</text>
+		<text id="act.doc.cropPages" h="54A95B63">Obreži stran</text>
+		<text id="act.doc.cropPages.desc" h="9F01A5F4">Prilagodi vidno stran področja, spremeni ali odstrani bele robove na stran(i), določi polje strani.</text>
+		<text id="act.doc.deletePages" h="E5284839">Izbriši strani</text>
+		<text id="act.doc.deletePages.desc" h="0EA6D9E9">Izbriši izbrane strani iz obsega strani dokumenta.</text>
+		<text id="act.doc.duplicatePages" h="14C45200">Podvajanje strani</text>
+		<text id="act.doc.duplicatePages.desc" h="0FD26A6C">Podvajanje strani dokumentov PDF.</text>
+		<text id="act.doc.enhanceScannedPages" h="0A810C6E">Izboljšaj optično prebrane strani</text>
+		<text id="act.doc.enhanceScannedPages.desc" h="95589020">Izboljša optično prebrane slike v dokumentih PDF in tako izboljša branje in zmanjša velikost datoteke.</text>
+		<text id="act.doc.exportToDOCX" h="D89F515F">Izvozi PDF v Microsoft Wordov dokument</text>
+		<text id="act.doc.exportToDOCX.desc" h="D5E45C48">Izvozi PDF v datoteko Microsoft Word dokument (*.docx).</text>
+		<text id="act.doc.exportToImages" h="6DC3C315">Izvozi PDF v slike</text>
+		<text id="act.doc.exportToImages.desc" h="0EA3EE6B">Izvozi strani iz enega ali več dokumentov PDF, v različne formate rastrskih slik:tj. JPEG, PNG, TIFF, itd</text>
+		<text id="act.doc.exportToPPTX" h="E673A7B8">Izvozi PDF v Microsoft PowerPoint predstavitev</text>
+		<text id="act.doc.exportToPPTX.desc" h="E0A7703F">Izvozi PDF v datoteko Microsoft PowerPoint predstavitev (*.pptx).</text>
+		<text id="act.doc.exportToTXT" h="29DDD177">Izvozi PDF v golo besedilo</text>
+		<text id="act.doc.exportToTXT.desc" h="3D8783C4">Izvozi PDF v datoteko golo besedilo (*.txt).</text>
+		<text id="act.doc.exportToXLSX" h="A31C131A">Izvozi PDF v preglednico Microsoft Excel</text>
+		<text id="act.doc.exportToXLSX.desc" h="66CD86D0">Izvozi datoteke PDF v datoteke Microsoft Excel (*.xlsx)</text>
+		<text id="act.doc.extractImages" h="4CF9FEB6">Izvleci slike iz PDF</text>
+		<text id="act.doc.extractImages.desc" h="454EBA71">Išče rastrske slike v dokumentu(ih) in jih izlušči.</text>
+		<text id="act.doc.extractPages" h="7AE73EC1">Izvleček strani</text>
+		<text id="act.doc.extractPages.desc" h="8FCE1EA7">Izlušči določene strani, v nov dokument.</text>
+		<text id="act.doc.insertEmptyPages" h="3779032F">Vstavi prazne strani</text>
+		<text id="act.doc.insertEmptyPages.desc" h="65380D33">Vstavi prazne strani v dokument.</text>
+		<text id="act.doc.insertPages" h="6B486B45">Vstavi strani</text>
+		<text id="act.doc.insertPages.desc" h="C8087FC8">Vstavljanje strani v dokument iz drugega dokumenta.</text>
+		<text id="act.doc.ocrPages" h="D2A189BC">OCR strani</text>
+		<text id="act.doc.ocrPages.desc" h="517C34C3">Optično preberi stran(i) za sliko(e) besedila in prepoznaj znake besedila. Vstavi nevidno besedilno plast, za izbor besedila, brskanje itd.</text>
+		<text id="act.doc.optimize" h="854E1BE4">Optimiziraj dokument</text>
+		<text id="act.doc.optimize.desc" h="988BB3B9">Optimizira dokument, da se zmanjša velikost datoteke PDF.</text>
+		<text id="act.doc.overlayDoc" h="A113E021">Prekrivanje PDF</text>
+		<text id="act.doc.overlayDoc.desc" h="8AC5B664">Prekrivanje PDF dokumentov z drugimi dokumenti PDF.</text>
+		<text id="act.doc.pageNumbering" h="21AF4605">Oštevilčevanje strani</text>
+		<text id="act.doc.pageNumbering.desc" h="A2BA72A1">Dodaj številke na stran.</text>
+		<text id="act.doc.pageTransitions" h="E9BE43D0">Nastavitev za prehode strani</text>
+		<text id="act.doc.pageTransitions.desc" h="17B37A25">Sprememba prehoda strani v celozaslonskem načinu.</text>
+		<text id="act.doc.printDocument" h="4F3750AE">Tiskanje dokumentov</text>
+		<text id="act.doc.printDocument.desc" h="2523AB5C">Natisni vhodni dokument.</text>
+		<text id="act.doc.removeBackground" h="7C270CB4">Odstrani ozadje strani</text>
+		<text id="act.doc.removeBackground.desc" h="17700648">Odstrani ozadje po meri iz strani in obnovi privzeto belo ozadje.</text>
+		<text id="act.doc.removeBatesNumbering" h="901F5ABD">Odstrani Bates oštevilčevanje</text>
+		<text id="act.doc.removeBatesNumbering.desc" h="E4FBEB3C">Odstrani Bates številčenje.</text>
+		<text id="act.doc.removeHeaderAndFooter" h="11E8A996">Odstrani glavo in nogo</text>
+		<text id="act.doc.removeHeaderAndFooter.desc" h="E1CC0743">Odstrani vse obstoječe glave in noge.</text>
+		<text id="act.doc.removeWatermarks" h="93F16CE2">Odstrani vodni žig</text>
+		<text id="act.doc.removeWatermarks.desc" h="629EC84B">Odstrani vse vodne žige.</text>
+		<text id="act.doc.replacePages" h="1311083C">Zamenjava strani</text>
+		<text id="act.doc.replacePages.desc" h="8C5176DA">Zamenjava strani v dokumentu.</text>
+		<text id="act.doc.resizePages" h="8A5C31F1">Spreminjanje velikosti strani</text>
+		<text id="act.doc.resizePages.desc" h="8F74355D">Povečaj/zmanjšaj velikost stran(i); luščenje vsebine ni obvezno.</text>
+		<text id="act.doc.rotatePages" h="CBD82045">Zavrti strani</text>
+		<text id="act.doc.rotatePages.desc" h="00CCD6AD">Obrni strani v smeri urnega kazalca ali nasprotni smeri, v porastu za 90 stopinj.</text>
+		<text id="act.doc.setSecurity" h="09A28BF5">Zaščita dokumenta</text>
+		<text id="act.doc.setSecurity.desc" h="AF6D0BF7">Zaščiti vaš PDF dokument z nastavitvijo gesla za odpiranje in/ali spreminjanje vsebine dokumenta. Dovoli odpravo varnostnih omejitev.</text>
+		<text id="act.doc.splitPages" h="2648812F">Razdeli strani</text>
+		<text id="act.doc.splitPages.desc" h="4FA35C77">Razdeli strani PDF dokumentov.</text>
+		<text id="act.doc.summarizeComments" h="2233C1CD">Povzemi komentarje</text>
+		<text id="act.doc.summarizeComments.desc" h="8EA1DEF5">Ustvari povzetek vseh komentarjev v dokumentu PDF.</text>
+		<text id="act.filesToPDF" h="A382536E">Pretvarjanje datotek v PDF</text>
+		<text id="act.filesToPDF.desc" h="40567B4F">Pretvori izvorne datoteke podprtih formatov v PDF.</text>
+		<text id="act.flags.arrdoc" h="F5023560">vrsta dokumentov</text>
+		<text id="act.flags.arrfile" h="AF02951A">vrsta datotek</text>
+		<text id="act.flags.arrimage" h="AD43894A">vrsta slik</text>
+		<text id="act.flags.arrname" h="A46C1DFE">vrsta imen</text>
+		<text id="act.flags.doc" h="0417E245">Dokument</text>
+		<text id="act.flags.file" h="AFFADF08">Datoteka</text>
+		<text id="act.flags.image" h="6F479465">Slike</text>
+		<text id="act.flags.name" h="28F021B5">Ime</text>
+		<text id="act.flags.nothing" h="C06D6B01">nič</text>
+		<text id="act.flattenComments" h="CBA1AA18">Splošči pripombe</text>
+		<text id="act.flattenComments.desc" h="20A41E96">Pretvori komentarje v osnovne elemente vsebine.</text>
+		<text id="act.group.PDFStandard" h="E51FAF25">PDF standard</text>
+		<text id="act.group.advanced" h="59A2B513">Napredno</text>
+		<text id="act.group.bookmarks" h="E2032460">Zaznamki</text>
+		<text id="act.group.comments" h="FA5EB905">Komentarji</text>
+		<text id="act.group.createPDF" h="ACF7EBD1">Ustvari PDF</text>
+		<text id="act.group.exportPDF" h="4AE54AB5">Izvozi PDF</text>
+		<text id="act.group.inputOutput" h="178214DA">Vhod/izhod</text>
+		<text id="act.group.optimizePDF" h="E369C144">Optimiziraj PDF</text>
+		<text id="act.group.pages" h="47B1CB74">Strani</text>
+		<text id="act.group.protection" h="B7EE190B">Zaščita</text>
+		<text id="act.imagesToPDF" h="B0C7E05C">Ustvari PDF iz slike</text>
+		<text id="act.imagesToPDF.desc" h="43AF6AF6">Ustvari posamezen PDF iz ene ali več rastrskih slik.</text>
+		<text id="act.saveDocs" h="07936326">Shranjevanje dokumentov</text>
+		<text id="act.saveDocs.desc" h="32932EE9">Shrani spremembe v dokument/komplet dokumenta, ali shrani na novo ustvarjeno datoteko.</text>
+		<text id="act.saveImages" h="2EBC4084">Shrani sliko</text>
+		<text id="act.saveImages.desc" h="3A5C69E3">Shrani rastrske slike v datoteke na disku.</text>
+		<text id="act.scan.showlist" h="18D7490A">Prikaži seznam slik po skeniranju</text>
+		<text id="act.scanToImages" h="3C7180B5">Pridobi slike iz optičnega bralnika</text>
+		<text id="act.scanToImages.desc" h="E0F7A297">Optično preberi papirnati dokument in ustvari datoteko PDF, ki temelji na optičnem branju.</text>
+		<text id="act.sendMail" h="1F56479B">Pošlji pošto</text>
+		<text id="act.sendMail.desc" h="18F585BE">Pošlji datoteke po elektronski pošti na navedeni naslov.</text>
+		<text id="act.showFiles" h="7E16D9C8">Prikaži datoteke</text>
+		<text id="act.showFiles.desc" h="5A081173">Odpri mapo, ki vsebuje datoteke, ali pa začni privzeti opravilnik za vsako od datotek.</text>
+		<text id="act.splitMergeDocs" h="8343835D">Razcepi/Spoji dokumente</text>
+		<text id="act.splitMergeDocs.desc" h="B253B87D">Združi vse vhodne datoteke PDF v eno ali jih razdeli na nove PDF, samodejno ali ročno.</text>
+		<text id="act.textToPDF" h="ECE46B63">Ustvari PDF iz besedila</text>
+		<text id="act.textToPDF.desc" h="F9A66354">Ustvari posamezen PDF dokument iz ene ali več besedilnih datotek.</text>
+		<text id="act.warn.title" h="76F57ED1">Opozorila:</text>
+		<text id="actCloseBtnTip" h="087A8145">Klikni za odstranitev dejanja iz seznama</text>
+		<text id="actOnOffUITip" h="18682AEB">Klikni tukaj za vklop/izklop dejanj v času izvajanja</text>
+		<text id="actionInfo.defaultDesc" h="845515AD">Izberi dejanje na seznamu dejanj, predvsem za prikaz informacij.</text>
+		<text id="actionInfo.defaultTitle" h="375B13FE">Izberi dejanje ...</text>
+		<text id="addbookmark.chk" h="C7B70DCB">Dodaj korenski zaznamek z imenom datoteke</text>
+		<text id="afsf.choosefiles" h="BAE0C7B7">Izberi datoteke</text>
+		<text id="afsf.choosefiles.editimage" h="56B4E1F8">Uredi sliko</text>
+		<text id="afsf.click2browse" h="ABC462F9">Klikni tukaj za ogled ...</text>
+		<text id="afsf.clicktoedit" h="56B17D30">Klikni, če si želite ogledati in urediti shranjena imena datotek</text>
+		<text id="afsf.clicktoremove" h="CAB117DD">Klikni, če želite odstraniti shranjena imena datotek</text>
+		<text id="afsf.dlg.editAvail" h="70C3C982">Razpoložljivi filtri datotek</text>
+		<text id="afsf.err.filelistempty" h="6A812F17">Seznam datotek je prazen</text>
+		<text id="afsf.err.invalidsymbols" h="D036E0B4">Vrstica %1 ima neveljavne simbole datotek</text>
+		<text id="afsf.listinfo" h="CEB468D3">Posebna datoteka z razširitvijo &lt;b&gt;*.pdtfl&lt;/b&gt;.Ta datoteka mora vsebovati seznam imen datotek:c:filename1c:filename2...c:filenameN</text>
+		<text id="afsf.prop.choose.name" h="758F38E8">Izberi filtre dejanj</text>
+		<text id="afsf.prop.choose.tip" h="758F38E8">Izberi filtre dejanj</text>
+		<text id="afsf.prop.choose.title" h="758F38E8">Izberi filtre dejanj</text>
+		<text id="afsf.prop.manage.name" h="1B8E7007">Filtri po meri</text>
+		<text id="afsf.prop.manage.tip" h="1B8E7007">Filtri po meri</text>
+		<text id="afsf.prop.manage.title" h="1B8E7007">Filtri po meri</text>
+		<text id="afsf.selectfolder" h="3F89B943">Izberi mapo:</text>
+		<text id="afsf.sort" h="230935DB">Razvrsti:</text>
+		<text id="afsf.sort.creation" h="AEDBE5EB">po datumu ustvarjanja</text>
+		<text id="afsf.sort.modification" h="B802AF12">po datumu spremembe</text>
+		<text id="afsf.sort.name" h="B3FDD284">po imenu</text>
+		<text id="afsf.sort.none" h="004FEF2B">nič</text>
+		<text id="afsf.sort.size" h="75DE1B35">po velikosti</text>
+		<text id="afsf.storefiles" h="06AB1A20">Shrani izbrana imena datotek za poznejšo uporabo</text>
+		<text id="afsf.subfolders" h="EAAFE63E">Poglej v podmape</text>
+		<text id="afsf.usestoredfiles" h="4A3B84D0">Uporabi shranjena imena datotek iz prejšnjega zagona</text>
+		<text id="afsf.warn.concrete.ext" h="6634FBD4">Razširitev datoteke "%1" ni združljiva z nastavitvami "Izberi vhodne datoteke".</text>
+		<text id="afsf.warn.ext" h="16DBB55E">Razširitev datoteke je nezdružljiva z možnostjo "Izberi vhodne datoteke".</text>
+		<text id="afsf.warn.filescontainer" h="FF3986E4">Ustreznega vsebnika ni mogoče odpreti:
+&lt;b&gt;%1&lt;/b&gt;
+		</text>
+		<text id="afsf.warn.listext" h="6B1988CB">Seznam datotek mora imeti &lt;b&gt;*.pdtfl&lt;/b&gt; pripono</text>
+		<text id="align.bottom" h="08F4AB6F">Dno</text>
+		<text id="align.center" h="CBEFB4D0">Na sredini</text>
+		<text id="align.left" h="8CEAA299">Levo</text>
+		<text id="align.middle" h="D27F520F">Sredina</text>
+		<text id="align.right" h="2D8A4EE6">desno</text>
+		<text id="align.top" h="249A2BBD">na vrh</text>
+		<text id="alignoverlay" h="B7EB1785">Uskladi prekrivanje strani relativno z novim PDF dokumentom:</text>
+		<text id="another.ovrfile.title" h="AEFCE724">Izberi drugo prekrivno datoteko</text>
+		<text id="askpwd.chk" h="24A0ED40">Ne sprašuj za gesla</text>
+		<text id="askpwd.tip" h="3C6E1749">Ko je ta možnost omogočena, bodo vse datoteke, zaščitene z geslom, brez ustreznih veljavnih gesel v &lt;b&gt;Predhodno shranjevanje gesel&lt;/b&gt; preskočene iz obdelave.</text>
+		<text id="attributes" h="71F6D064">Atributi</text>
+		<text id="availActionsList" h="477E6AC0">Knjižnica dejanj</text>
+		<text id="batchproc.chk" h="1194AD9C">Paketen predelovalen način</text>
+		<text id="batchproc.tip" h="8BED8A8A">• Ko je ta možnost vključena, bo vsako dejanje orodja obdelalo vsak vhodni predmet (datoteko, optično prebrano sliko itd.), preden se premaknete na naslednje dejanje.• Ko je ta možnost izključena, bodo vhodni predmeti obdelani z vsakim dejanjem orodja, preden se obdela naslednji vhodni predmet. To lahko pomaga zmanjšati obremenitev pomnilnika in porabo diska. Vendar pa orodja, namenjena združevanju vhodnih objektov v PDF-je, morda ne bodo delovala, kot je pričakovano, ker se vsak vhodni predmet obdeluje neodvisno od drugih.</text>
+		<text id="bmnamesAndDoc.cmb" h="019AADA7">Izvorni dokument in imena zaznamkov</text>
+		<text id="bmnamesDoc.cmb" h="D7143742">Ime izvornega dokumenta</text>
+		<text id="bmnamesName.lbl" h="C761CCE0">Ustvari ime dokumenta iz:</text>
+		<text id="bmnamesNames.cmb" h="DBDE73F8">Imena zaznamkov</text>
+		<text id="bookmarks.delimiter.lbl" h="A4269065">Ločilo polja:</text>
+		<text id="bookmarks.invalidSeparator" h="44875D1F">Lastnost ločila ne sme biti prazen niz, vsebovati mora alfanumerične simbole ali presledke in ne sme biti eden od naslednjih znakov: @ # : { } </text>
+		<text id="bookmarks.log.bookmarksNotFound" h="184C696B">Noben zaznamek ni bil najden v dokumentu.</text>
+		<text id="bookmarks.log.bookmarksNotFoundTOC" h="E3250FA7">Zaznamki niso bili najdeni v dokumentu. Ustvarjeno bo prazno kazalo vsebine.</text>
+		<text id="bookmarks.log.txtSrcNotFound" h="52338723">Ni mogoče uvoziti zaznamkov za dokument. Datoteka z zaznamki '%1' ni bila najdena.</text>
+		<text id="bookmarks.sourcefiletxt.lbl" h="8C896EF2">Izberi besedilno datoteko, ki vsebuje definicijo zaznamkov:</text>
+		<text id="bookmarks.sourcefilexcbkm.lbl" h="20DDBCE7">Izberi izvozno datoteko z zaznamki:</text>
+		<text id="bookmarks.sourcefoldertxt.info" h="9C858B7C">Za vsako vhodno datoteko se bo v datoteki z besedilom z zaznamki izbrala besedilna datoteka z istim imenom.</text>
+		<text id="bookmarks.sourcefoldertxt.lbl" h="E5CB01F7">Izberi mapo, ki vsebuje besedilne datoteke z definicijami zaznamkov:</text>
+		<text id="bookmarks.sourcefolderxcbkm.info" h="2F8C4CA0">Za vsak zaznamek vhodnih dokumentov bo izvozna datoteka z istim imenom izbrana kot izvorna datoteka definicije zaznamkov.</text>
+		<text id="bookmarks.sourcefolderxcbkm.lbl" h="0E50F0BA">Izberi mapo, ki vsebuje datoteke za izvoz zaznamkov:</text>
+		<text id="btn.delete" h="D8FE3F70">Izbriši</text>
+		<text id="btn.edit" h="621534A3">Uredi ...</text>
+		<text id="byhoriz" h="AE80ABA7">Z vodoravnico:</text>
+		<text id="byvert" h="138F572B">Z navpičnico:</text>
+		<text id="chk.savepwd" h="2DACA98E">Shrani geslo za prihodnjo uporabo</text>
+		<text id="choose.file" h="D8D81DA5">Izberi datoteko</text>
+		<text id="chooseFiles.chooseForPreview" h="B4BD25C6">Izberi element za predogled.</text>
+		<text id="chooseFiles.fromScanner" h="BDBDAE44">Slika iz optičnega bralnika</text>
+		<text id="chooseFiles.scansubfolders" h="05971C7B">Ali želite dodati datoteke iz podmape izbrane mape?</text>
+		<text id="chooseFiles.unknownImageType" h="18901815">Neznana vrsta slike.</text>
+		<text id="choosefiles.title" h="2E856073">Izberi vhodne datoteke</text>
+		<text id="choosefiles.warning" h="88E4DD69">Dodaj nekaj datotek na seznam.</text>
+		<text id="choosestd.lbl" h="F999AF4C">Izberite PDF standard, ki ga želite zavreči:</text>
+		<text id="choosetool.caption" h="F368DC49">Izberi orodje</text>
+		<text id="choosetools.export.caption" h="89168619">Izberi orodja za izvoz</text>
+		<text id="choosetools.import.caption" h="4D9B8134">Izberi orodja za uvoz</text>
+		<text id="ck.all" h="65CCA5D0">Vključi 'Vse datoteke (*.*)' filter</text>
+		<text id="clonetoolname.lbl" h="E63F45FA">Vnesi ime orodja za kloniranje:</text>
+		<text id="cmd.actionInfoPane" h="BE3FF2AC">Podokno informacije dejanj</text>
+		<text id="cmd.actionInfoPane.tip" h="EA4CDC04">Prikaži/skrij podokno informacije dejanj.</text>
+		<text id="cmd.addFavorites" h="253AA8C4">Dodaj v priljubljene</text>
+		<text id="cmd.addFavorites.tip" h="D0494D1D">Dodaj orodje v svoje priljubljene</text>
+		<text id="cmd.availAct.append" h="44CFD997">Dodaj dejanje</text>
+		<text id="cmd.availActionsPane" h="70AE9683">Podokno knjižnica dejanj</text>
+		<text id="cmd.availActionsPane.tip" h="EE8A6FE7">Pokaži/Skrij podokno knjižnica dejanj.</text>
+		<text id="cmd.catlist.add" h="8E2EE8C1">Dodaj</text>
+		<text id="cmd.catlist.add.tip" h="352D549C">Dodaj novo kategorijo orodij</text>
+		<text id="cmd.catlist.copyID" h="76D03E52">Kopiraj identifikator kategorije</text>
+		<text id="cmd.catlist.copyID.tip" h="4D528776">Kopiraj identifikator kategorije v odložišče.</text>
+		<text id="cmd.catlist.delete" h="D8FE3F70">Izbriši</text>
+		<text id="cmd.catlist.delete.tip" h="F996D3A3">Izbriši izbrano kategorijo</text>
+		<text id="cmd.catlist.rename" h="CF7E2A12">Preimenuj</text>
+		<text id="cmd.catlist.rename.tip" h="853B01D0">Preimenuj izbrano kategorijo</text>
+		<text id="cmd.choosetools.checkAll" h="1ED93781">Preveri vse</text>
+		<text id="cmd.choosetools.checkAll.tip" h="5C10CA59">Preveri vsa orodja.</text>
+		<text id="cmd.choosetools.collapseAll" h="84E09D66">Strni vse</text>
+		<text id="cmd.choosetools.collapseAll.tip" h="4B0945EA">Strni vse razširjene elemente.</text>
+		<text id="cmd.choosetools.expandAll" h="6DA5A467">Razširi vse</text>
+		<text id="cmd.choosetools.expandAll.tip" h="B8DEF87E">Razširi vse zrušene predmete.</text>
+		<text id="cmd.choosetools.uncheckAll" h="5D53AA8D">Počisti vse</text>
+		<text id="cmd.choosetools.uncheckAll.tip" h="E0FE40A8">Počisti vsa orodja.</text>
+		<text id="cmd.close" h="BFF0422C">Zapri urejanje</text>
+		<text id="cmd.close.tip" h="803D7B54">Prosim, da shranite spremembe pred zaprtjem urejevalnika za orodja.</text>
+		<text id="cmd.collapseAll" h="84E09D66">Strni vse</text>
+		<text id="cmd.collapseAll.tip" h="4B0945EA">Strni vse razširjene elemente.</text>
+		<text id="cmd.continue" h="A5F0062A">Nadaljuj</text>
+		<text id="cmd.continue.tip" h="449BD617">Nadaljuj z izvajanjem orodja.</text>
+		<text id="cmd.copyToolID" h="29B6ACF3">Kopiraj identifikator orodja</text>
+		<text id="cmd.copyToolID.tip" h="C84C435C">Kopiraj identifikator orodja v odložišče.</text>
+		<text id="cmd.createFld" h="EDCA1553">Ustvari</text>
+		<text id="cmd.createFld.tip" h="0C2549D2">Ustvari nadzornik map.</text>
+		<text id="cmd.delete" h="D8FE3F70">Izbriši</text>
+		<text id="cmd.delete.tip" h="1645B116">Zbriši izbrano orodje.</text>
+		<text id="cmd.deleteAction" h="D8FE3F70">Izbriši</text>
+		<text id="cmd.deleteAction.tip" h="8D3F7647">Zbriši izbrano dejanje.</text>
+		<text id="cmd.deleteFld" h="D8FE3F70">Izbriši</text>
+		<text id="cmd.deleteFld.tip" h="FE6D13BD">Izbriši izbrano sledenje.</text>
+		<text id="cmd.disableFld" h="3F68363A">Onemogoči</text>
+		<text id="cmd.disableFld.tip" h="0002F9EA">Onemogoči izbrani monitor.</text>
+		<text id="cmd.docsList.collapseAll" h="84E09D66">Strni vse</text>
+		<text id="cmd.docsList.collapseAll.tip" h="4B0945EA">Strni vse razširjene elemente.</text>
+		<text id="cmd.docsList.delete" h="D8FE3F70">Izbriši</text>
+		<text id="cmd.docsList.delete.tip" h="AFC734F6">Odstrani izbrane elemente s seznama.</text>
+		<text id="cmd.docsList.expandAll" h="6DA5A467">Razširi vse</text>
+		<text id="cmd.docsList.expandAll.tip" h="B8DEF87E">Razširi vse skrčene postavke.</text>
+		<text id="cmd.docsList.invertPagesSel" h="50358D1F">Obrni izbor strani</text>
+		<text id="cmd.docsList.invertPagesSel.tip" h="D48EAFF2">Obrni izbor strani v postavki dokumenta.</text>
+		<text id="cmd.docsList.redo" h="E6E48291">Ponovi</text>
+		<text id="cmd.docsList.redo.tip" h="D864EFC4">Uveljavi prej razveljavljeno dejanje</text>
+		<text id="cmd.docsList.rename" h="CF7E2A12">Preimenovanje</text>
+		<text id="cmd.docsList.rename.tip" h="D13799F6">Preimenuj izbrani element dokumenta.</text>
+		<text id="cmd.docsList.selectPages" h="CA96B5EB">Izberi strani ...</text>
+		<text id="cmd.docsList.selectPages.tip" h="2BA1CFDF">Izberi določene strani v izbranem predmetu dokumenta.</text>
+		<text id="cmd.docsList.showPreview" h="0E09CAB8">Predogled</text>
+		<text id="cmd.docsList.showPreview.tip" h="5FDF66AB">Prikaži/skrij podokno za predogled za izbrani element.</text>
+		<text id="cmd.docsList.showRepo" h="75AE5FBB">Varna hramba strani</text>
+		<text id="cmd.docsList.showRepo.tip" h="A9FDC14F">Prikaži/skrij podokno varna hramba za začasno skladiščenje katerega koli sklopa strani, iz katerega koli dokumenta. To je koristno za povleci in spusti strani.</text>
+		<text id="cmd.docsList.undo" h="86E67B4B">Razveljavi</text>
+		<text id="cmd.docsList.undo.tip" h="68378895">Razveljavi zadnje dejanje</text>
+		<text id="cmd.docsList.zoomIn" h="21C9A3BF">Povečati</text>
+		<text id="cmd.docsList.zoomIn.tip" h="EEFCC59E">Približaj sličice</text>
+		<text id="cmd.docsList.zoomOut" h="7749FC62">Zmanjšati</text>
+		<text id="cmd.docsList.zoomOut.tip" h="B4B12D5A">Oddalji sličice</text>
+		<text id="cmd.docsList.zoomSlider" h="596A6E4A">Lestvica</text>
+		<text id="cmd.docsList.zoomSlider.tip" h="0F91092C">Spremeni velikost sličic.</text>
+		<text id="cmd.editDocList.clearAll" h="FCA74107">Počisti varno hrambo</text>
+		<text id="cmd.editDocList.clearAll.tip" h="8D064794">Počisti varno hrambo strani.</text>
+		<text id="cmd.editFld" h="009A7A41">Uredi</text>
+		<text id="cmd.editFld.tip" h="6383A76C">Uredi izbrani monitor.</text>
+		<text id="cmd.editModeView" h="2FCBB32C">Pogled</text>
+		<text id="cmd.editModeView.tip" h="FED08A06">Prikaži/skrij napredna podokna</text>
+		<text id="cmd.enableFld" h="A816D2F1">Omogoči</text>
+		<text id="cmd.enableFld.tip" h="5C4A8F7C">Omogoči izbrani monitor.</text>
+		<text id="cmd.expandAll" h="6DA5A467">Razširi vse</text>
+		<text id="cmd.expandAll.tip" h="B8DEF87E">Razširi vse skrčene postavke.</text>
+		<text id="cmd.filesList.addFiles" h="6BB8C3C3">Dodaj datoteke ...</text>
+		<text id="cmd.filesList.addFiles.combo" h="6BB8C3C3">Dodaj datoteke ...</text>
+		<text id="cmd.filesList.addFiles.tip" h="49EDA302">Klikni za prikaz standardnega pogovornega okna za izbiro datoteke ...</text>
+		<text id="cmd.filesList.addFolder" h="48695541">Dodaj mapo ...</text>
+		<text id="cmd.filesList.addFolder.tip" h="6761456F">Klikni za prikaz standardnega pogovornega okna za izbiro mape, nato dodaj datoteke iz ...</text>
+		<text id="cmd.filesList.addFromScanner" h="F8B40B5F">Dodaj iz optičnega bralnika ...</text>
+		<text id="cmd.filesList.addFromScanner.tip" h="B4E7ED2C">Klikni, da izberete napravo za optično branje in nato začnete pridobivanje slik iz ...</text>
+		<text id="cmd.filesList.delete" h="D8FE3F70">Izbriši</text>
+		<text id="cmd.filesList.delete.tip" h="1B809C28">Izbriši izbrane elemente. Izbrisa ni mogoče razveljaviti.</text>
+		<text id="cmd.filesList.detailsView" h="AEE125D6">Podrobnosti</text>
+		<text id="cmd.filesList.detailsView.tip" h="6570BFC4">Preklopi na ogled podrobnosti.</text>
+		<text id="cmd.filesList.edit" h="621534A3">Uredi ...</text>
+		<text id="cmd.filesList.edit.tip" h="A8CCCC15">Uredi izbrani predmet.</text>
+		<text id="cmd.filesList.moveDown" h="B590E566">Premakni navzdol</text>
+		<text id="cmd.filesList.moveDown.tip" h="96CBF2AC">Premakni dol izbrane predmete.</text>
+		<text id="cmd.filesList.moveUp" h="E466537C">Premakni navzgor</text>
+		<text id="cmd.filesList.moveUp.tip" h="239B490C">Premakni gor izbrane predmete.</text>
+		<text id="cmd.filesList.openContFolder" h="D3E03212">Odpri vsebujočo mapo</text>
+		<text id="cmd.filesList.openContFolder.tip" h="4967EB0F">Odpri vsebovano mapo in izberite ustrezno datoteko v Windows Explorer-ju.</text>
+		<text id="cmd.filesList.selectPages" h="CA96B5EB">Izberi strani ...</text>
+		<text id="cmd.filesList.selectPages.tip" h="9D36120F">Izberi določene strani v izbranem dokumentu.</text>
+		<text id="cmd.filesList.showPreview" h="0E09CAB8">Predogled</text>
+		<text id="cmd.filesList.showPreview.tip" h="5FDF66AB">Prikaži/skrij podokno za predogled za izbrani element.</text>
+		<text id="cmd.filesList.thumbsView" h="47B1B2D9">Sličice</text>
+		<text id="cmd.filesList.thumbsView.tip" h="E9F10E3C">Preklopi na pogled sličice.</text>
+		<text id="cmd.filesList.zoomIn" h="21C9A3BF">Povečati</text>
+		<text id="cmd.filesList.zoomIn.tip" h="EEFCC59E">Približaj sličice</text>
+		<text id="cmd.filesList.zoomOut" h="7749FC62">Zmanjšati</text>
+		<text id="cmd.filesList.zoomOut.tip" h="B4B12D5A">Oddalji sličice</text>
+		<text id="cmd.filesList.zoomSlider" h="596A6E4A">Lestvica</text>
+		<text id="cmd.filesList.zoomSlider.tip" h="0F91092C">Spremeni velikost sličic.</text>
+		<text id="cmd.help" h="03718903">Pomoč</text>
+		<text id="cmd.help.about" h="06AA44B8">O programu ...</text>
+		<text id="cmd.help.about.tip" h="D3746489">Prikaži različico in licenčne informacije o aplikaciji.</text>
+		<text id="cmd.help.checkForUpdates" h="B4EF7EF3">Preveri za posodobitve</text>
+		<text id="cmd.help.checkForUpdates.tip" h="73587378">Preveri posodobitve za aplikacijo.</text>
+		<text id="cmd.help.contents" h="567BC1D7">Vsebina</text>
+		<text id="cmd.help.contents.tip" h="08AC959F">Odpri podrobno spletno pomoč.</text>
+		<text id="cmd.help.enterkey" h="EF62658A">Vnesi licenčni ključ ...</text>
+		<text id="cmd.help.enterkey.tip" h="D3746489">Prikaži različico in licenčne informacije o aplikaciji.</text>
+		<text id="cmd.help.homepage" h="09F653F5">Domača stran</text>
+		<text id="cmd.help.homepage.tip" h="EBA22B5A">Pojdi na spletno stran aplikacije.</text>
+		<text id="cmd.help.support" h="31A29A3F">Podpora</text>
+		<text id="cmd.help.support.tip" h="B8C0C0FB">Pojdi na forum za podporo.</text>
+		<text id="cmd.help.tip" h="F59770E5">Pomoč.</text>
+		<text id="cmd.impexp" h="1D5A9A8A">Uvoz/izvoz</text>
+		<text id="cmd.impexp.expseltools" h="C87F6A0D">Izvozi izbrana orodja</text>
+		<text id="cmd.impexp.expseltools.tip" h="0E445E08">Izvozi izbrano orodje v datoteko.</text>
+		<text id="cmd.impexp.expsett" h="329179F2">Izvozi vse nastavitve</text>
+		<text id="cmd.impexp.expsett.tip" h="1BEC5F75">Izvozi vse možnosti programa in orodja v datoteko.</text>
+		<text id="cmd.impexp.exptools" h="3B532E8F">Izvozi orodja</text>
+		<text id="cmd.impexp.exptools.tip" h="66B0E107">Izvozi orodja v datoteko.</text>
+		<text id="cmd.impexp.impsett" h="92219071">Uvozi vse nastavitve</text>
+		<text id="cmd.impexp.impsett.tip" h="3845D20B">Uvozi vse možnosti in orodja programa iz datoteke.</text>
+		<text id="cmd.impexp.imptools" h="622631EF">Uvozi orodja</text>
+		<text id="cmd.impexp.imptools.tip" h="112B2FCB">Uvozi orodja iz datoteke.</text>
+		<text id="cmd.impexp.shortcut" h="64092D8C">Ustvari bližnjico na namizju</text>
+		<text id="cmd.impexp.shortcut.tip" h="F695107D">Ustvari bližnjico na izbrano orodje na namizju.</text>
+		<text id="cmd.impexp.tip" h="CE31B671">Uvozno/izvozne operacije za orodje in nastavitve aplikacije.</text>
+		<text id="cmd.moveDown" h="B590E566">Premakni navzdol</text>
+		<text id="cmd.moveDown.tip" h="96CBF2AC">Premakni dol izbrane predmete.</text>
+		<text id="cmd.moveUp" h="E466537C">Premakni navzgor</text>
+		<text id="cmd.moveUp.tip" h="239B490C">Premakni gor izbrane predmete.</text>
+		<text id="cmd.opts" h="DAD7B4F4">Možnosti</text>
+		<text id="cmd.opts.tip" h="0DB1D677">Vsebuje funkcije za upravljanje nastavitev v aplikaciji.</text>
+		<text id="cmd.prefs" h="8D3CBDF0">Izbire ...</text>
+		<text id="cmd.prefs.tip" h="35A54BBC">Prikaži pogovorno okno z nastavitvami aplikacije.</text>
+		<text id="cmd.redo" h="E6E48291">Ponovi</text>
+		<text id="cmd.redo.tip" h="D864EFC4">Uveljavi prej razveljavljeno dejanje</text>
+		<text id="cmd.removeFavorites" h="85360926">Odstrani iz priljubljenih</text>
+		<text id="cmd.removeFavorites.tip" h="DEB12B60">Odstrani orodje iz priljubljenih</text>
+		<text id="cmd.report.clear" h="CB9CE353">Počisti</text>
+		<text id="cmd.report.clear.tip" h="26272D30">Zbriši poročilo</text>
+		<text id="cmd.report.collapseAll" h="84E09D66">Strniti vse</text>
+		<text id="cmd.report.collapseAll.tip" h="4B0945EA">Strni vse razširjene elemente.</text>
+		<text id="cmd.report.copy" h="348DE55D">Kopiraj</text>
+		<text id="cmd.report.copy.tip" h="7E2DF69D">Kopiraj besedilno sporočilo.</text>
+		<text id="cmd.report.copyname" h="895D5980">Kopiraj ime datoteke</text>
+		<text id="cmd.report.copyname.tip" h="C6C33FE5">Kopira ime datoteke v odložišče</text>
+		<text id="cmd.report.expandAll" h="6DA5A467">Razširi vse</text>
+		<text id="cmd.report.expandAll.tip" h="B8DEF87E">Razširi vse zrušene predmete.</text>
+		<text id="cmd.report.fullreport" h="2B15B2F7">Celotno poročilo</text>
+		<text id="cmd.report.fullreport.tip" h="B70410A1">Ta možnost prisili PDF-Tools za tiskanje poročila o celotnem orodju.</text>
+		<text id="cmd.report.openfolder" h="D3E03212">Odpri vsebino mape</text>
+		<text id="cmd.report.openfolder.tip" h="897118C2">Odpre mapo, ki vsebuje datoteko</text>
+		<text id="cmd.report.options" h="9757D0D9">Možnosti ...</text>
+		<text id="cmd.report.options.tip" h="84CAFD98">Ogled možnosti orodij za poročila.</text>
+		<text id="cmd.report.savetofile" h="ED4A08DE">Shrani poročilo ...</text>
+		<text id="cmd.report.savetofile.tip" h="5BF810D7">Shrani poročila v besedilne datoteke.</text>
+		<text id="cmd.resetSelAction" h="1008C3F9">Ponastavi</text>
+		<text id="cmd.resetSelAction.tip" h="9416B4A0">Ponastavi možnosti izbranega dejanja na vnaprej določeno.</text>
+		<text id="cmd.resetSett" h="1E06BB70">Ponastavi vse nastavitve</text>
+		<text id="cmd.resetSett.tip" h="F72C4CB6">Ponastavi vse možnosti programa na privzeto in pojdite nazaj na standardna orodja s samo privzetimi možnostmi.</text>
+		<text id="cmd.resetTool" h="0E4A9518">Ponastavi orodje</text>
+		<text id="cmd.resetTool.tip" h="63100C06">Ponastavi možnosti orodja na vnaprej določeno.</text>
+		<text id="cmd.resetseltools" h="11DC26AD">Ponastavi izbrana orodja</text>
+		<text id="cmd.resetseltools.tip" h="7FCF3BF7">Ponastavi možnosti izbranih orodij na vnaprej določeno.</text>
+		<text id="cmd.save" h="01991541">Shrani spremembe</text>
+		<text id="cmd.save.tip" h="45AC7E5D">Shrani spremembe orodij.</text>
+		<text id="cmd.search" h="547E9E5A">Iskanje ...</text>
+		<text id="cmd.search.tip" h="FC8CBAA4">Orodje za iskanje.</text>
+		<text id="cmd.setupFolderMonitor" h="EDC6E6EA">Nadzor mape</text>
+		<text id="cmd.setupFolderMonitor.tip" h="43BBFC78">Upravljaj nadzor mape</text>
+		<text id="cmd.showActionInfoPane" h="DDDF9129">Pokaži informacije dejanj</text>
+		<text id="cmd.showActionInfoPane.tip" h="B9D63B80">Pokaži/Skrij informacije dejanj.</text>
+		<text id="cmd.showAvailActionsPane" h="7B4DF4C3">Pokaži knjižnico dejanj</text>
+		<text id="cmd.showAvailActionsPane.tip" h="7F2B551F">Pokaži/Skrij knjižnico dejanj</text>
+		<text id="cmd.showReport" h="F1E7E74F">Orodno poročilo</text>
+		<text id="cmd.showReport.tip" h="0310270C">Pokaži orodno poročilo</text>
+		<text id="cmd.test" h="327F2A55">Test!</text>
+		<text id="cmd.test.tip" h="9E04AEAA">Preizkusite značilnost!</text>
+		<text id="cmd.tool.clone" h="37E754F5">Podvoji</text>
+		<text id="cmd.tool.clone.tip" h="D8321AF8">Kloniraj izbrano orodje.</text>
+		<text id="cmd.tool.create" h="EDCA1553">Ustvarjanje</text>
+		<text id="cmd.tool.create.tip" h="3D4C85B7">Ustvari novo orodje.</text>
+		<text id="cmd.tool.edit" h="009A7A41">Uredi</text>
+		<text id="cmd.tool.edit.tip" h="426AAF33">Uredi izbrano orodje.</text>
+		<text id="cmd.tool.run" h="19264084">Zaženi</text>
+		<text id="cmd.tool.run.tip" h="BF1530FA">Zaženi izbrano orodje.</text>
+		<text id="cmd.undo" h="86E67B4B">Razveljavi</text>
+		<text id="cmd.undo.tip" h="68378895">Razveljavi zadnje dejanje</text>
+		<text id="cmd.viewFld" h="2FCBB32C">Pogled</text>
+		<text id="cmd.viewFld.tip" h="7426084C">Oglej si izbran monitor</text>
+		<text id="cmdline.toolnotfound" h="E24BDF60">Orodja, ki je zahtevalo zagon, ni bilo mogoče najti.</text>
+		<text id="common" h="FF51CD90">Splošno</text>
+		<text id="created" h="BC03BBEA">Ustvarjeno</text>
+		<text id="custToolsGrName" h="22F07048">Orodja po meri</text>
+		<text id="custom" h="A918FF38">prilagojeno</text>
+		<text id="dclick.authorize" h="E62FEA98">Klikni za odobritev prostora za shranjevanje</text>
+		<text id="delete.all.pages" h="E66ECE13">Brisanje vseh strani je prepovedano.</text>
+		<text id="deleteComments.all" h="3DB14B53">Vse opombe</text>
+		<text id="deleteComments.link" h="D84C3990">Beležke povezave</text>
+		<text id="deleteComments.markup" h="236E76D1">Označevanje komentarjev</text>
+		<text id="deleteComments.widget" h="105429C0">Beležke gradnika</text>
+		<text id="deleteInputFiles" h="66DB8878">Brisanje vhodnih datotek o uspehu</text>
+		<text id="deletecat.warn" h="8A426B75">Ali ste prepričani, da želite izbrisati &lt;b&gt;"%1"&lt;/b&gt; kategorijo in vsa vključena orodja? OPOMBA: Brisanja ni mogoče razveljaviti.</text>
+		<text id="deletestoredpath.warn" h="B01DF4C4">Ali ste prepričani, da želite izbrisati shranjena imena vhodnih datotek?</text>
+		<text id="disable.ui.lbl" h="F51A0F89">Orodna UI interakcija z uporabnikom:</text>
+		<text id="dlg.managefilters" h="BEEA26C3">Upravljanje filtrov</text>
+		<text id="docauthor.l" h="7E318A91">Avtor:</text>
+		<text id="doccreator.l" h="48BB2AC2">Avtor:</text>
+		<text id="dockeywords.l" h="EE89DD49">Ključne besede:</text>
+		<text id="docproducer.l" h="30A8E856">Producent:</text>
+		<text id="docsubject.l" h="A59102F6">Predmet:</text>
+		<text id="doctitle.l" h="930D3835">Naslov:</text>
+		<text id="editDocList.containsPages" h="8F4BA4D9">Vsebuje %1 stran(i)</text>
+		<text id="editDocList.document" h="13289938">Dokument</text>
+		<text id="editDocList.empty.hint" h="C46828D2">Nobene strani</text>
+		<text id="editDocList.noPages" h="DD007EC4">Prazno</text>
+		<text id="editDocList.repository.hint" h="0071AB8A">Lahko spustiš strani tukaj za začasno hrambo.</text>
+		<text id="editDocList.title" h="BB7D1179">Ročen razcep/spajanje dokumentov</text>
+		<text id="editDocList.undefined" h="9FA2DA79">Nedoločen</text>
+		<text id="editDocList.warning" h="F36DBC31">Seznam dokumentov ne sme biti prazen. Lahko poskusite razveljaviti vaše zadnje dejanje, da ta seznam ne bo prazen.</text>
+		<text id="editDocList.warning.emptyname" h="D690297C">Ime dokumenta ne sme biti prazno</text>
+		<text id="editDocList.warning.invalidsymbols" h="40A214FA">Neveljavno ime dokumenta</text>
+		<text id="editview.header.changeicon" h="E86B95CD">Spremeni ...</text>
+		<text id="editview.header.dialog.multiline" h="767057E1">Uredi opis orodja</text>
+		<text id="empty.document" h="06A26641">Dokument "%1" je prazen. Preskočeno bo.</text>
+		<text id="enter.pwd.descr" h="77485A4B">Vnesi opis kode (neobvezno) ...</text>
+		<text id="enterNewDocName" h="68FD05C5">Vnesi novo ime dokumenta:</text>
+		<text id="err.foldernotexists" h="4533B896">Izbrana mapa ne obstaja</text>
+		<text id="err.foldernotvalid" h="E422E783">Izbrane mape ni mogoče spremljati</text>
+		<text id="err.hotfolderbusy" h="40F505AA">Imenik, ki ste ga določili, obdeluje drug monitor</text>
+		<text id="err.hotfolderempty" h="5734787D">Izberi mapo za spremljanje</text>
+		<text id="err.movefolderempty" h="141492EF">Izberi mapo za premikanje vhodnih datotek</text>
+		<text id="err.selecttool" h="89F6967E">Izberi orodje za izvedbo</text>
+		<text id="err.toolnotexists" h="12CFDA38">Izbrano orodje ne obstaja</text>
+		<text id="expsett.extension.desc" h="F00D3D31">Program PDF-Tools nastavitve datotek</text>
+		<text id="expsett.failed" h="D36046ED">Izvoz nastavitev ni uspelo</text>
+		<text id="expsett.open.caption" h="92B281E9">Odpri uvoženo datoteko</text>
+		<text id="expsett.save.caption" h="C1A8C6FD">Shrani izvozne datoteke</text>
+		<text id="exptools.extension.desc" h="DC98B451">PDF-Tools izmenjava datotek</text>
+		<text id="exptools.failed" h="7A69DC15">Izvoz orodij ni uspel</text>
+		<text id="exptools.open.caption" h="99F5ECED">Izberi uvozno datoteko</text>
+		<text id="exptools.save.caption" h="C1A8C6FD">Shrani izvozne datoteke</text>
+		<text id="extension" h="14FEB836">Pripona</text>
+		<text id="fileLocation" h="7BC24E5F">Mesto datoteke:</text>
+		<text id="fileNames" h="0F80A6A8">Izberi seznam datotek:</text>
+		<text id="fileNames.desc" h="7B4EDEA4">PDF-Tools seznam vhodnih datotek</text>
+		<text id="fileNames.open" h="8F1B7ED1">Odpri seznam vhodnih datotek</text>
+		<text id="fileprop.author" h="F6A8A4C0">Avtor</text>
+		<text id="fileprop.bpc" h="02071BA4">Bitov na kanal</text>
+		<text id="fileprop.bpp" h="EC790768">Bitov na slikovno piko</text>
+		<text id="fileprop.channels" h="D3AE76A2">Kanali</text>
+		<text id="fileprop.creator" h="CF26EE59">Ustvarjalec</text>
+		<text id="fileprop.dimension" h="96A76700">Dimenzije</text>
+		<text id="fileprop.horDpi" h="576C5071">Vodoravni DPI</text>
+		<text id="fileprop.page" h="D70A809E">STRAN</text>
+		<text id="fileprop.pageRotation" h="ECFC9C66">Vrtenje</text>
+		<text id="fileprop.pagesCount" h="AAE42CE5">Število strani:</text>
+		<text id="fileprop.pdfVer" h="4C06CDA5">Različica PDF</text>
+		<text id="fileprop.producer" h="C54CE945">Izdelovalec</text>
+		<text id="fileprop.subject" h="B6BCF595">Predmet</text>
+		<text id="fileprop.title" h="796DFAD3">Naslov</text>
+		<text id="fileprop.verDpi" h="33423CE9">Navpični DPI</text>
+		<text id="filestopdf.setup" h="FB20B28D">Namestitev …</text>
+		<text id="finalizing" h="B702861F">Dokončno oblikujem %1 ...</text>
+		<text id="fitoverlay" h="E2F09068">Prilagodi prekrivne strani na novo ustvarjenih strani dokumenta</text>
+		<text id="fld.disabled" h="AA5BC8D4">Onemogoči</text>
+		<text id="fld.enabled" h="2532774E">Omogočeno</text>
+		<text id="fldmon.lbl" h="DEBCEDAF">Ime nadzornika map:</text>
+		<text id="folder.grp" h="9AE10AFA">Možnosti vnosa datotek</text>
+		<text id="hotfld.opts.dlg.caption" h="D9DE9C84">Nastavitev za nadzor mape</text>
+		<text id="impsett.alert" h="0B2EB063">Ali ste prepričani, da želite uvoziti vse nastavitve programa? OPOMBA: uvozne operacije ni mogoče razveljaviti.</text>
+		<text id="impsett.failed" h="AA8A96CF">Uvoz nastavitev ni uspel</text>
+		<text id="imptools.failed" h="DAD93596">Uvoz orodja ni uspel</text>
+		<text id="info" h="07FB97A4">Informacije</text>
+		<text id="inpfiles.lbl" h="28477E27">Možnosti vnosa datotek:</text>
+		<text id="inserting.page" h="7985F658">Vstavljanje strani %1 iz %2</text>
+		<text id="keep.inputfiles" h="800C91A4">Obdrži vhodne datoteke v mapi</text>
+		<text id="keepaspect" h="A90996CD">Ohrani razmerje slike:</text>
+		<text id="lb.availFF" h="6E3CAD3A">Izberi filtre za vse tipe datotek, ki bodo na voljo v spustnem seznamu v pogovornem oknu:</text>
+		<text id="lb.presetFF" h="9C590515">Prednastavitev:</text>
+		<text id="lbl.ShowResult" h="C5236BCD">Pokaži rezultat po koncu</text>
+		<text id="lbl.actualview" h="D865F4B2">Dejanski ogled slike</text>
+		<text id="lbl.allowMult" h="3B9DFCE0">Dovoli, da izberem več datotek</text>
+		<text id="lbl.alwaysUseMultipage" h="6C82FB30">Vedno uporabite večstranski format</text>
+		<text id="lbl.askDeleteTool" h="1541D739">Ali ste prepričani, da želite izbrisati &lt;b&gt;"%1"&lt;/b&gt; orodje? OPOMBA: izbrisa ni mogoče razveljaviti.</text>
+		<text id="lbl.askDeleteTools" h="25C684AA">Ali ste prepričani, da želite izbrisati &lt;b&gt;%1&lt;/b&gt; orodje? OPOMBA: izbrisa ni mogoče razveljaviti in le orodje po meri se lahko izbriše.</text>
+		<text id="lbl.askSaveChanges" h="4F19099B">Ali želite shraniti spremembe, preden končate urejanje?</text>
+		<text id="lbl.chooseAction" h="5EA681F4">Izberi dejanje iz seznama:</text>
+		<text id="lbl.choosefiles.dndhint" h="8CF7925F">Dodajte datoteke, uporabljajoč gumb, na orodni vrstici zgoraj ali jih povlecite in spuste tukaj. Lahko jih uredite v želenem vrstnem redu.</text>
+		<text id="lbl.choosefiles.itemscount" h="2CFE0C7C">%1 predmeti</text>
+		<text id="lbl.choosefiles.selitemscount" h="402CD736">%1 predmeti •%2 izbrani predmeti •%3</text>
+		<text id="lbl.choosepages" h="668A500A">Izberi strani, ki bodo izbrane v dokumentu:</text>
+		<text id="lbl.continue" h="A5F0062A">Nadaljuj</text>
+		<text id="lbl.dblclick2browse" h="DB3D14F9">Dvakrat kliknite tukaj za brskanje ...</text>
+		<text id="lbl.editViewToolDesc" h="0F22DAFE">Vnesi opis za orodje:</text>
+		<text id="lbl.editViewToolName" h="76F4AA91">Vnesi ime za orodje:</text>
+		<text id="lbl.editdocs.dndhint" h="2FAC7414">Lahko uporabite povleci in spusti, da premaknete strani med dokumenti in za njihov vrstni red. Ustvarite lahko tudi nove dokumente, ki jih spustite pred/med postavkami strani dokumentov.</text>
+		<text id="lbl.editview.dndhint" h="42E43BBA">Lahko uporabite povleci in spusti za preureditev obstoječih dejanj ali dodate nova dejanja s seznama na desni strani.</text>
+		<text id="lbl.editview.dndhint2" h="714B17C6">Kliknite in povlecite vsa dejanja, s seznama na desni strani in jih spustite tukaj.</text>
+		<text id="lbl.emptyCatList" h="488587B8">Seznam kategorij je prazen</text>
+		<text id="lbl.emptyToolList" h="B2BFE203">Seznam orodij je prazen.</text>
+		<text id="lbl.extractSizeLimit" h="0EA996F6">Izključi slike manjše od:</text>
+		<text id="lbl.fileTypes" h="60ECC8E9">Vrste datotek</text>
+		<text id="lbl.filestopdf.converters" h="902CF9B3">Pretvorniki:</text>
+		<text id="lbl.folder" h="3F9ED2F9">Mapa:</text>
+		<text id="lbl.grouping" h="79C8A88E">Način združevanja</text>
+		<text id="lbl.keeptransparent" h="5070A5EB">Obdrži prosojnost</text>
+		<text id="lbl.multipagetype" h="C5A5712F">Izberite vrsto večstranski slik:</text>
+		<text id="lbl.noActionFound" h="105B87AB">Nobeno dejanje ni najdeno, da se ujema z vašo iskalno zahtevo.</text>
+		<text id="lbl.noCategoryFound" h="CEC17229">Najdena ni bila nobena kategorija, ki se ujema z iskanim rezultatom iskanja</text>
+		<text id="lbl.noToolFound" h="181055BB">Nobeno orodje ni najdeno, da se ujema z vašo iskalno zahtevo.</text>
+		<text id="lbl.reverseOrder" h="9564C9FE">Shrani v nasprotnem redu</text>
+		<text id="lbl.run" h="19264084">Zaženi</text>
+		<text id="lbl.savemode" h="D16859B7">Možnosti shranjevanja</text>
+		<text id="lbl.showextui" h="1E2770E2">Pokaži vsa pogovorna okna za izbiro datotek</text>
+		<text id="lbl.singlepagetype" h="A6AF6C93">Izberi vrsto posameznih slik strani:</text>
+		<text id="listmonitors.lbl" h="7A930E45">Seznam nadzorovanih map:</text>
+		<text id="lnk.browsefolder" h="57F5ECCB">Poišči vhodno mapo ...</text>
+		<text id="lnk.createtitle" h="97F6DA95">Možnosti za ustvarjanje bližnjic</text>
+		<text id="lnk.inputfiles" h="3B5E3105">Izberi vhodno datoteko ...</text>
+		<text id="lnk.noinput" h="365E2B73">Vsakič me vprašaj za vhodno datoteko</text>
+		<text id="lnk.specifyinput" h="C331E1B9">V bližnjico lahko dodate vhodno datoteko/mapo:</text>
+		<text id="loading" h="DC6A6C81">Nalaganje ...</text>
+		<text id="location" h="52D95020">Mesto</text>
+		<text id="log.abort" h="6F8E5DCD">Prekini</text>
+		<text id="log.actiondone" h="E2806498">Akcija je končana</text>
+		<text id="log.andmore" h="54982D71">Kliknite tukaj, da prikažete več ...</text>
+		<text id="log.andmore.tip" h="2D9BDCA0">Dvokliknite, če želite videti vse elemente ...</text>
+		<text id="log.cancelled" h="E28236C9">Ustavljeno</text>
+		<text id="log.fail" h="A37F5F82">Ni uspelo</text>
+		<text id="log.filecreated" h="E300872F">Datoteka je ustvarjena</text>
+		<text id="log.filenotexist" h="E9442568">Datoteka ne obstaja</text>
+		<text id="log.fileprocstart" h="254322E4">Obdelava datoteka se je začela</text>
+		<text id="log.filestat.failed" h="D1F8052C">Datoteke ni bilo mogoče obdelati: %1 od %2</text>
+		<text id="log.filestat.succeded" h="5A913587">Uspešno obdelane datoteke: %1 od %2</text>
+		<text id="log.invalidarg" h="79E18E42">Nepravilni parametri</text>
+		<text id="log.nofilesinfolder" h="961510F8">V mapi niso našli nobene datoteke izbrane vrste. Preverite parametre dejanj 'Izberi vhodne datoteke'.</text>
+		<text id="log.nopermissions" h="7508C445">Ni dovolj dovoljenj</text>
+		<text id="log.ok" h="BAD1F1D5">Uspešno</text>
+		<text id="log.summary" h="8BE8ABA0">Povzetek</text>
+		<text id="log.toolduration" h="8D5BD4C8">%1 je bil porabljen</text>
+		<text id="log.toolrunfinished" h="A50678CB">Rezultat tekočega orodja: %1</text>
+		<text id="log.toolstarted" h="4352D7A3">"%1" orodje začeto</text>
+		<text id="log.txtsummary" h="ABCB53D3">Orodje "%1" se je končalo: %2 napak, %3 obdelanih datotek, %4 ustvarjenih datotek, %5 opozoril</text>
+		<text id="log.txttoolduration" h="1DED609F">trajanje: %1</text>
+		<text id="log.unknown" h="8566CB94">Nedoločeno</text>
+		<text id="log.wrongpass" h="473522EE">Napačna koda</text>
+		<text id="modified" h="30325672">Spremenjeno</text>
+		<text id="moduleName" h="9B0F448F">PDF-Tools</text>
+		<text id="mon.priority" h="73E40EE1">Prednost nadzora:</text>
+		<text id="monitor.name.tip" h="A0EB9543">Vnesi ime monitorja ...</text>
+		<text id="monitor.subfold" h="7D8D9398">Nadzor nad podmapami</text>
+		<text id="moveInputFiles" h="61936C79">Premik vhodne datoteke v mapo:</text>
+		<text id="msgtype.debug" h="C3C4F565">Iskanje napak</text>
+		<text id="msgtype.error" h="51BFF51D">Napaka</text>
+		<text id="msgtype.info" h="07FB97A4">Informacije</text>
+		<text id="msgtype.unknown" h="E52D4ED4">Neznan tip</text>
+		<text id="msgtype.verbose" h="6817BBB0">Razširjeno</text>
+		<text id="msgtype.warning" h="E7AD7A2B">Opozorilo</text>
+		<text id="name" h="D18643E3">Ime</text>
+		<text id="no.pages.to.delete" h="7A9E4694">Ni strani za brisanje.</text>
+		<text id="nooverlay.file" h="4D9B1EA6">Nobena prekrivna datoteka ni določena</text>
+		<text id="ocr.processall" h="705E5831">OCR dokumenta</text>
+		<text id="ocr.textContinue" h="31439CA0">Ne OCR, ampak nadaljuj z obdelavo</text>
+		<text id="ocr.textSkip" h="92F274EB">Preskoči obdelavo dokumenta</text>
+		<text id="ocropt.lbl" h="791CC215">Če dokument vsebuje besedilo:</text>
+		<text id="ovr.file" h="D8EE6FEB">Prekrivna datoteka:</text>
+		<text id="ovr.norepeat" h="E58FFCC1">Ne ponovi</text>
+		<text id="ovr.positions" h="E9C070C5">Pozicije</text>
+		<text id="ovr.repeat" h="DB39711A">Možnosti ponovitev:</text>
+		<text id="ovr.repeatall" h="FB4118C6">Nenehno ponavljanje skrajša prekrivne datoteke</text>
+		<text id="ovr.repeatlast" h="87F51B84">Ponovitev zadnje strani skrajša prekrivne datoteke</text>
+		<text id="ovr.settings" h="2FF7690D">Nastavitve prekrivnih datotek</text>
+		<text id="page.props" h="F521B2C3">Lastnosti strani</text>
+		<text id="pagenumber" h="29EED2B3">Število</text>
+		<text id="pagesRange" h="30C24AC3">Območje strani</text>
+		<text id="pagesRange.All" h="83434A26">Vse</text>
+		<text id="pagesRange.Pages" h="23952CFD">Strani:</text>
+		<text id="pagesSubset.all" h="599C6EE6">Vse strani iz določenega obsega(-ov)</text>
+		<text id="pagesSubset.even" h="E64675B8">Sode strani samo iz obsega</text>
+		<text id="pagesSubset.odd" h="87228BC5">Neparne strani samo iz obsega</text>
+		<text id="pagesrange.empty" h="630795CE">Območje strani ne sme biti prazno.</text>
+		<text id="pdf.properies" h="70EFADF5">Lastnosti PDF</text>
+		<text id="pdfahandle.keepPDFAunchanged" h="908B4A26">Ohrani PDF/A dokument nespremenjen</text>
+		<text id="pdfahandle.reconvert" h="1AFD2B27">Vnovič pretvori dokument</text>
+		<text id="pdfahandle.skipPDFA" h="9B11C61E">Preskoči dokument PDF/A</text>
+		<text id="pdfastd.lbl" h="83380816">Če dokument vsebuje PDF/A standardne podatke:</text>
+		<text id="place.foreground" h="0669CDF0">Postavi prekrivno datoteko v ospredje</text>
+		<text id="policy.msg" h="3AE36A58">Varnostna politika ni ustvarjena. Ali jo želite ustvariti?</text>
+		<text id="preview.ovrfile" h="5593AECC">Predogled je prekril datoteko</text>
+		<text id="printDoc.collate" h="EB01FB70">Zberi</text>
+		<text id="printDoc.copies" h="A516AF46">Kopije:</text>
+		<text id="printDoc.deviceName" h="FEF6AD05">Ime:</text>
+		<text id="printDoc.duplex" h="B915897E">Obojestransko:</text>
+		<text id="printDoc.paperSize" h="510A44DF">Velikost papirja:</text>
+		<text id="printDoc.status" h="922A166F">Stanje:</text>
+		<text id="priority.high" h="B7E10973">Visoka prioriteta
+		</text>
+		<text id="priority.low" h="15FDBBEA">Nizka prednost</text>
+		<text id="priority.medium" h="5A523B97">Srednja prioriteta</text>
+		<text id="prn.status.serverOffline" h="9F1449AB">Strežnik brez povezave</text>
+		<text id="prn.status.unknown" h="8566CB94">Neznano</text>
+		<text id="progr.launching" h="5520AF34">Zaganjanje nadzora</text>
+		<text id="progress.pause" h="6045D570">Premor</text>
+		<text id="prompt.clearpwd" h="AB0C3147">Želite izbrisati shranjene kode?</text>
+		<text id="prompt.removemonitor" h="DF4CD355">Ali želite odstraniti izbrani nadzor map?</text>
+		<text id="prompt.removepwd" h="F4C34781">Želite odstraniti izbrani predmet iz pomnilnika za geslo?</text>
+		<text id="props" h="F6FFF0BE">Lastnosti</text>
+		<text id="pwd.defaultDescr" h="EBF5010F">Moje vnaprej določeno geslo</text>
+		<text id="pwd.descr.date" h="F8CC5563">Dodano: %1</text>
+		<text id="pwd.descr.dflt" h="5C50975F">Ni opisa</text>
+		<text id="pwd.enter.new" h="D9992E89">Vnesi kodo, ki se shrani v skladišče:</text>
+		<text id="pwd.enter.newdescr" h="9D40879A">Vnesi nov opis:</text>
+		<text id="pwdadd" h="AED8BB4C">Dodaj ...</text>
+		<text id="pwdclear" h="CB9CE353">Počisti</text>
+		<text id="pwdedit" h="621534A3">Uredi ...</text>
+		<text id="pwdgrp" h="202AB42A">Skladišče gesel</text>
+		<text id="pwdlbl" h="5F4039B9">Seznam vnaprej določenih kod, ki se samodejno uporabljajo za obdelavo dokumentov:</text>
+		<text id="pwdprefs.name" h="D2C0C056">Kode</text>
+		<text id="pwdprefs.tip" h="7434F5A2">Predhodno shranjevanje gesel</text>
+		<text id="pwdprefs.title" h="7434F5A2">Predhodno shranjevanje gesel</text>
+		<text id="pwdremove" h="FCE39C1F">Odstrani</text>
+		<text id="report" h="E9D63CB7">Orodno poročilo</text>
+		<text id="report.cuetext" h="5A5BCB07">Ni sporočil za prikaz v poročilu.</text>
+		<text id="report.defaultDesc" h="882ACAE5">V podoknu so prikazana sporočila iz dejanj orodja.</text>
+		<text id="report.fld.lbl" h="3F89B943">Izberi mapo:</text>
+		<text id="report.framed.dlg" h="E9D63CB7">Orodno poročilo</text>
+		<text id="report.name.lbl" h="553DE74A">Ime poročila:</text>
+		<text id="report.opt" h="2D42B915">Možnosti poročanja</text>
+		<text id="report.options.autoclear" h="F9D9404E">Pred vsakim zagonom orodja samodejno očisti poročilo</text>
+		<text id="report.options.forcevisible" h="C79B47D7">Prisili, da je podokno za poročila vidno za vse vrste sporočil (samo za napake, če preverjanje ni nastavljeno)</text>
+		<text id="report.options.header" h="7254B91C">Izbire orodnega poročila</text>
+		<text id="report.options.main" h="31B3DC7C">Konfigurirajte okno Poročilo tako, da spremenite naslednje možnosti:</text>
+		<text id="report.options.reset" h="B02C5E5A">Ponastavi na vnaprej določeno</text>
+		<text id="report.options.severity" h="B9C34921">Izberi vrsto sporočil, ki bodo prikazane v oknu Orodja za poročila:</text>
+		<text id="report.options.severity.document" h="5CD972FF">Sporočila o operacijah z dokumenti PDF</text>
+		<text id="report.options.severity.fileOperations" h="CAB821C9">Sporočila o operacijah datotek (odpiranje, ustvarjanje, urejanje itd.)</text>
+		<text id="report.options.severity.info" h="A8EA107E">Sporočila o informacijah</text>
+		<text id="report.options.severity.summary" h="692A1A26">Povzetek informacij o rezultatu izvedbe orodja</text>
+		<text id="report.options.severity.title" h="B282840A">Vrste sporočil</text>
+		<text id="report.options.severity.warning" h="13217901">Opozorila (sporočila o dogodkih, ki lahko vplivajo na rezultat izvedbe orodja)</text>
+		<text id="report.options.showtimestamp" h="2A6DB7B2">Pokaži časovni žig za sporočila v poročilu</text>
+		<text id="reprocess.files" h="72A687D7">Znova obdelaj datoteke ob zagonu</text>
+		<text id="resetActionTip" h="D7E3E700">Ponastavi možnosti delovanja na vnaprej določene.</text>
+		<text id="resetact.warn" h="E5B97341">Ali želite ponastaviti možnosti dejanj na vnaprej določeno?
+To operacijo ni mogoče razveljaviti.
+		</text>
+		<text id="resetprops.btn" h="1008C3F9">Ponastavi</text>
+		<text id="resetprops.btntip" h="33DDB5A0">Pritisnite, da se ponastavi na začetno stanje</text>
+		<text id="resetseltools.warn" h="26BF4D94">Ali želite ponastaviti izbrana orodja na vnaprej določeno?
+To operacijo ni mogoče razveljaviti.
+		</text>
+		<text id="ressett.alert" h="9B2F79C2">Ali ste prepričani, da želite ponastaviti vse možnosti programa na privzeto in iti nazaj v standardna orodja s samo privzetimi možnostmi? OPOMBA: operacije ponastavitev ni mogoče razveljaviti.</text>
+		<text id="ressett.toolsalert" h="8CCEF1F1">Ponastavitev vseh možnosti vključuje vsa prilagojena orodja. Če želite nadaljevati to operacijo, pritisnite Da. OPOMBA: Operacije ponastavitve ni mogoče izvesti.</text>
+		<text id="resume" h="B0874E65">Nadaljuj</text>
+		<text id="sameimg.autobpp" h="A216C11C">Izberi samodejno globino barve</text>
+		<text id="sameimg.autobpp.info" h="9E850B3C">Če je označeno, se avtomatsko izbere barvna globina slike. Parameter tip slike iz oblike slike bo prezrt.</text>
+		<text id="saveas.ask" h="9DF35209">Poziv za dejanje</text>
+		<text id="saveas.auto" h="C820D6B5">Shrani z drugim novim edinstvenim imenom</text>
+		<text id="saveas.folder.ask" h="5DC29DB4">Vedno vprašaj za lokacijo datoteke</text>
+		<text id="saveas.folder.cust" h="C9BD54EB">Uporabi po meri določeno mapo</text>
+		<text id="saveas.folder.src" h="5E2E8FE3">Uporabi izvorno mapo kot destinacijo</text>
+		<text id="saveas.overwrite" h="68C4F37C">Prepiši z novo datoteko</text>
+		<text id="saveas.skip" h="CE81D302">Obdrži obstoječe datoteke nespremenjene</text>
+		<text id="saveas.text" h="7D366800">Ko datoteka že obstaja:</text>
+		<text id="saveimg.default.folder" h="DCD2AF9C">Mapa dokumenta</text>
+		<text id="saveimg.default.name" h="5A425CCC">Brez naslova</text>
+		<text id="saveimg.grouping.apart" h="8E717B39">Vsaka slika v ločeno datoteko</text>
+		<text id="saveimg.grouping.groupall" h="9E5BA5E4">Vse slike v eno večstransko slikovno datoteko</text>
+		<text id="saveimg.grouping.groupdoc" h="E86A1581">Vse slike iz enega dokumenta v eno večstransko slikovno datoteko</text>
+		<text id="saveimg.grouping.grouppage" h="FDF715C4">Vse slike iz ene strani v eno večstransko slikovno datoteko</text>
+		<text id="savereport.to" h="861DD843">Shrani poročilo ...</text>
+		<text id="searchActionTip" h="3591BAD8">Iskanje dejanja ...</text>
+		<text id="searchToolTip" h="435392D9">Orodje za iskanje ...</text>
+		<text id="secinfo.grp" h="F5A61224">Informacijska varnost</text>
+		<text id="secsetting.init.warn" h="61B936AD">Dejanje &lt;b&gt;"%1"&lt;/b&gt; je treba pred uporabo inicializirati.
+Ali želite nadaljevati z izvajanjem orodja in inicializirati dejanje?
+		</text>
+		<text id="secsettings.btn" h="9147CD71">Nastavitve</text>
+		<text id="selPages.all" h="7D499596">Vse strani</text>
+		<text id="selPages.dlg" h="4B381B82">Izberi strani</text>
+		<text id="selPages.even" h="CDE5C1A0">Sode strani</text>
+		<text id="selPages.exact" h="23952CFD">Strani:</text>
+		<text id="selPages.fromsubset" h="3ADEE045">iz "%1" podmnožice</text>
+		<text id="selPages.odd" h="242E0666">Lihe strani</text>
+		<text id="select.ovrfile" h="74E5784A">Izberi prekrivno datoteko</text>
+		<text id="selectDestFolder" h="D0F102DD">Izberi ciljno mapo</text>
+		<text id="selectHotfolder.lbl" h="3A4859F6">Izberi mapo za spremljanje:</text>
+		<text id="sendmail.archive.defaultname" h="F758C4E9">Brez naslova</text>
+		<text id="sendmail.by" h="8EF165F7">Po:</text>
+		<text id="sendmail.chk.intoone" h="BE171523">Vse datoteke prenesi v eno e-pošto</text>
+		<text id="sendmail.chk.priority" h="846616F7">Nastavi e-pošto kot prednostno nalogo</text>
+		<text id="sendmail.client" h="E8D90FF3">Namizni poštni odjemalec</text>
+		<text id="sendmail.compress.alltoone" h="C303528D">Vse datoteke v enem arhivu</text>
+		<text id="sendmail.compress.eachfile" h="B972BFCC">Vsaka datoteka v posebnem arhivu</text>
+		<text id="sendmail.compress.none" h="F9398D7D">Nič</text>
+		<text id="sendmail.edt.cue" h="A179CC6C">Sporočilo o napaki ...</text>
+		<text id="sendmail.from" h="976952DD">Od:</text>
+		<text id="sendmail.lbl.arcname" h="A630D28B">Ime arhiva:</text>
+		<text id="sendmail.lbl.compress" h="BC1093D8">Stisni:</text>
+		<text id="sendmail.log.cantcreatearchive" h="B40CACC8">Ni mogoče ustvariti arhiv za pošiljanje</text>
+		<text id="sendmail.log.nofiles" h="4C7A563E">Ni datotek za pošiljanje</text>
+		<text id="serializing" h="92752B4F">Serializing %1 ...</text>
+		<text id="setup.grp" h="95DF47CE">Možnosti za nadzor mape</text>
+		<text id="setuphotfolder.dlg.caption" h="EDC6E6EA">Sledenje mapi</text>
+		<text id="showFiles.enabled" h="2532774E">Omogočeno</text>
+		<text id="showFiles.launchAssocApp" h="FE936D7D">Oglejte si datoteke, uporabljajoč zunanji program, povezan z njimi</text>
+		<text id="showFiles.launchAssocAppWarn" h="97CF77EB">Število datotek v ogledu je več kot ena. Istočasen ogled vseh lahko porabi preveč računalniških sredstev. Ali ste prepričani, da jih želite videti?</text>
+		<text id="showFiles.openFolderAndSel" h="A95A4BE0">Odprite vsebujočo mapo in izberite datoteke</text>
+		<text id="showFiles.text" h="26A38ADF">Izberi dejanje:</text>
+		<text id="showMoreOpts" h="24B13299">Vse možnosti ...</text>
+		<text id="showMoreOpts2" h="64C40213">Več možnosti ...</text>
+		<text id="showMoreOptsTip" h="C60CDB73">Klikni za prikaz vseh možnosti ...</text>
+		<text id="showMoreOptsTip2" h="145A1CAD">Klikni za prikaz naprednih možnosti ...</text>
+		<text id="showSetupUI" h="0E94449E">Prikaži pogovorno okno za namestitev med delovanjem</text>
+		<text id="showSetupUITip" h="0E94449E">Prikaži pogovorno okno za namestitev med delovanjem</text>
+		<text id="size" h="17A58A52">Velikost</text>
+		<text id="sizelimit.nolimit" h="8E135818">Brez omejitev</text>
+		<text id="skipaction.b" h="A37FB4B0">Preskoči dejanje</text>
+		<text id="skipdocsWithText" h="2683C8E5">Ne izvajaj OCR na dokumentih, ki imajo besedilo</text>
+		<text id="skipped" h="B7D8BB1E">preskoči</text>
+		<text id="smmanual.chk" h="563576E6">Prikaži pogovorno okno za ročno razcepitev/spajanje</text>
+		<text id="smmethod" h="C894DD7E">Metoda</text>
+		<text id="smmethod.all2one" h="B3E7239B">Vse strani v enem dokumentu</text>
+		<text id="smmethod.asis" h="4C3BC0E6">Naj bo vhodni dokument(e), kot je</text>
+		<text id="smmethod.bookmarks" h="44B3EE11">Razdeljen po zaznamkih</text>
+		<text id="smmethod.npages" h="2D67CBA9">Vsako n-stran v ločen dokument</text>
+		<text id="smreverse.chk" h="B766066F">Povratne strani</text>
+		<text id="sourcepage" h="5D6277DD">Stran vira</text>
+		<text id="sourcetitle" h="81E00BC2">Naslov vira</text>
+		<text id="specific" h="67D7437D">Specifičen</text>
+		<text id="status" h="9FB9C788">Status</text>
+		<text id="stdAll" h="C80F4913">Vsi standardi</text>
+		<text id="stdToolsGrName" h="1906BB71">Standardna orodja</text>
+		<text id="stop" h="F89FDAAE">Stop</text>
+		<text id="targettitle" h="F87B6FA7">Ciljen naslov</text>
+		<text id="timefmt.day" h="EF28C7D2">%1 dan</text>
+		<text id="timefmt.days" h="F3C5276C">%1 dni</text>
+		<text id="timefmt.days.short" h="E1985A1D">%1d</text>
+		<text id="timefmt.hour" h="CDADDDAA">%1 ur</text>
+		<text id="timefmt.hours" h="E9410F6D">%1 ure</text>
+		<text id="timefmt.hours.short" h="4D2D1511">%1h</text>
+		<text id="timefmt.minute" h="2D014E0C">%1 minut</text>
+		<text id="timefmt.minutes" h="781A3650">%1 minute</text>
+		<text id="timefmt.minutes.short" h="305AE154">%1m</text>
+		<text id="timefmt.second" h="CDE322F6">%1 sekunda</text>
+		<text id="timefmt.seconds" h="D24DF2F6">%1 sekund</text>
+		<text id="timefmt.seconds.short" h="E41BDE8B">%1s</text>
+		<text id="title.choosepages" h="4B381B82">Izberi strani</text>
+		<text id="tool" h="7D3C7CB2">Orodje</text>
+		<text id="tool.addBatesNumbering" h="5987A707">Dodaj Bates oštevilčevanje</text>
+		<text id="tool.addBatesNumbering.desc" h="19058FA5">Zagotavlja Bates številčenje za indeksiranje pravnih dokumentov, za lažje prepoznavanje in dostopnost, itd</text>
+		<text id="tool.addDigSign" h="97DD789F">Dodaj digitalni podpis</text>
+		<text id="tool.addDigSign.desc" h="84946427">Doda novo podpisno polje za PDF in jih podpiše, z uporabo certifikata digitalnega ID-ja.</text>
+		<text id="tool.addHeaderAndFooter" h="71EBAC62">Dodaj glavo in nogo</text>
+		<text id="tool.addHeaderAndFooter.desc" h="36AA73F6">Doda glavo in/ali nogo na stran. Glava/Noga lahko vključuje datum, samodejno številčenje strani, naslov, avtorja, itd</text>
+		<text id="tool.addPagesBackground" h="20D4DB07">Nastavi ozadje strani</text>
+		<text id="tool.addPagesBackground.desc" h="C639A1B2">Nastavi navadno ali grafično ozadje za obstoječo vsebino strani.</text>
+		<text id="tool.addTimeStamp" h="837FE6FB">Časovna oznaka datotek PDF</text>
+		<text id="tool.addTimeStamp.desc" h="4D80E50C">Doda časovni žig pooblaščenega strežnika, ki določa natančne vsebine celotne datoteke PDF v času, ko se uporablja žig.</text>
+		<text id="tool.addWatermarks" h="F5662DD3">Dodaj vodni žig</text>
+		<text id="tool.addWatermarks.desc" h="434D9E42">Doda besedilo ali sliko, ki se prikaže bodisi pred ali za obstoječo vsebino strani.</text>
+		<text id="tool.bookmarksBuildTOC" h="2B3E9BF1">Zgradi kazalo vsebine</text>
+		<text id="tool.bookmarksBuildTOC.desc" h="1D694D80">Ustvari kazalo vsebine na podlagi strukture zaznamkov dokumentov in strani, na katere kažejo.</text>
+		<text id="tool.bookmarksExport" h="F3EE1781">Izvozi zaznamke</text>
+		<text id="tool.bookmarksExport.desc" h="BB39B78E">Izvozi vse zaznamke iz dokumenta</text>
+		<text id="tool.bookmarksExportToText" h="01135DA3">Izvozi zaznamke v besedilno datoteko</text>
+		<text id="tool.bookmarksExportToText.desc" h="F351FF49">Shrani strukturo zaznamkov PDF dokumenta v besedilno datoteko</text>
+		<text id="tool.bookmarksFromText" h="383A949B">Ustvari zaznamke iz besedila strani</text>
+		<text id="tool.bookmarksFromText.desc" h="1EF3AF08">Ustvari zaznamke iz besedila dokumenta z uporabo danega sloga in parametrov pisave.</text>
+		<text id="tool.bookmarksFromTextFile" h="CA5176DD">Uvozi zaznamke iz besedilne datoteke</text>
+		<text id="tool.bookmarksFromTextFile.desc" h="792D900F">Ustvari zaznamke v dokumentu PDF iz besedilne datoteke.</text>
+		<text id="tool.bookmarksImport" h="DC7F6AD5">Uvozi zaznamke</text>
+		<text id="tool.bookmarksImport.desc" h="40AC7812">Uvozi zaznamke v dokument iz predhodno izvožene datoteke</text>
+		<text id="tool.certifyPDF" h="52B0ED47">Overi PDF-je</text>
+		<text id="tool.certifyPDF.desc" h="828838CF">Zaščiti PDF dokumente z overjanjem, z določeno vrsto podpisnega polja, imenovano overjen podpis.</text>
+		<text id="tool.changeProps" h="89CBAD2F">Značilnosti sprememb dokumenta</text>
+		<text id="tool.changeProps.desc" h="40BD1FE7">Nastavi značilnosti dokumenta: naslov, predmet, ključne besede itd.</text>
+		<text id="tool.clearDigSign" h="361BBD36">Počisti vse digitalne podpise</text>
+		<text id="tool.clearDigSign.desc" h="E1CDD425">Odstrani vsa digitalna potrdila, če je le mogoče, ostanejo nepodpisana polja za podpisovanje.</text>
+		<text id="tool.convertToPDFA" h="86709E15">Pretvarjanje v PDF/A</text>
+		<text id="tool.convertToPDFA.desc" h="7DDE1660">Naredi dokumente PDF v skladu s standardom PDF/A za dolgoročne potrebe po arhiviranju in shranjevanju.</text>
+		<text id="tool.convertToPDFX" h="1D70370D">Pretvori v PDF/X</text>
+		<text id="tool.convertToPDFX.desc" h="CB599882">Dokumente PDF uskladi s standardom PDF/X za izmenjavo tiskanih podatkov.</text>
+		<text id="tool.copied" h="348DE55D">Kopiraj</text>
+		<text id="tool.createWeblinks" h="F68EDD51">Ustvari spletne povezave</text>
+		<text id="tool.createWeblinks.desc" h="6971A17D">Ustvari spletne povezave iz vsebine besedila v dokumentu.</text>
+		<text id="tool.cropPages" h="54A95B63">Obreži stran</text>
+		<text id="tool.cropPages.desc" h="A9A477BE">Prilagodi vidno stran področja, spremeni ali odstrani bele robove na straneh, določi polje strani.</text>
+		<text id="tool.deleteComments.all" h="E8642222">Izbriši vse komentarje</text>
+		<text id="tool.deleteComments.all.desc" h="818B531A">Izbriši vse komentarje iz dokumenta.</text>
+		<text id="tool.deleteComments.form" h="37ECB4B5">Izbriši polja obrazca</text>
+		<text id="tool.deleteComments.form.desc" h="C5D21570">Izbriši polja obrazca iz dokumenta.</text>
+		<text id="tool.deleteComments.links" h="CC8F1411">Počisti povezave</text>
+		<text id="tool.deleteComments.links.desc" h="66D48AF5">Brisanje povezav iz dokumenta.</text>
+		<text id="tool.deleteComments.markup" h="EA5127FB">Brisanje komentarjev za označevanje</text>
+		<text id="tool.deleteComments.markup.desc" h="80CD5AA0">Brisanje komentarjev označevanja iz dokumenta.</text>
+		<text id="tool.deleteComments.weblinks" h="87C8439E">Počisti spletne povezave</text>
+		<text id="tool.deleteComments.weblinks.desc" h="158E179F">Izbriši spletne povezave iz dokumenta.</text>
+		<text id="tool.deletePages" h="E5284839">Izbriši strani</text>
+		<text id="tool.deletePages.desc" h="4E1EBD43">Počisti strani iz dokumenta.</text>
+		<text id="tool.descTip" h="04F6C0B5">Vnesi opis orodja ...</text>
+		<text id="tool.discardPDFStd" h="E608B980">Zavrzi poseben PDF standard</text>
+		<text id="tool.discardPDFStd.desc" h="947EF232">Zavrzi informacije o posebnem standardu PDF, na primer PDF/X, PDF/A, PDF/E itd.</text>
+		<text id="tool.duplicatePages" h="14C45200">Podvajanje strani</text>
+		<text id="tool.duplicatePages.desc" h="0FD26A6C">Podvajanje strani dokumentov PDF.</text>
+		<text id="tool.enhanceScannedPages" h="0A810C6E">Izboljšaj optično prebrane strani</text>
+		<text id="tool.enhanceScannedPages.desc" h="95589020">Izboljša optično prebrane slike v dokumentih PDF in tako izboljša branje in zmanjša velikost datoteke.</text>
+		<text id="tool.extractImagesFromPDF" h="4CF9FEB6">Izvleci slike iz PDF</text>
+		<text id="tool.extractImagesFromPDF.desc" h="C53280A8">Pregleda PDF za rastrskimi slikami in jih izvleče iz vsebine dokumenta, ter jih shrani v datoteko na disku.</text>
+		<text id="tool.extractPages" h="7AE73EC1">Izvleček strani</text>
+		<text id="tool.extractPages.desc" h="54BB795B">Izvleči navedeni obseg strani iz dokumenta PDF v nov dokument.</text>
+		<text id="tool.filesToPDF" h="4CD7DD2F">Pretvori datoteke v PDF-je</text>
+		<text id="tool.filesToPDF.desc" h="603206C4">Pretvori vhodne datoteke podprtih formatov v PDF.</text>
+		<text id="tool.flattenComments" h="CBA1AA18">Splošči pripombe</text>
+		<text id="tool.flattenComments.desc" h="20A41E96">Pretvori komentarje v osnovne elemente vsebine.</text>
+		<text id="tool.imagesToPDF" h="B0C7E05C">Ustvari PDF iz slike</text>
+		<text id="tool.imagesToPDF.desc" h="0FDB3BE0">Ustvari posamezen PDF dokument iz ene ali več rastrskih slik.</text>
+		<text id="tool.insertEmptyPages" h="3779032F">Vstavi prazne strani</text>
+		<text id="tool.insertEmptyPages.desc" h="65380D33">Vstavi prazne strani v dokument.</text>
+		<text id="tool.insertPages" h="6B486B45">Vstavi strani</text>
+		<text id="tool.insertPages.desc" h="E986FB1C">Vstavljanje strani v dokument iz drugega dokumenta.</text>
+		<text id="tool.isused" h="F0A66FDB">Orodja &lt;b&gt;"%1"&lt;/b&gt; ni mogoče izbrisati.
+Uporablja ga nadzornik map.
+		</text>
+		<text id="tool.nameTip" h="92682EAF">Vnesi ime orodja ...</text>
+		<text id="tool.new.name" h="6431F60C">Novo orodje</text>
+		<text id="tool.ocrPages" h="D2A189BC">OCR strani</text>
+		<text id="tool.ocrPages.desc" h="E9D91493">Optično prepozna znake besedila v PDF dokumentu, ustvari plast za selekcioniranje in iskanje besedila na straneh.</text>
+		<text id="tool.optimizePDF" h="E369C144">Optimiziraj PDF</text>
+		<text id="tool.optimizePDF.desc" h="2DDF7F6C">Optimizira vsebino dokumenta za zmanjšanje velikosti datoteke PDF, če je to mogoče.</text>
+		<text id="tool.overlayDoc" h="A113E021">Prekrivanje PDF</text>
+		<text id="tool.overlayDoc.desc" h="8AC5B664">Prekrivanje PDF dokumentov z drugimi dokumenti PDF.</text>
+		<text id="tool.pageTransitions" h="B5EF0B7A">Prilagajanje prehoda strani</text>
+		<text id="tool.pageTransitions.desc" h="33F5B755">Spremembe prehoda strani v celozaslonskem načinu.</text>
+		<text id="tool.pdfToDOCX" h="D89F515F">Izvozi PDF v Microsoft Wordov dokument</text>
+		<text id="tool.pdfToDOCX.desc" h="D34FB81F">Izvoz dokumentov PDF v Microsoft Word-ov dokument (*.docx).</text>
+		<text id="tool.pdfToImages" h="6DC3C315">Izvozi PDF v slike</text>
+		<text id="tool.pdfToImages.desc" h="87E8923B">Preprosto izvozi strani iz enega ali več dokumentov PDF v druge formate rastrskih slik, vključno z JPEG, PNG, TIFF, itd</text>
+		<text id="tool.pdfToPPTX" h="E673A7B8">Izvozi PDF v Microsoft PowerPoint predstavitev</text>
+		<text id="tool.pdfToPPTX.desc" h="65E608C6">Izvoz dokumentov PDF v predstavitev Microsoft PowerPoint datoteke (*.pptx).</text>
+		<text id="tool.pdfToTXT" h="29DDD177">Izvozi PDF v golo besedilo</text>
+		<text id="tool.pdfToTXT.desc" h="9C277C15">Izvoz dokumentov PDF v datoteko golo besedilo (*.txt).</text>
+		<text id="tool.pdfToXSLX" h="A31C131A">Izvozi PDF v preglednico Microsoft Excel</text>
+		<text id="tool.pdfToXSLX.desc" h="325AEA86">Izvozi datoteke PDF v datoteke Microsoft Excel (*.xlsx)</text>
+		<text id="tool.printDocument" h="4F3750AE">Tiskanje dokumentov</text>
+		<text id="tool.printDocument.desc" h="52ECFAA3">Natisni vse vhodne dokumente.</text>
+		<text id="tool.removeBackground" h="E0246483">Odstrani ozadje strani</text>
+		<text id="tool.removeBackground.desc" h="17700648">Odstrani prilagojene ozadje na straneh, obnovi privzeto, solidno belo ozadje.</text>
+		<text id="tool.removeBatesNumbering" h="901F5ABD">Odstrani Bates oštevilčevanje</text>
+		<text id="tool.removeBatesNumbering.desc" h="E4FBEB3C">Odstrani Bates številčenje.</text>
+		<text id="tool.removeHeaderAndFooter" h="11E8A996">Odstrani glavo in nogo</text>
+		<text id="tool.removeHeaderAndFooter.desc" h="E1CC0743">Odstrani vse obstoječe glave in noge.</text>
+		<text id="tool.removeWatermarks" h="93F16CE2">Odstrani vodni žig</text>
+		<text id="tool.removeWatermarks.desc" h="AFCD3BD4">Odstrani vse vodne žige v dokumentu.</text>
+		<text id="tool.replacePages" h="1311083C">Zamenjava strani</text>
+		<text id="tool.replacePages.desc" h="9C48D712">Spreminjanje strani v dokumentu na strani iz izbranega dokumenta.</text>
+		<text id="tool.report.dlg" h="E9D63CB7">Orodno poročilo</text>
+		<text id="tool.report.filename" h="C7908B93">Orodno izvedeno poročilo</text>
+		<text id="tool.report.save" h="418B87C2">Shrani v datoteko ...</text>
+		<text id="tool.resizePages" h="8A5C31F1">Spreminjanje velikosti strani</text>
+		<text id="tool.resizePages.desc" h="822401DC">Poveča ali zmanjša velikost strani, vsebina strani se lahko po želji zmanjša.</text>
+		<text id="tool.rotatePages" h="CBD82045">Zavrti strani</text>
+		<text id="tool.rotatePages.desc" h="66235E38">Obrni določene strani za 90 stopinj v smeri urinega kazalca ali v nasprotni smeri v PDF dokumentu.</text>
+		<text id="tool.scanToPDF" h="B9A05395">Optično branje v PDF</text>
+		<text id="tool.scanToPDF.desc" h="521CD5C0">Ustvari nov PDF dokument neposredno iz papirnatega dokumenta, s svojim optičnim bralnikom.</text>
+		<text id="tool.securePDF" h="400E69FB">Zaščiti PDF</text>
+		<text id="tool.securePDF.desc" h="322DE365">Ščiti vaš PDF dokument z geslom, ki je potreben za odpiranje ali spreminjanje vsebine.</text>
+		<text id="tool.sendMail" h="9377A75B">Pošlji E-pošto</text>
+		<text id="tool.sendMail.desc" h="13681586">Pošlje datoteke na določen e-poštni naslov z uporabo trenutne metode pošiljanja pošte.</text>
+		<text id="tool.splitMergePDF" h="51A86996">Razcepi/Združi PDF-je</text>
+		<text id="tool.splitMergePDF.desc" h="73710D3B">Kombinira vse vhodne PDF datoteke v eno ali jih razdeli na nove PDF datoteke, samodejno in/ali ročno.</text>
+		<text id="tool.splitPages" h="2648812F">Razdeli strani</text>
+		<text id="tool.splitPages.desc" h="4FA35C77">Razdeli strani PDF dokumentov.</text>
+		<text id="tool.summarizeComments" h="2233C1CD">Povzemi komentarje</text>
+		<text id="tool.summarizeComments.desc" h="8EA1DEF5">Ustvari povzetek vseh komentarjev v dokumentu PDF.</text>
+		<text id="tool.textToPDF" h="ECE46B63">Ustvari PDF iz besedila</text>
+		<text id="tool.textToPDF.desc" h="E1CF697C">Ustvari posamezen PDF dokument iz enega ali več besedilnih datotek.</text>
+		<text id="tool.warn.actIncompatible" h="AE17E68E">to dejanje ni združljivo z dejanjem &lt;u&gt;%1&lt;/u&gt;. Enega od teh dejanj je treba preskočiti</text>
+		<text id="tool.warn.actInvalid1" h="8442B509">Ena ali več problematik, je bilo najdenih zaradi tega delovanja:</text>
+		<text id="tool.warn.actInvalid2" h="442E6045">Problematika je bila najdena zaradi tega delovanja:</text>
+		<text id="tool.warn.actReqDoc" h="76C84E2B">to dejanje zahteva PDF, slike ali druge podprte datoteke kot vhod</text>
+		<text id="tool.warn.actReqFile1" h="0B30D02F">to dejanje zahteva datoteke kot vhod - lahko vstavite dejanje &lt;u&gt;%1&lt;/u&gt; pred rešitvijo problema</text>
+		<text id="tool.warn.actReqFile2" h="CA8342FE">to dejanje zahteva datoteke kot vhod</text>
+		<text id="tool.warn.actReqFile21" h="65B62BA0">videti je, da ste pozabili vstaviti &lt;u&gt;%1&lt;/u&gt; dejanje pred tem</text>
+		<text id="tool.warn.actReqImg" h="D28A3C63">to dejanje zahteva slike kot vhod</text>
+		<text id="tool.warn.actReqSaveRes" h="3621DC81">je potrebno, da shranite rezultat tega dejanja na disk - lahko vstavite dejanje &lt;u&gt;%1&lt;/u&gt; po rešitvi problema</text>
+		<text id="tool.warn.actReqSaveRes2" h="9B55FE54">orodje vsebuje &lt;u&gt;%1&lt;/u&gt; med prejšnjimi delovanji in njegovi rezultati morajo biti shranjeni pred uporabo &lt;i&gt;tega&lt;/i&gt; dejanja. Morate dodati &lt;u&gt;%2&lt;/u&gt; dejanje</text>
+		<text id="tool.warn.actTitle" h="7330FC41">&lt;u&gt;%1&lt;/u&gt; dejanje:</text>
+		<text id="tool.warn.cancel" h="8DD6365D">Ali želite ustaviti orodje &lt;b&gt;"%1"&lt;/b&gt; zaradi izvajanja? Če ne, kliknite &lt;b&gt;Ne&lt;/b&gt;, da nadaljujte z delom ...</text>
+		<text id="tool.warn.empty" h="D05A0C43">to orodje je prazno - lahko kliknete gumb '&lt;b&gt;Uredi&lt;/b&gt;' na orodni vrstici in dodate dejanje za ustvarjanje delovnega orodja.</text>
+		<text id="tool.warn.empty2" h="B4FD144F">Orodje je prazno:nobenih dejanj ni.</text>
+		<text id="tool.warn.imgNotFound" h="9A768995">Slike ni bilo mogoče najti.</text>
+		<text id="tool.warn.invalidActList" h="A2BB75D7">Orodje ima neveljaven seznam akcij.</text>
+		<text id="tool.warn.nextActNotSuitable" h="17376D04">&lt;i&gt;naslednje&lt;/i&gt; dejanje ni primerno, ker ne sprejema rezultate od &lt;i&gt;tega&lt;/i&gt; dejanja kot vhod</text>
+		<text id="tool.warn.nextActNotSuitable2" h="49941252">lahko vstavite &lt;u&gt;%1&lt;/u&gt; dejanje po &lt;i&gt;tem&lt;/i&gt; za rešitev problema</text>
+		<text id="tool.warn.nooperation" h="0063BA81">ne morete ustvariti operacijo za to dejanje. Namestite ali popravite ustrezen vtičnik</text>
+		<text id="tool.warn.runInvalid" h="58A31432">&lt;b&gt;"%1"&lt;/b&gt; orodje je neveljavno. Da ga lahko uporabljate, morate popraviti seznam dejanj. Želite urediti orodje?</text>
+		<text id="tool.warn.toolInvalid1" h="D448BEEB">Ena ali več problematik, je bilo najdenih pri tem orodju:</text>
+		<text id="tool.warn.toolInvalid2" h="560926B8">Problematika je bila najdena pri tem orodju:</text>
+		<text id="toolActionsList" h="C9BE1A16">Zaporedje orodnih dejanj</text>
+		<text id="toolCategories" h="DB5C4D49">Kategorije</text>
+		<text id="toolInfo" h="979A9FE1">Orodne informacije</text>
+		<text id="toolInfo.defaultDesc" h="D1FD06B6">Izberi orodje iz seznama orodij za prikaz informacij.</text>
+		<text id="toolcat.PDFStandard" h="E51FAF25">PDF standard</text>
+		<text id="toolcat.advanced" h="59A2B513">Napredno</text>
+		<text id="toolcat.all" h="BF2EE9E9">Vsa orodja</text>
+		<text id="toolcat.bookmarks" h="E2032460">Zaznamki</text>
+		<text id="toolcat.comments" h="FA5EB905">Komentarji</text>
+		<text id="toolcat.createPDF" h="ACF7EBD1">Ustvari PDF</text>
+		<text id="toolcat.customTools" h="22F07048">Orodja po meri</text>
+		<text id="toolcat.exportPDF" h="4AE54AB5">Izvozi PDF</text>
+		<text id="toolcat.favorites" h="310DA860">Priljubljene</text>
+		<text id="toolcat.importedTools" h="48FF1B1E">Uvožena orodja</text>
+		<text id="toolcat.mostUsed" h="6274AE53">Najpogosteje uporabljeno</text>
+		<text id="toolcat.newname" h="DB2A8F96">Nove kategorije</text>
+		<text id="toolcat.optimizePDF" h="E369C144">Optimiziraj PDF</text>
+		<text id="toolcat.pages" h="47B1CB74">Strani</text>
+		<text id="toolcat.protection" h="B7EE190B">Zaščita</text>
+		<text id="toolcat.recents" h="F90189AF">Nedavni</text>
+		<text id="toolsList" h="CA8BB4DB">Orodja</text>
+		<text id="toolselect.lbl" h="ECBB264F">Izberi orodje za izvedbo:</text>
+		<text id="toolslist.drop.nofiles" h="4F3412DD">Ni datotek, ki bi jih bilo treba spustiti.</text>
+		<text id="toolslist.tip.icofavorite.add" h="F53B42E1">Kliknite, če želite dodati orodje v kategorijo priljubljenih</text>
+		<text id="toolslist.tip.icofavorite.remove" h="04AC30FF">Orodje je v priljubljeni kategoriji.Kliknite, če želite odstraniti orodje iz kategorije priljubljenih</text>
+		<text id="toolslist.tip.icomonitor" h="4A7E7A48">Orodje se uporablja v mapi Folder Monitor</text>
+		<text id="toolslist.tip.icouser" h="9864F819">Orodje po meri</text>
+		<text id="toolsview.warning.emptyname" h="38B7A2E0">Ime orodja ne sme biti prazno.</text>
+		<text id="type" h="710B61B4">Tip</text>
+		<text id="userui.disable" h="14084105">Onemogoči interakcijo</text>
+		<text id="userui.tooltip" h="439FDF26">Ta nastavitev onemogoča vso interakcijo uporabniškega vmesnika, ko se izvajajo orodja, kot so pogovorna okna za prilagajanje in prikaz izhodnih datotek.OPOMBA: Inicializacija je potrebna za nekatera orodja, kot so &lt;b&gt;"%1"&lt;/b&gt;, zato se bo namestitev prikazala ob prvem zagonu.</text>
+		<text id="userui.usetool" h="D5A05798">Uporabi nastavitve za orodja</text>
+		<text id="usetool.filter" h="4885292B">Uporaba filtra iz orodja</text>
+		<text id="warn.textDocSkipOCR" h="FB74BE26">Dokument PDF vsebuje besedilo. Operacije OCR bo sedaj izvedena</text>
+		<text id="weblinks.grp" h="BC392B82">Izberi strani za ustvarjanje spletnih povezav:</text>
+		<text id="wrong.file.msg" h="9F0126B0">Ne morem odpreti prekrivnega PDF-ja:&lt;b&gt;%1&lt;/b&gt;%2 Ali želite izbrati še enega?</text>
+	</Strings>
+</Localization>

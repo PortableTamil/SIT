@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220334">2.00.00</Version>
+	<Author>Jungle, Inc</Author>
+	<Copyright></Copyright>
+	<Product id="XCShellMenu"/>
+	<Language eName="Japanese (Japan)" lName="日本語" code="ja-JP" R2L="false"/>
+	<Module name="XCShellMenu" namespace="" version="6.0.322.7"/>
+	<Strings>
+		<text id="menu.open" h="D08F8302">PDFXChange Editor で開く</text>
+		<text id="menu.combine" h="BF3B40FB">PDFXChange Editor で結合</text>
+		<text id="menu.open.help" h="DB2C9B04">PDFXChange Editor でファイルを開く</text>
+		<text id="menu.combine.help" h="3E8460C6">PDFXChange Editor でファイルを結合</text>
+	</Strings>
+</Localization>

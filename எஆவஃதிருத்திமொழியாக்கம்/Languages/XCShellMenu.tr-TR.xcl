@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180402174800">2.00.00</Version>
+	<Author>Tülay Ongun</Author>
+	<Copyright></Copyright>
+	<Product id="XCShellMenu"/>
+	<Language eName="Turkish (Turkey)" lName="Türkçe" code="tr-TR" R2L="false"/>
+	<Module name="XCShellMenu" namespace="" version="7.0.324.4"/>
+	<Strings>
+		<text id="menu.open" h="D08F8302">PDFXChange Editor' de açma</text>
+		<text id="menu.combine" h="BF3B40FB">PDFXChange Editor' de birleştirme</text>
+		<text id="menu.open.help" h="DB2C9B04">PDFXChange Editor' de dosya açma</text>
+		<text id="menu.combine.help" h="3E8460C6">PDFXChange Editor' de dosya birleştirme</text>
+	</Strings>
+</Localization>

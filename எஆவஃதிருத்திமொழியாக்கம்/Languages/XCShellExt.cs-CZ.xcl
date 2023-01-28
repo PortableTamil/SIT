@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171220231301">2.00.00</Version>
+	<Author>Martin Paulík</Author>
+	<Copyright>TERAGON SW s.r.o.
+www.pdfxchange.cz</Copyright>
+	<Product id="XCShellExt"/>
+	<Language eName="Czech (Czech Republic)" lName="čeština" code="cs-CZ" R2L="false"/>
+	<Module name="XCShellExt" namespace="" version="7.0.323.2"/>
+	<Strings>
+		<text id="title" h="930D3835">Název:</text>
+		<text id="subject" h="A59102F6">Předmět:</text>
+		<text id="author" h="7E318A91">Autor:</text>
+		<text id="keywords" h="EE89DD49">Klíčová slova:</text>
+		<text id="keywords2" h="D125B2C4">Klíčová slova</text>
+		<text id="producer" h="30A8E856">Výrobce:</text>
+		<text id="producer2" h="C54CE945">Výrobce</text>
+		<text id="producer.description" h="3EFB9FA5">Název výrobce PDF</text>
+		<text id="size" h="17A58A52">Velikost</text>
+		<text id="encrypted" h="83E2242D">Zašifrovaný:</text>
+		<text id="encrypted2" h="0A613267">&lt;Zašifrovaný&gt;</text>
+		<text id="creator" h="48BB2AC2">Tvůrce:</text>
+		<text id="creator2" h="CF26EE59">Tvůrce</text>
+		<text id="creator.description" h="C2D9A34F">Název aplikace</text>
+		<text id="pdfVersion" h="4C06CDA5">Verze PDF</text>
+		<text id="pdfVersion2" h="52D57621">Verze PDF:</text>
+		<text id="pdfVersion.description" h="3087428D">Verze formátu PDF</text>
+		<text id="infoTip.pages" h="145D976C">Stránek: %d stránek
+		</text>
+		<text id="zoomMode.actualSize" h="5E4611C5">Skutečná velikost</text>
+		<text id="zoomMode.fitPage" h="E07FD6B2">Max. do plochy</text>
+		<text id="zoomMode.fitWidth" h="0AB6EA6C">Max. do šířky</text>
+		<text id="noPreview" h="6A6778D0">Náhled není dostupný</text>
+		<text id="MegaBytes" h="54CE5298">MB</text>
+		<text id="KiloBytes" h="71A50D44">KB</text>
+		<text id="GigaBytes" h="3B73B2FC">GB</text>
+		<text id="TeraBytes" h="79DF4A8D">TB</text>
+		<text id="bytes" h="01ABC3DA">bytů</text>
+		<text id="no" h="6651A799">Ne</text>
+		<text id="yes" h="DC948BC4">Ano</text>
+		<text id="numOfPages" h="114E2EF6">%1 stran</text>
+		<text id="notAllowed" h="50D7EDBB">Nepovoleno</text>
+		<text id="lowRes" h="D33F1C80">Nízké rozlišení</text>
+		<text id="fullyAllowed" h="1E5C0EC1">Povoleno</text>
+		<text id="allowed" h="D74F0AF3">Povoleno</text>
+		<text id="pdfInfo" h="E96E93B9">Informace o PDF</text>
+		<text id="docInfo" h="8E6BE160">Informace o dokumentu</text>
+		<text id="linearized" h="BA000D8B">Linearizováno:</text>
+		<text id="pages" h="23952CFD">Stránky:</text>
+		<text id="docSecurity" h="C4D42148">Zabezpečení dokumentu:</text>
+		<text id="printing" h="515F6B19">Tisk:</text>
+		<text id="changing" h="8F212BD7">Změny v dokumentu:</text>
+		<text id="copying" h="A3FBC31C">Kopírování obsahu nebo výtah:</text>
+		<text id="commenting" h="00D1CE97">Autorizace komentářů a formulářů:</text>
+		<text id="formFilling" h="000F1E62">Vyplňování formulářů a podepisování:</text>
+		<text id="contAccessibility" h="307DE41E">Přístup k obsahu povolen:</text>
+		<text id="docAssembly" h="54F5D6FC">Sestavení dokumentu:</text>
+		<text id="pageExtraction" h="4511684F">Výtah stránek:</text>
+		<text id="signing" h="D103863D">Podepisování:</text>
+		<text id="xcPropSheetCaption" h="E96E93B9">Informace o PDF</text>
+		<text id="tool.hand" h="1C47D4CB">Ručička</text>
+		<text id="cmd.view.goto.firstPage" h="DFC0D45F">První strana</text>
+		<text id="cmd.view.goto.firstPage.tip" h="631EFAFD">Jít na první stranu v dokumentu.</text>
+		<text id="cmd.view.goto.lastPage" h="1848BA27">Poslední strana</text>
+		<text id="cmd.view.goto.lastPage.tip" h="51B1BF96">Jít na poslední stranu v dokumentu.</text>
+		<text id="cmd.view.goto.prevPage" h="5F473CED">Předchozí strana</text>
+		<text id="cmd.view.goto.prevPage.tip" h="55CEF405">Jít na předchozí stranu v dokumentu.</text>
+		<text id="cmd.view.goto.nextPage" h="8695A6CE">Další strana</text>
+		<text id="cmd.view.goto.nextPage.tip" h="8F537F4E">Jít na další stranu v dokumentu.</text>
+		<text id="cmd.view.gotoPage" h="6A0FCD98">Jít na stranu číslo</text>
+		<text id="cmd.view.gotoPage.tip" h="DE1F81BE">Jít na zadanou stranu.</text>
+		<text id="cmd.zoomIn" h="21C9A3BF">Zvětšit</text>
+		<text id="cmd.zoomIn.tip" h="7A209714">Zvětšení stránky.</text>
+		<text id="cmd.zoomOut" h="7749FC62">Zmenšit</text>
+		<text id="cmd.zoomOut.tip" h="A00D108F">Zmenšení stránky.</text>
+		<text id="cmd.zoom.combo" h="71AD5FC1">Zvětšení</text>
+		<text id="cmd.zoom.combo.tip" h="9DAF1E10">Nastavit vlastní zvětšení pro dokument.</text>
+		<text id="cmd.zoom.level.actual" h="10ADBDEF">Skutečná velikost</text>
+		<text id="cmd.zoom.level.actual.tip" h="F4F3470F">Nastavit zvětšení na 100%, zobrazí stránky dokumentu v jejich skutečné velikosti.</text>
+		<text id="cmd.zoom.level.fitWidth" h="2EA35656">Max. do šířky</text>
+		<text id="cmd.zoom.level.fitWidth.tip" h="82C4DEAE">Nastavit zvětšení tak, aby se stránka vešla na šířku přesně do okna dokumentu.</text>
+		<text id="cmd.zoom.level.fitPage" h="2E705B13">Max. do plochy</text>
+		<text id="cmd.zoom.level.fitPage.tip" h="D2455889">Nastavit zvětšení tak, aby se stránka vešla přesně do okna dokumentu.</text>
+		<text id="cmd.tool.hand" h="648630C6">Ručička</text>
+		<text id="cmd.tool.hand.tip" h="97579DF6">Kliknout pro posun v dokumentu.</text>
+		<text id="cmd.selectLanguage" h="DF3F8256">Vybrat jazyk</text>
+		<text id="cmd.selectLanguage.tip" h="47EE650B">Výběr jazyka z podmenu.</text>
+		<text id="cmd.selectSysLang" h="31F4B9FA">Použít místní nastavení</text>
+		<text id="cmd.selectBuildInLang" h="1C70EF34">English(US)</text>
+	</Strings>
+</Localization>

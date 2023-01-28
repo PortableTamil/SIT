@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123214816">2.00.00</Version>
+	<Author>Angel Herráez</Author>
+	<Copyright></Copyright>
+	<Product id="XCShellMenu"/>
+	<Language eName="Spanish (Spain, Traditional Sort)" lName="Español" code="es-ES" R2L="false"/>
+	<Module name="XCShellMenu" namespace="" version="7.0.323.3"/>
+	<Strings>
+		<text id="menu.open" h="D08F8302">Abrir en PDF-XChange Editor</text>
+		<text id="menu.combine" h="BF3B40FB">Combinar en PDF-XChange Editor</text>
+		<text id="menu.open.help" h="DB2C9B04">Abrir archivos en PDF-XChange Editor</text>
+		<text id="menu.combine.help" h="3E8460C6">Combinar los archivos en PDF-XChange Editor</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627193931">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Finnish (Finland)" lName="Suomi" code="fi-FI" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="7.0.325.10"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">Avaa tiedosto Google Drivesta</text>
+		<text id="DlgSaveFile" h="81F99046">Tallenna tiedosto Google Driveen</text>
+		<text id="GDPlugin" h="32B7E3E0">Google Drive -laajennus</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Uusi kirjautuminen...</text>
+		<text id="btn.settings" h="EC675489">Asetukset...</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google Drive</text>
+		<text id="cmd.googledrive" h="1D28DF85">&amp;Google Drive</text>
+		<text id="cmd.open" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.open.tip" h="933837A2">Avaa asiakirja GoogleDrive-palvelusta.</text>
+		<text id="cmd.save" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.save.tip" h="948C3269">Tallenna aktiivinen asiakirja Google Drivelle.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Tiedostoa ei löydy</text>
+		<text id="cpt.invalidFileName" h="79C1387C">Virheellinen tiedostonimi</text>
+		<text id="cpt.navigateError" h="3D300A1C">Navigaatiovirhe</text>
+		<text id="cpt.saveReplace" h="520CB069">Tallenna tiedosto</text>
+		<text id="cpt.selectFile" h="C55D68B0">Tiedoston valinta</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Tiedostoa ei voi tallentaa kansioon</text>
+		<text id="dlg.googleAuth" h="E5642F22">Google Driven todennus</text>
+		<text id="fileName" h="DEC92488">Tiedostonimi:</text>
+		<text id="lb.CurrentFolder" h="44158804">Nykyinen kansio:</text>
+		<text id="lb.Test" h="273F3E5B">Test Test Test!</text>
+		<text id="lb.googleAccName" h="C94645A3">Google-tili:</text>
+		<text id="ls.column.created" h="FE6510B7">Luontipäivä</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Päivämäärä ja kellonaika kun tiedosto, kansio tai luettelo luotiin</text>
+		<text id="ls.column.extension" h="14FEB836">Pääte</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Tiedostopääte</text>
+		<text id="ls.column.modified" h="7E234D6D">Muokkauspäivä</text>
+		<text id="ls.column.modified.hint" h="12933E76">Päivämäärä ja kellonaika kun tiedostoa, kansiota tai luetteloa viimeksi muokattiin</text>
+		<text id="ls.column.size" h="17A58A52">Koko</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Tiedoston koko</text>
+		<text id="ls.column.title" h="D18643E3">Nimi</text>
+		<text id="ls.column.title.hint" h="6A895576">Tiedoston nimi, kansion nimi tai luettelon otsikko</text>
+		<text id="msg.fileNotFound" h="430E08B1">Tiedostoa "%1" ei löydy nykyisestä kansiosta.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">%1 ei ole kelvollinen tiedostonimi.</text>
+		<text id="msg.navigateError" h="2FCAA72A">Google Drive-resurssiin siirtyminen epäonnistui. Tarkista Internet-yhteytesi ja oikeudet, jotta voit käyttää pyydettyä Google Drive-resurssia.</text>
+		<text id="msg.openFailed" h="AC94D960">Tiedoston avaaminen epäonnistui. Varmista, että tiedosto on olemassa, ettei sitä ole kuitattu ulos toiselle käyttäjälle ja että sinulla on siihen lukuoikeudet.</text>
+		<text id="msg.saveFailed" h="4D413392">Tiedoston tallentaminen epäonnistui. Varmista, että tiedostonimi on kelvollinen ja että sinulla on siihen kirjoitusoikeudet.</text>
+		<text id="msg.saveReplace" h="5D56833E">Tiedosto %1 on jo olemassa. Haluatko korvata sen?</text>
+		<text id="msg.selectFile" h="2530C20F">Valitse tiedosto, ennen kuin painat OK</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Tiedostoa ei voi tallentaa valittuun paikkaan. Tallenna tiedosto 'Oma asema' -kansioon, yhteen sen alikansioista tai jokin 'Jaettu kanssani' -alikansioista.</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">Oma asema</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Jaettu kanssani</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123215335">2.00.00</Version>
+	<Author>Michael Dodl</Author>
+	<Copyright></Copyright>
+	<Product id="XCShellExt"/>
+	<Language eName="German (Germany)" lName="Deutsch" code="de-DE" R2L="false"/>
+	<Module name="XCShellExt" namespace="" version="7.0.323.3"/>
+	<Strings>
+		<text id="title" h="930D3835">Titel:</text>
+		<text id="subject" h="A59102F6">Betreff:</text>
+		<text id="author" h="7E318A91">Autor:</text>
+		<text id="keywords" h="EE89DD49">Schlüsselwörter:</text>
+		<text id="keywords2" h="D125B2C4">Schlüsselwörter</text>
+		<text id="producer" h="30A8E856">Produzent:</text>
+		<text id="producer2" h="C54CE945">Produzent</text>
+		<text id="producer.description" h="3EFB9FA5">Produzent:</text>
+		<text id="size" h="17A58A52">Größe</text>
+		<text id="encrypted" h="83E2242D">Verschlüsselt:</text>
+		<text id="encrypted2" h="0A613267">&lt;Verschlüsselt&gt;</text>
+		<text id="creator" h="48BB2AC2">Ersteller:</text>
+		<text id="creator2" h="CF26EE59">Ersteller</text>
+		<text id="creator.description" h="C2D9A34F">Anwendung:</text>
+		<text id="pdfVersion" h="4C06CDA5">Version</text>
+		<text id="pdfVersion2" h="52D57621">Version:</text>
+		<text id="pdfVersion.description" h="3087428D">Version:</text>
+		<text id="infoTip.pages" h="145D976C">Seiten: %d Seite(n)
+		</text>
+		<text id="zoomMode.actualSize" h="5E4611C5">Tatsächliche Größe</text>
+		<text id="zoomMode.fitPage" h="E07FD6B2">Seite einpassen</text>
+		<text id="zoomMode.fitWidth" h="0AB6EA6C">Breite einpassen</text>
+		<text id="noPreview" h="6A6778D0">Vorschau ist nicht verfügbar</text>
+		<text id="MegaBytes" h="54CE5298">MB</text>
+		<text id="KiloBytes" h="71A50D44">KB</text>
+		<text id="GigaBytes" h="3B73B2FC">GB</text>
+		<text id="TeraBytes" h="79DF4A8D">TB</text>
+		<text id="bytes" h="01ABC3DA">Bytes</text>
+		<text id="no" h="6651A799">Nein</text>
+		<text id="yes" h="DC948BC4">Ja</text>
+		<text id="numOfPages" h="114E2EF6">%d Seite(n)</text>
+		<text id="notAllowed" h="50D7EDBB">Nicht erlaubt</text>
+		<text id="lowRes" h="D33F1C80">Niedrige Auflösung</text>
+		<text id="fullyAllowed" h="1E5C0EC1">Keine Einschränkung</text>
+		<text id="allowed" h="D74F0AF3">Erlaubt</text>
+		<text id="pdfInfo" h="E96E93B9">Informationen</text>
+		<text id="docInfo" h="8E6BE160">Dokumentinformationen</text>
+		<text id="linearized" h="BA000D8B">Linearisiert:</text>
+		<text id="pages" h="23952CFD">Seiten:</text>
+		<text id="docSecurity" h="C4D42148">Dokumentsicherheit:</text>
+		<text id="printing" h="515F6B19">Drucken:</text>
+		<text id="changing" h="8F212BD7">Das Dokument ändern:</text>
+		<text id="copying" h="A3FBC31C">Inhalte kopieren oder extrahieren:</text>
+		<text id="commenting" h="00D1CE97">Anmerkungen und Formularfelder bearbeiten:</text>
+		<text id="formFilling" h="000F1E62">Formularfelder ausfüllen oder signieren:</text>
+		<text id="contAccessibility" h="307DE41E">Zugriff auf Inhalte:</text>
+		<text id="docAssembly" h="54F5D6FC">Seiten verschmelzen:</text>
+		<text id="pageExtraction" h="4511684F">Seiten extrahieren:</text>
+		<text id="signing" h="D103863D">Signieren:</text>
+		<text id="xcPropSheetCaption" h="E96E93B9">PDF-Informationen</text>
+		<text id="tool.hand" h="1C47D4CB">Hand</text>
+		<text id="cmd.view.goto.firstPage" h="DFC0D45F">Erste Seite</text>
+		<text id="cmd.view.goto.firstPage.tip" h="631EFAFD">Erste Seite anzeigen</text>
+		<text id="cmd.view.goto.lastPage" h="1848BA27">Letzte Seite</text>
+		<text id="cmd.view.goto.lastPage.tip" h="51B1BF96">Letzte Seite anzeigen</text>
+		<text id="cmd.view.goto.prevPage" h="5F473CED">Vorherige Seite</text>
+		<text id="cmd.view.goto.prevPage.tip" h="55CEF405">Vorherige Seite anzeigen</text>
+		<text id="cmd.view.goto.nextPage" h="8695A6CE">Nächste Seite</text>
+		<text id="cmd.view.goto.nextPage.tip" h="8F537F4E">Nächste Seite anzeigen</text>
+		<text id="cmd.view.gotoPage" h="6A0FCD98">Gehe zu Seite</text>
+		<text id="cmd.view.gotoPage.tip" h="DE1F81BE">Gehe zur Seite mit der angegebenen Seitenzahl</text>
+		<text id="cmd.zoomIn" h="21C9A3BF">Vergrößern</text>
+		<text id="cmd.zoomIn.tip" h="7A209714">Ansicht vergrößern</text>
+		<text id="cmd.zoomOut" h="7749FC62">Verkleinern</text>
+		<text id="cmd.zoomOut.tip" h="A00D108F">Ansicht verkleinern</text>
+		<text id="cmd.zoom.combo" h="71AD5FC1">Vergrößerung</text>
+		<text id="cmd.zoom.combo.tip" h="9DAF1E10">Vergrößerung der Dokumentansicht frei anpassen</text>
+		<text id="cmd.zoom.level.actual" h="10ADBDEF">T&amp;atsächliche Größe</text>
+		<text id="cmd.zoom.level.actual.tip" h="F4F3470F">Originalgröße (100%) anzeigen, stellt das Dokument in der tatsächlichen Größe dar</text>
+		<text id="cmd.zoom.level.fitWidth" h="2EA35656">An &amp;Breite anpassen</text>
+		<text id="cmd.zoom.level.fitWidth.tip" h="82C4DEAE">Die Größe des Dokuments wird so angepasst, dass die Seitenbreite den Anzeigebereich füllt.</text>
+		<text id="cmd.zoom.level.fitPage" h="2E705B13">An Seitengröße an&amp;passen</text>
+		<text id="cmd.zoom.level.fitPage.tip" h="D2455889">Die Größe des Dokuments wird so angepasst, dass die Seite (oder zwei gegenüberliegende Seiten) den Anzeigebereich ausfüllen.</text>
+		<text id="cmd.tool.hand" h="648630C6">Hand</text>
+		<text id="cmd.tool.hand.tip" h="97579DF6">In die Seite klicken und sie verschieben</text>
+		<text id="cmd.selectLanguage" h="DF3F8256">Sprache auswählen</text>
+		<text id="cmd.selectLanguage.tip" h="47EE650B">Wählen Sie die Sprache aus dem Menü</text>
+		<text id="cmd.selectSysLang" h="31F4B9FA">Lokale Einstellungen verwenden</text>
+		<text id="cmd.selectBuildInLang" h="1C70EF34">Englisch (US), mitgeliefert</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627200315">2.00.00</Version>
+	<Author>Tz</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXDriver"/>
+	<Language eName="Japanese (Japan)" lName="日本語" code="ja-JP" R2L="false"/>
+	<Module name="officeAddin" namespace="addin" version="7.0.325.10"/>
+	<Strings>
+		<text id="settings.title" h="F15A1E8C">PDF-XChange の設定</text>
+		<text id="Bookmark.Column0" h="C091D68E">スタイル</text>
+		<text id="Bookmark.Column1" h="710B61B4">種類</text>
+		<text id="Bookmark.Column2" h="FBB97B48">レベル</text>
+		<text id="Bookmark.TypeCustom" h="A918FF38">カスタム</text>
+		<text id="Bookmark.TypeStandard" h="C6DA1F99">標準</text>
+		<text id="BorderStyle.Dashed" h="39AEAEE8">破線</text>
+		<text id="BorderStyle.Dotted" h="59B655A2">点線</text>
+		<text id="BorderStyle.Solid" h="9C9EA9A8">実線</text>
+		<text id="BorderType.None" h="B6C5BE05">なし</text>
+		<text id="BorderType.Rect" h="7D22CD90">矩形</text>
+		<text id="BorderType.Underline" h="2A187377">下線</text>
+		<text id="DefaultProfile" h="67249AEE">既定の設定</text>
+		<text id="DefaultProfileDesc" h="BB9A105F">Office アドインに対する既定の設定</text>
+		<text id="EndnoteProgress" h="529B97AF">脚注を処理しています</text>
+		<text id="FootnoteProgress" h="A6605BD0">文末を処理しています</text>
+		<text id="Group.C.Name" h="ACF7EBD1">PDF の作成</text>
+		<text id="Group.S.Name" h="9147CD71">設定</text>
+		<text id="HeaderProgress" h="05E7B20C">文頭を処理しています</text>
+		<text id="InternalRefsProgress" h="C2BBD553">内部参照を処理しています</text>
+		<text id="LinkProgress" h="108F709A">ハイパーリンクを処理しています</text>
+		<text id="MCmd.SaveAs.Desc" h="6F4ACA50">PDF-XChange を使用して現在のドキュメントを PDF で保存</text>
+		<text id="MCmd.SaveAs.KeyTip" h="24ABE339">C</text>
+		<text id="MCmd.SaveAs.Name" h="7FC0B24F">PDF ファイルとして保存（&amp;S）</text>
+		<text id="MCmd.SaveAs.SuperTip" h="6F4ACA50">PDF-XChange を使用して現在のドキュメントを PDF で保存</text>
+		<text id="MCmd.eMail.Desc" h="AAFB0EEB">PDF-XChange を使って、現在のドキュメントから PDF を作成し、メール送信します</text>
+		<text id="MCmd.eMail.KeyTip" h="72F144BF">E</text>
+		<text id="MCmd.eMail.Name" h="8180E3CA">PDF の作成とメール送信</text>
+		<text id="MCmd.eMail.SuperTip" h="AAFB0EEB">PDF-XChange を使って、現在のドキュメントから PDF を作成し、メール送信します</text>
+		<text id="Menu.Name" h="4C8C428F">PDF-XChange </text>
+		<text id="Menu.Name.Acro" h="10548B2B">PDF-XChange for AcroPlot Pro</text>
+		<text id="Msg.ApplyProfile" h="B138997E">選択したプロファイルを適用しますか？</text>
+		<text id="Msg.DeleteDefProfile" h="525BD8C5">現在のプロファイルを削除することはできません。 このプロファイルを削除する前に、別のプロファイルをデフォルトとして選択してください。</text>
+		<text id="Msg.DeleteProfile" h="2A0B9CEB">このプロファイルを削除しますか？</text>
+		<text id="Msg.DuplicateProfileName" h="A74F5AE8">この名前のプロファイルはすでに存在します。 このプロファイルを上書きしますか？</text>
+		<text id="Msg.DuplicateProfileName2" h="34672AFB">この名称のプロファイルはすでに存在しています！重複しない名前を指定してください。</text>
+		<text id="Msg.EmptyProfileName" h="2B7E72C0">プロファイル名は必須入力です！</text>
+		<text id="Msg.ExistingProfile" h="40545C96">%1 のプロファイルはすでに存在しています。上書きしますか？</text>
+		<text id="Msg.ExistingProfile2" h="644B2B1B">%1 のプロファイルはすでに存在しています。 新しいプロファイルで上書きするか、新しいプロファイルに別の名前を使用してください。</text>
+		<text id="Msg.ExistingProfile3" h="6D39539C">%1 のプロファイルはすでに存在しています。 新しいプロファイルに別の名前を使用してください。</text>
+		<text id="Msg.NoPrinter" h="E42BE694">PDF-XChange プリンタドライバが見つからないか、読み込めませんでした。 再インストールしてください。</text>
+		<text id="Msg.Title.Error" h="51BFF51D">エラー</text>
+		<text id="MsgProfile.Protected" h="982F8083">ローカル管理者によって定義されたプロファイルを修正したり削除することはできません</text>
+		<text id="Page.Advanced" h="59A2B513">詳細</text>
+		<text id="Page.Bookmarks" h="E2032460">ブックマーク</text>
+		<text id="Page.Excel" h="35C252B3">Excel のオプション</text>
+		<text id="Page.Links" h="6E16975C">リンク</text>
+		<text id="Page.PowerPoint" h="12124956">Powerpoint のオプション</text>
+		<text id="Page.Settings" h="9147CD71">設定</text>
+		<text id="Page.Visio" h="03CE54E1">Visio のオプション</text>
+		<text id="Page.Word" h="D263E6D0">Word のオプション</text>
+		<text id="Profile.Comment" h="3F85462D">コメント</text>
+		<text id="Profile.Name" h="D18643E3">名前</text>
+		<text id="Profile.NewName" h="5A67CE17">新しいプロファイル</text>
+		<text id="Progress" h="2F37A906">%1: %2%% 完了</text>
+		<text id="RCmd.Convert.KeyTip" h="24ABE339">C</text>
+		<text id="RCmd.Convert.Name" h="3B5A05C5">PDF に変換</text>
+		<text id="RCmd.Convert.SuperTip" h="1725521C">ドキュメントを PDF に変換</text>
+		<text id="RCmd.EditProfile.KeyTip" h="72F144BF">E</text>
+		<text id="RCmd.EditProfile.Name" h="19CBFB1E">設定の編集</text>
+		<text id="RCmd.EditProfile.ScreenTip" h="19CBFB1E">設定の編集</text>
+		<text id="RCmd.EditProfile.SuperTip" h="11200378">ドキュメントから PDF に変換する現在の設定を編集します。 元のプロファイルは変更されません。</text>
+		<text id="RCmd.ManageProfiles.KeyTip" h="BA28CEB7">M </text>
+		<text id="RCmd.ManageProfiles.Name" h="B559F46B">プロファイルを管理（&amp;M）...</text>
+		<text id="RCmd.ManageProfiles.ScreenTip" h="B3D65114">プロファイルを管理</text>
+		<text id="RCmd.ManageProfiles.SuperTip" h="0039EBFD">プロファイルリストを管理するためのダイアログを表示します。 プロファイルは複製、名前の変更、削除などが可能です。</text>
+		<text id="RCmd.Profiles.KeyTip" h="4544A2AB">P </text>
+		<text id="RCmd.Profiles.ScreenTip" h="D6837626">現在のプロファイル</text>
+		<text id="RCmd.Profiles.SuperTip" h="2829A636">現在の設定のソースとして使用されているプロファイルを表示</text>
+		<text id="RCmd.SaveAsProfile.KeyTip" h="6E69F168">S</text>
+		<text id="RCmd.SaveAsProfile.Name" h="F338E347">プロファイルに名前をつけて保存</text>
+		<text id="RCmd.SaveAsProfile.ScreenTip" h="F338E347">プロファイルに名前をつけて保存</text>
+		<text id="RCmd.SaveAsProfile.SuperTip" h="1977811A">現在の設定を新しいプロファイルとして保存</text>
+		<text id="RCmd.Setup.KeyTip" h="6E69F168">S</text>
+		<text id="RCmd.Setup.Name" h="9147CD71">設定</text>
+		<text id="RCmd.Setup.SuperTip" h="EFD54100">PDF 作成処理の設定</text>
+		<text id="RCmd.eMail.KeyTip" h="72F144BF">E</text>
+		<text id="RCmd.eMail.Name" h="8180E3CA">PDF の作成とメール送信</text>
+		<text id="RCmd.eMail.SuperTip" h="B43480FF">現在のドキュメントから PDF を作成し、メール送信します</text>
+		<text id="Ribbon.Caption" h="4C8C428F">PDF-XChange </text>
+		<text id="Ribbon.Caption.Acro" h="10548B2B">PDF-XChange for AcroPlot Pro</text>
+		<text id="Settings.Title" h="E0776D9E">PDF-XChange のオプション</text>
+		<text id="Settings.Title.AcroPlot" h="899B9FFA">PDF-XChange for AcroPlot Pro のオプション</text>
+		<text id="Toolbar.Name" h="4C8C428F">PDF-XChange </text>
+		<text id="Toolbar.Name.Acro" h="10548B2B">PDF-XChange for AcroPlot Pro</text>
+		<text id="TransitionProgress" h="9FF6C6E7">ページ遷移を処理しています</text>
+		<text id="U3DObjectProgress" h="4531AF6D">U3D のオブジェクトを処理しています</text>
+		<text id="WebForms" h="CAE81AE2">Web フォームを処理しています</text>
+		<text id="adv.compress3d" h="7BB049FD">U3D ストリームを圧縮する（遅い）</text>
+		<text id="adv.docInfo" h="F0272E80">ドキュメント情報を変換する（&amp;I）</text>
+		<text id="adv.enable3d" h="DE910287">3D 認識の有効化を許可する</text>
+		<text id="adv.g1.title" h="818270A0">詳細オプション</text>
+		<text id="adv.g2.title" h="516D6797">SFO オプションを有効にする</text>
+		<text id="adv.prompt" h="25DF82DF">PDF ファイル名の入力を求める（&amp;P）</text>
+		<text id="adv.removeAfterEmail" h="DDB35F39">メール送信後に PDF ファイルを削除する（&amp;A）</text>
+		<text id="adv.run" h="0EDB56E0">変換後に PDF ファイルの既定のアプリケーションで開く（&amp;R）</text>
+		<text id="adv.save.before" h="C9BE1A86">変換する前にドキュメントを保存する（&amp;S）</text>
+		<text id="adv.save.toOrigin" h="F34DC54F">元のドキュメントフォルダに保存する（&amp;A）</text>
+		<text id="bkm.btn.clearAll" h="08DF5F04">すべてクリア（&amp;A）</text>
+		<text id="bkm.btn.selectAll" h="CF8E2B6C">すべて選択（&amp;S）</text>
+		<text id="bkm.enable" h="5021B066">作成する PDF ファイルにブックマークを生成する（&amp;G）</text>
+		<text id="bkm.expandAll" h="9C0CA419">すべてのブックマークを展開する（&amp;X）</text>
+		<text id="bkm.g1.title" h="0E415522">利用可能なスタイル</text>
+		<text id="btn.clone" h="47D4FEC1">複製（&amp;L）</text>
+		<text id="btn.delete" h="9421FE90">削除（&amp;D）...</text>
+		<text id="btn.rename" h="8D2D4BFD">名前の変更（&amp;R）...</text>
+		<text id="dlg.addProfile" h="61A918CC">プロファイルの追加／編集</text>
+		<text id="dlg.manageProfiles" h="CED5F01E">プロファイルマネージャー</text>
+		<text id="excel.g1.title" h="CE5217C6">変換するシート</text>
+		<text id="excel.rb.active" h="B6F37C98">現在のシートのみ（%A）</text>
+		<text id="excel.rb.range" h="CF13DFA5">指定したシート（&amp;R）：</text>
+		<text id="excel.rb.workbook" h="5619E7F2">ブック全体（&amp;E）</text>
+		<text id="forms.enable" h="3293C87D">Web フォームを変換する（&amp;W）</text>
+		<text id="forms.rev" h="8886F268">リビジョンマークアップを変換する（&amp;R）</text>
+		<text id="links.b.color" h="20E74546">線の色（&amp;C）：</text>
+		<text id="links.b.style" h="8CB0F062">スタイル（&amp;S）：</text>
+		<text id="links.b.type" h="F1E3B439">線の種類（&amp;T）：</text>
+		<text id="links.b.width" h="A7B7BD94">線の幅（&amp;W）：</text>
+		<text id="links.crossDoc" h="900A9DAB">クロスドキュメントのリンク</text>
+		<text id="links.crossRef" h="232E0A3E">クロス参照のリンク</text>
+		<text id="links.enable" h="1C059FA2">作成する PDF ファイルにリンクを生成する</text>
+		<text id="links.ext" h="4649B6CA">ファイルの拡張子を PDF に変換する</text>
+		<text id="links.footnote" h="4D696ED9">脚注と文末リンク</text>
+		<text id="links.g1.title" h="5000B228">MS Office リンクの変換</text>
+		<text id="links.g2.title" h="3D4B6D6F">リンクの表示</text>
+		<text id="links.g3.title" h="A6B53E0B">クロスドキュメントのリンク</text>
+		<text id="links.relative" h="88BAD1C5">相対パスでターゲット文書のアドレスを指定する</text>
+		<text id="links.web" h="BAB40145">インターネットリンク</text>
+		<text id="page.adv" h="59A2B513">詳細設定</text>
+		<text id="page.bookmarks" h="E2032460">ブックマーク</text>
+		<text id="page.excel" h="35C252B3">Excel のオプション</text>
+		<text id="page.forms" h="D263E6D0">Word のオプション</text>
+		<text id="page.links" h="6E16975C">リンク</text>
+		<text id="page.powerpoint" h="12124956">Powerpoint のオプション</text>
+		<text id="page.visio" h="03CE54E1">Visio のオプション</text>
+		<text id="pp.bookmark" h="EF53BE72">それぞれのスライドをブックマークする</text>
+		<text id="pp.transitions" h="204B92D3">スライド効果を変換する</text>
+		<text id="prof.l.comment" h="D41C404F">コメント（&amp;C）：</text>
+		<text id="prof.l.name" h="09FAD31D">名前（&amp;N）：</text>
+		<text id="profile.manage.g1.title" h="C71AA825">利用可能なプロファイル</text>
+		<text id="visio.allPages" h="2DE2282D">すべてのページを変換する（&amp;A）</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123230436">2.00.00</Version>
+	<Author>Stanko Horvat</Author>
+	<Copyright>Stanko Horvat</Copyright>
+	<Product id="PDFXDriver"/>
+	<Language eName="Slovenian (Slovenia)" lName="Slovenščina" code="sl-SI" R2L="false"/>
+	<Module name="pdfSaver" namespace="saver" version="7.0.323.3"/>
+	<Strings>
+		<text id="about.version" h="2558B135">Različica: %1</text>
+		<text id="btn.help" h="2C29CD29">Pomoč ...</text>
+		<text id="btn.hide" h="C4F1F414">&amp;Skrij</text>
+		<text id="dlg.About" h="F2596574">O programu</text>
+		<text id="dlg.AskDocInfo" h="8E6BE160">Podatki o dokumentu</text>
+		<text id="dlg.Progress" h="B3F9EEBF">Napredek tiskanja</text>
+		<text id="dlg.Settings" h="9147CD71">Nastavitve</text>
+		<text id="docInfo.enable" h="F0A9B0E7">Vstavi dodatne informacije v &amp;dokument</text>
+		<text id="docinfo.author" h="3A9F9808">&amp;Avtor:</text>
+		<text id="docinfo.creator" h="1B812E77">&amp;Ustvarjalec:</text>
+		<text id="docinfo.enable" h="F0A9B0E7">Vključi dodatne informacije v &amp;dokument</text>
+		<text id="docinfo.g.title" h="E96E93B9">PDF informacije</text>
+		<text id="docinfo.keywords" h="70561097">&amp;Ključne besede:</text>
+		<text id="docinfo.subject" h="F6AB0643">P&amp;redmet:</text>
+		<text id="docinfo.title" h="A6AB0B5B">&amp;Naslov:</text>
+		<text id="errDlg.header" h="E8A076C8">Ne morem shraniti &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="errDlg.text" h="3FD6CA0D">Pri shranjevanju dokumenta v datoteko je prišlo do napake: &lt;b&gt;%1&lt;/b&gt;</text>
+		<text id="filter.all" h="A1868C9F">Vse datoteke</text>
+		<text id="filter.pdf" h="21DC74BD">PDF Documents (*.pdf)</text>
+		<text id="l.sec" h="68B35B56">sekund</text>
+		<text id="mainDlg" h="60C6805D">PDF-XChange Standard: pdfSaver</text>
+		<text id="msg.tray.close" h="7E4415DD">pdfSaver ni bil zaprt.
+Če želite zapreti pdfSaver, izberite postavko izhod iz menija pladenj.
+		</text>
+		<text id="opt.autoUnload" h="96863D52">Samodejno &amp;odstrani iz pomnilnika &lt;i&gt;pdfSaver&lt;/i&gt; po:</text>
+		<text id="opt.g1.title" h="30673BCD">Splošno</text>
+		<text id="opt.g2.title" h="6781287A">Tweaks</text>
+		<text id="opt.keepFile" h="537941B8">Ne odstranjuj začasnih datotek</text>
+		<text id="opt.keepFolder" h="F30EC396">Ne izbriši začasne mape pri zagonu pdfSaver-ja</text>
+		<text id="opt.showProgress" h="86E70298">Pokaži okno za tiskanje in &amp;okno napredka</text>
+		<text id="opt.systray" h="D55CEA00">Pokaži &amp;ikono v sistemskem pladnju</text>
+		<text id="overDlg.header" h="54920390">Datoteka '%1' že obstaja</text>
+		<text id="overDlg.text" h="984124BE">Navedite potrebne ukrepe, ki jih je treba sprejeti:</text>
+		<text id="overwrite.append" h="98ADB7C4">Dodaj
+Dodaj vsebino nove datoteke obstoječi
+		</text>
+		<text id="overwrite.autoNumber" h="95BDC2AD">Samodejno številčenje shranjevanja s funkcijo samodejnega štetja</text>
+		<text id="overwrite.leaveJob" h="0CE1E2D3">Preloži
+Prekliči opravilo in zapusti opravilo
+		</text>
+		<text id="overwrite.over" h="13CC8739">Prepiši
+Prepiši obstoječo datoteko</text>
+		<text id="overwrite.prepend" h="7703513C">Vstavi pred spajanjem z obstoječo datoteko</text>
+		<text id="overwrite.select" h="60AA7DB4">Izberi drugo datoteko
+Za nov dokument izberite drugo ime datoteke
+		</text>
+		<text id="progress.done" h="F14B47CB">%1%% končano</text>
+		<text id="progress.generating" h="4509E71B">Ustvarjanje PDF-ja ...</text>
+		<text id="progress.optimizing" h="6F2453BB">Optimiranje ...</text>
+		<text id="progress.page" h="962EF85B">Stran %1</text>
+		<text id="progress.saving" h="B1CEA7B0">Shranjevanje PDF-ja ...</text>
+		<text id="progress.sending" h="BBDB8877">Pošiljanje PDF-ja ...</text>
+		<text id="progress.spooling" h="D7D10A9E">Tiskanje v ozadju</text>
+		<text id="save.btn.additional" h="36A51922">&amp;Dodatne lastnosti ...</text>
+		<text id="save.cb.append" h="DF2206AB">Dodaj obstoječi obliki &amp;PDF</text>
+		<text id="save.cb.email" h="93B339D4">&amp;Pošlji PDF po elektronski pošti po nastanku</text>
+		<text id="save.cb.run" h="B14F25C0">Zaženi program pregledovalnik po shranjevanju</text>
+		<text id="tryAgain" h="B119E265">Poskusi ponovno</text>
+	</Strings>
+</Localization>

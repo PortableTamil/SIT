@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117213624">2.00.00</Version>
+	<Author>Regmos</Author>
+	<Copyright>Regmos 2018</Copyright>
+	<Product id="PDFXDriver"/>
+	<Language eName="Danish (Denmark)" lName="dansk" code="da-DK" R2L="false"/>
+	<Module name="pdfSaver" namespace="saver" version="6.0.322.7"/>
+	<Strings>
+		<text id="about.version" h="2558B135">Version: %1</text>
+		<text id="btn.help" h="2C29CD29">Hjælp...</text>
+		<text id="btn.hide" h="C4F1F414">Skjul</text>
+		<text id="dlg.About" h="F2596574">Om</text>
+		<text id="dlg.AskDocInfo" h="8E6BE160">Dokumentoplysninger</text>
+		<text id="dlg.Progress" h="B3F9EEBF">Udskrivning...</text>
+		<text id="dlg.Settings" h="9147CD71">Indstillinger</text>
+		<text id="docInfo.enable" h="F0A9B0E7">Føj yderligere oplysninger til dokumentet</text>
+		<text id="docinfo.author" h="3A9F9808">Forfatter:</text>
+		<text id="docinfo.creator" h="1B812E77">Oprettet med:</text>
+		<text id="docinfo.enable" h="F0A9B0E7">Føj yderligere oplysninger til dokumentet</text>
+		<text id="docinfo.g.title" h="E96E93B9">Oplysninger</text>
+		<text id="docinfo.keywords" h="70561097">Nøgleord:</text>
+		<text id="docinfo.subject" h="F6AB0643">Emne:</text>
+		<text id="docinfo.title" h="A6AB0B5B">Titel:</text>
+		<text id="errDlg.header" h="E8A076C8">Kan  ikke gemme &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="errDlg.text" h="3FD6CA0D">Der opstod fejl ved gemning af et dokument til filen:
+&lt;b&gt;%1&lt;/b&gt;</text>
+		<text id="filter.all" h="A1868C9F">Alle filer</text>
+		<text id="filter.pdf" h="21DC74BD">PDF dokumenter (*.pdf)</text>
+		<text id="l.sec" h="68B35B56">sekunder</text>
+		<text id="mainDlg" h="60C6805D">PDF-XChange Standard: pdfSaver</text>
+		<text id="msg.tray.close" h="7E4415DD">pdfSaver blev ikke lukket.
+Brug ikonet ved uret til at lukke helt.</text>
+		<text id="opt.autoUnload" h="96863D52">Autoluk &lt;i&gt;pdfSaver&lt;/i&gt; efter:</text>
+		<text id="opt.g1.title" h="30673BCD">Generelt</text>
+		<text id="opt.g2.title" h="6781287A">Ekstra</text>
+		<text id="opt.keepFile" h="537941B8">Fjern ikke midlertidige filer</text>
+		<text id="opt.keepFolder" h="F30EC396">Slet ikke mappen til midlertige filer når pdfSaver starter</text>
+		<text id="opt.showProgress" h="86E70298">Vis udskrivningsfremskridt</text>
+		<text id="opt.systray" h="D55CEA00">Vis ikon ved uret</text>
+		<text id="overDlg.header" h="54920390">Filen '%1' findes allerede</text>
+		<text id="overDlg.text" h="984124BE">Angiv den krævede handling:</text>
+		<text id="overwrite.append" h="98ADB7C4">Tilføj
+Tilføj ny fils indhold til eksisterende fil</text>
+		<text id="overwrite.autoNumber" h="95BDC2AD">Autonummerér
+Gem med automatisk nummerering</text>
+		<text id="overwrite.leaveJob" h="0CE1E2D3">Udskyd
+Annullér handlingen og forlad jobbet</text>
+		<text id="overwrite.over" h="13CC8739">Overskriv
+Overskriv eksisterende fil</text>
+		<text id="overwrite.prepend" h="7703513C">Indsæt før
+Flet med eksisterende fil</text>
+		<text id="overwrite.select" h="60AA7DB4">Vælg en anden  fil
+Vælg et andet filnavn til det nye dokument</text>
+		<text id="progress.done" h="F14B47CB">%1%% gennemført</text>
+		<text id="progress.generating" h="4509E71B">Opretter PDF...</text>
+		<text id="progress.optimizing" h="6F2453BB">Optimerer...</text>
+		<text id="progress.page" h="962EF85B">Side %1</text>
+		<text id="progress.saving" h="B1CEA7B0">Gemmer PDF...</text>
+		<text id="progress.sending" h="BBDB8877">Sender PDF...</text>
+		<text id="progress.spooling" h="D7D10A9E">Spooler</text>
+		<text id="save.btn.additional" h="36A51922">Flere egenskaber...</text>
+		<text id="save.cb.append" h="DF2206AB">Føjer til eksisterende PDF</text>
+		<text id="save.cb.email" h="93B339D4">Mail PDF efter oprettelse</text>
+		<text id="save.cb.run" h="B14F25C0">Vis bagefter</text>
+		<text id="tryAgain" h="B119E265">Prøv igen</text>
+	</Strings>
+</Localization>

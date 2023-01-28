@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20161130215902">2.00.00</Version>
+	<Author>Nuno Filipe Rego</Author>
+	<Copyright>Nuno Filipe Rego ©
+
+Coments and\or suggestions about the translations:
+Comentários e\ou sugestões sobre as traduções: 
+
+nunito.mokito@gmail.com</Copyright>
+	<Product id="TrackerUpdate"/>
+	<Language eName="Portuguese (Portugal)" lName="português" code="pt-PT" R2L="false"/>
+	<Module name="TrackerUpdate" namespace="" version="6.0.319.0"/>
+	<Strings>
+		<text id="setting.grBox.proxyConfig" h="A43FB5FD">Configura as proxy's para aceder à Internet</text>
+		<text id="setting.radioBtn.noProxy" h="8293FBBF">Sem proxy</text>
+		<text id="setting.radioBtn.useSysProxy" h="9C30994D">Utilizar definições proxy do sistema</text>
+		<text id="setting.radioBtn.manualProxy" h="5F875BBF">Configuração manual de proxy:</text>
+		<text id="setting.txtBox.server" h="07F1CFFC">Servidor Proxy:</text>
+		<text id="setting.txtBox.port" h="C83E8ED8">Porta:</text>
+		<text id="setting.chBox.passRequire" h="FA0F7DAC">O servidor proxy requer uma senha</text>
+		<text id="setting.txtBox.user" h="F69A9C76">Proxy do utilizador:</text>
+		<text id="setting.txtBox.password" h="F37B341A">Senha:</text>
+		<text id="setting.chBox.expiration" h="8B3B89EA">Procurar automaticamente atualizações que sejam incompatíveis com o plano de manutenção</text>
+		<text id="setting.dlg.name" h="9EAEE28F">Definições do Atualizador</text>
+		<text id="setting.grBox.language" h="0C4A07DE">Sprache</text>
+		<text id="setting.grBox.general" h="30673BCD">Geral</text>
+		<text id="setting.chBox.useRegLan" h="F0AA3B6E">Utilizar Idioma Regional</text>
+		<text id="setting.txtBox.interfaceLanguage" h="9F4AE18F">Idioma da Interface:</text>
+		<text id="setting.txtBox.automaticInstall" h="00C9D7BC">Instalação automática após transferência das atualizações</text>
+		<text id="setting.task.comment" h="97A4F743">Esta tarefa mantém os seus Produtos Tracker Software atualizados com as mais recentes funcionalidades e correções de segurança.</text>
+		<text id="setting.msgBox.saveSettingError" h="851722FE">Erro ao guardar as definições!</text>
+		<text id="setting.msgBox.error" h="51BFF51D">Erro</text>
+		<text id="main.txtBox.availableUpdate" h="5B1B87D4">Atualizações Disponíveis:</text>
+		<text id="main.msgBox.incompatibleWithMaintenancePart1" h="53E473E7">Existem atualizações selecionadas que são incompatíveis com a manutenção existente.</text>
+		<text id="main.msgBox.incompatibleWithMaintenancePart2" h="5D6A7A67">Deseja atualizar agora?</text>
+		<text id="main.msgBox.lockedUpdatesPart1" h="A77BA0BA">Os produtos indicados impediram a atualização: %1</text>
+		<text id="main.msgBox.lockedUpdatesPart2" h="1AC7FABE">Se deseja instalar a atualização, por favor remova estes produtos.</text>
+		<text id="main.btn.setting" h="9147CD71">Definições</text>
+		<text id="main.btn.help" h="03718903">Ajuda</text>
+		<text id="main.btn.installedProduct" h="C0C93CE4">Produtos Instalados</text>
+		<text id="main.btn.updateHistory" h="2A22C89B">Histórico de Atualizações</text>
+		<text id="main.btn.checkAgain" h="A3D44F4A">Verificar Novamente</text>
+		<text id="main.btn.close" h="9594DBB7">Fechar</text>
+		<text id="main.chBox.showHidden" h="CB3F61B3">Mostrar atualizações ocultas</text>
+		<text id="main.context.makeHidden" h="32A71975">Tornar Oculta</text>
+		<text id="main.context.makeVisible" h="2B228456">Tornar Visível</text>
+		<text id="main.context.check" h="A2303C1F">Verificar seleção</text>
+		<text id="main.ballon.autoStartDownloadTimer" h="A5CE8595">As atualizações serão transferidas automáticamente dentro de um minuto.</text>
+		<text id="main.ballon.downloadingUpdates" h="DC6A6C81">Carregando...</text>
+		<text id="main.ballon.installingUpdates" h="7DBFF5EC">Instalando...</text>
+		<text id="main.ballon.autoStartInstallTimer" h="60E5F0B1">As atualizações serão instaladas automáticamente dentro de um minuto.</text>
+		<text id="main.ballon.newUpdates" h="825EA76A">Estão disponíveis atualizações novas.</text>
+		<text id="main.ballon.updatesDownloaded" h="60A2FCC7">Atualizações transferidas. Pode instala-las agora.</text>
+		<text id="main.tooltip.maintenanceExpired" h="9885EB6B">A manutenção para este produto expirou</text>
+		<text id="main.tooltip.lockedItem" h="8DBDABA7">Atualização bloqueada por outro produto.</text>
+		<text id="state.msg.gatheringInformation" h="37FDD4EF">Reunindo informação, aguarde...</text>
+		<text id="state.msg.noAvailableUpdate" h="CEA582A0">Não há atualizações disponíveis.</text>
+		<text id="state.msg.error" h="EC250F30">Ocorreu um erro:</text>
+		<text id="state.msg.getListError" h="FC0D4CDC">Erro ao obter lista de atualizações.</text>
+		<text id="state.msg.InternetConectionError" h="CA67F2D7">Erro ao estabelecer uma ligação. Tente novamente mais tarde.</text>
+		<text id="state.msg.getDataFileError" h="AD2EC6D3">Erro ao carregar informação sobre os produtos Tracker.</text>
+		<text id="state.msg.selfUpdateError" h="BB276C7C">Erro no Auto-Atualizador. Tente novamente mais tarde.</text>
+		<text id="state.msg.disabledByGroupPilisy" h="066F184E">O Tracker Updater foi desativado pelo seu administrador de sistema.</text>
+		<text id="main.btn.download" h="BCE8145B">Tranferência</text>
+		<text id="main.btn.downloadWithTimer" h="DACCF32D">Transferência (%1)</text>
+		<text id="main.listCol.name" h="D18643E3">Nome</text>
+		<text id="main.listCol.version" h="7922E696">Disponível</text>
+		<text id="main.listCol.installed" h="DECE7C42">Instalado</text>
+		<text id="main.state.warning" h="95988032">Não existem produtos Tracker instalados.</text>
+		<text id="existing.dlg.name" h="C0C93CE4">Produtos Instalados</text>
+		<text id="existing.btn.close" h="9594DBB7">Fechar</text>
+		<text id="existing.listCol.name" h="D18643E3">Nome</text>
+		<text id="existing.listCol.version" h="F76458F4">Versão</text>
+		<text id="progress.txt.pageHedear.installing" h="35478468">Instalando as atualizações, aguarde...</text>
+		<text id="progress.txt.pageHedear.finished" h="A4834E77">Terminado.</text>
+		<text id="progress.txt.pageHedear.downloading" h="15200E48">Transferindo atualização %1 de %2, aguarde...</text>
+		<text id="progress.txt.downloaded" h="7F7E73C2">Transferido</text>
+		<text id="progress.txt.totalSize" h="E542B598">Tamanho Total</text>
+		<text id="progress.txt.averageSpeed" h="B07DD6C6">Velocidade Média</text>
+		<text id="progress.txt.timeRemaining" h="EBAC62EA">Tempo Restante</text>
+		<text id="progress.btn.stop" h="F89FDAAE">Parar</text>
+		<text id="progress.btn.back" h="F8750C11">Voltar</text>
+		<text id="progress.btn.exit" h="748EB8A1">Sair</text>
+		<text id="progress.btn.installWithTimer" h="83E409E9">Instalar (%1)</text>
+		<text id="progress.btn.install" h="9F075946">Instalar</text>
+		<text id="progress.txt.time.aboutMinute" h="75EB2EB2">Cerca de um minuto</text>
+		<text id="progress.txt.clickToContinue" h="BF8EFEB0">Prima Instalar para continuar a atualização.</text>
+		<text id="progress.txt.time.unknown" h="8566CB94">Desconhecido</text>
+		<text id="progress.userMsg.connectToServer" h="179110BC">Ligando ao servidor %1...</text>
+		<text id="progress.userMsg.connectedSuccessfully" h="8A8A081E">Ligado com sucesso.</text>
+		<text id="progress.userMsg.gettingFile" h="F73F4B04">Obteendo Ficheiro: %1...</text>
+		<text id="progress.userMsg.proxyFail" h="4BB3CEA7">Autorização Proxy do utilizador '%1' falhou</text>
+		<text id="progress.userMsg.errorRequesting" h="33AE9111">Erro ao solicitar o ficheiro '%1'</text>
+		<text id="progress.userMsg.userBreakDownloading" h="4F004A48">Cancelamento pelo utilizador durante a transferência do ficheiro '%1'</text>
+		<text id="progress.userMsg.errorDownloading" h="0CE95B18">Erro ao transferir o ficheiro '%1'</text>
+		<text id="progress.userMsg.filedownloaded" h="470F7566">Transferência do ficheiro '%1' bem sucedida.</text>
+		<text id="progress.userMsg.unableToConnect" h="96F68A37">Erro ao ligar ao servidor %1...</text>
+		<text id="progress.userMsg.errorParceURL" h="CF0D1F96">Erro ao definir o URL</text>
+		<text id="main.msgBox.newUpdatesAvailable" h="1208BEAF">Existe um nova atualização disponível no servidor. Deseja transferi-la agora?</text>
+		<text id="main.msgBox.newVersionOfTracker" h="BC5E93C1">Uma nova versão do Tracker Update está disponível e tem de ser instalada para continuar. Deseja atualizar agora?</text>
+		<text id="progress.msgBox.askStartInstall" h="51A613BC">Deseja iniciar a instalação das atualizações que foram transferidas?</text>
+		<text id="progress.msgBox.askRebootAfterInstallPart1" h="1B90BEF6">O seu computador tem de ser reiniciado para que as alterações tenham efeito.</text>
+		<text id="progress.msgBox.askRebootAfterInstallPart2" h="4D247ABD">Deseja reiniciar agora?</text>
+		<text id="progress.userMsg.downloadingStarted" h="7AFECC9A">Transferência Iniciada.</text>
+		<text id="progress.userMsg.downloadingFinished" h="1BA4544E">Transferência Terminada.</text>
+		<text id="progress.userMsg.installSkipped" h="2C75EA82">Instalação Ignorada.</text>
+		<text id="progress.userMsg.installingStarted" h="04D958E8">Instalação Iniciada.</text>
+		<text id="progress.userMsg.installingFinished" h="F1CF6640">Instalação Terminada.</text>
+		<text id="progress.userMsg.installingRebootRequired" h="F3062B13">Reinício necessário.</text>
+		<text id="progress.userMsg.packageHasInvalidHash" h="009F880A">O pacote '%1' contém um hash inválido.</text>
+		<text id="progress.userMsg.packageInstalationStarted" h="7F8B3B69">Início da instalação do pacote '%1'.</text>
+		<text id="progress.userMsg.packageInstalationFailed" h="3AEDB055">Falha de instalação do pacote '%1'.</text>
+		<text id="progress.userMsg.userBreakInstalling" h="9643B0E5">Cancelamento pelo utilizador durante a instalação do ficheiro '%1'</text>
+		<text id="progress.userMsg.userCanceledInstalling" h="2D008840">Processo de instalação cancelado pelo utilizador.</text>
+		<text id="progress.txt.speedValue" h="E0217E21">%1 KB/seg</text>
+		<text id="progress.txt.sizeValue" h="CCB7B0F4">%1 KB (%2 Bytes)</text>
+		<text id="progress.txt.sec" h="CEB4987D">%1 seg</text>
+		<text id="progress.txt.min" h="08103A63">%1 min</text>
+		<text id="progress.txt.hour" h="CDADDDAA">%1 hora(s)</text>
+		<text id="settings.txt.noShedule" h="F1BADD25">Sem Agendamento</text>
+		<text id="main.msgBox.prepareDataText" h="6E824F3F">O ficheiro com o relatório de dados foi criado e guardado em %1. Envie um e-mail para %2 com a descrição do problema e anexe este ficheiro. Deseja abrir a pasta onde o ficheiro criado está guardado?</text>
+		<text id="main.msgBox.prepareDataCaption" h="26F63F16">Preparando relatório de dados</text>
+		<text id="logDlg.context.copy" h="348DE55D">Copiar</text>
+		<text id="logDlg.context.enableAutoScroll" h="5B72EA2B">Ativar autorolamento</text>
+		<text id="logDlg.context.disableAutoScroll" h="08DE8A1C">Desativar autorolamento</text>
+		<text id="progress.userMsg.downloadFailed" h="85611884">As atualizações não foram transferidas</text>
+		<text id="progress.userMsg.adminRightsReject" h="3F1C4DFD">Pedido de direitos de administrador rejeitado.</text>
+		<text id="scheduler.txt.recurEvery" h="E86F8BDB">Repetir a cada:</text>
+		<text id="scheduler.txt.weeks" h="C36D0B1F">semanas</text>
+		<text id="scheduler.txt.days" h="7AD34862">dias</text>
+		<text id="scheduler.txt.start" h="D0E7B7BC">Início:</text>
+		<text id="scheduler.txt.schedulerDisabled" h="77C6980A">Agendamento Desativado</text>
+		<text id="scheduler.chBox.sunday" h="8F1994C3">Domingo</text>
+		<text id="scheduler.chBox.monday" h="5ABCBB00">Segunda</text>
+		<text id="scheduler.chBox.tuesday" h="86A20B4F">Terça</text>
+		<text id="scheduler.chBox.wednesday" h="66E67084">Quarta</text>
+		<text id="scheduler.chBox.thursdat" h="DE9BC0A4">Quinta</text>
+		<text id="scheduler.chBox.friday" h="F3BB1C4F">Sexta</text>
+		<text id="scheduler.chBox.saturday" h="38E79019">Sábado</text>
+		<text id="scheduler.radioBtn.onlyShowNotification" h="D08E0C66">Mostrar apenas notificação</text>
+		<text id="scheduler.radioBtn.automaticDownload" h="BB3286A9">Transferência automática de atualizações disponível</text>
+		<text id="scheduler.chBox.wakeTheComputer" h="1774BA03">Ligar o computador para executar esta tarefa</text>
+		<text id="scheduler.radioBtn.never" h="2B0D94AA">Nunca</text>
+		<text id="scheduler.radioBtn.daily" h="D4192C96">Diariamente</text>
+		<text id="scheduler.radioBtn.weekly" h="F5E7580A">Semanalmente</text>
+		<text id="scheduler.radioBtn.monthly" h="DFE427B6">Mensalmente</text>
+		<text id="scheduler.grBox.general" h="30673BCD">Geral</text>
+		<text id="scheduler.comBox.first" h="D7CC2CC2">Primeiro</text>
+		<text id="scheduler.comBox.second" h="FE7A8C73">Segundo</text>
+		<text id="scheduler.comBox.third" h="A352FAE5">Terceiro</text>
+		<text id="scheduler.comBox.fourth" h="EB6E5748">Quarto</text>
+		<text id="scheduler.comBox.last" h="70BC4722">Último</text>
+		<text id="scheduler.radioBtn.day" h="A21EDE78">Dia:</text>
+		<text id="scheduler.radioBtn.specificDate" h="61688DB5">Data específica</text>
+		<text id="scheduler.chBox.january" h="087B2F92">Janeiro</text>
+		<text id="scheduler.chBox.february" h="A468CF34">Fevereiro</text>
+		<text id="scheduler.chBox.march" h="4AA7C642">Março</text>
+		<text id="scheduler.chBox.april" h="EB5B3219">Abril</text>
+		<text id="scheduler.chBox.may" h="315EB494">Maio</text>
+		<text id="scheduler.chBox.june" h="DF3EA27A">Junho</text>
+		<text id="scheduler.chBox.july" h="934037AC">Julho</text>
+		<text id="scheduler.chBox.august" h="F741CCEC">Agosto</text>
+		<text id="scheduler.chBox.september" h="27819FF0">Setembro</text>
+		<text id="scheduler.chBox.october" h="15BA27E1">Outubro</text>
+		<text id="scheduler.chBox.november" h="C8D0282F">Novembro</text>
+		<text id="scheduler.chBox.december" h="7AEFD274">Dezembro</text>
+		<text id="settings.btn.save" h="B120B787">Guardar</text>
+		<text id="settings.btn.cancel" h="08961956">Cancelar</text>
+		<text id="settings.tabItem.general" h="30673BCD">Geral</text>
+		<text id="settings.tabItem.autostart" h="DAB331BD">Início automático</text>
+		<text id="scheduler.txtBox.day" h="A21EDE78">Dia:</text>
+		<text id="scheduler.txtBox.week" h="AD8BFC83">Semana:</text>
+		<text id="scheduler.msgBox.saveSchedulerError" h="9B74B104">Não é possível guardar a tarefa automática!</text>
+		<text id="scheduler.txtBox.dontHavePermission" h="14CD9986">Não possui permissão para modificar a tarefa. Por favor, execute como Administrador e tente novamente.</text>
+		<text id="scheduler.btn.runAsAdministrator" h="CF87C973">Executar como administrador</text>
+		<text id="history.list.details" h="AEE125D6">Detalhes</text>
+		<text id="history.list.status" h="922A166F">Estado:</text>
+		<text id="history.list.installedOn" h="C6F19FCA">Instalado em:</text>
+		<text id="history.list.successfullyInstalled" h="0A49E1BE">Atualização instalada com  Sucesso</text>
+		<text id="history.list.emptyHistory" h="B8F59022">Lamento, mas o histórico de atualizações está vazio.</text>
+		<text id="progress.msg.installQuestion" h="62EBAB57">Atualizações transferidas. Prima Instalar se deseja continuar com a atualização.</text>
+	</Strings>
+</Localization>

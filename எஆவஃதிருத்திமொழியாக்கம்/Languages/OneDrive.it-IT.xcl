@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627193906">2.00.00</Version>
+	<Author>Facta D.</Author>
+	<Copyright>Creato nuovo da Facta D.
+per versione 7.0 build 326.1</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Italian (Italy)" lName="Italiano" code="it-IT" R2L="false"/>
+	<Module name="OneDrivePlugin" namespace="od" version="7.0.325.10"/>
+	<Strings>
+		<text id="DlgOpenFile" h="F5F0D3C4">Apri file da OneDrive</text>
+		<text id="DlgSaveFile" h="8E6D35E7">Salva file su OneDrive</text>
+		<text id="GDPlugin" h="55E9533C">Plugin del drive OneDrive</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Nuovo login...</text>
+		<text id="cmd.cmdsCategory" h="A8DDA089">OneDrive</text>
+		<text id="cmd.onedrive" h="FBE7A43C">&amp;OneDrive...</text>
+		<text id="cmd.open" h="C3A80FF4">&amp;OneDrive...</text>
+		<text id="cmd.open.tip" h="03DE0A0A">Apri documento da OneDrive.</text>
+		<text id="cmd.save" h="C3A80FF4">&amp;OneDrive...</text>
+		<text id="cmd.save.tip" h="BC9750BB">Salva un documento attivo su OneDrive.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">File non trovato</text>
+		<text id="cpt.invalidFileName" h="79C1387C">"Nome file non valido</text>
+		<text id="cpt.navigateError" h="3D300A1C">Errore di navigazione</text>
+		<text id="cpt.saveReplace" h="520CB069">Salva file</text>
+		<text id="cpt.selectFile" h="C55D68B0">Selezione file</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Impossibile salvare il file nella cartella</text>
+		<text id="dlg.Auth" h="EC0513C8">$$$.od.dlg.Auth</text>
+		<text id="dlg.Auth" h="6D5E22C0">Autenticazione OneDrive</text>
+		<text id="fileName" h="DEC92488">Nome file:</text>
+		<text id="lb.CurrentFolder" h="44158804">Cartella corrente:</text>
+		<text id="lb.Test" h="273F3E5B">Test Test Test!</text>
+		<text id="lb.onedriveAccName" h="740F2198">Utente OneDrive:</text>
+		<text id="ls.column.created" h="FE6510B7">Data creazione</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Data e ora quando il file, la cartella o la lista sono stati creati</text>
+		<text id="ls.column.extension" h="14FEB836">Estensione</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Estensione file</text>
+		<text id="ls.column.modified" h="7E234D6D">Data modifca</text>
+		<text id="ls.column.modified.hint" h="12933E76">Data e ora quando il file, la cartella o la lista sono stati modificati l'ultima volta</text>
+		<text id="ls.column.size" h="17A58A52">Dimensioni</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Dimensioni file</text>
+		<text id="ls.column.title" h="D18643E3">Nome</text>
+		<text id="ls.column.title.hint" h="6A895576">Nome file, nome cartella o titolo lista</text>
+		<text id="msg.fileNotFound" h="430E08B1">File "%1" non trovato nella cartella corrente.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" non è un nome file valido.</text>
+		<text id="msg.navigateError" h="9C1CD106">Impossibile navigare le risorse OneDrive. Per favore verifica la connettività Internet e i permessi per accedere alla risorsa OneDrive richiesta.</text>
+		<text id="msg.openFailed" h="AC94D960">Impossibile aprire file. Verifica che il file esista, che non è estratto da altri utenti e che disponi dei permessi di lettura per esso.</text>
+		<text id="msg.saveFailed" h="4D413392">Impossibile salvare file. Verifica che il nome del file sia valido e che disponi dei permessi di scrittura per esso.</text>
+		<text id="msg.saveReplace" h="5D56833E">Il file %1 esiste già. Vuoi sostituirlo?</text>
+		<text id="msg.selectFile" h="2530C20F">Per favore seleziona il file prima di cliccare OK</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Il file non può essere salvato nella posizione selezionata. Per favore scegli la cartella 'My Drive', oppure una delle sue sotto-cartelle, oppure una della cartelle 'Shared With Me' per salvare il file.</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">My Drive</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Condividi con me</text>
+	</Strings>
+</Localization>

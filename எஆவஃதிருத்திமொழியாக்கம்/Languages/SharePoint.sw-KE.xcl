@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123224509">2.00.00</Version>
+	<Author>Kelvin Muriuki</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Kiswahili (Kenya)" lName="Kiswahili" code="sw-KE" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="7.0.323.3"/>
+	<Strings>
+		<text id="btn.checkIn" h="09996473">&amp;Rudisha</text>
+		<text id="btn.discardCheckOut" h="40AC5603">&amp;Tupilia Pato</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">Rudisha na Hifadhi Pato</text>
+		<text id="btn.connect" h="A79F815C">Ungani&amp;sha</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">&amp;Hifadhi Pato</text>
+		<text id="btn.navigate" h="B03F439E">&amp;Abiri</text>
+		<text id="btn.open" h="B1A510F0">&amp;Fungua</text>
+		<text id="btn.openWithCheckOut" h="2F774735">Fungua kwa Ku&amp;pata</text>
+		<text id="btn.save" h="F363C410">&amp;Hifadhi</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">&amp;Hifadhi na Pata</text>
+		<text id="btn.saveReplace" h="11BF9724">Hifadhi na &amp;Badilisha</text>
+		<text id="btn.signOut" h="645CEBE2">T&amp;oka</text>
+		<text id="cb.url.tip" h="CD81E674">Ingiza anwani...</text>
+		<text id="cmd.checkIn" h="AEF235ED">Rudi&amp;Sha</text>
+		<text id="cmd.checkIn.tip" h="C9DCA405">Rudisha faili ya waraka kwenye SharePoint</text>
+		<text id="cmd.checkOut" h="E6A87AFE">Pa&amp;ta</text>
+		<text id="cmd.checkOut.tip" h="E1B64D30">Pata faili ya waraka kutoka SharePoint</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">Sharepoint</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">&amp;Tupilia Upataji</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">Tupilia faili pato kutoka SharePoint</text>
+		<text id="cmd.open" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.open.tip" h="007B7200">Fungua nyaraka kutoka SharePoint</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">Tayarisha Mae&amp;lezo ya Faili</text>
+		<text id="cmd.prepareFileInfo.tip" h="E609EA07">Tayarisha maelezo ya faili kwenye SharePoint</text>
+		<text id="cmd.save" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.save.tip" h="C48C1C25">Hifadhi waraka amilifu kwa SharePoint</text>
+		<text id="cmd.share_point" h="B7423C0E">Share&amp;Point</text>
+		<text id="cmd.share_point.tip" h="CA99078B">Fanya kazi na nyaraka zilizo kwenye SharePoint</text>
+		<text id="dlg.liveLogin" h="BFADC685">Uingiaji Hai</text>
+		<text id="dlg.openFile" h="435887CD">Fungua Faili</text>
+		<text id="dlg.saveFile" h="520CB069">Hifadhi Faili</text>
+		<text id="lb.checkInComment" h="694DD18A">Maoni (ya hiari):</text>
+		<text id="lb.name" h="F7B9E475">Jina la Faili:</text>
+		<text id="lb.sharePointPlaceUrl" h="F900769A">URL ya SharePoint:</text>
+		<text id="ls.column.created" h="FE6510B7">Tarehe ya kuundwa</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Tarehe na wakati ambapo faili, kabrasha ama orodha iliundwa</text>
+		<text id="ls.column.extension" h="14FEB836">Kiendelezi</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Kiendelezi cha faili</text>
+		<text id="ls.column.modified" h="691C3610">Tarehe ya Kubadilishwa</text>
+		<text id="ls.column.modified.hint" h="12933E76">Tarehe na wakati ambapo faili, kabrasha ama orodha ilibadilishwa mwisho</text>
+		<text id="ls.column.size" h="17A58A52">Ukubwa</text>
+		<text id="ls.column.size.hint" h="E79CA174">Ukubwa wa faili</text>
+		<text id="ls.column.title" h="D18643E3">Jina</text>
+		<text id="ls.column.title.hint" h="81F4F728">Jina la faili, kabrasha ama kicha cha orodha</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">Ungetaka kurudisha faili &lt;b&gt;%1&lt;/b&gt; kabla ya kuifunga? Hii itawezesha mabadiliko kuwa kwa watumiaji wengine.</text>
+		<text id="msg.askForCheckOutOnOpen" h="20742355">Unaweza kufungua faili &lt;b&gt;%1&lt;/b&gt; na kuipata ili kuiweka ikiwa soma-tu' kwa watumiaji wengine, kisha unaweza kuibadilisha na kuhifadhi mabadiliko yake kwenye SharePoint; ama unaweza ruhusu watumiaji wengine kubadilisha faili lakini unaweza kupata migogoro ukijaribu kuibadilisha na kuihafadhi kutoka upande wako.</text>
+		<text id="msg.askForCheckOutOnSave" h="0D7127AB">Faili &lt;b&gt;%1&lt;/b&gt; haijapatiwa wewe. Itabidi kwanza umepata faili hii kisha endelea na operesheni ya kuhifadhi.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">Faili &lt;b&gt;%1&lt;/b&gt; imepatiwa wewe. Je ungetaka kutupilia upataji huu ili kuruhusu watumiaji wengine kuhariri hii faili?</text>
+		<text id="msg.checkInFailed" h="3E327B8B">Faili &lt;b&gt;%1&lt;/b&gt; imefeli kurudishwa. Tafadhali hakikisha kuwa hii faili ipo na uliipata.</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">Ingiza faili &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">Hauwezi fungua faili &lt;b&gt;%1&lt;/b&gt; kwa kuipata kwa sababu imepatiwa mtumiaji %2.</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">Faili &lt;b&gt;%1&lt;/b&gt; imepatiwa mtumiaji "%2". Hauwezi hifadhi faili hii kwenye SharePoint mpaka utakapoipata lakini unaweza hifadhi mabadiliko yako mahali pengine.</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">Faili &lt;b&gt;%1&lt;/b&gt; imefeli kupatwa. Tafadhali hakikisha kuwa hii faili ipo  kwenye seva na haijapatiwa mtumiaji tofauti.</text>
+		<text id="msg.connectError" h="18DFEDBE">Imefeli kuunganisha na seva ya SharePoint. Tafadhali kagua muunganisho wako wa tovuti, anwani ya seva na haki za ufikiaji wa rasilimali ya SharePoint inayohitajika.</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">Imefeli kutupilia hali ya faili &lt;b&gt;%1&lt;/b&gt; uliopata. Tafadhali hakikisha kuwa faili hii ipo na umepatiwa.</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">Hauwezi pata faili &lt;b&gt;%1&lt;/b&gt; kwa sababu hauna vibali vya kutosha vya faili hii.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">Hauwezi fungua faili &lt;b&gt;%1&lt;/b&gt; kwa kuipata kwa sababu hauna vibali vya kutosha vya faili hii.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">Hauwezi fungua faili ya &lt;b&gt;%1&lt;/b&gt; kwa uhariri kwa sababu hauna vibali vya kutosha vya faili hii.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="3453F306">Hauwezi kuhifadhi faili &lt;b&gt;%1&lt;/b&gt; kwenye SharePoint kwa sababu hauna vibali vya kuhariri faili hii.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">Faili &lt;b&gt;%1&lt;/b&gt; lazima uipate kabla ya kuhifadhiwa lakini hauna vibali vya faili hii.</text>
+		<text id="msg.fileNotFound" h="381368F8">Faili &lt;b&gt;%1&lt;/b&gt; haijapatikana kwa kabrasha la sasa.</text>
+		<text id="msg.invalidFileName" h="5F43EF67">&lt;b&gt;%1&lt;/b&gt; si jina halali la faili.</text>
+		<text id="msg.navigateError" h="CF23B4B6">Imefeli kuabiri kwenye rasilimali ya SharePoint. Tafadhali kagua muunganisho wako wa tovuti, anwani ya seva na haki za ufikiaji wa rasilimali ya SharePoint inayohitajika.</text>
+		<text id="msg.openFailed" h="34DE1259">Imefeli kufungua faili. kwenye rasilimali ya SharePoint. Tafadhali hakikisha kuwa faili hii ipo, haijapatiwa mtumiaji tofauti na kuwa unavibali vinayohitajika kufikia faili.</text>
+		<text id="msg.outdatedFileOnWrite" h="1D71732B">Faili &lt;b&gt;%1&lt;/b&gt; haiwezi kuhifadhiwa kwenye SharePoint kwa sababu kuna mgogoro wa mabadiliko. Waraka uliopakua una mabadiliko yaliyofanywa katika &lt;b&gt;%2&lt;/b&gt; lakini seva ina mabadiliko mapya katika &lt;b&gt;%3&lt;/b&gt;. Hifadhi mabadiliko yako kwenye faili mpya kisha fungua waraka wa mwisho na kuacha kutoka SharePoint. Unganisha mabadiliko kisha yahifadhi kwenye seva.</text>
+		<text id="msg.saveFailed" h="967D2A64">Imefeli kuhifadhi. Tafadhali kagua kuwa faili lina jina sahihi, haijapatiwa mtumiaji tofauti na kuwa unavibali vinayohitajika kulihariri.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Faili &lt;b&gt;%1&lt;/b&gt; ipo tayari. Je, ungetaka kuibadilisha?</text>
+		<text id="msg.signOutError" h="0E6A5F45">Imefeli kumtoa mtumiaji wa sasa kutoka kwa seva ya SharePoint. Hata hivyo, unaweza bado kufikia seva ya SharePoint bila ombi la uthibitishaji.</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="E1A7E642">Unafungua faili &lt;b&gt;%1&lt;/b&gt; lakini hauna vibali ya kuhariri faili hii. Tafadhali tambua kuwa hautaweza kuhifadhi mabadiliko kwenye SharePoint kama hauna vibali vinavyohitajika.</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">Faili &lt;b&gt;%1&lt;/b&gt; imepatiwa mtumiaji "%2". Hauwezi hifadhi faili hii kwenye SharePoint mpaka ambapo "%2" atatupilia hali ya kuachiwa. Iwapo "%2" atarudisha faili ikiwa na mabadiliko utapata mgogoro wa mabadiliko.</text>
+		<text id="opt.keepCkeckedOut" h="15301A94">&amp;Bakiza faili uliopata baada ya kuhifadhi</text>
+		<text id="str.sharePoint" h="56A5F9B3">SharePoint</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">SharePoint</text>
+	</Strings>
+</Localization>

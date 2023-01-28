@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180402174800">2.00.00</Version>
+	<Author>Hélio de Souza</Author>
+	<Copyright>Hélio de Souza ©
+hdstec@gmail.com</Copyright>
+	<Product id="XCShellMenu"/>
+	<Language eName="Portuguese (Brazil)" lName="Português" code="pt-BR" R2L="false"/>
+	<Module name="XCShellMenu" namespace="" version="7.0.324.4"/>
+	<Strings>
+		<text id="menu.open" h="D08F8302">Abrir no PDFXChange Editor</text>
+		<text id="menu.combine" h="BF3B40FB">Combinar no PDF XChange Editor</text>
+		<text id="menu.open.help" h="DB2C9B04">Abrir arquivos no PDF XChange Editor</text>
+		<text id="menu.combine.help" h="3E8460C6">Combinar arquivos no PDF XChange Editor</text>
+	</Strings>
+</Localization>

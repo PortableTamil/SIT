@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180402175641">2.00.00</Version>
+	<Author>Andy Chen</Author>
+	<Copyright></Copyright>
+	<Product id="XCShellExt"/>
+	<Language eName="Chinese (Traditional, Taiwan)" lName="中文(繁體)" code="zh-TW" R2L="true"/>
+	<Module name="XCShellExt" namespace="" version="7.0.324.4"/>
+	<Strings>
+		<text id="title" h="930D3835">標題:</text>
+		<text id="subject" h="A59102F6">主題：</text>
+		<text id="author" h="7E318A91">作者:</text>
+		<text id="keywords" h="EE89DD49">關鍵字:</text>
+		<text id="keywords2" h="D125B2C4">關鍵字</text>
+		<text id="producer" h="30A8E856">生產者:</text>
+		<text id="producer2" h="C54CE945">生產者</text>
+		<text id="producer.description" h="3EFB9FA5">製造商 PDF</text>
+		<text id="size" h="17A58A52">大小</text>
+		<text id="encrypted" h="83E2242D">加密:</text>
+		<text id="encrypted2" h="0A613267">&lt;加密&gt;</text>
+		<text id="creator" h="48BB2AC2">作者:</text>
+		<text id="creator2" h="CF26EE59">作者</text>
+		<text id="creator.description" h="C2D9A34F">創建文檔的應用程式</text>
+		<text id="pdfVersion" h="4C06CDA5">PDF 版本</text>
+		<text id="pdfVersion2" h="52D57621">PDF 版本</text>
+		<text id="pdfVersion.description" h="3087428D">規格的 PDF 版本</text>
+		<text id="infoTip.pages" h="145D976C">頁: %d 頁
+		</text>
+		<text id="zoomMode.actualSize" h="5E4611C5">實際大小</text>
+		<text id="zoomMode.fitPage" h="E07FD6B2">合適頁面</text>
+		<text id="zoomMode.fitWidth" h="0AB6EA6C">合適寬度</text>
+		<text id="noPreview" h="6A6778D0">預覽不可用</text>
+		<text id="MegaBytes" h="54CE5298">MB</text>
+		<text id="KiloBytes" h="71A50D44">KB</text>
+		<text id="GigaBytes" h="3B73B2FC">GB</text>
+		<text id="TeraBytes" h="79DF4A8D">TB</text>
+		<text id="bytes" h="01ABC3DA">位元組</text>
+		<text id="no" h="6651A799">否</text>
+		<text id="yes" h="DC948BC4">是</text>
+		<text id="numOfPages" h="114E2EF6">%d 頁</text>
+		<text id="notAllowed" h="50D7EDBB">不允許</text>
+		<text id="lowRes" h="D33F1C80">低解析度</text>
+		<text id="fullyAllowed" h="1E5C0EC1">完全授權</text>
+		<text id="allowed" h="D74F0AF3">允許</text>
+		<text id="pdfInfo" h="E96E93B9">PDF 資訊</text>
+		<text id="docInfo" h="8E6BE160">文檔資訊</text>
+		<text id="linearized" h="BA000D8B">快速訪問:</text>
+		<text id="pages" h="23952CFD">頁:</text>
+		<text id="docSecurity" h="C4D42148">文檔保護:</text>
+		<text id="printing" h="515F6B19">列印:</text>
+		<text id="changing" h="8F212BD7">編輯文檔:</text>
+		<text id="copying" h="A3FBC31C">複製內容或檢索:</text>
+		<text id="commenting" h="00D1CE97">注釋和表單欄位的作者:</text>
+		<text id="formFilling" h="000F1E62">填寫表單欄位或簽名:</text>
+		<text id="contAccessibility" h="307DE41E">內容可用性:</text>
+		<text id="docAssembly" h="54F5D6FC">文檔程式集:</text>
+		<text id="pageExtraction" h="4511684F">正在檢索頁:</text>
+		<text id="signing" h="D103863D">簽署:</text>
+		<text id="xcPropSheetCaption" h="E96E93B9">PDF 資訊</text>
+		<text id="tool.hand" h="1C47D4CB">Hand</text>
+		<text id="cmd.view.goto.firstPage" h="DFC0D45F">首頁</text>
+		<text id="cmd.view.goto.firstPage.tip" h="631EFAFD">轉到文檔的第一頁.</text>
+		<text id="cmd.view.goto.lastPage" h="1848BA27">最後一頁</text>
+		<text id="cmd.view.goto.lastPage.tip" h="51B1BF96">轉到文檔的最後一頁.</text>
+		<text id="cmd.view.goto.prevPage" h="5F473CED">上一頁</text>
+		<text id="cmd.view.goto.prevPage.tip" h="55CEF405">轉到文檔的上一頁.</text>
+		<text id="cmd.view.goto.nextPage" h="8695A6CE">下一頁</text>
+		<text id="cmd.view.goto.nextPage.tip" h="8F537F4E">轉到文檔的下一頁.</text>
+		<text id="cmd.view.gotoPage" h="6A0FCD98">轉到頁碼</text>
+		<text id="cmd.view.gotoPage.tip" h="DE1F81BE">轉到指定頁碼.</text>
+		<text id="cmd.zoomIn" h="21C9A3BF">放大</text>
+		<text id="cmd.zoomIn.tip" h="7A209714">放大頁面。</text>
+		<text id="cmd.zoomOut" h="7749FC62">縮小</text>
+		<text id="cmd.zoomOut.tip" h="A00D108F">縮小頁面。</text>
+		<text id="cmd.zoom.combo" h="71AD5FC1">縮放</text>
+		<text id="cmd.zoom.combo.tip" h="9DAF1E10">為文檔設置自訂縮放級別.</text>
+		<text id="cmd.zoom.level.actual" h="10ADBDEF">實際大小</text>
+		<text id="cmd.zoom.level.actual.tip" h="F4F3470F">將縮放比例設置為100% 以顯示文檔的實際頁面大小。</text>
+		<text id="cmd.zoom.level.fitWidth" h="2EA35656">適合寬度</text>
+		<text id="cmd.zoom.level.fitWidth.tip" h="82C4DEAE">設置縮放級別, 使頁面寬度與視窗的寬度匹配。</text>
+		<text id="cmd.zoom.level.fitPage" h="2E705B13">適合頁面</text>
+		<text id="cmd.zoom.level.fitPage.tip" h="D2455889">設置縮放級別, 使頁面 (或兩個前頁) 與文件視窗匹配。</text>
+		<text id="cmd.tool.hand" h="648630C6">手型工具</text>
+		<text id="cmd.tool.hand.tip" h="97579DF6">按一下此處可在文檔中移動.</text>
+		<text id="cmd.selectLanguage" h="DF3F8256">選擇語言</text>
+		<text id="cmd.selectLanguage.tip" h="47EE650B">從子功能表中選擇一種語言.</text>
+		<text id="cmd.selectSysLang" h="31F4B9FA">使用地區設定</text>
+		<text id="cmd.selectBuildInLang" h="1C70EF34">英語 (美國), 內置</text>
+	</Strings>
+</Localization>

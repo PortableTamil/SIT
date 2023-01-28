@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123230436">2.00.00</Version>
+	<Author>Alfonso Seoage</Author>
+	<Copyright>Alfonso Seoage © 
+jassgali@hotmail.con</Copyright>
+	<Product id="PDFXDriver"/>
+	<Language eName="Galician (Galician)" lName="Galego" code="gl-ES" R2L="false"/>
+	<Module name="pdfSaver" namespace="saver" version="7.0.323.3"/>
+	<Strings>
+		<text id="about.version" h="2558B135">Versión: %1</text>
+		<text id="btn.help" h="2C29CD29">Axuda...</text>
+		<text id="btn.hide" h="C4F1F414">&amp;Ocultar</text>
+		<text id="dlg.About" h="F2596574">Sobre</text>
+		<text id="dlg.AskDocInfo" h="8E6BE160">Informacións do Documento</text>
+		<text id="dlg.Progress" h="B3F9EEBF">Progresso da Impresión</text>
+		<text id="dlg.Settings" h="9147CD71">Configuracións</text>
+		<text id="docInfo.enable" h="F0A9B0E7">Inserir informacións adicionais no &amp;documento</text>
+		<text id="docinfo.author" h="3A9F9808">&amp;Autor:</text>
+		<text id="docinfo.creator" h="1B812E77">&amp;Creador:</text>
+		<text id="docinfo.enable" h="F0A9B0E7">Coloque información adicional no &amp;documento</text>
+		<text id="docinfo.g.title" h="E96E93B9">Informacións do PDF</text>
+		<text id="docinfo.keywords" h="70561097">Palabras &amp;Clave:</text>
+		<text id="docinfo.subject" h="F6AB0643">A&amp;sunto:</text>
+		<text id="docinfo.title" h="A6AB0B5B">&amp;Título:</text>
+		<text id="errDlg.header" h="E8A076C8">Non é posible gardar &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="errDlg.text" h="3FD6CA0D">Ocorreu un erro ao gardar o documento nun arquivo
+&lt;b&gt;%1&lt;/b&gt;</text>
+		<text id="filter.all" h="A1868C9F">Todos Arquivos</text>
+		<text id="filter.pdf" h="21DC74BD">Documentos PDF (*.pdf)</text>
+		<text id="l.sec" h="68B35B56">segundos</text>
+		<text id="mainDlg" h="60C6805D">PDF-XChange Standard: pdfSaver</text>
+		<text id="msg.tray.close" h="7E4415DD">pdfSaver non foi pechado.
+Para saír de  pdfSaver, elixa Saír do menú da bandexa.</text>
+		<text id="opt.autoUnload" h="96863D52">Descargue a&amp;utomaticamente &lt;i&gt;pdfSaver&lt;/i&gt; despois de:</text>
+		<text id="opt.g1.title" h="30673BCD">Xeral</text>
+		<text id="opt.g2.title" h="6781287A">Axustes</text>
+		<text id="opt.keepFile" h="537941B8">Non remover arquivos temporais</text>
+		<text id="opt.keepFolder" h="F30EC396">Non borre o cartafol temporal no inicio de  PDFSaver</text>
+		<text id="opt.showProgress" h="86E70298">Mostrar xanela de &amp;Progreso de impresión</text>
+		<text id="opt.systray" h="D55CEA00">Mostrar &amp;Icona no Systray</text>
+		<text id="overDlg.header" h="54920390">O arquivo '%1' xa existe</text>
+		<text id="overDlg.text" h="984124BE">Por favor, especifique as accións necesarias:</text>
+		<text id="overwrite.append" h="98ADB7C4">Anexar
+Anexar contido do novo arquivo a un existente</text>
+		<text id="overwrite.autoNumber" h="95BDC2AD">Número automático
+Gardar coa función de número automático</text>
+		<text id="overwrite.leaveJob" h="0CE1E2D3">Pospoñer
+Cancele a operación do traballo e abandone o traballo</text>
+		<text id="overwrite.over" h="13CC8739">Sobrescrever
+Substituir arquivo existente</text>
+		<text id="overwrite.prepend" h="7703513C">Inserir Antes
+Mezclar con o arquivo existente</text>
+		<text id="overwrite.select" h="60AA7DB4">Seleccione outro arquivo
+Seleccione outro nome de arquivo para o documento novo</text>
+		<text id="progress.done" h="F14B47CB">%1%% completado</text>
+		<text id="progress.generating" h="4509E71B">Xerando PDF...</text>
+		<text id="progress.optimizing" h="6F2453BB">Otimizando...</text>
+		<text id="progress.page" h="962EF85B">Páxina %1</text>
+		<text id="progress.saving" h="B1CEA7B0">Gardando PDF...</text>
+		<text id="progress.sending" h="BBDB8877">Enviando PDF...</text>
+		<text id="progress.spooling" h="D7D10A9E">A cola de impresión</text>
+		<text id="save.btn.additional" h="36A51922">Propriedades &amp;Adicionais...</text>
+		<text id="save.cb.append" h="DF2206AB">Anexar ao &amp;PDF existente</text>
+		<text id="save.cb.email" h="93B339D4">&amp;Enviar o PDF por e-mail despois de gardar</text>
+		<text id="save.cb.run" h="B14F25C0">Executar o &amp;visualizador despois de gardar</text>
+		<text id="tryAgain" h="B119E265">Tenteo de novo</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117213624">2.00.00</Version>
+	<Author>Michael Dodl</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXDriver"/>
+	<Language eName="German (Germany)" lName="Deutsch" code="de-DE" R2L="false"/>
+	<Module name="pdfSaver" namespace="saver" version="6.0.322.7"/>
+	<Strings>
+		<text id="about.version" h="2558B135">Version: %1</text>
+		<text id="btn.help" h="2C29CD29">&amp;Hilfe...</text>
+		<text id="btn.hide" h="C4F1F414">&amp;Verbergen</text>
+		<text id="dlg.About" h="F2596574">Über</text>
+		<text id="dlg.AskDocInfo" h="8E6BE160">Dokumentinformationen</text>
+		<text id="dlg.Progress" h="B3F9EEBF">Druckfortschritt</text>
+		<text id="dlg.Settings" h="9147CD71">Einstellungen</text>
+		<text id="docInfo.enable" h="F0A9B0E7">Zusätzliche Informationen im &amp;Dokument speichern</text>
+		<text id="docinfo.author" h="3A9F9808">Autor:</text>
+		<text id="docinfo.creator" h="1B812E77">Ersteller:</text>
+		<text id="docinfo.enable" h="F0A9B0E7">Zusätzliche Informationen im &amp;Dokument speichern</text>
+		<text id="docinfo.g.title" h="E96E93B9">PDF-Informationen</text>
+		<text id="docinfo.keywords" h="70561097">Schlüsselwörter:</text>
+		<text id="docinfo.subject" h="F6AB0643">Betreff:</text>
+		<text id="docinfo.title" h="A6AB0B5B">Name:</text>
+		<text id="errDlg.header" h="E8A076C8">&lt;b&gt;%1&lt;/b&gt; kann nicht gespeichert werden.</text>
+		<text id="errDlg.text" h="3FD6CA0D">Ein Fehler ist beim Speichern des Dokuments in die Datei aufgetreten:
+&lt;b&gt;%1&lt;/b&gt;</text>
+		<text id="filter.all" h="A1868C9F">Alle Dateien</text>
+		<text id="filter.pdf" h="21DC74BD">PDF-Dokumente (*.pdf)</text>
+		<text id="l.sec" h="68B35B56">Sekunden</text>
+		<text id="mainDlg" h="60C6805D">PDF-XChange Standard: pdfSaver</text>
+		<text id="msg.tray.close" h="7E4415DD">pdfSaver wurde nicht beendet.
+Um pdfSaver zu beenden, wählen Sie den Eintrag Beenden aus dem Menü im Infobereich.</text>
+		<text id="opt.autoUnload" h="96863D52">&lt;i&gt;pdfSaver&lt;/i&gt; a&amp;utomatisch schließen nach:</text>
+		<text id="opt.g1.title" h="30673BCD">Allgemein</text>
+		<text id="opt.g2.title" h="6781287A">Feineinstellungen</text>
+		<text id="opt.keepFile" h="537941B8">Temporäre &amp;Dateien nicht löschen</text>
+		<text id="opt.keepFolder" h="F30EC396">Temporären &amp;Ordner beim Start von pdfSaver nicht löschen</text>
+		<text id="opt.showProgress" h="86E70298">Druck&amp;fortschritt anzeigen</text>
+		<text id="opt.systray" h="D55CEA00">Symbol im &amp;Infobereich anzeigen</text>
+		<text id="overDlg.header" h="54920390">Die Datei '%1' existiert bereits</text>
+		<text id="overDlg.text" h="984124BE">Bitte wählen Sie eine Aktion aus:</text>
+		<text id="overwrite.append" h="98ADB7C4">Anhängen
+Hängt den Inhalt der neuen Datei an eine existierende an</text>
+		<text id="overwrite.autoNumber" h="95BDC2AD">Automatisch nummerieren
+Nummeriert die Dokumente beim Speichern automatisch</text>
+		<text id="overwrite.leaveJob" h="0CE1E2D3">Verschieben
+Bricht die Ausführung des Auftrags ab und speichert ihn.</text>
+		<text id="overwrite.over" h="13CC8739">Überschreiben
+Überschreibt die existierende Datei</text>
+		<text id="overwrite.prepend" h="7703513C">Davor einfügen
+Fügt den Inhalt der neuen Datei vor einer existierenden ein</text>
+		<text id="overwrite.select" h="60AA7DB4">Eine andere Datei wählen
+Einen anderen Dateinamen für das neue Dokument auswählen</text>
+		<text id="progress.done" h="F14B47CB">%1%% verarbeitet</text>
+		<text id="progress.generating" h="4509E71B">Erstelle PDF...</text>
+		<text id="progress.optimizing" h="6F2453BB">Optimiere...</text>
+		<text id="progress.page" h="962EF85B">Seite %1</text>
+		<text id="progress.saving" h="B1CEA7B0">Speichere PDF...</text>
+		<text id="progress.sending" h="BBDB8877">Sende PDF...</text>
+		<text id="progress.spooling" h="D7D10A9E">Druck vorbereiten</text>
+		<text id="save.btn.additional" h="36A51922">&amp;Zusätzliche Eigenschaften...</text>
+		<text id="save.cb.append" h="DF2206AB">An existierendes &amp;PDF anhängen</text>
+		<text id="save.cb.email" h="93B339D4">PDF nach dem &amp;Erstellen versenden</text>
+		<text id="save.cb.run" h="B14F25C0">PDF-Datei nach dem Speichern an&amp;zeigen</text>
+		<text id="tryAgain" h="B119E265">Erneut versuchen</text>
+	</Strings>
+</Localization>

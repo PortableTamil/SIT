@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627193906">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Finnish (Finland)" lName="Suomi" code="fi-FI" R2L="false"/>
+	<Module name="OneDrivePlugin" namespace="od" version="7.0.325.10"/>
+	<Strings>
+		<text id="DlgOpenFile" h="F5F0D3C4">Avaa tiedosdto OneDrivesta</text>
+		<text id="DlgSaveFile" h="8E6D35E7">Tallenna tiedosto OneDriveen</text>
+		<text id="GDPlugin" h="55E9533C">OneDrive laajennus</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Uusi kirjautuminen...</text>
+		<text id="cmd.cmdsCategory" h="A8DDA089">OneDrive </text>
+		<text id="cmd.onedrive" h="FBE7A43C">&amp;OneDrive </text>
+		<text id="cmd.open" h="C3A80FF4">&amp;OneDrive... </text>
+		<text id="cmd.open.tip" h="03DE0A0A">Avaa tiedosto OneDrivesta.</text>
+		<text id="cmd.save" h="C3A80FF4">&amp;OneDrive... </text>
+		<text id="cmd.save.tip" h="BC9750BB">Tallenna aktiivinen asiakirja OneDriveen.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Tiedostoa ei löydy</text>
+		<text id="cpt.invalidFileName" h="79C1387C">Virheellinen tiedostonimi</text>
+		<text id="cpt.navigateError" h="3D300A1C">Navigointivirhe</text>
+		<text id="cpt.saveReplace" h="520CB069">Tallenna tiedosto</text>
+		<text id="cpt.selectFile" h="C55D68B0">Valitaan tiedostoa</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Tiedostoa ei voi tallentaa kansioon</text>
+		<text id="dlg.Auth" h="EC0513C8">$$$.od.dlg.Auth </text>
+		<text id="dlg.Auth" h="6D5E22C0">One Drive todennus</text>
+		<text id="fileName" h="DEC92488">Tiedostonimi:</text>
+		<text id="lb.CurrentFolder" h="44158804">Nykyinen kansio:</text>
+		<text id="lb.Test" h="273F3E5B">Testi Testi Testi!</text>
+		<text id="lb.onedriveAccName" h="740F2198">OneDrive tili:</text>
+		<text id="ls.column.created" h="FE6510B7">Luontipäivä</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Päivämäärä ja aika, jolloin tiedosto, kansio tai luettelo luotiin</text>
+		<text id="ls.column.extension" h="14FEB836">Pääte</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Tiedostopääte</text>
+		<text id="ls.column.modified" h="7E234D6D">Muokkauspäivä</text>
+		<text id="ls.column.modified.hint" h="12933E76">Päivämäärä ja aika, jolloin tiedostoa, kansiota tai luetteloa viimeksi muokattiin</text>
+		<text id="ls.column.size" h="17A58A52">Koko</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Tiedostokoko</text>
+		<text id="ls.column.title" h="D18643E3">Nimi</text>
+		<text id="ls.column.title.hint" h="6A895576">Tiedostonimi, kansion nimi tai luettelon otsikko</text>
+		<text id="msg.fileNotFound" h="430E08B1">Tiedostoa "%1" ei löydy nykyisestä kansiosta.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">%1 ei ole kelvollinen tiedostonimi.</text>
+		<text id="msg.navigateError" h="9C1CD106">OneDrive-resurssiin navigointi epäonnistui. Tarkista Internet-yhteys ja oikeudet halutun OneDrive-resurssin käyttämiseen.</text>
+		<text id="msg.openFailed" h="AC94D960">Tiedoston avaaminen epäonnistui. Varmista, että tiedosto on olemassa, ei ole kuitattu ulos toiselle käyttäjälle ja sinulla on lukuoikeudet siihen.</text>
+		<text id="msg.saveFailed" h="4D413392">Tiedoston tallentaminen epäonnistui. Varmista, että tiedostonimi on kelvollinen ja sinulla on kirjoitusoikeudet siihen.</text>
+		<text id="msg.saveReplace" h="5D56833E">Tiedosto %1 on jo olemassa. Haluatko korvata sen?</text>
+		<text id="msg.selectFile" h="2530C20F">Valitse tiedosto, ennen kuin painat OK</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Tiedostoa ei voi tallentaa valittuun paikkaan. Tallenna tiedosto 'Oma asemani' -kansioon, yhteen sen alikansioista tai johonkin 'Jaettu kanssani' -alakansioista.</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">Oma asema</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Jaettu kanssani</text>
+	</Strings>
+</Localization>

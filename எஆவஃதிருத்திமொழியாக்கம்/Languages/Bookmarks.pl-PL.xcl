@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627193939">2.00.00</Version>
+	<Author>Marek Szczepański, Logilink</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Polish (Poland)" lName="Polski" code="pl-PL" R2L="false"/>
+	<Module name="BookmarksPlugin" namespace="bp" version="7.0.325.10"/>
+	<Strings>
+		<text id="DlgAddExcludedWords" h="BED549D0">Dodaj nowy wyraz(y) do wykluczenia</text>
+		<text id="DlgAddTextToBookmark" h="E5B26485">Dodaj tekst do tytułu zakładki</text>
+		<text id="DlgAutoGenerateBookmarks.Title" h="0E85373B">Generuj zakładki z tekstu strony</text>
+		<text id="DlgBookmarkAppearance" h="7544DDCE">Wygląd wynikowy</text>
+		<text id="DlgBookmarkEveryNthPage" h="B6869582">Zakładka co n-tą stronę</text>
+		<text id="DlgBookmarkLevelDescription" h="186C1D0A">Opcje dopasowania tekstu</text>
+		<text id="DlgBookmarkPropSheet" h="862C67E7">Właściwości generowania zakładek</text>
+		<text id="DlgBookmarkTitleFormatting" h="A87502C2">Formatowanie tytułu</text>
+		<text id="DlgBookmarksToNamedDests" h="8A0957E5">Konwertuj na odsyłacze</text>
+		<text id="DlgBookmarksToTextFile" h="29F18B82">Eksportuj zakładki do pliku tekstowego</text>
+		<text id="DlgChangeBookmarkCase" h="4D74C7D9">Zmień wielkość liter</text>
+		<text id="DlgEditStopWords" h="911413E7">Edytuj wyrazy kończące</text>
+		<text id="DlgFindReplaceBookmarkText" h="733A7FC1">Znajdź i zamień tekst zakładek</text>
+		<text id="DlgFontNames" h="3C8B1F88">Wybierz nazwę(y) czcionki</text>
+		<text id="DlgFromTOC" h="AC2ED85C">Zakładki ze spisu treści</text>
+		<text id="DlgFromTOCIndentation" h="12688622">Zmień przesunięcia</text>
+		<text id="DlgFromTextFile" h="B3799046">Generuj zakładki z pliku tekstowego</text>
+		<text id="DlgNamedDestsToPageNumbers" h="9CAE5E39">Konwertuj odsyłacze na zwykłe odsyłacze</text>
+		<text id="DlgSetBookmarkZoomType" h="296A1A5F">Ustaw powiększenie zakładek</text>
+		<text id="DlgSheetBttfBookmarkProps" h="4B2F0AA2">Właściwości zakładki</text>
+		<text id="DlgSheetBttfSelectBookmarks" h="30673BCD">Ogólne</text>
+		<text id="DlgSortBookmarks" h="8339BB6C">Sortuj zakładki</text>
+		<text id="DlgToTOC" h="2B3E9BF1">Utwórz spis treści</text>
+		<text id="DlgValidateBookmarks" h="0CD39971">Weryfikuj zakładki</text>
+		<text id="atb.btn.Macroses" h="81734E4F">Mac</text>
+		<text id="atb.chb.IncludeChildren" h="0AC4CB2B">Uwzględnij wszystkie podpoziomy</text>
+		<text id="atb.chb.ProcessAllLevels" h="26C3B2DF">Przetwarzaj wszystkie poziomy zakładek</text>
+		<text id="atb.chb.RemoveSpaces" h="ABDEA5BC">Usuń nadmierne odstępy z oryginalnego tytułu zakładki</text>
+		<text id="atb.gb.AddText" h="E21C9B55">Dodaj tekst</text>
+		<text id="atb.gb.Levels" h="8A668489">Zaznacz poziom zakładek do przetworzenia</text>
+		<text id="atb.gb.LevelsToProc" h="A69D7BF6">Poziomy do przetworzenia:</text>
+		<text id="atb.gb.SelectSource" h="1E2E96A4">Wybierz źródło zakładki</text>
+		<text id="atb.lbl.ApplyChangesTo" h="5770CF16">Zastosuj zmiany do:</text>
+		<text id="atb.lbl.PrefixShort" h="D2C57DF1">Dodaj prefiks:</text>
+		<text id="atb.lbl.SelectLevel" h="D1263889">Poziom do przetworzenia:</text>
+		<text id="atb.lbl.SuffixShort" h="310B0AA6">Dodaj sufiks:</text>
+		<text id="atb.lbl.UseBookmarksFrom" h="E770326C">Użyj zakładek:</text>
+		<text id="ba.chb.expand" h="BBA3BD8A">Pokaż rozwinięte (pokaż wszystkie podrzędne)</text>
+		<text id="ba.l.expl" h="EE297184">Wybierz wygląd wizualny wynikowych zakładek:</text>
+		<text id="ba.l.textStyle" h="8D5CA9B5">Styl tekstu:</text>
+		<text id="benp.Gb.Main" h="4B2F0AA2">Właściwości zakładki</text>
+		<text id="benp.Label.TitleTemplate" h="5E999567">Szablon tytułu zakładki:</text>
+		<text id="benp.Label1.SelectN" h="8626E4EA">Zakładka co</text>
+		<text id="benp.Label2.SelectN" h="6270721D">stron(y) w wybranym zakresie stron</text>
+		<text id="benp.infoBtn.invalidMacro" h="1561C0F2">Ciąg zawiera niezdefiniowaną nazwę makro, która będzie zignorowana</text>
+		<text id="bft.l.actionSeparator" h="5C05CE1E">Separator parametrów akcji:</text>
+		<text id="bft.l.separator" h="A4269065">Separator pola:</text>
+		<text id="bld.btn.selStyle" h="EE213BC5">Pobierz styl z zaznaczonego tekstu</text>
+		<text id="bld.chb.fontNames" h="AB457B23">Nazwa czcionki:</text>
+		<text id="bld.chb.limitToPattern" h="7F0826AB">Ogranicz tytuły zakładek tylko do pasującego wzorca</text>
+		<text id="bld.chb.matchTextPattern" h="5A64E195">Wzór pasującego tekstu:</text>
+		<text id="bld.chb.multilineBookmarks" h="CB4817D1">Pozwól na wieloliniowe tytuły zakładek</text>
+		<text id="bld.g.textContentRules" h="5B364747">Reguły zawartości tekstu:</text>
+		<text id="bld.l.description" h="2F770A5B">Wybierz kombinację następujących atrybutów tekstu, aby automatycznie generować zakładki z tekstu w dokumencie:</text>
+		<text id="bld.l.matchTextCase" h="43616BDA">Wielkość liter:</text>
+		<text id="bld.matchTextCase.allCapital" h="D4E8E731">Wszystkie litery duże</text>
+		<text id="bld.matchTextCase.firstCapital" h="CAA2E79D">Pierwszy znak jest duży</text>
+		<text id="bld.matchTextCase.firstDigit" h="42E73545">Pierwszy znak jest cyfrą</text>
+		<text id="bld.matchTextCase.noRestrictions" h="93089981">Brak ograniczeń</text>
+		<text id="bnd.gb.Main" h="4DDA9780">Tytuł odsyłacza</text>
+		<text id="bnd.lbl.NDTitle" h="7F7F73EC">Tytuł odsyłacza będzie stworzony przy użyciu wzoru:</text>
+		<text id="btf.chb.insertAfter" h="DD7B743E">Dodaj tekst po każdym tytule:</text>
+		<text id="btf.chb.insertBefore" h="CBDD1CF8">Wstaw tekst przed każdym tytułem:</text>
+		<text id="btf.chb.removeDuplicateSpaces" h="2653A648">Usuń podwójne spacje</text>
+		<text id="btf.chb.replaceLineBreaks" h="0C51EEEB">Zastąp podziały linii spacjami</text>
+		<text id="btf.chb.replaceTitle" h="097EF3C2">Wyszukaj i zastąp tytuł zakładki wzorem tekstu</text>
+		<text id="btf.g.advancedFormatting" h="9130441A">Zaawansowane formatowanie</text>
+		<text id="btf.g.textCase" h="97FCC959">Wielkość liter</text>
+		<text id="btf.l.characters" h="189C88D2">(znaków)</text>
+		<text id="btf.l.expl" h="169A084A">Wybierz właściwości tekstu, które mają być zastosowane do nowych tytułów zakładek:</text>
+		<text id="btf.l.leadingNumbers" h="074A1A51">Numerowanie:</text>
+		<text id="btf.l.maxLength" h="A52EC501">Maks. długość tytułu:</text>
+		<text id="btf.l.replacePattern" h="B54B1F92">Wzór zastąpienia:</text>
+		<text id="btf.l.searchPattern" h="E87DDC08">Wzór szukania:</text>
+		<text id="btf.l.use" h="46DEA47A">Użyj:</text>
+		<text id="btf.leadingNumbers.noChange" h="3399B0A0">Bez zmian</text>
+		<text id="btf.rb.doNotChange" h="4CBF2C1B">Nie zmieniaj</text>
+		<text id="btf.rb.lowercase" h="82451817">małe litery</text>
+		<text id="btf.rb.sentenceCase" h="B26B2798">Jak w zdaniu</text>
+		<text id="btf.rb.titleCase" h="2C8DBF1B">Jak w Tytule</text>
+		<text id="btf.rb.uppercase" h="42F820C7">DUŻE LITERY</text>
+		<text id="btf.use.letters" h="6EE7E478">Litery</text>
+		<text id="btf.use.numbers" h="E2FE5FA7">Numery</text>
+		<text id="btf.use.romanLetters" h="290A50ED">Liczby rzymskie</text>
+		<text id="btn.add.custom" h="3080663C">Dodaj własne...</text>
+		<text id="btn.highlight" h="2485FBFF">Podświetl zakładkę</text>
+		<text id="btn.validate" h="1E91E484">Weryfikuj</text>
+		<text id="cbc.aew.label" h="7EC386C0">Dodaj nowy wyraz(y) do wykluczenia wpisując jeden wyraz na linię  (wciśnij "Enter" po każdym wyrazie):</text>
+		<text id="cbc.cb.fromBookmarks" h="CF38CD8D">Wybrane</text>
+		<text id="cbc.cb.fromDocument" h="424CAFC5">Wszystkie zakładki</text>
+		<text id="cbc.cb.fromSelectedBookmarks" h="2DFD9D02">Wybrane zakładki</text>
+		<text id="cbc.chb.EnterCustomWordList" h="EB8ACE1B">Wprowadź listę wyrazów, które nie będą przetwarzane</text>
+		<text id="cbc.chb.IncludeChildrenBookmarks" h="051C6219">Uwzględnij wszystkie podzakładki</text>
+		<text id="cbc.gb.SelectTextCase" h="F9747FC0">Wielkość liter</text>
+		<text id="cbc.gb.TextCaseOptions" h="DAD7B4F4">Opcje</text>
+		<text id="cbc.list.header" h="647D6FC4">Wykluczone wyrazy</text>
+		<text id="cbc.rbtn.LowerCase" h="82451817">małe litery</text>
+		<text id="cbc.rbtn.SentenceCase" h="B26B2798">Jak w zdaniu</text>
+		<text id="cbc.rbtn.TitleCase" h="2C8DBF1B">Jak w Tytule</text>
+		<text id="cbc.rbtn.UpperCase" h="42F820C7">DUŻE LITERY</text>
+		<text id="chb.ignoreDuplicates" h="B30FC50E">Ignoruj kolejne zduplikowane zakładki</text>
+		<text id="chb.stopWords" h="491ED7FC">Ignoruj tekst zawierający wyrazy kończące</text>
+		<text id="chb.verifyLinks" h="7A46B598">Weryfikuj linki do plików zewnętrznych</text>
+		<text id="chb.warnGoTo" h="911FC68A">Ostrzegaj o nieprawidłowych akcjach Idź do</text>
+		<text id="chb.warnGoToRE" h="C0827D11">Ostrzegaj o nieprawidłowych akcjach GoToR i GoToE</text>
+		<text id="chb.warnLaunchURI" h="94F27C09">Ostrzegaj o nieprawidłowych akcjach uruchomienia i URI</text>
+		<text id="chb.warnNoActions" h="FBF997CF">Ostrzegaj o pustej liście akcji lub nieprawidłowych podrzędnych</text>
+		<text id="chb.warnNoGoTo" h="66B02339">Ostrzegaj o nieobecności akcji Idź do w liście akcji</text>
+		<text id="chb.warnOther" h="B30D6C64">Ostrzegaj o innych nieprawidłowych akcjach</text>
+		<text id="chb.warnTitle" h="F0B5EE52">Ostrzegaj o pustym tytule</text>
+		<text id="cmd.addAGBLevel" h="928E2BB5">Użyj tekstu do generowania zakładki...</text>
+		<text id="cmd.addTextToBookmarkTitle" h="C4C93738">Dodaj tekst do tytułu zakładki...</text>
+		<text id="cmd.addTextToBookmarkTitle.short" h="E21C9B55">Dodaj tekst</text>
+		<text id="cmd.addTextToBookmarkTitle.tip" h="B412507B">Dodaje prefiksy i sufiksy do tytułów zakładek.</text>
+		<text id="cmd.bookmarkEveryNthPage" h="940FCD39">Zakładka co n-tą stronę...</text>
+		<text id="cmd.bookmarkEveryNthPage.short" h="71BCE832">Zakładka co n-tą stronę</text>
+		<text id="cmd.bookmarkEveryNthPage.tip" h="B60E23D7">Tworzy zakładki w odniesieniu do numerów stron dokumentu.</text>
+		<text id="cmd.bookmarksToHtmlFile" h="EFF75744">Eksportuj zakładki do HTML...</text>
+		<text id="cmd.bookmarksToHtmlFile.short" h="76C20816">Eksportuj do HTML</text>
+		<text id="cmd.bookmarksToHtmlFile.tip" h="8968844D">Zapisuje strukturę zakładek jako plik HTML.</text>
+		<text id="cmd.bookmarksToNamedDests" h="9A9E5CF2">Konwertuj na odsyłacze...</text>
+		<text id="cmd.bookmarksToNamedDests.short" h="9226CE11">Konwertuj na odsyłacze</text>
+		<text id="cmd.bookmarksToNamedDests.tip" h="76CA39A1">Konwertuje zwykłe odsyłacze w listach akcji zakładek na odsyłacze. Następnie, kiedy strony zostaną przeniesione lub usunięte, zakładki wskażą te same strony co wcześniej.</text>
+		<text id="cmd.bookmarksToTextFile" h="DBEBEEB8">Eksportuj zakładki do pliku tekstowego...</text>
+		<text id="cmd.bookmarksToTextFile.short" h="738D44A8">Eksport do pliku tekstowego</text>
+		<text id="cmd.bookmarksToTextFile.tip" h="2F1DD236">Zapisuje strukturę zakładek jako plik tekstowy.</text>
+		<text id="cmd.changeBookmarkCase" h="359544B0">Zmień wielkość liter...</text>
+		<text id="cmd.changeBookmarkCase.short" h="BC4AE60A">Zmień wielkość liter</text>
+		<text id="cmd.changeBookmarkCase.tip" h="48522DE3">Zmienia wielkość tytułów zakładek.</text>
+		<text id="cmd.findReplaceBookmarkText" h="AF996007">Znajdź i zamień tekst zakładek...</text>
+		<text id="cmd.findReplaceBookmarkText.short" h="9F35A871">Znajdź i zamień</text>
+		<text id="cmd.findReplaceBookmarkText.tip" h="7ED81F66">Lokalizuje i zamienia elementy tekstu w tytułach zakładek.</text>
+		<text id="cmd.fromTOC" h="D15400EB">Generuj zakładkę ze spisu treści...</text>
+		<text id="cmd.fromTOC.short" h="3AB39C50">Ze spisu treści</text>
+		<text id="cmd.fromTOC.tip" h="D4170828">Tworzy zakładki z istniejącego spisu treści. Spis treści należy najpierw wybrać za pomocą narzędzia Wybierz tekst.</text>
+		<text id="cmd.fromTextFile" h="55CA46BC">Generuj zakładki z pliku tekstowego...</text>
+		<text id="cmd.fromTextFile.short" h="3619B3DB">Z pliku tekstowego</text>
+		<text id="cmd.fromTextFile.tip" h="11167525">Tworzy zakładki z pliku tekstowego. Zwróć uwagę, że format danych pliku tekstowego powinien być zgodny z regułami funkcji Eksportuj zakładki do pliku tekstowego.</text>
+		<text id="cmd.generate" h="2147DF79">Generuj zakładki z tekstu strony...</text>
+		<text id="cmd.generate.short" h="8BE514A6">Z tekstu strony</text>
+		<text id="cmd.generate.tip" h="2A03253C">Tworzy zakładki z tekstu bieżącego dokumentu, używając podanego stylu i parametrów czcionki.</text>
+		<text id="cmd.macro.firstLine" h="613F14A5">Pierwsza linia tekstu strony</text>
+		<text id="cmd.macro.hierIndex" h="7DCA5F4D">Indeks hierarchiczny</text>
+		<text id="cmd.macro.hierTitle" h="0E7B4B6F">Hierarchiczny tytuł zakładki</text>
+		<text id="cmd.macro.indexInParent" h="1B41AFB1">Indeks nadrzędny</text>
+		<text id="cmd.macro.label" h="EEE40FF3">Etykieta strony</text>
+		<text id="cmd.macro.launch" h="87D9EB8D">Plik do otwarcia</text>
+		<text id="cmd.macro.level" h="B863033F">Poziom zakładki</text>
+		<text id="cmd.macro.namedDest" h="C4E8D8F5">Odsyłacz</text>
+		<text id="cmd.macro.sequentialNum" h="CDF4EA5E">Kolejny numer</text>
+		<text id="cmd.macro.title" h="3AB782A4">Tytuł zakładki</text>
+		<text id="cmd.macro.uri" h="6C21F7EF">Link sieciowy do otwarcia</text>
+		<text id="cmd.name" h="E2032460">Zakładki</text>
+		<text id="cmd.namedDestsToPageNumbers" h="3A651CA9">Konwertuj odsyłacze na zwykłe odsyłacze...</text>
+		<text id="cmd.namedDestsToPageNumbers.short" h="74C22304">Odsyłacze na zwykłe odsyłacze</text>
+		<text id="cmd.namedDestsToPageNumbers.tip" h="2ABF8034">Konwertuje odsyłacze w listach akcji zakładek na zwykłe odsyłacze. Następnie, kiedy strony są przenoszone lub usuwane, zakładki wskażą strony odpowiadające numerom stron odsyłaczy.</text>
+		<text id="cmd.setBookmarksZoomFactor" h="78663694">Zmień współczynnik powiększenia zakładek...</text>
+		<text id="cmd.setBookmarksZoomFactor.short" h="37A2CF55">Zmień powiększenie</text>
+		<text id="cmd.setBookmarksZoomFactor.tip" h="E5EE8A34">Zmienia współczynnik powiększenia zakładek dokumentu.</text>
+		<text id="cmd.sort" h="B1FFF012">Sortuj zakładki...</text>
+		<text id="cmd.sort.short" h="579162B0">Sortuj</text>
+		<text id="cmd.sort.tip" h="90B74C06">Sortuje zakładki wg podanych kryteriów.</text>
+		<text id="cmd.toTOC" h="9B7AEEEA">Utwórz spis treści...</text>
+		<text id="cmd.toTOC.short" h="2B3E9BF1">Utwórz spis treści</text>
+		<text id="cmd.toTOC.tip" h="E92DA1A8">Tworzy spis treści na podstawie struktury zakładek i stron, na które wskazują.</text>
+		<text id="cmd.validate" h="E61D60D2">Weryfikuj zakładki...</text>
+		<text id="cmd.validate.short" h="1E91E484">Weryfikuj</text>
+		<text id="cmd.validate.tip" h="AF7C0DD0">Sprawdza zakładki pod kątem prawidłowości wg podanych kryteriów.</text>
+		<text id="ebttf.actType.all" h="B8B21253">Zakładki ze wszystkimi typami akcji linków</text>
+		<text id="ebttf.actType.goto" h="05B4C93C">Zakładki z akcjami 'Idź do strony'</text>
+		<text id="ebttf.actType.gotoR" h="41E1955E">Zakładki z akcjami 'Idź do zdalnego'</text>
+		<text id="ebttf.actType.js" h="07676EBA">Zakładki z akcjami Javascript</text>
+		<text id="ebttf.actType.launch" h="38537D36">Zakładki z akcjami 'Otwórz plik'</text>
+		<text id="ebttf.actType.uri" h="F39B51AE">Zakładki z akcjami 'Otwórz link internetowy'</text>
+		<text id="ebttf.cb.separator.comma" h="827998F7">Przecinek</text>
+		<text id="ebttf.cb.separator.semi" h="988594A6">Średnik</text>
+		<text id="ebttf.ch.doNotEscape" h="09B53F9F">Nie omijaj symboli usług, takich jak @ # { } \ : itp.</text>
+		<text id="ebttf.ch.expClosedState" h="46E4EC7E">Eksportuj "złożony" stan drzewa zakładek</text>
+		<text id="ebttf.ch.expDetailedGotoDescr" h="18B9C243">Eksportuj szczegółowy opis celu</text>
+		<text id="ebttf.ch.exportActions" h="3444FE51">Eksportuj akcje zakładki</text>
+		<text id="ebttf.ch.exportGoto" h="37493654">Eksportuj stronę, na którą wskazuje zakładka</text>
+		<text id="ebttf.ch.exportGotoR" h="92C06BA6">Eksportuj opis akcji 'Idź do zdalnego'</text>
+		<text id="ebttf.ch.exportJS" h="9362EAE3">Eksportuj kod akcji JavaScript</text>
+		<text id="ebttf.ch.exportLaunch" h="1B39BF89">Eksportuj opis akcji 'Otwórz plik'</text>
+		<text id="ebttf.ch.exportStyle" h="A6713F10">Eksportuj właściwości stylu tekstu i koloru zakładek</text>
+		<text id="ebttf.ch.exportWebLinks" h="3C61424C">Eksportuj linki sieciowe</text>
+		<text id="ebttf.ch.includeSubBookmarks" h="051C6219">Uwzględnij wszystkie podzakładki</text>
+		<text id="ebttf.ch.openContFolder" h="80BDDAAC">Otwórz folder zawierający</text>
+		<text id="ebttf.ch.overwriteExistingFiles" h="29981774">Nadpisz istniejący plik(i)</text>
+		<text id="ebttf.ch.resloveNamedDests" h="D1E8A9BC">Zmień odsyłacze na numery stron</text>
+		<text id="ebttf.gb.actionExportParams" h="DA853D34">Wybierz właściwości zakładki do eksportu</text>
+		<text id="ebttf.gb.savingResults" h="49571A59">Parametry wyjściowe</text>
+		<text id="ebttf.gb.selectBookmarks" h="E2AFC2C6">Wybierz zakładki do eksportu</text>
+		<text id="ebttf.infoBtn.doNotEscape" h="93A6DD6C">Omijanie symboli usług jest wskazane, jeśli w przyszłości zamierzasz użyć pliku wyjściowego z funkcją "Generuj zakładki z pliku tekstowego".</text>
+		<text id="ebttf.infoBtn.invalidSeparator" h="44875D1F">Separator właściwości nie może być pustym ciągiem, zawierać alfanumerycznych symboli lub spacji i nie może być jednym z następujących znaków: @ # : { } \</text>
+		<text id="ebttf.lbl.folder" h="3F9ED2F9">Folder:</text>
+		<text id="ebttf.lbl.separator" h="E9D351AC">Separator właściwości:</text>
+		<text id="ebttf.rb.exportActionTypes" h="533F8EA6">Eksportuj zakładki działające z hiperłączami:</text>
+		<text id="ebttf.rb.exportAll" h="8F2ED544">Eksportuj wszystko</text>
+		<text id="ebttf.rb.exportSelected" h="69FB5145">Eksportuj wybrane zakładki</text>
+		<text id="ebttf.rb.useDefaultFilename" h="0E7FC989">Użyj nazwy pliku dokumentu PDF do zapisania wyniku</text>
+		<text id="esw.chb.matchCase" h="2E5EFD7E">Zachowaj wielkość liter</text>
+		<text id="esw.chb.matchWhole" h="17009870">Tylko pełne wyrazy</text>
+		<text id="esw.chb.useRegExp" h="7FC6EB4F">Użyj wyrażeń regularnych</text>
+		<text id="esw.l.explanation" h="2C312B17">Tekst zawierający wyrazy kończące będzie ignorowany i nie będzie używany do tworzenia zakładek.</text>
+		<text id="fn.l.selectFontNames" h="0CCEF1FA">Wybierz nazwę(y) czcionki:</text>
+		<text id="frbt.chb.MatchCase" h="12EB8088">Dopasuj litery</text>
+		<text id="frbt.chb.MatchWholeWord" h="FE8CC762">Tylko pełny wyraz</text>
+		<text id="frbt.chb.UseRegex" h="7FC6EB4F">Użyj wyrażeń regularnych</text>
+		<text id="frbt.gb.FindReplace" h="BA012728">Opcje Znajdź i zamień</text>
+		<text id="frbt.lbl.FindWhat" h="D0A8A2C5">Co znaleźć:</text>
+		<text id="frbt.lbl.ReplaceWith" h="3BE65784">Zastąp za pomocą:</text>
+		<text id="ftoc.allIncluded" h="C994FC1B">Uwzględnij wszystko</text>
+		<text id="ftoc.b.indents" h="48800D32">Zmień przesunięcia...</text>
+		<text id="ftoc.chb.addBookmarks" h="CBBAE768">Dodaj zakładki do stron używając spisu treści</text>
+		<text id="ftoc.chb.addLinks" h="68456DBA">Dodaj linki do wpisów spisu treści</text>
+		<text id="ftoc.chb.createLevels" h="58CF083A">Użyj wcięć spisu treści, aby utworzyć hierarchię zakładek</text>
+		<text id="ftoc.chb.improveDest" h="417AD7B0">Popraw miejsca docelowe zakładek na podstawie tekstu</text>
+		<text id="ftoc.chb.trimNumbers" h="40ACC5F5">Usuń numery prefiksów z tytułów zakładek</text>
+		<text id="ftoc.chb.trimSpaces" h="5A27A063">Usuń kolejne spacje z tytułów zakładek</text>
+		<text id="ftoc.chb.useExistingLinks" h="E214DBE7">Użyj istniejących linków dla nowych miejsc docelowych zakładki</text>
+		<text id="ftoc.l.bottomIndent" h="C983AD6F">Przesunięcie dolne:</text>
+		<text id="ftoc.l.expl" h="1FAB779E">Operacja ta spowoduje dodanie zakładek do stron w oparciu o wybrane pozycje spisu treści. Dodatkowo, można dodawać linki do spisu treści lub istniejące linki mogą być użyte jako miejsca docelowe zakładek.</text>
+		<text id="ftoc.l.offsetExpl" h="9D6C25F6">Jest to różnica między fizycznymi numerami stron w dokumencie, a drukowanymi numerami stron, które mogą być dodatnie lub ujemne.</text>
+		<text id="ftoc.l.pageOffset" h="9E563407"> Przesunięcie strony:</text>
+		<text id="ftoc.l.separator" h="45CF4893">Wybierz typ separatora:</text>
+		<text id="ftoc.l.topIndent" h="FA827580">Przesunięcie górne:</text>
+		<text id="msg.bft.warning" h="726201E6">Wybierz różne symbole separatora pól i separatora akcji!</text>
+		<text id="msg.cbc.excludedwords.add.title" h="9ADE883B">Dodaj nowy wyraz do wykluczenia</text>
+		<text id="msg.cbc.excludedwords.caption" h="6B29D4B4">Wprowadź wyraz do wykluczenia:</text>
+		<text id="msg.cbc.excludedwords.edit.title" h="82F8AAA6">Edytuj zaznaczone wyrazy do wykluczenia</text>
+		<text id="msg.dlg.bookmarksToTextFile.done" h="8E1397E9">Zakładki zostały pomyślnie wyeksportowane.</text>
+		<text id="msg.dlg.emptyFilename.warning" h="96A438DA">Nazwa pliku nie może być pusta.</text>
+		<text id="msg.dlg.invalidFilename.slashes" h="626318B0">Nazwa pliku nie może zawierać kolejnych symboli \ lub /, ani kończyć się żadnym z nich.</text>
+		<text id="msg.dlg.invalidFilename.warning" h="46CD566C">System Windows nie zezwala na to, aby nazwy plików zawierały którekolwiek z symboli: * ? : | " &lt; &gt; </text>
+		<text id="msg.dlg.noActionsSelected.warning" h="933F1901">Pole wyboru "Eksportuj akcje zakładki" zostało wybrane bez określonych typów akcji. Wybierz jedną lub więcej typu akcji do eksportu lub odznacz pole wyboru "Eksportuj akcje zakładki".</text>
+		<text id="msg.dlg.noSelectedBookmarks.warning" h="21F37C67">Nie wybrano żadnych zakładek. Zaznacz jedną lub więcej zakładek lub zmień parametr Źródło zakładek na "Wszystkie zakładki".</text>
+		<text id="msg.dlg.pathDoesntExist.warning" h="0804B942">Określony folder nie istnieje. Wybierz właściwy folder docelowy i spróbuj ponownie.</text>
+		<text id="msg.font.addCustom.caption" h="75533687">Wprowadź nową nazwę czcionki PDF:</text>
+		<text id="msg.font.addCustom.title" h="06AFFCAB">Dodaj nową czcionkę niestandardową</text>
+		<text id="msg.frbt.result.bookmarksCount" h="EE00AC0B">Wyszukiwanie zakończone. Łączna liczba zmodyfikowanych zakładek: %1</text>
+		<text id="msg.frbt.result.noBookmarksModified" h="84BE491B">Wyszukiwanie zakończone. Żadna zakładka nie została zmodyfikowana.</text>
+		<text id="msg.levelDesc.title" h="E92EACC5">Specyfikacja poziomu</text>
+		<text id="msg.levelDesc.warning" h="86A85979">Nie można utworzyć nowego poziomu zakładki dla bieżących parametrów. Wybierz co najmniej jedno z pasujących kryteriów w opcjach dopasowania tekstu. Sprawdź także, czy wybrane elementy zawierają dane.</text>
+		<text id="msg.oper.noChanges" h="5777DD79">Nie wprowadzono żadnych zmian. Sprawdź dane wejściowe i spróbuj ponownie.</text>
+		<text id="msg.oper.warning" h="ABDCBB65">Wystąpiły problemy podczas wykonywania operacji. Sprawdź otrzymane wyniki.</text>
+		<text id="msg.regex.error" h="D799FCBE">Błąd składni wyrażenia regularnego</text>
+		<text id="msg.stopWords.add.title" h="F6B54725">Dodaj nową frazę kończącą</text>
+		<text id="msg.stopWords.caption" h="E2BC1B9E">Wprowadź nowy wyraz kończący lub zdanie kończące:</text>
+		<text id="msg.stopWords.edit.title" h="AFE604DF">Edytuj zaznaczoną frazę kończącą</text>
+		<text id="msg.titleFormatting.title" h="A87502C2">Formatowanie tytułu</text>
+		<text id="msg.titleFormatting.warning" h="1E329424">Określono nieprawidłowe parametry formatowania tytułu. Sprawdź wprowadzone dane i spróbuj ponownie.</text>
+		<text id="msg.validateBookmarks.delete.caption" h="ED4457F4">Czy chcesz usunąć wybrane zakładki i podrzędne zakładki?</text>
+		<text id="msg.validateBookmarks.delete.title" h="8FF00765">Usuń nieprawidłową zakładkę</text>
+		<text id="msg.validateBookmarks.rename.caption" h="CE842D61">Wprowadź nową nazwę zakładki:</text>
+		<text id="msg.validateBookmarks.rename.title" h="ED9AF7FA">Zmień nazwę zakładki</text>
+		<text id="ndpn.ch.deleteDests" h="BC12FBF0">Usuń przekonwertowane odsyłacze z dokumentu</text>
+		<text id="op.GenerateBookmarks" h="05382BCA">Generuj zakładki</text>
+		<text id="op.ValidateBookmarks.msg.emptyActionsList" h="A0A0065C">Zakładka nie ma przypisanych akcji.</text>
+		<text id="op.ValidateBookmarks.msg.emptyTitle" h="83F3E965">Tytuł zakładki jest pusty.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidDestName" h="81A40483">Akcja Idź do odnosi się do nieprawidłowego odsyłacza.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidPageNumber" h="C8941D79">Akcja Idź do odnosi się do strony, która jest poza zakresem.</text>
+		<text id="op.ValidateBookmarks.msg.goto.noAction" h="368F0970">Brak akcji Idź do w liście akcji.</text>
+		<text id="op.ValidateBookmarks.msg.gotoE.invalidTargetPath" h="9D8A50F1">Ścieżka docelowa jest pusta lub nie występuje w akcji Idź do.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidFile" h="76CCA61D">Akcja GoToR odnosi się do nieprawidłowego pliku.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidPath" h="560614BE">Ścieżka do pliku jest nieprawidłowa.</text>
+		<text id="op.ValidateBookmarks.msg.invalidAction" h="84877FDA">Akcja %1 jest nieprawidłowa.</text>
+		<text id="progress.BookmarkEveryNthPage.title" h="DA523087">Tworzenie zakładek na stronie...</text>
+		<text id="progress.addTextToBookmarkTitle.text" h="BE27C5C9">Dodawanie tekstu do zakładki: %1...</text>
+		<text id="progress.addTextToBookmarkTitle.title" h="EC7EB408">Dodawanie tekstu do zakładek...</text>
+		<text id="progress.addingBookmark" h="45BBB17E">Dodawanie zakładek: %1 z %2...</text>
+		<text id="progress.bookmarksToHtmlFile.status" h="AF1901AD">Eksportowanie zakładek %1 z %2...</text>
+		<text id="progress.bookmarksToHtmlFile.text" h="4DD531FF">Eksportowanie zakładki: %1...</text>
+		<text id="progress.bookmarksToHtmlFile.title" h="E1D21FEE">Eksportowanie zakładek do HTML...</text>
+		<text id="progress.bookmarksToNamedDests.text" h="CE73819F">Konwertowanie zakładek: %1...</text>
+		<text id="progress.bookmarksToNamedDests.title" h="8DB00717">Konwertowanie na odsyłacze...</text>
+		<text id="progress.bookmarksToTextFile.text" h="6E74EA26">Przetwarzanie zakładki do eksportu: %1</text>
+		<text id="progress.bookmarksToTextFile.title" h="D2C04472">Eksportowanie zakładek do pliku tekstowego...</text>
+		<text id="progress.calculatingBookmarks" h="4AC26E12">Liczenie zakładek...</text>
+		<text id="progress.changingBookmarkCase.text" h="107628CA">Zmiana wielkości liter: %1...</text>
+		<text id="progress.changingBookmarkCase.title" h="E01AED17">Zmiana wielkości liter...</text>
+		<text id="progress.findReplaceBookmarkText.text" h="ABC58F1D">Przetwarzanie zakładki: %1</text>
+		<text id="progress.findReplaceBookmarkText.title" h="00FEBD2A">Zastępowanie tekstu zakładki...</text>
+		<text id="progress.generateBookmarks" h="3D5E30ED">Generowanie zakładek ze strony %1...</text>
+		<text id="progress.generatingBookmarks" h="CFF0F2A9">Generowanie zakładek</text>
+		<text id="progress.generatingBookmarks.label" h="043CF7B1">Dodawanie zakładki: %1...</text>
+		<text id="progress.generatingLevels" h="07A22443">Generowanie poziomów z zakładek...</text>
+		<text id="progress.generatingTOC" h="A438CB9C">Generowanie spisu treści</text>
+		<text id="progress.generatingTOCFromBookmark" h="C9213435">Generowanie zawartości z zakładki: %1...</text>
+		<text id="progress.namedDestsToPageNumbers.deleteNds" h="5DFFFF06">Usuwanie odsyłaczy...</text>
+		<text id="progress.namedDestsToPageNumbers.title" h="4615CB0B">Konwertowanie odsyłaczy na numery stron...</text>
+		<text id="progress.parsingFile" h="B2405DA1">Odczytywanie struktury zakładek z pliku tekstowego...</text>
+		<text id="progress.precalculatingPages" h="DB83BEF7">Tworzenie stron(y) dla spisu treści...</text>
+		<text id="progress.preparingSelected" h="52031EDE">Przygotowywanie wybranych zakładek...</text>
+		<text id="progress.settingBookmarksZoom" h="DF2C9E26">Zmiana powiększenia zakładki: %1...</text>
+		<text id="progress.settingBookmarksZoom.status" h="FB6B6DCD">Zmiana powiększenia zakładki %1 z %2...</text>
+		<text id="progress.settingBookmarksZoom.title" h="5567B65E">Zmiana powiększenia zakładki</text>
+		<text id="progress.sortingBookmarks" h="99E846CF">Sortowanie zakładki: %1...</text>
+		<text id="progress.sortingBookmarks.status" h="451C3890">Sortowanie zakładki %1 z %2...</text>
+		<text id="progress.sortingBookmarks.title" h="E134B46E">Sortowanie zakładek</text>
+		<text id="progress.statusText.ProcessingBookmarks" h="3836AD6B">Przetwarzanie zakładki %1 z %2...</text>
+		<text id="progress.statusText.ProcessingBookmarksDone" h="67CB6C48">Zakończono przetwarzanie zakładek.</text>
+		<text id="progress.undoingChanges" h="BBD3EE96">Cofanie zmian...</text>
+		<text id="rbar.convert" h="EFAC3874">Konwertuj</text>
+		<text id="rbar.create" h="EDCA1553">Utwórz</text>
+		<text id="rbar.modify" h="EA358CAF">Zmodyfikuj</text>
+		<text id="regex.error.backref" h="3D1C1BE5">Wyrażenie zawierało nieprawidłowe odwołanie do źródła.</text>
+		<text id="regex.error.badbrace" h="4363EA7D">Wyrażenie zawierało nieprawidłowy zakres między nawiasami klamrowymi: {' i '}.</text>
+		<text id="regex.error.badrepeat" h="9091944F">Wyrażenie zawierało powtarzalny specyfikator (jeden z *?+{), który nie był poprzedzony prawidłowym wyrażeniem regularnym.</text>
+		<text id="regex.error.brace" h="3031B0A1">Wyrażenie zawierało brakujące nawiasy klamrowe: {' i '}.</text>
+		<text id="regex.error.brack" h="A41AB311">Wyrażenie zawierało brakujące nawiasy kwadratowe: [' i '].</text>
+		<text id="regex.error.collate" h="D15FB49F">Wyrażenie zawierało nieprawidłową nazwę elementu zestawienia.</text>
+		<text id="regex.error.complexity" h="76ADCA5C">Wyszukiwanie pasujących wyników za pomocą wyrażenia regularnego było zbyt złożone.</text>
+		<text id="regex.error.ctype" h="76D6C176">Wyrażenie zawierało nieprawidłową nazwę klasy znaków.</text>
+		<text id="regex.error.default" h="509A660E">Wystąpił błąd podczas przetwarzania wyrażenia regularnego.</text>
+		<text id="regex.error.escape" h="4BAF1552">Wyrażenie zawierało nieprawidłowy ominięty znak lub pozostawione ominięcie.</text>
+		<text id="regex.error.paren" h="11F2EE54">Wyrażenie zawierało brakujące nawiasy: (' i ').</text>
+		<text id="regex.error.range" h="CDB00023">Wyrażenie zawierało nieprawidłowy zakres znaków (np. [z-a])</text>
+		<text id="regex.error.space" h="2FFB9DD7">Za mało pamięci do obsłużenia tego wyrażenia regularnego.</text>
+		<text id="regex.error.stack" h="2F47E3EC">Za mało pamięci, aby określić, czy wyrażenie regularne może pasować do określonej sekwencji znaków.</text>
+		<text id="regex.error.syntax" h="4F399035">Błąd w składni wyrażenia regularnego.</text>
+		<text id="rtab" h="E2032460">Zakładki</text>
+		<text id="sb.ascending" h="59F2363F">Rosnąco</text>
+		<text id="sb.chb.ignoreCase" h="E0949C6C">Ignoruj wielkość liter</text>
+		<text id="sb.chb.sortAll" h="7BB3E98C">Sortuj wszystkie poziomy zakładek</text>
+		<text id="sb.chb.sortChildren" h="B1087C90">Sortuj zakładki podrzędne</text>
+		<text id="sb.descending" h="74091246">Malejąco</text>
+		<text id="sb.g.sortingMethod" h="93D0D863">Metoda sortowania</text>
+		<text id="sb.l.selectLevel" h="62FA8E9C">Wybierz poziom zakładek do sortowania:</text>
+		<text id="sb.l.sortType" h="85828DAE">Typ sortowania:</text>
+		<text id="sb.rb.sortAlpha" h="F9CD110C">Sortuj zakładki alfabetycznie</text>
+		<text id="sb.rb.sortByPage" h="EB2AF7E4">Sortuj zakładki wg numerów stron</text>
+		<text id="sbz.chb.changeGoToE" h="0F9F7991">Zmień poziom powiększenia akcji GoToE</text>
+		<text id="sbz.chb.changeGoToR" h="CDE782F7">Zmień poziom powiększenia akcji GoToR</text>
+		<text id="sbz.chb.changeNamedDestinations" h="182510AD">Zmień odsyłacze użyte w zakładkach</text>
+		<text id="sbz.gb.zoomParams" h="89DAAEE8">Parametry powiększenia</text>
+		<text id="test" h="A538F326">Ciąg testowy</text>
+		<text id="tree.fontColor" h="210B1C91">Kolor tekstu:</text>
+		<text id="tree.fontName" h="ACA86074">Nazwa czcionki:</text>
+		<text id="tree.fontSize" h="B3CE43BA">Rozmiar:</text>
+		<text id="tree.fontTolerance" h="7781AAB6">Tolerancja:</text>
+		<text id="tree.level" h="9B075A86">Poziom:</text>
+		<text id="tree.textPattern" h="24121AD7">Wzór tekstu:</text>
+		<text id="tree.vb.bookmark" h="9926EC31">&lt;b&gt;%1. Zakładka:&lt;/b&gt; "%2"</text>
+		<text id="ttoc.b.build" h="DE9A0F1C">Utwórz</text>
+		<text id="ttoc.b.changeNumber" h="DD04BEA8">Zmień format...</text>
+		<text id="ttoc.b.changeTitle" h="3B951B9A">Zmień format tytułu...</text>
+		<text id="ttoc.chb.asLastPage" h="D323F9DD">Jako ostatnia strona</text>
+		<text id="ttoc.chb.end" h="9F41B967">Użyj wszystkich poziomów zakładek</text>
+		<text id="ttoc.chb.skipInvalid" h="F864C487">Pomiń nieprawidłowe zakładki</text>
+		<text id="ttoc.chb.useDifferentNumberFormatting" h="A39D9F18">Użyj własnego formatu numeracji</text>
+		<text id="ttoc.chb.useDifferentSeparatorFormatting" h="7D6F82B2">Użyj własnego formatu separatora</text>
+		<text id="ttoc.chb.useSizeFromDoc" h="79C19271">Ustal rozmiar strony dokumentu</text>
+		<text id="ttoc.g.pageNumbering" h="21AF4605">Numerowanie stron</text>
+		<text id="ttoc.g.pageSettings" h="D82087B4">Ustawienia strony</text>
+		<text id="ttoc.ib.numberFormat" h="D41C6CB8">&lt;b&gt;Format numeracji:&lt;/b&gt; &lt;i&gt;Rodzina czcionek:&lt;/i&gt; %1, &lt;i&gt;Wielkość czcionki:&lt;/i&gt; %2 pt, &lt;i&gt;Kolor czcionki:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.separatorFormat" h="14A80F28">&lt;b&gt;Format separatora:&lt;/b&gt; &lt;i&gt;Rodzina czcionek:&lt;/i&gt; %1, &lt;i&gt;Wielkość czcionki:&lt;/i&gt; %2 pt, &lt;i&gt;Kolor czcionki:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.titleFormat" h="4A9C0388">&lt;b&gt;Tytuł formatu:&lt;/b&gt; &lt;i&gt;Rodzina czcionek:&lt;/i&gt; %1, &lt;i&gt;Wielkość czcionki:&lt;/i&gt; %2 pt, &lt;i&gt;Kolor czcionki:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.l.end" h="43FA653A">Ostatni poziom zakładki do uwzględnienia w spisie:</text>
+		<text id="ttoc.l.insertAsPage" h="B68AF5B1">Wstaw spis przed stroną:</text>
+		<text id="ttoc.l.outputPagesAs" h="96E6A50A">Wyjściowe numery stron jako:</text>
+		<text id="ttoc.l.pageMargins" h="DA4D6B15">Marginesy strony:</text>
+		<text id="ttoc.l.start" h="B03149CB">Pierwszy poziom zakładki do uwzględnienia w spisie:</text>
+		<text id="ttoc.l.title" h="930D3835">Tytuł:</text>
+		<text id="ttoc.l.titleFormatting" h="21C775EE">Zaktualizuj formatowanie tytułu:</text>
+		<text id="ttoc.output.bates" h="ECE56FA9">Numeracja Batesa (jeśli obecne)</text>
+		<text id="ttoc.output.labels" h="EAE579C1">Etykiety stron</text>
+		<text id="ttoc.output.numbers" h="38E0043C">Oryginalne numery stron</text>
+		<text id="ttoc.style.dots" h="C13D9439">Rozdział..........1</text>
+		<text id="ttoc.style.spaces" h="D9E4F5A0">Rozdział          1</text>
+		<text id="ttoc.style.underline" h="B52B746A">Rozdział______1</text>
+		<text id="ttoc.tableOfContents" h="080B4CC0">Spis treści</text>
+		<text id="undefinedFont" h="1DF66129">&lt;i&gt;Niezdefiniowana czcionka (%1)&lt;/i&gt;</text>
+		<text id="vb.invalidALWarining" h="6B3E67E5">Zmiany zostały zanegowane z powodu niepoprawnej listy akcji. Pozostaw co najmniej jedną akcję!</text>
+		<text id="vb.l.invalidBookmarks" h="EE502FFE">Znaleziono %1 nieprawidłowych zakładek</text>
+	</Strings>
+</Localization>

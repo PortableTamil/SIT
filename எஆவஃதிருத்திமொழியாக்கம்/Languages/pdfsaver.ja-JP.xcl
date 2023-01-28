@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627200255">2.00.00</Version>
+	<Author>Tz</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXDriver"/>
+	<Language eName="Japanese (Japan)" lName="日本語" code="ja-JP" R2L="false"/>
+	<Module name="pdfSaver" namespace="saver" version="7.0.325.10"/>
+	<Strings>
+		<text id="about.version" h="2558B135">Version : %1</text>
+		<text id="btn.help" h="2C29CD29">ヘルプ...</text>
+		<text id="btn.hide" h="C4F1F414">非表示（&amp;H）</text>
+		<text id="dlg.About" h="F2596574">PDF-XChange について</text>
+		<text id="dlg.AskDocInfo" h="8E6BE160">ドキュメント情報</text>
+		<text id="dlg.Progress" h="B3F9EEBF">印刷の進行状況</text>
+		<text id="dlg.Settings" h="9147CD71">設定</text>
+		<text id="docInfo.enable" h="F0A9B0E7">ドキュメントに追加情報を埋め込む（&amp;D）</text>
+		<text id="docinfo.author" h="3A9F9808">作者（&amp;A）：</text>
+		<text id="docinfo.creator" h="1B812E77">作成者（&amp;C）：</text>
+		<text id="docinfo.enable" h="F0A9B0E7">ドキュメントに追加情報を埋め込む（&amp;D）</text>
+		<text id="docinfo.g.title" h="E96E93B9">PDF 情報</text>
+		<text id="docinfo.keywords" h="70561097">キーワード（&amp;K）：</text>
+		<text id="docinfo.subject" h="F6AB0643">標題（&amp;O）：</text>
+		<text id="docinfo.title" h="A6AB0B5B">タイトル（&amp;T）：</text>
+		<text id="errDlg.header" h="E8A076C8">&lt;b&gt;%1&lt;/b&gt; を保存できません</text>
+		<text id="errDlg.text" h="3FD6CA0D">ドキュメントをファイルに保存中にエラーが発生しました：
+&lt;b&gt;%1&lt;/b&gt;</text>
+		<text id="filter.all" h="A1868C9F">すべてのファイル</text>
+		<text id="filter.pdf" h="21DC74BD">PDF ドキュメント (*.pdf)</text>
+		<text id="l.sec" h="68B35B56">秒</text>
+		<text id="mainDlg" h="60C6805D">PDF-XChange Standard : pdfSaver</text>
+		<text id="msg.tray.close" h="7E4415DD">pdfSaver が終了していません
+pdfSaver を終了するには、トレイメニューから終了メニューを選択してください</text>
+		<text id="opt.autoUnload" h="96863D52">指定時間後に &lt;i&gt;pdfSaver&lt;/i&gt; を終了する :</text>
+		<text id="opt.g1.title" h="30673BCD">一般</text>
+		<text id="opt.g2.title" h="6781287A">詳細設定</text>
+		<text id="opt.keepFile" h="537941B8">テンポラリファイルを削除しない</text>
+		<text id="opt.keepFolder" h="F30EC396">pdfSaver の起動時にテンポラリフォルダを消去しない</text>
+		<text id="opt.showProgress" h="86E70298">印刷の進行状況ウィンドウを表示する（&amp;P）</text>
+		<text id="opt.systray" h="D55CEA00">システムトレイにアイコンを表示する（&amp;I）</text>
+		<text id="overDlg.header" h="54920390">ファイル「%1」はすでに存在します</text>
+		<text id="overDlg.text" h="984124BE">必要なアクションを指定してください：</text>
+		<text id="overwrite.append" h="98ADB7C4">追加
+新しいファイルのコンテンツをすでに存在しているコンテンツに追加します</text>
+		<text id="overwrite.autoNumber" h="95BDC2AD">自動採番
+自動採番機能を使って保存します</text>
+		<text id="overwrite.leaveJob" h="0CE1E2D3">延期
+ジョブ操作をキャンセルしてジョブを終了します</text>
+		<text id="overwrite.over" h="13CC8739">上書き
+既存のファイルに上書きします</text>
+		<text id="overwrite.prepend" h="7703513C">前に挿入
+既存のファイルでマージします</text>
+		<text id="overwrite.select" h="60AA7DB4">別のファイルを選択
+新しいドキュメントに対して別のファイル名を選択してください</text>
+		<text id="progress.done" h="F14B47CB">%1%% 完了</text>
+		<text id="progress.generating" h="4509E71B">PDF を生成...</text>
+		<text id="progress.optimizing" h="6F2453BB">最適化しています...</text>
+		<text id="progress.page" h="962EF85B">%1 ページ</text>
+		<text id="progress.saving" h="B1CEA7B0">PDF を保存しています...</text>
+		<text id="progress.sending" h="BBDB8877">PDF を送信しています...</text>
+		<text id="progress.spooling" h="D7D10A9E">スプールしています</text>
+		<text id="save.btn.additional" h="36A51922">追加のプロパティ（&amp;A）...</text>
+		<text id="save.cb.append" h="DF2206AB">すでに存在する PDF に追加（&amp;P）</text>
+		<text id="save.cb.email" h="93B339D4">作成後に PDF をメール送信（&amp;E）</text>
+		<text id="save.cb.run" h="B14F25C0">保存した後にビューアで表示する</text>
+		<text id="tryAgain" h="B119E265">再実行</text>
+	</Strings>
+</Localization>

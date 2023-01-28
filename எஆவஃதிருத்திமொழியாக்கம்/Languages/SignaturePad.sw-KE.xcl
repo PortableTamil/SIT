@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123215759">2.00.00</Version>
+	<Author>Kelvin Muriuki</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Kiswahili (Kenya)" lName="Kiswahili" code="sw-KE" R2L="false"/>
+	<Module name="SignaturePad" namespace="sigpad" version="7.0.323.3"/>
+	<Strings>
+		<text id="btn.clear" h="8A6A002B">Fu&amp;ta</text>
+		<text id="dgl.drawsign.title" h="8BE10CB7">Chora Saini</text>
+		<text id="signature.pad" h="1CB89F08">Pedi ya Saini</text>
+		<text id="signature.pad.desc" h="B2E4D573">Tumia Pedi ya Saini ya kompyuta yako kuunda saini.</text>
+		<text id="msg.nodevice" h="69EAAE3A">Hakuna &lt;i&gt;kifaa kinachokubalika&lt;/i&gt; kilichopo.
+
+Tafadhali hakikisha kuwa kifaa kimeunganishwa na kuwa
+ viendeshi halali vimesakinishwa,
+ kisha jaribu tena.</text>
+	</Strings>
+</Localization>

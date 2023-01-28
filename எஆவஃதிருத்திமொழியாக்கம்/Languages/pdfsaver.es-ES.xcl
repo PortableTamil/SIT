@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123230436">2.00.00</Version>
+	<Author>A. Herráez</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXDriver"/>
+	<Language eName="Spanish (Spain, Traditional Sort)" lName="Español" code="es-ES" R2L="false"/>
+	<Module name="pdfSaver" namespace="saver" version="7.0.323.3"/>
+	<Strings>
+		<text id="about.version" h="2558B135">Versión %1</text>
+		<text id="btn.help" h="2C29CD29">A&amp;yuda...</text>
+		<text id="btn.hide" h="C4F1F414">&amp;Ocultar</text>
+		<text id="dlg.About" h="F2596574">Acerca del programa</text>
+		<text id="dlg.AskDocInfo" h="8E6BE160">Información del documento</text>
+		<text id="dlg.Progress" h="B3F9EEBF">Progreso de la impresión</text>
+		<text id="dlg.Settings" h="9147CD71">Configuración</text>
+		<text id="docInfo.enable" h="F0A9B0E7">Colocar información adicional en el &amp;documento</text>
+		<text id="docinfo.author" h="3A9F9808">&amp;Autor:</text>
+		<text id="docinfo.creator" h="1B812E77">&amp;Creado por:</text>
+		<text id="docinfo.enable" h="F0A9B0E7">Colocar información adicional en el documento</text>
+		<text id="docinfo.g.title" h="E96E93B9">Información de PDF</text>
+		<text id="docinfo.keywords" h="70561097">&amp;Palabras clave:</text>
+		<text id="docinfo.subject" h="F6AB0643">A&amp;sunto:</text>
+		<text id="docinfo.title" h="A6AB0B5B">&amp;Título:</text>
+		<text id="errDlg.header" h="E8A076C8">No es posible grabar &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="errDlg.text" h="3FD6CA0D">Se ha producido un error mientras se grababa un documento en el archivo:
+&lt;b&gt;%1&lt;/b&gt;</text>
+		<text id="filter.all" h="A1868C9F">Todos los archivos</text>
+		<text id="filter.pdf" h="21DC74BD">Documentos PDF (*.pdf)</text>
+		<text id="l.sec" h="68B35B56">segundos</text>
+		<text id="mainDlg" h="60C6805D">PDF-XChange Standard: pdfSaver</text>
+		<text id="msg.tray.close" h="7E4415DD">No se ha cerrado pdfSaver.
+Para salir del programa, pulse Salir en el menú de la bandeja de sistema.</text>
+		<text id="opt.autoUnload" h="96863D52">Desconectar &lt;i&gt;pdfSaver&lt;/i&gt; a&amp;utomáticamente tras:</text>
+		<text id="opt.g1.title" h="30673BCD">General</text>
+		<text id="opt.g2.title" h="6781287A">Ajustes</text>
+		<text id="opt.keepFile" h="537941B8">No eliminar los archivos temporales</text>
+		<text id="opt.keepFolder" h="F30EC396">No borrar la carpeta temporal al iniciar pdfSaver</text>
+		<text id="opt.showProgress" h="86E70298">Mostrar ventana de &amp;progreso de la impresión</text>
+		<text id="opt.systray" h="D55CEA00">Mostrar &amp;icono en la bandeja del sistema</text>
+		<text id="overDlg.header" h="54920390">Ya existe el archivo '%1'</text>
+		<text id="overDlg.text" h="984124BE">Indique qué acción desea:</text>
+		<text id="overwrite.append" h="98ADB7C4">Anexar
+Añadir el contenido del archivo nuevo al final del existente</text>
+		<text id="overwrite.autoNumber" h="95BDC2AD">Numeración automática
+Guardar con numeración automática</text>
+		<text id="overwrite.leaveJob" h="0CE1E2D3">Posponer
+Cancelar la operación y abandonar la tarea</text>
+		<text id="overwrite.over" h="13CC8739">Sobreescribir
+Reemplazar el archivo existente</text>
+		<text id="overwrite.prepend" h="7703513C">Insertar antes
+Combinar con un archivo existente</text>
+		<text id="overwrite.select" h="60AA7DB4">Elegir otro rachivo
+Seleccionar otro archivo para el nuevo documento</text>
+		<text id="progress.done" h="F14B47CB">completado al %1%%</text>
+		<text id="progress.generating" h="4509E71B">Se está generando el PDF...</text>
+		<text id="progress.optimizing" h="6F2453BB">Se estaá optimizando...</text>
+		<text id="progress.page" h="962EF85B">Página %1</text>
+		<text id="progress.saving" h="B1CEA7B0">Se esá guardando el PDF...</text>
+		<text id="progress.sending" h="BBDB8877">Se está enviando el PDF...</text>
+		<text id="progress.spooling" h="D7D10A9E">Se está enviando a la cola</text>
+		<text id="save.btn.additional" h="36A51922">Propiedades &amp;adicionales...</text>
+		<text id="save.cb.append" h="DF2206AB">Anexar al PDF existente</text>
+		<text id="save.cb.email" h="93B339D4">&amp;Enviar por correo el PDF una vez generado</text>
+		<text id="save.cb.run" h="B14F25C0">Abrir el programa &amp;visor tras haber guardado</text>
+		<text id="tryAgain" h="B119E265">Intentar de nuevo</text>
+	</Strings>
+</Localization>

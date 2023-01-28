@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171220231301">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="XCShellExt"/>
+	<Language eName="Russian (Russia)" lName="Русский" code="ru-RU" R2L="false"/>
+	<Module name="XCShellExt" namespace="" version="7.0.323.2"/>
+	<Strings>
+		<text id="title" h="930D3835">Заглавие:</text>
+		<text id="subject" h="A59102F6">Тема:</text>
+		<text id="author" h="7E318A91">Автор:</text>
+		<text id="keywords" h="EE89DD49">Ключевые слова:</text>
+		<text id="keywords2" h="D125B2C4">Ключевые слова</text>
+		<text id="producer" h="30A8E856">Генератор:</text>
+		<text id="producer2" h="C54CE945">Генератор</text>
+		<text id="producer.description" h="3EFB9FA5">Производитель PDF</text>
+		<text id="size" h="17A58A52">Размер</text>
+		<text id="encrypted" h="83E2242D">Зашифрованный:</text>
+		<text id="encrypted2" h="0A613267">&lt;Зашифрованные&gt;</text>
+		<text id="creator" h="48BB2AC2">Создатель:</text>
+		<text id="creator2" h="CF26EE59">Создатель</text>
+		<text id="creator.description" h="C2D9A34F">Приложение, в котором создан документ</text>
+		<text id="pdfVersion" h="4C06CDA5">Версия PDF</text>
+		<text id="pdfVersion2" h="52D57621">Версия PDF</text>
+		<text id="pdfVersion.description" h="3087428D">Версия PDF спецификации</text>
+		<text id="infoTip.pages" h="145D976C">Страницы: %d страниц</text>
+		<text id="zoomMode.actualSize" h="5E4611C5">Действильный размер</text>
+		<text id="zoomMode.fitPage" h="E07FD6B2">По странице</text>
+		<text id="zoomMode.fitWidth" h="0AB6EA6C">По ширине</text>
+		<text id="noPreview" h="6A6778D0">Предварительный просмотр недоступен</text>
+		<text id="MegaBytes" h="54CE5298">МБ</text>
+		<text id="KiloBytes" h="71A50D44">КБ</text>
+		<text id="GigaBytes" h="3B73B2FC">ГБ</text>
+		<text id="TeraBytes" h="79DF4A8D">ТБ</text>
+		<text id="bytes" h="01ABC3DA">байт</text>
+		<text id="no" h="6651A799">Нет</text>
+		<text id="yes" h="DC948BC4">Да</text>
+		<text id="numOfPages" h="114E2EF6">%d страниц</text>
+		<text id="notAllowed" h="50D7EDBB">Не разрешено</text>
+		<text id="lowRes" h="D33F1C80">Низкая разрешительная способность</text>
+		<text id="fullyAllowed" h="1E5C0EC1">Полностью разрешено</text>
+		<text id="allowed" h="D74F0AF3">Разрешено</text>
+		<text id="pdfInfo" h="E96E93B9">Информация о PDF</text>
+		<text id="docInfo" h="8E6BE160">Информация о документе</text>
+		<text id="linearized" h="BA000D8B">Быстрый доступ:</text>
+		<text id="pages" h="23952CFD">Страницы:</text>
+		<text id="docSecurity" h="C4D42148">Защита документа:</text>
+		<text id="printing" h="515F6B19">Печать:</text>
+		<text id="changing" h="8F212BD7">Изменение документа:</text>
+		<text id="copying" h="A3FBC31C">Копирование содержимого или Извлечение:</text>
+		<text id="commenting" h="00D1CE97">Авторство комментариев и полей формы:</text>
+		<text id="formFilling" h="000F1E62">Заполнение поля формы или подписание:</text>
+		<text id="contAccessibility" h="307DE41E">Доступность содержимого:</text>
+		<text id="docAssembly" h="54F5D6FC">Сборка документа:</text>
+		<text id="pageExtraction" h="4511684F">Извлечение страниц:</text>
+		<text id="signing" h="D103863D">Подписание:</text>
+		<text id="xcPropSheetCaption" h="E96E93B9">Информация о PDF</text>
+		<text id="tool.hand" h="1C47D4CB">Рука</text>
+		<text id="cmd.view.goto.firstPage" h="DFC0D45F">Первая страница</text>
+		<text id="cmd.view.goto.firstPage.tip" h="631EFAFD">Перейти на первую страницу документа.</text>
+		<text id="cmd.view.goto.lastPage" h="1848BA27">Последняя страница</text>
+		<text id="cmd.view.goto.lastPage.tip" h="51B1BF96">Перейти на последнюю страницу документа.</text>
+		<text id="cmd.view.goto.prevPage" h="5F473CED">Предыдущая страница</text>
+		<text id="cmd.view.goto.prevPage.tip" h="55CEF405">Перейти на предыдушую страницу документа.</text>
+		<text id="cmd.view.goto.nextPage" h="8695A6CE">Следующая страница</text>
+		<text id="cmd.view.goto.nextPage.tip" h="8F537F4E">Перейти на следуюшую страницу документа.</text>
+		<text id="cmd.view.gotoPage" h="6A0FCD98">Перейти на страницу с номером</text>
+		<text id="cmd.view.gotoPage.tip" h="DE1F81BE">Перейти на страницу с указанным номером.</text>
+		<text id="cmd.zoomIn" h="21C9A3BF">Увеличить</text>
+		<text id="cmd.zoomIn.tip" h="7A209714">Увеличить масштаб на странице.</text>
+		<text id="cmd.zoomOut" h="7749FC62">Уменьшить</text>
+		<text id="cmd.zoomOut.tip" h="A00D108F">Уменьшить масштаб на странице.</text>
+		<text id="cmd.zoom.combo" h="71AD5FC1">Масштаб</text>
+		<text id="cmd.zoom.combo.tip" h="9DAF1E10">Установить масштаб для документа.</text>
+		<text id="cmd.zoom.level.actual" h="10ADBDEF">Действительный размер</text>
+		<text id="cmd.zoom.level.actual.tip" h="F4F3470F">Установить масштаб 100% для отображения действительного размера страниц документа.</text>
+		<text id="cmd.zoom.level.fitWidth" h="2EA35656">По ширине</text>
+		<text id="cmd.zoom.level.fitWidth.tip" h="82C4DEAE">Установите уровень масштабирования так, чтобы ширина страницы соответствовала ширине окна.</text>
+		<text id="cmd.zoom.level.fitPage" h="2E705B13">По странице</text>
+		<text id="cmd.zoom.level.fitPage.tip" h="D2455889">Установите уровень масштабирования так, чтобы страница (или две лицевые страницы) соответствовала окну документа.</text>
+		<text id="cmd.tool.hand" h="648630C6">Рука</text>
+		<text id="cmd.tool.hand.tip" h="97579DF6">Нажмите для перемещения в документе.</text>
+		<text id="cmd.selectLanguage" h="DF3F8256">Выбрать язык</text>
+		<text id="cmd.selectLanguage.tip" h="47EE650B">Выберите язык в подменю.</text>
+		<text id="cmd.selectSysLang" h="31F4B9FA">Использовать региональные настройки</text>
+		<text id="cmd.selectBuildInLang" h="1C70EF34">Английский (US), встроенный</text>
+	</Strings>
+</Localization>

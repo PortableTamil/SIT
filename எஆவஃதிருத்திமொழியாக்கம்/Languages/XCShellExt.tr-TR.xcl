@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180402175641">2.00.00</Version>
+	<Author>Tülay Ongun</Author>
+	<Copyright></Copyright>
+	<Product id="XCShellExt"/>
+	<Language eName="Turkish (Turkey)" lName="Türkçe" code="tr-TR" R2L="false"/>
+	<Module name="XCShellExt" namespace="" version="7.0.324.4"/>
+	<Strings>
+		<text id="title" h="930D3835">Başlık:</text>
+		<text id="subject" h="A59102F6">Konu:</text>
+		<text id="author" h="7E318A91">Yazar:</text>
+		<text id="keywords" h="EE89DD49">Anahtar kelimeler</text>
+		<text id="keywords2" h="D125B2C4">Anahtar kelimeler</text>
+		<text id="producer" h="30A8E856">Yapımcı:</text>
+		<text id="producer2" h="C54CE945">Yapımcı</text>
+		<text id="producer.description" h="3EFB9FA5">PDF yapımcısının adı</text>
+		<text id="size" h="17A58A52">Boyut</text>
+		<text id="encrypted" h="83E2242D">Şifreli:</text>
+		<text id="encrypted2" h="0A613267">&lt;Şifreli&gt;</text>
+		<text id="creator" h="48BB2AC2">Oluşturan:</text>
+		<text id="creator2" h="CF26EE59">Oluşturma</text>
+		<text id="creator.description" h="C2D9A34F">Uygulama Yaratma Adı</text>
+		<text id="pdfVersion" h="4C06CDA5">PDF Versiyonu</text>
+		<text id="pdfVersion2" h="52D57621">PDF Versiyonu:</text>
+		<text id="pdfVersion.description" h="3087428D">PDF Spesifikasyonunun Sürümü</text>
+		<text id="infoTip.pages" h="145D976C">Sayfalar: %d sayfa(lar)
+		</text>
+		<text id="zoomMode.actualSize" h="5E4611C5">Gerçek boyutu</text>
+		<text id="zoomMode.fitPage" h="E07FD6B2">Sayfaya Sığdır</text>
+		<text id="zoomMode.fitWidth" h="0AB6EA6C">Genişliğe Sığdır</text>
+		<text id="noPreview" h="6A6778D0">Önizleme kullanılamıyor</text>
+		<text id="MegaBytes" h="54CE5298">MB</text>
+		<text id="KiloBytes" h="71A50D44">KB</text>
+		<text id="GigaBytes" h="3B73B2FC">GB</text>
+		<text id="TeraBytes" h="79DF4A8D">TB</text>
+		<text id="bytes" h="01ABC3DA">bayt</text>
+		<text id="no" h="6651A799">Hayır</text>
+		<text id="yes" h="DC948BC4">Evet</text>
+		<text id="numOfPages" h="114E2EF6">%d sayfa(lar)</text>
+		<text id="notAllowed" h="50D7EDBB">İzin Verilmedi</text>
+		<text id="lowRes" h="D33F1C80">Düşük Çözünürlük</text>
+		<text id="fullyAllowed" h="1E5C0EC1">Tamamen İzin Verildi</text>
+		<text id="allowed" h="D74F0AF3">İzin</text>
+		<text id="pdfInfo" h="E96E93B9">PDF Bilgisi</text>
+		<text id="docInfo" h="8E6BE160">Belge Bilgisi</text>
+		<text id="linearized" h="BA000D8B">Doğrusal:</text>
+		<text id="pages" h="23952CFD">Sayfalar:</text>
+		<text id="docSecurity" h="C4D42148">Belge Güvenliği:</text>
+		<text id="printing" h="515F6B19">Baskı:</text>
+		<text id="changing" h="8F212BD7">Belgeyi Değiştirme:</text>
+		<text id="copying" h="A3FBC31C">İçerik Kopyalama veya Çıkarma:</text>
+		<text id="commenting" h="00D1CE97">Yazı Yazma Açıklamaları ve Form Alanları:</text>
+		<text id="formFilling" h="000F1E62">Form Alanı Doldurun veya İmzalama:</text>
+		<text id="contAccessibility" h="307DE41E">İçerik Erişilebilirliği Etkin:</text>
+		<text id="docAssembly" h="54F5D6FC">Belge Meclisi:</text>
+		<text id="pageExtraction" h="4511684F">Sayfa Çıkarma:</text>
+		<text id="signing" h="D103863D">İmzalama:</text>
+		<text id="xcPropSheetCaption" h="E96E93B9">PDF Bilgisi</text>
+		<text id="tool.hand" h="1C47D4CB">El</text>
+		<text id="cmd.view.goto.firstPage" h="DFC0D45F">İlk sayfa</text>
+		<text id="cmd.view.goto.firstPage.tip" h="631EFAFD">Dokümanın ilk sayfasına gidin.</text>
+		<text id="cmd.view.goto.lastPage" h="1848BA27">Son Sayfa</text>
+		<text id="cmd.view.goto.lastPage.tip" h="51B1BF96">Dokümanın son sayfasına gidin.</text>
+		<text id="cmd.view.goto.prevPage" h="5F473CED">Önceki sayfa</text>
+		<text id="cmd.view.goto.prevPage.tip" h="55CEF405">Dokümanın önceki sayfasına gidin.</text>
+		<text id="cmd.view.goto.nextPage" h="8695A6CE">Sonraki Sayfa</text>
+		<text id="cmd.view.goto.nextPage.tip" h="8F537F4E">Dokümanın sonraki sayfasına gidin.</text>
+		<text id="cmd.view.gotoPage" h="6A0FCD98">Sayfa Numarasına Git</text>
+		<text id="cmd.view.gotoPage.tip" h="DE1F81BE">Belirtilen sayfa numarasına gidin.</text>
+		<text id="cmd.zoomIn" h="21C9A3BF">Yakınlaştır</text>
+		<text id="cmd.zoomIn.tip" h="7A209714">Sayfayı yakınlaştırın.</text>
+		<text id="cmd.zoomOut" h="7749FC62">Uzaklaştır</text>
+		<text id="cmd.zoomOut.tip" h="A00D108F">Sayfada küçültün.</text>
+		<text id="cmd.zoom.combo" h="71AD5FC1">Yakınlaştırma</text>
+		<text id="cmd.zoom.combo.tip" h="9DAF1E10">Belge için özel bir yakınlaştırma düzeyi ayarlayın.</text>
+		<text id="cmd.zoom.level.actual" h="10ADBDEF">Gerçek boyutu</text>
+		<text id="cmd.zoom.level.actual.tip" h="F4F3470F">Zum seviyesini belge sayfalarını gerçek boyutlarında gösteren %100 olarak ayarlayın.</text>
+		<text id="cmd.zoom.level.fitWidth" h="2EA35656">Genişliğe Sığdır</text>
+		<text id="cmd.zoom.level.fitWidth.tip" h="82C4DEAE">Zum seviyesini, sayfanın genişliği pencerenin genişliğiyle eşleşecek şekilde ayarlayın.</text>
+		<text id="cmd.zoom.level.fitPage" h="2E705B13">Sayfaya Sığdır</text>
+		<text id="cmd.zoom.level.fitPage.tip" h="D2455889">Zum seviyesini, sayfanın (veya iki yüzlü sayfanın) belge penceresine sığacak şekilde ayarlayın.</text>
+		<text id="cmd.tool.hand" h="648630C6">El Aracı</text>
+		<text id="cmd.tool.hand.tip" h="97579DF6">Belgeyi kaydırmak için tıklayın.</text>
+		<text id="cmd.selectLanguage" h="DF3F8256">Dil Seçin</text>
+		<text id="cmd.selectLanguage.tip" h="47EE650B">Alt menüden dil seçeneği seçin.</text>
+		<text id="cmd.selectSysLang" h="31F4B9FA">Bölgesel ayarları kullan</text>
+		<text id="cmd.selectBuildInLang" h="1C70EF34">İngilizce (ABD), Dahili</text>
+	</Strings>
+</Localization>

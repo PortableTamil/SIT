@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123222427">2.00.00</Version>
+	<Author>Zach Yu</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Chinese (Simplified, China)" lName="中文(简体)" code="zh-CN" R2L="false"/>
+	<Module name="MarkdownPlugin" namespace="md" version="7.0.323.3"/>
+	<Strings>
+		<text id="btn.md.submenu" h="89D1502A">自 Markdown (&amp;M)...</text>
+		<text id="cmd.tip" h="117085B4">从 Markdown 文件新建文档。</text>
+		<text id="converter.desc" h="41356938">转换 Markdown 文件</text>
+		<text id="converter.filterName" h="AE86B691">Markdown 文件</text>
+		<text id="converter.name" h="AE86B691">Markdown 文件</text>
+		<text id="converting.progress.text" h="4DD2C8CD">转换文件:</text>
+		<text id="grb.style" h="1FF454A3">文本样式</text>
+		<text id="msg.error" h="51BFF51D">错误</text>
+		<text id="msg.file.empty" h="8F9B5982">文件为空</text>
+		<text id="opt.all.files" h="C68ACE05">所有文件</text>
+		<text id="opt.btn.clear.style" h="8932B6EE">恢复CSS样式为默认样式</text>
+		<text id="opt.create.style" h="EDCA1553">新建</text>
+		<text id="opt.file" h="45B5DF3A">文件</text>
+		<text id="opt.margins.fixed" h="6103695E">你的边距过大。他们将被自动修复。</text>
+		<text id="opt.none" h="F9398D7D">无</text>
+		<text id="opt.style" h="5CEA121A">样式:</text>
+		<text id="opt.test.title" h="44732FAA">测试</text>
+		<text id="opt.title" h="45D26671">Markdown To PDF 选项</text>
+		<text id="opt.unavailable" h="5669C949">不可用</text>
+		<text id="prefs.name" h="07E67B98">Markdown To PDF</text>
+		<text id="prefs.title" h="45D26671">Markdown To PDF 选项</text>
+		<text id="prop.list.extension" h="14FEB836">扩展名</text>
+		<text id="prop.list.location" h="BB241F45">位置</text>
+		<text id="prop.list.modified" h="30325672">修改时间</text>
+		<text id="prop.list.size" h="17A58A52">大小</text>
+		<text id="prop.list.title" h="796DFAD3">标题</text>
+		<text id="prop.source" h="AE86B691">Markdown 文件</text>
+		<text id="prop.source.file" h="F3110572">选择 Markdown 文件</text>
+		<text id="prop.source.file.unavailable" h="AE2771B8">样式文件不可用</text>
+		<text id="prop.source.folder" h="8477FBD3">选择 Markdown 的文件夹</text>
+		<text id="prop.source.subfolder" h="F053B635">包含子文件夹</text>
+		<text id="prop.source.txt" h="0B465380">文本文件</text>
+		<text id="prop.window.name" h="6E4F5CCE">转换 Markdown 到 PDF</text>
+		<text id="style.edit.default" h="600F2F18">使用默认样式</text>
+		<text id="style.files.title" h="26E23587">CSS 文件</text>
+		<text id="style.folder.name" h="2F5ECDDE">Markdown 样式</text>
+		<text id="style.save.title" h="2E270E87">保存样式</text>
+		<text id="style.select.file" h="37C34A80">选择样式文件</text>
+	</Strings>
+</Localization>

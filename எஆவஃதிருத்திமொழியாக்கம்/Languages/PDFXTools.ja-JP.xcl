@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627201142">2.00.00</Version>
+	<Author>Jungle, Inc / Tz</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXTools"/>
+	<Language eName="Japanese (Japan)" lName="日本語" code="ja-JP" R2L="false"/>
+	<Module name="PDFXTools" namespace="pdft" version="7.0.325.10"/>
+	<Strings>
+		<text id="accessed" h="45570324">アクセス</text>
+		<text id="act.askForSourceFiles" h="2E856073">入力ファイルを選択する</text>
+		<text id="act.askForSourceFiles.desc" h="3759C068">元のファイルの場所を指定するダイアログを表示します。</text>
+		<text id="act.bm.ExportActType_GotoR" h="41E1955E">「Go-to Remote」アクションがあるブックマーク</text>
+		<text id="act.bm.ExportActType_JS" h="31D8CD1A">JavaScript アクションがあるブックマーク</text>
+		<text id="act.bm.ExportActType_Launch" h="38537D36">「ファイルを開く」アクションがあるブックマーク</text>
+		<text id="act.bm.ExportActType_Page" h="05B4C93C">「ページ移動」アクションがあるブックマーク</text>
+		<text id="act.bm.ExportActType_URI" h="F39B51AE">「Web リンクを開く」アクションがあるブックマーク</text>
+		<text id="act.bm.ExportActTypesAll" h="B8B21253">ハイパーリンクのすべての種類のアクションがあるブックマーク</text>
+		<text id="act.bm.bmToExport" h="28D4BD73">エクスポートするブックマーク</text>
+		<text id="act.bm.export" h="F3EE1781">ブックマークをエクスポート</text>
+		<text id="act.bm.export.desc" h="1403C5AD">ドキュメントからすべてのブックマークをエクスポートします</text>
+		<text id="act.bm.exportAll" h="8882D072">すべてエクスポート</text>
+		<text id="act.bm.exportHyperlink" h="8AB29747">ハイパーリンクアクションを実行するブックマークをエクスポート</text>
+		<text id="act.bm.exportToTextFile" h="01135DA3">ブックマークをテキストファイルにエクスポート</text>
+		<text id="act.bm.exportToTextFile.desc" h="7C68D13E">ブックマーク構造をテキストファイルでエクスポートします</text>
+		<text id="act.bm.fromTextFile" h="CA5176DD">テキストファイルからブックマークをインポート</text>
+		<text id="act.bm.fromTextFile.desc" h="EE697E49">テキストファイルからブックマークを作成します。 テキストファイルのデータ形式は、ブックマークをテキストファイルにエクスポートする機能のルールに従う必要があります。</text>
+		<text id="act.bm.generateFromText" h="383A949B">ページテキストからブックマークを生成</text>
+		<text id="act.bm.generateFromText.desc" h="6DDE7415">指定されたフォントスタイルとパラメータを使用して、現在のドキュメントのテキストからブックマークを作成します</text>
+		<text id="act.bm.import" h="DC7F6AD5">ブックマークをインポート</text>
+		<text id="act.bm.import.desc" h="A5E69BAE">以前にエクスポートしたファイルからブックマークをドキュメントにインポートします</text>
+		<text id="act.bm.toTOC" h="2B3E9BF1">目次の作成</text>
+		<text id="act.bm.toTOC.desc" h="E92DA1A8">ブックマークの構造とそれが指し示すページに基づいて目次を作成します</text>
+		<text id="act.deleteComments.all" h="E8642222">すべてのコメントを削除</text>
+		<text id="act.deleteComments.all.desc" h="818B531A">ドキュメントからすべてのコメントを削除する。</text>
+		<text id="act.deleteComments.form" h="37ECB4B5">フォームフィールドを削除</text>
+		<text id="act.deleteComments.form.desc" h="C5D21570">ドキュメントからフォームフィールドを削除する。</text>
+		<text id="act.deleteComments.grp" h="73395EF1">コメントを削除するページを選択：</text>
+		<text id="act.deleteComments.lbl" h="605AA315">削除するコメントの種類を選択：</text>
+		<text id="act.deleteComments.links" h="CC8F1411">リンクを削除</text>
+		<text id="act.deleteComments.links.desc" h="66D48AF5">ドキュメントからリンクを削除する。</text>
+		<text id="act.deleteComments.markup" h="EA5127FB">マークアップの注釈を削除</text>
+		<text id="act.deleteComments.markup.desc" h="80CD5AA0">ドキュメントからマークアップの注釈を削除する。</text>
+		<text id="act.deleteComments.weblinks" h="87C8439E">Webリンクを削除</text>
+		<text id="act.deleteComments.weblinks.desc" h="158E179F">ドキュメントからWebリンクを削除する。</text>
+		<text id="act.deletePages.dep.enable.lbl" h="6D295CF8">空のページのみ削除する</text>
+		<text id="act.deletePages.lbl" h="75141561">削除するページ範囲：</text>
+		<text id="act.discardPDFStd" h="E608B980">特別なPDF標準を破棄する</text>
+		<text id="act.discardPDFStd.desc" h="947EF232">PDF/X、PDF/A、PDF/Eなどの特別なPDF標準情報を破棄します。</text>
+		<text id="act.doc.addBackground" h="8B83981C">ページの背景を変更</text>
+		<text id="act.doc.addBackground.desc" h="8C8F71BF">ページの背景を設定します</text>
+		<text id="act.doc.addBatesNumbering" h="5987A707">ベイツナンバリングを追加</text>
+		<text id="act.doc.addBatesNumbering.desc" h="19058FA5">法的文書のインデックスを作成したり、簡単に識別し検索できるようにベイツナンバリングを提供します</text>
+		<text id="act.doc.addDigSign" h="97DD789F">デジタル署名を追加</text>
+		<text id="act.doc.addDigSign.desc" h="BB76CA39">証明書ベースのデジタルIDを使用して、新しい署名フィールドを追加して署名します。</text>
+		<text id="act.doc.addHeaderAndFooter" h="71EBAC62">ヘッダとフッタを追加</text>
+		<text id="act.doc.addHeaderAndFooter.desc" h="8697B047">指定されたページにヘッダとフッタを追加します。ヘッダーとフッターには、日付、自動ページ採番、タイトルと著者などを含むことができます。</text>
+		<text id="act.doc.addTimeStamp" h="896D61BF">タイムスタンプを追加</text>
+		<text id="act.doc.addTimeStamp.desc" h="2FDF1628">タイムスタンプに示された時刻に、完全なPDFファイルの正確な内容が確立したことを示す文書レベルのタイムスタンプを追加します。これは指定されたタイムスタンプ認証局から取得することができます。</text>
+		<text id="act.doc.addWatermarks" h="AA010705">透かしを追加</text>
+		<text id="act.doc.addWatermarks.desc" h="A89FAD30">ページコンテンツの前面または背面のいずれかに表示するテキストまたは画像を追加します。</text>
+		<text id="act.doc.certify" h="C2AFA656">認証ドキュメント</text>
+		<text id="act.doc.certify.desc" h="402B64F2">認証用の署名フィールドでそれを認証することにより、PDFドキュメントを保護します</text>
+		<text id="act.doc.changeProps" h="89CBAD2F">ドキュメントのプロパティを変更</text>
+		<text id="act.doc.changeProps.desc" h="40BD1FE7">タイトル、作者、標題、キーワードなどのドキュメントプロパティを設定します</text>
+		<text id="act.doc.clearDigSign" h="7E6883B8">デジタル署名をクリア</text>
+		<text id="act.doc.clearDigSign.desc" h="E1CDD425">可能であれば未署名のフィールドを残して、すべての電子署名を削除します</text>
+		<text id="act.doc.convertToPDFA" h="86709E15">PDF/A に変換</text>
+		<text id="act.doc.convertToPDFA.desc" h="89A9625A">長期アーカイブと保存のために、PDF/A 標準にドキュメントを準拠させます</text>
+		<text id="act.doc.convertToPDFX" h="1D70370D">PDF/X に変換</text>
+		<text id="act.doc.convertToPDFX.desc" h="BB077FA6">印刷データの互換性のために PDF/X 標準に準拠した文書を作成する</text>
+		<text id="act.doc.createWeblinks" h="F68EDD51">Webリンクを作成する</text>
+		<text id="act.doc.createWeblinks.desc" h="6971A17D">ドキュメントのテキストコンテンツからWebリンクを作成します</text>
+		<text id="act.doc.cropPages" h="54A95B63">ページの切り出し</text>
+		<text id="act.doc.cropPages.desc" h="9F01A5F4">ページの余白を削除または変更するか、ページボックスを設定して、可視ページ領域を調整します。</text>
+		<text id="act.doc.deletePages" h="E5284839">ページを削除</text>
+		<text id="act.doc.deletePages.desc" h="0EA6D9E9">ドキュメントから選択したページ範囲を削除</text>
+		<text id="act.doc.duplicatePages" h="14C45200">ページを複製</text>
+		<text id="act.doc.duplicatePages.desc" h="0FD26A6C">PDFドキュメントのページを複製する。</text>
+		<text id="act.doc.enhanceScannedPages" h="0A810C6E">ページスキャンの拡張機能</text>
+		<text id="act.doc.enhanceScannedPages.desc" h="95589020">可読性改善やファイルサイズ低減のために PDF ファイル内のスキャンしたイメージを加工します</text>
+		<text id="act.doc.exportToDOCX" h="D89F515F">PDFをMicrosoft Wordドキュメントにエクスポート</text>
+		<text id="act.doc.exportToDOCX.desc" h="D5E45C48">PDFをMicrosoft Word ドキュメントファイル (*.docx) にエクスポートします。</text>
+		<text id="act.doc.exportToImages" h="6DC3C315">PDFを画像にエクスポート</text>
+		<text id="act.doc.exportToImages.desc" h="0EA3EE6B">1つ以上のPDFファイルのページをJPEG、PNG、TIFFなどの異なるラスター画像形式にエクスポートします</text>
+		<text id="act.doc.exportToPPTX" h="E673A7B8">PDFをMicrosoft PowerPointプレゼンテーションにエクスポート</text>
+		<text id="act.doc.exportToPPTX.desc" h="E0A7703F">PDFをMicrosoft PowerPoint プレゼンテーションファイル (*.pptx) にエクスポートします。</text>
+		<text id="act.doc.exportToTXT" h="29DDD177">PDFをプレーンテキストにエクスポート</text>
+		<text id="act.doc.exportToTXT.desc" h="3D8783C4">PDFをレーンテキストファイル (*.txt) にエクスポートします。</text>
+		<text id="act.doc.exportToXLSX" h="A31C131A">PDFをMicrosoft Excelスプレッドシートにエクスポート</text>
+		<text id="act.doc.exportToXLSX.desc" h="66CD86D0">PDFをMicrosoft Excelプレゼンテーションファイル (*.pptx) にエクスポートします。</text>
+		<text id="act.doc.extractImages" h="4CF9FEB6">PDF から画像を抽出</text>
+		<text id="act.doc.extractImages.desc" h="454EBA71">ドキュメント内のラスター画像を検索し、それらを抽出します</text>
+		<text id="act.doc.extractPages" h="7AE73EC1">ページを抽出</text>
+		<text id="act.doc.extractPages.desc" h="8FCE1EA7">指定されたページ範囲を新しいドキュメントに抽出します</text>
+		<text id="act.doc.insertEmptyPages" h="3779032F">空のページを挿入する</text>
+		<text id="act.doc.insertEmptyPages.desc" h="65380D33">ドキュメントに空のページを挿入する。</text>
+		<text id="act.doc.insertPages" h="6B486B45">ページを挿入</text>
+		<text id="act.doc.insertPages.desc" h="C8087FC8">別のドキュメントからページを挿入する。</text>
+		<text id="act.doc.ocrPages" h="D2A189BC">OCR ページ</text>
+		<text id="act.doc.ocrPages.desc" h="517C34C3">テキストのイメージをページスキャンし、テキスト文字を認識します。テキストの選択、検索などのために、非表示のテキストレイヤーを挿入します。
+		</text>
+		<text id="act.doc.optimize" h="854E1BE4">ドキュメントを最適化</text>
+		<text id="act.doc.optimize.desc" h="988BB3B9">PDF ファイルのサイズを減らすためにドキュメントを最適化します</text>
+		<text id="act.doc.overlayDoc" h="A113E021">PDF をオーバーレイ</text>
+		<text id="act.doc.overlayDoc.desc" h="8AC5B664">別の PDF ドキュメントで PDF ドキュメントをオーバーレイします</text>
+		<text id="act.doc.pageNumbering" h="21AF4605">ページ番号</text>
+		<text id="act.doc.pageNumbering.desc" h="A2BA72A1">ページ番号を追加</text>
+		<text id="act.doc.pageTransitions" h="E9BE43D0">セットアップページの遷移</text>
+		<text id="act.doc.pageTransitions.desc" h="17B37A25">フルスクリーンモードにおけるページ遷移方法を変更</text>
+		<text id="act.doc.printDocument" h="4F3750AE">ドキュメントの印刷</text>
+		<text id="act.doc.printDocument.desc" h="2523AB5C">入力ドキュメントを印刷します</text>
+		<text id="act.doc.removeBackground" h="7C270CB4">ページの背景を削除</text>
+		<text id="act.doc.removeBackground.desc" h="17700648">ページからカスタム背景を削除して、デフォルトの白い無地の背景に置き換えます</text>
+		<text id="act.doc.removeBatesNumbering" h="901F5ABD">ベイルナンバリングを削除</text>
+		<text id="act.doc.removeBatesNumbering.desc" h="E4FBEB3C">ベイルナンバリングを削除します</text>
+		<text id="act.doc.removeHeaderAndFooter" h="11E8A996">ヘッダとフッタを削除</text>
+		<text id="act.doc.removeHeaderAndFooter.desc" h="E1CC0743">すべてのヘッダとフッタを削除します</text>
+		<text id="act.doc.removeWatermarks" h="93F16CE2">透かしを削除</text>
+		<text id="act.doc.removeWatermarks.desc" h="629EC84B">すべての透かしを削除します</text>
+		<text id="act.doc.replacePages" h="1311083C">ページの置換</text>
+		<text id="act.doc.replacePages.desc" h="8C5176DA">ドキュメント内のページを置換</text>
+		<text id="act.doc.resizePages" h="8A5C31F1">ページのリサイズ</text>
+		<text id="act.doc.resizePages.desc" h="8F74355D">ページのサイズを増加または縮小し、必要に応じてページコンテンツをスケーリングします。</text>
+		<text id="act.doc.rotatePages" h="CBD82045">ページを回転</text>
+		<text id="act.doc.rotatePages.desc" h="00CCD6AD">ページを90°時計回りまたは反時計回りに回転します</text>
+		<text id="act.doc.setSecurity" h="09A28BF5">セキュアドキュメント</text>
+		<text id="act.doc.setSecurity.desc" h="AF6D0BF7">ドキュメントコンテンツを開いたり変更するためのパスワードを設定して PDF ドキュメントを保護します。セキュリティ制限の除去を可能にします。</text>
+		<text id="act.doc.splitPages" h="2648812F">ページ分割</text>
+		<text id="act.doc.splitPages.desc" h="4FA35C77">PDFドキュメントのページを分割します。</text>
+		<text id="act.doc.summarizeComments" h="2233C1CD">コメントの要約</text>
+		<text id="act.doc.summarizeComments.desc" h="8EA1DEF5">PDFドキュメントにすべてのコメントの概要を作成します</text>
+		<text id="act.filesToPDF" h="A382536E">ファイルを PDF に変換</text>
+		<text id="act.filesToPDF.desc" h="40567B4F">サポートされる形式のファイルを PDF に変換します</text>
+		<text id="act.flags.arrdoc" h="F5023560">ドキュメントの配列</text>
+		<text id="act.flags.arrfile" h="AF02951A">ファイルの配列</text>
+		<text id="act.flags.arrimage" h="AD43894A">イメージの配列</text>
+		<text id="act.flags.arrname" h="A46C1DFE">名前の配列</text>
+		<text id="act.flags.doc" h="0417E245">ドキュメント</text>
+		<text id="act.flags.file" h="AFFADF08">ファイル</text>
+		<text id="act.flags.image" h="6F479465">イメージ</text>
+		<text id="act.flags.name" h="28F021B5">名前</text>
+		<text id="act.flags.nothing" h="C06D6B01">なし</text>
+		<text id="act.flattenComments" h="CBA1AA18">コメントのフラット化</text>
+		<text id="act.flattenComments.desc" h="20A41E96">注釈を基準のコンテンツアイテムに変換します。</text>
+		<text id="act.group.PDFStandard" h="E51FAF25">PDF標準</text>
+		<text id="act.group.advanced" h="59A2B513">詳細</text>
+		<text id="act.group.bookmarks" h="E2032460">ブックマーク</text>
+		<text id="act.group.comments" h="FA5EB905">コメント</text>
+		<text id="act.group.createPDF" h="ACF7EBD1">PDF を作成</text>
+		<text id="act.group.exportPDF" h="4AE54AB5">PDFをエクスポート</text>
+		<text id="act.group.inputOutput" h="178214DA">入力/出力</text>
+		<text id="act.group.optimizePDF" h="E369C144">PDFを最適化</text>
+		<text id="act.group.pages" h="47B1CB74">ページ</text>
+		<text id="act.group.protection" h="B7EE190B">保護</text>
+		<text id="act.imagesToPDF" h="B0C7E05C">イメージから PDF を作成</text>
+		<text id="act.imagesToPDF.desc" h="43AF6AF6">1つ以上のラスターイメージから単一の PDF を作成します</text>
+		<text id="act.saveDocs" h="07936326">ドキュメントを保存</text>
+		<text id="act.saveDocs.desc" h="32932EE9">ドキュメントやドキュメントセットの変更を保存したり、新しく作成したファイルを保存します</text>
+		<text id="act.saveImages" h="2EBC4084">イメージを保存</text>
+		<text id="act.saveImages.desc" h="3A5C69E3">ラスター画像をハードディスク上のファイルに保存します</text>
+		<text id="act.scan.showlist" h="18D7490A">画像の一覧表示</text>
+		<text id="act.scanToImages" h="3C7180B5">スキャナからイメージを取得</text>
+		<text id="act.scanToImages.desc" h="E0F7A297">紙のドキュメントをスキャンして、スキャン結果から画像ベースの PDF を作成します</text>
+		<text id="act.sendMail" h="1F56479B">メールを送信</text>
+		<text id="act.sendMail.desc" h="18F585BE">指定したメールアドレスにファイルを送信します</text>
+		<text id="act.showFiles" h="7E16D9C8">ファイルを表示</text>
+		<text id="act.showFiles.desc" h="5A081173">ファイルを含むフォルダを開くか、それぞれのファイルの既定のハンドラを開始します</text>
+		<text id="act.splitMergeDocs" h="8343835D">ドキュメントを分割／マージ</text>
+		<text id="act.splitMergeDocs.desc" h="B253B87D">自動または手動で、すべての入力PDFファイルを一つに結合したり、新しいPDFファイルにそれらを分割します</text>
+		<text id="act.textToPDF" h="ECE46B63">テキストから PDF を作成</text>
+		<text id="act.textToPDF.desc" h="F9A66354">1つ以上のファイルから単一の PDF ドキュメントを作成します</text>
+		<text id="act.warn.title" h="76F57ED1">警告：</text>
+		<text id="actCloseBtnTip" h="087A8145">リストからアクションを削除するにはここをクリックしてください</text>
+		<text id="actOnOffUITip" h="18682AEB">実行中にアクションの ON/OFF を切り替えるにはここをクリックしてください</text>
+		<text id="actionInfo.defaultDesc" h="845515AD">情報を参照するために上記のアクションリスト内のアクションを選択</text>
+		<text id="actionInfo.defaultTitle" h="375B13FE">アクションを選択...</text>
+		<text id="addbookmark.chk" h="C7B70DCB">ファイル名を使ってブックマークを生成</text>
+		<text id="afsf.choosefiles" h="BAE0C7B7">ファイルの選択</text>
+		<text id="afsf.choosefiles.editimage" h="56B4E1F8">画像を編集</text>
+		<text id="afsf.click2browse" h="ABC462F9">閲覧するにはここをクリック...</text>
+		<text id="afsf.clicktoedit" h="56B17D30">保存されたファイル名を表示もしくは編集するにはクリックしてください</text>
+		<text id="afsf.clicktoremove" h="CAB117DD">クリックすると保存されたファイル名が削除されます</text>
+		<text id="afsf.dlg.editAvail" h="70C3C982">利用可能なファイルフィルタ</text>
+		<text id="afsf.err.filelistempty" h="6A812F17">ファイルリストは空です</text>
+		<text id="afsf.err.invalidsymbols" h="D036E0B4">行 %1 に無効なファイルシンボルがあります</text>
+		<text id="afsf.listinfo" h="CEB468D3">&lt;b&gt;*.pdtfl&lt;/b&gt; 拡張子を持つ特殊なファイル
+このファイルはファイル名のリストを含むべきです：
+c:filename1
+c:filename2
+...
+c:filenameN</text>
+		<text id="afsf.prop.choose.name" h="758F38E8">アクションフィルタを選択</text>
+		<text id="afsf.prop.choose.tip" h="758F38E8">アクションフィルタを選択</text>
+		<text id="afsf.prop.choose.title" h="758F38E8">アクションフィルタを選択</text>
+		<text id="afsf.prop.manage.name" h="1B8E7007">カスタムフィルター</text>
+		<text id="afsf.prop.manage.tip" h="1B8E7007">カスタムフィルター</text>
+		<text id="afsf.prop.manage.title" h="1B8E7007">カスタムフィルター</text>
+		<text id="afsf.selectfolder" h="3F89B943">フォルダの選択：</text>
+		<text id="afsf.sort" h="230935DB">ソート：</text>
+		<text id="afsf.sort.creation" h="AEDBE5EB">作成日まで</text>
+		<text id="afsf.sort.modification" h="B802AF12">修正日まで</text>
+		<text id="afsf.sort.name" h="B3FDD284">名前</text>
+		<text id="afsf.sort.none" h="004FEF2B">なし</text>
+		<text id="afsf.sort.size" h="75DE1B35">サイズ</text>
+		<text id="afsf.storefiles" h="06AB1A20">選択したファイル名を保存</text>
+		<text id="afsf.subfolders" h="EAAFE63E">サブフォルダも見る</text>
+		<text id="afsf.usestoredfiles" h="4A3B84D0">直前の実行で保存されたファイル名を使用する</text>
+		<text id="afsf.warn.concrete.ext" h="6634FBD4">ファイル 「%1」の拡張子が「入力ファイルの選択」アクションパラメータと互換性がありません。</text>
+		<text id="afsf.warn.ext" h="16DBB55E">ファイル拡張子は「入力ファイルの選択」アクションパラメータと互換性がありません。</text>
+		<text id="afsf.warn.filescontainer" h="FF3986E4">対応するファイルコンテナを開く事ができません：&lt;b&gt;%1&lt;/b&gt;</text>
+		<text id="afsf.warn.listext" h="6B1988CB">ファイルリストは拡張子が &lt;b&gt;*.pdtfl&lt;/b&gt; である必要があります</text>
+		<text id="align.bottom" h="08F4AB6F">下揃え</text>
+		<text id="align.center" h="CBEFB4D0">中央揃え</text>
+		<text id="align.left" h="8CEAA299">左揃え</text>
+		<text id="align.middle" h="D27F520F">中揃え</text>
+		<text id="align.right" h="2D8A4EE6">右揃え</text>
+		<text id="align.top" h="249A2BBD">上揃え</text>
+		<text id="alignoverlay" h="B7EB1785">新しいPDFドキュメントページへの相対的なオーバーレイページの配置：</text>
+		<text id="another.ovrfile.title" h="AEFCE724">別のオーバーレイファイルを選択</text>
+		<text id="askpwd.chk" h="24A0ED40">パスワードの問い合わせをしない</text>
+		<text id="askpwd.tip" h="3C6E1749">このオプションを有効にすると、&lt;b&gt;事前定義のパスワードストレージ&lt;/b&gt;に対応する有効なパスワードがないパスワードで保護されたすべてのファイルが処理からスキップされます</text>
+		<text id="attributes" h="71F6D064">属性</text>
+		<text id="availActionsList" h="477E6AC0">アクションライブラリ</text>
+		<text id="batchproc.chk" h="1194AD9C">バッチ処理モード</text>
+		<text id="batchproc.tip" h="8BED8A8A">• このオプションをオンにすると、各ツールアクションは各入力オブジェクト（ファイル、スキャンされたイメージなど）を処理してから、次の操作に移ります。
+• このオプションをオフにすると、入力オブジェクトは、次の入力オブジェクトが処理される前に、すべてのツールアクションによって処理されます。 これによりメモリの負荷やディスクの使用量を削減できます。 ただし、入力オブジェクトをPDFにマージするためのツールは、各入力オブジェクトが他と独立して処理されるため、期待どおりに機能しない場合があります。</text>
+		<text id="bmnamesAndDoc.cmb" h="019AADA7">ソースドキュメントとブックマーク名</text>
+		<text id="bmnamesDoc.cmb" h="D7143742">ソースドキュメント名</text>
+		<text id="bmnamesName.lbl" h="C761CCE0">ドキュメント名の生成方法：</text>
+		<text id="bmnamesNames.cmb" h="DBDE73F8">ブックマーク名</text>
+		<text id="bookmarks.delimiter.lbl" h="A4269065">区切り文字：</text>
+		<text id="bookmarks.invalidSeparator" h="44875D1F">プロパティの区切り文字は、空の文字列であってはならず、英数字の記号またはスペースを含み、次の文字のいずれかであってはなりません。@＃：{} </text>
+		<text id="bookmarks.log.bookmarksNotFound" h="184C696B">ドキュメントにブックマークが見つかりませんでした</text>
+		<text id="bookmarks.log.bookmarksNotFoundTOC" h="E3250FA7">ドキュメントにブックマークが見つかりませんでした。空の目次が作成されます。</text>
+		<text id="bookmarks.log.txtSrcNotFound" h="52338723">ドキュメントのブックマークをインポートできません。 ブックマークの定義ファイル '%1' が見つかりませんでした。</text>
+		<text id="bookmarks.sourcefiletxt.lbl" h="8C896EF2">ブックマーク定義を含むテキストファイルを選択：</text>
+		<text id="bookmarks.sourcefilexcbkm.lbl" h="20DDBCE7">ブックマークのエクスポートファイルを選択：</text>
+		<text id="bookmarks.sourcefoldertxt.info" h="9C858B7C">入力文書ごとに、同じ名前のテキストファイルがブックマークの定義ソースファイルとして選択されます</text>
+		<text id="bookmarks.sourcefoldertxt.lbl" h="E5CB01F7">ブックマーク定義を含むテキストファイルがあるフォルダを選択：</text>
+		<text id="bookmarks.sourcefolderxcbkm.info" h="2F8C4CA0">入力文書ごとに、同じ名前のブックマークエクスポートファイルがブックマークの定義ソースファイルとして選択されます</text>
+		<text id="bookmarks.sourcefolderxcbkm.lbl" h="0E50F0BA">ブックマークのエクスポートファイルを含むフォルダを選択：</text>
+		<text id="btn.delete" h="D8FE3F70">削除</text>
+		<text id="btn.edit" h="621534A3">編集...</text>
+		<text id="byhoriz" h="AE80ABA7">水平方向：</text>
+		<text id="byvert" h="138F572B">垂直方向：</text>
+		<text id="chk.savepwd" h="2DACA98E">将来の使用のためにパスワードを保存する</text>
+		<text id="choose.file" h="D8D81DA5">ファイルを選択</text>
+		<text id="chooseFiles.chooseForPreview" h="B4BD25C6">プレビューするアイテムを選択</text>
+		<text id="chooseFiles.fromScanner" h="BDBDAE44">スキャナからのイメージ</text>
+		<text id="chooseFiles.scansubfolders" h="05971C7B">選択したフォルダのサブフォルダにあるファイルを追加しますか？</text>
+		<text id="chooseFiles.unknownImageType" h="18901815">不明な画像の種類</text>
+		<text id="choosefiles.title" h="2E856073">入力ファイルを選択</text>
+		<text id="choosefiles.warning" h="88E4DD69">ファイルをリストに追加してください</text>
+		<text id="choosestd.lbl" h="F999AF4C">破棄する基準のPDFを選択：</text>
+		<text id="choosetool.caption" h="F368DC49">ツールの選択</text>
+		<text id="choosetools.export.caption" h="89168619">エクスポートツールを選択</text>
+		<text id="choosetools.import.caption" h="4D9B8134">インポートツールを選択</text>
+		<text id="ck.all" h="65CCA5D0">全てのファイルフィルタを含む</text>
+		<text id="clonetoolname.lbl" h="E63F45FA">クローンツールの名前を入力：</text>
+		<text id="cmd.actionInfoPane" h="BE3FF2AC">アクション情報ペイン</text>
+		<text id="cmd.actionInfoPane.tip" h="EA4CDC04">アクション情報ペインを表示／非表示</text>
+		<text id="cmd.addFavorites" h="253AA8C4">お気に入りに追加</text>
+		<text id="cmd.addFavorites.tip" h="D0494D1D">お気に入りにツールを追加する</text>
+		<text id="cmd.availAct.append" h="44CFD997">アクションを追加</text>
+		<text id="cmd.availActionsPane" h="70AE9683">アクションライブラリペイン</text>
+		<text id="cmd.availActionsPane.tip" h="EE8A6FE7">アクションライブラリペインを表示／非表示</text>
+		<text id="cmd.catlist.add" h="8E2EE8C1">追加</text>
+		<text id="cmd.catlist.add.tip" h="352D549C">新しいツールカテゴリを追加</text>
+		<text id="cmd.catlist.copyID" h="76D03E52">カテゴリ識別子をコピー</text>
+		<text id="cmd.catlist.copyID.tip" h="4D528776">カテゴリ識別子をクリップボードにコピーします。</text>
+		<text id="cmd.catlist.delete" h="D8FE3F70">削除</text>
+		<text id="cmd.catlist.delete.tip" h="F996D3A3">選択したカテゴリを削除</text>
+		<text id="cmd.catlist.rename" h="CF7E2A12">名前を変更</text>
+		<text id="cmd.catlist.rename.tip" h="853B01D0">選択したカテゴリの名前を変更する</text>
+		<text id="cmd.choosetools.checkAll" h="1ED93781">すべてチェック</text>
+		<text id="cmd.choosetools.checkAll.tip" h="5C10CA59">すべてのツールをチェックします</text>
+		<text id="cmd.choosetools.collapseAll" h="84E09D66">すべて折りたたむ</text>
+		<text id="cmd.choosetools.collapseAll.tip" h="4B0945EA">すべての展開したアイテムを折りたたみます</text>
+		<text id="cmd.choosetools.expandAll" h="6DA5A467">すべて展開</text>
+		<text id="cmd.choosetools.expandAll.tip" h="B8DEF87E">すべての折りたたまれたアイテムを展開します</text>
+		<text id="cmd.choosetools.uncheckAll" h="5D53AA8D">すべてチェックをはずす</text>
+		<text id="cmd.choosetools.uncheckAll.tip" h="E0FE40A8">すべてのツールのチェックをはずします</text>
+		<text id="cmd.close" h="BFF0422C">編集を終了</text>
+		<text id="cmd.close.tip" h="803D7B54">ツールエディターを閉じる前に変更の保存を確認します</text>
+		<text id="cmd.collapseAll" h="84E09D66">すべて折りたたむ</text>
+		<text id="cmd.collapseAll.tip" h="4B0945EA">すべての展開されたアイテムを折りたたみます。</text>
+		<text id="cmd.continue" h="A5F0062A">続行</text>
+		<text id="cmd.continue.tip" h="449BD617">引き続きツールを実行します。</text>
+		<text id="cmd.copyToolID" h="29B6ACF3">ツール識別子をコピー</text>
+		<text id="cmd.copyToolID.tip" h="C84C435C">ツール識別子をクリップボードにコピーします。</text>
+		<text id="cmd.createFld" h="EDCA1553">作成</text>
+		<text id="cmd.createFld.tip" h="0C2549D2">フォルダモニタを作成します。</text>
+		<text id="cmd.delete" h="D8FE3F70">削除</text>
+		<text id="cmd.delete.tip" h="1645B116">選択したツールを削除します。</text>
+		<text id="cmd.deleteAction" h="D8FE3F70">アクションの削除</text>
+		<text id="cmd.deleteAction.tip" h="8D3F7647">選択したアクションを削除します。</text>
+		<text id="cmd.deleteFld" h="D8FE3F70">削除</text>
+		<text id="cmd.deleteFld.tip" h="FE6D13BD">選択したモニターを削除します。</text>
+		<text id="cmd.disableFld" h="3F68363A">無効化</text>
+		<text id="cmd.disableFld.tip" h="0002F9EA">選択した監視を無効にします</text>
+		<text id="cmd.docsList.collapseAll" h="84E09D66">すべて折りたたむ</text>
+		<text id="cmd.docsList.collapseAll.tip" h="4B0945EA">すべての展開されたアイテムを折りたたみます</text>
+		<text id="cmd.docsList.delete" h="D8FE3F70">削除</text>
+		<text id="cmd.docsList.delete.tip" h="AFC734F6">リスト上で選択したアイテムを削除します</text>
+		<text id="cmd.docsList.expandAll" h="6DA5A467">すべて展開</text>
+		<text id="cmd.docsList.expandAll.tip" h="B8DEF87E">すべての折りたたまれたアイテムを展開します</text>
+		<text id="cmd.docsList.invertPagesSel" h="50358D1F">ページ選択を反転</text>
+		<text id="cmd.docsList.invertPagesSel.tip" h="D48EAFF2">ドキュメントアイテム内のページ選択を反転します</text>
+		<text id="cmd.docsList.redo" h="E6E48291">やり直し</text>
+		<text id="cmd.docsList.redo.tip" h="D864EFC4">以前の取り消し操作をやり直します</text>
+		<text id="cmd.docsList.rename" h="CF7E2A12">名前の変更</text>
+		<text id="cmd.docsList.rename.tip" h="D13799F6">選択したドキュメントアイテムの名前を変更します</text>
+		<text id="cmd.docsList.selectPages" h="CA96B5EB">ページを選択...</text>
+		<text id="cmd.docsList.selectPages.tip" h="2BA1CFDF">選択したドキュメントアイテム内の任意のページを選択します</text>
+		<text id="cmd.docsList.showPreview" h="0E09CAB8">プレビュー</text>
+		<text id="cmd.docsList.showPreview.tip" h="5FDF66AB">選択したアイテムのプレビューペインを表示／非表示</text>
+		<text id="cmd.docsList.showRepo" h="75AE5FBB">ページリポジトリ</text>
+		<text id="cmd.docsList.showRepo.tip" h="A9FDC14F">任意のドキュメントから任意のページセットを一時的に格納するためのリポジトリペインの表示／非表示を切り替えます。これはページのドラッグ＆ドロップに役に立ちます。</text>
+		<text id="cmd.docsList.undo" h="86E67B4B">取り消し</text>
+		<text id="cmd.docsList.undo.tip" h="68378895">直前の操作を取り消します</text>
+		<text id="cmd.docsList.zoomIn" h="21C9A3BF">拡大</text>
+		<text id="cmd.docsList.zoomIn.tip" h="EEFCC59E">サムネール表示を拡大します</text>
+		<text id="cmd.docsList.zoomOut" h="7749FC62">縮小</text>
+		<text id="cmd.docsList.zoomOut.tip" h="B4B12D5A">サムネール表示を縮小します</text>
+		<text id="cmd.docsList.zoomSlider" h="596A6E4A">スケール</text>
+		<text id="cmd.docsList.zoomSlider.tip" h="0F91092C">ページサムネイルのスケール</text>
+		<text id="cmd.editDocList.clearAll" h="FCA74107">リポジトリをクリア</text>
+		<text id="cmd.editDocList.clearAll.tip" h="8D064794">ページリポジトリをクリアします</text>
+		<text id="cmd.editFld" h="009A7A41">編集</text>
+		<text id="cmd.editFld.tip" h="6383A76C">選択したモニターを編集します。</text>
+		<text id="cmd.editModeView" h="2FCBB32C">表示</text>
+		<text id="cmd.editModeView.tip" h="FED08A06">詳細ペインを表示／非表示</text>
+		<text id="cmd.enableFld" h="A816D2F1">有効化</text>
+		<text id="cmd.enableFld.tip" h="5C4A8F7C">選択した監視を有効にします</text>
+		<text id="cmd.expandAll" h="6DA5A467">すべて展開</text>
+		<text id="cmd.expandAll.tip" h="B8DEF87E">すべての折りたたまれたアイテムを展開します</text>
+		<text id="cmd.filesList.addFiles" h="6BB8C3C3">ファイルを追加...</text>
+		<text id="cmd.filesList.addFiles.combo" h="6BB8C3C3">ファイルを追加...</text>
+		<text id="cmd.filesList.addFiles.tip" h="49EDA302">ファイル選択の標準的なダイアログを表示するためにクリックします...</text>
+		<text id="cmd.filesList.addFolder" h="48695541">フォルダを追加...</text>
+		<text id="cmd.filesList.addFolder.tip" h="6761456F">フォルダを選択してファイルを追加する標準的なダイアログを表示するためにクリックします...</text>
+		<text id="cmd.filesList.addFromScanner" h="F8B40B5F">スキャナから追加...</text>
+		<text id="cmd.filesList.addFromScanner.tip" h="B4E7ED2C">スキャニングデバイスを選択して、そこからイメージ取得を行うためにクリックします...</text>
+		<text id="cmd.filesList.delete" h="D8FE3F70">削除</text>
+		<text id="cmd.filesList.delete.tip" h="1B809C28">選択したアイテムを削除します。この操作は取り消せません。</text>
+		<text id="cmd.filesList.detailsView" h="AEE125D6">詳細</text>
+		<text id="cmd.filesList.detailsView.tip" h="6570BFC4">詳細ビューに切り替えます</text>
+		<text id="cmd.filesList.edit" h="621534A3">編集...</text>
+		<text id="cmd.filesList.edit.tip" h="A8CCCC15">選択したアイテムを編集します</text>
+		<text id="cmd.filesList.moveDown" h="B590E566">下に移動</text>
+		<text id="cmd.filesList.moveDown.tip" h="96CBF2AC">選択したアイテムを下に移動します</text>
+		<text id="cmd.filesList.moveUp" h="E466537C">上に移動</text>
+		<text id="cmd.filesList.moveUp.tip" h="239B490C">選択したアイテムを上に移動します</text>
+		<text id="cmd.filesList.openContFolder" h="D3E03212">コンテンツフォルダを開く</text>
+		<text id="cmd.filesList.openContFolder.tip" h="4967EB0F">コンテンツフォルダを開き、Windowsエクスプローラで該当するファイルを選択します</text>
+		<text id="cmd.filesList.selectPages" h="CA96B5EB">ページを選択...</text>
+		<text id="cmd.filesList.selectPages.tip" h="9D36120F">選択したドキュメントのページを選択します</text>
+		<text id="cmd.filesList.showPreview" h="0E09CAB8">プレビュー</text>
+		<text id="cmd.filesList.showPreview.tip" h="5FDF66AB">選択したアイテムのプレビューペインを表示／非表示</text>
+		<text id="cmd.filesList.thumbsView" h="47B1B2D9">サムネイル</text>
+		<text id="cmd.filesList.thumbsView.tip" h="E9F10E3C">サムネイルビューに切り替えます</text>
+		<text id="cmd.filesList.zoomIn" h="21C9A3BF">拡大</text>
+		<text id="cmd.filesList.zoomIn.tip" h="EEFCC59E">サムネイルを拡大します</text>
+		<text id="cmd.filesList.zoomOut" h="7749FC62">縮小</text>
+		<text id="cmd.filesList.zoomOut.tip" h="B4B12D5A">サムネイルを縮小します</text>
+		<text id="cmd.filesList.zoomSlider" h="596A6E4A">スケール</text>
+		<text id="cmd.filesList.zoomSlider.tip" h="0F91092C">ページサムネイルのスケール</text>
+		<text id="cmd.help" h="03718903">ヘルプ</text>
+		<text id="cmd.help.about" h="06AA44B8">本製品について...</text>
+		<text id="cmd.help.about.tip" h="D3746489">アプリケーションのヴァージョンとライセンス情報を表示します</text>
+		<text id="cmd.help.checkForUpdates" h="B4EF7EF3">更新をチェック</text>
+		<text id="cmd.help.checkForUpdates.tip" h="73587378">アプリケーションの更新を確認します</text>
+		<text id="cmd.help.contents" h="567BC1D7">コンテンツ</text>
+		<text id="cmd.help.contents.tip" h="08AC959F">詳細なオンラインヘルプを開きます</text>
+		<text id="cmd.help.enterkey" h="EF62658A">ライセンスキーを入力...</text>
+		<text id="cmd.help.enterkey.tip" h="D3746489">アプリケーションのヴァージョンとライセンス情報を表示します</text>
+		<text id="cmd.help.homepage" h="09F653F5">ホームページ</text>
+		<text id="cmd.help.homepage.tip" h="EBA22B5A">アプリケーションのWebサイトに移動します</text>
+		<text id="cmd.help.support" h="31A29A3F">サポート</text>
+		<text id="cmd.help.support.tip" h="B8C0C0FB">サポートフォーラムに移動します</text>
+		<text id="cmd.help.tip" h="F59770E5">ヘルプ</text>
+		<text id="cmd.impexp" h="1D5A9A8A">インポート／エクスポート</text>
+		<text id="cmd.impexp.expseltools" h="C87F6A0D">選択したツールをエクスポート</text>
+		<text id="cmd.impexp.expseltools.tip" h="0E445E08">選択したツールをファイルにエクスポートします</text>
+		<text id="cmd.impexp.expsett" h="329179F2">すべての設定をエクスポート</text>
+		<text id="cmd.impexp.expsett.tip" h="1BEC5F75">すべての設定情報とツールをファイルにエクスポートします</text>
+		<text id="cmd.impexp.exptools" h="3B532E8F">ツールをエクスポート</text>
+		<text id="cmd.impexp.exptools.tip" h="66B0E107">ツールをファイルにエクスポートします</text>
+		<text id="cmd.impexp.impsett" h="92219071">すべての設定をインポート</text>
+		<text id="cmd.impexp.impsett.tip" h="3845D20B">すべての設定情報とツールをファイルからインポートします</text>
+		<text id="cmd.impexp.imptools" h="622631EF">ツールをインポート</text>
+		<text id="cmd.impexp.imptools.tip" h="112B2FCB">ツールをファイルからインポートします</text>
+		<text id="cmd.impexp.shortcut" h="64092D8C">デスクトップにショートカットを作成</text>
+		<text id="cmd.impexp.shortcut.tip" h="F695107D">選択したツールのショートカットをデスクトップに作成します</text>
+		<text id="cmd.impexp.tip" h="CE31B671">ツールや設定情報をインポート／エクスポートします</text>
+		<text id="cmd.moveDown" h="B590E566">下に移動</text>
+		<text id="cmd.moveDown.tip" h="96CBF2AC">選択したアイテムを下に移動します</text>
+		<text id="cmd.moveUp" h="E466537C">上に移動</text>
+		<text id="cmd.moveUp.tip" h="239B490C">選択したアイテムを上に移動します</text>
+		<text id="cmd.opts" h="DAD7B4F4">オプション</text>
+		<text id="cmd.opts.tip" h="0DB1D677">アプリケーションの設定を管理するための機能が含まれています</text>
+		<text id="cmd.prefs" h="8D3CBDF0">設定...</text>
+		<text id="cmd.prefs.tip" h="35A54BBC">アプリケーションの設定ダイアログを表示します</text>
+		<text id="cmd.redo" h="E6E48291">やり直し</text>
+		<text id="cmd.redo.tip" h="D864EFC4">以前に取り消した操作をやり直します</text>
+		<text id="cmd.removeFavorites" h="85360926">お気に入りから削除</text>
+		<text id="cmd.removeFavorites.tip" h="DEB12B60">ツールをお気に入りから削除する</text>
+		<text id="cmd.report.clear" h="CB9CE353">クリア</text>
+		<text id="cmd.report.clear.tip" h="26272D30">レポートをクリアする</text>
+		<text id="cmd.report.collapseAll" h="84E09D66">すべてを折りたたむ</text>
+		<text id="cmd.report.collapseAll.tip" h="4B0945EA">すべての展開アイテムを折りたたみます。</text>
+		<text id="cmd.report.copy" h="348DE55D">コピー</text>
+		<text id="cmd.report.copy.tip" h="7E2DF69D">メッセージテキストをコピーします。</text>
+		<text id="cmd.report.copyname" h="895D5980">ファイル名をコピー</text>
+		<text id="cmd.report.copyname.tip" h="C6C33FE5">ファイル名をクリップボードにコピーします</text>
+		<text id="cmd.report.expandAll" h="6DA5A467">すべて展開</text>
+		<text id="cmd.report.expandAll.tip" h="B8DEF87E">折りたたまれたアイテムをすべて展開します。</text>
+		<text id="cmd.report.fullreport" h="2B15B2F7">完全なレポート</text>
+		<text id="cmd.report.fullreport.tip" h="B70410A1">このオプションを選択すると、PDF-Toolsはフルツール実行レポートを印刷します。</text>
+		<text id="cmd.report.openfolder" h="D3E03212">フォルダーを開く</text>
+		<text id="cmd.report.openfolder.tip" h="897118C2">ファイルを含むフォルダーを開きます</text>
+		<text id="cmd.report.options" h="9757D0D9">オプション...</text>
+		<text id="cmd.report.options.tip" h="84CAFD98">ツールレポートオプションを表示します。</text>
+		<text id="cmd.report.savetofile" h="ED4A08DE">レポートを保存...</text>
+		<text id="cmd.report.savetofile.tip" h="5BF810D7">レポートをテキストファイルに保存します。</text>
+		<text id="cmd.resetSelAction" h="1008C3F9">リセット</text>
+		<text id="cmd.resetSelAction.tip" h="9416B4A0">選択したアクションオプションを規定値にリセットします。</text>
+		<text id="cmd.resetSett" h="1E06BB70">すべての設定をリセット</text>
+		<text id="cmd.resetSett.tip" h="F72C4CB6">すべてのプログラムオプションをデフォルトにリセットし、デフォルトのオプション設定で構成された標準的なツールに戻します</text>
+		<text id="cmd.resetTool" h="0E4A9518">ツールをリセット</text>
+		<text id="cmd.resetTool.tip" h="63100C06">ツールオプションを規定値にリセットします。</text>
+		<text id="cmd.resetseltools" h="11DC26AD">選択したツールをリセットする</text>
+		<text id="cmd.resetseltools.tip" h="7FCF3BF7">選択したツールオプションを規定値にリセットします。</text>
+		<text id="cmd.save" h="01991541">変更を保存</text>
+		<text id="cmd.save.tip" h="45AC7E5D">ツールの変更を保存します</text>
+		<text id="cmd.search" h="547E9E5A">検索...</text>
+		<text id="cmd.search.tip" h="FC8CBAA4">ツールを検索します</text>
+		<text id="cmd.setupFolderMonitor" h="EDC6E6EA">フォルダー監視</text>
+		<text id="cmd.setupFolderMonitor.tip" h="43BBFC78">フォルダー監視を管理します</text>
+		<text id="cmd.showActionInfoPane" h="DDDF9129">アクション情報を表示</text>
+		<text id="cmd.showActionInfoPane.tip" h="B9D63B80">アクション情報を表示／非表示</text>
+		<text id="cmd.showAvailActionsPane" h="7B4DF4C3">アクションライブラリを表示</text>
+		<text id="cmd.showAvailActionsPane.tip" h="7F2B551F">アクションライブラリを表示／非表示</text>
+		<text id="cmd.showReport" h="F1E7E74F">ツールレポート</text>
+		<text id="cmd.showReport.tip" h="0310270C">ツールレポートを表示します。</text>
+		<text id="cmd.test" h="327F2A55">テスト</text>
+		<text id="cmd.test.tip" h="9E04AEAA">機能をテストします！</text>
+		<text id="cmd.tool.clone" h="37E754F5">複製</text>
+		<text id="cmd.tool.clone.tip" h="D8321AF8">選択したツールを複製します。</text>
+		<text id="cmd.tool.create" h="EDCA1553">作成</text>
+		<text id="cmd.tool.create.tip" h="3D4C85B7">新しいツールを作成します</text>
+		<text id="cmd.tool.edit" h="009A7A41">編集</text>
+		<text id="cmd.tool.edit.tip" h="426AAF33">選択したツールを編集します</text>
+		<text id="cmd.tool.run" h="19264084">実行</text>
+		<text id="cmd.tool.run.tip" h="BF1530FA">選択したツールを実行します</text>
+		<text id="cmd.undo" h="86E67B4B">取り消し</text>
+		<text id="cmd.undo.tip" h="68378895">直近の操作を取り消します</text>
+		<text id="cmd.viewFld" h="2FCBB32C">表示</text>
+		<text id="cmd.viewFld.tip" h="7426084C">選択した監視を表示します</text>
+		<text id="cmdline.toolnotfound" h="E24BDF60">実行に必要なツールが見つかりません</text>
+		<text id="common" h="FF51CD90">共通</text>
+		<text id="created" h="BC03BBEA">作成されました</text>
+		<text id="custToolsGrName" h="22F07048">カスタムツール</text>
+		<text id="custom" h="A918FF38">カスタム</text>
+		<text id="dclick.authorize" h="E62FEA98">クリックしてストレージを認証します</text>
+		<text id="delete.all.pages" h="E66ECE13">すべてのページ削除は禁止されています</text>
+		<text id="deleteComments.all" h="3DB14B53">すべての注釈</text>
+		<text id="deleteComments.link" h="D84C3990">リンクの注釈</text>
+		<text id="deleteComments.markup" h="236E76D1">マークアップの注釈</text>
+		<text id="deleteComments.widget" h="105429C0">ウィジェットの注釈</text>
+		<text id="deleteInputFiles" h="66DB8878">成功した入力ファイルは削除する</text>
+		<text id="deletecat.warn" h="8A426B75">&lt;b&gt;%1&lt;/b&gt;カテゴリとすべてのツールを削除してもよろしいですか？
+この操作は元に戻すことはできません。</text>
+		<text id="deletestoredpath.warn" h="B01DF4C4">保存されている元のファイル名を削除してもよろしいですか？</text>
+		<text id="disable.ui.lbl" h="F51A0F89">ツールUI：</text>
+		<text id="dlg.managefilters" h="BEEA26C3">フィルタを管理</text>
+		<text id="docauthor.l" h="7E318A91">作者：</text>
+		<text id="doccreator.l" h="48BB2AC2">作成者：</text>
+		<text id="dockeywords.l" h="EE89DD49">キーワード：</text>
+		<text id="docproducer.l" h="30A8E856">製作者：</text>
+		<text id="docsubject.l" h="A59102F6">標題：</text>
+		<text id="doctitle.l" h="930D3835">タイトル：</text>
+		<text id="editDocList.containsPages" h="8F4BA4D9">%1 ページが含まれています</text>
+		<text id="editDocList.document" h="13289938">ドキュメント</text>
+		<text id="editDocList.empty.hint" h="C46828D2">ページなし</text>
+		<text id="editDocList.noPages" h="DD007EC4">ページがありません</text>
+		<text id="editDocList.repository.hint" h="0071AB8A">一時的なストレージとしてここにページをドロップすることができます</text>
+		<text id="editDocList.title" h="BB7D1179">手動でドキュメントを分割／マージ</text>
+		<text id="editDocList.undefined" h="9FA2DA79">不明</text>
+		<text id="editDocList.warning" h="F36DBC31">ドキュメントリストを空にすることはできません。
+直前の操作を取り消して、リストを空にしないようにすることができます。</text>
+		<text id="editDocList.warning.emptyname" h="D690297C">ドキュメント名は必須入力です</text>
+		<text id="editDocList.warning.invalidsymbols" h="40A214FA">ドキュメント名が正しくありません</text>
+		<text id="editview.header.changeicon" h="E86B95CD">変更...</text>
+		<text id="editview.header.dialog.multiline" h="767057E1">ツールの説明を編集</text>
+		<text id="empty.document" h="06A26641">"%1" ドキュメントは空です。これはスキップされます。</text>
+		<text id="enter.pwd.descr" h="77485A4B">（オプション）パスワードの説明を入力してください...</text>
+		<text id="enterNewDocName" h="68FD05C5">新しいドキュメント名を入力：</text>
+		<text id="err.foldernotexists" h="4533B896">選択したフォルダーは存在しません</text>
+		<text id="err.foldernotvalid" h="E422E783">選択したフォルダーを監視できません</text>
+		<text id="err.hotfolderbusy" h="40F505AA">指定したフォルダーは別の監視によって処理されています</text>
+		<text id="err.hotfolderempty" h="5734787D">監視するフォルダーを選択してください</text>
+		<text id="err.movefolderempty" h="141492EF">入力ファイルを移動するフォルダーを選択してください</text>
+		<text id="err.selecttool" h="89F6967E">実行するツールを選択してください</text>
+		<text id="err.toolnotexists" h="12CFDA38">選択したツールは存在しません</text>
+		<text id="expsett.extension.desc" h="F00D3D31">PDF-Tools 設定ファイル</text>
+		<text id="expsett.failed" h="D36046ED">設定のエクスポートに失敗しました</text>
+		<text id="expsett.open.caption" h="92B281E9">インポートファイルを開く</text>
+		<text id="expsett.save.caption" h="C1A8C6FD">エクスポートファイルを保存</text>
+		<text id="exptools.extension.desc" h="DC98B451">PDF-Tools 変換ファイル</text>
+		<text id="exptools.failed" h="7A69DC15">ツールのエクスポートに失敗しました</text>
+		<text id="exptools.open.caption" h="99F5ECED">インポートファイルを選択</text>
+		<text id="exptools.save.caption" h="C1A8C6FD">エクスポートファイルを保存</text>
+		<text id="extension" h="14FEB836">拡張子</text>
+		<text id="fileLocation" h="7BC24E5F">ファイルの場所：</text>
+		<text id="fileNames" h="0F80A6A8">ファイルリストを選択：</text>
+		<text id="fileNames.desc" h="7B4EDEA4">PDF-Tools 入力ファイルリスト</text>
+		<text id="fileNames.open" h="8F1B7ED1">インポートファイルのリストを開く</text>
+		<text id="fileprop.author" h="F6A8A4C0">作者</text>
+		<text id="fileprop.bpc" h="02071BA4">チャンネルあたりのビット数</text>
+		<text id="fileprop.bpp" h="EC790768">ピクセルあたりのビット数</text>
+		<text id="fileprop.channels" h="D3AE76A2">チャンネル</text>
+		<text id="fileprop.creator" h="CF26EE59">作成者</text>
+		<text id="fileprop.dimension" h="96A76700">サイズ</text>
+		<text id="fileprop.horDpi" h="576C5071">水平 DPI</text>
+		<text id="fileprop.page" h="D70A809E">ページ</text>
+		<text id="fileprop.pageRotation" h="ECFC9C66">回転</text>
+		<text id="fileprop.pagesCount" h="AAE42CE5">ページ数</text>
+		<text id="fileprop.pdfVer" h="4C06CDA5">PDFバージョン</text>
+		<text id="fileprop.producer" h="C54CE945">製作者</text>
+		<text id="fileprop.subject" h="B6BCF595">標題</text>
+		<text id="fileprop.title" h="796DFAD3">タイトル</text>
+		<text id="fileprop.verDpi" h="33423CE9">垂直 DPI</text>
+		<text id="filestopdf.setup" h="FB20B28D">設定...</text>
+		<text id="finalizing" h="B702861F">%1 をファイナライズしています...</text>
+		<text id="fitoverlay" h="E2F09068">オーバーレイページを新しく作成したドキュメントページに合わせる</text>
+		<text id="fld.disabled" h="AA5BC8D4">無効</text>
+		<text id="fld.enabled" h="2532774E">有効</text>
+		<text id="fldmon.lbl" h="DEBCEDAF">フォルダー監視の名称：</text>
+		<text id="folder.grp" h="9AE10AFA">入力ファイルのオプション</text>
+		<text id="hotfld.opts.dlg.caption" h="D9DE9C84">フォルダー監視のセットアップ</text>
+		<text id="impsett.alert" h="0B2EB063">すべてのプログラムの設定をインポートしてもよろしいですか？
+
+注意：インポート操作は元に戻すことはできません。</text>
+		<text id="impsett.failed" h="AA8A96CF">設定のインポートに失敗しました</text>
+		<text id="imptools.failed" h="DAD93596">ツールのインポートに失敗しました</text>
+		<text id="info" h="07FB97A4">情報</text>
+		<text id="inpfiles.lbl" h="28477E27">入力ファイルのオプション：</text>
+		<text id="inserting.page" h="7985F658">%2 から %1 ページを挿入しています</text>
+		<text id="keep.inputfiles" h="800C91A4">フォルダーに入力ファイルを残す</text>
+		<text id="keepaspect" h="A90996CD">アスペクト比を保持</text>
+		<text id="lb.availFF" h="6E3CAD3A">利用可能なファイルの種類のフィルタを選択：</text>
+		<text id="lb.presetFF" h="9C590515">プリセット：</text>
+		<text id="lbl.ShowResult" h="C5236BCD">完了後に結果を表示</text>
+		<text id="lbl.actualview" h="D865F4B2">実際のイメージビュー</text>
+		<text id="lbl.allowMult" h="3B9DFCE0">複数ファイルの選択を許可</text>
+		<text id="lbl.alwaysUseMultipage" h="6C82FB30">常に複数ページフォーマットを使用する</text>
+		<text id="lbl.askDeleteTool" h="1541D739">&lt;b&gt;%1&lt;/b&gt; ツールを削除してもよろしいですか？
+
+注意：この操作は元に戻すことはできません。</text>
+		<text id="lbl.askDeleteTools" h="25C684AA">&lt;b&gt;%1&lt;/b&gt; ツールを削除してもよろしいですか？
+注意：この操作は元に戻すことはできません。</text>
+		<text id="lbl.askSaveChanges" h="4F19099B">編集を終える前に変更を保存しますか？</text>
+		<text id="lbl.chooseAction" h="5EA681F4">リストからアクションを選択：</text>
+		<text id="lbl.choosefiles.dndhint" h="8CF7925F">上のツールバーのボタンを使ってファイルを追加するか、ここにそれらをドラッグ＆ドロップしてください。好きな順序でそれらを並びかえることができます。</text>
+		<text id="lbl.choosefiles.itemscount" h="2CFE0C7C">%1 アイテム</text>
+		<text id="lbl.choosefiles.selitemscount" h="402CD736">%1 アイテム・ %2 アイテムを選択・ %3</text>
+		<text id="lbl.choosepages" h="668A500A">ドキュメント内のページを選択</text>
+		<text id="lbl.continue" h="A5F0062A">続行</text>
+		<text id="lbl.dblclick2browse" h="DB3D14F9">参照するにはここをダブルクリックしてください...</text>
+		<text id="lbl.editViewToolDesc" h="0F22DAFE">ツールの説明を入力：</text>
+		<text id="lbl.editViewToolName" h="76F4AA91">ツールの名前を入力：</text>
+		<text id="lbl.editdocs.dndhint" h="2FAC7414">ドキュメント間でページを移動したり、それらを並べ替えるためにドラッグ＆ドロップを使用することができます。また、ドキュメントアイテム間や外部ドキュメントアイテムをページにドロップすることによって、新しいドキュメントを作成することができます。</text>
+		<text id="lbl.editview.dndhint" h="42E43BBA">既存のアクションの順序を変更したり、右側のリストから新しいアクションを追加するために、ドラッグ＆ドロップを利用することができます。</text>
+		<text id="lbl.editview.dndhint2" h="714B17C6">クリックして、右側のリストから任意のアクションをドラッグして、ここにドロップします</text>
+		<text id="lbl.emptyCatList" h="488587B8">カテゴリリストが空です</text>
+		<text id="lbl.emptyToolList" h="B2BFE203">ツールリストは空です</text>
+		<text id="lbl.extractSizeLimit" h="0EA996F6">次のサイズより小さい画像を除外：</text>
+		<text id="lbl.fileTypes" h="60ECC8E9">ファイルの種類：</text>
+		<text id="lbl.filestopdf.converters" h="902CF9B3">コンバーター：</text>
+		<text id="lbl.folder" h="3F9ED2F9">フォルダー：</text>
+		<text id="lbl.grouping" h="79C8A88E">グルーピングモード</text>
+		<text id="lbl.keeptransparent" h="5070A5EB">透明性を保持</text>
+		<text id="lbl.multipagetype" h="C5A5712F">複数ページ画像の種類を選択：</text>
+		<text id="lbl.noActionFound" h="105B87AB">検索要求に該当するアクションはありません</text>
+		<text id="lbl.noCategoryFound" h="CEC17229">検索リクエストに一致するカテゴリは見つかりません</text>
+		<text id="lbl.noToolFound" h="181055BB">あなたの検索要求に該当するツールはありません</text>
+		<text id="lbl.reverseOrder" h="9564C9FE">逆順で保存</text>
+		<text id="lbl.run" h="19264084">実行</text>
+		<text id="lbl.savemode" h="D16859B7">オプションを保存</text>
+		<text id="lbl.showextui" h="1E2770E2">ファイル選択の拡張ダイアログを表示</text>
+		<text id="lbl.singlepagetype" h="A6AF6C93">単一ページ画像の種類を選択：</text>
+		<text id="listmonitors.lbl" h="7A930E45">フォルダモニタのリスト：</text>
+		<text id="lnk.browsefolder" h="57F5ECCB">入力フォルダを参照...</text>
+		<text id="lnk.createtitle" h="97F6DA95">ショートカットオプションを作成</text>
+		<text id="lnk.inputfiles" h="3B5E3105">入力ファイルを選択...</text>
+		<text id="lnk.noinput" h="365E2B73">入力ファイルを毎回確認する</text>
+		<text id="lnk.specifyinput" h="C331E1B9">入力ファイル/フォルダをショートカットに追加することができます：</text>
+		<text id="loading" h="DC6A6C81">ロードしています...</text>
+		<text id="location" h="52D95020">場所</text>
+		<text id="log.abort" h="6F8E5DCD">中止する</text>
+		<text id="log.actiondone" h="E2806498">アクションが完了しました</text>
+		<text id="log.andmore" h="54982D71">詳細を表示するにはここをクリック...</text>
+		<text id="log.andmore.tip" h="2D9BDCA0">すべてのアイテムを見るにはここをダブルクリックしてください...</text>
+		<text id="log.cancelled" h="E28236C9">キャンセル</text>
+		<text id="log.fail" h="A37F5F82">失敗</text>
+		<text id="log.filecreated" h="E300872F">作成されたファイル</text>
+		<text id="log.filenotexist" h="E9442568">ファイルが存在しません</text>
+		<text id="log.fileprocstart" h="254322E4">ファイル処理が開始されました</text>
+		<text id="log.filestat.failed" h="D1F8052C">ファイルの処理に失敗しました：%1 / %2</text>
+		<text id="log.filestat.succeded" h="5A913587">ファイルを正常に処理しました：%1 / %2</text>
+		<text id="log.invalidarg" h="79E18E42">不適切なパラメータ</text>
+		<text id="log.nofilesinfolder" h="961510F8">選択した種類のファイルはフォルダにありません。 「入力ファイルの選択」アクションパラメータをチェックしてください。</text>
+		<text id="log.nopermissions" h="7508C445">権限がありません</text>
+		<text id="log.ok" h="BAD1F1D5">成功しました</text>
+		<text id="log.summary" h="8BE8ABA0">概要</text>
+		<text id="log.toolduration" h="8D5BD4C8">%1 が経過しました</text>
+		<text id="log.toolrunfinished" h="A50678CB">ツールの実行結果：%1。</text>
+		<text id="log.toolstarted" h="4352D7A3">"%1"ツールが起動しました</text>
+		<text id="log.txtsummary" h="ABCB53D3">"%1"ツールが終了しました：%2 エラー　%3 ファイル処理　%4 ファイル作成　%5 警告</text>
+		<text id="log.txttoolduration" h="1DED609F">期間：%1</text>
+		<text id="log.unknown" h="8566CB94">不明</text>
+		<text id="log.wrongpass" h="473522EE">間違ったパスワード</text>
+		<text id="modified" h="30325672">更新</text>
+		<text id="moduleName" h="9B0F448F">PDF-Tools</text>
+		<text id="mon.priority" h="73E40EE1">監視の優先度；</text>
+		<text id="monitor.name.tip" h="A0EB9543">ここにモニター名を入力...</text>
+		<text id="monitor.subfold" h="7D8D9398">サブフォルダーを監視する</text>
+		<text id="moveInputFiles" h="61936C79">入力ファイルを移動：</text>
+		<text id="msgtype.debug" h="C3C4F565">デバッグ</text>
+		<text id="msgtype.error" h="51BFF51D">エラー</text>
+		<text id="msgtype.info" h="07FB97A4">情報</text>
+		<text id="msgtype.unknown" h="E52D4ED4">不明なタイプ</text>
+		<text id="msgtype.verbose" h="6817BBB0">詳細</text>
+		<text id="msgtype.warning" h="E7AD7A2B">警告</text>
+		<text id="name" h="D18643E3">名前</text>
+		<text id="no.pages.to.delete" h="7A9E4694">削除するページはありません。</text>
+		<text id="nooverlay.file" h="4D9B1EA6">オーバーレイファイルが指定されていません</text>
+		<text id="ocr.processall" h="705E5831">OCR ドキュメント</text>
+		<text id="ocr.textContinue" h="31439CA0">OCR せずに処理を継続</text>
+		<text id="ocr.textSkip" h="92F274EB">ドキュメントの処理をスキップ</text>
+		<text id="ocropt.lbl" h="791CC215">テキストを含む場合：</text>
+		<text id="ovr.file" h="D8EE6FEB">オーバーレイファイル：</text>
+		<text id="ovr.norepeat" h="E58FFCC1">繰り返しなし</text>
+		<text id="ovr.positions" h="E9C070C5">位置</text>
+		<text id="ovr.repeat" h="DB39711A">繰り返しオプション：</text>
+		<text id="ovr.repeatall" h="FB4118C6">サイズの小さいオーバーレイファイルを並べて表示</text>
+		<text id="ovr.repeatlast" h="87F51B84">サイズの小さいオーバーレイファイルの最後のページを繰り返す</text>
+		<text id="ovr.settings" h="2FF7690D">オーバーレイファイルの設定</text>
+		<text id="page.props" h="F521B2C3">ページプロパティ</text>
+		<text id="pagenumber" h="29EED2B3">番号</text>
+		<text id="pagesRange" h="30C24AC3">ページ範囲</text>
+		<text id="pagesRange.All" h="83434A26">すべて</text>
+		<text id="pagesRange.Pages" h="23952CFD">ページ：</text>
+		<text id="pagesSubset.all" h="599C6EE6">指定した範囲のすべてのページ</text>
+		<text id="pagesSubset.even" h="E64675B8">範囲から偶数ページのみ</text>
+		<text id="pagesSubset.odd" h="87228BC5">範囲から奇数ページのみ</text>
+		<text id="pagesrange.empty" h="630795CE">ページ範囲は空にすることはできません</text>
+		<text id="pdf.properies" h="70EFADF5">PDF プロパティ</text>
+		<text id="pdfahandle.keepPDFAunchanged" h="908B4A26">PDF/Aドキュメントを変更しないでください</text>
+		<text id="pdfahandle.reconvert" h="1AFD2B27">ドキュメントの再変換</text>
+		<text id="pdfahandle.skipPDFA" h="9B11C61E">PDF/Aドキュメントをスキップ</text>
+		<text id="pdfastd.lbl" h="83380816">ドキュメントにPDF/A準拠情報が含まれている場合：</text>
+		<text id="place.foreground" h="0669CDF0">前面にオーバーレイファイルを配置</text>
+		<text id="policy.msg" h="3AE36A58">セキュリティポリシーがありません。
+作成しますか？</text>
+		<text id="preview.ovrfile" h="5593AECC">オーバーレイファイルをプレビュー</text>
+		<text id="printDoc.collate" h="EB01FB70">部単位</text>
+		<text id="printDoc.copies" h="A516AF46">部数：</text>
+		<text id="printDoc.deviceName" h="FEF6AD05">名前：</text>
+		<text id="printDoc.duplex" h="B915897E">両面印刷：</text>
+		<text id="printDoc.paperSize" h="510A44DF">用紙サイズ</text>
+		<text id="printDoc.status" h="922A166F">ステータス</text>
+		<text id="priority.high" h="B7E10973">優先度高</text>
+		<text id="priority.low" h="15FDBBEA">優先度低</text>
+		<text id="priority.medium" h="5A523B97">優先度中</text>
+		<text id="prn.status.serverOffline" h="9F1449AB">サーバーオフライン</text>
+		<text id="prn.status.unknown" h="8566CB94">不明</text>
+		<text id="progr.launching" h="5520AF34">監視を起動しています...</text>
+		<text id="progress.pause" h="6045D570">一時停止</text>
+		<text id="prompt.clearpwd" h="AB0C3147">パスワードの保存をクリアしますか？</text>
+		<text id="prompt.removemonitor" h="DF4CD355">選択したフォルダー監視を削除しますか？</text>
+		<text id="prompt.removepwd" h="F4C34781">選択したアイテムをパスワード保存から削除しますか？</text>
+		<text id="props" h="F6FFF0BE">プロパティ</text>
+		<text id="pwd.defaultDescr" h="EBF5010F">定義済みのパスワード</text>
+		<text id="pwd.descr.date" h="F8CC5563">追加：%1</text>
+		<text id="pwd.descr.dflt" h="5C50975F">説明はありません</text>
+		<text id="pwd.enter.new" h="D9992E89">ストレージに保存するパスワードを入力：</text>
+		<text id="pwd.enter.newdescr" h="9D40879A">新しい説明を入力：</text>
+		<text id="pwdadd" h="AED8BB4C">追加...</text>
+		<text id="pwdclear" h="CB9CE353">クリア</text>
+		<text id="pwdedit" h="621534A3">編集...</text>
+		<text id="pwdgrp" h="202AB42A">パスワードストレージ</text>
+		<text id="pwdlbl" h="5F4039B9">文書処理のために自動的に使用される事前定義済みパスワードのリスト：</text>
+		<text id="pwdprefs.name" h="D2C0C056">パスワード</text>
+		<text id="pwdprefs.tip" h="7434F5A2">定義済みのパスワードストレージ</text>
+		<text id="pwdprefs.title" h="7434F5A2">定義済みのパスワードストレージ</text>
+		<text id="pwdremove" h="FCE39C1F">削除</text>
+		<text id="report" h="E9D63CB7">ツールレポート</text>
+		<text id="report.cuetext" h="5A5BCB07">レポートに表示するメッセージはありません。</text>
+		<text id="report.defaultDesc" h="882ACAE5">ペインには、ツールアクションからのメッセージが表示されます。</text>
+		<text id="report.fld.lbl" h="3F89B943">フォルダーを選択；</text>
+		<text id="report.framed.dlg" h="E9D63CB7">ツールレポート</text>
+		<text id="report.name.lbl" h="553DE74A">レポート名：</text>
+		<text id="report.opt" h="2D42B915">レポートオプション</text>
+		<text id="report.options.autoclear" h="F9D9404E">ツールを開始するたびにレポートを自動的にクリアする</text>
+		<text id="report.options.forcevisible" h="C79B47D7">すべてのタイプのメッセージでレポートペインを表示（チェックなし場合はエラーのみ表示）</text>
+		<text id="report.options.header" h="7254B91C">ツールレポートオプション</text>
+		<text id="report.options.main" h="31B3DC7C">次のオプションを変更し「レポートペイン」を設定：</text>
+		<text id="report.options.reset" h="B02C5E5A">規定値にリセット</text>
+		<text id="report.options.severity" h="B9C34921">ツールレポートペインに表示されるメッセージの種類を選択：</text>
+		<text id="report.options.severity.document" h="5CD972FF">PDFドキュメントの操作に関するメッセージ</text>
+		<text id="report.options.severity.fileOperations" h="CAB821C9">ファイル操作に関するメッセージ（オープン、作成、変更など）</text>
+		<text id="report.options.severity.info" h="A8EA107E">メッセージ情報</text>
+		<text id="report.options.severity.summary" h="692A1A26">ツールの実行結果の概要情報</text>
+		<text id="report.options.severity.title" h="B282840A">メッセージの種類</text>
+		<text id="report.options.severity.warning" h="13217901">警告（ツールの実行プロセスに影響を与える可能性のあるイベントに関するメッセージ）</text>
+		<text id="report.options.showtimestamp" h="2A6DB7B2">レポートにメッセージのタイムスタンプを表示する</text>
+		<text id="reprocess.files" h="72A687D7">開始時にファイルを再処理する</text>
+		<text id="resetActionTip" h="D7E3E700">アクションオプション規定値にリセットします。</text>
+		<text id="resetact.warn" h="E5B97341">アクションオプションをデフォルトにリセットしますか？
+注意：この操作は元に戻すことはできません。</text>
+		<text id="resetprops.btn" h="1008C3F9">リセット</text>
+		<text id="resetprops.btntip" h="33DDB5A0">初期状態にリセットするにはボタンを押下してください</text>
+		<text id="resetseltools.warn" h="26BF4D94">アクションオプションをデフォルトにリセットしますか？
+注意：この操作は元に戻すことはできません。</text>
+		<text id="ressett.alert" h="9B2F79C2">すべてのプログラムオプションをデフォルトにリセットし、デフォルトのオプション設定で構成された標準的なツールに戻してよろしいですか？
+注意：この操作は元に戻すことはできません。</text>
+		<text id="ressett.toolsalert" h="8CCEF1F1">すべてのオプションをリセットすると、すべてのカスタムツールが削除されます。 この操作を続行する場合は、[はい]を押します。
+注意：リセット操作は元に戻すことはできません。</text>
+		<text id="resume" h="B0874E65">レジューム</text>
+		<text id="sameimg.autobpp" h="A216C11C">自動的に色の濃さを選択する</text>
+		<text id="sameimg.autobpp.info" h="9E850B3C">オンにすると画像の色の濃さが自動的に選択されます。 画像フォーマットの画像タイプパラメータは無視されます。</text>
+		<text id="saveas.ask" h="9DF35209">アクションのプロンプト</text>
+		<text id="saveas.auto" h="C820D6B5">ユニークな別名で新規保存</text>
+		<text id="saveas.folder.ask" h="5DC29DB4">常にファイルの場所を尋ねる</text>
+		<text id="saveas.folder.cust" h="C9BD54EB">指定されたカスタムフォルダを使用</text>
+		<text id="saveas.folder.src" h="5E2E8FE3">元のフォルダを保存先として使用</text>
+		<text id="saveas.overwrite" h="68C4F37C">新しいファイルで上書き</text>
+		<text id="saveas.skip" h="CE81D302">既存のファイルを変更しない</text>
+		<text id="saveas.text" h="7D366800">ファイルがすでに存在するとき：</text>
+		<text id="saveimg.default.folder" h="DCD2AF9C">ドキュメントフォルダ</text>
+		<text id="saveimg.default.name" h="5A425CCC">タイトルなし</text>
+		<text id="saveimg.grouping.apart" h="8E717B39">それぞれの画像を別々のファイルにする</text>
+		<text id="saveimg.grouping.groupall" h="9E5BA5E4">すべてのイメージを1つの複数ページイメージファイルにする</text>
+		<text id="saveimg.grouping.groupdoc" h="E86A1581">1つのドキュメント内のすべてのイメージを1つの複数ページイメージファイルにする</text>
+		<text id="saveimg.grouping.grouppage" h="FDF715C4">ページ内のすべてのイメージを1つの複数ページイメージファイルにする</text>
+		<text id="savereport.to" h="861DD843">レポートの保存</text>
+		<text id="searchActionTip" h="3591BAD8">検索アクション...</text>
+		<text id="searchToolTip" h="435392D9">検索ツール...</text>
+		<text id="secinfo.grp" h="F5A61224">セキュリティ情報</text>
+		<text id="secsetting.init.warn" h="61B936AD">使用する前に&lt;b&gt;"%1"&lt;/b&gt;アクションを初期化する必要があります
+ツールの実行を継続してアクションを初期化しますか？</text>
+		<text id="secsettings.btn" h="9147CD71">設定</text>
+		<text id="selPages.all" h="7D499596">すべてのページ</text>
+		<text id="selPages.dlg" h="4B381B82">ページを選択</text>
+		<text id="selPages.even" h="CDE5C1A0">偶数ページ</text>
+		<text id="selPages.exact" h="23952CFD">ページ：</text>
+		<text id="selPages.fromsubset" h="3ADEE045">%1 サブセットから</text>
+		<text id="selPages.odd" h="242E0666">奇数ページ</text>
+		<text id="select.ovrfile" h="74E5784A">オーバーレイファイルを選択</text>
+		<text id="selectDestFolder" h="D0F102DD">対象フォルダを選択</text>
+		<text id="selectHotfolder.lbl" h="3A4859F6">監視するフォルダーを選択：</text>
+		<text id="sendmail.archive.defaultname" h="F758C4E9">名前を入力してください</text>
+		<text id="sendmail.by" h="8EF165F7">/</text>
+		<text id="sendmail.chk.intoone" h="BE171523">すべてのファイルを1つのメールに添付</text>
+		<text id="sendmail.chk.priority" h="846616F7">メールの優先度を高に設定する</text>
+		<text id="sendmail.client" h="E8D90FF3">デスクトップメールクライアント</text>
+		<text id="sendmail.compress.alltoone" h="C303528D">すべてのファイルを1つに圧縮する</text>
+		<text id="sendmail.compress.eachfile" h="B972BFCC">それぞれのファイルを別々の圧縮ファイルにする</text>
+		<text id="sendmail.compress.none" h="F9398D7D">なし</text>
+		<text id="sendmail.edt.cue" h="A179CC6C">メッセージテキストを入力...</text>
+		<text id="sendmail.from" h="976952DD">基点：</text>
+		<text id="sendmail.lbl.arcname" h="A630D28B">圧縮名：</text>
+		<text id="sendmail.lbl.compress" h="BC1093D8">圧縮：</text>
+		<text id="sendmail.log.cantcreatearchive" h="B40CACC8">送信する圧縮ファイルを作成できません</text>
+		<text id="sendmail.log.nofiles" h="4C7A563E">送信するファイルがありません</text>
+		<text id="serializing" h="92752B4F">%1 をシリアライズしています...</text>
+		<text id="setup.grp" h="95DF47CE">フォルダー監視オプション</text>
+		<text id="setuphotfolder.dlg.caption" h="EDC6E6EA">フォルダー監視</text>
+		<text id="showFiles.enabled" h="2532774E">有効</text>
+		<text id="showFiles.launchAssocApp" h="FE936D7D">関連付けられた外部プログラムを使ってファイルを表示</text>
+		<text id="showFiles.launchAssocAppWarn" h="97CF77EB">表示するファイルが複数あります。
+
+それらをすべて同時に閲覧すると、コンピュータリソースを大量に消費する可能性があります。
+
+
+
+操作を継続しますか？</text>
+		<text id="showFiles.openFolderAndSel" h="A95A4BE0">コンテンツフォルダを開きファイルを選択します</text>
+		<text id="showFiles.text" h="26A38ADF">アクションを選択：</text>
+		<text id="showMoreOpts" h="24B13299">すべてのオプション...</text>
+		<text id="showMoreOpts2" h="64C40213">追加オプション...</text>
+		<text id="showMoreOptsTip" h="C60CDB73">すべてのオプションを表示するにはここをクリック...</text>
+		<text id="showMoreOptsTip2" h="145A1CAD">詳細オプションを表示するにはここをクリック...</text>
+		<text id="showSetupUI" h="0E94449E">実行中に設定ダイアログを表示</text>
+		<text id="showSetupUITip" h="0E94449E">実行中に設定ダイアログを表示</text>
+		<text id="size" h="17A58A52">サイズ</text>
+		<text id="sizelimit.nolimit" h="8E135818">無制限</text>
+		<text id="skipaction.b" h="A37FB4B0">アクションをスキップ</text>
+		<text id="skipdocsWithText" h="2683C8E5">テキストを含むドキュメントのOCRしない</text>
+		<text id="skipped" h="B7D8BB1E">スキップされました</text>
+		<text id="smmanual.chk" h="563576E6">手動で分割／マージするためのダイアログを表示</text>
+		<text id="smmethod" h="C894DD7E">方法</text>
+		<text id="smmethod.all2one" h="B3E7239B">すべてのページを1つのドキュメントにする</text>
+		<text id="smmethod.asis" h="4C3BC0E6">入力ドキュメントを保持</text>
+		<text id="smmethod.bookmarks" h="44B3EE11">第1階層のブックマークで分割</text>
+		<text id="smmethod.npages" h="2D67CBA9">N ページごとに別々のドキュメントにする</text>
+		<text id="smreverse.chk" h="B766066F">ページの並び順を反転</text>
+		<text id="sourcepage" h="5D6277DD">元のページ</text>
+		<text id="sourcetitle" h="81E00BC2">元のタイトル</text>
+		<text id="specific" h="67D7437D">詳細</text>
+		<text id="status" h="9FB9C788">ステータス</text>
+		<text id="stdAll" h="C80F4913">すべて標準</text>
+		<text id="stdToolsGrName" h="1906BB71">標準ツール</text>
+		<text id="stop" h="F89FDAAE">停止</text>
+		<text id="targettitle" h="F87B6FA7">対象のタイトル</text>
+		<text id="timefmt.day" h="EF28C7D2">%1 日</text>
+		<text id="timefmt.days" h="F3C5276C">%1 日</text>
+		<text id="timefmt.days.short" h="E1985A1D">%1 日</text>
+		<text id="timefmt.hour" h="CDADDDAA">%1 時</text>
+		<text id="timefmt.hours" h="E9410F6D">%1 時</text>
+		<text id="timefmt.hours.short" h="4D2D1511">%1 時</text>
+		<text id="timefmt.minute" h="2D014E0C">%1 分</text>
+		<text id="timefmt.minutes" h="781A3650">%1 分</text>
+		<text id="timefmt.minutes.short" h="305AE154">%1 分</text>
+		<text id="timefmt.second" h="CDE322F6">%1 秒</text>
+		<text id="timefmt.seconds" h="D24DF2F6">%1 秒</text>
+		<text id="timefmt.seconds.short" h="E41BDE8B">%1 秒</text>
+		<text id="title.choosepages" h="4B381B82">ページを選択</text>
+		<text id="tool" h="7D3C7CB2">ツール</text>
+		<text id="tool.addBatesNumbering" h="5987A707">ベイツナンバリングを追加</text>
+		<text id="tool.addBatesNumbering.desc" h="19058FA5">法的文書のインデックスを作成したり、簡単に識別し検索できるようにベイツナンバリングを提供します</text>
+		<text id="tool.addDigSign" h="97DD789F">デジタル署名を追加</text>
+		<text id="tool.addDigSign.desc" h="84946427">新しい署名フィールドを PDF に追加し、証明書ベースのデジタルIDを使用してそれらに署名します。</text>
+		<text id="tool.addHeaderAndFooter" h="71EBAC62">ヘッダとフッタを追加</text>
+		<text id="tool.addHeaderAndFooter.desc" h="36AA73F6">指定されたページにヘッダおよび／またはフッタを追加します。ヘッダーとフッターには、日付、自動ページ採番、タイトルと著者などを含むことができます。</text>
+		<text id="tool.addPagesBackground" h="20D4DB07">ページの背景を設定</text>
+		<text id="tool.addPagesBackground.desc" h="C639A1B2">塗りつぶし、画像などのページの背景を設定します</text>
+		<text id="tool.addTimeStamp" h="837FE6FB">PDF にタイムスタンプを追加</text>
+		<text id="tool.addTimeStamp.desc" h="4D80E50C">タイムスタンプが適用された時間に完全なPDFファイルの正確な内容が確立したことを示す認証サーバーからのタイムスタンプを追加します。</text>
+		<text id="tool.addWatermarks" h="F5662DD3">透かしを追加</text>
+		<text id="tool.addWatermarks.desc" h="434D9E42">既存のページコンテンツの前面または背面のいずれかに表示するテキストまたは画像を追加します。</text>
+		<text id="tool.bookmarksBuildTOC" h="2B3E9BF1">目次の作成</text>
+		<text id="tool.bookmarksBuildTOC.desc" h="1D694D80">ブックマークの構造とそれらが指し示すページに基づいて目次を作成します</text>
+		<text id="tool.bookmarksExport" h="F3EE1781">ブックマークをエクスポート</text>
+		<text id="tool.bookmarksExport.desc" h="BB39B78E">ドキュメントからすべてのブックマークをエクスポートします</text>
+		<text id="tool.bookmarksExportToText" h="01135DA3">ブックマークをテキストファイルにエクスポート</text>
+		<text id="tool.bookmarksExportToText.desc" h="F351FF49">PDF ドキュメントのブックマーク構造をテキストファイルに保存します</text>
+		<text id="tool.bookmarksFromText" h="383A949B">ページテキストからブックマークを生成</text>
+		<text id="tool.bookmarksFromText.desc" h="1EF3AF08">指定されたフォントスタイルとパラメータを使用して、ドキュメントのテキストからブックマークを作成します</text>
+		<text id="tool.bookmarksFromTextFile" h="CA5176DD">テキストファイルからブックマークをインポート</text>
+		<text id="tool.bookmarksFromTextFile.desc" h="792D900F">テキストファイルから PDF ドキュメントにブックマークを作成します</text>
+		<text id="tool.bookmarksImport" h="DC7F6AD5">ブックマークをインポート</text>
+		<text id="tool.bookmarksImport.desc" h="40AC7812">以前にエクスポートしたファイルからブックマークをドキュメントにインポートします</text>
+		<text id="tool.certifyPDF" h="52B0ED47">認証 PDF</text>
+		<text id="tool.certifyPDF.desc" h="828838CF">署名フィールドの特定の形式でそれを認証することにより、PDFドキュメントを保護します</text>
+		<text id="tool.changeProps" h="89CBAD2F">ドキュメントのプロパティを変更</text>
+		<text id="tool.changeProps.desc" h="40BD1FE7">タイトル、作者、標題、キーワードなどのドキュメントプロパティを設定します</text>
+		<text id="tool.clearDigSign" h="361BBD36">すべてのデジタル署名をクリア</text>
+		<text id="tool.clearDigSign.desc" h="E1CDD425">可能であれば未署名のフィールドを残して、すべての電子署名を削除します</text>
+		<text id="tool.convertToPDFA" h="86709E15">PDF/A に変換</text>
+		<text id="tool.convertToPDFA.desc" h="7DDE1660">長期アーカイブと保存のニーズのために PDF/A 標準に準拠した PDF ドキュメントを作成する</text>
+		<text id="tool.convertToPDFX" h="1D70370D">PDF/X に変換</text>
+		<text id="tool.convertToPDFX.desc" h="CB599882">印刷データの互換性のために PDF/X 標準に準拠した PDF ドキュメント を作成する</text>
+		<text id="tool.copied" h="348DE55D">コピー</text>
+		<text id="tool.createWeblinks" h="F68EDD51">Webリンクを作成する</text>
+		<text id="tool.createWeblinks.desc" h="6971A17D">ドキュメントのテキストコンテンツからWebリンクを作成します</text>
+		<text id="tool.cropPages" h="54A95B63">ページの切り出し</text>
+		<text id="tool.cropPages.desc" h="A9A477BE">ページの余白を削除または変更するか、ページボックスを設定して、可視ページ領域を調整します。</text>
+		<text id="tool.deleteComments.all" h="E8642222">すべてのコメントを削除</text>
+		<text id="tool.deleteComments.all.desc" h="818B531A">ドキュメントからすべてのコメントを削除する。</text>
+		<text id="tool.deleteComments.form" h="37ECB4B5">フォームフィールドを削除</text>
+		<text id="tool.deleteComments.form.desc" h="C5D21570">ドキュメントからフォームフィールドを削除する。</text>
+		<text id="tool.deleteComments.links" h="CC8F1411">リンクを削除</text>
+		<text id="tool.deleteComments.links.desc" h="66D48AF5">ドキュメントからリンクを削除する。</text>
+		<text id="tool.deleteComments.markup" h="EA5127FB">マークアップの注釈を削除</text>
+		<text id="tool.deleteComments.markup.desc" h="80CD5AA0">ドキュメントからマークアップの注釈を削除する。</text>
+		<text id="tool.deleteComments.weblinks" h="87C8439E">Webリンクを削除</text>
+		<text id="tool.deleteComments.weblinks.desc" h="158E179F">ドキュメントからWebリンクを削除する。</text>
+		<text id="tool.deletePages" h="E5284839">ページを削除</text>
+		<text id="tool.deletePages.desc" h="4E1EBD43">ドキュメントからページを削除</text>
+		<text id="tool.descTip" h="04F6C0B5">ツールの説明を入力します...</text>
+		<text id="tool.discardPDFStd" h="E608B980">特別なPDF標準を破棄する</text>
+		<text id="tool.discardPDFStd.desc" h="947EF232">PDF/X、PDF/A、PDF/Eなどの特別なPDF標準情報を破棄します。</text>
+		<text id="tool.duplicatePages" h="14C45200">ページを複製</text>
+		<text id="tool.duplicatePages.desc" h="0FD26A6C">PDFドキュメントのページを複製する。</text>
+		<text id="tool.enhanceScannedPages" h="0A810C6E">ページスキャンの拡張機能</text>
+		<text id="tool.enhanceScannedPages.desc" h="95589020">可読性改善やファイルサイズ低減のために PDF ファイル内のスキャンしたイメージを加工します</text>
+		<text id="tool.extractImagesFromPDF" h="4CF9FEB6">PDF から画像を抽出</text>
+		<text id="tool.extractImagesFromPDF.desc" h="C53280A8">抽出するドキュメントコンテンツに含まれているラスタイメージについてPDFを調べて、ディスク上のファイルにそれらを保存します</text>
+		<text id="tool.extractPages" h="7AE73EC1">ページを抽出</text>
+		<text id="tool.extractPages.desc" h="54BB795B">PDF ドキュメントから新しいドキュメントに指定されたページ範囲を抽出します</text>
+		<text id="tool.filesToPDF" h="4CD7DD2F">ファイルを PDF に変換</text>
+		<text id="tool.filesToPDF.desc" h="603206C4">サポートされる形式のファイルを PDF に変換します</text>
+		<text id="tool.flattenComments" h="CBA1AA18">コメントのフラット化</text>
+		<text id="tool.flattenComments.desc" h="20A41E96">注釈を基準のコンテンツアイテムに変換します。</text>
+		<text id="tool.imagesToPDF" h="B0C7E05C">イメージから PDF を作成</text>
+		<text id="tool.imagesToPDF.desc" h="0FDB3BE0">1つ以上のラスターイメージから単一の PDF ドキュメントを作成します</text>
+		<text id="tool.insertEmptyPages" h="3779032F">空のページを挿入する</text>
+		<text id="tool.insertEmptyPages.desc" h="65380D33">ドキュメントに空のページを挿入する。</text>
+		<text id="tool.insertPages" h="6B486B45">ページを挿入</text>
+		<text id="tool.insertPages.desc" h="E986FB1C">選択したドキュメントからページを挿入する。</text>
+		<text id="tool.isused" h="F0A66FDB">&lt;b&gt;"%1"&lt;/b&gt; ツールを削除できません
+フォルダー監視で使用されています</text>
+		<text id="tool.nameTip" h="92682EAF">ツールの名前を入力します...</text>
+		<text id="tool.new.name" h="6431F60C">新しいツール</text>
+		<text id="tool.ocrPages" h="D2A189BC">OCR ページ</text>
+		<text id="tool.ocrPages.desc" h="E9D91493">PDFドキュメント内のテキスト文字を光学的に解析し、ページ上に選択や検索可能なテキストレイヤーを作成します</text>
+		<text id="tool.optimizePDF" h="E369C144">PDFを最適化</text>
+		<text id="tool.optimizePDF.desc" h="2DDF7F6C">可能な場合、PDF ファイルのサイズを減らすためにドキュメントコンテンツを最適化します</text>
+		<text id="tool.overlayDoc" h="A113E021">PDF をオーバーレイ</text>
+		<text id="tool.overlayDoc.desc" h="8AC5B664">別の PDF ドキュメントで PDF ドキュメントをオーバーレイします</text>
+		<text id="tool.pageTransitions" h="B5EF0B7A">ページ遷移の設定</text>
+		<text id="tool.pageTransitions.desc" h="33F5B755">フルスクリーンモードにおける特殊なページ遷移効果を変更</text>
+		<text id="tool.pdfToDOCX" h="D89F515F">PDFをMicrosoft Wordドキュメントにエクスポート</text>
+		<text id="tool.pdfToDOCX.desc" h="D34FB81F">PDFドキュメントを Microsoft Wordドキュメントファイル (*.docx) にエクスポートします</text>
+		<text id="tool.pdfToImages" h="6DC3C315">PDFを画像にエクスポート</text>
+		<text id="tool.pdfToImages.desc" h="87E8923B">1つ以上のPDFファイルのページをJPEG、PNG、TIFFなどの異なるラスター画像形式に簡単にエクスポートします</text>
+		<text id="tool.pdfToPPTX" h="E673A7B8">PDFをMicrosoft PowerPointプレゼンテーションにエクスポート</text>
+		<text id="tool.pdfToPPTX.desc" h="65E608C6">PDFドキュメントをMicrosoft PowerPointプレゼンテーションファイル (*.pptx) にエクスポートします</text>
+		<text id="tool.pdfToTXT" h="29DDD177">PDFをプレーンテキストにエクスポート</text>
+		<text id="tool.pdfToTXT.desc" h="9C277C15">PDFドキュメントをプレーンテキストファイル (*.txt) にエクスポートします</text>
+		<text id="tool.pdfToXSLX" h="A31C131A">PDFをMicrosoft Excelスプレッドシートにエクスポート</text>
+		<text id="tool.pdfToXSLX.desc" h="325AEA86">PDFドキュメントをMicrosoft Excelスプレッドシートファイル(* .xlsx)にエクスポートします。</text>
+		<text id="tool.printDocument" h="4F3750AE">ドキュメントの印刷</text>
+		<text id="tool.printDocument.desc" h="52ECFAA3">すべての入力ドキュメントを印刷します</text>
+		<text id="tool.removeBackground" h="E0246483">ページの背景を削除</text>
+		<text id="tool.removeBackground.desc" h="17700648">ページからカスタム背景を削除して、デフォルトの白い無地の背景に置き換えます</text>
+		<text id="tool.removeBatesNumbering" h="901F5ABD">ベイツナンバリングを削除</text>
+		<text id="tool.removeBatesNumbering.desc" h="E4FBEB3C">ベイルナンバリングを削除します</text>
+		<text id="tool.removeHeaderAndFooter" h="11E8A996">ヘッダとフッタを削除</text>
+		<text id="tool.removeHeaderAndFooter.desc" h="E1CC0743">すべてのヘッダとフッタを削除します</text>
+		<text id="tool.removeWatermarks" h="93F16CE2">透かしを削除</text>
+		<text id="tool.removeWatermarks.desc" h="AFCD3BD4">すべての透かしを削除します</text>
+		<text id="tool.replacePages" h="1311083C">ページの置換</text>
+		<text id="tool.replacePages.desc" h="9C48D712">選択したドキュメントのページでドキュメント内のページを置き換えます</text>
+		<text id="tool.report.dlg" h="E9D63CB7">ツールレポート</text>
+		<text id="tool.report.filename" h="C7908B93">ツール実行レポート</text>
+		<text id="tool.report.save" h="418B87C2">ファイルに保存...</text>
+		<text id="tool.resizePages" h="8A5C31F1">ページのリサイズ</text>
+		<text id="tool.resizePages.desc" h="822401DC">ページのサイズを増加または縮小し、必要に応じてページコンテンツをスケーリングします。</text>
+		<text id="tool.rotatePages" h="CBD82045">ページを回転</text>
+		<text id="tool.rotatePages.desc" h="66235E38">PDF ドキュメント内の指定のページを90°時計回りまたは反時計回りに回転します</text>
+		<text id="tool.scanToPDF" h="B9A05395">スキャナから PDF 作成</text>
+		<text id="tool.scanToPDF.desc" h="521CD5C0">スキャナを使って紙から直接 PDF ドキュメントを作成します</text>
+		<text id="tool.securePDF" h="400E69FB">セキュア PDF</text>
+		<text id="tool.securePDF.desc" h="322DE365">ドキュメントコンテンツを開いたり変更するためのパスワードを設定して PDF ドキュメントを保護します</text>
+		<text id="tool.sendMail" h="9377A75B">メールを送信</text>
+		<text id="tool.sendMail.desc" h="13681586">現在のメール送信方法を使って指定されたメールアドレスにファイルを送信します</text>
+		<text id="tool.splitMergePDF" h="51A86996">PDF を分割／マージ</text>
+		<text id="tool.splitMergePDF.desc" h="73710D3B">自動または手動で、すべての入力PDFファイルを一つに結合したり、新しいPDFファイルにそれらを分割します</text>
+		<text id="tool.splitPages" h="2648812F">ページ分割</text>
+		<text id="tool.splitPages.desc" h="4FA35C77">PDFドキュメントのページを分割します。</text>
+		<text id="tool.summarizeComments" h="2233C1CD">コメントの要約</text>
+		<text id="tool.summarizeComments.desc" h="8EA1DEF5">PDFドキュメントにすべてのコメントの概要を作成します</text>
+		<text id="tool.textToPDF" h="ECE46B63">テキストから PDF を作成</text>
+		<text id="tool.textToPDF.desc" h="E1CF697C">1つ以上のテキストファイルから単一の PDF ドキュメントを作成します</text>
+		<text id="tool.warn.actIncompatible" h="AE17E68E">このアクションは &lt;u&gt;%1&lt;/u&gt; アクションと互換性がありません。 これらのアクションの1つはスキップする必要があります。</text>
+		<text id="tool.warn.actInvalid1" h="8442B509">このアクションに1つ以上の問題が見つかりました：</text>
+		<text id="tool.warn.actInvalid2" h="442E6045">この問題は次のアクションで見つかりました：</text>
+		<text id="tool.warn.actReqDoc" h="76C84E2B">このアクションは入力として、PDF 、イメージ、もしくはその他のサポートするファイルを必要とします</text>
+		<text id="tool.warn.actReqFile1" h="0B30D02F">このアクションは入力としてファイルを必要とします - 問題を解決するために、この前に &lt;u&gt;%1&lt;/u&gt; アクションを挿入することができます</text>
+		<text id="tool.warn.actReqFile2" h="CA8342FE">このアクションは入力としてファイルを必要とします</text>
+		<text id="tool.warn.actReqFile21" h="65B62BA0">この前に  &lt;u&gt;%1&lt;/u&gt; アクションを挿入し忘れているように見えます</text>
+		<text id="tool.warn.actReqImg" h="D28A3C63">このアクションは入力としてイメージを必要とします</text>
+		<text id="tool.warn.actReqSaveRes" h="3621DC81">このアクションの結果はディスクに保存する必要があります - 問題を解決するために、このアクションの後に &lt;u&gt;%1&lt;/u&gt; アクションを挿入してください</text>
+		<text id="tool.warn.actReqSaveRes2" h="9B55FE54">このツールには、以前のアクションの中に &lt;u&gt;%1&lt;/u&gt; が含まれており、 &lt;i&gt;この&lt;/i&gt; アクションを適用する前にその結果を保存する必要があります。あなたは、 &lt;u&gt;%2&lt;/u&gt; アクションを追加する必要があります。</text>
+		<text id="tool.warn.actTitle" h="7330FC41">&lt;u&gt;%1&lt;/u&gt; アクション：</text>
+		<text id="tool.warn.cancel" h="8DD6365D">実行中の  &lt;b&gt;"%1"&lt;/b&gt; ツールを停止しますか？
+作業を継続する場合は &lt;b&gt;いいえ&lt;/b&gt; をクリックしてください...</text>
+		<text id="tool.warn.empty" h="D05A0C43">このツールは空です - ツールバーの '&lt;b&gt;編集&lt;/b&gt;' ボタンをクリックし、作業ツールを作成するためにアクションを追加することができます</text>
+		<text id="tool.warn.empty2" h="B4FD144F">ツールは空です：アクションがありません</text>
+		<text id="tool.warn.imgNotFound" h="9A768995">イメージがありません</text>
+		<text id="tool.warn.invalidActList" h="A2BB75D7">ツールに不正なアクションリストがあります</text>
+		<text id="tool.warn.nextActNotSuitable" h="17376D04">入力として&lt;i&gt;この&lt;/i&gt;アクションの結果を受け入れないため、&lt;i&gt;次の&lt;/i&gt;アクションは適切ではありません</text>
+		<text id="tool.warn.nextActNotSuitable2" h="49941252">問題を解決するために、&lt;u&gt;%1&lt;/u&gt; アクションを&lt;i&gt;この&lt;/i&gt; 後に挿入することができます</text>
+		<text id="tool.warn.nooperation" h="0063BA81">このアクションの操作を作成することはできません。 対応するプラグインをインストールまたは修復してください。</text>
+		<text id="tool.warn.runInvalid" h="58A31432">&lt;b&gt;"%1"&lt;/b&gt; ツールは正しくありません。実行するにはアクションリストを修正する必要があります。
+
+ツールを編集しますか？</text>
+		<text id="tool.warn.toolInvalid1" h="D448BEEB">このツールに1つ以上の問題が見つかりました：</text>
+		<text id="tool.warn.toolInvalid2" h="560926B8">この問題は次のツールで見つかりました：</text>
+		<text id="toolActionsList" h="C9BE1A16">ツールアクションシーケンス</text>
+		<text id="toolCategories" h="DB5C4D49">カテゴリ</text>
+		<text id="toolInfo" h="979A9FE1">ツール情報</text>
+		<text id="toolInfo.defaultDesc" h="D1FD06B6">情報を参照するためのツールリストからツールを選択</text>
+		<text id="toolcat.PDFStandard" h="E51FAF25">PDF標準</text>
+		<text id="toolcat.advanced" h="59A2B513">詳細</text>
+		<text id="toolcat.all" h="BF2EE9E9">すべてのツール</text>
+		<text id="toolcat.bookmarks" h="E2032460">ブックマーク</text>
+		<text id="toolcat.comments" h="FA5EB905">コメント</text>
+		<text id="toolcat.createPDF" h="ACF7EBD1">PDF を作成</text>
+		<text id="toolcat.customTools" h="22F07048">カスタムツール</text>
+		<text id="toolcat.exportPDF" h="4AE54AB5">PDFをエクスポート</text>
+		<text id="toolcat.favorites" h="310DA860">お気に入り</text>
+		<text id="toolcat.importedTools" h="48FF1B1E">インポートされたツール</text>
+		<text id="toolcat.mostUsed" h="6274AE53">最も使われる</text>
+		<text id="toolcat.newname" h="DB2A8F96">新たなカテゴリ</text>
+		<text id="toolcat.optimizePDF" h="E369C144">PDFを最適化</text>
+		<text id="toolcat.pages" h="47B1CB74">ページ</text>
+		<text id="toolcat.protection" h="B7EE190B">保護</text>
+		<text id="toolcat.recents" h="F90189AF">最近</text>
+		<text id="toolsList" h="CA8BB4DB">ツール</text>
+		<text id="toolselect.lbl" h="ECBB264F">実行するツールを選択：</text>
+		<text id="toolslist.drop.nofiles" h="4F3412DD">削除するファイルがありません</text>
+		<text id="toolslist.tip.icofavorite.add" h="F53B42E1">ツールをお気に入りに追加するにはここをクリックしてください</text>
+		<text id="toolslist.tip.icofavorite.remove" h="04AC30FF">ツールはお気に入りに登録されています
+お気に入りからツールを削除するにはクリックしてください</text>
+		<text id="toolslist.tip.icomonitor" h="4A7E7A48">ツールはフォルダー監視で使用されています</text>
+		<text id="toolslist.tip.icouser" h="9864F819">カスタムツール</text>
+		<text id="toolsview.warning.emptyname" h="38B7A2E0">ツール名は必須入力です</text>
+		<text id="type" h="710B61B4">種類</text>
+		<text id="userui.disable" h="14084105">対話を無効</text>
+		<text id="userui.tooltip" h="439FDF26">この設定により、ツールの実行時にカスタマイズダイアログボックスや出力ファイルの表示など、すべてのUIのやりとりが無効になります。
+注意： &lt;b&gt;"%1"&lt;/b&gt; のような一部のツールでは初期化が必要なため、初めて実行するときにセットアップが表示されます。</text>
+		<text id="userui.usetool" h="D5A05798">ツール設定を使用</text>
+		<text id="usetool.filter" h="4885292B">ツールのフィルタを使用</text>
+		<text id="warn.textDocSkipOCR" h="FB74BE26">PDFドキュメントにはテキストが含まれています。 OCR 操作は適用されません。</text>
+		<text id="weblinks.grp" h="BC392B82">Web リンクを作成するページを選択：</text>
+		<text id="wrong.file.msg" h="9F0126B0">オーバーレイ PDF を開けません:
+&lt;b&gt;%1&lt;/b&gt;:
+%2
+別の PDF を選択しますか？ </text>
+	</Strings>
+</Localization>

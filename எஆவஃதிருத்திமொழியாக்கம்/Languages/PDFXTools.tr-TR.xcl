@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180403202141">2.00.00</Version>
+	<Author>Tülay Ongun</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXTools"/>
+	<Language eName="Turkish (Turkey)" lName="Türkçe" code="tr-TR" R2L="false"/>
+	<Module name="PDFXTools" namespace="pdft" version="7.0.324.4"/>
+	<Strings>
+		<text id="accessed" h="45570324">Erişildi</text>
+		<text id="act.askForSourceFiles" h="2E856073">Kaynak dosyalar için sor</text>
+		<text id="act.askForSourceFiles.desc" h="3759C068">Kaynak dosyaların belirlenebileceği bir iletişim kutusu gösterilir.</text>
+		<text id="act.bm.ExportActType_GotoR" h="41E1955E">'Go-to Remote' işlemli yer işaretleri</text>
+		<text id="act.bm.ExportActType_JS" h="31D8CD1A">JavaScript işlemleri olan yer işaretleri</text>
+		<text id="act.bm.ExportActType_Launch" h="38537D36">'Dosya Aç' işlemli yer işaretleri</text>
+		<text id="act.bm.ExportActType_Page" h="05B4C93C">'Go-to Page' işlemli yer işaretleri</text>
+		<text id="act.bm.ExportActType_URI" h="F39B51AE">'Web Bağlantısı Aç' işlemli yer işaretleri</text>
+		<text id="act.bm.ExportActTypesAll" h="B8B21253">Her türlü köprü eylemi olan yer işaretleri</text>
+		<text id="act.bm.bmToExport" h="28D4BD73">Yer İşaretlerinin Dışa Aktarımı</text>
+		<text id="act.bm.exportAll" h="8882D072">Tümünü Dışa Aktar</text>
+		<text id="act.bm.exportHyperlink" h="8AB29747">Köprü eylemini gerçekleştiren yer imlerini dışa aktar:</text>
+		<text id="act.bm.exportToTextFile" h="01135DA3">Yer İşaretlerinin Metin Dosyasına Aktarımı</text>
+		<text id="act.bm.exportToTextFile.desc" h="7C68D13E">Yer İşaretlerinin yapısı Metin Dosyası olarak dışa aktarılsın</text>
+		<text id="act.bm.generateFromText" h="383A949B">Metin Sayfasından Yer İşaretleri Oluştur</text>
+		<text id="act.bm.generateFromText.desc" h="6DDE7415">Verilen yazı tipi stili ve parametreleri kullanılarak mevcut belgenin metninden yer işaretleri oluşturulur.</text>
+		<text id="act.bm.fromTextFile" h="CA5176DD">Metin Dosyasından Yer İşaretlerini İçe Aktar</text>
+		<text id="act.bm.fromTextFile.desc" h="EE697E49">Metin Dosyasından Yer İşaretleri Oluşturulur. Metin dosyası veri formatının; Yer İşaretleri Metin Dosyası özelliklerinin kurallarını dışa aktarması gerektiğini unutmayınız.</text>
+		<text id="act.bm.export" h="F3EE1781">Yer İşaretlerinin Dışa Aktarımı</text>
+		<text id="act.bm.export.desc" h="1403C5AD">Belgedeki tüm yer işaretlerinin dışa aktarımı</text>
+		<text id="act.bm.import" h="DC7F6AD5">Yer İşaretlerini İçe Aktar</text>
+		<text id="act.bm.import.desc" h="A5E69BAE">Bir önceki dışa aktarılmış dosyadan belge(ler)nin içine aktarılır.</text>
+		<text id="act.bm.toTOC" h="2B3E9BF1">İçindekiler Tablosunun oluşturulması</text>
+		<text id="act.bm.toTOC.desc" h="E92DA1A8">Yer İşaretleri ve yapılarına göre işaret edilen bir İçindekiler Tablosu oluşturulur.</text>
+		<text id="act.deleteComments.all" h="E8642222">Tüm Yorumları Sil</text>
+		<text id="act.deleteComments.all.desc" h="818B531A">Belgedeki tüm yorumları siler.</text>
+		<text id="act.deleteComments.form" h="37ECB4B5">Form Alanlarını Sil</text>
+		<text id="act.deleteComments.form.desc" h="C5D21570">Form alanlarını belgeden siler.</text>
+		<text id="act.deleteComments.grp" h="EFCEA727">Yorumları silmek için sayfaları seçin</text>
+		<text id="act.deleteComments.lbl" h="605AA315">Silinecek yorumlar türünü seçin:</text>
+		<text id="act.deleteComments.links" h="CC8F1411">Bağlantıları Sil</text>
+		<text id="act.deleteComments.links.desc" h="66D48AF5">Belgedeki bağlantıları siler.</text>
+		<text id="act.deleteComments.markup" h="EA5127FB">İşaretleme Ek Açıklamalarını Sil</text>
+		<text id="act.deleteComments.markup.desc" h="80CD5AA0">İşaretleme ek açıklamalarını belgeden siler.</text>
+		<text id="act.deleteComments.weblinks" h="87C8439E">Web Bağlantılarını Sil</text>
+		<text id="act.deleteComments.weblinks.desc" h="158E179F">Belgeden web bağlantılarını siler.</text>
+		<text id="act.deletePages.lbl" h="75141561">Silinecek sayfa aralığı:</text>
+		<text id="act.discardPDFStd" h="E608B980">Özel PDF Standardı Çıkarılsın</text>
+		<text id="act.discardPDFStd.desc" h="947EF232">PDF/X, PDF/A, PDF/E gibi özel PDF standart bilgisi çıkarılsın...</text>
+		<text id="act.doc.addBackground" h="8B83981C">Sayfa Arkaplan Değişikliği</text>
+		<text id="act.doc.addBackground.desc" h="8C8F71BF">Sayfa içeriğinin arkasındaki arka planı ayarlar.</text>
+		<text id="act.doc.addBatesNumbering" h="5987A707">Bates Numaralandırma Ekle</text>
+		<text id="act.doc.addBatesNumbering.desc" h="19058FA5">Yasal belgeleri kolay tanımlanacak şekilde indekslemek için bates numaralandırma yapılmasını sağlar.</text>
+		<text id="act.doc.addDigSign" h="97DD789F">Dijital İmza Ekle</text>
+		<text id="act.doc.addDigSign.desc" h="BB76CA39">Sertifika tabanlı dijital bir kimlik kullanılarak yeni imza alanı eklenir ve imzalanır.</text>
+		<text id="act.doc.addHeaderAndFooter" h="71EBAC62">Üstbilgi ve Altbilgi Ekle</text>
+		<text id="act.doc.addHeaderAndFooter.desc" h="8697B047">Belirtilen sayfalara üstbilgi ve altbilgi eklenir. Üstbilgi ve altbilgide; tarih, otomatik sayfa numarası, başlık ve yazar vb. yer alabilir.</text>
+		<text id="act.doc.addTimeStamp" h="896D61BF">Zaman Damgası Ekle</text>
+		<text id="act.doc.addTimeStamp.desc" h="2FDF1628">Zaman damgası tarafından belirtilen zamanda PDF dosyasının tamamına zaman damgası eklenir. Bu, belirlenmiş zaman damgası yetkilisinden temin edilir.</text>
+		<text id="act.doc.addWatermarks" h="AA010705">Filigran Ekle</text>
+		<text id="act.doc.addWatermarks.desc" h="A89FAD30">Sayfa içeriğinin önünde veya arkasında görünen metin/resim eklenir.</text>
+		<text id="act.doc.certify" h="C2AFA656">Belge Sertifikası</text>
+		<text id="act.doc.certify.desc" h="402B64F2">Bir PDF belgesi; sertifikalı bir imza alanı ile sertifikalı olarak korunur.</text>
+		<text id="act.doc.changeProps" h="89CBAD2F">Belge Özellikleri Değişikliği</text>
+		<text id="act.doc.changeProps.desc" h="40BD1FE7">Belge özelliklerini ayarlar: başlık, yazar, konu, anahtar kelimeler vs.</text>
+		<text id="act.doc.clearDigSign" h="7E6883B8">Dijital İmzaları Temizle</text>
+		<text id="act.doc.clearDigSign.desc" h="E1CDD425">Mümkünse, imzalanmayanları bırakarak tüm dijital imzaları kaldırır.</text>
+		<text id="act.doc.convertToPDFA" h="86709E15">PDF/A'ya Dönüştür</text>
+		<text id="act.doc.convertToPDFA.desc" h="89A9625A">Uzun vadeli arşivleme ve koruma için belgeleri PDF/A standardına uygun hale getirir.</text>
+		<text id="act.doc.convertToPDFX" h="1D70370D">PDF/X'e Dönüştür</text>
+		<text id="act.doc.convertToPDFX.desc" h="BB077FA6">Baskı verilerini değiştirmek için belgeleri PDF/X standardına uygun hale getirir.</text>
+		<text id="act.doc.createWeblinks" h="F68EDD51">Web Bağlantıları Oluştur</text>
+		<text id="act.doc.createWeblinks.desc" h="6971A17D">Belgenin metin içeriğinden web bağlantıları oluşturulur.</text>
+		<text id="act.doc.cropPages" h="54A95B63">Sayfa Kesme</text>
+		<text id="act.doc.cropPages.desc" h="9F01A5F4">Görünür sayfa alanı ayarları; sayfalardaki beyaz kenar boşlukları değiştirilerek veya kaldırılarak sayfa kutuları ayarlanır.</text>
+		<text id="act.doc.deletePages" h="E5284839">Sayfaları Sil</text>
+		<text id="act.doc.deletePages.desc" h="0EA6D9E9">Seçilen sayfaları belgeden silinir.</text>
+		<text id="act.doc.duplicatePages" h="14C45200">Sayfaları Çoğalt</text>
+		<text id="act.doc.duplicatePages.desc" h="0FD26A6C">PDF belgesinin sayfaları çoğaltır.</text>
+		<text id="act.doc.exportToDOCX" h="D89F515F">PDF'nin Microsoft Word Belgesi'ne aktarımı</text>
+		<text id="act.doc.exportToDOCX.desc" h="D5E45C48">PDF'leri Microsoft Word Belgesi dosyasına (* .docx) aktarır.</text>
+		<text id="act.doc.exportToImages" h="6DC3C315">PDF'nin Resime aktarımı</text>
+		<text id="act.doc.exportToImages.desc" h="0EA3EE6B">Bir veya daha fazla PDF sayfalarını, farklı (JPEG, PNG, TIFF, vb.) raster resim formatına aktarır.</text>
+		<text id="act.doc.exportToPPTX" h="E673A7B8">PDF'nin Microsoft PowerPoint Sunumu'na aktarımı</text>
+		<text id="act.doc.exportToPPTX.desc" h="E0A7703F">PDF'leri Microsoft PowerPoint Sunum dosyasına (* .pptx) aktarır.</text>
+		<text id="act.doc.exportToTXT" h="29DDD177">PDF'nin Düz Metin'e aktarımı</text>
+		<text id="act.doc.exportToTXT.desc" h="3D8783C4">PDF'leri Düz Metin dosyasına (* .txt) aktarır.</text>
+		<text id="act.doc.exportToXLSX" h="A31C131A">PDF'nin Microsoft Excel Tablosu'na aktarımı</text>
+		<text id="act.doc.exportToXLSX.desc" h="66CD86D0">PDF' leri Microsoft Excel Tablosu dosyasına (* .docx) aktarır.</text>
+		<text id="act.doc.extractImages" h="4CF9FEB6">PDF'den Resim Çıkarma</text>
+		<text id="act.doc.extractImages.desc" h="454EBA71">Belge(ler)de raster resimleri arar ve çıkarır.</text>
+		<text id="act.doc.extractPages" h="7AE73EC1">Sayfaları Çıkarma</text>
+		<text id="act.doc.extractPages.desc" h="8FCE1EA7">Belirlenen sayfaları yeni bir belgeye çıkarır.</text>
+		<text id="act.doc.insertEmptyPages" h="3779032F">Boş Sayfaları Ekle</text>
+		<text id="act.doc.insertEmptyPages.desc" h="65380D33">Belgeye boş sayfalar ekler.</text>
+		<text id="act.doc.insertPages" h="6B486B45">Sayfaları Ekle</text>
+		<text id="act.doc.insertPages.desc" h="C8087FC8">Belgeye, başka belgeden sayfalar ekler.</text>
+		<text id="act.doc.ocrPages" h="D2A189BC">OCR Sayfaları</text>
+		<text id="act.doc.ocrPages.desc" h="517C34C3">Sayfa(lar); metin resim(ler)ini ve metin karakterlerini tanımak için taranır. Metin seçimi, araması vb. için görünmez bir metin katmanı eklenir.</text>
+		<text id="act.doc.optimize" h="854E1BE4">Belge İyileştirme</text>
+		<text id="act.doc.optimize.desc" h="988BB3B9">PDF dosyasının boyutunu küçültmek için belgeyi en uygun duruma getirir.</text>
+		<text id="act.doc.overlayDoc" h="A113E021">Örtüşme PDF'si</text>
+		<text id="act.doc.overlayDoc.desc" h="8AC5B664">PDF belgelerini başka bir PDF belgesiyle örtüştürür.</text>
+		<text id="act.doc.pageNumbering" h="21AF4605">Sayfa Numaralandırma</text>
+		<text id="act.doc.pageNumbering.desc" h="A2BA72A1">Sayfaların sayısı eklenir.</text>
+		<text id="act.doc.pageTransitions" h="E9BE43D0">Kurulum Sayfası Geçişleri</text>
+		<text id="act.doc.pageTransitions.desc" h="17B37A25">Sayfa geçişlerini tam ekran modunda değiştirir.</text>
+		<text id="act.doc.removeBackground" h="7C270CB4">Sayfa Arka Planını Kaldır</text>
+		<text id="act.doc.removeBackground.desc" h="17700648">Özel arka planları, sayfa(lar)dan kaldırır; varsayılan düz-beyaz arka planı geri yükler.</text>
+		<text id="act.doc.removeBatesNumbering" h="901F5ABD">Bates Numaralarını Kaldır</text>
+		<text id="act.doc.removeBatesNumbering.desc" h="E4FBEB3C">Bates numaralarını kaldırır.</text>
+		<text id="act.doc.removeHeaderAndFooter" h="11E8A996">Üstbilgileri ve Altbilgileri Kaldır</text>
+		<text id="act.doc.removeHeaderAndFooter.desc" h="E1CC0743">Mevcut tüm üstbilgileri ve altbilgileri kaldırır.</text>
+		<text id="act.doc.removeWatermarks" h="93F16CE2">Filigranları Kaldır</text>
+		<text id="act.doc.removeWatermarks.desc" h="629EC84B">Tüm filigranları kaldırır.</text>
+		<text id="act.doc.replacePages" h="1311083C">Sayfaları Değiştir</text>
+		<text id="act.doc.replacePages.desc" h="8C5176DA">Dokümandaki sayfaları değiştirir.</text>
+		<text id="act.doc.resizePages" h="8A5C31F1">Sayfa Boyutlandırma</text>
+		<text id="act.doc.resizePages.desc" h="8F74355D">Sayfaların boyutunu arttırır/azaltır; içeriğin ölçeklenmesi isteğe bağlıdır.</text>
+		<text id="act.doc.rotatePages" h="CBD82045">Sayfaları Döndür</text>
+		<text id="act.doc.rotatePages.desc" h="00CCD6AD">Sayfalar saat yönünde veya aksi yönünde 90 derece artışlarla döndürülür.</text>
+		<text id="act.doc.setSecurity" h="09A28BF5">Güvenli Belge</text>
+		<text id="act.doc.setSecurity.desc" h="AF6D0BF7">PDF belgenizi; belge içeriğini açmak ve/veya değiştirmek için parola belirleyerek korur. Güvenlik kısıtlamalarının kaldırılmasına izin verir.</text>
+		<text id="act.doc.splitPages" h="2648812F">Sayfaları böler</text>
+		<text id="act.doc.splitPages.desc" h="4FA35C77">PDF belgesinin sayfalarını böler.</text>
+		<text id="act.doc.summarizeComments" h="2233C1CD">Yorumlar Özetler</text>
+		<text id="act.doc.summarizeComments.desc" h="8EA1DEF5">PDF belgesindeki tüm yorumları özet oluşturulur.</text>
+		<text id="act.filesToPDF" h="A382536E">Dosyaları PDF'ye Dönüştür</text>
+		<text id="act.filesToPDF.desc" h="40567B4F">Desteklenen formatlardaki kaynak dosyaları PDF'ye dönüştürülür.</text>
+		<text id="act.flags.arrdoc" h="F5023560">belgelerin sırası</text>
+		<text id="act.flags.arrfile" h="AF02951A">dosyaların sırası</text>
+		<text id="act.flags.arrimage" h="AD43894A">resimlerin sırası</text>
+		<text id="act.flags.arrname" h="A46C1DFE">adların sırası</text>
+		<text id="act.flags.doc" h="0417E245">belge</text>
+		<text id="act.flags.file" h="AFFADF08">dosya</text>
+		<text id="act.flags.image" h="6F479465">resimler</text>
+		<text id="act.flags.name" h="28F021B5">ad</text>
+		<text id="act.flags.nothing" h="C06D6B01">bir şey yok</text>
+		<text id="act.flattenComments" h="CBA1AA18">Dümdüz Yorumlar</text>
+		<text id="act.flattenComments.desc" h="20A41E96">Ek açıklamaları temel içerik öğelerine dönüştürür.</text>
+		<text id="act.group.PDFStandard" h="E51FAF25">PDF Standardı</text>
+		<text id="act.group.advanced" h="59A2B513">Gelişmiş</text>
+		<text id="act.group.bookmarks" h="E2032460">Yer İşaretleri</text>
+		<text id="act.group.comments" h="FA5EB905">Açıklamalar</text>
+		<text id="act.group.createPDF" h="ACF7EBD1">PDF Oluştur</text>
+		<text id="act.group.exportPDF" h="4AE54AB5">PDF'nin Dışa Aktarımı</text>
+		<text id="act.group.inputOutput" h="178214DA">Girdi/Çıktı</text>
+		<text id="act.group.optimizePDF" h="E369C144">PDF İyileştirme</text>
+		<text id="act.group.pages" h="47B1CB74">Sayfalar</text>
+		<text id="act.group.protection" h="B7EE190B">Koruma</text>
+		<text id="act.imagesToPDF" h="B0C7E05C">Resimden PDF Oluştur</text>
+		<text id="act.imagesToPDF.desc" h="43AF6AF6">Bir veya daha fazla raster resimden tek bir PDF oluşturur.</text>
+		<text id="act.saveDocs" h="07936326">Belge Kaydet</text>
+		<text id="act.saveDocs.desc" h="32932EE9">Değişiklikler bir belgeye/belge kümesine kaydedilir veya yeni oluşturulan dosyalara kaydedilir.</text>
+		<text id="act.saveImages" h="2EBC4084">Resim Kaydet</text>
+		<text id="act.saveImages.desc" h="3A5C69E3">Raster resimler diskteki dosyalara kaydedilir.</text>
+		<text id="act.scan.showlist" h="18D7490A">Taramadan sonra görüntü listesini göster</text>
+		<text id="act.scanToImages" h="3C7180B5">Tarayıcıdan Resim Al</text>
+		<text id="act.scanToImages.desc" h="E0F7A297">Bir kağıt belgeyi tarar ve taramadan resim tabanlı bir PDF oluşturur.</text>
+		<text id="act.sendMail" h="1F56479B">Posta Gönderme</text>
+		<text id="act.sendMail.desc" h="18F585BE">Dosyaları belirtilen e-posta adresine gönderin.</text>
+		<text id="act.showFiles" h="7E16D9C8">Dosyaları Göster</text>
+		<text id="act.showFiles.desc" h="5A081173">Dosya içeren klasörü açar veya her dosyanın varsayılan işleyicisini başlatır.</text>
+		<text id="act.splitMergeDocs" h="8343835D">Belgeleri Böl/Birleştir</text>
+		<text id="act.splitMergeDocs.desc" h="B253B87D">Tüm girilen PDF'leri bir araya getirir veya otomatik veya manuel olarak yeni PDF'lere ayırır.</text>
+		<text id="act.textToPDF" h="ECE46B63">Metinden PDF Oluştur</text>
+		<text id="act.textToPDF.desc" h="F9A66354">Bir veya daha fazla metin dosyasından tek bir PDF belgesi oluşturur.</text>
+		<text id="act.warn.title" h="76F57ED1">Uyarılar:</text>
+		<text id="actCloseBtnTip" h="087A8145">İşlemi listeden kaldırmak için tıklayınız</text>
+		<text id="actOnOffUITip" h="18682AEB">İşlemi çalışırken kapatmak/açmak için buraya tıklayınız</text>
+		<text id="actionInfo.defaultDesc" h="845515AD">Bilgileri görmek için yukarıdaki listeden işlem seçiniz.</text>
+		<text id="actionInfo.defaultTitle" h="375B13FE">İşlem seçimi...</text>
+		<text id="addbookmark.chk" h="C7B70DCB">Dosya adıyla kök yer işareti ekle</text>
+		<text id="afsf.choosefiles" h="BAE0C7B7">Dosyaları seç</text>
+		<text id="afsf.choosefiles.editimage" h="56B4E1F8">Resmi Düzenle</text>
+		<text id="afsf.click2browse" h="ABC462F9">Göz atmak için buraya tıklayın ...</text>
+		<text id="afsf.clicktoedit" h="56B17D30">Saklanan dosya adlarını önizlemek ve düzenlemek için tıklayın</text>
+		<text id="afsf.clicktoremove" h="CAB117DD">Saklanan dosya adlarını kaldırmak için tıklayın</text>
+		<text id="afsf.dlg.editAvail" h="70C3C982">Mevcut Dosya Filtreleri</text>
+		<text id="afsf.prop.choose.name" h="758F38E8">İşlem filtresi seçiniz.</text>
+		<text id="afsf.prop.choose.tip" h="758F38E8">İşlem filtresi seçiniz.</text>
+		<text id="afsf.prop.choose.title" h="758F38E8">İşlem filtresi seçiniz.</text>
+		<text id="afsf.prop.manage.name" h="1B8E7007">Özel filtreler</text>
+		<text id="afsf.prop.manage.tip" h="1B8E7007">Özel filtreler</text>
+		<text id="afsf.prop.manage.title" h="1B8E7007">Özel filtreler</text>
+		<text id="afsf.selectfolder" h="3F89B943">Dosya Seç:</text>
+		<text id="afsf.sort" h="230935DB">Çeşit</text>
+		<text id="afsf.sort.creation" h="AEDBE5EB">oluşturma tarihine göre</text>
+		<text id="afsf.sort.modification" h="B802AF12">değiştirilme tarihine göre</text>
+		<text id="afsf.sort.name" h="B3FDD284">isme göre</text>
+		<text id="afsf.sort.none" h="004FEF2B">yok</text>
+		<text id="afsf.sort.size" h="75DE1B35">boyutuna göre</text>
+		<text id="afsf.err.filelistempty" h="6A812F17">Dosya listesi boş</text>
+		<text id="afsf.storefiles" h="06AB1A20">Seçilen dosya adlarını ileride kullanmak üzere saklayın</text>
+		<text id="afsf.subfolders" h="EAAFE63E">Alt klasörlere bak</text>
+		<text id="afsf.warn.listext" h="6B1988CB">Dosya listesi &lt;b&gt;*.pdtfl&lt;/b&gt; uzantısı içermelidir</text>
+		<text id="afsf.listinfo" h="CEB468D3">&lt;b&gt;*.pdtfl&lt;/b&gt; uzantılı özel dosya.Bu dosya, dosya adlarının listesini içermelidir:c:dosyaadı1c:dosyaadı2...c:dosyaadıN</text>
+		<text id="afsf.usestoredfiles" h="4A3B84D0">Çalıştırmadan önce saklanan dosya adlarını kullanın</text>
+		<text id="afsf.err.invalidsymbols" h="D036E0B4">%1. satır geçersiz dosya sembolü içeriyor</text>
+		<text id="afsf.warn.concrete.ext" h="6634FBD4">'%1'  dosyasının uzantısı, 'Kaynak Dosyalar için Sor' işlem parametreleriyle uyumlu değil.</text>
+		<text id="afsf.warn.ext" h="16DBB55E">Dosya uzantısı,  'Kaynak Dosyalar için Sor' işlem parametreleriyle uyumlu değil.</text>
+		<text id="afsf.warn.filescontainer" h="FF3986E4">İlgili dosyalar konteyner açılamıyor:
+
+&lt;b&gt;%1 &lt;/b&gt;</text>
+		<text id="align.bottom" h="08F4AB6F">Alt</text>
+		<text id="align.center" h="CBEFB4D0">Merkez</text>
+		<text id="align.left" h="8CEAA299">Sol</text>
+		<text id="align.middle" h="D27F520F">Orta</text>
+		<text id="align.right" h="2D8A4EE6">Sağ</text>
+		<text id="align.top" h="249A2BBD">Üst</text>
+		<text id="alignoverlay" h="B7EB1785">Örtüşme sayfaları yeni PDF belgesi sayfalarına göre hizalansın:</text>
+		<text id="another.ovrfile.title" h="AEFCE724">Diğer Örtüşmeli Dosya Seçimi</text>
+		<text id="attributes" h="71F6D064">Öznitelikler</text>
+		<text id="availActionsList" h="477E6AC0">İşlem Kütüphanesi</text>
+		<text id="batchproc.chk" h="1194AD9C">Toplu İşlem Modu</text>
+		<text id="batchproc.tip" h="8BED8A8A">• Bu seçenek açıldığında; her bir araç işlemi, aşağıdaki işlemlere geçmeden önce her giriş nesnesini (dosyalar, taranmış görüntüler, vb.) işleyecektir.• Bu seçenek kapatıldığında; giriş nesneleri bir sonraki giriş nesnesi işlenmeden önce, her araç işlemi tarafından işlenecektir. Bu, bellek yükünü ve disk kullanımını azaltmaya yardımcı olabilir. Bununla birlikte, giriş nesnelerini PDF(ler) ile birleştirmeyi amaçlayan araçlar; her giriş nesnesi diğerlerinden bağımsız olarak işlendiği için, umulduğu gibi çalışmayabilir.</text>
+		<text id="bookmarks.delimiter.lbl" h="A4269065">Alan Sınırlayıcı:</text>
+		<text id="bookmarks.invalidSeparator" h="44875D1F">Özellik sınırlayıcı boş bir dize olmamalı, alfasayısal simgeler veya boşluk içermemelidir ve şu karakterlerden biri olmamalıdır: @ #: {} </text>
+		<text id="bookmarks.sourcefiletxt.lbl" h="8C896EF2">Yer işaretlerinin tanımını içeren metin dosyasını seçiniz:</text>
+		<text id="bookmarks.sourcefoldertxt.lbl" h="E5CB01F7">Yer işaretleri tanımlı metin dosyalarını içeren klasörü seçiniz:</text>
+		<text id="bookmarks.sourcefoldertxt.info" h="9C858B7C">Her bir giriş belgesi için aynı ada sahip metin dosyası, yer işaretlerinin tanımlı kaynak dosyası olarak seçilecektir.</text>
+		<text id="bookmarks.sourcefolderxcbkm.info" h="2F8C4CA0">Her bir giriş belgesi için aynı adı taşıyan yer işaretleri dışa aktarma dosyası, yer işaretleri tanım kaynağı dosyası olarak seçilecektir.</text>
+		<text id="bookmarks.sourcefilexcbkm.lbl" h="20DDBCE7">Yer işaretleri dışa aktarım dosyasını seçiniz:</text>
+		<text id="bookmarks.sourcefolderxcbkm.lbl" h="0E50F0BA">Belirtilen klasörde yer işaretleri dışa aktarım dosyası içermektedir:</text>
+		<text id="bookmarks.log.txtSrcNotFound" h="52338723">Belge için yer işaretleri içeri alınamıyor. Yer İşaretleri '%1' tanım dosyası bulunamadı.</text>
+		<text id="bookmarks.log.bookmarksNotFound" h="184C696B">Belgede Yer İşaretleri bulnamadı.</text>
+		<text id="btn.delete" h="D8FE3F70">Sil</text>
+		<text id="btn.edit" h="621534A3">Düzen...</text>
+		<text id="byhoriz" h="AE80ABA7">Yatay:</text>
+		<text id="byvert" h="138F572B">Dikey:</text>
+		<text id="chk.savepwd" h="2DACA98E">Gelecekteki kullanım için şifreyi kaydet</text>
+		<text id="choose.file" h="D8D81DA5">Dosya Seçimi</text>
+		<text id="chooseFiles.chooseForPreview" h="B4BD25C6">Önizleme için öğe seçiniz.</text>
+		<text id="chooseFiles.fromScanner" h="BDBDAE44">Tarayıcıdan Resim</text>
+		<text id="chooseFiles.scansubfolders" h="05971C7B">Seçilen klasörün alt klasörlerinden dosya eklemek istiyor musunuz?</text>
+		<text id="chooseFiles.unknownImageType" h="18901815">Bilinmeyen resim türü.</text>
+		<text id="choosefiles.title" h="2E856073">Girdi Dosyası Seçiniz</text>
+		<text id="choosefiles.warning" h="88E4DD69">Lütfen, listeye bazı dosyalar ekleyiniz.</text>
+		<text id="choosestd.lbl" h="F999AF4C">PDF std seç:</text>
+		<text id="choosetool.caption" h="F368DC49">Aracı Seç</text>
+		<text id="choosetools.export.caption" h="89168619">Dışarı Aktarılacak Araçların Seçimi</text>
+		<text id="choosetools.import.caption" h="4D9B8134">İçeri Aktarılacak Araçların Seçimi</text>
+		<text id="ck.all" h="65CCA5D0">'Tüm Dosyalar (*. *)' dahil</text>
+		<text id="clonetoolname.lbl" h="E63F45FA">Klonlanmış aracın adını giriniz:</text>
+		<text id="cmd.actionInfoPane" h="BE3FF2AC">İşlem Bilgi Paneli</text>
+		<text id="cmd.actionInfoPane.tip" h="EA4CDC04">İşlem Bilgi Paneli gösterilir/gizlenir.</text>
+		<text id="cmd.addFavorites" h="253AA8C4">Favorilere Ekle</text>
+		<text id="cmd.addFavorites.tip" h="D0494D1D">Araçlar favorilere eklenir</text>
+		<text id="cmd.availAct.append" h="44CFD997">İşlem Ekleme</text>
+		<text id="cmd.availActionsPane" h="70AE9683">İşlem Kütüphanesi Paneli</text>
+		<text id="cmd.availActionsPane.tip" h="EE8A6FE7">İşlem Kütüphanesi Paneli gösterilir/gizlenir.</text>
+		<text id="cmd.catlist.add" h="8E2EE8C1">Ekle</text>
+		<text id="cmd.catlist.add.tip" h="352D549C">Yeni araç kategorisi eklenir.</text>
+		<text id="cmd.catlist.copyID" h="76D03E52">Kategori Tanımlayıcısı Kopyala</text>
+		<text id="cmd.catlist.copyID.tip" h="4D528776">Kategori Tanımlayıcısını Panoya Kopyala.</text>
+		<text id="cmd.catlist.delete" h="D8FE3F70">Sil</text>
+		<text id="cmd.catlist.delete.tip" h="F996D3A3">Seçilen kategori silinir.</text>
+		<text id="cmd.catlist.rename" h="CF7E2A12">Ad Değiştir</text>
+		<text id="cmd.catlist.rename.tip" h="853B01D0">Seçilen kategorinin adı değiştirilir.</text>
+		<text id="cmd.choosetools.checkAll" h="1ED93781">Hepsini Kontrol Edin</text>
+		<text id="cmd.choosetools.checkAll.tip" h="5C10CA59">Tüm araçları kontrol et</text>
+		<text id="cmd.choosetools.collapseAll" h="84E09D66">Tüm Daralt</text>
+		<text id="cmd.choosetools.collapseAll.tip" h="4B0945EA">Genişletilmiş ögelerin tümünü daralt.</text>
+		<text id="cmd.choosetools.expandAll" h="6DA5A467">Hepsini Genişlet</text>
+		<text id="cmd.choosetools.expandAll.tip" h="B8DEF87E">Tüm daraltılmış ögeleri genişlet.</text>
+		<text id="cmd.choosetools.uncheckAll" h="5D53AA8D">Tümünü İşaretle</text>
+		<text id="cmd.choosetools.uncheckAll.tip" h="E0FE40A8">Tüm araçların işaretini kaldır.</text>
+		<text id="cmd.close" h="BFF0422C">Kapatma Düzeni</text>
+		<text id="cmd.close.tip" h="803D7B54">Araç düzenleyicisi kapatılmadan önce değişikliklerin kaydı için sorulur.</text>
+		<text id="cmd.collapseAll" h="84E09D66">Tümünü Daralt</text>
+		<text id="cmd.collapseAll.tip" h="4B0945EA">Genişletilmiş tüm öğeler daraltılır.</text>
+		<text id="cmd.continue" h="A5F0062A">Devam</text>
+		<text id="cmd.continue.tip" h="449BD617">Araç çalışmaya devam eder.</text>
+		<text id="cmd.copyToolID" h="29B6ACF3">Kopyalama Aracı Tanımlayıcısı</text>
+		<text id="cmd.copyToolID.tip" h="C84C435C">Araç Tanımlayıcı'sını Pano'ya Kopyalar.</text>
+		<text id="cmd.createFld" h="EDCA1553">Oluşturmak</text>
+		<text id="cmd.createFld.tip" h="0C2549D2">Klasör görüntüsü oluşturun.</text>
+		<text id="cmd.delete" h="D8FE3F70">Sil</text>
+		<text id="cmd.delete.tip" h="1645B116">Seçilen araç silinir.</text>
+		<text id="cmd.deleteAction" h="D8FE3F70">Sil</text>
+		<text id="cmd.deleteAction.tip" h="8D3F7647">Seçilen işlem silinir.</text>
+		<text id="cmd.deleteFld" h="D8FE3F70">Sil</text>
+		<text id="cmd.deleteFld.tip" h="FE6D13BD">Seçilen kısmı sil.</text>
+		<text id="cmd.disableFld" h="3F68363A">Devre dışı</text>
+		<text id="cmd.disableFld.tip" h="0002F9EA">Seçim monitörünü devre dışı bırakın.</text>
+		<text id="cmd.docsList.collapseAll" h="84E09D66">Tümünü Daralt</text>
+		<text id="cmd.docsList.collapseAll.tip" h="4B0945EA">Genişletilmiş tüm öğeler daraltılır.</text>
+		<text id="cmd.docsList.delete" h="D8FE3F70">Sil</text>
+		<text id="cmd.docsList.delete.tip" h="AFC734F6">Seçilen öğeler listeden kaldırılır.</text>
+		<text id="cmd.docsList.expandAll" h="6DA5A467">Tümünü Genişlet</text>
+		<text id="cmd.docsList.expandAll.tip" h="B8DEF87E">Daraltılmış tüm öğeler genişletilir.</text>
+		<text id="cmd.docsList.invertPagesSel" h="50358D1F">Sayfa Seçimini Ters Çevir</text>
+		<text id="cmd.docsList.invertPagesSel.tip" h="D48EAFF2">Belge öğesindeki sayfa seçimi ters çevrilir.</text>
+		<text id="cmd.docsList.redo" h="E6E48291">Yinele</text>
+		<text id="cmd.docsList.redo.tip" h="D864EFC4">Daha önce geri alınmış işlem tekrarlanır.</text>
+		<text id="cmd.docsList.rename" h="CF7E2A12">Yeniden adlandır</text>
+		<text id="cmd.docsList.rename.tip" h="D13799F6">Seçilen belge öğesinin adı değiştirilir.</text>
+		<text id="cmd.docsList.selectPages" h="CA96B5EB">Sayfa Seçimi...</text>
+		<text id="cmd.docsList.selectPages.tip" h="2BA1CFDF">Seçilmiş belge öğesindeki belirli sayfalar seçilir.</text>
+		<text id="cmd.docsList.showPreview" h="0E09CAB8">Önizleme</text>
+		<text id="cmd.docsList.showPreview.tip" h="5FDF66AB">Seçili öğenin Önizleme paneli gösterilir/gizlenir.</text>
+		<text id="cmd.docsList.showRepo" h="75AE5FBB">Sayfa Deposu</text>
+		<text id="cmd.docsList.showRepo.tip" h="A9FDC14F">Herhangi bir sayfanın geçici olarak saklanması için, depo paneli herhangi bir belge gösterilir/gizlenir. Sayfaların sürüklenip bırakılması için kullanışlıdır.</text>
+		<text id="cmd.docsList.undo" h="86E67B4B">Geri Al</text>
+		<text id="cmd.docsList.undo.tip" h="68378895">Son işlem geri alınır.</text>
+		<text id="cmd.docsList.zoomIn" h="21C9A3BF">Yaklaştır</text>
+		<text id="cmd.docsList.zoomIn.tip" h="EEFCC59E">Küçük Resimler Büyütülür.</text>
+		<text id="cmd.docsList.zoomOut" h="7749FC62">Uzaklaştır</text>
+		<text id="cmd.docsList.zoomOut.tip" h="B4B12D5A">Küçük Resimler Küçültülür.</text>
+		<text id="cmd.docsList.zoomSlider" h="596A6E4A">Ölçek</text>
+		<text id="cmd.docsList.zoomSlider.tip" h="0F91092C">Sayfa Küçük Resimleri Ölçeklendirilir.</text>
+		<text id="cmd.editDocList.clearAll" h="FCA74107">Depo Temizliği</text>
+		<text id="cmd.editDocList.clearAll.tip" h="8D064794">Sayfa deposu temizlenir.</text>
+		<text id="cmd.editFld" h="009A7A41">Düzenle</text>
+		<text id="cmd.editFld.tip" h="6383A76C">Seçilen kısmı düzenleyin.</text>
+		<text id="cmd.editModeView" h="2FCBB32C">Görünüm</text>
+		<text id="cmd.editModeView.tip" h="FED08A06">Gelişmiş Bölmeler gösterilir/gizlenir.</text>
+		<text id="cmd.enableFld" h="A816D2F1">Etkinleştirme</text>
+		<text id="cmd.enableFld.tip" h="5C4A8F7C">Seçilen monitörü etkinleştir.</text>
+		<text id="cmd.expandAll" h="6DA5A467">Tümünü Genişlet</text>
+		<text id="cmd.expandAll.tip" h="B8DEF87E">Daraltılan tüm öğeler genişletilir.</text>
+		<text id="cmd.filesList.addFiles" h="6BB8C3C3">Dosya Ekleme...</text>
+		<text id="cmd.filesList.addFiles.combo" h="6BB8C3C3">Dosya Ekleme...</text>
+		<text id="cmd.filesList.addFiles.tip" h="49EDA302">Dosya seçimi için standart iletişim kutusunun görüntülenmesi için tıklayınız...</text>
+		<text id="cmd.filesList.addFolder" h="48695541">Klasör Ekleme...</text>
+		<text id="cmd.filesList.addFolder.tip" h="6761456F">Klasörü seçmek ve standart iletişimi göstermek için tıkladıktan sonra dosya ekleyiniz...</text>
+		<text id="cmd.filesList.addFromScanner" h="F8B40B5F">Tarayıcıdan Ekle...</text>
+		<text id="cmd.filesList.addFromScanner.tip" h="B4E7ED2C">Tarama cihazını seçmek için tıklayınız ve ardından resim alma işlemini başlatınız...</text>
+		<text id="cmd.filesList.delete" h="D8FE3F70">Sil</text>
+		<text id="cmd.filesList.delete.tip" h="1B809C28">Seçili öğeler silinir. Silme işlemi geri alınamaz.</text>
+		<text id="cmd.filesList.detailsView" h="AEE125D6">Ayrıntılar</text>
+		<text id="cmd.filesList.detailsView.tip" h="6570BFC4">Ayrıntılı Görünüme Geçilir.</text>
+		<text id="cmd.filesList.edit" h="621534A3">Düzen...</text>
+		<text id="cmd.filesList.edit.tip" h="A8CCCC15">Seçilen öğe düzenlenir.</text>
+		<text id="cmd.filesList.moveDown" h="B590E566">Aşağı Taşı</text>
+		<text id="cmd.filesList.moveDown.tip" h="96CBF2AC">Seçilen öğeler aşağı taşınır.</text>
+		<text id="cmd.filesList.moveUp" h="E466537C">Yukarı Taşı</text>
+		<text id="cmd.filesList.moveUp.tip" h="239B490C">Seçilen öğeler yukarı taşınır.</text>
+		<text id="cmd.filesList.openContFolder" h="D3E03212">Dosya İçeren Klasörü Aç</text>
+		<text id="cmd.filesList.openContFolder.tip" h="4967EB0F">Dosya içeren klasör açılır ve Windows Gezgini'nde uygun dosya seçilir.</text>
+		<text id="cmd.filesList.selectPages" h="CA96B5EB">Sayfa Seçimi...</text>
+		<text id="cmd.filesList.selectPages.tip" h="9D36120F">Seçilen belgedeki belirli sayfalar seçilir.</text>
+		<text id="cmd.filesList.showPreview" h="0E09CAB8">Önizleme</text>
+		<text id="cmd.filesList.showPreview.tip" h="5FDF66AB">Seçilen öğenin Önizleme paneli gösterilir/gizlenir.</text>
+		<text id="cmd.filesList.thumbsView" h="47B1B2D9">Küçük Resimler</text>
+		<text id="cmd.filesList.thumbsView.tip" h="E9F10E3C">Küçük Resim Görünümüne Geçilir.</text>
+		<text id="cmd.filesList.zoomIn" h="21C9A3BF">Yaklaştır</text>
+		<text id="cmd.filesList.zoomIn.tip" h="EEFCC59E">Küçük Resimler Büyütülür.</text>
+		<text id="cmd.filesList.zoomOut" h="7749FC62">Uzaklaştır</text>
+		<text id="cmd.filesList.zoomOut.tip" h="B4B12D5A">Küçük Resimler Küçültülür.</text>
+		<text id="cmd.filesList.zoomSlider" h="596A6E4A">Ölçek</text>
+		<text id="cmd.filesList.zoomSlider.tip" h="0F91092C">Küçük Resimler Ölçeklendirilir.</text>
+		<text id="cmd.help" h="03718903">Yardım</text>
+		<text id="cmd.help.about" h="06AA44B8">Hakkında...</text>
+		<text id="cmd.help.about.tip" h="D3746489">Uygulama hakkında sürüm ve lisans bilgileri gösterilir.</text>
+		<text id="cmd.help.checkForUpdates" h="B4EF7EF3">Güncelleme Kontrolü</text>
+		<text id="cmd.help.checkForUpdates.tip" h="73587378">Uygulamanın güncellenmesi kontrol edilir.</text>
+		<text id="cmd.help.contents" h="567BC1D7">İçindekiler</text>
+		<text id="cmd.help.contents.tip" h="08AC959F">Ayrıntılı yardım çevrim içi açılır.</text>
+		<text id="cmd.help.enterkey" h="EF62658A">Lisans Anahtarını Giriniz...</text>
+		<text id="cmd.help.enterkey.tip" h="D3746489">Uygulama hakkında sürüm ve lisans bilgileri gösterilir.</text>
+		<text id="cmd.help.homepage" h="09F653F5">Ana Sayfa</text>
+		<text id="cmd.help.homepage.tip" h="EBA22B5A">Uygulamanın web sitesine gidilir.</text>
+		<text id="cmd.help.support" h="31A29A3F">Destek</text>
+		<text id="cmd.help.support.tip" h="B8C0C0FB">Destek forumuna gidilir.</text>
+		<text id="cmd.help.tip" h="F59770E5">Yardım.</text>
+		<text id="cmd.impexp" h="1D5A9A8A">İçe Aktarım/Dışa Aktarım</text>
+		<text id="cmd.impexp.expseltools" h="C87F6A0D">Seçili Araçların Dışa Aktarımı</text>
+		<text id="cmd.impexp.expseltools.tip" h="0E445E08">Seçili araçlar bir dosyaya dışarı aktarılır.</text>
+		<text id="cmd.impexp.expsett" h="329179F2">Tüm Ayarların Dışa Aktarımı</text>
+		<text id="cmd.impexp.expsett.tip" h="1BEC5F75">Tüm program seçenekleri ve araçlar bir dosyaya dışarı aktarılır.</text>
+		<text id="cmd.impexp.exptools" h="3B532E8F">Araçların Dışa Aktarımı</text>
+		<text id="cmd.impexp.exptools.tip" h="66B0E107">Araçlar bir dosyaya dışarı aktarılır.</text>
+		<text id="cmd.impexp.impsett" h="92219071">Tüm Ayarların İçe Aktarımı</text>
+		<text id="cmd.impexp.impsett.tip" h="3845D20B">Tüm program seçenekleri ve araçlar dosyadan içeri aktarılır.</text>
+		<text id="cmd.impexp.imptools" h="622631EF">Araçların İçe Aktarımı</text>
+		<text id="cmd.impexp.imptools.tip" h="112B2FCB">Araçlar dosyadan içeri aktarılır.</text>
+		<text id="cmd.impexp.shortcut" h="64092D8C">Masaüstünde Kısayol Oluştur</text>
+		<text id="cmd.impexp.shortcut.tip" h="F695107D">Seçilen aracın masaüstünde kısayolu oluşturulur.</text>
+		<text id="cmd.impexp.tip" h="CE31B671">Araçların veya uygulama ayarlarının içe aktarım/dışa aktarım işlemleri yapılır.</text>
+		<text id="cmd.moveDown" h="B590E566">Aşağı Taşı</text>
+		<text id="cmd.moveDown.tip" h="96CBF2AC">Seçilen öğeler aşağı taşınır.</text>
+		<text id="cmd.moveUp" h="E466537C">Yukarı Taşı</text>
+		<text id="cmd.moveUp.tip" h="239B490C">Seçilen öğeler yukarı taşınır.</text>
+		<text id="cmd.opts" h="DAD7B4F4">Seçenekler</text>
+		<text id="cmd.opts.tip" h="0DB1D677">Uygulamanın ayarlarını yönetmek için özellikler içerir.</text>
+		<text id="cmd.prefs" h="8D3CBDF0">Tercihler...</text>
+		<text id="cmd.prefs.tip" h="35A54BBC">Uygulama tercihleri iletişim kutusunda gösterilir.</text>
+		<text id="cmd.redo" h="E6E48291">Yinele</text>
+		<text id="cmd.redo.tip" h="D864EFC4">Daha önce geri alınmış işlemi tekrarlanır.</text>
+		<text id="cmd.removeFavorites" h="85360926">Favorilerden Kaldır</text>
+		<text id="cmd.removeFavorites.tip" h="DEB12B60">Araçlar Favorilerden kaldırılır</text>
+		<text id="cmd.report.clear" h="CB9CE353">Temiz</text>
+		<text id="cmd.report.clear.tip" h="26272D30">Raporu Temizler</text>
+		<text id="cmd.report.collapseAll" h="84E09D66">Tümünü Daralt</text>
+		<text id="cmd.report.collapseAll.tip" h="4B0945EA">Tüm genişletilmiş öğeleri daraltır.</text>
+		<text id="cmd.report.copy" h="348DE55D">Kopyala</text>
+		<text id="cmd.report.copy.tip" h="7E2DF69D">İleti metni kopyalayın.</text>
+		<text id="cmd.report.copyname" h="895D5980">Dosya Adını Kopyala</text>
+		<text id="cmd.report.copyname.tip" h="C6C33FE5">Dosya Adını Panoya Kopyala</text>
+		<text id="cmd.report.expandAll" h="6DA5A467">Tümünü Genişlet</text>
+		<text id="cmd.report.expandAll.tip" h="B8DEF87E">Daraltılmış tüm öğeleri genişletin.</text>
+		<text id="cmd.report.fullreport" h="2B15B2F7">Tam rapor</text>
+		<text id="cmd.report.fullreport.tip" h="B70410A1">Bu seçenek, tam araç çalıştırma raporunu basmak için PDF araçlarını zorlar.</text>
+		<text id="cmd.report.openfolder" h="D3E03212">Dosyayı İçeren Klasörü Açınız</text>
+		<text id="cmd.report.openfolder.tip" h="897118C2">Dosya içeren klasörü aç</text>
+		<text id="cmd.report.options" h="9757D0D9">Seçenekler</text>
+		<text id="cmd.report.options.tip" h="84CAFD98">Araç Raporu seçeneklerini göster.</text>
+		<text id="cmd.report.savetofile" h="ED4A08DE">Raporu Kaydetme</text>
+		<text id="cmd.report.savetofile.tip" h="5BF810D7">Raporu Metin Dosyasına Kaydetme</text>
+		<text id="cmd.resetSelAction" h="1008C3F9">Sıfırla</text>
+		<text id="cmd.resetSelAction.tip" h="9416B4A0">Seçilen işlemlerin seçenekleri varsayılana sıfırlanır. </text>
+		<text id="cmd.resetSett" h="1E06BB70">Tüm Ayarların Sıfırlanması</text>
+		<text id="cmd.resetSett.tip" h="F72C4CB6">Tüm program seçenekleri varsayılana sıfırlanır ve standart araçlara sadece varsayılan seçeneklerle dönülür.</text>
+		<text id="cmd.resetTool" h="0E4A9518">Sıfırlama Aracı</text>
+		<text id="cmd.resetTool.tip" h="63100C06">Araç seçenekleri varsayılana sıfırlanır.</text>
+		<text id="cmd.resetseltools" h="11DC26AD">Seçilen Araçlar Sıfırlanır</text>
+		<text id="cmd.resetseltools.tip" h="7FCF3BF7">Seçili araç seçenekleri varsayılana sıfırlanır.</text>
+		<text id="cmd.save" h="01991541">Değişiklikleri Kaydet</text>
+		<text id="cmd.save.tip" h="45AC7E5D">Araç değişiklikleri kaydedilir.</text>
+		<text id="cmd.search" h="547E9E5A">Arama...</text>
+		<text id="cmd.search.tip" h="FC8CBAA4">Arama Aracı.</text>
+		<text id="cmd.setupFolderMonitor" h="EDC6E6EA">Klasör İzleme</text>
+		<text id="cmd.setupFolderMonitor.tip" h="43BBFC78">Klasör Görüntüsünü Ayarlayın</text>
+		<text id="cmd.showActionInfoPane" h="DDDF9129">İşlem Bilgisini Göster</text>
+		<text id="cmd.showActionInfoPane.tip" h="B9D63B80">İşlem Bilgisi gösterilir/gizlenir.</text>
+		<text id="cmd.showActionLibrary" h="7B4DF4C3">İşlem Kütüphanesini Göster</text>
+		<text id="cmd.showActionLibrary.tip" h="7F2B551F">İşlem Kütüphanesi gösterilir/gizlenir.</text>
+		<text id="cmd.showReport" h="F1E7E74F">Araç raporu</text>
+		<text id="cmd.showReport.tip" h="0310270C">Araç Raporunu Göster.</text>
+		<text id="cmd.test" h="327F2A55">Test!</text>
+		<text id="cmd.test.tip" h="9E04AEAA">Test Özelliği!</text>
+		<text id="cmd.tool.clone" h="37E754F5">Klon</text>
+		<text id="cmd.tool.clone.tip" h="D8321AF8">Seçilen araç çoğaltılır.</text>
+		<text id="cmd.tool.create" h="EDCA1553">Oluştur</text>
+		<text id="cmd.tool.create.tip" h="3D4C85B7">Yeni bir araç oluşturulur.</text>
+		<text id="cmd.tool.edit" h="009A7A41">Düzen</text>
+		<text id="cmd.tool.edit.tip" h="426AAF33">Seçilen araç düzenlenir.</text>
+		<text id="cmd.tool.run" h="19264084">Çalıştır</text>
+		<text id="cmd.tool.run.tip" h="BF1530FA">Seçilen araç çalıştırılır.</text>
+		<text id="cmd.undo" h="86E67B4B">Geri Al</text>
+		<text id="cmd.undo.tip" h="68378895">Son işlem geri alınır.</text>
+		<text id="cmd.viewFld" h="2FCBB32C">Görünüm</text>
+		<text id="cmd.viewFld.tip" h="7426084C">Seçilen monitörü görüntüle.</text>
+		<text id="cmdline.toolnotfound" h="E24BDF60">Çalıştırılmak istenen araç bulunamadı.</text>
+		<text id="common" h="FF51CD90">Genel</text>
+		<text id="created" h="BC03BBEA">Oluşturuldu</text>
+		<text id="custToolsGrName" h="22F07048">Özel Araçlar</text>
+		<text id="custom" h="A918FF38">Özel</text>
+		<text id="dclick.authorize" h="E62FEA98">Saklama yetkisi vermek için tıklayınız</text>
+		<text id="delete.all.pages" h="E66ECE13">Tüm sayfaların silinmesi yasaktır.</text>
+		<text id="deleteComments.all" h="3DB14B53">Tüm ek açıklamalar</text>
+		<text id="deleteComments.link" h="D84C3990">Bağlantı açıklamalar</text>
+		<text id="deleteComments.markup" h="236E76D1">İşaretleme ek açıklamalar</text>
+		<text id="deleteComments.widget" h="105429C0">Parçacık açıklamaları</text>
+		<text id="deleteInputFiles" h="66DB8878">Giriş dosyalarını başarıyla sil</text>
+		<text id="deletecat.warn" h="8A426B75">&lt;b&gt;"%1"&lt;/b&gt; kategorisini ve içeriği olan tüm araçları silmek istediğinize emin misiniz?
+NOT: Silme işlemi geri alınamaz.</text>
+		<text id="deletestoredpath.warn" h="B01DF4C4">Saklanan girdi dosya adlarını silmek istediğinizden emin misiniz?</text>
+		<text id="disable.ui.lbl" h="F51A0F89">Kullanıcıyla Araç Arabirimi etkileşimi:</text>
+		<text id="dlg.managefilters" h="BEEA26C3">Fitre Yönetimi</text>
+		<text id="docauthor.l" h="7E318A91">Yazar:</text>
+		<text id="doccreator.l" h="48BB2AC2">Oluşturan:</text>
+		<text id="dockeywords.l" h="EE89DD49">Anahtar Kelimeler:</text>
+		<text id="docproducer.l" h="30A8E856">Üretici:</text>
+		<text id="docsubject.l" h="A59102F6">Konu:</text>
+		<text id="doctitle.l" h="930D3835">Başlık:</text>
+		<text id="editDocList.containsPages" h="8F4BA4D9">%1 sayfa içeriyor</text>
+		<text id="editDocList.document" h="13289938">Belge</text>
+		<text id="editDocList.empty.hint" h="C46828D2">Sayfa yok</text>
+		<text id="editDocList.noPages" h="DD007EC4">Boş</text>
+		<text id="editDocList.repository.hint" h="0071AB8A">Geçici depolama için sayfaları buraya bırakabilirsiniz.</text>
+		<text id="editDocList.title" h="BB7D1179">Elle Belge Bölme/Birleştirme</text>
+		<text id="editDocList.undefined" h="9FA2DA79">Tanımsız</text>
+		<text id="editDocList.warning" h="F36DBC31">Belgeler listesi boş olmamalıdır.
+
+Listeyi boşaltmak için son işlemlerinizi geri almayı deneyebilirsiniz.</text>
+		<text id="editDocList.warning.emptyname" h="D690297C">Belge adı boş olamaz</text>
+		<text id="editDocList.warning.invalidsymbols" h="40A214FA">Geçersiz belge adı</text>
+		<text id="editview.header.changeicon" h="E86B95CD">Değişiklik...</text>
+		<text id="editview.header.dialog.multiline" h="767057E1">Araç Açıklaması Düzeni</text>
+		<text id="empty.document" h="06A26641">"%1" belgesi boş. Atlanacak</text>
+		<text id="enter.pwd.descr" h="77485A4B">Şifre açıklaması giriniz (isteğe bağlı)...</text>
+		<text id="enterNewDocName" h="68FD05C5">Yeni belge adı giriniz:</text>
+		<text id="err.foldernotexists" h="4533B896">Seçilen klasör mevcut değil</text>
+		<text id="err.foldernotvalid" h="E422E783">Seçilen klasörü izleyemiyorum</text>
+		<text id="err.hotfolderbusy" h="40F505AA">Belirttiğiniz klasör başka bir monitör tarafından işleniyor.</text>
+		<text id="err.hotfolderempty" h="5734787D">Lütfen izlenecek klasörü seçin</text>
+		<text id="err.movefolderempty" h="141492EF">Lütfen girdi dosyalarını taşımak için klasörü seçin</text>
+		<text id="err.selecttool" h="89F6967E">Lütfen yürütülecek aracı seçin</text>
+		<text id="err.toolnotexists" h="12CFDA38">Seçilen araç mevcut değil</text>
+		<text id="expsett.extension.desc" h="F00D3D31">PDF-Araçları Program Ayarları Dosyası</text>
+		<text id="expsett.failed" h="D36046ED">Ayarların dışa aktarımı başarısız</text>
+		<text id="expsett.open.caption" h="92B281E9">İçe Aktarım Dosyası Aç</text>
+		<text id="expsett.save.caption" h="C1A8C6FD">Dışa Dosya Aktarım Kaydet</text>
+		<text id="exptools.extension.desc" h="DC98B451">PDF-Araçları Değişim Dosyası</text>
+		<text id="exptools.failed" h="7A69DC15">Araçların dışa aktarımı başarısız</text>
+		<text id="exptools.open.caption" h="99F5ECED">İçeri Aktarım Dosyası Seçiniz</text>
+		<text id="exptools.save.caption" h="C1A8C6FD">Dışa Dosya Aktarım Kaydet</text>
+		<text id="extension" h="14FEB836">Uzantı</text>
+		<text id="fileLocation" h="7BC24E5F">Dosya Konumu:</text>
+		<text id="fileNames" h="0F80A6A8">Dosya listesi seçimi:</text>
+		<text id="fileNames.desc" h="7B4EDEA4">PDF-Araçları Girdi Dosyaları Listesi</text>
+		<text id="fileNames.open" h="8F1B7ED1">Girdi Dosyaları Listesini Açınız</text>
+		<text id="fileprop.author" h="F6A8A4C0">Yazar</text>
+		<text id="fileprop.bpc" h="02071BA4">Kanal başına bit</text>
+		<text id="fileprop.bpp" h="EC790768">Piksel başına bit</text>
+		<text id="fileprop.channels" h="D3AE76A2">Kanallar</text>
+		<text id="fileprop.creator" h="CF26EE59">Oluşturan</text>
+		<text id="fileprop.dimension" h="96A76700">Boyutlar</text>
+		<text id="fileprop.horDpi" h="576C5071">Yatay DPI</text>
+		<text id="fileprop.page" h="D70A809E">Sayfa</text>
+		<text id="fileprop.pageRotation" h="ECFC9C66">Döndürme</text>
+		<text id="fileprop.pagesCount" h="AAE42CE5">Sayfa Sayısı</text>
+		<text id="fileprop.pdfVer" h="4C06CDA5">PDF Sürümü</text>
+		<text id="fileprop.producer" h="C54CE945">Üretici</text>
+		<text id="fileprop.subject" h="B6BCF595">Konu</text>
+		<text id="fileprop.title" h="796DFAD3">Başlık</text>
+		<text id="fileprop.verDpi" h="33423CE9">Dikey DPI</text>
+		<text id="filestopdf.setup" h="FB20B28D">Kurulum...</text>
+		<text id="finalizing" h="B702861F">%1 sonlandırılıyor...</text>
+		<text id="fitoverlay" h="E2F09068">Örtüşme sayfaları yeni oluşturulan belge sayfasına sığdırılsın</text>
+		<text id="fld.disabled" h="AA5BC8D4">Devre dışı</text>
+		<text id="fld.enabled" h="2532774E">Aktif</text>
+		<text id="fldmon.lbl" h="DEBCEDAF">Klasör izleme adı:</text>
+		<text id="folder.grp" h="9AE10AFA">Giriş Dosyaları Seçenekleri</text>
+		<text id="hotfld.opts.dlg.caption" h="D9DE9C84">Kurulum Klasörü Monitörü</text>
+		<text id="impsett.alert" h="0B2EB063">Tüm program ayarlarını içe aktarmak istediğinize emin misiniz?
+NOT: içeri aktarım işlemi geri alınamaz.</text>
+		<text id="impsett.failed" h="AA8A96CF">Ayarların içe aktarımı başarısız</text>
+		<text id="imptools.failed" h="DAD93596">Araçların içe aktarımı başarısız</text>
+		<text id="info" h="07FB97A4">Bilgi</text>
+		<text id="inpfiles.lbl" h="28477E27">Giriş dosyaları seçeneği:</text>
+		<text id="inserting.page" h="7985F658">%2 sayfadan %1 sayfa ekleniyor</text>
+		<text id="keep.inputfiles" h="800C91A4">Girdi dosyalarını klasöre sakla</text>
+		<text id="keepaspect" h="A90996CD">En/Boy oranını korunsun</text>
+		<text id="lb.availFF" h="6E3CAD3A">İletişim kutusundaki açılır listede, size uygun dosya türleri için filtreler seçiniz:</text>
+		<text id="lb.presetFF" h="9C590515">Ön ayar:</text>
+		<text id="lbl.ShowResult" h="C5236BCD">Bitişten sonra sonucu göster</text>
+		<text id="lbl.actualview" h="D865F4B2">Gerçek resim görünümü</text>
+		<text id="lbl.allowMult" h="3B9DFCE0">Birden fazla dosya seçim izni</text>
+		<text id="lbl.alwaysUseMultipage" h="6C82FB30">Her zaman çok sayfalı biçim kullanılsın</text>
+		<text id="lbl.askDeleteTool" h="1541D739">&lt;b&gt;"%1"&lt;/b&gt; aracını silmek istediğinize emin misiniz?
+
+NOT: silme işlemi geri alınamaz.</text>
+		<text id="lbl.askDeleteTools" h="25C684AA">&lt;b&gt;%1&lt;/b&gt; araçlarını silmek istediğinize emin misiniz?
+NOT: silme işlemi geri alınamaz ve yalnızca özel araçlar silinebilir.</text>
+		<text id="lbl.askSaveChanges" h="4F19099B">Düzenleme bitmeden önce değişiklikler kaydedilsin mi?</text>
+		<text id="lbl.chooseAction" h="5EA681F4">Listeden bir işlem seçiniz:</text>
+		<text id="lbl.choosefiles.dndhint" h="8CF7925F">Üstteki araç çubuğundaki düğmeyi kullanarak veya dosyaları buraya sürükleyip bırakarak ekleyebilirsiniz ve istediğiniz sırayla düzenleyebilirsiniz.</text>
+		<text id="lbl.choosefiles.itemscount" h="2CFE0C7C">%1 öğe</text>
+		<text id="lbl.choosefiles.selitemscount" h="402CD736">%1 öğe • %2 öğe seçildi • %3</text>
+		<text id="lbl.choosepages" h="668A500A">Belgedeki seçilebilecek sayfaları belirleyiniz:</text>
+		<text id="lbl.continue" h="A5F0062A">Devam</text>
+		<text id="lbl.editViewToolDesc" h="0F22DAFE">Araç için açıklama metni giriniz:</text>
+		<text id="lbl.editViewToolName" h="76F4AA91">Aracın adını giriniz:</text>
+		<text id="lbl.editdocs.dndhint" h="2FAC7414">Belgeler arasında sayfa taşımak ve onları tekrar sıralamak için sürükle&amp;bırak kullanabilirsiniz. Ayrıca, sayfaları belge öğeleri arasına/dışına bırakarak yeni belgeler oluşturabilirsiniz.</text>
+		<text id="lbl.editview.dndhint" h="42E43BBA">Mevcut işlemleri tekrar sıralamak veya sağdaki listeden yeni işlem eklemek için sürükle&amp;bırak kullanabilirsiniz.</text>
+		<text id="lbl.editview.dndhint2" h="714B17C6">Sağdaki listeden herhangi bir işlemi tıklayarak ve sürükleyerek buraya bırakınız.</text>
+		<text id="lbl.emptyCatList" h="488587B8">Kategori listesi boş</text>
+		<text id="lbl.emptyToolList" h="B2BFE203">Araçlar listesi boş.</text>
+		<text id="lbl.extractSizeLimit" h="0EA996F6">Daha küçük resimler hariç olsun:</text>
+		<text id="lbl.fileTypes" h="60ECC8E9">Dosya türleri</text>
+		<text id="lbl.filestopdf.converters" h="902CF9B3">Dönüştürücüler:</text>
+		<text id="lbl.folder" h="3F9ED2F9">Klasör:</text>
+		<text id="lbl.grouping" h="79C8A88E">Gruplama Modu</text>
+		<text id="lbl.keeptransparent" h="5070A5EB">Şeffaflık korunsun</text>
+		<text id="lbl.multipagetype" h="C5A5712F">Çok sayfalı resim türü seçimi:</text>
+		<text id="lbl.noActionFound" h="105B87AB">Arama talebinizle eşleşen işlem bulunamadı.</text>
+		<text id="lbl.noCategoryFound" h="CEC17229">Arama isteğinizle eşleşen hiçbir kategori bulunamadı</text>
+		<text id="lbl.noToolFound" h="181055BB">Arama talebinizle eşleşen araç bulunamadı.</text>
+		<text id="lbl.reverseOrder" h="9564C9FE">Ters sırayla kaydet</text>
+		<text id="lbl.run" h="19264084">Çalıştır</text>
+		<text id="lbl.savemode" h="D16859B7">Kayıt Seçenekleri</text>
+		<text id="lbl.showextui" h="1E2770E2">Dosya seçimi için kapsamlı iletişim kutusunu göster</text>
+		<text id="lbl.singlepagetype" h="A6AF6C93">Tek sayfalı resim türü seçimi:</text>
+		<text id="lbl.dblclick2browse" h="DB3D14F9">Göz atmak için buraya çift tıklayınız...</text>
+		<text id="listmonitors.lbl" h="7A930E45">Klasör izleyicileri listesi:</text>
+		<text id="lnk.browsefolder" h="57F5ECCB">Girdi Klasörüne Gözat ...</text>
+		<text id="lnk.createtitle" h="97F6DA95">Kısayol Seçenekleri Oluştur</text>
+		<text id="lnk.inputfiles" h="3B5E3105">Girdi Dosyalarını Seç ...</text>
+		<text id="lnk.noinput" h="365E2B73">Giriş Dosyaları için her seferinde bana sor</text>
+		<text id="lnk.specifyinput" h="C331E1B9">Kısayol için giriş dosyalar/klasör ekleyebilirsiniz:</text>
+		<text id="loading" h="DC6A6C81">Yükleniyor...</text>
+		<text id="location" h="52D95020">Yer</text>
+		<text id="log.abort" h="6F8E5DCD">İptal etmek</text>
+		<text id="log.actiondone" h="E2806498">Eylem yapılır</text>
+		<text id="log.andmore" h="54982D71">Daha fazla göstermek için burayı tıklayın ...</text>
+		<text id="log.andmore.tip" h="2D9BDCA0">Tüm öğeleri görmek için çift tıklayın ...</text>
+		<text id="log.cancelled" h="E28236C9">İptal edildi</text>
+		<text id="log.fail" h="A37F5F82">Başarısız oldu</text>
+		<text id="log.filecreated" h="E300872F">Dosya oluşturuldu</text>
+		<text id="log.filenotexist" h="E9442568">Dosya mevcut değil</text>
+		<text id="log.fileprocstart" h="254322E4">Dosya işleme başlatıldı</text>
+		<text id="log.filestat.failed" h="D1F8052C">Başarısız işlenen dosyalar: %1, %2</text>
+		<text id="log.filestat.succeded" h="5A913587">Başarılı bir şekilde işlenmiş Dosyalar: %1, %2</text>
+		<text id="log.invalidarg" h="79E18E42">Yanlış parametreler</text>
+		<text id="log.nofilesinfolder" h="961510F8">Klasörde seçilen dosya türü bulunamadı. 'Giriş Dosyalarını Seç' işlem parametrelerini kontrol ediniz.</text>
+		<text id="log.nopermissions" h="7508C445">Yeterli izin yok</text>
+		<text id="log.ok" h="BAD1F1D5">Başarılı</text>
+		<text id="log.summary" h="8BE8ABA0">Özet</text>
+		<text id="log.toolduration" h="8D5BD4C8">%1 harcandı</text>
+		<text id="log.toolrunfinished" h="A50678CB">Aracı çalıştırma sonucu (%1)</text>
+		<text id="log.toolstarted" h="4352D7A3">"%1" aracı başladı</text>
+		<text id="log.txtsummary" h="ABCB53D3">"%1" aracı tamamlandı: %2 hata var, %3 dosya işlendi, %4 dosya oluşturuldu, %5 uyarı var</text>
+		<text id="log.txttoolduration" h="1DED609F">süre: %1</text>
+		<text id="log.unknown" h="8566CB94">Bilinmeyen</text>
+		<text id="log.wrongpass" h="473522EE">Yanlış parola</text>
+		<text id="modified" h="30325672">Değişiklik</text>
+		<text id="moduleName" h="9B0F448F">PDF-Araçları</text>
+		<text id="mon.priority" h="73E40EE1">İzleme önceliği:</text>
+		<text id="monitor.name.tip" h="A0EB9543">Monitör adını buraya girin ...</text>
+		<text id="monitor.subfold" h="7D8D9398">Alt klasörleri izle</text>
+		<text id="moveInputFiles" h="61936C79">Giriş dosyalarını klasöre taşıyın:</text>
+		<text id="msgtype.debug" h="C3C4F565">Ayıklama</text>
+		<text id="msgtype.error" h="51BFF51D">Hata</text>
+		<text id="msgtype.info" h="07FB97A4">Bilgi</text>
+		<text id="msgtype.unknown" h="E52D4ED4">Bilinmeyen tür</text>
+		<text id="msgtype.verbose" h="6817BBB0">Ayrıntı</text>
+		<text id="msgtype.warning" h="E7AD7A2B">Uyarı</text>
+		<text id="name" h="D18643E3">Ad</text>
+		<text id="no.pages.to.delete" h="7A9E4694">Silinecek sayfa yok.</text>
+		<text id="nooverlay.file" h="4D9B1EA6">Örtüşmeli dosya belirtilmemiş</text>
+		<text id="ocr.processall" h="705E5831">OCR belgesi</text>
+		<text id="ocr.textContinue" h="31439CA0">OCR yapmayınız fakat işleme devam ediniz</text>
+		<text id="ocr.textSkip" h="92F274EB">Belge işlemi atlansın</text>
+		<text id="ocropt.lbl" h="791CC215">Belge metin içeriyorsa:</text>
+		<text id="ovr.file" h="D8EE6FEB">Örtüşme dosyası:</text>
+		<text id="ovr.norepeat" h="E58FFCC1">Tekrar yok</text>
+		<text id="ovr.positions" h="E9C070C5">Yerleşim</text>
+		<text id="ovr.repeat" h="DB39711A">Seçenek tekrarı:</text>
+		<text id="ovr.repeatall" h="FB4118C6">Daha kısa örtüşmeli dosyanın sürekli tekrarı</text>
+		<text id="ovr.repeatlast" h="87F51B84">Daha kısa örtüşme dosyanın son sayfası tekrarlanır</text>
+		<text id="ovr.settings" h="2FF7690D">Örtüşme Dosyası Ayarları</text>
+		<text id="page.props" h="F521B2C3">Sayfa özellikleri</text>
+		<text id="pagenumber" h="29EED2B3">Sayı</text>
+		<text id="pagesRange" h="30C24AC3">Sayfa Aralığı</text>
+		<text id="pagesRange.All" h="83434A26">Herşey</text>
+		<text id="pagesRange.Pages" h="23952CFD">Sayfalar</text>
+		<text id="pagesSubset.all" h="599C6EE6">Belirtilen aralıkların tüm sayfaları</text>
+		<text id="pagesSubset.even" h="E64675B8">Sadece aralıklı çift sayfalar</text>
+		<text id="pagesSubset.odd" h="87228BC5">Sadece aralıktaki tek sayfalar</text>
+		<text id="pagesrange.empty" h="630795CE">Sayfa aralığı boş bırakılmamalıdır.</text>
+		<text id="pdf.properies" h="70EFADF5">PDF Özellikleri</text>
+		<text id="pdfahandle.keepPDFAunchanged" h="908B4A26">PDF/A belgesini değiştirmeden sakla</text>
+		<text id="pdfahandle.reconvert" h="1AFD2B27">Belgeyi yeniden dönüştür</text>
+		<text id="pdfahandle.skipPDFA" h="9B11C61E">PDF/A dokümanını atla</text>
+		<text id="pdfastd.lbl" h="83380816">Belgede PDF / A standart bilgi içerir:</text>
+		<text id="place.foreground" h="0669CDF0">Örtüşme dosyası önplan olarak yerleştirilsin</text>
+		<text id="policy.msg" h="3AE36A58">Güvenlik ilkesi oluşturulmamış.
+Oluşturmak istiyor musunuz?</text>
+		<text id="preview.ovrfile" h="5593AECC">Örtüşme dosyası önizlemesi</text>
+		<text id="priority.high" h="B7E10973">Yüksek öncelik</text>
+		<text id="priority.low" h="15FDBBEA">Düşük öncelikli</text>
+		<text id="priority.medium" h="5A523B97">Orta öncelik</text>
+		<text id="progr.launching" h="5520AF34">Monitör başlatılıyor ...</text>
+		<text id="progress.pause" h="6045D570">Duraklat</text>
+		<text id="prompt.clearpwd" h="AB0C3147">Şifre saklama alanını silmek istiyor musunuz?</text>
+		<text id="prompt.removemonitor" h="DF4CD355">Seçilen klasör izleyicisini kaldırmak istiyor musunuz?</text>
+		<text id="prompt.removepwd" h="F4C34781">Seçilen öğeyi şifre deposundan kaldırmak istiyor musunuz?</text>
+		<text id="props" h="F6FFF0BE">Özellikler</text>
+		<text id="pwd.defaultDescr" h="EBF5010F">Benim Öntanımlı Şifrem</text>
+		<text id="pwd.descr.date" h="F8CC5563">%1 Eklendi</text>
+		<text id="pwd.descr.dflt" h="5C50975F">Açıklama yok</text>
+		<text id="pwd.enter.new" h="D9992E89">Depolama alanına kaydetmek için şifre giriniz:</text>
+		<text id="pwd.enter.newdescr" h="9D40879A">Yeni açıklama giriniz:</text>
+		<text id="pwdadd" h="AED8BB4C">Ekle...</text>
+		<text id="pwdclear" h="CB9CE353">Temizle</text>
+		<text id="pwdedit" h="621534A3">Düzen...</text>
+		<text id="pwdgrp" h="202AB42A">Şifre Deposu</text>
+		<text id="pwdlbl" h="5F4039B9">Belge işlemek için otomatik olarak kullanılacak önceden tanımlı şifrelerin listesi:</text>
+		<text id="pwdprefs.name" h="D2C0C056">Şifreler</text>
+		<text id="pwdprefs.tip" h="7434F5A2">Önceden Tanımlı Parolaları Depolama</text>
+		<text id="pwdprefs.title" h="7434F5A2">Önceden Tanımlı Parolaları Depolama</text>
+		<text id="pwdremove" h="FCE39C1F">Kaldır</text>
+		<text id="report" h="E9D63CB7">Araç Raporu</text>
+		<text id="report.cuetext" h="5A5BCB07">Raporda göstermek için hiçbir ileti yok.</text>
+		<text id="report.defaultDesc" h="882ACAE5">Bölme, araç işlemlerinden gelen mesajları gösterir.</text>
+		<text id="report.fld.lbl" h="3F89B943">Dosya Seç:</text>
+		<text id="report.framed.dlg" h="E9D63CB7">Araç Raporu</text>
+		<text id="report.name.lbl" h="553DE74A">Rapor Adı:</text>
+		<text id="report.opt" h="2D42B915">Rapor Seçeneği</text>
+		<text id="report.options.autoclear" h="F9D9404E">Her araç başlangıçından önce otomatik raporu temizle</text>
+		<text id="report.options.forcevisible" h="C79B47D7">Her tür ileti için Rapor bölmesini görünür hale getirmeye zorlayın (yalnızca ayarlanmış değilse hatalar için)</text>
+		<text id="report.options.header" h="7254B91C">Araç Raporu Seçenekleri</text>
+		<text id="report.options.main" h="31B3DC7C">Aşağıdaki seçenekleri değiştirerek Rapor bölmesini yapılandırın:</text>
+		<text id="report.options.reset" h="B02C5E5A">Varsayılanlara dön</text>
+		<text id="report.options.severity" h="B9C34921">Araç Raporu bölmesinde gösterilecek mesaj türlerini seçin:</text>
+		<text id="report.options.severity.document" h="5CD972FF">PDF belgeleriyle işlemler hakkında mesaj</text>
+		<text id="report.options.severity.fileOperations" h="CAB821C9">Dosya işlemleri ile ilgili mesajlar (açık, yarat, değiştir, vb.)</text>
+		<text id="report.options.severity.info" h="A8EA107E">Bilgi mesajları</text>
+		<text id="report.options.severity.summary" h="692A1A26">Araç hakkında özet bilgi, sonuç</text>
+		<text id="report.options.severity.title" h="B282840A">Mesaj türleri</text>
+		<text id="report.options.severity.warning" h="13217901">Uyarılar (Araç yürütme sürecini etkileyebilecek olaylarla ilgili mesajlar)</text>
+		<text id="report.options.showtimestamp" h="2A6DB7B2">Rapordaki iletiler için zaman damgası gösterilsin</text>
+		<text id="reprocess.files" h="72A687D7">Başlarken dosyaları yeniden işle</text>
+		<text id="resetActionTip" h="D7E3E700">İşlem seçeneklerini varsayılana sıfırlayın.</text>
+		<text id="resetact.warn" h="E5B97341">İşlem seçeneklerini varsayılana sıfırlamak istiyor musunuz?
+NOT: Bu işlem geri alınamaz.</text>
+		<text id="resetprops.btn" h="1008C3F9">Sıfırlama</text>
+		<text id="resetprops.btntip" h="33DDB5A0">Başlangıç durumuna sıfırlamak için basınız</text>
+		<text id="resetseltools.warn" h="26BF4D94">Seçilen araçları varsayılana sıfırlamak istiyor musunuz?
+NOT: Bu işlem geri alınamaz.</text>
+		<text id="ressett.alert" h="9B2F79C2">Tüm program seçeneklerini varsayılana sıfırlamak ve standart araçlara sadece varsayılan seçeneklerle geri dönmek istediğinize emin misiniz?
+NOT: sıfırlama işlemi geri alınamaz.</text>
+		<text id="ressett.toolsalert" h="8CCEF1F1">Tüm seçenekleri sıfırlamak, tüm Özel araçların kaldırılmasını gerektirir. Bu işleme devam etmek isterseniz, Evet tuşuna basın.
+NOT: sıfırlama işlemi geri alınamaz.</text>
+		<text id="resume" h="B0874E65">Devam et</text>
+		<text id="sameimg.autobpp" h="A216C11C">Otomatik olarak renk derinliğini seçin</text>
+		<text id="sameimg.autobpp.info" h="9E850B3C">İşaretlenirse, görüntü için renk derinliği otomatik olarak seçilecektir. Görüntü Formatı'nın Görüntü Türü parametresi yok sayılır.</text>
+		<text id="saveas.ask" h="9DF35209">İşlem için istem</text>
+		<text id="saveas.auto" h="C820D6B5">Benzersiz bir isimle yeni kayıt</text>
+		<text id="saveas.folder.ask" h="5DC29DB4">Dosya yeri için her zaman sorulsun</text>
+		<text id="saveas.folder.cust" h="C9BD54EB">Belirlenen özel klasörü kullanılır</text>
+		<text id="saveas.folder.src" h="5E2E8FE3">Kaynak klasör hedef olarak kullanılır</text>
+		<text id="saveas.overwrite" h="68C4F37C">Yeni bir dosyayla üzerine yaz</text>
+		<text id="saveas.skip" h="CE81D302">Mevcut dosya değiştirilmeden saklansın</text>
+		<text id="saveas.text" h="7D366800">Dosya mevcut olduğunda:</text>
+		<text id="saveimg.default.folder" h="DCD2AF9C">Belge klasörü</text>
+		<text id="saveimg.default.name" h="5A425CCC">Başlıksız</text>
+		<text id="saveimg.grouping.apart" h="8E717B39">Her resim ayrı bir dosyaya</text>
+		<text id="saveimg.grouping.groupall" h="9E5BA5E4">Tüm resimler çok sayfalı bir resim dosyasına</text>
+		<text id="saveimg.grouping.groupdoc" h="E86A1581">Tüm resimler, bir belgeden çok sayfalı bir resim dosyasına</text>
+		<text id="saveimg.grouping.grouppage" h="FDF715C4">Tüm resimler, bir sayfadan çok sayfalı bir resim dosyasına</text>
+		<text id="savereport.to" h="861DD843">Raporu kaydet</text>
+		<text id="searchActionTip" h="3591BAD8">Arama İşlemi...</text>
+		<text id="searchToolTip" h="435392D9">Arama Aracı...</text>
+		<text id="secinfo.grp" h="F5A61224">Güvenlik Bilgisi</text>
+		<text id="secsetting.init.warn" h="61B936AD">&lt;b&gt;"%1"&lt;/b&gt; işlemi, kullanımdan önce başlatılmalıdır. Araç yürütmeye devam etmek ve eylemi başlatmak istiyor musunuz?</text>
+		<text id="secsettings.btn" h="9147CD71">Ayarlar</text>
+		<text id="selPages.all" h="7D499596">Tüm sayfalar</text>
+		<text id="selPages.dlg" h="4B381B82">Sayfa Seçimi</text>
+		<text id="selPages.even" h="CDE5C1A0">Çift sayfalar</text>
+		<text id="selPages.exact" h="23952CFD">Sayfalar:</text>
+		<text id="selPages.fromsubset" h="3ADEE045">"%1" alt kümesinden</text>
+		<text id="selPages.odd" h="242E0666">Tek sayfalar</text>
+		<text id="select.ovrfile" h="74E5784A">Örtüşme Dosyasını Seç</text>
+		<text id="selectDestFolder" h="D0F102DD">Hedef Klasörü Seç</text>
+		<text id="selectHotfolder.lbl" h="3A4859F6">İzlemek için klasörü seçin:</text>
+		<text id="sendmail.archive.defaultname" h="F758C4E9">İsimsiz</text>
+		<text id="sendmail.by" h="8EF165F7">Tarafından</text>
+		<text id="sendmail.chk.intoone" h="BE171523">Tüm dosyaları bir e-postaya ekle</text>
+		<text id="sendmail.chk.priority" h="846616F7">E-postayı öncelikli olarak ayarla</text>
+		<text id="sendmail.client" h="E8D90FF3">Masaüstü Posta İstemcisi</text>
+		<text id="sendmail.compress.alltoone" h="C303528D">Bütün dosyalar bir arşivde</text>
+		<text id="sendmail.compress.eachfile" h="B972BFCC">Her dosya ayrı arşivlenecek</text>
+		<text id="sendmail.compress.none" h="F9398D7D">Yok</text>
+		<text id="sendmail.edt.cue" h="A179CC6C">Mesaj metni girin ...</text>
+		<text id="sendmail.from" h="976952DD">İtibaren</text>
+		<text id="sendmail.lbl.arcname" h="A630D28B">Arşiv adı:</text>
+		<text id="sendmail.lbl.compress" h="BC1093D8">Sıkıştırma</text>
+		<text id="sendmail.log.cantcreatearchive" h="B40CACC8">Gönderilecek arşiv oluşturulamıyor</text>
+		<text id="sendmail.log.nofiles" h="4C7A563E">Gönderilecek dosya yok</text>
+		<text id="serializing" h="92752B4F">%1 Serileştiriliyor...</text>
+		<text id="setup.grp" h="95DF47CE">Klasör Monitör Seçenekleri</text>
+		<text id="setuphotfolder.dlg.caption" h="EDC6E6EA">Klasör Monitörleri</text>
+		<text id="showFiles.enabled" h="2532774E">Aktif</text>
+		<text id="showFiles.launchAssocApp" h="FE936D7D">Dosyaların, kendileriyle ilgili harici program kullanılarak görüntülenmesi</text>
+		<text id="showFiles.launchAssocAppWarn" h="97CF77EB">Görüntülenecek dosya sayısı birden fazladır.
+
+Hepsinin aynı anda hepsini görüntülenmesi, bilgisayarınızın kaynaklarının çoğunu tüketebilir.
+
+
+
+Onları görüntülemek istediğinize emin misiniz?</text>
+		<text id="showFiles.openFolderAndSel" h="A95A4BE0">Dosya içeren bir klasör açın ve dosya seçin</text>
+		<text id="showFiles.text" h="26A38ADF">İşlem seçimi:</text>
+		<text id="showMoreOpts" h="24B13299">Tüm Seçenekler...</text>
+		<text id="showMoreOpts2" h="64C40213">Daha Fazla Seçenek...</text>
+		<text id="showMoreOptsTip" h="C60CDB73">Tüm seçenekleri görmek için tıklayınız...</text>
+		<text id="showMoreOptsTip2" h="145A1CAD">Gelişmiş seçenekleri görmek için tıklayınız...</text>
+		<text id="showSetupUI" h="0E94449E">Çalışırken ayar iletişim kutusu gösterilir</text>
+		<text id="showSetupUITip" h="0E94449E">Çalışırken ayar iletişim kutusu gösterilir</text>
+		<text id="size" h="17A58A52">Boyut</text>
+		<text id="sizelimit.nolimit" h="8E135818">Sınırsız</text>
+		<text id="skipaction.b" h="A37FB4B0">İşlemi atla</text>
+		<text id="skipdocsWithText" h="2683C8E5">Metin içeren belgeler OCR değil</text>
+		<text id="skipped" h="B7D8BB1E">atlandı</text>
+		<text id="smmanual.chk" h="563576E6">Bölme/Birleştirme uyarısı</text>
+		<text id="smmethod" h="C894DD7E">Yöntem</text>
+		<text id="smmethod.all2one" h="B3E7239B">Tüm sayfalar bir belgeye</text>
+		<text id="smmethod.asis" h="4C3BC0E6">Girdi belgeleri olduğu gibi saklansın</text>
+		<text id="smmethod.bookmarks" h="44B3EE11">En popüler yer işaretiyle bölme</text>
+		<text id="smmethod.npages" h="2D67CBA9">Ayrı belgedeki her N sayfa</text>
+		<text id="smreverse.chk" h="B766066F">Tersine Sayfalar</text>
+		<text id="sourcepage" h="5D6277DD">Kaynak sayfa</text>
+		<text id="sourcetitle" h="81E00BC2">Kaynak başlık</text>
+		<text id="specific" h="67D7437D">Özel</text>
+		<text id="status" h="9FB9C788">Durum</text>
+		<text id="stdAll" h="C80F4913">Tüm standartlar</text>
+		<text id="stdToolsGrName" h="1906BB71">Standart Araçlar</text>
+		<text id="stop" h="F89FDAAE">Durdur</text>
+		<text id="targettitle" h="F87B6FA7">Hedef başlık</text>
+		<text id="timefmt.day" h="EF28C7D2">%1 gün</text>
+		<text id="timefmt.days" h="F3C5276C">%1 gün</text>
+		<text id="timefmt.days.short" h="E1985A1D">%1g</text>
+		<text id="timefmt.hour" h="CDADDDAA">%1 saat</text>
+		<text id="timefmt.hours" h="E9410F6D">%1 saat</text>
+		<text id="timefmt.hours.short" h="4D2D1511">%1s</text>
+		<text id="timefmt.minute" h="2D014E0C">%1 dakika</text>
+		<text id="timefmt.minutes" h="781A3650">%1 dakika</text>
+		<text id="timefmt.minutes.short" h="305AE154">%1dk</text>
+		<text id="timefmt.second" h="CDE322F6">%1 saniye</text>
+		<text id="timefmt.seconds" h="D24DF2F6">%1 saniye</text>
+		<text id="timefmt.seconds.short" h="E41BDE8B">%1sn</text>
+		<text id="title.choosepages" h="4B381B82">Sayfa Seçimi</text>
+		<text id="tool" h="7D3C7CB2">Araç</text>
+		<text id="tool.addBatesNumbering" h="5987A707">Bates Numaralandırma Ekle</text>
+		<text id="tool.addBatesNumbering.desc" h="19058FA5">Yasal belgeleri kolay tanımlanacak şekilde indekslemek için bates numaralandırma yapılmasını sağlar.</text>
+		<text id="tool.addDigSign" h="97DD789F">Dijital İmza Ekle</text>
+		<text id="tool.addDigSign.desc" h="84946427">PDF'lere yeni imza alanı eklenir ve bunlar sertifika tabanlı bir dijital kimlik kullanılarak imzalanır.</text>
+		<text id="tool.addHeaderAndFooter" h="71EBAC62">Üstbilgi ve Altbilgi Ekle</text>
+		<text id="tool.addHeaderAndFooter.desc" h="36AA73F6">Belirtilen sayfaya üstbilgi ve altbilgi eklenir. Üstbilgi ve altbilgide; tarih, otomatik sayfa numarası, başlık ve yazar vb. yer alabilir.</text>
+		<text id="tool.addPagesBackground" h="20D4DB07">Sayfa Arka Plan Ayarı</text>
+		<text id="tool.addPagesBackground.desc" h="C639A1B2">Mevcut sayfa içeriğinin arkasındaki katı veya grafik arka planı ayarlar.</text>
+		<text id="tool.addTimeStamp" h="837FE6FB">Zaman Damgası PDF'leri</text>
+		<text id="tool.addTimeStamp.desc" h="4D80E50C">Yetkili bir sunucu tarafından damga uygulandığında, PDF dosyasının tam içeriğini belirten bir zaman damgası eklenir.</text>
+		<text id="tool.addWatermarks" h="F5662DD3">Filigran Ekle</text>
+		<text id="tool.addWatermarks.desc" h="434D9E42">Sayfa içeriğinin önünde veya arkasında görünen metin veya resim eklenir.</text>
+		<text id="tool.bookmarksExportToText" h="01135DA3">Yer İşaretlerinin Metin Dosyasına Aktarımı</text>
+		<text id="tool.bookmarksExportToText.desc" h="F351FF49">PDF belgesi yer işaretlerin yapısı Metin Dosyasına kaydedilir</text>
+		<text id="tool.bookmarksFromTextFile" h="CA5176DD">Metin Dosyasından Yer İşaretlerini İçe Aktar</text>
+		<text id="tool.bookmarksFromTextFile.desc" h="792D900F">Metin Dosyası'ndan PDF Belgesinde Yer İşaretleri oluşturulur.</text>
+		<text id="tool.bookmarksFromText" h="383A949B">Metin Sayfasından Yer İşaretleri Oluştur</text>
+		<text id="tool.bookmarksFromText.desc" h="1EF3AF08">Verilen yazı tipi stili ve parametreleri kullanılarak belgenin metninden yer işaretleri oluşturulur.</text>
+		<text id="tool.bookmarksExport" h="F3EE1781">Yer İşaretlerinin Dışa Aktarımı</text>
+		<text id="tool.bookmarksExport.desc" h="BB39B78E">Belgedeki tüm yer işaretlerinin dışa aktarımı</text>
+		<text id="tool.bookmarksImport" h="DC7F6AD5">Yer İşaretlerini İçe Aktar</text>
+		<text id="tool.bookmarksImport.desc" h="40AC7812">Bir önceki dışa aktarılmış dosyadan belgenin içine aktarılır.</text>
+		<text id="tool.bookmarksBuildTOC" h="2B3E9BF1">İçindekiler Tablosunun oluşturulması</text>
+		<text id="tool.bookmarksBuildTOC.desc" h="1D694D80">İçindekiler Tablosu; belgelerin 'yer işaretleri' yapısına ve yönlendirdikleri sayfalara göre oluşturulur.</text>
+		<text id="tool.certifyPDF" h="52B0ED47">PDF Sertifikası</text>
+		<text id="tool.certifyPDF.desc" h="828838CF">Bir PDF belgesi; sertifikalı imza adı verilen özel bir tür imza alanı ile sertifikalı olarak korunur.</text>
+		<text id="tool.changeProps" h="89CBAD2F">Belge Özelliklerini Değiştir</text>
+		<text id="tool.changeProps.desc" h="40BD1FE7">Belge özelliklerini ayarlar: başlık, yazar, konu, anahtar kelimeler vs.</text>
+		<text id="tool.clearDigSign" h="361BBD36">Tüm Dijital İmzaları Temizle</text>
+		<text id="tool.clearDigSign.desc" h="E1CDD425">Mümkünse, imzalanmayanları bırakarak tüm dijital imzaları kaldırır.</text>
+		<text id="tool.convertToPDFA" h="86709E15">PDF/A'ya Dönüştür</text>
+		<text id="tool.convertToPDFA.desc" h="7DDE1660">Uzun vadeli arşivleme ve koruma ihtiyaçları için PDF belgelerini PDF/A standardına uygun hale getirir.</text>
+		<text id="tool.convertToPDFX" h="1D70370D">PDF/X'e Dönüştür</text>
+		<text id="tool.convertToPDFX.desc" h="CB599882">Baskı verilerini değiştirmek için PDF belgelerini PDF/X standardına uygun hale getirir.</text>
+		<text id="tool.copied" h="348DE55D">Kopya</text>
+		<text id="tool.createWeblinks" h="F68EDD51">Web Bağlantıları Oluştur</text>
+		<text id="tool.createWeblinks.desc" h="6971A17D">Belgenin metin içeriğinden web bağlantıları oluşturulur.</text>
+		<text id="tool.cropPages" h="54A95B63">Sayfa Kesme</text>
+		<text id="tool.cropPages.desc" h="A9A477BE">Görünür sayfa alanı ayarları; sayfalardaki beyaz kenar boşlukları değiştirilerek veya kaldırılarak sayfa kutuları ayarlanır.</text>
+		<text id="tool.deleteComments.all" h="E8642222">Tüm Yorumları Sil</text>
+		<text id="tool.deleteComments.all.desc" h="818B531A">Belgedeki tüm yorumları siler.</text>
+		<text id="tool.deleteComments.form" h="37ECB4B5">Form Alanlarını Sil</text>
+		<text id="tool.deleteComments.form.desc" h="C5D21570">Form alanlarını belgeden siler.</text>
+		<text id="tool.deleteComments.links" h="CC8F1411">Bağlantıları Sil</text>
+		<text id="tool.deleteComments.links.desc" h="66D48AF5">Belgedeki bağlantıları siler.</text>
+		<text id="tool.deleteComments.markup" h="EA5127FB">İşaretleme Ek Açıklamalarını Sil</text>
+		<text id="tool.deleteComments.markup.desc" h="80CD5AA0">İşaretleme ek açıklamalarını belgeden siler.</text>
+		<text id="tool.deleteComments.weblinks" h="87C8439E">Web Bağlantılarını Sil</text>
+		<text id="tool.deleteComments.weblinks.desc" h="158E179F">Belgeden web bağlantılarını siler.</text>
+		<text id="tool.deletePages" h="E5284839">Sayfaları Sil</text>
+		<text id="tool.deletePages.desc" h="4E1EBD43">Belgeden sayfaları sil.</text>
+		<text id="tool.descTip" h="04F6C0B5">Araç açıklaması giriniz...</text>
+		<text id="tool.discardPDFStd" h="E608B980">Özel PDF Standardı Çıkarılsın</text>
+		<text id="tool.discardPDFStd.desc" h="947EF232">PDF/X, PDF/A, PDF/E gibi özel PDF standart bilgisi çıkarılsın...</text>
+		<text id="tool.duplicatePages" h="14C45200">Sayfaları Çoğalt</text>
+		<text id="tool.duplicatePages.desc" h="0FD26A6C">PDF belgesinin sayfaları çoğaltır.</text>
+		<text id="tool.extractImagesFromPDF" h="4CF9FEB6">PDF'den Resim Çıkarma</text>
+		<text id="tool.extractImagesFromPDF.desc" h="C53280A8">PDF(ler) aracılığı ile belge içeriğindeki raster görüntüleri kontrol ederek çıkarır ve bunları diskteki dosyalara kaydeder.</text>
+		<text id="tool.extractPages" h="7AE73EC1">Sayfaları Çıkarma</text>
+		<text id="tool.extractPages.desc" h="54BB795B">Belirlenen sayfa aralığını, PDF belgesinden yeni bir belgeye çıkarır.</text>
+		<text id="tool.filesToPDF" h="4CD7DD2F">Dosyaları PDF'lere Dönüştür</text>
+		<text id="tool.filesToPDF.desc" h="603206C4">Desteklenen formatlardaki girdi dosyaları PDF'ye dönüştürülür.</text>
+		<text id="tool.flattenComments" h="CBA1AA18">Dümdüz Yorumlar</text>
+		<text id="tool.flattenComments.desc" h="20A41E96">Ek açıklamaları temel içerik öğelerine dönüştürür.</text>
+		<text id="tool.imagesToPDF" h="B0C7E05C">Resimden PDF Oluştur</text>
+		<text id="tool.imagesToPDF.desc" h="0FDB3BE0">Bir veya daha fazla raster resimden tek bir PDF belgesi oluşturur.</text>
+		<text id="tool.insertEmptyPages" h="3779032F">Boş Sayfaları Ekle</text>
+		<text id="tool.insertEmptyPages.desc" h="65380D33">Belgeye boş sayfalar ekler.</text>
+		<text id="tool.insertPages" h="6B486B45">Sayfaları Ekle</text>
+		<text id="tool.insertPages.desc" h="E986FB1C">Belgeye, seçilen belgeden sayfalar ekler.</text>
+		<text id="tool.isused" h="F0A66FDB">&lt;b&gt;"%1" &lt;/b&gt; aracı silinemiyor. Lütfen klasör izleyicisi tarafından kullanılıyor.</text>
+		<text id="tool.nameTip" h="92682EAF">Araç adını giriniz...</text>
+		<text id="tool.new.name" h="6431F60C">Yeni Araç</text>
+		<text id="tool.ocrPages" h="D2A189BC">OCR Sayfaları</text>
+		<text id="tool.ocrPages.desc" h="E9D91493">Bir PDF belgesindeki metin karakterlerini optik olarak tanır, sayfalarda seçilebilir ve aranabilir metin katmanı oluşturur.</text>
+		<text id="tool.optimizePDF" h="E369C144">PDF İyileştirme</text>
+		<text id="tool.optimizePDF.desc" h="2DDF7F6C">PDF dosyasının boyutunu küçültmek için belge içeriğini mümkün olduğunca en uygun duruma getirir.</text>
+		<text id="tool.overlayDoc" h="A113E021">Örtüşme PDF'si</text>
+		<text id="tool.overlayDoc.desc" h="8AC5B664">PDF belgelerini başka bir PDF belgesiyle örtüştürür.</text>
+		<text id="tool.pageTransitions" h="B5EF0B7A">Sayfa Geçişlerini Ayarla</text>
+		<text id="tool.pageTransitions.desc" h="33F5B755">Tam ekran modu için özel sayfa geçiş efektlerini değiştirir.</text>
+		<text id="tool.pdfToDOCX" h="D89F515F">PDF'nin Microsoft Word Belgesi'ne aktarımı</text>
+		<text id="tool.pdfToDOCX.desc" h="D34FB81F">PDF belgelerini Microsoft Word Belgesi dosyasına (* .docx) aktarır.</text>
+		<text id="tool.pdfToImages" h="6DC3C315">PDF'nin Resime aktarımı</text>
+		<text id="tool.pdfToImages.desc" h="87E8923B">Sayfalar, bir veya daha fazla PDF'den; JPEG, PNG, TIFF, vb. gibi farklı raster resim biçimine kolayca aktarılır.</text>
+		<text id="tool.pdfToPPTX" h="E673A7B8">PDF'nin Microsoft PowerPoint Sunumu'na aktarımı</text>
+		<text id="tool.pdfToPPTX.desc" h="65E608C6">PDF belgelerini Microsoft PowerPoint Sunum dosyasına (* .pptx) aktarır.</text>
+		<text id="tool.pdfToTXT" h="29DDD177">PDF'nin Düz Metin'e aktarımı</text>
+		<text id="tool.pdfToTXT.desc" h="9C277C15">PDF belgelerini Düz Metin dosyasına (* .txt) aktarır.</text>
+		<text id="tool.pdfToXSLX" h="A31C131A">PDF'nin Microsoft Excel Tablosu'na aktarımı</text>
+		<text id="tool.pdfToXSLX.desc" h="325AEA86">PDF belgelerini Microsoft Excel Tablosu dosyasına aktarır (*.xlsx).</text>
+		<text id="tool.removeBackground" h="E0246483">Sayfa Arka Planını Kaldır</text>
+		<text id="tool.removeBackground.desc" h="17700648">Özel arka planları, sayfa(lar)dan kaldırır; varsayılan düz-beyaz arka planı geri yükler.</text>
+		<text id="tool.removeBatesNumbering" h="901F5ABD">Bates Numaralarını Kaldır</text>
+		<text id="tool.removeBatesNumbering.desc" h="E4FBEB3C">Bates numaralarını kaldırır.</text>
+		<text id="tool.removeHeaderAndFooter" h="11E8A996">Üstbilgileri ve Altbilgileri Kaldır</text>
+		<text id="tool.removeHeaderAndFooter.desc" h="E1CC0743">Mevcut tüm üstbilgileri ve altbilgileri kaldırır.</text>
+		<text id="tool.removeWatermarks" h="93F16CE2">Filigranları Kaldır</text>
+		<text id="tool.removeWatermarks.desc" h="AFCD3BD4">Belgedeki tüm filigranı kaldırır.</text>
+		<text id="tool.replacePages" h="1311083C">Sayfaları Değiştir</text>
+		<text id="tool.replacePages.desc" h="9C48D712">Belgedeki sayfaları, seçilen belgenin sayfaları ile değiştirir.</text>
+		<text id="tool.report.dlg" h="E9D63CB7">Araç Raporlaması</text>
+		<text id="tool.report.filename" h="C7908B93">Araç Çalışma Raporu</text>
+		<text id="tool.report.save" h="418B87C2">Dosyaya kaydet...</text>
+		<text id="tool.resizePages" h="8A5C31F1">Sayfa Boyutlandırma</text>
+		<text id="tool.resizePages.desc" h="822401DC">Sayfaların boyutunu arttırır veya azaltır, sayfa içeriğinin ölçeklenmesi isteğe bağlıdır.</text>
+		<text id="tool.rotatePages" h="CBD82045">Sayfaları Döndür</text>
+		<text id="tool.rotatePages.desc" h="66235E38">PDF belgesinde belirlenen sayfalar, saat yönünde veya aksi yönde 90 derece döndürülür.</text>
+		<text id="tool.scanToPDF" h="B9A05395">PDF olarak Tara</text>
+		<text id="tool.scanToPDF.desc" h="521CD5C0">Tarayıcınız kullanılarak bir kağıt belgesinden doğrudan yeni PDF belgesi oluşturulur.</text>
+		<text id="tool.securePDF" h="400E69FB">Güvenli PDF</text>
+		<text id="tool.securePDF.desc" h="322DE365">PDF belgenizi; belgenin içeriğini açmak ve/veya değiştirmek için parola belirleyerek korur.</text>
+		<text id="tool.sendMail" h="9377A75B">E-posta gönder</text>
+		<text id="tool.sendMail.desc" h="13681586">Dosyaları, geçerli Posta Gönderme Yöntemini kullanarak belirtilen e-posta adresine gönderin.</text>
+		<text id="tool.splitMergePDF" h="51A86996">PDF'leri Böl/Birleştir</text>
+		<text id="tool.splitMergePDF.desc" h="73710D3B">Tüm girilen PDF'leri bir araya getirir veya otomatik olarak ve/veya elle yeni PDF'lere ayırır.</text>
+		<text id="tool.splitPages" h="2648812F">Sayfaları böler</text>
+		<text id="tool.splitPages.desc" h="4FA35C77">PDF belgesinin sayfalarını böler.</text>
+		<text id="tool.summarizeComments" h="2233C1CD">Yorumlar Özetler</text>
+		<text id="tool.summarizeComments.desc" h="8EA1DEF5">PDF belgesindeki tüm yorumları özet oluşturulur.</text>
+		<text id="tool.textToPDF" h="ECE46B63">Metinden PDF Oluştur</text>
+		<text id="tool.textToPDF.desc" h="E1CF697C">Bir veya daha fazla metin dosyasından tek bir PDF belgesi oluşturur.</text>
+		<text id="tool.warn.actInvalid1" h="8442B509">Bu işlemde bir veya daha fazla sorun bulunmuştur:</text>
+		<text id="tool.warn.actInvalid2" h="442E6045">Sorun, bu işlemle tespit edildi:</text>
+		<text id="tool.warn.actReqDoc" h="76C84E2B">Bu işlem, girdi olarak; PDF, resim veya desteklenen diğer dosyaları gerektirir.</text>
+		<text id="tool.warn.actReqFile1" h="0B30D02F">Bu işlem, girdi olarak dosya gerektirir - sorunu çözmek için, işlemden önce bunu &lt;u&gt;%1&lt;/u&gt; ekleyebilirsiniz</text>
+		<text id="tool.warn.actReqFile2" h="CA8342FE">Bu işlem, girdi olarak dosya gerektirir</text>
+		<text id="tool.warn.actReqFile21" h="65B62BA0">bunun öncesinde &lt;u&gt;%1&lt;/u&gt; işlemini eklemeyi unutmuşsunuz gibi görünüyor</text>
+		<text id="tool.warn.actReqImg" h="D28A3C63">Bu işlem, girdi olarak resim gerektirir.</text>
+		<text id="tool.warn.actReqSaveRes" h="3621DC81">Bu işlemin sonucunu diske kaydetmeniz gerekiyor - bundan sonra sorunu çözmek için &lt;u&gt;%1&lt;/u&gt; işlemini ekleyebilirsiniz</text>
+		<text id="tool.warn.actReqSaveRes2" h="9B55FE54">araç önceki işlemler arasında &lt;u&gt;%1&lt;/u&gt; içeriyor ve sonuçlar &lt;i&gt;bu&lt;/i&gt; işlem uygulanmadan önce kaydedilmelidir. &lt;u&gt;%2&lt;/u&gt; işlemini eklemeniz gerekmektedir</text>
+		<text id="tool.warn.actTitle" h="7330FC41">&lt;u&gt;%1&lt;/u&gt; işlem:</text>
+		<text id="tool.warn.cancel" h="8DD6365D">&lt;b&gt;"%1"&lt;/b&gt; aracının çalışmasını durdurmak istiyor musunuz?
+Çalışmaya devam etmesi için &lt;b&gt;Hayır&lt;/b&gt; tuşuna tıklayınız...</text>
+		<text id="tool.warn.empty" h="D05A0C43">bu araç boştur - araç çubuğundaki '&lt;b&gt;Düzenle&lt;/b&gt;' düğmesine tıklayabilir ve bir çalışma aracı oluşturmak için işlem ekleyebilirsiniz.</text>
+		<text id="tool.warn.empty2" h="B4FD144F">Araç boş: herhangi bir işlem yok.</text>
+		<text id="tool.warn.imgNotFound" h="9A768995">Resimler bulunamadı.</text>
+		<text id="tool.warn.invalidActList" h="A2BB75D7">Aracın geçersiz bir işlem listesi var.</text>
+		<text id="tool.warn.nextActNotSuitable" h="17376D04">&lt;i&gt;sonraki&lt;/i&gt; işlem uygun değil, çünkü &lt;i&gt;bu&lt;/i&gt; işleminin sonucu girdi olarak kabul edilmiyor</text>
+		<text id="tool.warn.nextActNotSuitable2" h="49941252">&lt;u&gt;%1&lt;/u&gt; işlemini &lt;i&gt;bu&lt;/i&gt; sorunu çözdükten sonra ekleyebilirsiniz.</text>
+		<text id="tool.warn.runInvalid" h="58A31432">&lt;b&gt;"%1"&lt;/b&gt; aracı geçersizdir. Sırayla çalıştırmak için, işlem listesini düzenlemeniz gerekir.
+
+Aracı düzenlemek istiyor musunuz?</text>
+		<text id="tool.warn.toolInvalid1" h="D448BEEB">Bu araçta bir veya daha fazla sorun bulunmuştur:</text>
+		<text id="tool.warn.toolInvalid2" h="560926B8">Sorun, bu araçla tespit edildi:</text>
+		<text id="toolActionsList" h="C9BE1A16">Araç İşlem Sırası</text>
+		<text id="toolCategories" h="DB5C4D49">Kategoriler</text>
+		<text id="toolInfo" h="979A9FE1">Araç Bilgisi</text>
+		<text id="toolInfo.defaultDesc" h="D1FD06B6">Bilgileri görmek için araçlar listesinden bir araç seçiniz.</text>
+		<text id="toolcat.PDFStandard" h="E51FAF25">PDF Standardı</text>
+		<text id="toolcat.advanced" h="59A2B513">Gelişmiş</text>
+		<text id="toolcat.all" h="BF2EE9E9">Tüm Araçlar</text>
+		<text id="toolcat.bookmarks" h="E2032460">Yer İşaretleri</text>
+		<text id="toolcat.comments" h="FA5EB905">Açıklamalar</text>
+		<text id="toolcat.createPDF" h="ACF7EBD1">PDF Oluştur</text>
+		<text id="toolcat.customTools" h="22F07048">Özel Araçlar</text>
+		<text id="toolcat.exportPDF" h="4AE54AB5">PDF'nin Dışa Aktarımı</text>
+		<text id="toolcat.favorites" h="310DA860">Favoriler</text>
+		<text id="toolcat.importedTools" h="48FF1B1E">İçe Aktarılan Araçlar</text>
+		<text id="toolcat.mostUsed" h="6274AE53">En Çok Kullanılan</text>
+		<text id="toolcat.newname" h="DB2A8F96">Yeni Kategori</text>
+		<text id="toolcat.optimizePDF" h="E369C144">PDF İyileştirme</text>
+		<text id="toolcat.pages" h="47B1CB74">Sayfalar</text>
+		<text id="toolcat.protection" h="B7EE190B">Koruma</text>
+		<text id="toolcat.recents" h="F90189AF">Son İşlemler</text>
+		<text id="toolsList" h="CA8BB4DB">Araçlar</text>
+		<text id="toolselect.lbl" h="ECBB264F">Yürütülecek aracı seçin:</text>
+		<text id="toolslist.drop.nofiles" h="4F3412DD">Bırakılacak dosya yok.</text>
+		<text id="toolslist.tip.icofavorite.add" h="F53B42E1">Aracı, Sık Kullanılanlar kategorisine eklemek için tıklayınız</text>
+		<text id="toolslist.tip.icofavorite.remove" h="04AC30FF">Araç, Sık Kullanılan kategorisinde.Aracı, Sık Kullanılanlar kategorisinden kaldırmak için tıklayınız</text>
+		<text id="toolslist.tip.icomonitor" h="4A7E7A48">Araç Klasör Monitöründe kullanılmaktadır</text>
+		<text id="toolslist.tip.icouser" h="9864F819">Özel araç</text>
+		<text id="toolsview.warning.emptyname" h="38B7A2E0">Araç adı boş olmamalıdır.</text>
+		<text id="type" h="710B61B4">Tür</text>
+		<text id="bmnamesName.lbl" h="C761CCE0">Belge adı buradan üretilsin:</text>
+		<text id="bmnamesDoc.cmb" h="D7143742">Kaynak belge adı</text>
+		<text id="bmnamesNames.cmb" h="DBDE73F8">Yer İşaretleri adları</text>
+		<text id="bmnamesAndDoc.cmb" h="019AADA7">Kaynak belge ve yer işaretinin adları</text>
+		<text id="userui.disable" h="14084105">Etkileşimi devre dışı bırak</text>
+		<text id="userui.tooltip" h="05865038">Araç yürütme sırasında tüm UI devre dışı bırak (sonuç dosyalarını gösteren, ek eylemler ayarı...)
+ot: bazı eylemler (f.e&lt;b&gt;"%1"&lt;/b&gt;) başlatma gerektiriyor:Kur UI bir kez &lt;u&gt;&lt;/u&gt;gösterilir.</text>
+		<text id="userui.usetool" h="D5A05798">Araç ayarını kullan</text>
+		<text id="usetool.filter" h="4885292B">Aracı kullanarak filtre kullan</text>
+		<text id="warn.textDocSkipOCR" h="FB74BE26">PDF belgesi metin içeriyor.  OCR işlemi şimdi uygulanacak</text>
+		<text id="wrong.file.msg" h="9F0126B0">Örtüşme PDF'si açılamıyor:
+
+&lt;b&gt;%1&lt;/b&gt;:
+
+%2
+
+Başka bir tane seçmek ister misiniz?</text>
+	</Strings>
+</Localization>

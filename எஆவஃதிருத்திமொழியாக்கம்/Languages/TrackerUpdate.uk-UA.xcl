@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123214826">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="TrackerUpdate"/>
+	<Language eName="Ukrainian (Ukraine)" lName="Українська" code="uk-UA" R2L="false"/>
+	<Module name="TrackerUpdate" namespace="" version="7.0.323.3"/>
+	<Strings>
+		<text id="setting.grBox.proxyConfig" h="A43FB5FD">Налаштувати Proxy для доступу в інтернет</text>
+		<text id="setting.radioBtn.noProxy" h="8293FBBF">Без proxy</text>
+		<text id="setting.radioBtn.useSysProxy" h="9BDC934C">Використовувати системні налаштування Proxy</text>
+		<text id="setting.radioBtn.manualProxy" h="5B87F9A2">Налаштування конфігурації вручну:</text>
+		<text id="setting.txtBox.server" h="CA95B724">Proxy-сервер:</text>
+		<text id="setting.txtBox.port" h="C83E8ED8">Порт:</text>
+		<text id="setting.chBox.passRequire" h="133A47A0">Proxy-сервер запитує пароль:</text>
+		<text id="setting.txtBox.user" h="B9C79FA6">Proxy-користувач:</text>
+		<text id="setting.txtBox.password" h="F37B341A">Пароль:</text>
+		<text id="setting.chBox.expiration" h="01C8ABA3">Показати оновлення, несумісні з планом обслуговування</text>
+		<text id="setting.dlg.name" h="9EAEE28F">Налаштування програми оновлення</text>
+		<text id="setting.grBox.language" h="0C4A07DE">Мова</text>
+		<text id="setting.grBox.general" h="30673BCD">Загальні</text>
+		<text id="setting.chBox.useRegLan" h="F0AA3B6E">Використовувати регіональну мову</text>
+		<text id="setting.txtBox.interfaceLanguage" h="C20C59BF">Мова інтерфейсу</text>
+		<text id="setting.txtBox.automaticInstall" h="A40DBDBE">Автоматично установлювати доступні оновлення після їх завантаження</text>
+		<text id="setting.task.comment" h="7B9BE6EA">Можливість отримувати інформацію про останні вдосконалення і виправлення захисту.</text>
+		<text id="setting.msgBox.saveSettingError" h="8E30C180">Неможливо зберегти налаштування!</text>
+		<text id="setting.msgBox.error" h="51BFF51D">Помилка</text>
+		<text id="main.txtBox.availableUpdate" h="5B1B87D4">Доступні оновлення:</text>
+		<text id="main.msgBox.incompatibleWithMaintenancePart1" h="FFB21F9F">Вибрані оновлення не сумісні з наявним планом обслуговування. Бажаєте установити оновлення програм зараз?</text>
+		<text id="main.msgBox.incompatibleWithMaintenancePart2" h="97A2D5BB">** ПОПЕРЕДЖЕННЯ **  Вибравши "Так", Ви продовжите оновлення та отримаєте версію програми, яка буде працювати в режимі оцінки; вибравши "Ні", Ви збереже поточну версію.</text>
+		<text id="main.msgBox.lockedUpdatesPart2" h="9DD22F03">Якщо бажаєте установити оновлення, будь ласка, видаліть ці програми.</text>
+		<text id="main.btn.setting" h="9147CD71">Налаштування</text>
+		<text id="main.btn.help" h="03718903">Допомога</text>
+		<text id="main.btn.installedProduct" h="C0C93CE4">Установлено програми</text>
+		<text id="main.btn.updateHistory" h="2A22C89B">Історія оновлень</text>
+		<text id="main.btn.checkAgain" h="A3D44F4A">Перевірте знову</text>
+		<text id="main.btn.close" h="9594DBB7">Закрити</text>
+		<text id="main.chBox.showHidden" h="30E4BACB">Показати приховані оновлення</text>
+		<text id="main.context.makeHidden" h="86B28783">Приховати</text>
+		<text id="main.context.makeVisible" h="C3CA8E89">Показати</text>
+		<text id="main.context.check" h="B50F4762">Перевірка вибраних</text>
+		<text id="main.ballon.autoStartDownloadTimer" h="2EB87226">Оновлення програм будуть автоматично завантажені за хвилину.</text>
+		<text id="main.ballon.downloadingUpdates" h="DC6A6C81">Завантаження...</text>
+		<text id="main.ballon.installingUpdates" h="7DBFF5EC">Установка...</text>
+		<text id="main.ballon.autoStartInstallTimer" h="8DE069CA">Оновлення програм будуть автоматично установлені за хвилину.</text>
+		<text id="main.ballon.newUpdates" h="825EA76A">Оновлення доступні.</text>
+		<text id="main.ballon.updatesDownloaded" h="D9BE4C80">Оновлення завантажені.</text>
+		<text id="main.tooltip.maintenanceExpired" h="8CDDAEC6">План обслуговування для цього продукту недійсний.</text>
+		<text id="main.tooltip.lockedItem" h="8DBDABA7">Оновлення заблоковане іншою програмою.</text>
+		<text id="state.msg.gatheringInformation" h="0348E22F">Збір інформації, зачекайте, будь ласка...</text>
+		<text id="state.msg.noAvailableUpdate" h="CEA582A0">Оновлень немає.</text>
+		<text id="state.msg.error" h="EC250F30">Трапилась помилка:</text>
+		<text id="state.msg.getListError" h="A0755DE4">Неможливо отримати список оновлень.</text>
+		<text id="state.msg.InternetConectionError" h="99D4EBF8">Неможливо під’єднатися. Спробуйте пізніше.</text>
+		<text id="state.msg.getDataFileError" h="C7A70F8D">Неможливо завантажити інформацію про програми.</text>
+		<text id="state.msg.selfUpdateError" h="D018D1C4">Помилка при автоматичному оновленні. Спробуйте ще раз пізніше.</text>
+		<text id="state.msg.disabledByGroupPilisy" h="066F184E">Поновалення програм відключеен Вашим системним адміністратором.</text>
+		<text id="main.btn.download" h="BCE8145B">Завантажити</text>
+		<text id="main.btn.downloadWithTimer" h="DACCF32D">Завантажено (%1)</text>
+		<text id="main.listCol.name" h="D18643E3">Ім’я</text>
+		<text id="main.listCol.version" h="7922E696">Доступна</text>
+		<text id="main.listCol.installed" h="DECE7C42">Установлено</text>
+		<text id="main.state.warning" h="95988032">Жоден продукт Tracker не установлено.</text>
+		<text id="existing.dlg.name" h="C0C93CE4">Установлено програми</text>
+		<text id="existing.btn.close" h="9594DBB7">Закрити</text>
+		<text id="existing.listCol.name" h="D18643E3">Ім’я</text>
+		<text id="existing.listCol.version" h="F76458F4">Версія</text>
+		<text id="progress.txt.pageHedear.installing" h="117B6562">Установлення оновлень програм. Зачекайте, будь ласка...</text>
+		<text id="progress.txt.pageHedear.finished" h="A4834E77">Завершено.</text>
+		<text id="progress.txt.pageHedear.downloading" h="15200E48">Завантаження оновлення %1 з %2. Зачекайте, будь ласка...</text>
+		<text id="progress.txt.downloaded" h="7F7E73C2">Завантажено</text>
+		<text id="progress.txt.totalSize" h="E542B598">Загальний розмір</text>
+		<text id="progress.txt.averageSpeed" h="B07DD6C6">Середня швидкість</text>
+		<text id="progress.txt.timeRemaining" h="EBAC62EA">Залишилось часу</text>
+		<text id="progress.btn.stop" h="F89FDAAE">Зупинити</text>
+		<text id="progress.btn.back" h="F8750C11">Назад</text>
+		<text id="progress.btn.exit" h="748EB8A1">Вихід</text>
+		<text id="progress.btn.done" h="68F991B5">Зроблено</text>
+		<text id="progress.btn.installWithTimer" h="83E409E9">Установка (%1)</text>
+		<text id="progress.btn.install" h="9F075946">Установка</text>
+		<text id="progress.txt.time.aboutMinute" h="1A471830">Близько хвилини</text>
+		<text id="progress.txt.clickToContinue" h="6B000F4A">Натисніть кнопку "Установити", щоб продовжити оновлення.</text>
+		<text id="progress.txt.time.unknown" h="8566CB94">Невідомий</text>
+		<text id="progress.userMsg.connectToServer" h="179110BC">З’єднання з сервером %1...</text>
+		<text id="progress.userMsg.connectedSuccessfully" h="51738A9A">Пдіключення здійснено.</text>
+		<text id="progress.userMsg.gettingFile" h="7B8DD0BC">Завантаження файла: %1 ...</text>
+		<text id="progress.userMsg.proxyFail" h="0BB99791">Помилка при Proxy авторизації для користувача '%1'</text>
+		<text id="progress.userMsg.errorRequesting" h="071BA7D1">Помилка при запиті файла '%1'</text>
+		<text id="progress.userMsg.userBreakDownloading" h="741C0781">Перервано користувачем завантаження файла '%1'</text>
+		<text id="progress.userMsg.errorDownloading" h="08A92D7A">Помилка при завантаженні файла '%1'</text>
+		<text id="progress.userMsg.filedownloaded" h="C2923C57">Файл %1 успішно завантажено</text>
+		<text id="progress.userMsg.unableToConnect" h="875EB6BC">Неможливо з’єднатися з сервером %1...</text>
+		<text id="progress.userMsg.errorParceURL" h="CF0D1F96">Помилка в записі URL</text>
+		<text id="main.msgBox.newUpdatesAvailable" h="1208BEAF">Оновлення є доступне на сервері. Завантажити його?</text>
+		<text id="main.msgBox.newVersionOfTracker" h="14EF65E8">Нова версія Tracker Update наявна і її слід установити для продовження роботи. Чи бажаєте зробити це зараз?</text>
+		<text id="progress.msgBox.askStartInstall" h="51A613BC">Чи готові Ви розпочати установку завантажених оновлень?</text>
+		<text id="progress.msgBox.askRebootAfterInstallPart1" h="1B90BEF6">Перезавантажте комп’ютер, щоб зміни набули чинності.</text>
+		<text id="progress.msgBox.askRebootAfterInstallPart2" h="4D247ABD">Чи бажаєте перезавантажити зараз?</text>
+		<text id="progress.userMsg.downloadingStarted" h="6DC1B7E7">Завантаження розпочато.</text>
+		<text id="progress.userMsg.downloadingFinished" h="46E2EC7E">Завантаження завершено.</text>
+		<text id="progress.userMsg.installSkipped" h="A5730336">Установку пропущено.</text>
+		<text id="progress.userMsg.installingStarted" h="13E62395">Установку розпочато.</text>
+		<text id="progress.userMsg.installingFinished" h="AC89DE70">Установку завершено.</text>
+		<text id="progress.userMsg.installingRebootRequired" h="F3062B13">Необхілно перезавантажити.</text>
+		<text id="progress.userMsg.packageHasInvalidHash" h="009F880A">Невірний хеш компоненти '%1'</text>
+		<text id="progress.userMsg.packageInstalationStarted" h="7F8B3B69">Установлення компоненти  '%1' розпочато.</text>
+		<text id="progress.userMsg.packageInstalationFailed" h="2B458CDE">Архів  '%1' установити не вдалось.</text>
+		<text id="progress.userMsg.userBreakInstalling" h="0C3382A0">Перервано користувачем установку компоненти '%1'</text>
+		<text id="progress.userMsg.userCanceledInstalling" h="01F91004">Процес установки було відмінено користувачем.</text>
+		<text id="progress.txt.speedValue" h="E0217E21">%1 Kб/с</text>
+		<text id="progress.txt.sizeValue" h="CCB7B0F4">%1 Kб (%2 байт)</text>
+		<text id="progress.txt.sec" h="CEB4987D">%1 с</text>
+		<text id="progress.txt.min" h="08103A63">%1 хв</text>
+		<text id="progress.txt.hour" h="CDADDDAA">%1 години</text>
+		<text id="settings.txt.noShedule" h="F1BADD25">Без графіка</text>
+		<text id="main.msgBox.prepareDataText" h="A0AC1F07">Файл зі звітом збережено в %1 папці. Надішліть електронного листа до %2, в якому опишіть проблему і вкладіть цей файл. Відкрити папку зі створеним файлом?</text>
+		<text id="main.msgBox.prepareDataCaption" h="3084BBD4">Підготовка даних для звіту...</text>
+		<text id="logDlg.context.copy" h="348DE55D">Скопіювати</text>
+		<text id="logDlg.context.enableAutoScroll" h="418EBA20">Автоматична прокрутка включена</text>
+		<text id="logDlg.context.disableAutoScroll" h="1222DA17">Автоматична прокрутка відключена</text>
+		<text id="progress.userMsg.downloadFailed" h="ECCCF9A3">Оновлення не завантажені.</text>
+		<text id="progress.userMsg.adminRightsReject" h="3F1C4DFD">Запит про привілейований режим відхилено.</text>
+		<text id="scheduler.txt.recurEvery" h="E86F8BDB">Повторювати кожного:</text>
+		<text id="scheduler.txt.weeks" h="C36D0B1F">тижні(-в)</text>
+		<text id="scheduler.txt.days" h="7AD34862">дня(-ів)</text>
+		<text id="scheduler.txt.start" h="D0E7B7BC">Початок:</text>
+		<text id="scheduler.txt.schedulerDisabled" h="77C6980A">Графік неробочий</text>
+		<text id="scheduler.chBox.sunday" h="8F1994C3">Неділя</text>
+		<text id="scheduler.chBox.monday" h="5ABCBB00">Понеділок</text>
+		<text id="scheduler.chBox.tuesday" h="86A20B4F">Вівторок</text>
+		<text id="scheduler.chBox.wednesday" h="66E67084">Середа</text>
+		<text id="scheduler.chBox.thursdat" h="DE9BC0A4">Четвер</text>
+		<text id="scheduler.chBox.friday" h="F3BB1C4F">П’ятниця</text>
+		<text id="scheduler.chBox.saturday" h="38E79019">Субота</text>
+		<text id="scheduler.radioBtn.onlyShowNotification" h="6534C15A">Показувати тільки повідомлення</text>
+		<text id="scheduler.radioBtn.automaticDownload" h="1819F958">Автоматично завантажувати доступні оновлення</text>
+		<text id="scheduler.chBox.wakeTheComputer" h="60C8B46E">Запустити це завдання</text>
+		<text id="scheduler.radioBtn.never" h="2B0D94AA">Ніколи</text>
+		<text id="scheduler.radioBtn.daily" h="D4192C96">Щоденно</text>
+		<text id="scheduler.radioBtn.weekly" h="F5E7580A">Щотижня</text>
+		<text id="scheduler.radioBtn.monthly" h="DFE427B6">Щомісячно</text>
+		<text id="scheduler.grBox.general" h="30673BCD">Загальні</text>
+		<text id="scheduler.comBox.first" h="D7CC2CC2">Перший</text>
+		<text id="scheduler.comBox.second" h="FE7A8C73">Другого</text>
+		<text id="scheduler.comBox.third" h="A352FAE5">Третього</text>
+		<text id="scheduler.comBox.fourth" h="EB6E5748">Четвертий</text>
+		<text id="scheduler.comBox.last" h="70BC4722">Останній</text>
+		<text id="scheduler.radioBtn.day" h="A21EDE78">День:</text>
+		<text id="scheduler.radioBtn.specificDate" h="61688DB5">Певна дата</text>
+		<text id="scheduler.chBox.january" h="087B2F92">Січень</text>
+		<text id="scheduler.chBox.february" h="A468CF34">Лютий</text>
+		<text id="scheduler.chBox.march" h="4AA7C642">Березень</text>
+		<text id="scheduler.chBox.april" h="EB5B3219">Квітень</text>
+		<text id="scheduler.chBox.may" h="315EB494">Квітень</text>
+		<text id="scheduler.chBox.june" h="DF3EA27A">Червень</text>
+		<text id="scheduler.chBox.july" h="934037AC">Липень</text>
+		<text id="scheduler.chBox.august" h="F741CCEC">Серпень</text>
+		<text id="scheduler.chBox.september" h="27819FF0">Вересень</text>
+		<text id="scheduler.chBox.october" h="15BA27E1">Жовтень</text>
+		<text id="scheduler.chBox.november" h="C8D0282F">Листопад</text>
+		<text id="scheduler.chBox.december" h="7AEFD274">Грудень</text>
+		<text id="settings.btn.save" h="B120B787">Зберегти</text>
+		<text id="settings.btn.cancel" h="08961956">Відміна</text>
+		<text id="settings.tabItem.general" h="30673BCD">Загальні</text>
+		<text id="settings.tabItem.autostart" h="DAB331BD">Автозапуск</text>
+		<text id="scheduler.txtBox.day" h="A21EDE78">День:</text>
+		<text id="scheduler.txtBox.week" h="AD8BFC83">Тиждень</text>
+		<text id="scheduler.msgBox.saveSchedulerError" h="C70CA03C">Неможливо зберегти задачі автозапуску!</text>
+		<text id="scheduler.txtBox.dontHavePermission" h="26DDF955">У Вас немає дозволу змінити задачу. Для цього Вам потрібно вибрати "Запуск в привілейованому режимі".</text>
+		<text id="scheduler.btn.runAsAdministrator" h="405279C2">Запуск в привілейованому режимі</text>
+		<text id="history.list.details" h="AEE125D6">Деталі</text>
+		<text id="history.list.status" h="922A166F">Статус:</text>
+		<text id="history.list.installedOn" h="C6F19FCA">Установлено на:</text>
+		<text id="history.list.successfullyInstalled" h="F63D7CC9">Програма оновлення успішно установлено.</text>
+		<text id="history.list.emptyHistory" h="D65E5890">Список оновлень порожній</text>
+		<text id="progress.msg.installQuestion" h="BF2CB299">Нові версії завантажені. Виберіть "Установити!" для продовження процесу оновлення.</text>
+		<text id="trayMenu.updatesList" h="B08D6B01">Список оновлень</text>
+		<text id="trayMenu.installed" h="B4602F1B">Установлено програми</text>
+		<text id="trayMenu.updateHistory" h="2A22C89B">Історія оновлень</text>
+		<text id="trayMenu.settings" h="EC675489">Налаштування...</text>
+		<text id="trayMenu.help" h="2C29CD29">Допомога...</text>
+		<text id="trayMenu.about" h="06AA44B8">Про програму...</text>
+		<text id="about.dlg.name" h="F2596574">Про програму</text>
+		<text id="about.btn.ok" h="BA8105F8">Так</text>
+		<text id="about.dlg.version" h="2558B135">Версія %1</text>
+	</Strings>
+</Localization>

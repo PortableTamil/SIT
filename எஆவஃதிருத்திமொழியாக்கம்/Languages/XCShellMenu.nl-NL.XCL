@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627193137">2.00.00</Version>
+	<Author>pdf.xchange.translate@gmail.com</Author>
+	<Copyright></Copyright>
+	<Product id="XCShellMenu"/>
+	<Language eName="Dutch (Netherlands)" lName="Nederlands" code="nl-NL" R2L="false"/>
+	<Module name="XCShellMenu" namespace="" version="7.0.325.10"/>
+	<Strings>
+		<text id="menu.open" h="D08F8302">Openen in PDF-XChange Editor</text>
+		<text id="menu.combine" h="BF3B40FB">Samenvoegen in PDF-XChange Editor</text>
+		<text id="menu.open.help" h="DB2C9B04">Bestanden openen in PDF-XChange Editor</text>
+		<text id="menu.combine.help" h="3E8460C6">Bestanden samenvoegen in PDF-XChange Editor</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627193941">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="TrackerUpdate"/>
+	<Language eName="Finnish (Finland)" lName="suomi" code="fi-FI" R2L="false"/>
+	<Module name="TrackerUpdate" namespace="" version="7.0.325.2"/>
+	<Strings>
+		<text id="setting.grBox.proxyConfig" h="A43FB5FD">Muokkaa Internetiin pääsyn välityspalvelinta...</text>
+		<text id="setting.radioBtn.noProxy" h="8293FBBF">Ei välityspalvelinta</text>
+		<text id="setting.radioBtn.useSysProxy" h="9BDC934C">Käytä järjestelmävälityspalvelinasetuksia</text>
+		<text id="setting.radioBtn.manualProxy" h="5B87F9A2">Manuaalinen välityspalvelinmääritys: </text>
+		<text id="setting.txtBox.server" h="CA95B724">Välityspalvelin: </text>
+		<text id="setting.txtBox.port" h="C83E8ED8">Portti:</text>
+		<text id="setting.chBox.passRequire" h="133A47A0">Välityspalvelin vaatii salasanan:</text>
+		<text id="setting.txtBox.user" h="B9C79FA6">Välityspalvelimen käyttäjä: </text>
+		<text id="setting.txtBox.password" h="F37B341A">Salasana:</text>
+		<text id="setting.chBox.expiration" h="01C8ABA3">Sisällytä päivitykset, jotka eivät ole yhteensopivia ylläpitosopimuksen kanssa</text>
+		<text id="setting.dlg.name" h="9EAEE28F">Updaterin asetukset</text>
+		<text id="setting.grBox.language" h="0C4A07DE">Kieli</text>
+		<text id="setting.grBox.general" h="30673BCD">Yleiset</text>
+		<text id="setting.chBox.useRegLan" h="F0AA3B6E">Käytä maa-asetusten kieltä</text>
+		<text id="setting.txtBox.interfaceLanguage" h="C20C59BF">Käyttöliittymän kieli: </text>
+		<text id="setting.txtBox.automaticInstall" h="A40DBDBE">Asenna päivitykset lataamisen jälkeen automaattisesti</text>
+		<text id="setting.task.comment" h="7B9BE6EA">Tämä tehtävä pitää ohjelmasi ajan tasalla viimeisimmillä parannuksilla ja suojauskorjauksilla.</text>
+		<text id="setting.msgBox.saveSettingError" h="8E30C180">Asetuksia ei voi tallentaa.</text>
+		<text id="setting.msgBox.error" h="51BFF51D">Virhe</text>
+		<text id="main.txtBox.availableUpdate" h="5B1B87D4">Käytettävissä olevat päivitykset:</text>
+		<text id="main.msgBox.incompatibleWithMaintenancePart1" h="FFB21F9F">Valitut päivitykset eivät ole yhteensopivia nykyisen ylläpitosuunnitelman kanssa. Haluatko päivittää ne nyt?</text>
+		<text id="main.msgBox.incompatibleWithMaintenancePart2" h="97A2D5BB">** VAROITUS **  Napsauttamalla 'Kyllä' voit jatkaa päivitystä ja palauttaa ohjelmiston kokeilutilaan. Napsauttamalla 'Ei' lopetat päivityksen ja pidät nykyisen version.</text>
+		<text id="main.msgBox.lockedUpdatesPart1" h="EE39CB5E">Seuraavat tuotteet estävät päivittäjän yrityksen tarkistaa päivitykset: %1</text>
+		<text id="main.msgBox.lockedUpdatesPart2" h="9DD22F03">Jos haluat asentaa päivityksen, poista nämä tuotteet. </text>
+		<text id="main.btn.setting" h="9147CD71">Asetukset</text>
+		<text id="main.btn.help" h="03718903">Ohje</text>
+		<text id="main.btn.installedProduct" h="C0C93CE4">Asennetut tuotteet</text>
+		<text id="main.btn.updateHistory" h="2A22C89B">Päivityshistoria.</text>
+		<text id="main.btn.checkAgain" h="A3D44F4A">Tarkista uudelleen</text>
+		<text id="main.btn.close" h="9594DBB7">Sulje</text>
+		<text id="main.chBox.showHidden" h="30E4BACB">Näytä piilotetut päivitykset </text>
+		<text id="main.context.makeHidden" h="86B28783">Piilota </text>
+		<text id="main.context.makeVisible" h="C3CA8E89">Näytä </text>
+		<text id="main.context.check" h="B50F4762">Tarkista valittu</text>
+		<text id="main.ballon.autoStartDownloadTimer" h="2EB87226">Päivitykset ladataan automaattisesti minuutin kuluttua.</text>
+		<text id="main.ballon.downloadingUpdates" h="DC6A6C81">Ladataan...</text>
+		<text id="main.ballon.installingUpdates" h="7DBFF5EC">Asennus...</text>
+		<text id="main.ballon.autoStartInstallTimer" h="8DE069CA">Päivitykset asennetaan automaattisesti minuutin kuluttua.</text>
+		<text id="main.ballon.newUpdates" h="825EA76A">Uusia päivityksiä on käytettävissä.</text>
+		<text id="main.ballon.updatesDownloaded" h="D9BE4C80">Päivitykset ladattu.</text>
+		<text id="main.tooltip.maintenanceExpired" h="8CDDAEC6">Tämän tuoteen ylläpitosopimuksesi on vanhentunut.</text>
+		<text id="main.tooltip.lockedItem" h="8DBDABA7">Toinen tuote estää päivityksen.</text>
+		<text id="state.msg.gatheringInformation" h="0348E22F">Kerätään tietoa, odota...</text>
+		<text id="state.msg.noAvailableUpdate" h="CEA582A0">Uusia päivityksiä ei käytettävissä.</text>
+		<text id="state.msg.error" h="EC250F30">Havaittu virhe:</text>
+		<text id="state.msg.getListError" h="A0755DE4">Tietoja päivityksistä ei saatu.</text>
+		<text id="state.msg.InternetConectionError" h="99D4EBF8">Yhteyttä ei voitu muodostaa. Yritä myöhemmin uudelleen.</text>
+		<text id="state.msg.getDataFileError" h="C7A70F8D">Tuoteinfoa ei voitu ladata.</text>
+		<text id="state.msg.selfUpdateError" h="D018D1C4">Itsepäivitysvirhe: Yritä myöhemmin uudelleen.</text>
+		<text id="state.msg.disabledByGroupPilisy" h="066F184E">Pääkäyttäjä on poistanut Tracker Update -ominaisuuden.</text>
+		<text id="main.btn.download" h="BCE8145B">Lataa</text>
+		<text id="main.btn.downloadWithTimer" h="DACCF32D">Lataa (%1)</text>
+		<text id="main.listCol.name" h="D18643E3">Nimi</text>
+		<text id="main.listCol.version" h="7922E696">Käytettävissä</text>
+		<text id="main.listCol.installed" h="DECE7C42">Asennettu</text>
+		<text id="main.state.warning" h="95988032">Tracker-tuotteita ei ole asennetttuna.</text>
+		<text id="existing.dlg.name" h="C0C93CE4">Asennetut tuotteet</text>
+		<text id="existing.btn.close" h="9594DBB7">Sulje</text>
+		<text id="existing.listCol.name" h="D18643E3">Nimi</text>
+		<text id="existing.listCol.version" h="F76458F4">Versio</text>
+		<text id="progress.txt.pageHedear.installing" h="117B6562">Asennetaan päivityksiä, odota... </text>
+		<text id="progress.txt.pageHedear.finished" h="A4834E77">Suoritettu.</text>
+		<text id="progress.txt.pageHedear.downloading" h="15200E48">Ladataan päivitystä %1/%2, odota...</text>
+		<text id="progress.txt.downloaded" h="7F7E73C2">Ladattu</text>
+		<text id="progress.txt.totalSize" h="E542B598">Kokonaiskoko</text>
+		<text id="progress.txt.averageSpeed" h="B07DD6C6">Keskinopeus</text>
+		<text id="progress.txt.timeRemaining" h="EBAC62EA">Aikaa jäljellä</text>
+		<text id="progress.btn.stop" h="F89FDAAE">Pysäytä</text>
+		<text id="progress.btn.back" h="F8750C11">Takaisin</text>
+		<text id="progress.btn.exit" h="748EB8A1">Lopeta</text>
+		<text id="progress.btn.done" h="68F991B5">Valmis</text>
+		<text id="progress.btn.installWithTimer" h="83E409E9">Asenna (%1)</text>
+		<text id="progress.btn.install" h="9F075946">Asenna</text>
+		<text id="progress.txt.time.aboutMinute" h="1A471830">Noin 1 minuutti</text>
+		<text id="progress.txt.clickToContinue" h="6B000F4A">Napsauta 'Asenna' jatkaaksesi päivitystä.</text>
+		<text id="progress.txt.time.unknown" h="8566CB94">Tuntematon</text>
+		<text id="progress.userMsg.connectToServer" h="179110BC">Yhdistetään palvelimeen %1...</text>
+		<text id="progress.userMsg.connectedSuccessfully" h="51738A9A">Yhteys onnistui.</text>
+		<text id="progress.userMsg.gettingFile" h="7B8DD0BC">Ladataan tiedostoa %1...</text>
+		<text id="progress.userMsg.proxyFail" h="0BB99791">Käyttäjän %1 välityspalvelimen valtuutus epäonnistui</text>
+		<text id="progress.userMsg.errorRequesting" h="071BA7D1">Virhe kysyttäessä tiedostoa '%1'</text>
+		<text id="progress.userMsg.userBreakDownloading" h="741C0781">Käyttäjä keskeytti '%1' tiedoston lataamisen</text>
+		<text id="progress.userMsg.errorDownloading" h="08A92D7A">Tiedoston '%1' lataamisessa esiintyi virhe</text>
+		<text id="progress.userMsg.filedownloaded" h="C2923C57">Tiedosto %1 ladattiin onnistuneesti.</text>
+		<text id="progress.userMsg.unableToConnect" h="875EB6BC">Yhteyden muodostaminen palvelimeen %1 ei onnistu...</text>
+		<text id="progress.userMsg.errorParceURL" h="CF0D1F96">Vihe URL:n suorittamisessa</text>
+		<text id="main.msgBox.newUpdatesAvailable" h="1208BEAF">Palvelimelta on saatavissa uusi päivitys. Haluatko ladata sen nyt?</text>
+		<text id="main.msgBox.newVersionOfTracker" h="14EF65E8">Uusi versio Tracker Updaterista on saatavana, ja se on asennettavaennen jatkamista. Haluatko päivittää sen nyt?</text>
+		<text id="progress.msgBox.askStartInstall" h="51A613BC">Oletko valmis aloittamaan ladattujen päivitysten asennuksen?</text>
+		<text id="progress.msgBox.askRebootAfterInstallPart1" h="1B90BEF6">Tietokone täytyy käynnistää uudelleen, jotta muutokset astuvat voimaan.</text>
+		<text id="progress.msgBox.askRebootAfterInstallPart2" h="4D247ABD">Haluatko käynnistää uudelleen nyt?</text>
+		<text id="progress.userMsg.downloadingStarted" h="6DC1B7E7">Lataus käynnistetty.</text>
+		<text id="progress.userMsg.downloadingFinished" h="46E2EC7E">Lataus valmistui.</text>
+		<text id="progress.userMsg.installSkipped" h="A5730336">Asennus ohitettu. </text>
+		<text id="progress.userMsg.installingStarted" h="13E62395">Asennus aloitettu. </text>
+		<text id="progress.userMsg.installingFinished" h="AC89DE70">Asennus valmistui.</text>
+		<text id="progress.userMsg.installingRebootRequired" h="F3062B13">Uudelleenkäynnistys vaaditaan.</text>
+		<text id="progress.userMsg.packageHasInvalidHash" h="009F880A">'%1' -paketissa on ongelmia.</text>
+		<text id="progress.userMsg.packageInstalationStarted" h="7F8B3B69">'%1' -paketin asennus aloitettu.</text>
+		<text id="progress.userMsg.packageInstalationFailed" h="2B458CDE"> '%1' -paketin asennus epäonnistui. </text>
+		<text id="progress.userMsg.userBreakInstalling" h="0C3382A0">Käyttäjä keskeytti  '%1' -paketin asennuksen </text>
+		<text id="progress.userMsg.userCanceledInstalling" h="01F91004">Käyttäjä peruutti asennuksen.</text>
+		<text id="progress.txt.speedValue" h="E0217E21">%1  KB/sek</text>
+		<text id="progress.txt.sizeValue" h="CCB7B0F4">%1 KB (%2 tavua)</text>
+		<text id="progress.txt.sec" h="CEB4987D">%1 sek</text>
+		<text id="progress.txt.min" h="08103A63">%1 min</text>
+		<text id="progress.txt.hour" h="CDADDDAA">%1 tuntia</text>
+		<text id="settings.txt.noShedule" h="F1BADD25">Ei aikataulua</text>
+		<text id="main.msgBox.prepareDataText" h="A0AC1F07">Loki tallennettiin tänne: %1. Lähetä viesti osoitteeseen %2 ongelmakuvauksen kanssa ja liitä tämä tiedosto mukaan. Haluatko avata lokin sisältävän kansion?</text>
+		<text id="main.msgBox.prepareDataCaption" h="3084BBD4">Valmistellaan dataraporttia...</text>
+		<text id="logDlg.context.copy" h="348DE55D">Kopioi</text>
+		<text id="logDlg.context.enableAutoScroll" h="418EBA20">Ota automaattinen vieritys käyttöön</text>
+		<text id="logDlg.context.disableAutoScroll" h="1222DA17">Poista automaattinen vieritys käytöstä</text>
+		<text id="progress.userMsg.downloadFailed" h="ECCCF9A3">Päivityksiä ei ladattu </text>
+		<text id="progress.userMsg.adminRightsReject" h="3F1C4DFD">Poistamiseen vaaditaan pääkäyttäjän oikeudet.</text>
+		<text id="scheduler.txt.recurEvery" h="E86F8BDB">Toista joka:</text>
+		<text id="scheduler.txt.weeks" h="C36D0B1F">viikkoa</text>
+		<text id="scheduler.txt.days" h="7AD34862">päivää</text>
+		<text id="scheduler.txt.start" h="D0E7B7BC">Aloita:</text>
+		<text id="scheduler.txt.schedulerDisabled" h="77C6980A">Ajastin pois käytöstä</text>
+		<text id="scheduler.chBox.sunday" h="8F1994C3">Sunnuntai</text>
+		<text id="scheduler.chBox.monday" h="5ABCBB00">Maanantai</text>
+		<text id="scheduler.chBox.tuesday" h="86A20B4F">Tiistai</text>
+		<text id="scheduler.chBox.wednesday" h="66E67084">Keskiviikko</text>
+		<text id="scheduler.chBox.thursdat" h="DE9BC0A4">Torstai</text>
+		<text id="scheduler.chBox.friday" h="F3BB1C4F">Perjantai</text>
+		<text id="scheduler.chBox.saturday" h="38E79019">Lauantai</text>
+		<text id="scheduler.radioBtn.onlyShowNotification" h="6534C15A">Näytä vain ilmoitus </text>
+		<text id="scheduler.radioBtn.automaticDownload" h="1819F958">Lataa saatavilla olevat päivitykset automaattisesti</text>
+		<text id="scheduler.chBox.wakeTheComputer" h="60C8B46E">Herätä tietokone suorittamaan tämä tehtävä</text>
+		<text id="scheduler.radioBtn.never" h="2B0D94AA">Ei koskaan</text>
+		<text id="scheduler.radioBtn.daily" h="D4192C96">Päivittäin</text>
+		<text id="scheduler.radioBtn.weekly" h="F5E7580A">Viikoittain</text>
+		<text id="scheduler.radioBtn.monthly" h="DFE427B6">Kuukausittain</text>
+		<text id="scheduler.grBox.general" h="30673BCD">Yleiset</text>
+		<text id="scheduler.comBox.first" h="D7CC2CC2">Ensimmäinen</text>
+		<text id="scheduler.comBox.second" h="FE7A8C73">Toinen</text>
+		<text id="scheduler.comBox.third" h="A352FAE5">Kolmas</text>
+		<text id="scheduler.comBox.fourth" h="EB6E5748">Neljäs</text>
+		<text id="scheduler.comBox.last" h="70BC4722">Viimeinen</text>
+		<text id="scheduler.radioBtn.day" h="A21EDE78">Päivä:</text>
+		<text id="scheduler.radioBtn.specificDate" h="61688DB5">Määrätty päivä</text>
+		<text id="scheduler.chBox.january" h="087B2F92">Tammikuu</text>
+		<text id="scheduler.chBox.february" h="A468CF34">Helmikuu</text>
+		<text id="scheduler.chBox.march" h="4AA7C642">Maaliskuu</text>
+		<text id="scheduler.chBox.april" h="EB5B3219">Huhtikuu</text>
+		<text id="scheduler.chBox.may" h="315EB494">Toukokuu</text>
+		<text id="scheduler.chBox.june" h="DF3EA27A">Kesäkuu</text>
+		<text id="scheduler.chBox.july" h="934037AC">Heinäkuu</text>
+		<text id="scheduler.chBox.august" h="F741CCEC">Elokuu</text>
+		<text id="scheduler.chBox.september" h="27819FF0">Syyskuu</text>
+		<text id="scheduler.chBox.october" h="15BA27E1">Lokakuu</text>
+		<text id="scheduler.chBox.november" h="C8D0282F">Marraskuu</text>
+		<text id="scheduler.chBox.december" h="7AEFD274">Joulukuu</text>
+		<text id="settings.btn.save" h="B120B787">Tallenna</text>
+		<text id="settings.btn.cancel" h="08961956">Peruuta</text>
+		<text id="settings.tabItem.general" h="30673BCD">Yleiset</text>
+		<text id="settings.tabItem.autostart" h="DAB331BD">Automaattinen käynnistys</text>
+		<text id="scheduler.txtBox.day" h="A21EDE78">Päivä:</text>
+		<text id="scheduler.txtBox.week" h="AD8BFC83">Viikko:</text>
+		<text id="scheduler.msgBox.saveSchedulerError" h="C70CA03C">Autostart-tehtävää ei voi tallentaa!</text>
+		<text id="scheduler.txtBox.dontHavePermission" h="26DDF955">Sinulla ei ole oikeuksia muokata toimintoa. Napsauta 'Suorita pääkäyttäjänä' ja yritä uudelleen.</text>
+		<text id="scheduler.btn.runAsAdministrator" h="405279C2">Suorita pääkäyttäjänä </text>
+		<text id="history.list.details" h="AEE125D6">Yksityiskohdat</text>
+		<text id="history.list.status" h="922A166F">Tila:</text>
+		<text id="history.list.installedOn" h="C6F19FCA">Asennettu:</text>
+		<text id="history.list.successfullyInstalled" h="F63D7CC9">Päivityksen asennus onnistui.</text>
+		<text id="history.list.emptyHistory" h="D65E5890">Päivityshistoriaa ei ole.</text>
+		<text id="progress.msg.installQuestion" h="BF2CB299">Päivitykset ladattu. Jatka päivistystä napsauttamalla 'Asenna'.</text>
+		<text id="trayMenu.updatesList" h="B08D6B01">Päivitysluettelo</text>
+		<text id="trayMenu.installed" h="B4602F1B">Asennetut tuotteet...</text>
+		<text id="trayMenu.updateHistory" h="2A22C89B">Päivityshistoria</text>
+		<text id="trayMenu.settings" h="EC675489">Asetukset...</text>
+		<text id="trayMenu.help" h="2C29CD29">Ohje...</text>
+		<text id="trayMenu.about" h="06AA44B8">Tietoja...</text>
+		<text id="about.dlg.name" h="F2596574">Tietoja</text>
+		<text id="about.btn.ok" h="BA8105F8">Ok</text>
+		<text id="about.txt.description.part1" h="D17E4313">Tracker Updater auttaa sinua varmistamaan nopeasti ja helposti, että PDF-XChange -tuotteet ovat ajan tasalla.</text>
+		<text id="about.txt.description.part2" h="46D79C52">Tracker Updater toimii automaattisesti aikataulun mukaan tai manuaalisesti PDF-XChange Editorin Ohje-valikosta tai tietokoneen Käynnistä-valikosta.</text>
+		<text id="about.dlg.version" h="2558B135">Versio: %1</text>
+	</Strings>
+</Localization>

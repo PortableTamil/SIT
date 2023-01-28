@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220334">2.00.00</Version>
+	<Author>Andy Chen</Author>
+	<Copyright></Copyright>
+	<Product id="XCShellMenu"/>
+	<Language eName="Chinese (Traditional, Taiwan)" lName="中文(繁體)" code="zh-TW" R2L="true"/>
+	<Module name="XCShellMenu" namespace="" version="6.0.322.7"/>
+	<Strings>
+		<text id="menu.open" h="D08F8302">使用 PDFXChange 編輯器打開</text>
+		<text id="menu.combine" h="BF3B40FB">使用 PDFXChange 編輯器合併</text>
+		<text id="menu.open.help" h="DB2C9B04">使用 PDFXChange 編輯器打開檔案</text>
+		<text id="menu.combine.help" h="3E8460C6">使用 PDFXChange 合併檔案</text>
+	</Strings>
+</Localization>

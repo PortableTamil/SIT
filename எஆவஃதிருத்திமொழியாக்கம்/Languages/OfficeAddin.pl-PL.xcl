@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627200315">2.00.00</Version>
+	<Author>Logilink</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXDriver"/>
+	<Language eName="Polish (Poland)" lName="Polski" code="pl-PL" R2L="false"/>
+	<Module name="officeAddin" namespace="addin" version="7.0.325.10"/>
+	<Strings>
+		<text id="settings.title" h="F15A1E8C">Ustawienia PDF-XChange</text>
+		<text id="Bookmark.Column0" h="C091D68E">Styl</text>
+		<text id="Bookmark.Column1" h="710B61B4">Typ</text>
+		<text id="Bookmark.Column2" h="FBB97B48">Poziom</text>
+		<text id="Bookmark.TypeCustom" h="A918FF38">Własne</text>
+		<text id="Bookmark.TypeStandard" h="C6DA1F99">Standardowe</text>
+		<text id="BorderStyle.Dashed" h="39AEAEE8">Przerywana</text>
+		<text id="BorderStyle.Dotted" h="59B655A2">Kropkowane</text>
+		<text id="BorderStyle.Solid" h="9C9EA9A8">Ciągły</text>
+		<text id="BorderType.None" h="B6C5BE05">Bez ramek</text>
+		<text id="BorderType.Rect" h="7D22CD90">Prostokąt</text>
+		<text id="BorderType.Underline" h="2A187377">Podkreślenie</text>
+		<text id="DefaultProfile" h="67249AEE">Ustawienia domyślne</text>
+		<text id="DefaultProfileDesc" h="BB9A105F">Domyślne ustawienia dodatku Office</text>
+		<text id="EndnoteProgress" h="529B97AF">Przetwarzanie przypisu końcowego</text>
+		<text id="FootnoteProgress" h="A6605BD0">Przetwarzanie przypisu dolnego</text>
+		<text id="Group.C.Name" h="ACF7EBD1">Utwórz PDF</text>
+		<text id="Group.S.Name" h="9147CD71">Ustawienia</text>
+		<text id="HeaderProgress" h="05E7B20C">Przetwarzanie nagłówków</text>
+		<text id="InternalRefsProgress" h="C2BBD553">Przetwarzanie wewnętrznych odsyłaczy</text>
+		<text id="LinkProgress" h="108F709A">Przetwarzanie linków</text>
+		<text id="MCmd.SaveAs.Desc" h="6F4ACA50">Zapisz bieżący dokument jako plik PDF, używając PDF-XChange</text>
+		<text id="MCmd.SaveAs.KeyTip" h="24ABE339">K</text>
+		<text id="MCmd.SaveAs.Name" h="7FC0B24F">&amp;Zapisz jako plik PDF</text>
+		<text id="MCmd.SaveAs.SuperTip" h="6F4ACA50">Zapisz bieżący dokument jako plik PDF, używając PDF-XChange</text>
+		<text id="MCmd.eMail.Desc" h="AAFB0EEB">Utwórz plik PDF z bieżącego dokumentu i wyślij go e-mailem za pomocą PDF-XChange</text>
+		<text id="MCmd.eMail.KeyTip" h="72F144BF">E</text>
+		<text id="MCmd.eMail.Name" h="8180E3CA">&amp;Utwórz PDF i e-mail</text>
+		<text id="MCmd.eMail.SuperTip" h="AAFB0EEB">Utwórz plik PDF z bieżącego dokumentu i wyślij go e-mailem za pomocą PDF-XChange</text>
+		<text id="Menu.Name" h="4C8C428F">PDF-XChange</text>
+		<text id="Menu.Name.Acro" h="10548B2B">PDF-XChange dla AcroPlot Pro</text>
+		<text id="Msg.ApplyProfile" h="B138997E">Czy na pewno chcesz zastosować wybrany profil?</text>
+		<text id="Msg.DeleteDefProfile" h="525BD8C5">Nie można usunąć bieżącego profilu. Wybierz inny profil jako domyślny zanim usuniesz ten profil.</text>
+		<text id="Msg.DeleteProfile" h="2A0B9CEB">Czy na pewno chcesz usunąć ten profil?</text>
+		<text id="Msg.DuplicateProfileName" h="A74F5AE8">Profil o tej nazwie już istnieje! Czy chcesz zastąpić ten profil?</text>
+		<text id="Msg.DuplicateProfileName2" h="34672AFB">Profil o tej nazwie już istnieje! Podaj unikalną nazwę profilu.</text>
+		<text id="Msg.EmptyProfileName" h="2B7E72C0">Nazwa profilu nie może być pusta!</text>
+		<text id="Msg.ExistingProfile" h="40545C96">Profil o nazwie '%1' już istnieje. Czy chcesz go nadpisać?</text>
+		<text id="Msg.ExistingProfile2" h="644B2B1B">Profil o nazwie '%1' już istnieje. Możesz go zastąpić nowym profilem lub użyć innej nazwy dla nowego profilu.</text>
+		<text id="Msg.ExistingProfile3" h="6D39539C">Profil o nazwie '%1' już istnieje. Musisz użyć innej nazwy dla nowego profilu.</text>
+		<text id="Msg.NoPrinter" h="E42BE694">Sterownik drukarki PDF-XChange nie został znaleziony lub nie można go załadować. Zainstaluj go ponownie.</text>
+		<text id="Msg.Title.Error" h="51BFF51D">Błąd</text>
+		<text id="MsgProfile.Protected" h="982F8083">Nie można modyfikować ani usuwać profilu zdefiniowanego przez administratora lokalnego.</text>
+		<text id="Page.Advanced" h="59A2B513">Zaawansowane</text>
+		<text id="Page.Bookmarks" h="E2032460">Zakładki</text>
+		<text id="Page.Excel" h="35C252B3">Opcje Excel</text>
+		<text id="Page.Links" h="6E16975C">Linki</text>
+		<text id="Page.PowerPoint" h="12124956">Opcje PowerPoint</text>
+		<text id="Page.Settings" h="9147CD71">Ustawienia</text>
+		<text id="Page.Visio" h="03CE54E1">Opcje Visio</text>
+		<text id="Page.Word" h="D263E6D0">Opcje Worda</text>
+		<text id="Profile.Comment" h="3F85462D">Komentarz</text>
+		<text id="Profile.Name" h="D18643E3">Nazwa</text>
+		<text id="Profile.NewName" h="5A67CE17">Nowy profil</text>
+		<text id="Progress" h="2F37A906">%1: %2%% ukończono</text>
+		<text id="RCmd.Convert.KeyTip" h="24ABE339">K</text>
+		<text id="RCmd.Convert.Name" h="3B5A05C5">Konwertuj na PDF</text>
+		<text id="RCmd.Convert.SuperTip" h="1725521C">Konwertuj dokument na PDF</text>
+		<text id="RCmd.EditProfile.KeyTip" h="72F144BF">E</text>
+		<text id="RCmd.EditProfile.Name" h="19CBFB1E">Edytuj ustawienia</text>
+		<text id="RCmd.EditProfile.ScreenTip" h="19CBFB1E">Edytuj ustawienia</text>
+		<text id="RCmd.EditProfile.SuperTip" h="11200378">Edytuj bieżące ustawienia dla konwersji dokumentu do PDF. Oryginalny profil nie zostanie zmodyfikowany.</text>
+		<text id="RCmd.ManageProfiles.KeyTip" h="BA28CEB7">Z</text>
+		<text id="RCmd.ManageProfiles.Name" h="B559F46B">&amp;Zarządzaj profilami</text>
+		<text id="RCmd.ManageProfiles.ScreenTip" h="B3D65114">Zarządzaj profilami</text>
+		<text id="RCmd.ManageProfiles.SuperTip" h="0039EBFD">Wyświetla okno dialogowe do zarządzania listą profili. Profile można klonować, zmieniać ich nazwę, usuwać itp.</text>
+		<text id="RCmd.Profiles.KeyTip" h="4544A2AB">P</text>
+		<text id="RCmd.Profiles.ScreenTip" h="D6837626">Aktualny profil</text>
+		<text id="RCmd.Profiles.SuperTip" h="2829A636">Pokazuje profil, który był używany jako źródło bieżących ustawień.</text>
+		<text id="RCmd.SaveAsProfile.KeyTip" h="6E69F168">Z</text>
+		<text id="RCmd.SaveAsProfile.Name" h="F338E347">Zapisz profil jako</text>
+		<text id="RCmd.SaveAsProfile.ScreenTip" h="F338E347">Zapisz profil jako</text>
+		<text id="RCmd.SaveAsProfile.SuperTip" h="1977811A">Zapisuje bieżące ustawienia jako nowy profil.</text>
+		<text id="RCmd.Setup.KeyTip" h="6E69F168">U</text>
+		<text id="RCmd.Setup.Name" h="9147CD71">Ustawienia</text>
+		<text id="RCmd.Setup.SuperTip" h="EFD54100">Skonfiguruj preferencje dla procesu tworzenia pliku PDF</text>
+		<text id="RCmd.eMail.KeyTip" h="72F144BF">E</text>
+		<text id="RCmd.eMail.Name" h="8180E3CA">&amp;Utwórz PDF i e-mail</text>
+		<text id="RCmd.eMail.SuperTip" h="B43480FF">Utwórz plik PDF z bieżącego dokumentu i wyślij go e-mailem</text>
+		<text id="Ribbon.Caption" h="4C8C428F">PDF-XChange</text>
+		<text id="Ribbon.Caption.Acro" h="10548B2B">PDF-XChange dla AcroPlot Pro</text>
+		<text id="Settings.Title" h="E0776D9E">Opcje PDF-XChange</text>
+		<text id="Settings.Title.AcroPlot" h="899B9FFA">Opcje PDF-XChange dla AcroPlot Pro</text>
+		<text id="Toolbar.Name" h="4C8C428F">PDF-XChange</text>
+		<text id="Toolbar.Name.Acro" h="10548B2B">PDF-XChange dla AcroPlot Pro</text>
+		<text id="TransitionProgress" h="9FF6C6E7">Przetwarzanie przejść</text>
+		<text id="U3DObjectProgress" h="4531AF6D">Przetwarzanie obiektów U3D Actify</text>
+		<text id="WebForms" h="CAE81AE2">Przetwarzanie formularzy internetowych</text>
+		<text id="adv.compress3d" h="7BB049FD">Kompresuj strumienie U3D (wolniejsze)</text>
+		<text id="adv.docInfo" h="F0272E80">&amp;Konwertuj informacje o dokumencie</text>
+		<text id="adv.enable3d" h="DE910287">Zezwalaj na rozpoznawanie Actify 3D</text>
+		<text id="adv.g1.title" h="818270A0">Opcje zaawansowane</text>
+		<text id="adv.g2.title" h="516D6797">Opcje Actify SFO</text>
+		<text id="adv.prompt" h="25DF82DF">&amp;Pytaj o nazwę pliku PDF</text>
+		<text id="adv.removeAfterEmail" h="DDB35F39">&amp;Usuń plik PDF po wysłaniu e-maila</text>
+		<text id="adv.run" h="0EDB56E0">&amp;Uruchom domyślną aplikację dla plików PDF po konwersji</text>
+		<text id="adv.save.before" h="C9BE1A86">&amp;Zapisz dokument przed konwersją</text>
+		<text id="adv.save.toOrigin" h="F34DC54F">&amp;Zapisz dokument w oryginalnym folderze dokumentów</text>
+		<text id="bkm.btn.clearAll" h="08DF5F04">&amp;Wyczyść wszystko</text>
+		<text id="bkm.btn.selectAll" h="CF8E2B6C">&amp;Wybierz wszystko</text>
+		<text id="bkm.enable" h="5021B066">&amp;Generuj zakładki w pliku wynikowym PDF</text>
+		<text id="bkm.expandAll" h="9C0CA419">&amp;Rozwiń wszystkie zakładki</text>
+		<text id="bkm.g1.title" h="0E415522">Dostępne style</text>
+		<text id="btn.clone" h="47D4FEC1">&amp;Klonuj</text>
+		<text id="btn.delete" h="9421FE90">&amp;Usuń...</text>
+		<text id="btn.rename" h="8D2D4BFD">&amp;Zmień nazwę...</text>
+		<text id="dlg.addProfile" h="61A918CC">Dodaj/edytuj profil</text>
+		<text id="dlg.manageProfiles" h="CED5F01E">Menedżer profili</text>
+		<text id="excel.g1.title" h="CE5217C6">Arkusze do konwersji</text>
+		<text id="excel.rb.active" h="B6F37C98">&amp;Tylko aktywny arkusz</text>
+		<text id="excel.rb.range" h="CF13DFA5">&amp;Arkusze z zakresu:</text>
+		<text id="excel.rb.workbook" h="5619E7F2">&amp;Cały skoroszyt</text>
+		<text id="forms.enable" h="3293C87D">&amp;Konwertuj formularze internetowe</text>
+		<text id="forms.rev" h="8886F268">&amp;Konwertuj adiustacje recenzji</text>
+		<text id="links.b.color" h="20E74546">&amp;Kolor ramki:</text>
+		<text id="links.b.style" h="8CB0F062">&amp;Styl ramki:</text>
+		<text id="links.b.type" h="F1E3B439">&amp;Typ ramki:</text>
+		<text id="links.b.width" h="A7B7BD94">&amp;Szerokość ramki:</text>
+		<text id="links.crossDoc" h="900A9DAB">Linki do innych dokumentów</text>
+		<text id="links.crossRef" h="232E0A3E">Linki do odsyłaczy</text>
+		<text id="links.enable" h="1C059FA2">Generuj linki w pliku wynikowym PDF</text>
+		<text id="links.ext" h="4649B6CA">Zmień rozszerzenie pliku na PDF</text>
+		<text id="links.footnote" h="4D696ED9">Linki do przypisu dolnego i końcowego</text>
+		<text id="links.g1.title" h="5000B228">Konwertuj linki MS Office</text>
+		<text id="links.g2.title" h="3D4B6D6F">Wygląd linków</text>
+		<text id="links.g3.title" h="A6B53E0B">Linki do innych dokumentów</text>
+		<text id="links.relative" h="88BAD1C5">Adres docelowego dokumentu ze względną nazwą ścieżki</text>
+		<text id="links.web" h="BAB40145">Linki internetowe</text>
+		<text id="page.adv" h="59A2B513">Zaawansowane</text>
+		<text id="page.bookmarks" h="E2032460">Zakładki</text>
+		<text id="page.excel" h="35C252B3">Opcje Excel</text>
+		<text id="page.forms" h="D263E6D0">Opcje Worda</text>
+		<text id="page.links" h="6E16975C">Linki</text>
+		<text id="page.powerpoint" h="12124956">Opcje PowerPoint</text>
+		<text id="page.visio" h="03CE54E1">Opcje Visio</text>
+		<text id="pp.bookmark" h="EF53BE72">&amp;Umieść każdy slajd jako zakładkę</text>
+		<text id="pp.transitions" h="204B92D3">&amp;Konwertuj przejście slajdu</text>
+		<text id="prof.l.comment" h="D41C404F">&amp;Komentarz:</text>
+		<text id="prof.l.name" h="09FAD31D">&amp;Nazwa:</text>
+		<text id="profile.manage.g1.title" h="C71AA825">Dostępne profile</text>
+		<text id="visio.allPages" h="2DE2282D">&amp;Konwertuj wszystkie strony</text>
+	</Strings>
+</Localization>

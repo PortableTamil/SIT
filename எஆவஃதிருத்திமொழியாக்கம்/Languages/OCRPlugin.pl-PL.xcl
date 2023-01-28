@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627193933">2.00.00</Version>
+	<Author>Maciej Bojakowski, Marek Szczepański, Logilink</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Polish (Poland)" lName="Polski (Polska)" code="pl-PL" R2L="false"/>
+	<Module name="OCRPlugin" namespace="ocr" version="7.0.325.10"/>
+	<Strings>
+		<text id="OrientationDetection" h="40F7AA0E">Automatyczne wykrywanie orientacji</text>
+		<text id="accuracy.high" h="21A95620">Wysoka</text>
+		<text id="accuracy.low" h="845E3D8C">Niska</text>
+		<text id="accuracy.medium" h="91153342">Średnia</text>
+		<text id="cb.cuenoany" h="899F9872">Brak zainstalowanych</text>
+		<text id="cmd.name" h="6DAA8A17">Strony OCR...</text>
+		<text id="l.accuracy" h="3B2028D8">&amp;Dokładność:</text>
+		<text id="l.language" h="7B707020">&amp;Język:</text>
+		<text id="lnk.more" h="2E2CCD84">&lt;a=1&gt;Więcej języków...&lt;/a&gt;</text>
+		<text id="prefs.title" h="D0975E29">Opcje OCR</text>
+	</Strings>
+</Localization>

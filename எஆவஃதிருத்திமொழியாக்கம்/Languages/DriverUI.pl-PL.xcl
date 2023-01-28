@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627200227">2.00.00</Version>
+	<Author>Logilink</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXDriver"/>
+	<Language eName="Polish (Poland)" lName="Polski" code="pl-PL" R2L="false"/>
+	<Module name="DriverUI" namespace="" version="7.0.325.10"/>
+	<Strings>
+		<text id="btn.ok" h="FEF0C771">&amp;OK</text>
+		<text id="btn.cancel" h="3D302A38">&amp;Anuluj</text>
+		<text id="btn.yes" h="E38DE015">&amp;Tak</text>
+		<text id="btn.no" h="B7A441B2">&amp;Nie</text>
+		<text id="btn.default" h="F24132BD">&amp;Domyślne</text>
+		<text id="btn.retry" h="82619C32">&amp;Ponów</text>
+		<text id="btn.add" h="B1378310">&amp;Dodaj</text>
+		<text id="btn.add_" h="9B7E8822">&amp;Dodaj...</text>
+		<text id="btn.remove" h="FCE39C1F">Usuń</text>
+		<text id="btn.remove_" h="C733C727">&amp;Usuń...</text>
+		<text id="btn.browse" h="61C204E1">Przeglądaj...</text>
+		<text id="btn.browse.dot" h="89B34A98">...</text>
+		<text id="btn.close" h="6298A5AF">&amp;Zamknij</text>
+		<text id="btn.saveAs" h="34A2687C">Zapisz jako...</text>
+		<text id="None" h="F9398D7D">Brak</text>
+		<text id="None2" h="18A77318">&lt;Żadne&gt;</text>
+		<text id="Yes" h="DC948BC4">Tak</text>
+		<text id="No" h="6651A799">Nie</text>
+		<text id="issuer" h="278A5A41">Wydawca</text>
+		<text id="expirationDate" h="62A26CAB">Data wygaśnięcia</text>
+		<text id="certificate.noname" h="7E323CFC">&lt;Nazwa niedostępna&gt;</text>
+		<text id="Auto" h="471FE15D">Auto</text>
+		<text id="Mixed" h="B107EE41">Mieszany</text>
+		<text id="Default" h="B6EF2024">Domyślnie</text>
+		<text id="MoreColors" h="8E37A577">Więcej kolorów...</text>
+		<text id="StdColors" h="E77B1524">Kolory standardowe</text>
+		<text id="CustColors" h="E549B850">Własne kolory</text>
+		<text id="True" h="2C126145">Tak</text>
+		<text id="False" h="6E2C778C">Nie</text>
+		<text id="propGroup.general" h="30673BCD">Ogólne</text>
+		<text id="propGroup.other" h="4D02ADCA">Inne</text>
+		<text id="rangesNavigator.delSelRange" h="1679F90E">Usuń wybrany zakres</text>
+		<text id="rangesNavigator.addNewRange" h="21AD5513">Dodaj nowy zakres</text>
+		<text id="NoDesc2" h="18F77191">&lt;Brak opisu&gt;</text>
+		<text id="Undo" h="86E67B4B">Cofnij</text>
+		<text id="Redo" h="E6E48291">Ponów</text>
+		<text id="Cut" h="61816B61">Wytnij</text>
+		<text id="Copy" h="348DE55D">Kopiuj</text>
+		<text id="Paste" h="2BCB0ED4">Wklej</text>
+		<text id="Delete" h="D8FE3F70">Usuń</text>
+		<text id="Select" h="3E697735">Wybierz</text>
+		<text id="SelectAll" h="35E0E32F">Wybierz wszystko</text>
+		<text id="DeselectAll" h="699E910A">Odznacz wszystko</text>
+		<text id="Ignore" h="84719564">Ignoruj</text>
+		<text id="IgnoreAll" h="8DA1370A">Ignoruj wszystko</text>
+		<text id="TextStyle" h="1FF454A3">Styl tekstu</text>
+		<text id="NoSuggestions" h="486A5F0F">(Brak propozycji poprawek)</text>
+		<text id="AddToDict" h="1E16C146">Dodaj do słownika</text>
+		<text id="TextDirection" h="9A7C92FA">Kierunek tekstu</text>
+		<text id="color.Black" h="8EC6ABE8">Czarny</text>
+		<text id="color.Brown" h="7FF1DD0C">Brązowy</text>
+		<text id="color.DarkOliveGreen" h="3B0086DA">Ciemnooliwkowa zieleń</text>
+		<text id="color.DarkGreen" h="32CD6682">Ciemnozielony</text>
+		<text id="color.DarkTeal" h="07E82FA9">Morski ciemny</text>
+		<text id="color.DarkBlue" h="948A3D4C">Ciemnoniebieski</text>
+		<text id="color.Indigo" h="A2D50E5C">Indygo</text>
+		<text id="color.DarkGrey" h="53D85A01">Ciemnoszary</text>
+		<text id="color.DarkRed" h="404DA909">Ciemnoczerwony</text>
+		<text id="color.Orange" h="DF701C8C">Pomarańczowy</text>
+		<text id="color.DarkYellow" h="2C647852">Ciemnożółty</text>
+		<text id="color.Green" h="C253AA3A">Zielony</text>
+		<text id="color.Teal" h="3C7828E7">Morski</text>
+		<text id="color.Blue" h="AF1A3A02">Niebieski</text>
+		<text id="color.BlueGrey" h="2DEC56B3">Niebiesko-szary</text>
+		<text id="color.Grey40" h="E3913C79">Szary 40%</text>
+		<text id="color.Red" h="B3D0FF91">Czerwony</text>
+		<text id="color.LightOrange" h="56F40088">Jasnopomarańczowy</text>
+		<text id="color.Lime" h="7FF0C6F3">Limonkowy</text>
+		<text id="color.SeaGreen" h="68AFBFF8">Zieleń morska</text>
+		<text id="color.Aqua" h="FAB1E9A0">Aqua</text>
+		<text id="color.LightBlue" h="45312AF4">Jasnoniebieski</text>
+		<text id="color.Violet" h="301DE95C">Fioletowy</text>
+		<text id="color.Grey50" h="28CDEFDC">Szary 50%</text>
+		<text id="color.Pink" h="D8D260F7">Różowy</text>
+		<text id="color.Gold" h="55646F9C">Złoty</text>
+		<text id="color.Yellow" h="92AA22E7">Żółty</text>
+		<text id="color.BrightGreen" h="883F84F6">Jasnozielony</text>
+		<text id="color.Turquoise" h="26F8E234">Turkusowy</text>
+		<text id="color.Skyblue" h="7BD04AE5">Zieleń morska</text>
+		<text id="color.Plum" h="595D865C">Śliwkowy</text>
+		<text id="color.LightGrey" h="82634DB9">Jasnoszary</text>
+		<text id="color.Rose" h="705E265B">Różany</text>
+		<text id="color.Tan" h="10046351">Jasnobrązowy</text>
+		<text id="color.LightYellow" h="1B2E3EE3">Jasnożółty</text>
+		<text id="color.PaleGreen" h="91D8BB4B">Bladozielony</text>
+		<text id="color.PaleTurquoise" h="8C6FB540">Bladoturkusowy</text>
+		<text id="color.PaleBlue" h="F5990CA0">Bladoniebieski</text>
+		<text id="color.Lavender" h="DC3DBC32">Lawendowy</text>
+		<text id="color.White" h="74152F7B">Biały</text>
+		<text id="edit.InsertText" h="A931622B">Wstaw tekst "%1"</text>
+		<text id="edit.DeleteText" h="AAB9C45C">Usuń tekst "%1"</text>
+		<text id="edit.PasteText" h="6DC029B4">Wklej tekst "%1"</text>
+		<text id="edit.ModifyTextFormat" h="B2A9BA03">Modyfikuj format tekstu</text>
+		<text id="edit.ModifyTextFont" h="E57A5027">Modyfikuj czcionkę tekstu</text>
+		<text id="edit.ModifyTextSize" h="8BDA6FAD">Modyfikuj rozmiar tekstu</text>
+		<text id="edit.ModifyTextColor" h="C187B5B1">Modyfikuj kolor tekstu</text>
+		<text id="edit.ModifyParaFormat" h="A4EFE81F">Modyfikuj format akapitu</text>
+		<text id="edit.ModifyParaAlign" h="5ABCBBF1">Modyfikuj wyrównanie akapitu</text>
+		<text id="edit.SetLanguage" h="D8D265EB">Ustaw język</text>
+		<text id="layout.CloseTab" h="35FC1AA9">Zamknij kartę</text>
+		<text id="layout.DnDAllTabs" h="BC9A3B7F">Przeciągnij i upuść wszystkie karty</text>
+		<text id="layout.ShowTabsThumbs" h="4F46DD77">Pokaż miniaturę karty</text>
+		<text id="layout.ShowSortedTabs" h="2FA2819E">Pokaż posortowane karty</text>
+		<text id="layout.ScrollTabsLeft" h="B23B9425">Przewiń karty w lewo</text>
+		<text id="layout.AddNewTab" h="2C5251EB">Dodaj nową kartę</text>
+		<text id="layout.ScrollTabsRight" h="AA40041A">Przewiń karty w prawo</text>
+		<text id="layout.CloseActiveTab" h="B83CF8F4">Zamknij aktywną kartę</text>
+		<text id="layout.Close" h="9594DBB7">Zamknij</text>
+		<text id="layout.clickToShow" h="E85C828D">Kliknij, aby pokazać</text>
+		<text id="layout.clickToHide" h="AD248B87">Kliknij, aby ukryć</text>
+		<text id="driver.mode.auto" h="471FE15D">Auto</text>
+		<text id="driver.mode.gdi" h="D86FFE0D">GDI</text>
+		<text id="driver.mode.xps" h="45B97450">XPS</text>
+		<text id="rules.column.app" h="66E8E89C">Aplikacja</text>
+		<text id="rules.column.mode" h="97850036">Tryb sterownika</text>
+		<text id="btn.configMode.tooltip" h="59D88CB9">Skonfiguruj reguły trybu sterownika</text>
+		<text id="profile.default.title" h="67249AEE">Domyślne ustawienia</text>
+		<text id="profile.default.desc" h="C63AA327">Domyślne ustawienia sterownika</text>
+		<text id="profile.filter" h="1D42128D">Profil drukarki PDF-XChange (*.pxpp)</text>
+		<text id="profile.title" h="0295B9AE">Wybierz plik profilu</text>
+		<text id="profile.newName" h="5A67CE17">Nowy profil</text>
+		<text id="btn.manage.tooltip" h="02E97817">Edytuj listę dostępnych profili</text>
+		<text id="btn.add.tooltip" h="3EEBE19F">Utwórz nowy profil z bieżącymi ustawieniami</text>
+		<text id="btn.save.tooltip" h="EB7F125C">Zapisz bieżące ustawienia w profilu</text>
+		<text id="tip.settings.modified" h="AFEF528F">Twoje bieżące ustawienia zostały zmienione od czasu zastosowania profilu.
+Aby zapisać ustawienia w profilu, naciśnij przycisk 'Zapisz' lub 'Utwórz'</text>
+		<text id="product.ID" h="0F1AA23D">ID produktu: %1</text>
+		<text id="licence.type" h="02FA2D70">Typ licencji: %1</text>
+		<text id="paper.group.ISO" h="79F157DD">ISO</text>
+		<text id="paper.group.ANSI" h="D7990290">ANSI</text>
+		<text id="paper.group.Envelope" h="1D74D29F">Koperta</text>
+		<text id="paper.group.JIS" h="26B6CFD5">JIS</text>
+		<text id="paper.group.Misc" h="04ADA73E">Różne</text>
+		<text id="paper.group.Custom" h="A918FF38">Własne</text>
+		<text id="sheet.auto" h="471FE15D">Auto</text>
+		<text id="sheet.custom" h="0B8B6CAF">Niestandardowy rozmiar</text>
+		<text id="unit.inch" h="86129307">cal</text>
+		<text id="unit.millimeter" h="C982BDAD">milimetr</text>
+		<text id="unit.point" h="BF2CAA20">punkt</text>
+		<text id="unit.in" h="42AF015F">in</text>
+		<text id="unit.mm" h="E6E0C5CB">mm</text>
+		<text id="unit.pt" h="DF93E391">pkt</text>
+		<text id="paperlayout.standard" h="C6DA1F99">Standard</text>
+		<text id="paperlayout.nUP" h="D4485C9D">Wiele stron na arkuszu</text>
+		<text id="paperlayout.booklet" h="901EA828">Broszura</text>
+		<text id="nUP.1" h="EEAD9B73">1 strona</text>
+		<text id="nUP.2" h="5A659345">2 stron</text>
+		<text id="nUP.4" h="A2A7D8F3">4 stron</text>
+		<text id="nUP.6" h="43C91C5E">6 stron</text>
+		<text id="nUP.8" h="885249DE">8 stron</text>
+		<text id="nUP.9" h="155DA8A8">9 stron</text>
+		<text id="nUP.16" h="1CB9C82C">16 stron</text>
+		<text id="nUP.order.L2R" h="949DEA01">Od lewej do prawej</text>
+		<text id="nUP.order.R2L" h="171EAD0C">Od prawej do lewej</text>
+		<text id="nUP.order.L2R2D" h="C8FF2262">W poprzek od lewej</text>
+		<text id="nUP.order.L2D2R" h="EB9F4ED9">W dół od lewej</text>
+		<text id="nUP.order.R2L2D" h="377AB1A5">W poprzek od prawej</text>
+		<text id="nUP.order.R2D2L" h="744FC8C5">W dół od prawej</text>
+		<text id="bookletType.brochure" h="BC6BC70D">Broszura</text>
+		<text id="bookletType.book" h="88A9D2D9">Książka</text>
+		<text id="langsList.column.name" h="F479395C">Standardowa nazwa</text>
+		<text id="langsList.column.locName" h="45A2C755">Nazwa lokalna</text>
+		<text id="langs.Default" h="A50C20C9">Angielski (US), wbudowany</text>
+		<text id="langs.Auto" h="343D08C2">Użyj ustawień regionalnych</text>
+		<text id="compr.auto" h="471FE15D">Auto</text>
+		<text id="compr.zip" h="D460493A">Flate</text>
+		<text id="compr.jpeg" h="58DE58E0">JPEG</text>
+		<text id="compr.jpeg.zip" h="077BB505">JPEG/ZIP</text>
+		<text id="compr.j2k" h="BDEDDBB8">JPEG 2000</text>
+		<text id="compr.j2k.zip" h="5A9C90B5">JPEG 2000/ZIP</text>
+		<text id="compr.rle" h="82741A51">Run Length</text>
+		<text id="compr.lzw" h="D62F11BD">LZW</text>
+		<text id="compr.ccitt3" h="B7DD624B">CCITT Group 3</text>
+		<text id="compr.ccitt4" h="F89CF48C">CCITT Group 4</text>
+		<text id="compr.jbig2" h="DE3BC257">JBIG 2</text>
+		<text id="compr.jbig2.std" h="C6DA1F99">Standardowe</text>
+		<text id="compr.jbig2.crop" h="089616A4">Granice przycięcia</text>
+		<text id="compr.jbig2.symbol" h="8EB3D116">Kompresja symboli (bezstratna)</text>
+		<text id="conv.none" h="B58BD00F">Bez konwersji</text>
+		<text id="conv.gray" h="AB87F2BA">Konwertuj na skalę szarości</text>
+		<text id="conv.mono" h="CBA1AA37">Konwertuj na monochromatyczny</text>
+		<text id="conv.bw" h="21CB967C">&amp;Konwertuj na czarno-biały</text>
+		<text id="down.none" h="747AEF4D">Bez downsamplingu</text>
+		<text id="down.linear" h="A774B742">Linear downsampling</text>
+		<text id="down.bilinear" h="404DEC83">Bilinear downsampling</text>
+		<text id="down.bicubic" h="8DB42DD1">Bicubic downsampling</text>
+		<text id="align.left" h="8CEAA299">Lewo</text>
+		<text id="align.center" h="CBEFB4D0">Środek</text>
+		<text id="align.right" h="2D8A4EE6">Prawo</text>
+		<text id="align.top" h="249A2BBD">Góra</text>
+		<text id="align.middle" h="D27F520F">Środek</text>
+		<text id="align.bottom" h="08F4AB6F">Dół</text>
+		<text id="overlay.filter" h="21DC74BD">Dokumenty PDF (*.pdf)</text>
+		<text id="overlay.title" h="74E5784A">Wybierz plik nakładki</text>
+		<text id="extrafile.title" h="2844ABF8">Wybierz plik</text>
+		<text id="border.type.none" h="B6C5BE05">Bez obramowania</text>
+		<text id="border.type.underline" h="2A187377">Podkreślenie</text>
+		<text id="border.type.rect" h="7D22CD90">Prostokąt</text>
+		<text id="border.style.solid" h="9C9EA9A8">Ciągła</text>
+		<text id="border.style.dashed" h="39AEAEE8">Przerywana</text>
+		<text id="border.style.dotted" h="59B655A2">Kropkowana</text>
+		<text id="blendMode.mode0" h="168CFA48">Normalne</text>
+		<text id="blendMode.mode1" h="2F76AE4A">Pomnóż</text>
+		<text id="blendMode.mode2" h="CF00816C">Ekran</text>
+		<text id="blendMode.mode3" h="F84F5CCD">Nałóż</text>
+		<text id="blendMode.mode4" h="897F3452">Ciemniej</text>
+		<text id="blendMode.mode5" h="76486572">Jaśniej</text>
+		<text id="blendMode.mode6" h="4BC50C39">Rozjaśnij</text>
+		<text id="blendMode.mode7" h="1C127744">Przypal</text>
+		<text id="blendMode.mode8" h="0E4D1D58">Ostre światło</text>
+		<text id="blendMode.mode9" h="8EBD9A0E">Miękkie światło</text>
+		<text id="blendMode.mode10" h="5C4C0DB6">Różnica</text>
+		<text id="blendMode.mode11" h="55666E14">Wyłączanie</text>
+		<text id="detesselation.mode0" h="F9398D7D">Żaden</text>
+		<text id="detesselation.mode1" h="B05E374B">Prosty</text>
+		<text id="email.method0" h="E67462E4">Uruchom domyślny klient e-mail</text>
+		<text id="email.method1" h="8E35F75F">Wyślij przez domyślny klient e-mail</text>
+		<text id="email.method2" h="D1439B34">Wyślij bezpośrednio przez serwer SMTP</text>
+		<text id="email.mapi.title" h="10BF58CC">Wybierz odbiorców</text>
+		<text id="save.smtp.auth0" h="F9398D7D">Brak</text>
+		<text id="save.smtp.auth1" h="0ACB840D">Użyj STARTTLS</text>
+		<text id="save.smtp.auth2" h="C0BEF71C">Użyj SSL/TLS</text>
+		<text id="saveType.type0" h="7E1941B5">Użyj pdfSaver™ do zarządzania zadaniami</text>
+		<text id="saveType.type1" h="CA86F5C8">Dołącz bieżące zadanie do ostatniego aktywnego zadania</text>
+		<text id="saveType.type2" h="DA754594">Zapisz wygenerowany plik PDF</text>
+		<text id="saveType.type3" h="C59E79F5">Wygeneruj PDF, wyślij e-mailem, a następnie Usuń</text>
+		<text id="saveExists.type0" h="0D4B40B1">Pokaż okno dialogowe ostrzeżenia</text>
+		<text id="saveExists.type1" h="B605C0F3">Zawsze nadpisuj</text>
+		<text id="saveExists.type2" h="A8CFCFB8">Autonumeracja</text>
+		<text id="saveExists.type3" h="1C9B2F2A">Połącz z istniejącym (dołącz do)</text>
+		<text id="saveExists.type4" h="72FE1173">Połącz z istniejącym (wstaw przed)</text>
+		<text id="saveExists.type5" h="A00336E6">Poproś o nową nazwę pliku</text>
+		<text id="save.browseFolder" h="74154CC7">Wybierz folder do przechowywania plików wynikowych</text>
+		<text id="save.app.title" h="B6BC08CF">Wybierz aplikację</text>
+		<text id="save.app.filter.exe" h="A976550E">Plik wykonywalny (*.exe)</text>
+		<text id="save.app.filter.all" h="EEDB8F4F">Wszystkie pliki</text>
+		<text id="hf.header" h="608B00E9">Nagłówek</text>
+		<text id="hf.footer" h="88C45397">Stopka</text>
+		<text id="hf.none" h="5D6722DD">&lt;Brak&gt;</text>
+		<text id="hf.pattern_0" h="962EF85B">Strona %1</text>
+		<text id="hf.pattern_1" h="BE4E95E1">Strona %1 z %2</text>
+		<text id="hf.pattern_2" h="839A130C">Poufny</text>
+		<text id="hf.pattern_3" h="CACAD862">Przygotowane przez %1 %2</text>
+		<text id="bm.mode0" h="0C46ECE4">Wszystkie otwarte</text>
+		<text id="bm.mode1" h="1A56CD8E">Wszystkie zamknięte</text>
+		<text id="bm.mode2" h="DBECA36A">Zdefiniowane przez element</text>
+		<text id="bm.mode3" h="5AC6D86A">Otwórz na poziomie węzła</text>
+		<text id="bm.fstyle0" h="BF452F19">Normalny</text>
+		<text id="bm.fstyle1" h="1D8461F8">Pogrubienie</text>
+		<text id="bm.fstyle2" h="C61EB895">Kursywa</text>
+		<text id="bm.fstyle3" h="1D47AA37">Pogrubiona kursywa</text>
+		<text id="bm.level" h="533D38D5">Poziom %1</text>
+		<text id="encLevel.40RC" h="F45022E3">40-bit RC4 (zgodny z Acrobat 3.0 i nowszym)</text>
+		<text id="encLevel.128RC" h="457934B5">128-bit RC4 (zgodny z Acrobat 5.0 i nowszym)</text>
+		<text id="encLevel.128AES" h="FB60107D">128-bit AES (zgodny z Acrobat 7.0 i nowszym)</text>
+		<text id="encLevel.256AES" h="25B75256">256-bit AES (zgodny z Acrobat 9.0 i nowszym)</text>
+		<text id="encLevel.256AESR6" h="B4496CDA">256-bit AES R6 (zgodny z Acrobat X i nowszym)</text>
+		<text id="enc.changes0" h="F9398D7D">Brak</text>
+		<text id="enc.changes1" h="F5AAD140">Tylko złożenie dokumentu</text>
+		<text id="enc.changes2" h="8D9D64A1">Tylko wypełnianie formularza lub podpisywanie</text>
+		<text id="enc.changes3" h="AF018800">Tworzenie komentarzy, wypełnianie pól formularzy lub podpisywanie</text>
+		<text id="enc.changes4" h="5C078DD2">Ogólne edytowanie, komentowanie i tworzenie pól formularzy</text>
+		<text id="enc.print0" h="50D7EDBB">Nie dozwolone</text>
+		<text id="enc.print1" h="D33F1C80">Niska rozdzielczość</text>
+		<text id="enc.print2" h="1E5C0EC1">W pełni dozwolone</text>
+		<text id="spec.auto" h="471FE15D">Auto</text>
+		<text id="spec.13" h="E6E813F4">Wersja 1.3 (Acrobat v3.0 i nowszy)</text>
+		<text id="spec.14" h="2543EFD8">Wersja 1.4 (Acrobat v5.0 i nowszy)</text>
+		<text id="spec.15" h="4E5114F2">Wersja 1.5 (Acrobat v6.0 i nowszy)</text>
+		<text id="spec.16" h="F5B1EDF8">Wersja 1.6 (Acrobat v7.0 i nowszy)</text>
+		<text id="spec.17" h="95DB0A4E">Wersja 1.7 (Acrobat v8.0 i nowszy)</text>
+		<text id="spec.20" h="48278906">Wersja 2.0</text>
+		<text id="spec.pdfa.1a" h="64CF1485">PDF/A-1a</text>
+		<text id="spec.pdfa.1b" h="4FE24746">PDF/A-1b</text>
+		<text id="spec.pdfa.2a" h="767ABB6B">PDF/A-2a</text>
+		<text id="spec.pdfa.2b" h="5D57E8A8">PDF/A-2b</text>
+		<text id="spec.pdfa.2u" h="58D46C3E">PDF/A-2u</text>
+		<text id="spec.pdfa.3a" h="CEC6DC0E">PDF/A-3a</text>
+		<text id="spec.pdfa.3b" h="E5EB8FCD">PDF/A-3b</text>
+		<text id="spec.pdfa.3u" h="E0680B5B">PDF/A-3u</text>
+		<text id="page.layout.default" h="5D937A45">Domyślny przeglądarka</text>
+		<text id="page.layout.singlePage" h="39A9F056">Pojedyncza strona</text>
+		<text id="page.layout.oneColumn" h="A12E03D3">Ciągły</text>
+		<text id="page.layout.twoPagesLeft" h="1B55DC78">Dwie strony (strona tytułowa)</text>
+		<text id="page.layout.twoPagesRight" h="38D09B41">Dwie strony</text>
+		<text id="page.layout.twoColumnsLeft" h="DAED5097">Dwie kolumny (strona tytułowa)</text>
+		<text id="page.layout.twoColumnsRight" h="CB1E034F">Dwie kolumny</text>
+		<text id="page.mode.default" h="5D937A45">Domyślny przeglądarka</text>
+		<text id="page.mode.none" h="26070E06">Tylko widok stron</text>
+		<text id="page.mode.bookmark" h="224DF1A0">Pokaż panel zakładek</text>
+		<text id="page.mode.thumbnails" h="9B7F1418">Pokaż panel miniatur</text>
+		<text id="page.mode.layers" h="5F54D2D3">Pokaż panel warstw</text>
+		<text id="page.mode.attachments" h="97605CC5">Pokaż panel załączników</text>
+		<text id="page.mode.fullScreen" h="3BC2E4C1">Tryb pełnoekranowy</text>
+		<text id="zoom.default" h="B6EF2024">Domyślnie</text>
+		<text id="zoom.actualSize" h="5E4611C5">Oryginalny rozmiar</text>
+		<text id="zoom.fitPage" h="E07FD6B2">Dopasuj stronę</text>
+		<text id="zoom.fitWidth" h="0AB6EA6C">Dopasuj szerokość</text>
+		<text id="zoom.fitHeight" h="F9EA7C91">Dopasuj wysokość</text>
+		<text id="zoom.fitVisible" h="D1A989D3">Dopasuj widoczne</text>
+		<text id="trans.type.none" h="84AE3030">Brak przejścia</text>
+		<text id="trans.type.replace" h="0AD7C04B">Zastąp</text>
+		<text id="trans.type.split" h="73C7987E">Podziel</text>
+		<text id="trans.type.comb" h="3FC8A185">Grzebień</text>
+		<text id="trans.type.blinds" h="A570ADB5">Żaluzje</text>
+		<text id="trans.type.box" h="39CC4033">Pudełko</text>
+		<text id="trans.type.wipe" h="FC5264CC">Wymaż</text>
+		<text id="trans.type.dissolve" h="49B245E0">Przenikanie</text>
+		<text id="trans.type.glitter" h="72796005">Migotanie</text>
+		<text id="trans.type.flyIn" h="42ABD702">Przylot</text>
+		<text id="trans.type.flyOut" h="714AFAD0">Odlot</text>
+		<text id="trans.type.push" h="25987E96">Pchnięcie</text>
+		<text id="trans.type.cover" h="4F3303D2">Pokrycie</text>
+		<text id="trans.type.uncover" h="62A51AE4">Odsłoń</text>
+		<text id="trans.type.fade" h="7F6B17DC">Wygaszanie</text>
+		<text id="trans.type.random" h="F4885958">Losowo</text>
+		<text id="trans.mode.horIn" h="E83EC000">Poziomo wejście</text>
+		<text id="trans.mode.horOut" h="C0AFB700">Poziomo wyjście</text>
+		<text id="trans.mode.vertIn" h="F33AAC2D">Pionowo wejście</text>
+		<text id="trans.mode.vertOut" h="A481DB98">Pionowo wyjście</text>
+		<text id="trans.mode.hor" h="CDB47C8B">Poziomo</text>
+		<text id="trans.mode.vert" h="508CF71B">Pionowo</text>
+		<text id="trans.mode.in" h="E29DAE61">Wejście</text>
+		<text id="trans.mode.out" h="1643AB1A">Wyjście</text>
+		<text id="trans.mode.0" h="2D8A4EE6">Prawo</text>
+		<text id="trans.mode.45" h="F02DBFA8">W prawo w górę</text>
+		<text id="trans.mode.90" h="2C137999">W górę</text>
+		<text id="trans.mode.135" h="04E1EA36">W lewo w górę</text>
+		<text id="trans.mode.180" h="8CEAA299">Lewo</text>
+		<text id="trans.mode.225" h="5F7E7454">W lewo w dół</text>
+		<text id="trans.mode.270" h="A61C506B">W dół</text>
+		<text id="trans.mode.315" h="B509A0DF">W prawo w dół</text>
+		<text id="dur.pattern" h="CEB4987D">%1 sek</text>
+		<text id="custom.form.name" h="207D7C65">Nazwa formularza</text>
+		<text id="custom.form.sizeMM" h="B16A29F8">Rozmiar (mm)</text>
+		<text id="custom.form.sizeIN" h="E50D5298">Rozmiar (cale)</text>
+		<text id="custom.form.newName" h="F1E2436C">Formularz użytkownika</text>
+		<text id="wtm.column.title0" h="D18643E3">Nazwa</text>
+		<text id="wtm.column.title1" h="51CDB637">Drukuj na</text>
+		<text id="wtm.column.title2" h="8693C3EA">Na tle</text>
+		<text id="wtm.column.title3" h="CD137DE4">Widoczne na</text>
+		<text id="wtm.range.type0" h="32149646">Wszystkie strony</text>
+		<text id="wtm.range.type1" h="C740A6A2">Tylko pierwsza strona</text>
+		<text id="wtm.range.type2" h="3F1B0692">Tylko ostatnia strona</text>
+		<text id="wtm.range.type3" h="82B8C270">Tylko parzyste</text>
+		<text id="wtm.range.type4" h="6B7305B6">Tylko nieparzyste</text>
+		<text id="wtm.type.text" h="4D47FEC5">Tekst znaku wodnego</text>
+		<text id="wtm.type.image" h="785F5EAB">Obraz znaku wodnego</text>
+		<text id="wtm.name.untitled" h="2C821098">&lt;Nieznany&gt;</text>
+		<text id="wtm.visibleOn.view" h="2FCBB32C">Widok</text>
+		<text id="wtm.visibleOn.export" h="6D360289">Eksportuj</text>
+		<text id="wtm.visibleOn.print" h="17CF8D0A">Drukuj</text>
+		<text id="auto.size" h="471FE15D">Auto</text>
+		<text id="wtm.vis.pat1" h="C2D1C6C8">Tylko %1</text>
+		<text id="wtm.vis.pat2" h="811F3E2C">%1 i %2</text>
+		<text id="wtm.vis.pat3" h="B7978C0D">%1, %2 i %3</text>
+		<text id="sign.reason.none" h="18A77318">&lt;Żaden&gt;</text>
+		<text id="sign.reason.author" h="E5EE6464">Jestem autorem tego dokumentu</text>
+		<text id="sign.reason.agreePortions" h="C314149A">Zgadzam się z określonymi częściami tego dokumentu</text>
+		<text id="sign.reason.reviewed" h="82844CFE">Zapoznałem się z tym dokumentem</text>
+		<text id="sign.reason.approving" h="B1A808AB">Zatwierdzam ten dokument</text>
+		<text id="sign.reason.attest" h="69264D74">Potwierdzam dokładność i spójność tego dokumentu</text>
+		<text id="sign.reason.agreeTerms" h="5E38C209">Zgadzam się z warunkami określonymi przez umieszczenie mojego podpisu na tym dokumencie</text>
+		<text id="sign.graphic.none" h="475DB295">Brak grafiki</text>
+		<text id="sign.graphic.image" h="DF6A504B">Obraz z pliku</text>
+		<text id="sign.graphic.name" h="8BFDAB3B">Nazwa jako grafika</text>
+		<text id="cert.filter.PFX" h="57197ADC">Personal Information Exchange (*.pfx, *.p12)</text>
+		<text id="cert.openTitle" h="8488239C">Wybierz plik certyfikatu</text>
+		<text id="cert.saveTitle" h="3F8886F2">Zapisz certyfikat</text>
+		<text id="cert.usage.digisig" h="F9D0083C">Podpisy cyfrowe</text>
+		<text id="cert.usage.encryption" h="7DDDCF40">Szyfrowanie danych</text>
+		<text id="cert.usage.both" h="E107F280">Podpisy cyfrowe i szyfrowanie danych</text>
+		<text id="cert.keyAlg.1024" h="27C369E8">1024-bit RSA</text>
+		<text id="cert.keyAlg.2048" h="E707241F">2048-bit RSA</text>
+		<text id="digisig.password.header" h="96999927">Identyfikator cyfrowy</text>
+		<text id="digisig.password.label" h="726DCB0F">Wprowadź hasło:</text>
+		<text id="digisig.password.label2" h="1CCEC2FE">Wprowadzone hasło jest nieprawidłowe. Proszę podać poprawne hasło:</text>
+		<text id="digisig.certify.DocMDP1" h="B15220D4">Zmiany niedozwolone</text>
+		<text id="digisig.certify.DocMDP2" h="550E66E3">Zezwalaj na wypełnianie formularzy, podpisywanie i tworzenie szablonów stron</text>
+		<text id="digisig.certify.DocMDP3" h="1BFCB157">Zezwalaj na wypełnianie formularzy, podpisywanie, komentowanie i tworzenie szablonów stron</text>
+		<text id="sign.by" h="CFEFFC81">przez %1</text>
+		<text id="dlg.lic.l1" h="D7BC993E">Zainstalowane klucze licencyjne:</text>
+		<text id="dlg.lic.btn.addKey" h="0F0F4E82">&amp;Dodaj nowy numer seryjny...</text>
+		<text id="dlg.lic.title" h="43843004">Klucze licencyjne</text>
+		<text id="lic.User" h="7E7E6177">Użytkownik</text>
+		<text id="lic.Email" h="EABC42C8">E-mail</text>
+		<text id="lic.License" h="D06D20AC">Licencja</text>
+		<text id="lic.licNum" h="B97469F0">numer: %1</text>
+		<text id="lic.KeyData" h="835E068C">Dane klucza</text>
+		<text id="lic.daysLeftTip" h="949D0A02">POZOSTAŁO DNI WAŻNOŚCI</text>
+		<text id="lic.key.expDate" h="CB67C29C">Data wygaśnięcia</text>
+		<text id="lic.key.expDateExp" h="6FBA08FE">okres ważności wygasł</text>
+		<text id="lic.key.expDateLeft" h="604D2189">Pozostało %1 dni ważności</text>
+		<text id="lic.key.state" h="E2F3ED6A">Stan klucza</text>
+		<text id="lic.key.valid" h="A4519C22">WAŻNY</text>
+		<text id="lic.key.expired" h="F6CD9EED">PRZEDAWNIONY</text>
+		<text id="lic.key.blocked" h="B99C4175">ZABLOKOWANE!</text>
+		<text id="lic.key.expiredPart" h="CC7B6389">CZĘŚCIOWO PRZEDAWNIONY</text>
+		<text id="lic.key.renew" h="9E0CAE70">Odnów...</text>
+		<text id="lic.noSerialKeys" h="02AAA3DD">Brak zainstalowanych kluczy licencyjnych...</text>
+		<text id="lic.msg.Title" h="43843004">Klucze licencji</text>
+		<text id="lic.remSerial.Text" h="34FE2748">Czy chcesz usunąć wybrane klucze licencyjne?
+Cofnięcie operacji nie będzie możliwe.</text>
+		<text id="lic.msg.remSerial.Hdr" h="A49A7771">Potwierdź usunięcie klucza(y) licencyjnych.</text>
+		<text id="lic.msg.cpySerial.Text1" h="C7390EF4">Treść wybranych kluczy licencyjnych została skopiowana do schowka.</text>
+		<text id="lic.msg.cpySerial.Text2" h="24BBB950">Pełen opis wybranych kluczy licencyjnych został skopiowany do schowka.</text>
+		<text id="lic.msg.addSerial.Hdr" h="ECE08EA4">Wynik dodawania nowych kluczy licencji:</text>
+		<text id="lic.msg.addSerial.Text11" h="64C435DB">%1 klucz licencyjny został pomyślnie dodany do twojej listy.</text>
+		<text id="lic.msg.addSerial.Text12" h="58D1D708">%1 kluczy licencyjnych zostało pomyślnie dodanych do twojej listy.</text>
+		<text id="lic.msg.addSerial.Text21" h="529FFB06">%1 klucz licencyjny został pominięty, ponieważ już istnieje na liście.</text>
+		<text id="lic.msg.addSerial.Text22" h="2DA01DFD">%1 kluczy licencyjnych zostało pominiętych, ponieważ istnieją już na liście.</text>
+		<text id="lic.msg.addSerial.Text31" h="569F1BFD">%1 klucz licencyjny został odfiltrowany, ponieważ nie jest odpowiedni dla tego produktu.</text>
+		<text id="lic.msg.addSerial.Text32" h="E59ABEEE">%1 kluczy licencyjnych zostało odfiltrowanych, ponieważ nie są odpowiednie dla tego produktu.</text>
+		<text id="lic.msg.addSerial.Text41" h="73FF4C94">%1 klucz licencyjny został pominięty, ponieważ jest nieprawidłowy.</text>
+		<text id="lic.msg.addSerial.Text42" h="CF2052FF">%1 kluczy licencyjnych zostało pominiętych, ponieważ są nieprawidłowe.</text>
+		<text id="lic.msg.addSerialErr.Hdr" h="443BD774">Nie można dodać nowych kluczy licencji.</text>
+		<text id="lic.msg.addSerialErr.Text1" h="9712BF06">Brak ważnych kluczy licencyjnych w schowku.</text>
+		<text id="lic.msg.activateErr.Hdr2" h="7134134A">Nieprawidłowy parametr aktywacji.</text>
+		<text id="lic.msg.activateErr.noKey" h="914AF056">Proszę podać kod aktywacyjny.</text>
+		<text id="lic.msg.activateErr.invKey" h="AC0C8EFB">Proszę podać prawidłowy kod aktywacyjny.</text>
+		<text id="lic.msg.activateErr.noEmail" h="425602D2">Podaj swój adres e-mail. Jest on wymagany w procesie aktywacji.</text>
+		<text id="lic.msg.activateErr.invEmail" h="87A6E4BF">Podany adres e-mail wygląda niepoprawnie.
+
+Czy chcesz użyć tego adresu do aktywacji?</text>
+		<text id="lic.msg.activateErr.invEmail.tip" h="BD3014C1">Uwaga: jeśli podano nieprawidłowy lub nieistniejący adres e-mail, klucz licencyjny nie zostanie wysłany.</text>
+		<text id="lic.Error" h="51BFF51D">Błąd</text>
+		<text id="lic.Unknown2" h="769B45E0">&lt;Nieznany&gt;</text>
+		<text id="lic.msg.activateErr.Hdr" h="7660B951">Nie można zastosować twojego klucza aktywacyjnego.</text>
+		<text id="lic.msg.activateErr.Text1" h="82B43AB0">Powód:
+
+%1
+
+Możesz odwiedzić tą &lt;a id="1"&gt;stronę internetową&lt;/a&gt;, aby ręcznie wprowadzić kod aktywacyjny. Ewentualnie prosimy o kontakt ze &lt;a id="2"&gt;Wsparciem&lt;/a&gt; lub odwiedź naszą &lt;a id="3"&gt;Bazę wiedzy&lt;/a&gt;, aby uzyskać więcej informacji.</text>
+		<text id="lic.msg.upgradeSerialErr.Hdr" h="E3C03B87">Nie można zaktualizować twojego klucza licencyjnego.</text>
+		<text id="lic.msg.upgradeSerialErr.Text" h="32DC2043">Powodem jest:
+
+%1
+
+Możesz odwiedzić tę &lt;a id="1"&gt;stronę internetową&lt;/a&gt;, aby uaktualnić klucz ręcznie. Ewentualnie prosimy o kontakt ze &lt;a id="2"&gt;Wsparciem&lt;/a&gt; lub odwiedź naszą &lt;a id="3"&gt;Bazę wiedzy&lt;/a&gt;, aby uzyskać więcej informacji.</text>
+		<text id="lic.Retry" h="82619C32">&amp;Ponów</text>
+		<text id="lic.Cancel" h="3D302A38">&amp;Anuluj</text>
+		<text id="lic.Close" h="6298A5AF">&amp;Zamknij</text>
+		<text id="lic.bnt.yes" h="EDFA42B4">&amp;Tak, aktualizuj teraz!</text>
+		<text id="lic.bnt.later" h="BCDE8358">&amp;Nie teraz, zapytaj ponownie przy następnym uruchomieniu</text>
+		<text id="lic.bnt.no" h="E1CC0F76">&amp;Nie i nie pytaj ponownie</text>
+		<text id="lic.request.header" h="996E7CF5">Proszę zaktualizować swój klucz licencyjny.</text>
+		<text id="lic.msg.request" h="42CC8ECA">Ta wersja aplikacji wymaga zaktualizowanego formatu klucza licencyjnego ze starej/poprzedniej wersji, możliwe jest dokonanie tego online i automatyczne uaktualnienie do nowego formatu.
+
+Czy chcesz spróbować zrobić to teraz (wymagane jest połączenie z internetem)?
+
+Można również odwiedzić tę &lt;a id="1"&gt;stronę internetową&lt;/a&gt;, aby uaktualnić klucz ręcznie lub skontaktować się ze &lt;a id="2"&gt;Wsparciem&lt;/a&gt; lub odwiedzić naszą &lt;a id="3"&gt;Bazę wiedzy&lt;/a&gt;, aby uzyskać więcej informacji.</text>
+		<text id="lic.request_note" h="AD21560C">UWAGA: do momentu uzyskania i wykorzystania poprawnego klucza licencyjnego, ta aplikacja będzie działać w trybie 'FREE' lub 'Evaluation'. Dziękujemy za współpracę.</text>
+		<text id="lic.actDlg.title" h="347123F6">Aktywuj...</text>
+		<text id="lic.actDlg.header" h="06854D52">Podaj swoją nazwę oraz poprawny adres e-mail.</text>
+		<text id="lic.actDlg.msg" h="90B85877">Upewnij się, że podany adres e-mail jest właściwy i aktualny, ponieważ na ten adres będą przekazywane przez nasz serwer wszystkie przyszłe aktualizacje i klucze licencyjne! Po pomyślnym zakończeniu aktywacji, aplikacja automatycznie uaktualni Twój system właściwym kluczem licencyjnym.</text>
+		<text id="lic.actDlg.name" h="2F83636A">&amp;Twoja nazwa:</text>
+		<text id="lic.actDlg.email" h="6DC91F37">&amp;Twój e-mail:</text>
+		<text id="lic.actDlg.key" h="100602A5">&amp;Klucz aktywacyjny:</text>
+		<text id="lic.actDlg.btn.Activate" h="83914F23">&amp;Aktywuj</text>
+		<text id="lic.addKeyDlg.title" h="EB4CA58B">Dodaj nowy numer seryjny/klucz licencyjny</text>
+		<text id="lic.addKeyDlg.tip" h="A75F4604">Podaj nowy klucz licencyjny/aktywacyjny w polu poniżej:</text>
+		<text id="lic.addKeyDlg.btn.Paste" h="E7F59864">Wklej klucz ze schowka</text>
+		<text id="lic.addKeyDlg.btn.Continue" h="B72C4E18">Dalej...</text>
+		<text id="lic.msg.addSerialErr.Text2" h="E821568E">Nie określono ważnych kluczy licencyjnych.</text>
+		<text id="msg.SMTP.NoServer" h="0141A9D3">Nazwa serwera SMTP musi być podana!</text>
+		<text id="msg.SMTP.Remove" h="468A2A4A">Czy na pewno chcesz usunąć ustawienia wybranego serwera SMTP?</text>
+		<text id="msg.custom.form.delete" h="D5818ABF">Czy na pewno chcesz usunąć ten niestandardowy formularz?</text>
+		<text id="msg.custom.form.noDelete" h="96F67D4A">Nie można modyfikować ani usuwać formularzy niestandardowych zdefiniowanych przez administratora lokalnego dla komputera lokalnego.</text>
+		<text id="msg.custom.form.noName" h="F0231E7A">Musisz podać nazwę niestandardowego formularza.</text>
+		<text id="msg.custom.form.noUnique" h="D3086CF3">Nazwa niestandardowego formularza musi być unikalna.</text>
+		<text id="msg.wtm.noTitle" h="E85415C3">Nazwa znaku wodnego nie może być pusta!</text>
+		<text id="msg.wtm.invName" h="FFE6E784">Nazwa znaku wodnego nie powinna zawierać znaku średnika (;).</text>
+		<text id="msg.wtm.uniqueTitle" h="ECA89E0F">Nazwa znaku wodnego musi być unikalna!</text>
+		<text id="msg.wtm.delete" h="18BD3007">Czy na pewno chcesz usunąć ten znak wodny?</text>
+		<text id="msg.wtm.text" h="03F9D16D">Musisz określić tekst znaku wodnego.</text>
+		<text id="msg.wtm.image" h="96AAFCDF">Musisz podać ścieżkę do pliku obrazu i nazwę znaku wodnego.</text>
+		<text id="msg.tsa.delete" h="1625F779">Czy na pewno chcesz usunąć tę definicję serwera?</text>
+		<text id="msg.wrongCeritificate" h="4D7D8D33">Certyfikat cyfrowy nie został wybrany lub zostały określone nieprawidłowe parametry.
+Czy chcesz poprawić wartości?</text>
+		<text id="msg.DigiSig.CertExpired" h="B5B2FB97">Wybrany certyfikat wygasł i nie można go używać do podpisów cyfrowych.</text>
+		<text id="msg.DigiSig.CertCantSign" h="633A9F30">Wybranego certyfikatu nie można użyć do podpisu cyfrowego.</text>
+		<text id="msg.PasswordDlg.title" h="23DE88B2">Wprowadź hasło</text>
+		<text id="msg.NeedNameForCert" h="A9A6D514">Wymagana jest nazwa, aby utworzyć identyfikator cyfrowy z podpisem własnym.</text>
+		<text id="msg.NeedEmailForCert" h="8E4FB22F">Przy tworzeniu identyfikatora cyfrowego z podpisem własnym wymagany jest adres e-mail. </text>
+		<text id="msg.NeedCorrectEmailForCert" h="D7CF5B49">Wprowadź poprawny adres e-mail (np. john@mail.com).</text>
+		<text id="msg.PasswTooShort" h="2637CEE9">Hasło nie spełnia wymogów.
+Hasło musi się składać z co najmniej 6 znaków.</text>
+		<text id="msg.WrongConfirmPassw" h="95BA117F">Niewłaściwe hasło.
+Wprowadź hasło ponownie.</text>
+		<text id="msg.pwd.empty1" h="80C72A1D">Odznacz opcję "Hasło wymagane do otwarcia dokumentu" lub wprowadź hasło.</text>
+		<text id="msg.pwd.empty2" h="60064900">Odznacz opcję "Hasło wymagane do zmiany uprawnień i/lub haseł:" lub wprowadź hasło.</text>
+		<text id="msg.pwd.equals" h="2CF348D2">Hasła do otwierania dokumentów i uprawnień nie mogą być takie same. Wprowadź inne hasło w jednym z pól haseł.</text>
+		<text id="msg.pwd.bothEmpty" h="8C384AF0">Należy podać hasło otwarcia dokumentu lub hasło dostępu.</text>
+		<text id="msg.profile.delete" h="2A0B9CEB">Czy na pewno chcesz usunąć ten profil?</text>
+		<text id="msg.profile.apply" h="D4CD8FBF">Czy na pewno chcesz zastosować wybrany profil?</text>
+		<text id="msg.existingProfile2" h="068DA8B9">Profil o nazwie "%1" już istnieje. Możesz go zastąpić nowym profilem lub użyć innej nazwy dla nowego profilu.</text>
+		<text id="msg.existingProfile3" h="9F74E185">Profil o nazwie "%1" już istnieje. Musisz użyć innej nazwy dla nowego profilu.</text>
+		<text id="msg.digisig.selectCertificate" h="FFF5F514">Podaj certyfikat do podpisania dokumentu lub odznacz opcję "Podpisz cyfrowo dokument".</text>
+		<text id="msg.profile.EmptyProfileName" h="1C3A0E84">Nazwa profilu nie może być pusta!</text>
+		<text id="msg.profile.DuplicateProfileName" h="201ADD74">Profil o określonej nazwie już istnieje! Czy chcesz zastąpić ten profil?</text>
+		<text id="cmd.menu.path.item0" h="8A695F02">&amp;Ostatnio użyta ścieżka</text>
+		<text id="cmd.menu.path.item1" h="5B2DCF0F">Pulpit</text>
+		<text id="cmd.menu.path.item2" h="98C46804">Moje dokumenty</text>
+		<text id="cmd.menu.path.item3" h="4D4F3E29">Moje obrazy</text>
+		<text id="cmd.menu.path.item4" h="310DA860">Ulubione</text>
+		<text id="cmd.menu.path.item5" h="38694011">Folder tymczasowy</text>
+		<text id="cmd.menu.path.item6" h="D255B9B2">Folder TMP</text>
+		<text id="cmd.macro.0" h="F0E50ED7">&amp;Nazwa aplikacji</text>
+		<text id="cmd.macro.1" h="766660A7">&amp;Nazwa dokumentu</text>
+		<text id="cmd.macro.2" h="87E825E6">&amp;Ścieżka dokumentu</text>
+		<text id="cmd.macro.3" h="2F1434A9">&amp;Data</text>
+		<text id="cmd.macro.4" h="317F717E">&amp;Rok</text>
+		<text id="cmd.macro.5" h="11FB07AE">&amp;Miesiąc</text>
+		<text id="cmd.macro.6" h="FEBA871A">&amp;Dzień</text>
+		<text id="cmd.macro.7" h="92ED9FFA">&amp;Czas</text>
+		<text id="cmd.macro.8" h="FF8EA365">&amp;Godzina</text>
+		<text id="cmd.macro.9" h="B11BAF25">&amp;Minuta</text>
+		<text id="cmd.macro.10" h="E1793117">&amp;Sekund</text>
+		<text id="cmd.macro.11" h="0A5A0A0C">Nazwa komputera</text>
+		<text id="cmd.macro.12" h="D8AEF468">Nazwa użytkownika</text>
+		<text id="cmd.macro.13" h="88AD9A13">Numer strony</text>
+		<text id="cmd.macro.14" h="4505FFA5">&amp;Ilość stron</text>
+		<text id="cmd.macro.15" h="62BE4191">Zmienna środowiskowa</text>
+		<text id="cmd.form.add" h="9B7E8822">&amp;Dodaj...</text>
+		<text id="cmd.form.add.tip" h="17513505">Dodaj nowy niestandardowy formularz</text>
+		<text id="cmd.form.edit" h="26BB263A">&amp;Edytuj...</text>
+		<text id="cmd.form.edit.tip" h="6618248F">Edytuj istniejący niestandardowy formularz</text>
+		<text id="cmd.form.clone" h="689435EF">&amp;Klonuj</text>
+		<text id="cmd.form.clone.tip" h="06C30368">Utwórz kopię wybranego niestandardowego formularza</text>
+		<text id="cmd.form.remove" h="C945AF71">&amp;Usuń</text>
+		<text id="cmd.form.remove.tip" h="4B938AAA">Usuń wybrany niestandardowy formularz</text>
+		<text id="cmd.wtm.add" h="9B7E8822">&amp;Dodaj...</text>
+		<text id="cmd.wtm.add.tip" h="09971BC5">Dodaj nowy znak wodny</text>
+		<text id="cmd.wtm.edit" h="26BB263A">&amp;Edytuj...</text>
+		<text id="cmd.wtm.edit.tip" h="034D81D9">Edytuj istniejący znak wodny</text>
+		<text id="cmd.wtm.clone" h="689435EF">&amp;Klonuj</text>
+		<text id="cmd.wtm.clone.tip" h="9C040A25">Zrób kopię wybranego znaku wodnego</text>
+		<text id="cmd.wtm.remove" h="C945AF71">&amp;Usuń</text>
+		<text id="cmd.wtm.remove.tip" h="4C4F77E8">Usuń wybrany znak wodny</text>
+		<text id="cmd.wtm.move.up" h="055499B8">&amp;Przenieś w górę</text>
+		<text id="cmd.wtm.move.down" h="EAFA093E">&amp;Przenieś w dół</text>
+		<text id="cmd.wtm.move.top" h="080FF561">&amp;Przenieś na szczyt</text>
+		<text id="cmd.wtm.move.bottom" h="E0041811">&amp;Przejdź na dół</text>
+		<text id="cmd.tsa.add" h="9B7E8822">&amp;Dodaj...</text>
+		<text id="cmd.tsa.add.tip" h="121573D6">Dodaj nowy serwer znacznika czasu</text>
+		<text id="cmd.tsa.edit" h="26BB263A">&amp;Edytuj...</text>
+		<text id="cmd.tsa.edit.tip" h="72EA14A0">Edytuj istniejący serwer znacznika czasu</text>
+		<text id="cmd.tsa.clone" h="689435EF">&amp;Klonuj</text>
+		<text id="cmd.tsa.clone.tip" h="1AD29189">Utwórz kopię wybranego serwera znacznika czasu</text>
+		<text id="cmd.tsa.remove" h="C945AF71">&amp;Usuń</text>
+		<text id="cmd.tsa.remove.tip" h="3C28BE04">Usuń wybrany serwer znacznika czasu</text>
+		<text id="cmd.tsa.move.up" h="055499B8">&amp;Przenieś w górę</text>
+		<text id="cmd.tsa.move.down" h="EAFA093E">&amp;Przenieś w dół</text>
+		<text id="cmd.tsa.move.top" h="080FF561">&amp;Przenieś na szczyt</text>
+		<text id="cmd.tsa.move.bottom" h="E0041811">&amp;Przejdź na dół</text>
+		<text id="cmd.rule.add" h="9B7E8822">&amp;Dodaj...</text>
+		<text id="cmd.rule.add.tip" h="DFDB4A9B">Dodaj nową regułę trybu sterownika</text>
+		<text id="cmd.rule.edit" h="26BB263A">&amp;Edytuj...</text>
+		<text id="cmd.rule.edit.tip" h="D4A24586">Wyświetl/edytuj istniejący element</text>
+		<text id="cmd.rule.remove" h="C945AF71">&amp;Usuń</text>
+		<text id="cmd.rule.remove.tip" h="6CEDB37A">Usuń wybrany element</text>
+		<text id="cmd.textStyle.bold" h="1D8461F8">Pogrubienie</text>
+		<text id="cmd.textStyle.bold.tip" h="F2DE3410">Pogrub zaznaczony tekst.</text>
+		<text id="cmd.textStyle.italic" h="C61EB895">Kursywa</text>
+		<text id="cmd.textStyle.italic.tip" h="F196A5E2">Pochyl zaznaczony tekst.</text>
+		<text id="cmd.textStyle.underline" h="2A187377">Podkreślenie</text>
+		<text id="cmd.textStyle.underline.tip" h="1D57F33C">Podkreśl zaznaczony tekst.</text>
+		<text id="cmd.textStyle.strikeOut" h="905D7C0F">Przekreślenie</text>
+		<text id="cmd.textStyle.strikeOut.tip" h="486E2331">Narysuj linię przez środek zaznaczonego tekstu.</text>
+		<text id="cmd.textStyle.superScript" h="48E13B49">Indeks górny</text>
+		<text id="cmd.textStyle.superScript.tip" h="502CDB9F">Utwórz małe litery powyżej linii bazowej tekstu.</text>
+		<text id="cmd.textStyle.subScript" h="C13D1308">Indeks dolny</text>
+		<text id="cmd.textStyle.subScript.tip" h="83378A49">Utwórz małe litery poniżej linii bazowej tekstu.</text>
+		<text id="cmd.textStyle.clear" h="D1756ADB">Wyczyść formatowanie tekstu</text>
+		<text id="cmd.textStyle.clear.short" h="48BD8C4E">Wyczyść styl</text>
+		<text id="cmd.textStyle.clear.tip" h="37581125">Wyczyść formatowanie tekstu.</text>
+		<text id="cmd.text.hyphenate" h="9D162E6F">Dziel tekst myślnikiem</text>
+		<text id="cmd.text.hyphenate.short" h="59DF3C8C">Dzielenie tekstu</text>
+		<text id="cmd.text.hyphenate.tip" h="3B30FFB2">Dziel tekst myślnikiem</text>
+		<text id="cmd.text.paraSettings" h="0161553A">Akapit...</text>
+		<text id="cmd.text.paraSettings.tip" h="A9CB27EC">Pokaż okno ustawień akapitu, aby zmienić odstępy między wierszami i tekstem, wcięcie, wyrównanie itp.</text>
+		<text id="cmd.textDirection.LTR" h="83A2917C">Od lewej do prawej</text>
+		<text id="cmd.textDirection.LTR.tip" h="2E2C0505">Ustaw kierunek tekstu od lewej do prawej.</text>
+		<text id="cmd.textDirection.RTL" h="DA7AD5D4">Od prawej do lewej</text>
+		<text id="cmd.textDirection.RTL.tip" h="75BC97C1">Ustaw kierunek tekstu od prawej do lewej.</text>
+		<text id="cmd.noProps" h="EB52FA55">Bez właściwości</text>
+		<text id="cmd.noProps.tip" h="2C064E7D">Obecnie nie wybrano żadnego obiektu z właściwościami.</text>
+		<text id="cmd.profile.edit" h="26BB263A">&amp;Edytuj...</text>
+		<text id="cmd.profile.edit.tip" h="983E6A15">Edytuj istniejący profil</text>
+		<text id="cmd.profile.clone" h="689435EF">&amp;Klonuj</text>
+		<text id="cmd.profile.clone.tip" h="9AAD99F9">Utwórz kopię wybranego profilu</text>
+		<text id="cmd.profile.remove" h="C945AF71">&amp;Usuń</text>
+		<text id="cmd.profile.remove.tip" h="02D435F9">Usuń wybrany profil</text>
+		<text id="cmd.profile.import" h="0FE6AAE6">&amp;Importuj...</text>
+		<text id="cmd.profile.import.tip" h="C1B5CBD1">Zaimportuj profil z pliku</text>
+		<text id="cmd.profile.export" h="02819881">&amp;Eksportuj...</text>
+		<text id="cmd.profile.export.tip" h="8D4C4AE3">Eksportuj wybrany profil</text>
+		<text id="cmd.help.help" h="1DDADC82">Pomoc</text>
+		<text id="cmd.help.home" h="09F653F5">Strona domowa</text>
+		<text id="cmd.help.support" h="FA313F31">Forum wsparcia</text>
+		<text id="cmd.help.checkForUpdates" h="B4EF7EF3">Sprawdź aktualizacje</text>
+		<text id="page.paper.name" h="4079C816">Papier</text>
+		<text id="page.paper.title" h="BD068256">Ustawienia papieru</text>
+		<text id="page.customForm.name" h="4902546D">Formularze użytkownika</text>
+		<text id="page.customForm.title" h="740C73DF">Niestandardowe ustawienia formularzy</text>
+		<text id="page.general.name" h="30673BCD">Ogólne</text>
+		<text id="page.general.title" h="37CF7747">Ustawienia główne</text>
+		<text id="page.graphics.name" h="63B3B423">Grafiki</text>
+		<text id="page.graphics.title" h="C43D547E">Ustawienia grafiki</text>
+		<text id="page.compression.name" h="A7C57E10">Kompresja</text>
+		<text id="page.compression.title" h="0A4F2829">Ustawienia kompresji</text>
+		<text id="page.fonts.name" h="B72149DB">Czcionki</text>
+		<text id="page.fonts.title" h="50207349">Opcje osadzania czcionek</text>
+		<text id="page.links.name" h="6E16975C">Linki</text>
+		<text id="page.links.title" h="4B8634B3">Ustawienia linków</text>
+		<text id="page.docInfo.name" h="3564CAE4">Info o dokumencie</text>
+		<text id="page.docInfo.title" h="8E6BE160">Informacje o dokumencie</text>
+		<text id="page.headers.name" h="5ECD7CD4">Nagłówki/stopki</text>
+		<text id="page.headers.title" h="261FD71E">Ustawienia nagłówków i stopek</text>
+		<text id="page.append.name" h="F84FF456">Domyślny dołączony plik</text>
+		<text id="page.append.title" h="D1438457">Dodatkowe opcje dołączania/wstawiania pliku</text>
+		<text id="page.bookmarks.name" h="E2032460">Zakładki</text>
+		<text id="page.bookmarks.title" h="637228AD">Ustawienia zakładek</text>
+		<text id="page.overlay.name" h="59427459">Nakładki</text>
+		<text id="page.overlay.title" h="7E41B81E">Ustawienia nakładek</text>
+		<text id="page.email.name" h="0BFBFB66">e-mail</text>
+		<text id="page.email.title" h="D154F309">Ustawienia e-maila</text>
+		<text id="page.save.name" h="B120B787">Zapisz</text>
+		<text id="page.save.title" h="94A844CD">Ustawienia zapisywania</text>
+		<text id="page.security.name" h="8292AF02">Zabezpieczenia</text>
+		<text id="page.security.title" h="DEDCAAE8">Zabezpieczenie dokumentu</text>
+		<text id="page.watermarks.name" h="9EC3F447">Znaki wodne</text>
+		<text id="page.watermarks.title" h="1EABC5DE">Ustawienia znaków wodnych</text>
+		<text id="page.optimization.name" h="32F54CF2">Optymalizacja</text>
+		<text id="page.optimization.title" h="638FC2A7">Ustawienia optymalizacji</text>
+		<text id="page.languages.name" h="C41449B2">Języki</text>
+		<text id="page.languages.title" h="D5C43A44">Wybierz język interfejsu użytkownika</text>
+		<text id="about.copyright" h="959E18E0">Prawo autorskie © 2001-2018 przez &lt;a=1&gt;Tracker Software Products (Canada) Ltd,&lt;/a&gt;
+PO Box 79, 9622 Chemainus Rd, Chemainus, BC. V0R 1K0 - WSZELKIE PRAWA ZASTRZEŻONE.</text>
+		<text id="about.credits" h="28592C00">Wszystkie inne znaki towarowe/prawa autorskie są uznane i są własnością ich właścicieli, w tym:
+•     Zlib od Mark Adler &amp; Jean-Loup Gailly,
+•     Little CMS od Marti Maria und IPG © 1991-98.
+•     Freetype2 od David Turner, Robert Wilhelm &amp; Werner Lemberg © 1996-2001, 2006
+•     Tesseract OCR Engine. Pierwotnie opracowany w Hewlett Packard Laboratories Bristol oraz w Hewlett-Packard Co, Greeley Colorado,
+       cały kod w tej dystrybucji jest teraz licencjonowany na podstawie licencji Apache.</text>
+		<text id="about.help" h="6887DFB0">&amp;Pomoc...</text>
+		<text id="about.reg" h="05BF124F">&amp;Rejestracja...</text>
+		<text id="about.version" h="52344715">Wersja: &lt;b&gt;%1&lt;/b&gt; (Build &lt;b&gt;%2&lt;/b&gt;)%3%4</text>
+		<text id="above" h="09C2601E">dla zdjęć powyżej:</text>
+		<text id="bk.asTitle" h="513216FA">&amp;Użyj tytułu dokumentu jako zakładki źródłowej</text>
+		<text id="bk.disp.color" h="02977B17">Kolor:</text>
+		<text id="bk.disp.state" h="EE1B645B">Stan:</text>
+		<text id="bk.disp.style" h="AEC0CE33">Styl:</text>
+		<text id="bk.enable" h="F09B2FCA">&amp;Włącz automatyczne wykrywanie zakładek</text>
+		<text id="bk.g.title" h="1492312B">Opcje wykrywania</text>
+		<text id="bk.g1.title" h="1366B304">Szablon</text>
+		<text id="bk.g3.title" h="1B201DEF">Opcje wyświetlania</text>
+		<text id="bk.load" h="96130CAB">&amp;Załaduj...</text>
+		<text id="bk.match" h="85EA08AA">&amp;Dopasuj węzeł niezależnie od poziomu</text>
+		<text id="bk.multi" h="B5D3268E">&amp;Zezwalaj na zakładki wieloliniowe</text>
+		<text id="bk.dispMode" h="5CA46335">&amp;Tryb wyświetlania:</text>
+		<text id="bk.Level" h="AEA169E8">&amp;Poziom:</text>
+		<text id="bk.opened" h="ECDD3B81">Otwarte</text>
+		<text id="bk.save" h="46DCCD20">&amp;Zapisz...</text>
+		<text id="bk.use.color" h="37314879">&amp;Kolor:</text>
+		<text id="bk.use.font" h="6196C38F">&amp;Czcionka:</text>
+		<text id="bk.use.size" h="2519C487">&amp;Rozmiar:</text>
+		<text id="bk.use.style" h="9B66FD5D">&amp;Styl:</text>
+		<text id="btn.browse2" h="FF1DC93F">&amp;Przeglądaj...</text>
+		<text id="btn.browse3" h="0BAC1EBD">&amp;Przeglądaj...</text>
+		<text id="btn.edit" h="26BB263A">&amp;Edytuj...</text>
+		<text id="btn.new" h="F41C4AA5">&amp;Nowy...</text>
+		<text id="btn.reset" h="E704BDE1">&amp;Resetuj</text>
+		<text id="btn.macro" h="A202F8D8">&amp;Makro</text>
+		<text id="compr.cb.compr.ascii" h="2A016E94">&amp;Format ASCII (większy plik)</text>
+		<text id="compr.cb.compr.graphics" h="ED1F20CB">&amp;Kompresuj grafikę</text>
+		<text id="compr.cb.compr.text" h="0FDBEC91">&amp;Kompresuj tekst</text>
+		<text id="compr.cb.use.high" h="E8B25BAD">&amp;Kompresuj używając:</text>
+		<text id="compr.cb.use.indexed" h="5622CD17">&amp;Kompresuj używając:</text>
+		<text id="compr.cb.use.mono" h="6E7D9ACB">&amp;Kompresuj używając:</text>
+		<text id="compr.g.general" h="30673BCD">Ogólne</text>
+		<text id="compr.g.high" h="99D510D5">Obrazy kolorowe/w skali szarości</text>
+		<text id="compr.g.indexed" h="FE837B06">Obrazy zindeksowane</text>
+		<text id="compr.g.mono" h="19F5498E">Obrazy monochromatyczne</text>
+		<text id="compr.l.jbig2" h="D06E637F">&amp;Metoda JBIG2:</text>
+		<text id="compr.l.jpeg" h="C63A5BAE">&amp;Jakość JPEG:</text>
+		<text id="cust.add" h="56C98524">&amp;Dodaj -&gt;</text>
+		<text id="cust.l.avpages" h="E7B700F9">&amp;Dostępne strony:</text>
+		<text id="cust.l.height" h="ABCFFD24">&amp;Wysokość:</text>
+		<text id="cust.l.vispages" h="67E2B616">&amp;Widoczne strony:</text>
+		<text id="cust.remove" h="DE318D1F">&lt;- Usuń</text>
+		<text id="custform.g1.title" h="567B3029">&amp;Nazwa własnego formularza</text>
+		<text id="custform.g2.title" h="3E43518D">Własne wymiary formularza</text>
+		<text id="custform.g3.title" h="AA174316">Jednostki</text>
+		<text id="custform.l.width" h="B061B0AB">&amp;Szerokość:</text>
+		<text id="dlg.AddCustomForm" h="B88CFE3B">Dodaj/edytuj formularz</text>
+		<text id="dlg.AddMode" h="CBEDEC17">Dodaj/edytuj tryb sterownika</text>
+		<text id="dlg.AddMode.app.cue" h="696733B2">np. winword.exe</text>
+		<text id="dlg.AddWatermark" h="F5059D91">Dodaj/edytuj znak wodny</text>
+		<text id="dlg.Customize" h="E3787BF8">Dostosuj</text>
+		<text id="dlg.CustomizeHF" h="B562B8E4">Dostosuj...</text>
+		<text id="dlg.DigiSig" h="B472008F">Podpis cyfrowy</text>
+		<text id="dlg.ManageMode" h="18A54865">Reguły trybu sterownika</text>
+		<text id="dlg.ManageMode.defLabel" h="533A5A8B">&amp;Domyślny tryb sterownika:</text>
+		<text id="dlg.ManageMode.g1.title" h="16A3DE48">Dostępne reguły</text>
+		<text id="dlg.ManageMode.g2.title" h="B6EF2024">Domyślne</text>
+		<text id="dlg.ManageProfiles" h="CED5F01E">Menedżer profili</text>
+		<text id="dlg.ProfileInfo" h="61A918CC">Dodaj/edytuj profil</text>
+		<text id="dlg.SMTP" h="BE9019DD">Dodaj/edytuj serwer SMTP</text>
+		<text id="dlg.editTSA" h="F88151A4">Serwer znacznika czasu</text>
+		<text id="dlg.manageTSA" h="E2652235">Lista serwerów znacznika czasu</text>
+		<text id="dlg.newCertificate" h="15B8205F">Utwórz identyfikator cyfrowy z podpisem własnym</text>
+		<text id="dnc.description" h="0065C015">Identyfikator cyfrowy z podpisem własnym jest sposobem na bezpłatne podpisanie dokumentu PDF, jednak może to nie wystarczyć dla weryfikacji firm trzecich.</text>
+		<text id="dnc.file" h="DC86E810">&amp;Nowy plik identyfikatora cyfrowego PKCS#12</text>
+		<text id="dnc.g1.title" h="608B6BF2">Właściwości identyfikatora cyfrowego</text>
+		<text id="dnc.g2.title" h="D4279166">Gdzie chcesz trzymać swój identyfikator cyfrowy?</text>
+		<text id="dnc.l.alg" h="E01D59D2">&amp;Algorytm klucza:</text>
+		<text id="dnc.l.confirm" h="AB328CBA">&amp;Potwierdź hasło:</text>
+		<text id="dnc.l.country" h="85808648">&amp;Kraj/region:</text>
+		<text id="dnc.l.email" h="BF27CB5F">&amp;Adres e-mail:</text>
+		<text id="dnc.l.name" h="09FAD31D">&amp;Nazwa:</text>
+		<text id="dnc.l.org" h="620DF5BE">&amp;Nazwa organizacji:</text>
+		<text id="dnc.l.pass" h="7FAD5B01">&amp;Hasło:</text>
+		<text id="dnc.l.pkcs12" h="543A3DAB">Tworzy nowy plik identyfikatora chroniony hasłem, który wykorzystuje standardowy format PKCS#12. Ten wspólny format pliku identyfikatora jest obsługiwany przez większość aplikacji zabezpieczających, w tym przez główne przeglądarki internetowe. Pliki PKCS#12 mają rozszerzenie .pfx lub .p12.</text>
+		<text id="dnc.l.system" h="F767B01F">Twój identyfikator będzie przechowywany w magazynie certyfikatów systemu Windows gdzie będzie również dostępny dla innych aplikacji systemu. Identyfikator będzie chroniony przez twój login systemu Windows.</text>
+		<text id="dnc.l.unit" h="82F8B8FF">&amp;Jednostka organizacyjna:</text>
+		<text id="dnc.l.usage" h="8B979C65">&amp;Użyj identyfikatora dla:</text>
+		<text id="dnc.system" h="8D7E75D6">&amp;Magazyn certyfikatów systemu Windows</text>
+		<text id="docinfo.ask" h="BF944220">&amp;Zapytaj o informacje o dokumencie na początku drukowania</text>
+		<text id="docinfo.author" h="1737C813">&amp;Autor:</text>
+		<text id="docinfo.creator" h="1B812E77">&amp;Kreator:</text>
+		<text id="docinfo.enable" h="F0A9B0E7">&amp;Umieść dodatkowe informacje w dokumencie</text>
+		<text id="docinfo.g.title" h="E96E93B9">Informacje o PDF</text>
+		<text id="docinfo.keywords" h="70561097">&amp;Słowa kluczowe:</text>
+		<text id="docinfo.producer" h="AE772588">&amp;Producent:</text>
+		<text id="docinfo.subject" h="F6AB0643">&amp;Temat:</text>
+		<text id="docinfo.title" h="A6AB0B5B">&amp;Tytuł:</text>
+		<text id="docinfo.xmp" h="0DF53689">&amp;Dodaj metadane XMP do dokumentu</text>
+		<text id="ds.cb.date" h="6D57473E">Data</text>
+		<text id="ds.cb.dname" h="F9ABD1CE">&amp;Wyróżniona nazwa</text>
+		<text id="ds.cb.labels" h="4BA63161">Etykiety</text>
+		<text id="ds.cb.location" h="52D95020">Lokalizacja</text>
+		<text id="ds.cb.logo" h="EB08AA01">&amp;Wyświetl logo</text>
+		<text id="ds.cb.name" h="63FE3EDE">&amp;Nazwa</text>
+		<text id="ds.cb.reason" h="11BD8A6E">Powód</text>
+		<text id="ds.cb.subject" h="8D5A19C4">&amp;Temat</text>
+		<text id="ds.create" h="BB3716B9">&amp;Utwórz certyfikat...</text>
+		<text id="ds.g1.title" h="96999927">Identyfikator cyfrowy</text>
+		<text id="ds.g2.title" h="AEE125D6">Szczegóły</text>
+		<text id="ds.g4.title" h="EFFDDE78">Wygląd</text>
+		<text id="ds.g5.title" h="0C13107E">Położenie</text>
+		<text id="ds.img.cue" h="51846090">&lt;kliknij, aby wyszukać obraz&gt;</text>
+		<text id="ds.l.contact" h="A8B0C056">&amp;Informacje kontaktowe:</text>
+		<text id="ds.l.graphic" h="880A621F">&amp;Grafiki:</text>
+		<text id="ds.l.height" h="EF61EFBD">Wysokość:</text>
+		<text id="ds.l.hoffset" h="DF4C107F">&amp;Przes. poziomo:</text>
+		<text id="ds.l.issued" h="B245A018">&amp;Wydany dla:</text>
+		<text id="ds.l.location" h="C9265ABC">&amp;Lokalizacja:</text>
+		<text id="ds.l.perms" h="65731FF3">&amp;Uprawnienia</text>
+		<text id="ds.l.reason" h="9BA10106">&amp;Powód podpisania:</text>
+		<text id="ds.l.useFile" h="7EA982B8">&amp;Nazwa pliku:</text>
+		<text id="ds.l.voffset" h="ACE5B906">&amp;Przes. pionowo:</text>
+		<text id="ds.l.width" h="85C783C5">Szerokość:</text>
+		<text id="ds.l.page" h="660A3F38">Strona:</text>
+		<text id="ds.lastPage" h="6362BC4B">&amp;Na ostatniej stronie</text>
+		<text id="ds.useFile" h="664F560D">&amp;Użyj certyfikatu z pliku</text>
+		<text id="ds.useSystem" h="B064DE08">&amp;Użyj certyfikatu z systemu</text>
+		<text id="ds.view" h="BE4DE4A8">&amp;Pokaż certyfikat...</text>
+		<text id="ds.visible" h="D0D758F9">&amp;Umieść widoczny podpis w określonej pozycji</text>
+		<text id="email.method" h="6900EC9A">&amp;Metoda:</text>
+		<text id="email.bcc" h="545EB298">&amp;Bcc:</text>
+		<text id="email.cc" h="45106A78">&amp;Cc:</text>
+		<text id="email.content" h="64D3C808">&amp;Zawartość:</text>
+		<text id="email.enable" h="BA8783C7">&amp;Wyślij utworzony dokument jako załącznik do e-maila</text>
+		<text id="email.from" h="60652CC5">&amp;Od:</text>
+		<text id="email.props" h="61B2B055">Właściwości e-maila</text>
+		<text id="email.server" h="74EFFD0D">&amp;Serwer:</text>
+		<text id="email.smtp" h="28F504E2">Właściwości SMTP</text>
+		<text id="email.subject" h="7E069DE3">&amp;Temat:</text>
+		<text id="email.to" h="1115E7E3">&amp;Do:</text>
+		<text id="email.zip" h="5480212A">&amp;Wyślij dokument w archiwum ZIP</text>
+		<text id="extra.append" h="C3DCB52D">&amp;Dołącz dane wyjściowe do pliku PDF</text>
+		<text id="extra.f.append" h="FB213381">&amp;Plik:</text>
+		<text id="extra.f.prepend" h="02945BF9">&amp;Plik:</text>
+		<text id="extra.g1.title" h="A505B373">Przygotuj dokument</text>
+		<text id="extra.g2.title" h="0491DF99">Dołącz dokument</text>
+		<text id="extra.p.append" h="7FAD5B01">&amp;Hasło:</text>
+		<text id="extra.p.prepend" h="6975636F">&amp;Hasło:</text>
+		<text id="extra.prepend" h="D317ECC5">&amp;Przygotuj dane wyjściowe do pliku PDF</text>
+		<text id="fonts.all" h="10AA37DF">&amp;Osadź wszystkie użyte czcionki</text>
+		<text id="fonts.always" h="F963BAE8">&amp;Zawsze osadzaj czcionki:</text>
+		<text id="fonts.extra" h="CC2E563C">Osadź rozszerzone informacje o czcionce/znaku</text>
+		<text id="fonts.l.available" h="EE0273C3">&amp;Dostępne czcionki:</text>
+		<text id="fonts.never" h="98D18B9F">&amp;Nigdy nie osadzaj czcionek:</text>
+		<text id="fonts.protected" h="3442F300">&amp;Wymuś osadzanie chronionych czcionek</text>
+		<text id="fonts.subset" h="EAA9617B">&amp;Osadź tylko podzbiór czcionek, jeśli procent użytych znaków jest mniejszy niż:</text>
+		<text id="fonts.temp" h="B4A64053">&amp;Wymuś osadzanie tymczasowych czcionek</text>
+		<text id="gen.center" h="36B29C58">&amp;Wyśrodkuj okno dokumentu</text>
+		<text id="gen.docTitle" h="20B838ED">&amp;Wyświetl tytuł dokumentu na pasku tytułu</text>
+		<text id="gen.g1.title" h="F4A99A40">Specyfikacja PDF</text>
+		<text id="gen.g2.title" h="BE761DF7">Po otwarciu dokumentu</text>
+		<text id="gen.g3.title" h="99033ADB">Przejście</text>
+		<text id="gen.g4.title" h="FC8108D3">Preferencje przeglądarki</text>
+		<text id="gen.hideMenu" h="F0C440A1">&amp;Ukryj pasek menu</text>
+		<text id="gen.hideToolbars" h="54F815A4">&amp;Ukryj paski narzędzi</text>
+		<text id="gen.hideUI" h="A2A6D4A8">&amp;Ukryj elementy interfejsu okna dokumentu</text>
+		<text id="gen.l.fullscreen" h="094D1D93">&amp;Tryb pełnoekranowy:</text>
+		<text id="gen.l.layout" h="B301889D">&amp;Układ strony:</text>
+		<text id="gen.l.mode" h="710B6344">&amp;Tryb strony:</text>
+		<text id="gen.l.page" h="109582AA">&amp;Otwórz na stronie:</text>
+		<text id="gen.l.pdur" h="4463DE4F">Czas trwania strony:</text>
+		<text id="gen.l.spec" h="439D58B3">&amp;Zgodność ze specyfikacją:</text>
+		<text id="gen.l.tdur" h="6CB2A5F3">Czas przejścia:</text>
+		<text id="gen.l.tmode" h="D1B57A88">Tryb przejścia:</text>
+		<text id="gen.l.ttype" h="289DA88B">Typ przejścia:</text>
+		<text id="gen.l.zoom" h="362EEF1A">&amp;Powiększenie:</text>
+		<text id="gen.resize" h="60879BE7">&amp;Zmień rozmiar okna, aby dopasować rozmiar pierwszej strony</text>
+		<text id="graph.l.threshold" h="B2FADA6C">Próg:</text>
+		<text id="graph.use.dither" h="3FA24F74">Użyj symulacji kolorów</text>
+		<text id="hf.enable" h="C8410A02">&amp;Dodaj nagłówki i stopki do stron dokumentu</text>
+		<text id="hf.foot" h="ECBC4A48">&amp;Stopka:</text>
+		<text id="hf.g1.title" h="5244D472">Nagłówek i stopka</text>
+		<text id="hf.g2.title" h="DAD7B4F4">Opcje</text>
+		<text id="hf.g3.title" h="62C950A2">Marginesy</text>
+		<text id="hf.head" h="AF62F631">&amp;Nagłówek:</text>
+		<text id="hf.l.bottom" h="83BFDBE3">&amp;Dolny:</text>
+		<text id="hf.l.first" h="459E6554">&amp;Numer pierwszej strony:</text>
+		<text id="hf.l.left" h="0B27CDE3">&amp;Lewy:</text>
+		<text id="hf.l.right" h="C896EA9F">&amp;Prawy:</text>
+		<text id="hf.l.top" h="DBE4B23E">&amp;Górny:</text>
+		<text id="hf.units" h="A29BF002">&amp;Jednostki:</text>
+		<text id="hf.customize1" h="B562B8E4">Dostosuj...</text>
+		<text id="hf.customize2" h="B562B8E4">Dostosuj...</text>
+		<text id="links.check" h="572D738F">&amp;Sprawdź, czy istnieją pliki do linkowania</text>
+		<text id="links.detect" h="BADAE078">&amp;Wykryj nazwy plików i konwertuj na linki PDF</text>
+		<text id="links.enable" h="88E82DA8">&amp;Analizuj adresy URL w tekście drukowanym</text>
+		<text id="links.local" h="8C690B8E">Pliki lokalne</text>
+		<text id="links.options" h="4A56A155">Opcje linków</text>
+		<text id="links.border.type" h="F1E3B439">&amp;Rodzaj ramki:</text>
+		<text id="links.border.color" h="20E74546">&amp;Kolor ramki:</text>
+		<text id="links.border.style" h="8CB0F062">&amp;Styl ramki:</text>
+		<text id="links.border.width" h="A7B7BD94">&amp;Szerokość ramki:</text>
+		<text id="links.l.example" h="1F37513E">Przykład:</text>
+		<text id="mail.smtp" h="E2F8F5FC">Serwer SMTP</text>
+		<text id="mail.smtp.pass" h="7FAD5B01">&amp;Hasło:</text>
+		<text id="mail.smtp.port" h="3F32F0C0">&amp;Port:</text>
+		<text id="mail.smtp.portDef" h="ED26CC87">Domyślny: %1</text>
+		<text id="mail.smtp.security" h="AF0F4585">&amp;Szyfrowanie połączenia:</text>
+		<text id="mail.smtp.serverAuthent" h="89DD97BE">&amp;Serwer wym&amp;aga uwierzytelnienia</text>
+		<text id="mail.smtp.serverName" h="BD084E34">&amp;Nazwa serwera:</text>
+		<text id="mail.smtp.serverNameCue" h="BE98874E">Przykład: smtp.example.com</text>
+		<text id="mail.smtp.userName" h="6901D750">&amp;Nazwa użytkownika:</text>
+		<text id="lang.l.select" h="8E26C53F">Wybierz preferowany język interfejsu:</text>
+		<text id="lang.l.more" h="2E2CCD84">&lt;a=1&gt;Więcej języków...&lt;/a&gt;</text>
+		<text id="lang.btn.asDefault" h="DFA4AF2F">&amp;Ustaw jako domyślne</text>
+		<text id="opt.grayAsRGB" h="BE6DCABB">&amp;Dopisz paletę skali szarości do przestrzeni kolorów RGB</text>
+		<text id="opt.l.blend" h="5C764562">&amp;Operacja mieszania:</text>
+		<text id="opt.l.detess" h="04F08091">&amp;Usuń mozaikę:</text>
+		<text id="opt.masked" h="6970012F">&amp;Użyj maskowanych obrazów</text>
+		<text id="opt.g1" h="DAD7B4F4">Opcje</text>
+		<text id="opt.mbytes" h="E03A7614">MB</text>
+		<text id="opt.optImages" h="0E1D0448">&amp;Włącz optymalizację sekwencji obrazów</text>
+		<text id="opt.swap" h="305C86AE">Zamień na obrazy dysków większe niż:</text>
+		<text id="opt.transp" h="994F0333">&amp;Użyj rysowania przezroczystości</text>
+		<text id="ove.l.file" h="5690D310">&amp;Plik nakładki:</text>
+		<text id="over.enable" h="5AE47AAE">&amp;Nałóż za pomocą istniejącego pliku PDF</text>
+		<text id="over.extra" h="EC77115A">Strony nakładki dodane przez &lt;a=1&gt; dodatkowe załączone dokumenty &lt;/a&gt;</text>
+		<text id="over.fit" h="3BA1739C">&amp;Dopasuj strony nakładek do nowo utworzonych stron dokumentów</text>
+		<text id="over.foreground" h="CC9518F1">&amp;Umieść plik nakładki jako pierwszy plan</text>
+		<text id="over.keep" h="A4D6664D">&amp;Zachowaj proporcje</text>
+		<text id="over.l.align" h="78726E92">&amp;Wyrównaj strony nakładki względem nowych stron dokumentu PDF:</text>
+		<text id="over.l.hor" h="080F71A2">&amp;W poziomie:</text>
+		<text id="over.l.pass" h="3B996C2A">&amp;Hasło do otwarcia chronionego pliku:</text>
+		<text id="over.l.vert" h="DD066115">&amp;W pionie:</text>
+		<text id="over.pos" h="E9C070C5">Pozycje</text>
+		<text id="over.repeat" h="18BFF1DB">Opcje powtarzania</text>
+		<text id="over.repeat.cont" h="7A290673">&amp;Ciągłe powtarzanie skróconego pliku nakładki</text>
+		<text id="over.repeat.last" h="B744CD52">&amp;Powtórz ostatnią stronę skróconego pliku nakładki</text>
+		<text id="over.repeat.none" h="6361EAE7">&amp;Bez powtórzeń</text>
+		<text id="papList.label" h="5BB50205">Dostępne formularze użytkownika:</text>
+		<text id="paper.c.borders" h="872135AE">Drukuj granice stron</text>
+		<text id="paper.cb.center" h="CBEFB4D0">Wyśrodkuj</text>
+		<text id="paper.cb.fit" h="9078F779">Skaluj by dopasować</text>
+		<text id="paper.cb.scale" h="A256041E">&amp;Skala:</text>
+		<text id="paper.g1" h="021E871D">Rozmiar strony</text>
+		<text id="paper.g2" h="6DD64EA1">Grafika</text>
+		<text id="paper.g3" h="A9BCB1A8">Układ</text>
+		<text id="paper.g4" h="D92FF225">Zaawansowane opcje drukowania</text>
+		<text id="paper.l.booklettype" h="E40660F9">Typ broszury:</text>
+		<text id="paper.l.gutter" h="453C4022">Rozmiar grzbietu:</text>
+		<text id="paper.l.ltype" h="7E455932">Typ układu:</text>
+		<text id="paper.l.margins" h="07DCB677">&amp;Marginesy:</text>
+		<text id="paper.l.nup" h="A6078989">&amp;Stron na arkusz:</text>
+		<text id="paper.l.orientation" h="F5C1FFB9">&amp;Orientacja:</text>
+		<text id="paper.l.pageOrder" h="4415E37B">&amp;Kolejność stron:</text>
+		<text id="paper.l.position" h="C87B8489">Pozycja:</text>
+		<text id="paper.l.scale" h="C4EC7E3C">Skala:</text>
+		<text id="paper.l.sheets" h="3C8E1D5A">Arkuszy do podpisu:</text>
+		<text id="paper.l.sheetsize" h="A2557222">Rozm. arkusza:</text>
+		<text id="paper.l.size" h="E1908ECB">Rozmiar:</text>
+		<text id="paper.l.ssize" h="E1908ECB">Rozmiar:</text>
+		<text id="paper.l.resolution" h="4103E512">&amp;Rozdzielczość:</text>
+		<text id="paper.mirror.x" h="C5289BB7">&amp;Lustrzane odbicie osi X</text>
+		<text id="paper.mirror.y" h="5E8DD7D8">&amp;Lustrzane odbicie osi Y</text>
+		<text id="paper.rb.custom" h="1A432471">&amp;Własne:</text>
+		<text id="paper.rb.landscape" h="CF68D0C1">&amp;Krajobraz</text>
+		<text id="paper.rb.portrait" h="A9A67C11">&amp;Portret</text>
+		<text id="paper.rb.standard" h="D724FB24">&amp;Standard:</text>
+		<text id="ppi" h="164A6A9C">pikseli na cal</text>
+		<text id="prop.about" h="F2596574">O programie</text>
+		<text id="prop.settings" h="9147CD71">Ustawienia</text>
+		<text id="rb.inch" h="3D2782C6">&amp;Cal</text>
+		<text id="rb.mm" h="291025E5">&amp;Milimetr</text>
+		<text id="save.custom" h="A75E6832">&amp;Aplikacja:</text>
+		<text id="save.default" h="BE686B14">&amp;Domyślna aplikacja dla plików PDF</text>
+		<text id="save.g1.title" h="D16859B7">Opcje zapisywania</text>
+		<text id="save.g2.title" h="9AAF3E71">Opcje uruchomienia</text>
+		<text id="save.l.digits" h="B5E21A30">&amp;Cyfr:</text>
+		<text id="save.l.example" h="1F37513E">Przykład:</text>
+		<text id="save.l.exists" h="91940E79">&amp;Kiedy plik istnieje:</text>
+		<text id="save.l.file" h="13B32EA0">&amp;Nazwa pliku:</text>
+		<text id="save.l.path" h="E62EE9C8">&amp;Ścieżka:</text>
+		<text id="save.l.start" h="96A7DBF6">&amp;Rozpocznij od:</text>
+		<text id="save.l.params" h="4C3CFCB9">&amp;Parametry:</text>
+		<text id="save.run" h="44C73A89">&amp;Uruchom aplikację po wydrukowaniu</text>
+		<text id="save.show.saveAs" h="E15C50B5">&amp;Pokaż okno dialogowe 'Zapisz jako...'</text>
+		<text id="save.strip" h="F76AC075">&amp;Usuń ścieżkę z nazwy dokumentu</text>
+		<text id="sec.access" h="A05670C9">&amp;Włącz dostęp do treści dla osób niedowidzących</text>
+		<text id="sec.adding" h="47BDA760">&amp;Zezwalaj na dodawanie lub zmienianie komentarzy i pól formularzy</text>
+		<text id="sec.allowPrinting" h="0C5B81F1">&amp;Zezwól na drukowanie</text>
+		<text id="sec.changing" h="A8CFDC12">&amp;Zezwalaj na zmianę dokumentu</text>
+		<text id="sec.copying" h="2C2D88AC">Zezwalaj na kopiowanie lub wyodrębnianie treści, włącz ułatwienia dostępu</text>
+		<text id="sec.copying.new" h="96E15885">&amp;Zezwalaj na kopiowanie i wyodrębnianie treści</text>
+		<text id="sec.digisig" h="1104629C">Podpisz cyfrowo dokument</text>
+		<text id="sec.digisig.settings" h="EC675489">Ustawienia...</text>
+		<text id="sec.enable" h="D046B193">&amp;Użyj zabezpieczeń PDF</text>
+		<text id="sec.g1.title" h="063B73F1">Hasła dokumentów</text>
+		<text id="sec.g2.title" h="80E178CC">Uprawnienia dokumentów</text>
+		<text id="sec.g3.title" h="8E15DAC5">Podpis cyfrowy</text>
+		<text id="sec.l.changes" h="54126A02">&amp;Zmiany dozwolone:</text>
+		<text id="sec.l.level" h="F1B06EF5">Poziom szyfrowania:</text>
+		<text id="sec.l.printing" h="603A3C89">&amp;Drukowanie dokumentu:</text>
+		<text id="sec.l.userPass" h="F37B341A">Hasło:</text>
+		<text id="sec.meta" h="D336DF65">&amp;Szyfruj metadane dokumentu (zgodność z Acrobat 6.0 i nowszym)</text>
+		<text id="sec.timestamp" h="C75027C6">&amp;Serwer znacznika czasu:</text>
+		<text id="sec.tsa.manage" h="083DA21D">Zarządzaj...</text>
+		<text id="sec.userPwd" h="8245E2E7">&amp;Hasło wymagane do otwarcia dokumentu:</text>
+		<text id="sec.ownerPwd" h="CFDC25CE">&amp;Hasło wymagane do zmiany uprawnień i/lub haseł:</text>
+		<text id="settings.btn.manage" h="083DA21D">Zarządzaj...</text>
+		<text id="settings.l.mode" h="71941FD8">&amp;Tryb sterownika:</text>
+		<text id="settings.l.profile" h="235B6AC4">Profil:</text>
+		<text id="tsa.auth" h="89DD97BE">&amp;Serwer wymaga uwierzytelnienia</text>
+		<text id="tsa.g1.title" h="23C488F9">Właściwości serwera</text>
+		<text id="tsa.l.name" h="09FAD31D">&amp;Nazwa:</text>
+		<text id="tsa.l.pass" h="7FAD5B01">&amp;Hasło:</text>
+		<text id="tsa.l.url" h="B037DABE">&amp;URL serwera:</text>
+		<text id="tsa.l.user" h="6901D750">&amp;Nazwa użytkownika:</text>
+		<text id="we.asBkgnd" h="ADDFAB64">&amp;Jako tło</text>
+		<text id="we.bold" h="5FC7126F">&amp;Pogrubienie</text>
+		<text id="we.fit" h="FA54BFC0">&amp;Dopasuj do strony</text>
+		<text id="we.g1.title" h="F6FFF0BE">Właściwości</text>
+		<text id="we.g2.title" h="EFFDDE78">Wygląd</text>
+		<text id="we.g3.title" h="A66EEC0E">Opcje położenia</text>
+		<text id="we.italic" h="F3B88BFB">&amp;Kursywa</text>
+		<text id="we.keepAspect" h="C8B15E62">&amp;Zachowaj proporcje</text>
+		<text id="we.l.color" h="40DB132E">&amp;Kolor:</text>
+		<text id="we.l.fname" h="09FAD31D">&amp;Nazwa:</text>
+		<text id="we.l.font" h="6196C38F">&amp;Czcionka:</text>
+		<text id="we.l.from" h="D834510D">z:</text>
+		<text id="we.l.height" h="EF61EFBD">Wysokość:</text>
+		<text id="we.l.hoffset" h="49A48A03">&amp;Przesunięcie poziomo:</text>
+		<text id="we.l.name" h="2639BB67">&amp;Nazwa znaku wodnego:</text>
+		<text id="we.l.opacity" h="F862D017">&amp;Krycie:</text>
+		<text id="we.l.page" h="660A3F38">Strona:</text>
+		<text id="we.l.of" h="253BE8A3">(z %1)</text>
+		<text id="we.l.placeon" h="27B3C8C6">Umieszczony na:</text>
+		<text id="we.l.rotation" h="4667EEF3">&amp;Obrót:</text>
+		<text id="we.l.size" h="E1908ECB">Rozmiar:</text>
+		<text id="we.l.talign" h="987B5D23">Wyrównanie:</text>
+		<text id="we.l.text" h="EED05C77">&amp;Tekst:</text>
+		<text id="we.l.type" h="2960F9E7">&amp;Typ:</text>
+		<text id="we.l.visibleon" h="70D63AFC">Widoczny na:</text>
+		<text id="we.l.voffset" h="136683BA">&amp;Przesunięcie pionowo:</text>
+		<text id="we.l.width" h="85C783C5">Szerokość:</text>
+		<text id="we.outlines" h="EF13DB11">&amp;Jako kontury</text>
+		<text id="we.transColor" h="AC5903C6">Kolor przezroczysty:</text>
+		<text id="wtm.enable" h="E36FC80F">&amp;Włącz drukowanie znaków wodnych</text>
+		<text id="wtm.list.cue" h="F89305B7">Nie zdefiniowano znaków wodnych</text>
+		<text id="prof.l.info" h="D5319E61">Informacje o profilu</text>
+		<text id="prof.l.name" h="09FAD31D">&amp;Nazwa:</text>
+		<text id="prof.l.comment" h="D41C404F">&amp;Komentarz:</text>
+		<text id="prof.manage.g1" h="C71AA825">Dostępne reguły</text>
+		<text id="custhf.l.left" h="192F6142">Lewa sekcja:</text>
+		<text id="custhf.l.center" h="C0678ECB">Środkowa sekcja:</text>
+		<text id="custhf.l.right" h="3CB13D9F">Prawa sekcja:</text>
+		<text id="dlg.AddMode.app" h="D2DF7469">Nazwa aplikacji:</text>
+		<text id="dlg.AddMode.mode" h="25328698">Tryb sterownika dla określonej aplikacji:</text>
+	</Strings>
+</Localization>

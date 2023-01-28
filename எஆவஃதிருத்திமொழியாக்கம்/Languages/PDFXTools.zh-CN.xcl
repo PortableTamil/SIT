@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170426012613">2.00.00</Version>
+	<Author>Sense Snow</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXTools"/>
+	<Language eName="Chinese (Simplified, China)" lName="中文(简体)" code="zh-CN" R2L="false"/>
+	<Module name="PDFXTools" namespace="pdft" version="6.0.322.0"/>
+	<Strings>
+		<text id="accessed" h="45570324">已访问</text>
+		<text id="act.askForSourceFiles" h="9113EFAC">询问源文件</text>
+		<text id="act.askForSourceFiles.desc" h="D9CFCF4B">显示可指定源文件的对话框。</text>
+		<text id="act.deletePages.lbl" h="75141561">要删除的页面范围：</text>
+		<text id="act.discardPDFStd" h="E3398087">忽略 PDF 标准</text>
+		<text id="act.discardPDFStd.desc" h="E1FB71BA">忽略 PDF 标准信息, 如 PDF/X, PDF/A, PDF/E...</text>
+		<text id="act.doc.addBackground" h="8B83981C">更改页面背景</text>
+		<text id="act.doc.addBackground.desc" h="8C8F71BF">在内容下层设置页面背景。</text>
+		<text id="act.doc.addBatesNumbering" h="5987A707">添加贝茨编号</text>
+		<text id="act.doc.addBatesNumbering.desc" h="19058FA5">提供用于索引法律文档的贝茨编号, 便于识别和检索等。</text>
+		<text id="act.doc.addDigSign" h="97DD789F">添加数字签名</text>
+		<text id="act.doc.addDigSign.desc" h="BB76CA39">使用基于证书的数字标识添加和签署新的签名。</text>
+		<text id="act.doc.addHeaderAndFooter" h="71EBAC62">添加页眉和页脚</text>
+		<text id="act.doc.addHeaderAndFooter.desc" h="8697B047">将页眉和页脚添加到指定的页面。页眉和页脚可以包括日期、自动页码编排、标题和作者等。</text>
+		<text id="act.doc.addTimeStamp" h="896D61BF">添加时间戳</text>
+		<text id="act.doc.addTimeStamp.desc" h="2FDF1628">在时间戳所指示的时间添加文档级时间戳，以保证 PDF 文件的内容完整。这是从指定的时间戳颁发机构获得的。</text>
+		<text id="act.doc.addWatermarks" h="AA010705">添加水印</text>
+		<text id="act.doc.addWatermarks.desc" h="A89FAD30">在页面内容前面或后面添加显示的文本/图像。</text>
+		<text id="act.doc.certify" h="C2AFA656">核实文件</text>
+		<text id="act.doc.certify.desc" h="402B64F2">通过认证签名域来保护 PDF 文档。</text>
+		<text id="act.doc.changeProps" h="89CBAD2F">更改文档属性</text>
+		<text id="act.doc.changeProps.desc" h="40BD1FE7">设置文档属性: 标题、作者、主题、关键词等。</text>
+		<text id="act.doc.clearDigSign" h="7E6883B8">清除数字签名</text>
+		<text id="act.doc.clearDigSign.desc" h="E1CDD425">删除所有数字签名 (如果可能), 保留未签名的签名字段。</text>
+		<text id="act.doc.convertToPDFA" h="86709E15">转换为 PDF/A</text>
+		<text id="act.doc.convertToPDFA.desc" h="89A9625A">使文档符合 PDF/A 标准, 以便长期存档和保存。</text>
+		<text id="act.doc.convertToPDFX" h="1D70370D">转换为 PDF/X</text>
+		<text id="act.doc.convertToPDFX.desc" h="BB077FA6">使文档符合 PDF/X 标准, 以便交换打印数据。</text>
+		<text id="act.doc.cropPages" h="54A95B63">裁剪页面</text>
+		<text id="act.doc.cropPages.desc" h="9F01A5F4">调整可见页面区域, 更改或删除页面上的页边距, 设置页面框。</text>
+		<text id="act.doc.deletePages" h="E5284839">删除页面</text>
+		<text id="act.doc.deletePages.desc" h="0EA6D9E9">从文档删除指定范围的页面</text>
+		<text id="act.doc.exportToDOCX" h="D89F515F">导出 PDF 为 Microsoft Word 文档</text>
+		<text id="act.doc.exportToDOCX.desc" h="D5E45C48">导出 PDF 为 Microsoft Word 文档(*.docx)。</text>
+		<text id="act.doc.exportToImages" h="6DC3C315">导出 PDF 为图像</text>
+		<text id="act.doc.exportToImages.desc" h="0EA3EE6B">将页面从一个或多个 PDF 导出到不同的光栅图像格式: 如 JPEG、PNG、TIFF 等。</text>
+		<text id="act.doc.exportToPPTX" h="E673A7B8">导出 PDF 为 Microsoft PowerPoint 演示文稿</text>
+		<text id="act.doc.exportToPPTX.desc" h="E0A7703F">导出 PDF 为 Microsoft PowerPoint 演示文稿(*.pptx)。</text>
+		<text id="act.doc.exportToTXT" h="29DDD177">导出 PDF 为 文本文件</text>
+		<text id="act.doc.exportToTXT.desc" h="3D8783C4">导出 PDF 为 文本文件(*.txt)。</text>
+		<text id="act.doc.exportToXLSX" h="A31C131A">导出 PDF 为 Microsoft Excel 表格</text>
+		<text id="act.doc.exportToXLSX.desc" h="F853AC85">导出 PDF 为 Microsoft Excel 表格(*.xlsx)。</text>
+		<text id="act.doc.extractImages" h="4CF9FEB6">从 PDF 提取图像</text>
+		<text id="act.doc.extractImages.desc" h="454EBA71">在文档中搜索光栅图像并提取。</text>
+		<text id="act.doc.extractPages" h="7AE73EC1">提取页面</text>
+		<text id="act.doc.extractPages.desc" h="8FCE1EA7">提取指定的页面范围到新文档。</text>
+		<text id="act.doc.insertPages" h="6B486B45">插入页面</text>
+		<text id="act.doc.insertPages.desc" h="C8087FC8">从其它文档插入页面。</text>
+		<text id="act.doc.ocrPages" h="D2A189BC">OCR 识别页面</text>
+		<text id="act.doc.ocrPages.desc" h="517C34C3">扫描页中的文本图像, 并识别文本字符。插入不可见文本层, 用于文本选择、搜索等。</text>
+		<text id="act.doc.optimize" h="854E1BE4">优化文档</text>
+		<text id="act.doc.optimize.desc" h="988BB3B9">优化文档以减小 PDF 文件的大小。</text>
+		<text id="act.doc.overlayDoc" h="A113E021">盖印 PDF</text>
+		<text id="act.doc.overlayDoc.desc" h="8AC5B664">用另一 PDF 文档作为盖印文件添加到 PDF 文档。</text>
+		<text id="act.doc.pageNumbering" h="21AF4605">页码</text>
+		<text id="act.doc.pageNumbering.desc" h="A2BA72A1">添加页码。</text>
+		<text id="act.doc.removeBackground" h="7C270CB4">删除页面背景</text>
+		<text id="act.doc.removeBackground.desc" h="17700648">从页面中删除自定义背景, 恢复默认的纯白色背景。</text>
+		<text id="act.doc.removeBatesNumbering" h="901F5ABD">删除贝茨编号</text>
+		<text id="act.doc.removeBatesNumbering.desc" h="E4FBEB3C">删除所有贝茨编号</text>
+		<text id="act.doc.removeHeaderAndFooter" h="11E8A996">删除页眉和页脚</text>
+		<text id="act.doc.removeHeaderAndFooter.desc" h="E1CC0743">删除所有页眉和页脚。</text>
+		<text id="act.doc.removeWatermarks" h="93F16CE2">删除水印</text>
+		<text id="act.doc.removeWatermarks.desc" h="629EC84B">删除所有水印</text>
+		<text id="act.doc.replacePages" h="1311083C">替换页面</text>
+		<text id="act.doc.replacePages.desc" h="8C5176DA">替换文档中的页面。</text>
+		<text id="act.doc.resizePages" h="8A5C31F1">调整页面大小</text>
+		<text id="act.doc.resizePages.desc" h="8F74355D">增加/缩小页面大小, 可选择缩放页面内容。</text>
+		<text id="act.doc.rotatePages" h="CBD82045">旋转页面</text>
+		<text id="act.doc.rotatePages.desc" h="00CCD6AD">90度顺时针或逆时针旋转页面。</text>
+		<text id="act.doc.setSecurity" h="09A28BF5">保护文档</text>
+		<text id="act.doc.setSecurity.desc" h="AF6D0BF7">通过设置打开、更改文档内容的密码来保护您的 PDF 文档。允许删除安全限制。</text>
+		<text id="act.filesToPDF" h="A382536E">转换为 PDF</text>
+		<text id="act.filesToPDF.desc" h="40567B4F">转换支持的格式为 PDF。</text>
+		<text id="act.flags.arrdoc" h="F5023560">文档数组</text>
+		<text id="act.flags.arrfile" h="AF02951A">文件数组</text>
+		<text id="act.flags.arrimage" h="AD43894A">图像数组</text>
+		<text id="act.flags.arrname" h="A46C1DFE">名称数组</text>
+		<text id="act.flags.doc" h="0417E245">文档</text>
+		<text id="act.flags.file" h="AFFADF08">文件</text>
+		<text id="act.flags.image" h="6F479465">图像</text>
+		<text id="act.flags.name" h="28F021B5">名称</text>
+		<text id="act.flags.nothing" h="C06D6B01">无</text>
+		<text id="act.group.PDFStandard" h="E51FAF25">PDF 标准</text>
+		<text id="act.group.advanced" h="59A2B513">高级</text>
+		<text id="act.group.comments" h="FA5EB905">注释</text>
+		<text id="act.group.createPDF" h="ACF7EBD1">创建PDF</text>
+		<text id="act.group.exportPDF" h="4AE54AB5">导出 PDF</text>
+		<text id="act.group.inputOutput" h="178214DA">输入/输出</text>
+		<text id="act.group.optimizePDF" h="E369C144">优化 PDF</text>
+		<text id="act.group.pages" h="47B1CB74">页面</text>
+		<text id="act.group.protection" h="B7EE190B">保护</text>
+		<text id="act.imagesToPDF" h="B0C7E05C">从图片创建PDF</text>
+		<text id="act.imagesToPDF.desc" h="43AF6AF6">从一个或多个光栅图像创建单个 PDF 文档。</text>
+		<text id="act.saveDocs" h="07936326">保存文档</text>
+		<text id="act.saveDocs.desc" h="32932EE9">保存对文档/文档集的更改, 或保存新创建的文件。</text>
+		<text id="act.saveImages" h="2EBC4084">保存图像</text>
+		<text id="act.saveImages.desc" h="3A5C69E3">将光栅图像保存为磁盘上的文件。</text>
+		<text id="act.scanToImages" h="3C7180B5">从扫描仪获取图像</text>
+		<text id="act.scanToImages.desc" h="E0F7A297">扫描纸面文档并从扫描中创建基于 PDF 的图像。</text>
+		<text id="act.showFiles" h="7E16D9C8">显示文件</text>
+		<text id="act.showFiles.desc" h="5A081173">打开包含这些文件的文件夹, 或启动每个文件的默认处理程序。</text>
+		<text id="act.splitMergeDocs" h="8343835D">分割/合并文档</text>
+		<text id="act.splitMergeDocs.desc" h="B253B87D">自动或手动将所有输入的 pdf 合并为一个, 或将其拆分为新的 pdf。</text>
+		<text id="act.textToPDF" h="ECE46B63">从文本创建PDF</text>
+		<text id="act.textToPDF.desc" h="F9A66354">从一个或多个文本文件创建单个 PDF 文档。</text>
+		<text id="act.warn.title" h="76F57ED1">警告：</text>
+		<text id="actCloseBtnTip" h="087A8145">单击此处, 从列表中删除动作</text>
+		<text id="actOnOffUITip" h="18682AEB">单击此处可在运行时打开/关闭动作</text>
+		<text id="actionInfo.defaultDesc" h="845515AD">从动作过滤器列表中选择一个动作过滤器以查看信息。</text>
+		<text id="actionInfo.defaultTitle" h="375B13FE">选择动作...</text>
+		<text id="addbookmark.chk" h="C7B70DCB">用文件名作为根书签</text>
+		<text id="afsf.dlg.editAvail" h="70C3C982">可用的文件过滤器</text>
+		<text id="afsf.prop.choose.name" h="758F38E8">选择动作过滤器</text>
+		<text id="afsf.prop.choose.tip" h="758F38E8">选择动作过滤器</text>
+		<text id="afsf.prop.choose.title" h="758F38E8">选择动作过滤器</text>
+		<text id="afsf.prop.manage.name" h="1B8E7007">自定义滤镜</text>
+		<text id="afsf.prop.manage.tip" h="1B8E7007">自定义滤镜</text>
+		<text id="afsf.prop.manage.title" h="1B8E7007">自定义滤镜</text>
+		<text id="afsf.warn.concrete.ext" h="53C964C1">文件 '%1' 的扩展名与 "请求的源文件" 操作参数不兼容。</text>
+		<text id="afsf.warn.ext" h="22CA0C4B">文件扩展名与 "请求的源文件" 操作参数不兼容。</text>
+		<text id="align.bottom" h="08F4AB6F">底部</text>
+		<text id="align.center" h="CBEFB4D0">居中</text>
+		<text id="align.left" h="8CEAA299">左</text>
+		<text id="align.middle" h="D27F520F">中</text>
+		<text id="align.right" h="2D8A4EE6">右</text>
+		<text id="align.top" h="249A2BBD">顶部</text>
+		<text id="alignoverlay" h="B7EB1785">盖印文件与新 PDF 文档的页面进行对齐：</text>
+		<text id="another.ovrfile.title" h="AEFCE724">选择另一个水印文件</text>
+		<text id="attributes" h="71F6D064">属性</text>
+		<text id="availActionsList" h="477E6AC0">动作库</text>
+		<text id="btn.delete" h="D8FE3F70">删除</text>
+		<text id="btn.edit" h="621534A3">编辑...</text>
+		<text id="byhoriz" h="AE80ABA7">水平对齐：</text>
+		<text id="byvert" h="138F572B">垂直对齐：</text>
+		<text id="chk.savepwd" h="2DACA98E">保存密码以备将来使用</text>
+		<text id="choose.file" h="D8D81DA5">选择文件</text>
+		<text id="chooseFiles.chooseForPreview" h="B4BD25C6">选择要预览的文件</text>
+		<text id="chooseFiles.fromScanner" h="BDBDAE44">来自扫描仪的图像</text>
+		<text id="chooseFiles.scansubfolders" h="05971C7B">是否要从所选文件夹的子文件夹中添加文件？</text>
+		<text id="chooseFiles.unknownImageType" h="18901815">未知图像类型</text>
+		<text id="choosefiles.title" h="2E856073">选择输入文件</text>
+		<text id="choosefiles.warning" h="88E4DD69">在此列表中添加一些文件。</text>
+		<text id="choosestd.lbl" h="F999AF4C">禁用标准：</text>
+		<text id="choosetools.export.caption" h="89168619">选择要导出的工具设置</text>
+		<text id="choosetools.import.caption" h="4D9B8134">选择要导入的工具设置</text>
+		<text id="ck.all" h="65CCA5D0">显示所有文件(*.*) 过滤器</text>
+		<text id="cmd.actionInfoPane.tip" h="EA4CDC04">显示/隐藏动作信息窗格。</text>
+		<text id="cmd.availActionsPane.tip" h="EE8A6FE7">显示/隐藏动作库窗格。</text>
+		<text id="cmd.catlist.add.tip" h="22122FE1">增加新的工具类别</text>
+		<text id="cmd.catlist.delete.tip" h="EEA9A8DE">删除选定类别</text>
+		<text id="cmd.catlist.rename.tip" h="92047AAD">重命名选定类别</text>
+		<text id="cmd.close.tip" h="803D7B54">在关闭工具编辑之前要求更改。</text>
+		<text id="cmd.collapseAll.tip" h="4B0945EA">折叠所有展开项目。</text>
+		<text id="cmd.continue.tip" h="449BD617">继续运行工具。</text>
+		<text id="cmd.copyToolID.tip" h="C84C435C">复制工具标识符到剪贴板。</text>
+		<text id="cmd.delete.tip" h="1645B116">删除选定的工具。</text>
+		<text id="cmd.deleteAction.tip" h="8D3F7647">删除选定的动作。</text>
+		<text id="cmd.docsList.collapseAll.tip" h="4B0945EA">折叠所有展开项目。</text>
+		<text id="cmd.docsList.delete.tip" h="AFC734F6">从列表中移除选定的项。</text>
+		<text id="cmd.docsList.expandAll.tip" h="B8DEF87E">展开所有折叠项目。</text>
+		<text id="cmd.docsList.invertPagesSel.tip" h="D48EAFF2">插入页面选择到文档项目。</text>
+		<text id="cmd.docsList.redo.tip" h="D864EFC4">恢复上次撤消的操作。</text>
+		<text id="cmd.docsList.rename.tip" h="D13799F6">重命名选定的文档项目。</text>
+		<text id="cmd.docsList.selectPages.tip" h="2BA1CFDF">选择所选文档中的特定页面。</text>
+		<text id="cmd.docsList.showPreview.tip" h="5FDF66AB">显示/隐藏选定项的预览窗格。</text>
+		<text id="cmd.docsList.showRepo.tip" h="A9FDC14F">显示/隐藏临时存储库窗格。它对不同文档间拖放页很有用。</text>
+		<text id="cmd.docsList.undo.tip" h="68378895">恢复上次的操作。</text>
+		<text id="cmd.docsList.zoomIn.tip" h="EEFCC59E">放大缩略图。</text>
+		<text id="cmd.docsList.zoomOut.tip" h="B4B12D5A">缩小缩略图。</text>
+		<text id="cmd.docsList.zoomSlider.tip" h="0F91092C">缩放页面缩略图。</text>
+		<text id="cmd.editDocList.clearAll.tip" h="8D064794">清除页面存储库。</text>
+		<text id="cmd.editModeView.tip" h="FED08A06">显示/隐藏高级窗格。</text>
+		<text id="cmd.expandAll.tip" h="B8DEF87E">展开所有折叠的项目。</text>
+		<text id="cmd.filesList.addFiles.tip" h="49EDA302">单击以显示标准对话框以选择文件...</text>
+		<text id="cmd.filesList.addFolder.tip" h="6761456F">单击以显示标准对话框以选择文件夹，然后添加文件...</text>
+		<text id="cmd.filesList.addFromScanner.tip" h="B4E7ED2C">单击选择扫描设备，然后开始获取图像...</text>
+		<text id="cmd.filesList.delete.tip" h="1B809C28">所选项目已删除。无法撤消删除操作。</text>
+		<text id="cmd.filesList.detailsView.tip" h="6570BFC4">切换到详细信息视图。</text>
+		<text id="cmd.filesList.edit.tip" h="A8CCCC15">编辑所选项目。</text>
+		<text id="cmd.filesList.moveDown.tip" h="96CBF2AC">向下移动所选项目。</text>
+		<text id="cmd.filesList.moveUp.tip" h="239B490C">向上移动所选项目。</text>
+		<text id="cmd.filesList.openContFolder.tip" h="4967EB0F">打开所在的文件夹并在 Windows 资源管理器中选择相应的文件。</text>
+		<text id="cmd.filesList.selectPages.tip" h="9D36120F">选择选定文档中的指定页面。</text>
+		<text id="cmd.filesList.showPreview.tip" h="5FDF66AB">显示/隐藏所选项目的预览窗格。</text>
+		<text id="cmd.filesList.thumbsView.tip" h="E9F10E3C">切换到缩略图视图。</text>
+		<text id="cmd.filesList.zoomIn.tip" h="EEFCC59E">放大缩略图。</text>
+		<text id="cmd.filesList.zoomOut.tip" h="B4B12D5A">缩小缩略图。</text>
+		<text id="cmd.filesList.zoomSlider.tip" h="0F91092C">缩放页面缩略图。</text>
+		<text id="cmd.help.about.tip" h="D3746489">显示本程序的版本和许可证信息。</text>
+		<text id="cmd.help.checkForUpdates.tip" h="73587378">检查本程序的更新。</text>
+		<text id="cmd.help.contents.tip" h="08AC959F">打开详细的联机帮助。</text>
+		<text id="cmd.help.enterkey.tip" h="D3746489">显示本程序的版本和许可证信息。</text>
+		<text id="cmd.help.homepage.tip" h="EBA22B5A">访问本程序官方网站。</text>
+		<text id="cmd.help.support.tip" h="B8C0C0FB">访问支持论坛。</text>
+		<text id="cmd.help.tip" h="F59770E5">帮助。</text>
+		<text id="cmd.impexp.expseltools.tip" h="0E445E08">将选定的工具设置导出到文件。</text>
+		<text id="cmd.impexp.expsett.tip" h="1BEC5F75">将所有程序选项和工具设置导出到文件。</text>
+		<text id="cmd.impexp.exptools.tip" h="66B0E107">将工具设置导出到文件。</text>
+		<text id="cmd.impexp.impsett.tip" h="3845D20B">从文件中导入所有程序选项和工具设置。</text>
+		<text id="cmd.impexp.imptools.tip" h="112B2FCB">从文件中导入工具设置。</text>
+		<text id="cmd.impexp.shortcut.tip" h="F695107D">在桌面上创建选定工具的快捷方式。</text>
+		<text id="cmd.impexp.tip" h="CE31B671">导入/导出工具集或本程序设置文件。</text>
+		<text id="cmd.moveDown.tip" h="96CBF2AC">向下移动所选项目。</text>
+		<text id="cmd.moveUp.tip" h="239B490C">向上移动所选项目。</text>
+		<text id="cmd.opts.tip" h="0DB1D677">包含用于管理应用程序设置的功能。</text>
+		<text id="cmd.prefs.tip" h="35A54BBC">显示程序选项对话框。</text>
+		<text id="cmd.redo.tip" h="D864EFC4">恢复以前撤消的操作。</text>
+		<text id="cmd.resetSelAction.tip" h="9416B4A0">将选定的动作选项重置为默认值。</text>
+		<text id="cmd.resetSett.tip" h="F72C4CB6">将所有程序选项重置为默认值, 并仅使用默认的工具。</text>
+		<text id="cmd.resetTool.tip" h="63100C06">将工具选项重置为默认值。</text>
+		<text id="cmd.resetseltools.tip" h="7FCF3BF7">将选定的动作选项重置为默认值。</text>
+		<text id="cmd.save.tip" h="45AC7E5D">保存工具选项的更改。</text>
+		<text id="cmd.search.tip" h="FC8CBAA4">搜索工具。</text>
+		<text id="cmd.showActionInfoPane.tip" h="B9D63B80">显示/隐藏动作信息</text>
+		<text id="cmd.showActionLibrary.tip" h="7F2B551F">显示/隐藏动作库</text>
+		<text id="cmd.test.tip" h="9E04AEAA">测试中的特性！</text>
+		<text id="cmd.tool.clone.tip" h="D8321AF8">复制所选工具。</text>
+		<text id="cmd.tool.create.tip" h="3D4C85B7">创建一个新工具。</text>
+		<text id="cmd.tool.edit.tip" h="426AAF33">编辑所选工具。</text>
+		<text id="cmd.tool.run.tip" h="BF1530FA">运行所选工具。</text>
+		<text id="cmd.undo.tip" h="68378895">撤销最后的动作。</text>
+		<text id="cmdline.toolnotfound" h="E24BDF60">找不到要运行的工具。</text>
+		<text id="common" h="FF51CD90">通用</text>
+		<text id="created" h="BC03BBEA">已创建</text>
+		<text id="custToolsGrName" h="22F07048">自定义工具</text>
+		<text id="custom" h="A918FF38">自定义</text>
+		<text id="dclick.authorize" h="E62FEA98">单击授权存储</text>
+		<text id="delete.all.pages" h="E66ECE13">禁止删除所有页面。</text>
+		<text id="deletecat.warn" h="8A426B75">确定要删除类别&lt;b&gt;"%1"&lt;/b&gt;和它包含的所有工具吗？
+注意: 无法撤消删除操作。</text>
+		<text id="dlg.managefilters" h="BEEA26C3">管理滤镜</text>
+		<text id="docauthor.l" h="7E318A91">作者：</text>
+		<text id="doccreator.l" h="48BB2AC2">创建者：</text>
+		<text id="dockeywords.l" h="EE89DD49">关键词：</text>
+		<text id="docproducer.l" h="30A8E856">制造商：</text>
+		<text id="docsubject.l" h="A59102F6">主题：</text>
+		<text id="doctitle.l" h="930D3835">标题：</text>
+		<text id="editDocList.containsPages" h="8F4BA4D9">包括 %1 页</text>
+		<text id="editDocList.document" h="13289938">文档</text>
+		<text id="editDocList.empty.hint" h="C46828D2">无页面</text>
+		<text id="editDocList.noPages" h="DD007EC4">空</text>
+		<text id="editDocList.repository.hint" h="0071AB8A">您可以将页面放在此处以进行临时存储。</text>
+		<text id="editDocList.title" h="BB7D1179">手动分割/合并文档</text>
+		<text id="editDocList.undefined" h="9FA2DA79">未定义</text>
+		<text id="editDocList.warning" h="F36DBC31">文档列表不应为空。
+您可以尝试撤消最后的操作以使列表不为空。</text>
+		<text id="editDocList.warning.emptyname" h="D690297C">文档名不能为空</text>
+		<text id="editDocList.warning.invalidsymbols" h="40A214FA">无效的文档名</text>
+		<text id="editview.header.changeicon" h="E86B95CD">更改...</text>
+		<text id="editview.header.dialog.multiline" h="767057E1">编辑工具描述</text>
+		<text id="empty.document" h="06A26641">文档 "%1" 为空。它将被跳过</text>
+		<text id="enter.pwd.descr" h="77485A4B">输入密码提示（可选）</text>
+		<text id="pwd.defaultDescr" h="EBF5010F">我的预定义密码</text>
+		<text id="enterNewDocName" h="68FD05C5">输入新文档名：</text>
+		<text id="expsett.extension.desc" h="F00D3D31">PDF 工具集设置文件</text>
+		<text id="expsett.failed" h="D36046ED">导出设置失败</text>
+		<text id="expsett.open.caption" h="92B281E9">打开导入文件</text>
+		<text id="expsett.save.caption" h="C1A8C6FD">保存导出文件</text>
+		<text id="exptools.extension.desc" h="DC98B451">PDF 工具集交换文件</text>
+		<text id="exptools.failed" h="7A69DC15">导出工具失败</text>
+		<text id="exptools.open.caption" h="99F5ECED">选择导入文件</text>
+		<text id="exptools.save.caption" h="C1A8C6FD">保存导出文件</text>
+		<text id="extension" h="14FEB836">扩展</text>
+		<text id="fileLocation" h="7BC24E5F">文件位置：</text>
+		<text id="fileprop.author" h="F6A8A4C0">作者</text>
+		<text id="fileprop.bpc" h="02071BA4">每通道位数</text>
+		<text id="fileprop.bpp" h="EC790768">每像素位数</text>
+		<text id="fileprop.channels" h="D3AE76A2">通道</text>
+		<text id="fileprop.creator" h="CF26EE59">创建者</text>
+		<text id="fileprop.dimension" h="96A76700">尺寸</text>
+		<text id="fileprop.horDpi" h="576C5071">水平 DPI</text>
+		<text id="fileprop.page" h="D70A809E">页面</text>
+		<text id="fileprop.pageRotation" h="ECFC9C66">旋转</text>
+		<text id="fileprop.pagesCount" h="AAE42CE5">页面计数</text>
+		<text id="fileprop.pdfVer" h="4C06CDA5">PDF 版本</text>
+		<text id="fileprop.producer" h="C54CE945">制造商</text>
+		<text id="fileprop.subject" h="B6BCF595">主题</text>
+		<text id="fileprop.title" h="796DFAD3">标题</text>
+		<text id="fileprop.verDpi" h="33423CE9">垂直 DPI</text>
+		<text id="filestopdf.setup" h="FB20B28D">设置...</text>
+		<text id="finalizing" h="B702861F">正在完成 %1...</text>
+		<text id="fitoverlay" h="E2F09068">盖印文件适应新创建文档的页面大小</text>
+		<text id="impsett.alert" h="0B2EB063">确定要导入所有程序设置吗？
+注意: 无法撤消导入操作。</text>
+		<text id="impsett.failed" h="AA8A96CF">导入设置失败</text>
+		<text id="imptools.failed" h="DAD93596">导入工具失败</text>
+		<text id="info" h="07FB97A4">信息</text>
+		<text id="inserting.page" h="7985F658">在页%1 到 页%2 之间插入页面</text>
+		<text id="keepaspect" h="A90996CD">保持纵横比</text>
+		<text id="lb.availFF" h="6E3CAD3A">在对话框中的下拉列表中为文件类型选择适用的过滤器：</text>
+		<text id="lb.presetFF" h="9C590515">预设：</text>
+		<text id="lbl.ShowResult" h="C5236BCD">完成后显示结果</text>
+		<text id="lbl.actualview" h="D865F4B2">实际图像视图</text>
+		<text id="lbl.allowMult" h="3B9DFCE0">允许选择多个文件</text>
+		<text id="lbl.alwaysUseMultipage" h="6C82FB30">始终使用多页</text>
+		<text id="lbl.askDeleteTool" h="1541D739">确实要删除工具&lt;b&gt;"%1"&lt;/b&gt;吗？
+注意: 无法撤消删除操作。</text>
+		<text id="lbl.askDeleteTools" h="25C684AA">确实要删除工具&lt;b&gt;%1&lt;/b&gt; 吗？
+注意: 删除无法撤消, 只能删除自定义工具。</text>
+		<text id="lbl.askSaveChanges" h="4F19099B">要保存之前的更改吗？</text>
+		<text id="lbl.chooseAction" h="5EA681F4">从列表中选择一个动作：</text>
+		<text id="lbl.choosefiles.dndhint" h="8CF7925F">使用上面工具栏上的按钮添加文件, 或将其拖放到此处。您可以按所需顺序排列它们。</text>
+		<text id="lbl.choosefiles.itemscount" h="2CFE0C7C">%1 个项目</text>
+		<text id="lbl.choosefiles.selitemscount" h="402CD736">%1 个项目 • %2 个已选择 • %3</text>
+		<text id="lbl.choosepages" h="668A500A">在文档中选择页面：</text>
+		<text id="lbl.continue" h="A5F0062A">继续</text>
+		<text id="lbl.editViewToolDesc" h="0F22DAFE">输入该工具的有关描述：</text>
+		<text id="lbl.editViewToolName" h="76F4AA91">输入工具的名称:</text>
+		<text id="lbl.editdocs.dndhint" h="2FAC7414">您可以使用拖放来在文档之间移动页面并重新排序它们。您还可以通过在文档项的外部/中间放置页面来创建新文档。</text>
+		<text id="lbl.editview.dndhint" h="42E43BBA">您可以使用拖放来重新排序现有的动作, 或从右侧的列表中添加新的动作。</text>
+		<text id="lbl.editview.dndhint2" h="714B17C6">单击并拖动右侧列表中的动作, 然后在此处放置。</text>
+		<text id="lbl.emptyCatList" h="488587B8">类别列表为空</text>
+		<text id="lbl.emptyToolList" h="B2BFE203">工具集列表为空。</text>
+		<text id="lbl.extractSizeLimit" h="0EA996F6">排除小于以下标准的图片</text>
+		<text id="lbl.fileTypes" h="60ECC8E9">文件类型：</text>
+		<text id="lbl.filestopdf.converters" h="902CF9B3">转换器：</text>
+		<text id="lbl.grouping" h="79C8A88E">分组模式</text>
+		<text id="lbl.keeptransparent" h="5070A5EB">保持透明</text>
+		<text id="lbl.multipagetype" h="C5A5712F">选择多页图像类型：</text>
+		<text id="lbl.noActionFound" h="105B87AB">找不到与您的搜索请求匹配的动作。</text>
+		<text id="lbl.noCategoryFound" h="CEC17229">找不到与您的搜索请求匹配的类别。</text>
+		<text id="lbl.noToolFound" h="181055BB">找不到与您的搜索请求匹配的工具。</text>
+		<text id="lbl.reverseOrder" h="9564C9FE">以相反的顺序保存</text>
+		<text id="lbl.run" h="19264084">运行</text>
+		<text id="lbl.savemode" h="D16859B7">保存选项</text>
+		<text id="lbl.showextui" h="1E2770E2">显示额外的文件选择对话框</text>
+		<text id="lbl.singlepagetype" h="A6AF6C93">选择单页图像类型：</text>
+		<text id="loading" h="DC6A6C81">加载中...</text>
+		<text id="location" h="52D95020">位置</text>
+		<text id="modified" h="30325672">已修改</text>
+		<text id="moduleName" h="9B0F448F">PDF 工具集</text>
+		<text id="name" h="D18643E3">名称</text>
+		<text id="no.pages.to.delete" h="7A9E4694">没有页面要删除。</text>
+		<text id="nooverlay.file" h="4D9B1EA6">没有指定盖印文件</text>
+		<text id="ovr.file" h="D8EE6FEB">水印文件：</text>
+		<text id="ovr.norepeat" h="E58FFCC1">不重复</text>
+		<text id="ovr.positions" h="E9C070C5">位置</text>
+		<text id="ovr.repeat" h="DB39711A">重复选项</text>
+		<text id="ovr.repeatall" h="FB4118C6">重复水印文件</text>
+		<text id="ovr.repeatlast" h="87F51B84">重复水印文件的最后一页</text>
+		<text id="ovr.settings" h="2FF7690D">水印选项</text>
+		<text id="page.props" h="F521B2C3">页面属性</text>
+		<text id="pagenumber" h="29EED2B3">页码</text>
+		<text id="pagesRange" h="30C24AC3">页面范围</text>
+		<text id="pagesSubset.all" h="599C6EE6">指定范围内的所有页面</text>
+		<text id="pagesSubset.even" h="E64675B8">选定范围内的偶数页</text>
+		<text id="pagesSubset.odd" h="87228BC5">选定范围内的奇数页</text>
+		<text id="pagesrange.empty" h="630795CE">页面范围不能为空。</text>
+		<text id="pdf.properies" h="70EFADF5">PDF 属性</text>
+		<text id="place.foreground" h="0669CDF0">将水印作为前景</text>
+		<text id="policy.msg" h="3AE36A58">未创建安全策略。
+要创建吗？</text>
+		<text id="preview.ovrfile" h="5593AECC">预览水印文件</text>
+		<text id="progress.pause" h="6045D570">暂停</text>
+		<text id="prompt.clearpwd" h="AB0C3147">是否要清除密码存储？</text>
+		<text id="prompt.removepwd" h="F4C34781">是否要从密码存储中删除所选项目？</text>
+		<text id="props" h="F6FFF0BE">属性</text>
+		<text id="pwd.descr.date" h="F8CC5563">已添加： %1</text>
+		<text id="pwd.descr.dflt" h="5C50975F">无描述</text>
+		<text id="pwd.enter.new" h="D9992E89">输入密码以保存在存储中:</text>
+		<text id="pwd.enter.newdescr" h="9D40879A">输入新描述：</text>
+		<text id="pwdadd" h="AED8BB4C">添加...</text>
+		<text id="pwdclear" h="CB9CE353">清空</text>
+		<text id="pwdedit" h="621534A3">编辑...</text>
+		<text id="pwdgrp" h="202AB42A">密码存储</text>
+		<text id="pwdlbl" h="5F4039B9">预定义密码以便打开文档时自动使用：</text>
+		<text id="pwdprefs.name" h="D2C0C056">密码</text>
+		<text id="pwdprefs.tip" h="7434F5A2">预定义密码存储</text>
+		<text id="pwdprefs.title" h="7434F5A2">预定义密码存储</text>
+		<text id="pwdremove" h="FCE39C1F">移除</text>
+		<text id="resetActionTip" h="D7E3E700">将动作选项重置为默认值。</text>
+		<text id="resetact.warn" h="E5B97341">是否要将动作的选项重置为默认值？
+注意: 此操作无法撤消。</text>
+		<text id="resetprops.btn" h="1008C3F9">重置</text>
+		<text id="resetprops.btntip" h="33DDB5A0">点击以重置为初始状态</text>
+		<text id="resetseltools.warn" h="26BF4D94">是否要将工具的选项重置为默认值？
+注意: 此操作无法撤消。</text>
+		<text id="ressett.alert" h="9B2F79C2">是否确实要将所有程序选项重置为默认值, 并使用默认工具？
+注意: 重置操作无法撤消。</text>
+		<text id="resume" h="B0874E65">恢复</text>
+		<text id="saveas.ask" h="9DF35209">动作提示</text>
+		<text id="saveas.auto" h="C820D6B5">用新名称保存</text>
+		<text id="saveas.folder.ask" h="5DC29DB4">总是询问文件位置</text>
+		<text id="saveas.folder.cust" h="C9BD54EB">使用指定的自定义文件夹</text>
+		<text id="saveas.folder.src" h="5E2E8FE3">将源文件夹用作目标</text>
+		<text id="saveas.overwrite" h="68C4F37C">用新文件覆盖</text>
+		<text id="saveas.skip" h="CE81D302">保持现有文件不变</text>
+		<text id="saveas.text" h="7D366800">当文件已经存在时：</text>
+		<text id="saveimg.default.folder" h="DCD2AF9C">文档文件夹</text>
+		<text id="saveimg.default.name" h="5A425CCC">未命名</text>
+		<text id="saveimg.grouping.apart" h="8E717B39">每个图像单独一个文件</text>
+		<text id="saveimg.grouping.groupall" h="9E5BA5E4">将所有图像转为一个多页图像文件</text>
+		<text id="saveimg.grouping.groupdoc" h="E86A1581">将一个文档的所有图像转为一个多页图像文件</text>
+		<text id="saveimg.grouping.grouppage" h="FDF715C4">将一个页面的所有图像转为一个多页图像文件</text>
+		<text id="searchActionTip" h="3591BAD8">搜索动作...</text>
+		<text id="searchToolTip" h="435392D9">搜索工具...</text>
+		<text id="secinfo.grp" h="F5A61224">安全信息</text>
+		<text id="secsettings.btn" h="9147CD71">设置</text>
+		<text id="selPages.all" h="7D499596">所有页面</text>
+		<text id="selPages.dlg" h="4B381B82">选择页面</text>
+		<text id="selPages.even" h="CDE5C1A0">偶数页</text>
+		<text id="selPages.exact" h="23952CFD">页面：</text>
+		<text id="selPages.fromsubset" h="3ADEE045">从 "%1" 的子集</text>
+		<text id="selPages.odd" h="242E0666">奇数页</text>
+		<text id="select.ovrfile" h="74E5784A">选择叠加水印文件</text>
+		<text id="selectDestFolder" h="D0F102DD">选择目标文件夹</text>
+		<text id="serializing" h="92752B4F">正在序列化 %1...</text>
+		<text id="showFiles.enabled" h="2532774E">启用</text>
+		<text id="showFiles.launchAssocApp" h="FE936D7D">使用与之关联的外部程序查看文件</text>
+		<text id="showFiles.launchAssocAppWarn" h="97CF77EB">要查看的文件数不止一个。
+同时查看这些文件将占用计算机的更多资源。
+
+你确定要查看吗？</text>
+		<text id="showFiles.openFolderAndSel" h="A95A4BE0">打开所在文件夹并选择文件</text>
+		<text id="showFiles.text" h="26A38ADF">选择一个动作：</text>
+		<text id="showMoreOpts" h="24B13299">所有选项...</text>
+		<text id="showMoreOpts2" h="64C40213">更多选项...</text>
+		<text id="showMoreOptsTip" h="C60CDB73">点击显示所有选项</text>
+		<text id="showMoreOptsTip2" h="145A1CAD">单击以显示高级选项...</text>
+		<text id="showSetupUI" h="0E94449E">运行时显示设置对话框</text>
+		<text id="showSetupUITip" h="0E94449E">运行时显示设置对话框</text>
+		<text id="size" h="17A58A52">大小</text>
+		<text id="sizelimit.nolimit" h="8E135818">无限制</text>
+		<text id="skipaction.b" h="A37FB4B0">跳过动作</text>
+		<text id="skipped" h="B7D8BB1E">已跳过</text>
+		<text id="smmanual.chk" h="563576E6">显示手动 分离/合并 对话框</text>
+		<text id="smmethod" h="C894DD7E">方式</text>
+		<text id="smmethod.all2one" h="B3E7239B">所有页面合成一个文档</text>
+		<text id="smmethod.asis" h="4C3BC0E6">将输入文档保留为</text>
+		<text id="smmethod.bookmarks" h="44B3EE11">按顶层书签拆分</text>
+		<text id="smmethod.npages" h="2D67CBA9">单独文档中的每个 N 页</text>
+		<text id="smreverse.chk" h="B766066F">反转页面顺序</text>
+		<text id="sourcepage" h="5D6277DD">源页面</text>
+		<text id="sourcetitle" h="81E00BC2">源标题</text>
+		<text id="specific" h="67D7437D">指定</text>
+		<text id="status" h="9FB9C788">状态</text>
+		<text id="stdAll" h="C80F4913">所有标准</text>
+		<text id="stdToolsGrName" h="1906BB71">标准工具</text>
+		<text id="stop" h="F89FDAAE">停止</text>
+		<text id="targettitle" h="F87B6FA7">目标标题</text>
+		<text id="title.choosepages" h="4B381B82">选择页面</text>
+		<text id="tool.addBatesNumbering" h="5987A707">添加贝茨编号</text>
+		<text id="tool.addBatesNumbering.desc" h="19058FA5">提供用于索引法律文档的贝茨编号, 便于识别和检索等。</text>
+		<text id="tool.addDigSign" h="97DD789F">添加数字签名</text>
+		<text id="tool.addDigSign.desc" h="84946427">将新的签名添加到 PDF 中, 并使用基于证书的数字标识对其进行标记。</text>
+		<text id="tool.addHeaderAndFooter" h="71EBAC62">添加页眉和页脚</text>
+		<text id="tool.addHeaderAndFooter.desc" h="36AA73F6">在页面上添加页眉/页脚。页眉/页脚可以包括日期、自动页码编排、标题、作者等。</text>
+		<text id="tool.addPagesBackground" h="20D4DB07">设置页面背景</text>
+		<text id="tool.addPagesBackground.desc" h="C639A1B2">在内容下层设置页面图片或渐变背景。</text>
+		<text id="tool.addTimeStamp" h="837FE6FB">给 PDF 添加时间戳</text>
+		<text id="tool.addTimeStamp.desc" h="4D80E50C">在应用图章时, 从授权服务器中添加一个时间戳，以保证 PDF 文件的内容完整。</text>
+		<text id="tool.addWatermarks" h="F5662DD3">添加水印</text>
+		<text id="tool.addWatermarks.desc" h="434D9E42">在现有页面内容的前面或后面添加文本或图像。</text>
+		<text id="tool.certifyPDF" h="52B0ED47">核实 PDF</text>
+		<text id="tool.certifyPDF.desc" h="828838CF">通过使用特定类型的签名字段 (称为认证签名) 来保护 PDF 文档。</text>
+		<text id="tool.convertToPDFA" h="86709E15">转换为 PDF/A</text>
+		<text id="tool.convertToPDFA.desc" h="7DDE1660">使 PDF 文档符合 PDF/A 长期存档和保存需要的标准。</text>
+		<text id="tool.convertToPDFX" h="1D70370D">转换为 PDF/X</text>
+		<text id="tool.convertToPDFX.desc" h="CB599882">使文档符合 PDF/X 标准, 以便交换打印数据。</text>
+		<text id="tool.copied" h="348DE55D">复制</text>
+		<text id="tool.cropPages" h="54A95B63">裁剪页面</text>
+		<text id="tool.cropPages.desc" h="A9A477BE">调整可见页面区域, 更改或删除页面上的页边距, 设置页面框。</text>
+		<text id="tool.deletePages" h="E5284839">删除页面</text>
+		<text id="tool.deletePages.desc" h="4E1EBD43">从文档删除页面</text>
+		<text id="tool.descTip" h="04F6C0B5">输入工具描述...</text>
+		<text id="tool.discardPDFStd" h="E608B980">忽略指定 PDF 标准</text>
+		<text id="tool.discardPDFStd.desc" h="947EF232">忽略指定的 PDF 标准信息, 如 PDF/X, PDF/A, PDF/E...</text>
+		<text id="tool.extractImagesFromPDF" h="4CF9FEB6">从 PDF 提取图像</text>
+		<text id="tool.extractImagesFromPDF.desc" h="C53280A8">查找文档内容中包含的栅格图像的 PDF (s), 将其提取并保存到磁盘上的文件中。</text>
+		<text id="tool.extractPages" h="7AE73EC1">提取页面</text>
+		<text id="tool.extractPages.desc" h="54BB795B">从 PDF 文档中提取指定的页面范围到新文档。</text>
+		<text id="tool.filesToPDF" h="4CD7DD2F">转换为 PDF</text>
+		<text id="tool.filesToPDF.desc" h="603206C4">转换支持的格式为 PDF。</text>
+		<text id="tool.imagesToPDF" h="B0C7E05C">从图片创建PDF</text>
+		<text id="tool.imagesToPDF.desc" h="0FDB3BE0">从一个或多个光栅图像创建单个 PDF 文档。</text>
+		<text id="tool.insertPages" h="6B486B45">插入页面</text>
+		<text id="tool.insertPages.desc" h="E986FB1C">从选定文档插入页面。</text>
+		<text id="tool.nameTip" h="92682EAF">输入工具名称...</text>
+		<text id="tool.new.name" h="6431F60C">新工具</text>
+		<text id="tool.ocrPages" h="D2A189BC">OCR 识别页面</text>
+		<text id="tool.ocrPages.desc" h="E9D91493">识别 PDF 文档中的文本字符, 在页面上创建可选和可搜索的文本层。</text>
+		<text id="tool.optimizePDF" h="E369C144">优化 PDF</text>
+		<text id="tool.optimizePDF.desc" h="2DDF7F6C">尽可能优化文档内容以减小 PDF 文件的大小。</text>
+		<text id="tool.overlayDoc" h="A113E021">盖印 PDF</text>
+		<text id="tool.overlayDoc.desc" h="8AC5B664">用另一 PDF 文档作为盖印文件添加到 PDF 文档。</text>
+		<text id="tool.pdfToDOCX" h="D89F515F">导出 PDF 为 Microsoft Word 文档</text>
+		<text id="tool.pdfToDOCX.desc" h="D34FB81F">导出 PDF 为 Microsoft Word 文档(*.docx)。</text>
+		<text id="tool.pdfToImages" h="6DC3C315">导出 PDF 为图像</text>
+		<text id="tool.pdfToImages.desc" h="87E8923B">轻松地将页面从一个或多个 pdf 导出到不同的光栅图像格式, 包括 JPEG、PNG、TIFF 等。</text>
+		<text id="tool.pdfToPPTX" h="E673A7B8">导出 PDF 为 Microsoft PowerPoint 演示文稿</text>
+		<text id="tool.pdfToPPTX.desc" h="65E608C6">导出 PDF 为 Microsoft PowerPoint 演示文稿(*.pptx)。</text>
+		<text id="tool.pdfToTXT" h="29DDD177">导出 PDF 为 文本文件</text>
+		<text id="tool.pdfToTXT.desc" h="9C277C15">导出 PDF 为 文本文件(*.txt)。</text>
+		<text id="tool.pdfToXSLX" h="A31C131A">导出 PDF 为 Microsoft Excel 表格</text>
+		<text id="tool.pdfToXSLX.desc" h="325AEA86">导出 PDF 为 Microsoft Excel 表格(*.xlsx)。</text>
+		<text id="tool.replacePages" h="1311083C">替换页面</text>
+		<text id="tool.replacePages.desc" h="9C48D712">用选定文档中的页面替换文档中的页面。</text>
+		<text id="tool.report.dlg" h="E9D63CB7">工具 报告</text>
+		<text id="tool.resizePages" h="8A5C31F1">调整页面大小</text>
+		<text id="tool.resizePages.desc" h="822401DC">增加或缩小页面大小, 可选择缩放页面内容。</text>
+		<text id="tool.rotatePages" h="CBD82045">旋转页面</text>
+		<text id="tool.rotatePages.desc" h="66235E38">90度顺时针或逆时针旋转 PDF 文档。</text>
+		<text id="tool.scanToPDF" h="B9A05395">扫描到 PDF</text>
+		<text id="tool.scanToPDF.desc" h="521CD5C0">使用扫描仪直接从纸面文档创建新的 PDF 文档。</text>
+		<text id="tool.securePDF" h="400E69FB">保护 PDF</text>
+		<text id="tool.securePDF.desc" h="322DE365">通过设置打开、更改文档内容的密码来保护您的 PDF 文档。</text>
+		<text id="tool.splitMergePDF" h="51A86996">分割/合并 PDF</text>
+		<text id="tool.splitMergePDF.desc" h="73710D3B">自动或手动将所有输入的 pdf 合并为一个, 或将其拆分为新的 pdf。</text>
+		<text id="tool.textToPDF" h="ECE46B63">从文本创建PDF</text>
+		<text id="tool.textToPDF.desc" h="E1CF697C">从一个或多个文本文件创建单个 PDF 文档。</text>
+		<text id="tool.warn.actInvalid1" h="8442B509">此动作发现一个或多个问题:</text>
+		<text id="tool.warn.actInvalid2" h="442E6045">此动作出现问题:</text>
+		<text id="tool.warn.actReqDoc" h="76C84E2B">此操作需要 PDF、图像或其他受支持的文件作为输入</text>
+		<text id="tool.warn.actReqFile1" h="0B30D02F">此操作需要文件作为输入-您可以在此之前插入 &lt;u&gt;%1 &lt;/u&gt; 动作来解决此问题</text>
+		<text id="tool.warn.actReqFile2" h="CA8342FE">此操作要求文件作为输入</text>
+		<text id="tool.warn.actReqFile21" h="65B62BA0">您似乎忘记了在此之前插入 &lt;u&gt;%1 &lt;/u&gt; 动作</text>
+		<text id="tool.warn.actReqImg" h="D28A3C63">此操作需要图像作为输入</text>
+		<text id="tool.warn.actReqSaveRes" h="3621DC81">需要将此操作的结果保存到磁盘-您可以在此之后插入 &lt;u&gt;%1 &lt;/u&gt; 动作以解决此问题</text>
+		<text id="tool.warn.actReqSaveRes2" h="9B55FE54">工具在以前的动作中包含 &lt;u&gt;%1 &lt;/u&gt;, 并且在应用 &lt;i&gt; 此 &lt;/i&gt; 动作之前必须保存其结果。您需要添加 &lt;u&gt;%2 &lt;/u&gt; 动作</text>
+		<text id="tool.warn.actTitle" h="7330FC41">&lt;u&gt;%1&lt;/u&gt; 动作：</text>
+		<text id="tool.warn.cancel" h="8DD6365D">是否要停止执行 &lt;b&gt; "%1" &lt;/b&gt; ？
+单击 &lt;b&gt; 否 &lt;/b&gt; 将继续工作...</text>
+		<text id="tool.warn.empty" h="D05A0C43">此工具为空-您可以单击工具栏上的 "&lt;b&gt; 编辑 &lt;/b&gt;" 按钮并添加动作以创建工作工具。</text>
+		<text id="tool.warn.empty2" h="B4FD144F">工具为空: 没有动作。</text>
+		<text id="tool.warn.imgNotFound" h="9A768995">未找到图像。</text>
+		<text id="tool.warn.invalidActList" h="A2BB75D7">工具的动作列表无效。</text>
+		<text id="tool.warn.nextActNotSuitable" h="17376D04">&lt;i&gt; next &lt;/i&gt; 动作不适合, 因为它不接受 &lt;i&gt; 此 &lt;/i&gt; 动作的结果作为输入</text>
+		<text id="tool.warn.nextActNotSuitable2" h="49941252">您可以在 &lt;i&gt; 此 &lt;/i&gt; 之后插入 &lt;u&gt;%1 &lt;/u&gt; 动作来解决此问题</text>
+		<text id="tool.warn.runInvalid" h="58A31432">&lt;b&gt; "%1" &lt;/b&gt; 工具无效。为了运行它, 您需要修复操作列表。
+
+是否要编辑该工具？</text>
+		<text id="tool.warn.toolInvalid1" h="D448BEEB">此工具发现一个或多个问题:</text>
+		<text id="tool.warn.toolInvalid2" h="560926B8">此工具出现问题:</text>
+		<text id="toolActionsList" h="C9BE1A16">工具动作顺序</text>
+		<text id="toolCategories" h="DB5C4D49">类别</text>
+		<text id="toolInfo" h="979A9FE1">工具信息</text>
+		<text id="toolInfo.defaultDesc" h="D1FD06B6">从工具列表中选择一个工具以查看信息。</text>
+		<text id="toolcat.PDFStandard" h="E51FAF25">PDF 标准</text>
+		<text id="toolcat.advanced" h="59A2B513">高级</text>
+		<text id="toolcat.comments" h="FA5EB905">注释</text>
+		<text id="toolcat.createPDF" h="ACF7EBD1">创建PDF</text>
+		<text id="toolcat.customTools" h="22F07048">自定义工具</text>
+		<text id="toolcat.importedTools" h="48FF1B1E">已经导入工具</text>
+		<text id="toolcat.exportPDF" h="4AE54AB5">导出 PDF</text>
+		<text id="toolcat.favorites" h="310DA860">收藏夹</text>
+		<text id="toolcat.mostUsed" h="6274AE53">最常使用</text>
+		<text id="toolcat.newname" h="DB2A8F96">新类别</text>
+		<text id="toolcat.optimizePDF" h="E369C144">优化 PDF</text>
+		<text id="toolcat.pages" h="47B1CB74">页面</text>
+		<text id="toolcat.protection" h="B7EE190B">保护</text>
+		<text id="toolcat.recents" h="F90189AF">最近</text>
+		<text id="toolsList" h="1B82ED70">工具集列表</text>
+		<text id="toolslist.drop.nofiles" h="4F3412DD">没有要删除的文件。</text>
+		<text id="toolsview.warning.emptyname" h="38B7A2E0">工具名不能为空。</text>
+		<text id="type" h="710B61B4">类型</text>
+		<text id="usebmname.chk" h="A4B3C883">用书签名作为文件名</text>
+		<text id="wrong.file.msg" h="9F0126B0">无法打开盖印 PDF:
+&lt;b&gt;%1 &lt;/b&gt;:
+%2
+你想再选一个吗？</text>
+		<text id="cmd.addFavorites.tip" h="D0494D1D">添加工具到收藏</text>
+		<text id="cmd.removeFavorites.tip" h="DEB12B60">从收藏中删除工具</text>
+		<text id="clonetoolname.lbl" h="E63F45FA">为复制的工具命名：</text>
+	</Strings>
+</Localization>

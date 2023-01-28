@@ -1,0 +1,1016 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627201142">2.00.00</Version>
+	<Author>Regmos</Author>
+	<Copyright>Regmos 2018</Copyright>
+	<Product id="PDFXTools"/> 
+	<Language eName="Danish (Denmark)" lName="dansk" code="da-DK" R2L="false"/>
+	<Module name="PDFXTools" namespace="pdft" version="7.0.325.10"/>
+	<Strings>
+		<text id="accessed" h="45570324">Tilgået</text>
+		<text id="act.askForSourceFiles" h="2E856073">Vælg inputfiler</text>
+		<text id="act.askForSourceFiles.desc" h="3759C068">Giver mulighed for at angive inputfiler til værktøjet.</text>
+		<text id="act.bm.ExportActType_GotoR" h="41E1955E">Bogmærker med 'Gå til fjern' handlinger</text>
+		<text id="act.bm.ExportActType_JS" h="31D8CD1A">Bogmærker med javascripthandlinger</text>
+		<text id="act.bm.ExportActType_Launch" h="38537D36">Bogmærker med 'Åben fil' handlinger</text>
+		<text id="act.bm.ExportActType_Page" h="05B4C93C">Bogmærker med 'Gå til' handlinger</text>
+		<text id="act.bm.ExportActType_URI" h="F39B51AE">Bogmærker med 'Åben weblink' handlinger</text>
+		<text id="act.bm.ExportActTypesAll" h="B8B21253">Bogmærker med alle linkhandlinger</text>
+		<text id="act.bm.bmToExport" h="28D4BD73">Bogmærker til eksport</text>
+		<text id="act.bm.export" h="F3EE1781">Eksportér bogmærker</text>
+		<text id="act.bm.export.desc" h="1403C5AD">Eksporterer alle dokumenters bogmærker</text>
+		<text id="act.bm.exportAll" h="8882D072">Eksportér alt</text>
+		<text id="act.bm.exportHyperlink" h="8AB29747">Eksportér bogmærker der åbner links:</text>
+		<text id="act.bm.exportToTextFile" h="01135DA3">Eksportér bogmærker til tekstfil</text>
+		<text id="act.bm.exportToTextFile.desc" h="7C68D13E">Eksportér bogmærkestruktur som tekstfil</text>
+		<text id="act.bm.fromTextFile" h="CA5176DD">Importér bogmærker fra tekstfil</text>
+		<text id="act.bm.fromTextFile.desc" h="EE697E49">Opret bogmærker fra tekstfil. Bemærk at formetet skal følge reglerne fra bogmærkeeksport.</text>
+		<text id="act.bm.generateFromText" h="383A949B">Opret bogmærker fra sidetekst</text>
+		<text id="act.bm.generateFromText.desc" h="6DDE7415">Oprette bogmærker fra aktuelt dokuments tekst med given skrift og parametre</text>
+		<text id="act.bm.import" h="DC7F6AD5">Importér bogmærker</text>
+		<text id="act.bm.import.desc" h="A5E69BAE">Importér bogmærker fra tidligere eksporteret fil.</text>
+		<text id="act.bm.toTOC" h="2B3E9BF1">Opret indholdsfortegnelse</text>
+		<text id="act.bm.toTOC.desc" h="E92DA1A8">Opret indholdsfortegnelse ud fra bogmærkestruktur og destinationssider.</text>
+		<text id="act.deleteComments.all" h="E8642222">Slet alle kommentarer</text>
+		<text id="act.deleteComments.all.desc" h="818B531A">Slet alle kommentarer fra dokumentet.</text>
+		<text id="act.deleteComments.form" h="37ECB4B5">Slet formularfelter</text>
+		<text id="act.deleteComments.form.desc" h="C5D21570">Slet alle formularfelter fra dokumentet.</text>
+		<text id="act.deleteComments.grp" h="73395EF1">Vælg sider hvor kommentarer slettes:</text>
+		<text id="act.deleteComments.lbl" h="605AA315">Slet kommentartype:</text>
+		<text id="act.deleteComments.links" h="CC8F1411">Slet links</text>
+		<text id="act.deleteComments.links.desc" h="66D48AF5">Slet alle links fra dokumentet.</text>
+		<text id="act.deleteComments.markup" h="EA5127FB">Slet alle mærker</text>
+		<text id="act.deleteComments.markup.desc" h="80CD5AA0">Slet alle mærker fra dokumentet.</text>
+		<text id="act.deleteComments.weblinks" h="87C8439E">Slet weblinks</text>
+		<text id="act.deleteComments.weblinks.desc" h="158E179F">Slet weblinks fra dokumentet.</text>
+		<text id="act.deletePages.dep.enable.lbl" h="6D295CF8">Slet kun tomme sider</text>
+		<text id="act.deletePages.lbl" h="75141561">Sideinterval der slettes</text>
+		<text id="act.discardPDFStd" h="E608B980">Kassér speciel PDF standard</text>
+		<text id="act.discardPDFStd.desc" h="947EF232">Kassér speciel PDF standard information, f.eks. PDF/X, PDF/A, PDF/E...etc.</text>
+		<text id="act.doc.addBackground" h="8B83981C">Tilpas sidebaggrund</text>
+		<text id="act.doc.addBackground.desc" h="8C8F71BF">Bestemmer baggrund for sidens indhold.</text>
+		<text id="act.doc.addBatesNumbering" h="5987A707">Tilføj serienummerering</text>
+		<text id="act.doc.addBatesNumbering.desc" h="19058FA5">Giver mulighed for at serienummerere lovdokumenter, for at lette idenficering, modtagelse...etc.</text>
+		<text id="act.doc.addDigSign" h="97DD789F">Tilføj digital signatur</text>
+		<text id="act.doc.addDigSign.desc" h="BB76CA39">Tilføjer og signerer et nyt signaturfelt med et certifikatbaseret digitalt ID.</text>
+		<text id="act.doc.addHeaderAndFooter" h="71EBAC62">Tilføj sidehoved og sidefod</text>
+		<text id="act.doc.addHeaderAndFooter.desc" h="8697B047">Tilføjer sidehoved og sidefod til de valgte sider. De kan indeholde en dato, automatisk sidenummerering, titel, forfatter...etc.</text>
+		<text id="act.doc.addTimeStamp" h="896D61BF">Tilføj tidsstempel</text>
+		<text id="act.doc.addTimeStamp.desc" h="2FDF1628">Tilføjer et tidsstempel på dokumentniveau, som konstaterer det nøjagtige indhold af hele PDF filen på stempeltidspunktet. Det hentes fra den specifiserede tidsautoritet.</text>
+		<text id="act.doc.addWatermarks" h="AA010705">Tilføj vandmærker</text>
+		<text id="act.doc.addWatermarks.desc" h="A89FAD30">Tilføjer tekst/billeder der enten optræder foran eller bagved det eksisterende indhold.</text>
+		<text id="act.doc.certify" h="C2AFA656">Certificér dokument</text>
+		<text id="act.doc.certify.desc" h="402B64F2">Sikrer et PDF dokument ved at certificere det med et certificeret signaturfelt.</text>
+		<text id="act.doc.changeProps" h="89CBAD2F">Tilpas dokumentegenskaber</text>
+		<text id="act.doc.changeProps.desc" h="40BD1FE7">Sætter dokumentegenskaber: Titel, forfatter, emne...etc.</text>
+		<text id="act.doc.clearDigSign" h="7E6883B8">Ryd digitale signaturer</text>
+		<text id="act.doc.clearDigSign.desc" h="E1CDD425">Fjerner alle digitale signaturer, og efterlader usignerede signaturfelter, hvis muligt.</text>
+		<text id="act.doc.convertToPDFA" h="86709E15">Konvertér til PDF/A</text>
+		<text id="act.doc.convertToPDFA.desc" h="89A9625A">Gør PDF dokument(er) kompatible med PDF/A standarden, for langtids opbevaring og holdbarhed.</text>
+		<text id="act.doc.convertToPDFX" h="1D70370D">Konvertér til PDF/X</text>
+		<text id="act.doc.convertToPDFX.desc" h="BB077FA6">Gør PDF dokument(er) kompatible med PDF/X standarden, for udveksling af udskrifter.</text>
+		<text id="act.doc.createWeblinks" h="F68EDD51">Opret weblinks</text>
+		<text id="act.doc.createWeblinks.desc" h="6971A17D">Opretter weblinks fra tekst i dokumentet.</text>
+		<text id="act.doc.cropPages" h="54A95B63">Beskær sider</text>
+		<text id="act.doc.cropPages.desc" h="9F01A5F4">Justerer det synlige område, fjerner eller tilpasser hvide margener på sider, sætter sidebokse.</text>
+		<text id="act.doc.deletePages" h="E5284839">Slet sider</text>
+		<text id="act.doc.deletePages.desc" h="0EA6D9E9">Slet valgt sideinterval fra dokumentet.</text>
+		<text id="act.doc.duplicatePages" h="14C45200">Duplikér sider</text>
+		<text id="act.doc.duplicatePages.desc" h="0FD26A6C">Duplikér sider fra PDF dokumentet.</text>
+		<text id="act.doc.enhanceScannedPages" h="0A810C6E">Optimér skannede sider</text>
+		<text id="act.doc.enhanceScannedPages.desc" h="95589020">Forbedrer skannede billeder i PDF dokumenter, for at lette læsning og reducere filstørrelsen.</text>
+		<text id="act.doc.exportToDOCX" h="D89F515F">Eksportér PDF til Word</text>
+		<text id="act.doc.exportToDOCX.desc" h="D5E45C48">Eksporterer PDF til Word filer (*.docx).</text>
+		<text id="act.doc.exportToImages" h="6DC3C315">Eksportér PDF til billeder</text>
+		<text id="act.doc.exportToImages.desc" h="0EA3EE6B">Eksporterer sider fra en eller flere PDF filer, til forskellige billedformater, inkl. JPEG, PNG, TIFF...etc.</text>
+		<text id="act.doc.exportToPPTX" h="E673A7B8">Eksportér PDF til powerPoint</text>
+		<text id="act.doc.exportToPPTX.desc" h="E0A7703F">Eksporterer PDF til PowerPoint filer (*.pptx).</text>
+		<text id="act.doc.exportToTXT" h="29DDD177">Eksportér PDF til almindelig tekst</text>
+		<text id="act.doc.exportToTXT.desc" h="3D8783C4">Eksporterer PDF til almindelige tekstfiler (*.txt).</text>
+		<text id="act.doc.exportToXLSX" h="A31C131A">Eksportér PDF til Excel</text>
+		<text id="act.doc.exportToXLSX.desc" h="66CD86D0">Eksporterer PDF til Excel filer (*.xlsx).</text>
+		<text id="act.doc.extractImages" h="4CF9FEB6">Udtræk billeder fra PDF</text>
+		<text id="act.doc.extractImages.desc" h="454EBA71">Søger efter billeder i dokumenter og udtrækker dem</text>
+		<text id="act.doc.extractPages" h="7AE73EC1">Udtræk sider</text>
+		<text id="act.doc.extractPages.desc" h="8FCE1EA7">Udtræk angivne sider til et nyt dokument.</text>
+		<text id="act.doc.insertEmptyPages" h="3779032F">Indsæt tomme sider</text>
+		<text id="act.doc.insertEmptyPages.desc" h="65380D33">Indsætter tomme sider i dokumentet.</text>
+		<text id="act.doc.insertPages" h="6B486B45">Indsæt sider</text>
+		<text id="act.doc.insertPages.desc" h="C8087FC8">Indsætter sider i dokumentet fra et andet dokument.</text>
+		<text id="act.doc.ocrPages" h="D2A189BC">OCR sider</text>
+		<text id="act.doc.ocrPages.desc" h="517C34C3">Genkender tekst på billeder i dokumentet, og indsætter et usynligt tekstlag der kan markeres, søges...etc.</text>
+		<text id="act.doc.optimize" h="854E1BE4">Optimér dokument</text>
+		<text id="act.doc.optimize.desc" h="988BB3B9">Optimerer PDF dokumentet for at reducere filstørrelsen.</text>
+		<text id="act.doc.overlayDoc" h="A113E021">Overlæg PDF</text>
+		<text id="act.doc.overlayDoc.desc" h="8AC5B664">Overlæg PDF dokument med et andet PDF dokument.</text>
+		<text id="act.doc.pageNumbering" h="21AF4605">Sidenummerering</text>
+		<text id="act.doc.pageNumbering.desc" h="A2BA72A1">Tilføjer sidenumre</text>
+		<text id="act.doc.pageTransitions" h="E9BE43D0">Sæt sideovergange</text>
+		<text id="act.doc.pageTransitions.desc" h="17B37A25">Tilpas sideovergange i fuld skærm.</text>
+		<text id="act.doc.printDocument" h="4F3750AE">Udskriv dokument</text>
+		<text id="act.doc.printDocument.desc" h="2523AB5C">Udskriver kildedokumenter</text>
+		<text id="act.doc.removeBackground" h="7C270CB4">Fjern sidebaggrund</text>
+		<text id="act.doc.removeBackground.desc" h="17700648">Fjerner tilpassede sidebaggrunde, og gendanner den hvide standardbaggrund.</text>
+		<text id="act.doc.removeBatesNumbering" h="901F5ABD">Fjern serienummerering</text>
+		<text id="act.doc.removeBatesNumbering.desc" h="E4FBEB3C">Fjerner serienummerering.</text>
+		<text id="act.doc.removeHeaderAndFooter" h="11E8A996">Fjern sidehoveder og sidefødder</text>
+		<text id="act.doc.removeHeaderAndFooter.desc" h="E1CC0743">Fjerner alle ekssisterende sidehoveder og sidefødder.</text>
+		<text id="act.doc.removeWatermarks" h="93F16CE2">Fjern vandmærker</text>
+		<text id="act.doc.removeWatermarks.desc" h="629EC84B">Fjerner alle vandmærker</text>
+		<text id="act.doc.replacePages" h="1311083C">Erstat sider</text>
+		<text id="act.doc.replacePages.desc" h="8C5176DA">Erstat sider i dokument.</text>
+		<text id="act.doc.resizePages" h="8A5C31F1">Tilpas sidestørrelse</text>
+		<text id="act.doc.resizePages.desc" h="8F74355D">Forøger/formindsker sidestørrelse, med valgfri skalering af indhold.</text>
+		<text id="act.doc.rotatePages" h="CBD82045">Rotér sider</text>
+		<text id="act.doc.rotatePages.desc" h="00CCD6AD">Rotér sider med/mod uret i trin på 90 grader.</text>
+		<text id="act.doc.setSecurity" h="09A28BF5">Sikkert dokument</text>
+		<text id="act.doc.setSecurity.desc" h="AF6D0BF7">Beskytte PDF dokumentet med et kodeord, der kræves for at åbne/ændre dokumentet. Tillader fjernelse af restriktioner.</text>
+		<text id="act.doc.splitPages" h="2648812F">Opdel sider</text>
+		<text id="act.doc.splitPages.desc" h="4FA35C77">Opdel sider i PDF dokumenter</text>
+		<text id="act.doc.summarizeComments" h="2233C1CD">Opsummér kommentarer</text>
+		<text id="act.doc.summarizeComments.desc" h="8EA1DEF5">Oprette oversigt over alle kommentarer i PDF dokument.</text>
+		<text id="act.filesToPDF" h="A382536E">Konvertér filer til PDF</text>
+		<text id="act.filesToPDF.desc" h="40567B4F">Konverterer understøttede kildefiler til PDF</text>
+		<text id="act.flags.arrdoc" h="F5023560">dokumentmatriks</text>
+		<text id="act.flags.arrfile" h="AF02951A">filmatriks</text>
+		<text id="act.flags.arrimage" h="AD43894A">billedmatriks</text>
+		<text id="act.flags.arrname" h="A46C1DFE">navnematriks</text>
+		<text id="act.flags.doc" h="0417E245">dokument</text>
+		<text id="act.flags.file" h="AFFADF08">Fil</text>
+		<text id="act.flags.image" h="6F479465">Billeder</text>
+		<text id="act.flags.name" h="28F021B5">navn</text>
+		<text id="act.flags.nothing" h="C06D6B01">intet</text>
+		<text id="act.flattenComments" h="CBA1AA18">Integrér kommentarer</text>
+		<text id="act.flattenComments.desc" h="20A41E96">Konverterer kommentarer til fast indhold</text>
+		<text id="act.group.PDFStandard" h="E51FAF25">PDF standard</text>
+		<text id="act.group.advanced" h="59A2B513">Avanceret</text>
+		<text id="act.group.bookmarks" h="E2032460">Bogmærker</text>
+		<text id="act.group.comments" h="FA5EB905">Kommentarer</text>
+		<text id="act.group.createPDF" h="ACF7EBD1">Opret PDF</text>
+		<text id="act.group.exportPDF" h="4AE54AB5">Eksportér PDF</text>
+		<text id="act.group.inputOutput" h="178214DA">Input/resultat</text>
+		<text id="act.group.optimizePDF" h="E369C144">Optimér PDF</text>
+		<text id="act.group.pages" h="47B1CB74">Sider</text>
+		<text id="act.group.protection" h="B7EE190B">Beskyttelse</text>
+		<text id="act.imagesToPDF" h="B0C7E05C">Opret PDF fra billeder</text>
+		<text id="act.imagesToPDF.desc" h="43AF6AF6">Opretter et enkelt PDF dokument fra et eller flere rasterbilleder.</text>
+		<text id="act.saveDocs" h="07936326">Gem dokumenter</text>
+		<text id="act.saveDocs.desc" h="32932EE9">Gemmer ændringer i dokumentet/dokumentsættet, eller gemmer som en ny fil.</text>
+		<text id="act.saveImages" h="2EBC4084">Gem billeder</text>
+		<text id="act.saveImages.desc" h="3A5C69E3">Gemmer billeder som filer.</text>
+		<text id="act.scan.showlist" h="18D7490A">Vis billedliste</text>
+		<text id="act.scanToImages" h="3C7180B5">Hent billeder fra skanner</text>
+		<text id="act.scanToImages.desc" h="E0F7A297">Skanner papirdokument og opretter en billedbaseret PDF fil.</text>
+		<text id="act.sendMail" h="1F56479B">Send mail</text>
+		<text id="act.sendMail.desc" h="18F585BE">Sender filer til valgte mailadresse.</text>
+		<text id="act.showFiles" h="7E16D9C8">Vis filer</text>
+		<text id="act.showFiles.desc" h="5A081173">Åbner mappen med filerne, eller starter standardhandlingen for hver af filerne.</text>
+		<text id="act.splitMergeDocs" h="8343835D">Opdel/flet dokumenter</text>
+		<text id="act.splitMergeDocs.desc" h="B253B87D">Fletter eller opdeler PDF filer, automatisk eller manuelt.</text>
+		<text id="act.textToPDF" h="ECE46B63">Opret PDF fra tekst</text>
+		<text id="act.textToPDF.desc" h="F9A66354">Opretter et enkelt PDF dokument fra en eller flere tekstfiler.</text>
+		<text id="act.warn.title" h="76F57ED1">Advarsler:</text>
+		<text id="actCloseBtnTip" h="087A8145">Klik for at fjerne handlingen fra listen</text>
+		<text id="actOnOffUITip" h="18682AEB">Klik her for at starte/stoppe handlingen under kørslen</text>
+		<text id="actionInfo.defaultDesc" h="845515AD">Vælg en handling fra listen for at se oplysningerne.</text>
+		<text id="actionInfo.defaultTitle" h="375B13FE">Vælg handling...</text>
+		<text id="addbookmark.chk" h="C7B70DCB">Tilføj rodbogmærke med filnavn</text>
+		<text id="afsf.choosefiles" h="BAE0C7B7">Vælg filer</text>
+		<text id="afsf.choosefiles.editimage" h="56B4E1F8">Redigér billede</text>
+		<text id="afsf.click2browse" h="ABC462F9">Gennemse...</text>
+		<text id="afsf.clicktoedit" h="56B17D30">Klik for at vise og redigere gemte filnavne</text>
+		<text id="afsf.clicktoremove" h="CAB117DD">Klik for at fjerne filnavne</text>
+		<text id="afsf.dlg.editAvail" h="70C3C982">Tilgængelige filtre</text>
+		<text id="afsf.err.filelistempty" h="6A812F17">Fillisten er tom</text>
+		<text id="afsf.err.invalidsymbols" h="D036E0B4">Linie %1 har ugyldige filsymboler</text>
+		<text id="afsf.listinfo" h="CEB468D3">Specialfil med typen &lt;b&gt;*.pdtfl&lt;/b&gt;.Bør indeholde en liste med filnavne:c:filnavn1c:filnavn2...c:filnavnN</text>
+		<text id="afsf.prop.choose.name" h="758F38E8">Vælg handlingsfiltre</text>
+		<text id="afsf.prop.choose.tip" h="758F38E8">Vælg handlingsfiltre</text>
+		<text id="afsf.prop.choose.title" h="758F38E8">Vælg handlingsfiltre</text>
+		<text id="afsf.prop.manage.name" h="1B8E7007">Tilpassede filtre</text>
+		<text id="afsf.prop.manage.tip" h="1B8E7007">Tilpassede filtre</text>
+		<text id="afsf.prop.manage.title" h="1B8E7007">Tilpassede filtre</text>
+		<text id="afsf.selectfolder" h="3F89B943">Vælg mappe:</text>
+		<text id="afsf.sort" h="230935DB">Sortér:</text>
+		<text id="afsf.sort.creation" h="AEDBE5EB">efter oprettelsesdato</text>
+		<text id="afsf.sort.modification" h="B802AF12">efter ændringsdato</text>
+		<text id="afsf.sort.name" h="B3FDD284">efter navn</text>
+		<text id="afsf.sort.none" h="004FEF2B">ingen</text>
+		<text id="afsf.sort.size" h="75DE1B35">efter størrelse</text>
+		<text id="afsf.storefiles" h="06AB1A20">Gem valgte filnavne til fremtidigt brug</text>
+		<text id="afsf.subfolders" h="EAAFE63E">Medtag undermapper</text>
+		<text id="afsf.usestoredfiles" h="4A3B84D0">Brug gemte filnavne fra forrige kørsel</text>
+		<text id="afsf.warn.concrete.ext" h="6634FBD4">Filtypen  '%1' er inkompatibel med 'Vælg inputfilers' handlingsparametre.</text>
+		<text id="afsf.warn.ext" h="16DBB55E">Filtypen er inkompatibel med 'Vælg inputfilers' handlingsparametre.</text>
+		<text id="afsf.warn.filescontainer" h="FF3986E4">Kan ikke åbne korresponderende filers container:
+&lt;b&gt;%1&lt;/b&gt;</text>
+		<text id="afsf.warn.listext" h="6B1988CB">Fillistetypen skal være &lt;b&gt;*.pdtfl&lt;/b&gt;</text>
+		<text id="align.bottom" h="08F4AB6F">Nederst</text>
+		<text id="align.center" h="CBEFB4D0">Centrér</text>
+		<text id="align.left" h="8CEAA299">Venstre</text>
+		<text id="align.middle" h="D27F520F">Midten</text>
+		<text id="align.right" h="2D8A4EE6">Højre</text>
+		<text id="align.top" h="249A2BBD">Øverst</text>
+		<text id="alignoverlay" h="B7EB1785">Justér overlægssider relateret til nyt dokuments sider:</text>
+		<text id="another.ovrfile.title" h="AEFCE724">Vælg en anden overlægsfil</text>
+		<text id="askpwd.chk" h="24A0ED40">Spørg ikke efter kodeord</text>
+		<text id="askpwd.tip" h="3C6E1749">Med flueben: Alle kodeordsbeskyttede filer, uden tilhørende kodeord i &lt;b&gt;kodeordslageret&lt;/b&gt;, springes over.</text>
+		<text id="attributes" h="71F6D064">Attributter</text>
+		<text id="availActionsList" h="477E6AC0">Handlingsbibliotek</text>
+		<text id="batchproc.chk" h="1194AD9C">Massebehandling</text>
+		<text id="batchproc.tip" h="8BED8A8A">• Med flueben: Hvert værktøj behandler alle emner (filer, billeder... etc.) før næste handling udføres.• Uden flueben: Hvert emne færdigbehandles, før næste emne behandles. Det bruger mindre hukommelse, men fletteværktøjer vil muligvis ikke fungere optimalt, da hvert emne behandles separat.</text>
+		<text id="bmnamesAndDoc.cmb" h="019AADA7">Kildedokument og bogmærkenavn</text>
+		<text id="bmnamesDoc.cmb" h="D7143742">Kildedokumentnavn</text>
+		<text id="bmnamesName.lbl" h="C761CCE0">Opret dokumentnavn fra:</text>
+		<text id="bmnamesNames.cmb" h="DBDE73F8">Bogmærkenavne</text>
+		<text id="bookmarks.delimiter.lbl" h="A4269065">Feltopdeler:</text>
+		<text id="bookmarks.invalidSeparator" h="44875D1F">Egenskabsbegrænser må ikke være tom, indeholde tal og mellemrum, eller et af følgende tegn: @ # : { } </text>
+		<text id="bookmarks.log.bookmarksNotFound" h="184C696B">Bogmærker blev ikke fundet i dokumentet.</text>
+		<text id="bookmarks.log.bookmarksNotFoundTOC" h="E3250FA7">Ingen bogmærker i dokumentet. Der oprettes en tom indholdsfortegnelse.</text>
+		<text id="bookmarks.log.txtSrcNotFound" h="52338723">Kan ikke importere dokumentets bogmærker. Definitionsfilen '%1' blev ikke fundet.</text>
+		<text id="bookmarks.sourcefiletxt.lbl" h="8C896EF2">Vælg tekstfil med bogmærker:</text>
+		<text id="bookmarks.sourcefilexcbkm.lbl" h="20DDBCE7">Vælg eksportfil til bogmærker:</text>
+		<text id="bookmarks.sourcefoldertxt.info" h="9C858B7C">Tekstfil, med samme navn som dokumentet, vil blive brugt som bogmærkekilde.</text>
+		<text id="bookmarks.sourcefoldertxt.lbl" h="E5CB01F7">Vælg mappe der indeholder tekstfil med bogmærker:</text>
+		<text id="bookmarks.sourcefolderxcbkm.info" h="2F8C4CA0">Eksportfil, med samme navn som dokumentet, vil blive brugt som bogmærkekilde.</text>
+		<text id="bookmarks.sourcefolderxcbkm.lbl" h="0E50F0BA">Vælg mappe til eksportfil:</text>
+		<text id="btn.delete" h="D8FE3F70">Slet</text>
+		<text id="btn.edit" h="621534A3">Redigér...</text>
+		<text id="byhoriz" h="AE80ABA7">Vandret:</text>
+		<text id="byvert" h="138F572B">Lodret:</text>
+		<text id="chk.savepwd" h="2DACA98E">Gem kodeord</text>
+		<text id="choose.file" h="D8D81DA5">Vælg fil</text>
+		<text id="chooseFiles.chooseForPreview" h="B4BD25C6">Vælg emne til visning</text>
+		<text id="chooseFiles.fromScanner" h="BDBDAE44">Billede far skanner</text>
+		<text id="chooseFiles.scansubfolders" h="05971C7B">Vil du tilføje filer fra undermapper til valgte mappe?</text>
+		<text id="chooseFiles.unknownImageType" h="18901815">Ukendt billedtype</text>
+		<text id="choosefiles.title" h="2E856073">Vælg inputfiler</text>
+		<text id="choosefiles.warning" h="88E4DD69">Føj filer til listen.</text>
+		<text id="choosestd.lbl" h="F999AF4C">Vælg PDF standard til kassering:</text>
+		<text id="choosetool.caption" h="F368DC49">Vælg værktøj</text>
+		<text id="choosetools.export.caption" h="89168619">Vælg værktøj til eksport</text>
+		<text id="choosetools.import.caption" h="4D9B8134">Vælg værktøj til import</text>
+		<text id="ck.all" h="65CCA5D0">Inkludér 'Alle filer (*.*)'</text>
+		<text id="clonetoolname.lbl" h="E63F45FA">Navngiv klonet værktøj:</text>
+		<text id="cmd.actionInfoPane" h="BE3FF2AC">Handlingsoplysninger</text>
+		<text id="cmd.actionInfoPane.tip" h="EA4CDC04">Vis/skjul handlingsinfopanel</text>
+		<text id="cmd.addFavorites" h="253AA8C4">Føj til favoritter</text>
+		<text id="cmd.addFavorites.tip" h="D0494D1D">Føj værktøj til favoritter</text>
+		<text id="cmd.availAct.append" h="44CFD997">Tilføj handling</text>
+		<text id="cmd.availActionsPane" h="70AE9683">Handlingsbibliotek</text>
+		<text id="cmd.availActionsPane.tip" h="EE8A6FE7">Vis/skjul handlingsbiblioteket</text>
+		<text id="cmd.catlist.add" h="8E2EE8C1">Tilføj</text>
+		<text id="cmd.catlist.add.tip" h="352D549C">Tilføj ny værktøjskategori</text>
+		<text id="cmd.catlist.copyID" h="76D03E52">Kopiér kategori ID</text>
+		<text id="cmd.catlist.copyID.tip" h="4D528776">Kopiér kategori ID til udklipsholder</text>
+		<text id="cmd.catlist.delete" h="D8FE3F70">Slet</text>
+		<text id="cmd.catlist.delete.tip" h="F996D3A3">Slet valgte kategori</text>
+		<text id="cmd.catlist.rename" h="CF7E2A12">Omdøb</text>
+		<text id="cmd.catlist.rename.tip" h="853B01D0">Omdøb valgte kategori</text>
+		<text id="cmd.choosetools.checkAll" h="1ED93781">Vælg alle</text>
+		<text id="cmd.choosetools.checkAll.tip" h="5C10CA59">Vælg alle værktøjer.</text>
+		<text id="cmd.choosetools.collapseAll" h="84E09D66">Sammenfold alle</text>
+		<text id="cmd.choosetools.collapseAll.tip" h="4B0945EA">Sammenfold alle udvidede emner.</text>
+		<text id="cmd.choosetools.expandAll" h="6DA5A467">Udvid alle</text>
+		<text id="cmd.choosetools.expandAll.tip" h="B8DEF87E">Udvid alle sammenfoldede emner.</text>
+		<text id="cmd.choosetools.uncheckAll" h="5D53AA8D">Fravælg alle</text>
+		<text id="cmd.choosetools.uncheckAll.tip" h="E0FE40A8">Fravælg alle værktøjer.</text>
+		<text id="cmd.close" h="BFF0422C">Luk</text>
+		<text id="cmd.close.tip" h="803D7B54">Spørger om du vil gemme før værktøjsredigering lukkes.</text>
+		<text id="cmd.collapseAll" h="84E09D66">Sammenfold alle</text>
+		<text id="cmd.collapseAll.tip" h="4B0945EA">Sammenfold alle udvidede emner.</text>
+		<text id="cmd.continue" h="A5F0062A">Fortsæt</text>
+		<text id="cmd.continue.tip" h="449BD617">Fortsæt aktivt værktøj.</text>
+		<text id="cmd.copyToolID" h="29B6ACF3">Kopiér værktøjs ID</text>
+		<text id="cmd.copyToolID.tip" h="C84C435C">Kopiér værktøjs ID til udklipsholder.</text>
+		<text id="cmd.createFld" h="EDCA1553">Opret</text>
+		<text id="cmd.createFld.tip" h="0C2549D2">Opret mappeovervågning.</text>
+		<text id="cmd.delete" h="D8FE3F70">Slet</text>
+		<text id="cmd.delete.tip" h="1645B116">Slet valgte værktøj.</text>
+		<text id="cmd.deleteAction" h="D8FE3F70">Slet</text>
+		<text id="cmd.deleteAction.tip" h="8D3F7647">Slet valgte handling.</text>
+		<text id="cmd.deleteFld" h="D8FE3F70">Slet</text>
+		<text id="cmd.deleteFld.tip" h="FE6D13BD">Slet valgte overvågning.</text>
+		<text id="cmd.disableFld" h="3F68363A">Deaktivér</text>
+		<text id="cmd.disableFld.tip" h="0002F9EA">Deaktivér valgte overvågning.</text>
+		<text id="cmd.docsList.collapseAll" h="84E09D66">Sammenfold alle</text>
+		<text id="cmd.docsList.collapseAll.tip" h="4B0945EA">Sammenfold alle udvidede emner.</text>
+		<text id="cmd.docsList.delete" h="D8FE3F70">Slet</text>
+		<text id="cmd.docsList.delete.tip" h="AFC734F6">Slet valgte emne fra listen.</text>
+		<text id="cmd.docsList.expandAll" h="6DA5A467">Udvid alle</text>
+		<text id="cmd.docsList.expandAll.tip" h="B8DEF87E">Udvid alle sammenfoldede emner.</text>
+		<text id="cmd.docsList.invertPagesSel" h="50358D1F">Vend</text>
+		<text id="cmd.docsList.invertPagesSel.tip" h="D48EAFF2">Vend sidevalg i dokumentetemnet.</text>
+		<text id="cmd.docsList.redo" h="E6E48291">Gendan</text>
+		<text id="cmd.docsList.redo.tip" h="D864EFC4">Gendan sidste fortrudte handling.</text>
+		<text id="cmd.docsList.rename" h="CF7E2A12">Omdøb</text>
+		<text id="cmd.docsList.rename.tip" h="D13799F6">Omdøb valgte dokumentemne.</text>
+		<text id="cmd.docsList.selectPages" h="CA96B5EB">Vælg sider...</text>
+		<text id="cmd.docsList.selectPages.tip" h="2BA1CFDF">Vælg bestemt sider i dokumentenet.</text>
+		<text id="cmd.docsList.showPreview" h="0E09CAB8">Vis</text>
+		<text id="cmd.docsList.showPreview.tip" h="5FDF66AB">Vis/skjul forhåndsvisning af valgte dokumentemne.</text>
+		<text id="cmd.docsList.showRepo" h="75AE5FBB">Sidelager</text>
+		<text id="cmd.docsList.showRepo.tip" h="A9FDC14F">Vis/skjul lagerpanelet for den midlertidige opbevaring af alle sidesæt fra alle dokumenter. Kan bruges til at trække og slippe sider.</text>
+		<text id="cmd.docsList.undo" h="86E67B4B">Fortryd</text>
+		<text id="cmd.docsList.undo.tip" h="68378895">Fortryd senestehandling.</text>
+		<text id="cmd.docsList.zoomIn" h="21C9A3BF">Zoom ind</text>
+		<text id="cmd.docsList.zoomIn.tip" h="EEFCC59E">Forstør miniaturer.</text>
+		<text id="cmd.docsList.zoomOut" h="7749FC62">Zoom ud</text>
+		<text id="cmd.docsList.zoomOut.tip" h="B4B12D5A">Formindsk miniaturer.</text>
+		<text id="cmd.docsList.zoomSlider" h="596A6E4A">Skalér</text>
+		<text id="cmd.docsList.zoomSlider.tip" h="0F91092C">Skalér sideminiaturer.</text>
+		<text id="cmd.editDocList.clearAll" h="FCA74107">Ryd lager</text>
+		<text id="cmd.editDocList.clearAll.tip" h="8D064794">Ryd sidelager.</text>
+		<text id="cmd.editFld" h="009A7A41">Redigér</text>
+		<text id="cmd.editFld.tip" h="6383A76C">Redigér valgte overvågning.</text>
+		<text id="cmd.editModeView" h="2FCBB32C">Vis</text>
+		<text id="cmd.editModeView.tip" h="FED08A06">Vis/skjul avanceret panelet</text>
+		<text id="cmd.enableFld" h="A816D2F1">Aktivér</text>
+		<text id="cmd.enableFld.tip" h="5C4A8F7C">Aktivér valgte overvågning.</text>
+		<text id="cmd.expandAll" h="6DA5A467">Udvid alle</text>
+		<text id="cmd.expandAll.tip" h="B8DEF87E">Udvid alle sammenfoldede emner.</text>
+		<text id="cmd.filesList.addFiles" h="6BB8C3C3">Tilføj filer...</text>
+		<text id="cmd.filesList.addFiles.combo" h="6BB8C3C3">Tilføj filer...</text>
+		<text id="cmd.filesList.addFiles.tip" h="49EDA302">Vis standarddialogen til valg af filer...</text>
+		<text id="cmd.filesList.addFolder" h="48695541">Tilføj mappe...</text>
+		<text id="cmd.filesList.addFolder.tip" h="6761456F">Vis standarddialogen til valg af mapper...</text>
+		<text id="cmd.filesList.addFromScanner" h="F8B40B5F">Tilføj fra skanner...</text>
+		<text id="cmd.filesList.addFromScanner.tip" h="B4E7ED2C">Vælg skanner og hent billeder...</text>
+		<text id="cmd.filesList.delete" h="D8FE3F70">Slet</text>
+		<text id="cmd.filesList.delete.tip" h="1B809C28">Slet valgte emner. Kan ikke fortrydes.</text>
+		<text id="cmd.filesList.detailsView" h="AEE125D6">Detaljer</text>
+		<text id="cmd.filesList.detailsView.tip" h="6570BFC4">Skift til detalhevisning.</text>
+		<text id="cmd.filesList.edit" h="621534A3">Redigér...</text>
+		<text id="cmd.filesList.edit.tip" h="A8CCCC15">Redigér valgte emner.</text>
+		<text id="cmd.filesList.moveDown" h="B590E566">Flyt ned</text>
+		<text id="cmd.filesList.moveDown.tip" h="96CBF2AC">Flyt  valgte emne ned.</text>
+		<text id="cmd.filesList.moveUp" h="E466537C">Flyt op</text>
+		<text id="cmd.filesList.moveUp.tip" h="239B490C">Flyt valgte emne op.</text>
+		<text id="cmd.filesList.openContFolder" h="D3E03212">Åben mappen</text>
+		<text id="cmd.filesList.openContFolder.tip" h="4967EB0F">Åben filens mappe.</text>
+		<text id="cmd.filesList.selectPages" h="CA96B5EB">Vælg sider...</text>
+		<text id="cmd.filesList.selectPages.tip" h="9D36120F">Vælg bestemte sider i det valgte dokument.</text>
+		<text id="cmd.filesList.showPreview" h="0E09CAB8">Vis</text>
+		<text id="cmd.filesList.showPreview.tip" h="5FDF66AB">Vis/skjul emnets forhåndsvisningspanel.</text>
+		<text id="cmd.filesList.thumbsView" h="47B1B2D9">Miniaturer</text>
+		<text id="cmd.filesList.thumbsView.tip" h="E9F10E3C">Skift til miniaturevisning.</text>
+		<text id="cmd.filesList.zoomIn" h="21C9A3BF">Zoom ind</text>
+		<text id="cmd.filesList.zoomIn.tip" h="EEFCC59E">Forstør miniaturer.</text>
+		<text id="cmd.filesList.zoomOut" h="7749FC62">Zoom ud</text>
+		<text id="cmd.filesList.zoomOut.tip" h="B4B12D5A">Formindsk miniaturer.</text>
+		<text id="cmd.filesList.zoomSlider" h="596A6E4A">Skalér</text>
+		<text id="cmd.filesList.zoomSlider.tip" h="0F91092C">Skalér sideminiaturer.</text>
+		<text id="cmd.help" h="03718903">Hjælp</text>
+		<text id="cmd.help.about" h="06AA44B8">Om...</text>
+		<text id="cmd.help.about.tip" h="D3746489">Vis programmets version og licensoplysninger.</text>
+		<text id="cmd.help.checkForUpdates" h="B4EF7EF3">Søg efter opdateringer</text>
+		<text id="cmd.help.checkForUpdates.tip" h="73587378">Søg efter programopdateringer.</text>
+		<text id="cmd.help.contents" h="567BC1D7">Hjælp</text>
+		<text id="cmd.help.contents.tip" h="08AC959F">Åben detaljeret online hjælp.</text>
+		<text id="cmd.help.enterkey" h="EF62658A">Registrér...</text>
+		<text id="cmd.help.enterkey.tip" h="D3746489">Åben registreringsdialogen for at vise/tilføje programlicens(er).</text>
+		<text id="cmd.help.homepage" h="09F653F5">Hjemmeside</text>
+		<text id="cmd.help.homepage.tip" h="EBA22B5A">Åben programmets hjemmeside.</text>
+		<text id="cmd.help.support" h="31A29A3F">Support</text>
+		<text id="cmd.help.support.tip" h="B8C0C0FB">Gå til programmets hjælpeforum.</text>
+		<text id="cmd.help.tip" h="F59770E5">Hjælp.</text>
+		<text id="cmd.impexp" h="1D5A9A8A">Import/eksport</text>
+		<text id="cmd.impexp.expseltools" h="C87F6A0D">Eksportér valgte værktøjer</text>
+		<text id="cmd.impexp.expseltools.tip" h="0E445E08">Eksportér valgte værktøjer til fil.</text>
+		<text id="cmd.impexp.expsett" h="329179F2">Eksportér alle indstillinger</text>
+		<text id="cmd.impexp.expsett.tip" h="1BEC5F75">Eksportér alle programindstillinger til fil.</text>
+		<text id="cmd.impexp.exptools" h="3B532E8F">Eksportér værktøjer</text>
+		<text id="cmd.impexp.exptools.tip" h="66B0E107">Eksportér værktøjer til fil.</text>
+		<text id="cmd.impexp.impsett" h="92219071">Importér alle indstillinger</text>
+		<text id="cmd.impexp.impsett.tip" h="3845D20B">Importér alle programindstillinger til fil.</text>
+		<text id="cmd.impexp.imptools" h="622631EF">Importér værktøjer</text>
+		<text id="cmd.impexp.imptools.tip" h="112B2FCB">Importér værktøjer fra fil.</text>
+		<text id="cmd.impexp.shortcut" h="64092D8C">Opret skrivebordsgenvej</text>
+		<text id="cmd.impexp.shortcut.tip" h="F695107D">Opret genvej til valgte værktøj på skrivebordet.</text>
+		<text id="cmd.impexp.tip" h="CE31B671">Importér/eksportér handlinger eller programindstillinger.</text>
+		<text id="cmd.moveDown" h="B590E566">Flyt ned</text>
+		<text id="cmd.moveDown.tip" h="96CBF2AC">Flyt valgte emne ned.</text>
+		<text id="cmd.moveUp" h="E466537C">Flyt op</text>
+		<text id="cmd.moveUp.tip" h="239B490C">Flyt valgte emne op.</text>
+		<text id="cmd.opts" h="DAD7B4F4">Indstillinger</text>
+		<text id="cmd.opts.tip" h="0DB1D677">Tilpas programmet.</text>
+		<text id="cmd.prefs" h="8D3CBDF0">Indstillinger...</text>
+		<text id="cmd.prefs.tip" h="35A54BBC">Vis programmets indstillingsdialog.</text>
+		<text id="cmd.redo" h="E6E48291">Gendan</text>
+		<text id="cmd.redo.tip" h="D864EFC4">Gendan seneste fortrudte handling.</text>
+		<text id="cmd.removeFavorites" h="85360926">Fjern fra favoritter</text>
+		<text id="cmd.removeFavorites.tip" h="DEB12B60">Fjern fra værktøj favoritter</text>
+		<text id="cmd.report.clear" h="CB9CE353">Ryd</text>
+		<text id="cmd.report.clear.tip" h="26272D30">Rydder rapport</text>
+		<text id="cmd.report.collapseAll" h="84E09D66">Sammenfold alle</text>
+		<text id="cmd.report.collapseAll.tip" h="4B0945EA">Sammenfold alle udvidede emner.</text>
+		<text id="cmd.report.copy" h="348DE55D">Kopiér</text>
+		<text id="cmd.report.copy.tip" h="7E2DF69D">Kopiér beskedtekst.</text>
+		<text id="cmd.report.copyname" h="895D5980">Kopiér filnavn</text>
+		<text id="cmd.report.copyname.tip" h="C6C33FE5">Kopiér filnavn til udklipsholder</text>
+		<text id="cmd.report.expandAll" h="6DA5A467">Udvid alle</text>
+		<text id="cmd.report.expandAll.tip" h="B8DEF87E">Udvid alle sammenfoldede emner.</text>
+		<text id="cmd.report.fullreport" h="2B15B2F7">Fuld rapport</text>
+		<text id="cmd.report.fullreport.tip" h="B70410A1">Tvinger PDF-Tools til at oprette en fuld kørselsrapport.</text>
+		<text id="cmd.report.openfolder" h="D3E03212">Åben mappe</text>
+		<text id="cmd.report.openfolder.tip" h="897118C2">Åben filens mappe</text>
+		<text id="cmd.report.options" h="9757D0D9">Indstillinger...</text>
+		<text id="cmd.report.options.tip" h="84CAFD98">Vis rapportindstillinger.</text>
+		<text id="cmd.report.savetofile" h="ED4A08DE">Gem rapport</text>
+		<text id="cmd.report.savetofile.tip" h="5BF810D7">Gemmer rapport som tekstfil.</text>
+		<text id="cmd.resetSelAction" h="1008C3F9">Nulstil</text>
+		<text id="cmd.resetSelAction.tip" h="9416B4A0">Nulstil valgte handling til standard.</text>
+		<text id="cmd.resetSett" h="1E06BB70">Nulstil alle indstillinger</text>
+		<text id="cmd.resetSett.tip" h="F72C4CB6">Nulstiller alle programmet indstillinger og værktøjer. Kun standardværktøjer beholdes.</text>
+		<text id="cmd.resetTool" h="0E4A9518">Nulstil Værktøj</text>
+		<text id="cmd.resetTool.tip" h="63100C06">Nulstil værktøjsindstillinger til standard.</text>
+		<text id="cmd.resetseltools" h="11DC26AD">Nulstil valgte værktøjer</text>
+		<text id="cmd.resetseltools.tip" h="7FCF3BF7">Nulstiller valgte værktøjer til standard.</text>
+		<text id="cmd.save" h="01991541">Gem ændringer</text>
+		<text id="cmd.save.tip" h="45AC7E5D">Gem værktøjsændringer.</text>
+		<text id="cmd.search" h="547E9E5A">Søg...</text>
+		<text id="cmd.search.tip" h="FC8CBAA4">Søg efter værktøj.</text>
+		<text id="cmd.setupFolderMonitor" h="EDC6E6EA">Mappeovervågning</text>
+		<text id="cmd.setupFolderMonitor.tip" h="43BBFC78">Administrér mappeovervågning.</text>
+		<text id="cmd.showActionInfoPane" h="DDDF9129">Vis handlingsinfo</text>
+		<text id="cmd.showActionInfoPane.tip" h="B9D63B80">Vis/skjul handlingsoplysninger.</text>
+		<text id="cmd.showActionLibrary" h="7B4DF4C3">Vis handlingsbibliotek</text>
+		<text id="cmd.showActionLibrary.tip" h="7F2B551F">Vis/skjul handlingsbiblioteket</text>
+		<text id="cmd.showReport" h="F1E7E74F">Værktøjsrapport</text>
+		<text id="cmd.showReport.tip" h="0310270C">Vis værktøjsrapport.</text>
+		<text id="cmd.test" h="327F2A55">Test!</text>
+		<text id="cmd.test.tip" h="9E04AEAA">Test funktion!</text>
+		<text id="cmd.tool.clone" h="37E754F5">Klon</text>
+		<text id="cmd.tool.clone.tip" h="D8321AF8">Klon valgte værktøj.</text>
+		<text id="cmd.tool.create" h="EDCA1553">Opret</text>
+		<text id="cmd.tool.create.tip" h="3D4C85B7">Opret nyt værktøj.</text>
+		<text id="cmd.tool.edit" h="009A7A41">Redigér</text>
+		<text id="cmd.tool.edit.tip" h="426AAF33">Redigér valgte værktøj.</text>
+		<text id="cmd.tool.run" h="19264084">Kør</text>
+		<text id="cmd.tool.run.tip" h="BF1530FA">Kør valgte værktøj.</text>
+		<text id="cmd.undo" h="86E67B4B">Fortryd</text>
+		<text id="cmd.undo.tip" h="68378895">Fortryd seneste handling</text>
+		<text id="cmd.viewFld" h="2FCBB32C">Vis</text>
+		<text id="cmd.viewFld.tip" h="7426084C">Vis valgte overvågning.</text>
+		<text id="cmdline.toolnotfound" h="E24BDF60">Det ønskede værktøj findes ikke.</text>
+		<text id="common" h="FF51CD90">Almen</text>
+		<text id="created" h="BC03BBEA">Oprettet</text>
+		<text id="custToolsGrName" h="22F07048">Tilpassede værktøjer</text>
+		<text id="custom" h="A918FF38">Tilpas</text>
+		<text id="dclick.authorize" h="E62FEA98">Klik for at autorisere opbevaringen</text>
+		<text id="delete.all.pages" h="E66ECE13">Det er ikke tilladt at slette alle sider.</text>
+		<text id="deleteComments.all" h="3DB14B53">Alle kommentarer</text>
+		<text id="deleteComments.link" h="D84C3990">Linkkommentarer</text>
+		<text id="deleteComments.markup" h="236E76D1">Mærker</text>
+		<text id="deleteComments.widget" h="105429C0">Widget</text>
+		<text id="deleteInputFiles" h="66DB8878">Slet inputfil efter behandling</text>
+		<text id="deletecat.warn" h="8A426B75">Vil du slette kategorien &lt;b&gt;"%1"&lt;/b&gt; og dens værktøjer?
+BEMÆRK: Kan ikke fortrydes.</text>
+		<text id="deletestoredpath.warn" h="B01DF4C4">Vil du slette gemte filnavne?</text>
+		<text id="disable.ui.lbl" h="F51A0F89">Brugerfladevalg:</text>
+		<text id="dlg.managefilters" h="BEEA26C3">Administrér filtre</text>
+		<text id="docauthor.l" h="7E318A91">Forfatter:</text>
+		<text id="doccreator.l" h="48BB2AC2">Oprettet med:</text>
+		<text id="dockeywords.l" h="EE89DD49">Nøgleord:</text>
+		<text id="docproducer.l" h="30A8E856">Oprettet med:</text>
+		<text id="docsubject.l" h="A59102F6">Emne:</text>
+		<text id="doctitle.l" h="930D3835">Titel:</text>
+		<text id="editDocList.containsPages" h="8F4BA4D9">Indeholder %1 side(r)</text>
+		<text id="editDocList.document" h="13289938">Dokument</text>
+		<text id="editDocList.empty.hint" h="C46828D2">Ingen sider</text>
+		<text id="editDocList.noPages" h="DD007EC4">Tom</text>
+		<text id="editDocList.repository.hint" h="0071AB8A">Du kan trække sider hertil og opbevare dem midlertidigt</text>
+		<text id="editDocList.title" h="BB7D1179">Opdel/flet dokumenter manuelt</text>
+		<text id="editDocList.undefined" h="9FA2DA79">Ikke defineret</text>
+		<text id="editDocList.warning" h="F36DBC31">Dokumentlisten bør ikke være tom.
+Prøv at fortryde sidste handling.</text>
+		<text id="editDocList.warning.emptyname" h="D690297C">Dokumentet skal navngives</text>
+		<text id="editDocList.warning.invalidsymbols" h="40A214FA">Ugyldigt dokumentnavn</text>
+		<text id="editview.header.changeicon" h="E86B95CD">Tilpas...</text>
+		<text id="editview.header.dialog.multiline" h="767057E1">Redigér værktøjsbeskrivelse</text>
+		<text id="empty.document" h="06A26641">Dokumentet "%1" er tomt, og springes over</text>
+		<text id="enter.pwd.descr" h="77485A4B">Beskriv kodeord (valgfrit)...</text>
+		<text id="enterNewDocName" h="68FD05C5">Nyt dokumentnavn:</text>
+		<text id="err.foldernotexists" h="4533B896">Valgte mappe findes ikke</text>
+		<text id="err.foldernotvalid" h="E422E783">Valgte mappe kan ikke overvåges</text>
+		<text id="err.hotfolderbusy" h="40F505AA">Mappen du angav behandles af en anden overvågning</text>
+		<text id="err.hotfolderempty" h="5734787D">Føj mapper til overvågning</text>
+		<text id="err.movefolderempty" h="141492EF">Vælg mappe til de flyttede filer</text>
+		<text id="err.selecttool" h="89F6967E">Væl værktøj</text>
+		<text id="err.toolnotexists" h="12CFDA38">Valgte værktøj findes ikke</text>
+		<text id="expsett.extension.desc" h="F00D3D31">PDF Tools indstillingsfil</text>
+		<text id="expsett.failed" h="D36046ED">Eksport af indstillinger mislykkedes</text>
+		<text id="expsett.open.caption" h="92B281E9">Åben importfil</text>
+		<text id="expsett.save.caption" h="C1A8C6FD">Gem eksportfil</text>
+		<text id="exptools.extension.desc" h="DC98B451">PDF Tools udvekslingsfil</text>
+		<text id="exptools.failed" h="7A69DC15">Værktøjseksport mislykkedes</text>
+		<text id="exptools.open.caption" h="99F5ECED">Vælg importfil</text>
+		<text id="exptools.save.caption" h="C1A8C6FD">Gem eksportfil</text>
+		<text id="extension" h="14FEB836">Filtype</text>
+		<text id="fileLocation" h="7BC24E5F">Filplacering:</text>
+		<text id="fileNames" h="0F80A6A8">Vælg filliste:</text>
+		<text id="fileNames.desc" h="7B4EDEA4">PDF-Tools input filliste</text>
+		<text id="fileNames.open" h="8F1B7ED1">Åben filliste</text>
+		<text id="fileprop.author" h="F6A8A4C0">Forfatter</text>
+		<text id="fileprop.bpc" h="02071BA4">Bits pr. kanal</text>
+		<text id="fileprop.bpp" h="EC790768">Bits pr. pixel</text>
+		<text id="fileprop.channels" h="D3AE76A2">Kanaler</text>
+		<text id="fileprop.creator" h="CF26EE59">Oprettet med</text>
+		<text id="fileprop.dimension" h="96A76700">Dimensioner</text>
+		<text id="fileprop.horDpi" h="576C5071">Vandret DPI</text>
+		<text id="fileprop.page" h="D70A809E">Side</text>
+		<text id="fileprop.pageRotation" h="ECFC9C66">Rotering</text>
+		<text id="fileprop.pagesCount" h="AAE42CE5">Sideantal</text>
+		<text id="fileprop.pdfVer" h="4C06CDA5">PDF version</text>
+		<text id="fileprop.producer" h="C54CE945">Oprettet med</text>
+		<text id="fileprop.subject" h="B6BCF595">Emne</text>
+		<text id="fileprop.title" h="796DFAD3">Titel</text>
+		<text id="fileprop.verDpi" h="33423CE9">Lodret DPI</text>
+		<text id="filestopdf.setup" h="FB20B28D">Opsæt...</text>
+		<text id="finalizing" h="B702861F">Afslutter %1...</text>
+		<text id="fitoverlay" h="E2F09068">Pas overlægssider til nyoprettede dokumentsider</text>
+		<text id="fld.disabled" h="AA5BC8D4">Deaktiveret</text>
+		<text id="fld.enabled" h="2532774E">Aktiveret</text>
+		<text id="fldmon.lbl" h="DEBCEDAF">Overvågningens navn:</text>
+		<text id="folder.grp" h="9AE10AFA">Inputfiler</text>
+		<text id="hotfld.opts.dlg.caption" h="D9DE9C84">Mappeovervågning</text>
+		<text id="impsett.alert" h="0B2EB063">Vil du importere alle programindstillinger?
+BEMÆRK: Kan ikke fortrydes.</text>
+		<text id="impsett.failed" h="AA8A96CF">Import af indstillinger mislykkedes</text>
+		<text id="imptools.failed" h="DAD93596">Import af værktøjer mislykkedes</text>
+		<text id="info" h="07FB97A4">Info</text>
+		<text id="inpfiles.lbl" h="28477E27">Inputfiler:</text>
+		<text id="inserting.page" h="7985F658">Indsæt side %1 fra %2</text>
+		<text id="keep.inputfiles" h="800C91A4">Behold inputfil i mappen</text>
+		<text id="keepaspect" h="A90996CD">Bevar forhold</text>
+		<text id="lb.availFF" h="6E3CAD3A">Vælg filtre for filtyper der vil være tilgængelige
+i dialogens rullemenu:</text>
+		<text id="lb.presetFF" h="9C590515">Forvalg:</text>
+		<text id="lbl.ShowResult" h="C5236BCD">Vis resultat bagefter</text>
+		<text id="lbl.actualview" h="D865F4B2">Vis aktuelt billede</text>
+		<text id="lbl.allowMult" h="3B9DFCE0">Tillad valg af flere filer</text>
+		<text id="lbl.alwaysUseMultipage" h="6C82FB30">Brug altid flersideformat</text>
+		<text id="lbl.askDeleteTool" h="1541D739">Vil du slette værktøjet &lt;b&gt;"%1"&lt;/b&gt;?
+BEMÆRK: Kan ikke fortrydes.</text>
+		<text id="lbl.askDeleteTools" h="25C684AA">Vil du slette værktøjerne &lt;b&gt;"%1"&lt;/b&gt;?
+BEMÆRK: Kan ikke fortrydes, og kun tilpassede værktøjer kan slettes.</text>
+		<text id="lbl.askSaveChanges" h="4F19099B">Vil du gemme før du afslutter redigering?</text>
+		<text id="lbl.chooseAction" h="5EA681F4">Vælg handling:</text>
+		<text id="lbl.choosefiles.dndhint" h="8CF7925F">Tilføj filer med knappen på værktøjslinien, eller træk dem hertil. De kan arrangeres efter ønske.</text>
+		<text id="lbl.choosefiles.itemscount" h="2CFE0C7C">%1 emner</text>
+		<text id="lbl.choosefiles.selitemscount" h="402CD736">%1 emner • %2 valgte emner • %3</text>
+		<text id="lbl.choosepages" h="668A500A">Vælg sider der markeres i dokumentet:</text>
+		<text id="lbl.continue" h="A5F0062A">Fortsæt</text>
+		<text id="lbl.dblclick2browse" h="DB3D14F9">Dobbeltklik for at gennemse...</text>
+		<text id="lbl.editViewToolDesc" h="0F22DAFE">Beskriv værktøjet:</text>
+		<text id="lbl.editViewToolName" h="76F4AA91">Navngiv værktøjet:</text>
+		<text id="lbl.editdocs.dndhint" h="2FAC7414">Du kan trække sider, mellem dokumenter, og for at sortere dem. Du kan også oprette et nyt dokument, ved at trække sider udenfor/mellem dokumentemner.</text>
+		<text id="lbl.editview.dndhint" h="42E43BBA">Du kan trække eksisterene handlinger, for at sortere dem, eller trække nye handlinger ind fra listen i højre side.</text>
+		<text id="lbl.editview.dndhint2" h="714B17C6">Træk en handling hertil fra listen i højre side.</text>
+		<text id="lbl.emptyCatList" h="488587B8">Kategorilisten er tom</text>
+		<text id="lbl.emptyToolList" h="B2BFE203">Værktøjslisten er tom</text>
+		<text id="lbl.extractSizeLimit" h="0EA996F6">Ekskludér billeder mindre end:</text>
+		<text id="lbl.fileTypes" h="60ECC8E9">Filtyper:</text>
+		<text id="lbl.filestopdf.converters" h="902CF9B3">Konvertér med:</text>
+		<text id="lbl.folder" h="3F9ED2F9">Mappe:</text>
+		<text id="lbl.grouping" h="79C8A88E">Gruppering</text>
+		<text id="lbl.keeptransparent" h="5070A5EB">Bevar transparens</text>
+		<text id="lbl.multipagetype" h="C5A5712F">Filtype til flersidebilleder:</text>
+		<text id="lbl.noActionFound" h="105B87AB">Søgningen fandt ingen handlinger.</text>
+		<text id="lbl.noCategoryFound" h="CEC17229">Søgningen fandet ingen kategorier.</text>
+		<text id="lbl.noToolFound" h="181055BB">Søgningen fandt ingen værktøjer.</text>
+		<text id="lbl.reverseOrder" h="9564C9FE">Gem i omvendt orden</text>
+		<text id="lbl.run" h="19264084">Kør</text>
+		<text id="lbl.savemode" h="D16859B7">Gem</text>
+		<text id="lbl.showextui" h="1E2770E2">Vis udvidet filvalgsdialog</text>
+		<text id="lbl.singlepagetype" h="A6AF6C93">Filtype til enkeltsidebilleder:</text>
+		<text id="listmonitors.lbl" h="7A930E45">Mappeovervågninger:</text>
+		<text id="lnk.browsefolder" h="57F5ECCB">Vælg mappe...</text>
+		<text id="lnk.createtitle" h="97F6DA95">Opret genvej</text>
+		<text id="lnk.inputfiles" h="3B5E3105">Vælg inputfiler...</text>
+		<text id="lnk.noinput" h="365E2B73">Spørg efter inputfiler hver gang</text>
+		<text id="lnk.specifyinput" h="C331E1B9">Du kan føje importfiler/-mapper til genvejen:</text>
+		<text id="loading" h="DC6A6C81">Indlæser...</text>
+		<text id="location" h="52D95020">Placering</text>
+		<text id="log.abort" h="6F8E5DCD">Afbryd</text>
+		<text id="log.actiondone" h="E2806498">Handling gennemført</text>
+		<text id="log.andmore" h="54982D71">Klik for at vise mere...</text>
+		<text id="log.andmore.tip" h="2D9BDCA0">Dobbeltklik for at vise alle emner...</text>
+		<text id="log.cancelled" h="E28236C9">Annulleret</text>
+		<text id="log.fail" h="A37F5F82">Mislykkedes</text>
+		<text id="log.filecreated" h="E300872F">Fil oprettet</text>
+		<text id="log.filenotexist" h="E9442568">Filen findes ikke</text>
+		<text id="log.fileprocstart" h="254322E4">Filbehandling startet</text>
+		<text id="log.filestat.failed" h="D1F8052C">Mislykket behandling af filer: %1 af %2</text>
+		<text id="log.filestat.succeded" h="5A913587">Behandlede filer: %1 af %2</text>
+		<text id="log.invalidarg" h="79E18E42">Forkerte parametre</text>
+		<text id="log.nofilesinfolder" h="961510F8">Mappen indeholder ikke den ønskede filtype. Kontrollér dit valg.</text>
+		<text id="log.nopermissions" h="7508C445">Utilstrækkelige tilladelser.</text>
+		<text id="log.ok" h="BAD1F1D5">Gennemført</text>
+		<text id="log.summary" h="8BE8ABA0">Opsummering</text>
+		<text id="log.toolduration" h="8D5BD4C8">%1 brugt</text>
+		<text id="log.toolrunfinished" h="A50678CB">Kørselsresultat: %1</text>
+		<text id="log.toolstarted" h="4352D7A3">"%1" startet</text>
+		<text id="log.txtsummary" h="ABCB53D3">"%1" gennemført: %2 fejl, %3 filer behandlet, %4 filer oprettet, %5 advarsler </text>
+		<text id="log.txttoolduration" h="1DED609F">varighed: %1</text>
+		<text id="log.unknown" h="8566CB94">Ukendt</text>
+		<text id="log.wrongpass" h="473522EE">Forkert kodeord</text>
+		<text id="modified" h="30325672">Tilpasset</text>
+		<text id="moduleName" h="9B0F448F">PDF Tools</text>
+		<text id="mon.priority" h="73E40EE1">Prioritet:</text>
+		<text id="monitor.name.tip" h="A0EB9543">Skriv navn her...</text>
+		<text id="monitor.subfold" h="7D8D9398">Overvåg undermapper</text>
+		<text id="moveInputFiles" h="61936C79">Flyt inputfil til:</text>
+		<text id="msgtype.debug" h="C3C4F565">Fejlfind</text>
+		<text id="msgtype.error" h="51BFF51D">Fejl</text>
+		<text id="msgtype.info" h="07FB97A4">Info</text>
+		<text id="msgtype.unknown" h="E52D4ED4">Ukendt type</text>
+		<text id="msgtype.verbose" h="6817BBB0">Detaljeret</text>
+		<text id="msgtype.warning" h="E7AD7A2B">Advarsel</text>
+		<text id="name" h="D18643E3">Navn</text>
+		<text id="no.pages.to.delete" h="7A9E4694">Ingen sider til sletning.</text>
+		<text id="nooverlay.file" h="4D9B1EA6">Der er ikke angiver en overlægsfil</text>
+		<text id="ocr.processall" h="705E5831">OCR dokument</text>
+		<text id="ocr.textContinue" h="31439CA0">Udfør ikke OCR men fortsæt behandling</text>
+		<text id="ocr.textSkip" h="92F274EB">Spring dokumentbehandling over</text>
+		<text id="ocropt.lbl" h="791CC215">Dokument indeholder tekst:</text>
+		<text id="ovr.file" h="D8EE6FEB">Overlægsfil:</text>
+		<text id="ovr.norepeat" h="E58FFCC1">Ingen gentagelse</text>
+		<text id="ovr.positions" h="E9C070C5">Placering</text>
+		<text id="ovr.repeat" h="DB39711A">Gentagelse:</text>
+		<text id="ovr.repeatall" h="FB4118C6">Fortsat gentagelse af kortere overlægsfil</text>
+		<text id="ovr.repeatlast" h="87F51B84">Gentag sidste side med kortere overlægsfil</text>
+		<text id="ovr.settings" h="2FF7690D">Indstillinger</text>
+		<text id="page.props" h="F521B2C3">Sideegenskaber</text>
+		<text id="pagenumber" h="29EED2B3">Antal</text>
+		<text id="pagesRange" h="30C24AC3">Sideantal</text>
+		<text id="pagesRange.All" h="83434A26">Alle</text>
+		<text id="pagesRange.Pages" h="23952CFD">Sider:</text>
+		<text id="pagesSubset.all" h="599C6EE6">Alle sider fra angivet interval</text>
+		<text id="pagesSubset.even" h="E64675B8">Kun lige sider fra interval(ler)</text>
+		<text id="pagesSubset.odd" h="87228BC5">Kun ulige sider fra interval(ler)</text>
+		<text id="pagesrange.empty" h="630795CE">Intervallet skal angives</text>
+		<text id="pdf.properies" h="70EFADF5">PDF egenskaber</text>
+		<text id="pdfahandle.keepPDFAunchanged" h="908B4A26">Bevar PDF/A dokument uændret</text>
+		<text id="pdfahandle.reconvert" h="1AFD2B27">Genkonvertér dokument</text>
+		<text id="pdfahandle.skipPDFA" h="9B11C61E">Spring PDF/A dokument over</text>
+		<text id="pdfastd.lbl" h="83380816">Hvis dokumentet indeholder PDF/A standardoplysninger:</text>
+		<text id="place.foreground" h="0669CDF0">Læg overlægsfilen øverst</text>
+		<text id="policy.msg" h="3AE36A58">Der er ikke oprettet sikkerhedspolitik.
+Vil du oprette?</text>
+		<text id="preview.ovrfile" h="5593AECC">Vis overlægsfil</text>
+		<text id="printDoc.collate" h="EB01FB70">Sætvis</text>
+		<text id="printDoc.copies" h="A516AF46">Kopier:</text>
+		<text id="printDoc.deviceName" h="FEF6AD05">Navn:</text>
+		<text id="printDoc.duplex" h="B915897E">Dupleks:</text>
+		<text id="printDoc.paperSize" h="510A44DF">Papirstr:</text>
+		<text id="printDoc.status" h="922A166F">Status:</text>
+		<text id="priority.high" h="B7E10973">Høj</text>
+		<text id="priority.low" h="15FDBBEA">Lav</text>
+		<text id="priority.medium" h="5A523B97">Mellem</text>
+		<text id="prn.status.serverOffline" h="9F1449AB">Serveren offline</text>
+		<text id="prn.status.unknown" h="8566CB94">Ukendt</text>
+		<text id="progr.launching" h="5520AF34">Starter overvågning...</text>
+		<text id="progress.pause" h="6045D570">Pause</text>
+		<text id="prompt.clearpwd" h="AB0C3147">Vil du rydde kodeordslageret?</text>
+		<text id="prompt.removemonitor" h="DF4CD355">Vil du fjerne valgte mappe fra overvågning?</text>
+		<text id="prompt.removepwd" h="F4C34781">Vil du fjerne valgte emne fra kodeordslageret?</text>
+		<text id="props" h="F6FFF0BE">Egenskaber</text>
+		<text id="pwd.defaultDescr" h="EBF5010F">Mit forudbestemte kodeord</text>
+		<text id="pwd.descr.date" h="F8CC5563">Tilføjet: %1</text>
+		<text id="pwd.descr.dflt" h="5C50975F">Ingen beskrivelse</text>
+		<text id="pwd.enter.new" h="D9992E89">Kodeord der gemmes i lageret:</text>
+		<text id="pwd.enter.newdescr" h="9D40879A">Ny beskrivelse:</text>
+		<text id="pwdadd" h="AED8BB4C">Tilføj...</text>
+		<text id="pwdclear" h="CB9CE353">Ryd</text>
+		<text id="pwdedit" h="621534A3">Redigér...</text>
+		<text id="pwdgrp" h="202AB42A">Kodeordslager</text>
+		<text id="pwdlbl" h="5F4039B9">Foruddefinerede kodeord der automatisk bruges til dokumentbehandling:</text>
+		<text id="pwdprefs.name" h="D2C0C056">Kodeord</text>
+		<text id="pwdprefs.tip" h="7434F5A2">Forbestemt kodeordslager</text>
+		<text id="pwdprefs.title" h="7434F5A2">Forbestemt kodeordslager</text>
+		<text id="pwdremove" h="FCE39C1F">Fjern</text>
+		<text id="report" h="E9D63CB7">Rapport</text>
+		<text id="report.cuetext" h="5A5BCB07">Der er ingen beskeder i rapporten.</text>
+		<text id="report.defaultDesc" h="882ACAE5">Panelet viser beskeder fra værktøjet</text>
+		<text id="report.fld.lbl" h="3F89B943">Vælg mappe:</text>
+		<text id="report.framed.dlg" h="E9D63CB7">Rapport</text>
+		<text id="report.name.lbl" h="553DE74A">Rapportnavn:</text>
+		<text id="report.opt" h="2D42B915">Rapportindstillinger</text>
+		<text id="report.options.autoclear" h="F9D9404E">Ryd rapport før hver værktøjsstart</text>
+		<text id="report.options.forcevisible" h="C79B47D7">Vis rapportpanel for alle beskedtyper (ellers kun ved fejl)</text>
+		<text id="report.options.header" h="7254B91C">Rapportindstillinger</text>
+		<text id="report.options.main" h="31B3DC7C">Tilpas rapportpanelet:</text>
+		<text id="report.options.reset" h="B02C5E5A">Nulstil</text>
+		<text id="report.options.severity" h="B9C34921">Vælg de beskedtyper der vises i rapportpanelet:</text>
+		<text id="report.options.severity.document" h="5CD972FF">Besked om dokumenthandlinger</text>
+		<text id="report.options.severity.fileOperations" h="CAB821C9">Besked om filhandlinger (åben, opret, tilpas...etc.)</text>
+		<text id="report.options.severity.info" h="A8EA107E">Informationsbeskeder</text>
+		<text id="report.options.severity.summary" h="692A1A26">Opsummering af resultatet</text>
+		<text id="report.options.severity.title" h="B282840A">Beskedtyper</text>
+		<text id="report.options.severity.warning" h="13217901">Advarsler (beskeder om begivenheder der kan påvirke resultatet)</text>
+		<text id="report.options.showtimestamp" h="2A6DB7B2">Vis beskedtid i rapport</text>
+		<text id="reprocess.files" h="72A687D7">Genbehandl fil ved start</text>
+		<text id="resetActionTip" h="D7E3E700">Nulstil handlingsindstillinger til standard.</text>
+		<text id="resetact.warn" h="E5B97341">Vil du nulstille handlingensindstillinger til standard?
+BEMÆRK: Kan ikke fortrydes.</text>
+		<text id="resetprops.btn" h="1008C3F9">Nulstil</text>
+		<text id="resetprops.btntip" h="33DDB5A0">Klik for at nulstille</text>
+		<text id="resetseltools.warn" h="26BF4D94">Vil du nulstille valgte handlings indstillinger til standard?
+BEMÆRK: Kan ikke fortrydes.</text>
+		<text id="ressett.alert" h="9B2F79C2">Vil du nulstille alle programmets indstillinger, og vende tilbage til standardværktøjerne med deres standardindstillinger?
+BEMÆRK: Kan ikke fortrydes.</text>
+		<text id="ressett.toolsalert" h="8CCEF1F1">Nulstilling af alle indstillinger medfører at alle tilpassede værktøjer fjernes. Kilk Ja for at fortsætte.
+BEMÆRK: kan ikke fortrydes.</text>
+		<text id="resume" h="B0874E65">Genoptag</text>
+		<text id="sameimg.autobpp" h="A216C11C">Vælg automatisk farvedybde</text>
+		<text id="sameimg.autobpp.info" h="9E850B3C">Med denne mulighed vælges billedets farvedybde automatisk. Parametre fra billedformatet ignoreres.</text>
+		<text id="saveas.ask" h="9DF35209">Spørg</text>
+		<text id="saveas.auto" h="C820D6B5">Gem med nyt navn</text>
+		<text id="saveas.folder.ask" h="5DC29DB4">Spørg altid efter filplacering</text>
+		<text id="saveas.folder.cust" h="C9BD54EB">Brug angivet mappe</text>
+		<text id="saveas.folder.src" h="5E2E8FE3">Brug kildemappe som destination</text>
+		<text id="saveas.overwrite" h="68C4F37C">Overskriv med ny fil</text>
+		<text id="saveas.skip" h="CE81D302">Bevar eksisterende filer uændret</text>
+		<text id="saveas.text" h="7D366800">Hvis filen allerede findes:</text>
+		<text id="saveimg.default.folder" h="DCD2AF9C">Dokumentmappe</text>
+		<text id="saveimg.default.name" h="5A425CCC">Unavngivet</text>
+		<text id="saveimg.grouping.apart" h="8E717B39">Hvert billede til separat fil</text>
+		<text id="saveimg.grouping.groupall" h="9E5BA5E4">Alle billeder til en flerside biledfil</text>
+		<text id="saveimg.grouping.groupdoc" h="E86A1581">Alle billeder fra et dokument til en flerside biledfil</text>
+		<text id="saveimg.grouping.grouppage" h="FDF715C4">Alle billeder fra en side til en flerside biledfil</text>
+		<text id="savereport.to" h="861DD843">Gem rapport</text>
+		<text id="searchActionTip" h="3591BAD8">Søgning...</text>
+		<text id="searchToolTip" h="435392D9">Søgning...</text>
+		<text id="secinfo.grp" h="F5A61224">Sikkerhdsoplysninger</text>
+		<text id="secsetting.init.warn" h="61B936AD">Handlingen &lt;b&gt;"%1"&lt;/b&gt; skal forbereds før brug.
+Vil du fortsætte med dette værktøj og forberede handlingen?</text>
+		<text id="secsettings.btn" h="9147CD71">Indstillinger</text>
+		<text id="selPages.all" h="7D499596">Alle sider</text>
+		<text id="selPages.dlg" h="4B381B82">Vælg sider</text>
+		<text id="selPages.even" h="CDE5C1A0">Lige sider</text>
+		<text id="selPages.exact" h="23952CFD">Sider:</text>
+		<text id="selPages.fromsubset" h="3ADEE045">Fra undersættet "%1"</text>
+		<text id="selPages.odd" h="242E0666">Ulige sider</text>
+		<text id="select.ovrfile" h="74E5784A">Vælg overlægsfil</text>
+		<text id="selectDestFolder" h="D0F102DD">Vælg destinationsmappe</text>
+		<text id="selectHotfolder.lbl" h="3A4859F6">Overvågningsmappe:</text>
+		<text id="sendmail.archive.defaultname" h="F758C4E9">Intet navn</text>
+		<text id="sendmail.by" h="8EF165F7">Med:</text>
+		<text id="sendmail.chk.intoone" h="BE171523">Alle filer i samme mail</text>
+		<text id="sendmail.chk.priority" h="846616F7">Sæt høj mail prioritet</text>
+		<text id="sendmail.client" h="E8D90FF3">Mailprogram</text>
+		<text id="sendmail.compress.alltoone" h="C303528D">Alle filer i samme arkiv</text>
+		<text id="sendmail.compress.eachfile" h="B972BFCC">Hver fil til separat arkiv</text>
+		<text id="sendmail.compress.none" h="F9398D7D">Ingen</text>
+		<text id="sendmail.edt.cue" h="A179CC6C">Skriv tekstbesked...</text>
+		<text id="sendmail.from" h="976952DD">Fra:</text>
+		<text id="sendmail.lbl.arcname" h="A630D28B">Arkivnavn:</text>
+		<text id="sendmail.lbl.compress" h="BC1093D8">Komprimér:</text>
+		<text id="sendmail.log.cantcreatearchive" h="B40CACC8">Arkiv til afsendelse kan ikke oprettes</text>
+		<text id="sendmail.log.nofiles" h="4C7A563E">Ingen filer til afsendelse</text>
+		<text id="serializing" h="92752B4F">Opretter serie %1...</text>
+		<text id="setup.grp" h="95DF47CE">Indstillinger</text>
+		<text id="setuphotfolder.dlg.caption" h="EDC6E6EA">Mappeovervågning</text>
+		<text id="showFiles.enabled" h="2532774E">Aktiveret</text>
+		<text id="showFiles.launchAssocApp" h="FE936D7D">Vis filer med eksternt standardprogram</text>
+		<text id="showFiles.launchAssocAppWarn" h="97CF77EB">Antal filer til visning er over en.
+Samtidig visning af dem alle, kan bruge mange resourcer.
+
+Vil du se dem?</text>
+		<text id="showFiles.openFolderAndSel" h="A95A4BE0">Åben mappen og vælg filer</text>
+		<text id="showFiles.text" h="26A38ADF">Vælg handling:</text>
+		<text id="showMoreOpts" h="24B13299">Alle indstillinger...</text>
+		<text id="showMoreOpts2" h="64C40213">Flere valg...</text>
+		<text id="showMoreOptsTip" h="C60CDB73">Klik for at vise alle indstillinger...</text>
+		<text id="showMoreOptsTip2" h="145A1CAD">Klik for at vise avancerede muligheder...</text>
+		<text id="showSetupUI" h="0E94449E">Vis indstillingsdialog under kørslen</text>
+		<text id="showSetupUITip" h="0E94449E">Vis indstillingsdialog under kørslen</text>
+		<text id="size" h="17A58A52">Størrelse</text>
+		<text id="sizelimit.nolimit" h="8E135818">Ingen grænse</text>
+		<text id="skipaction.b" h="A37FB4B0">Spring over</text>
+		<text id="skipdocsWithText" h="2683C8E5">OCR ikke dokumenter der indeholder tekst</text>
+		<text id="skipped" h="B7D8BB1E">udeladt</text>
+		<text id="smmanual.chk" h="563576E6">Vis manuel opdel/flet dialog</text>
+		<text id="smmethod" h="C894DD7E">Metode</text>
+		<text id="smmethod.all2one" h="B3E7239B">Alle sider til et dokument</text>
+		<text id="smmethod.asis" h="4C3BC0E6">Bevar inputdokument(er) uændret</text>
+		<text id="smmethod.bookmarks" h="44B3EE11">Opdel efter hovedbogmærker</text>
+		<text id="smmethod.npages" h="2D67CBA9">Hver X. side i separat dokument</text>
+		<text id="smreverse.chk" h="B766066F">Vend sideorden</text>
+		<text id="sourcepage" h="5D6277DD">Kildeside</text>
+		<text id="sourcetitle" h="81E00BC2">Klidetitel</text>
+		<text id="specific" h="67D7437D">Bestemt</text>
+		<text id="status" h="9FB9C788">Status</text>
+		<text id="stdAll" h="C80F4913">Alle standarder</text>
+		<text id="stdToolsGrName" h="1906BB71">Standardværktøjer</text>
+		<text id="stop" h="F89FDAAE">Stop</text>
+		<text id="targettitle" h="F87B6FA7">Måltitel</text>
+		<text id="timefmt.day" h="EF28C7D2">%1 dag</text>
+		<text id="timefmt.days" h="F3C5276C">%1 dage</text>
+		<text id="timefmt.days.short" h="E1985A1D">%1d</text>
+		<text id="timefmt.hour" h="CDADDDAA">%1 time</text>
+		<text id="timefmt.hours" h="E9410F6D">%1 timer</text>
+		<text id="timefmt.hours.short" h="4D2D1511">%1h</text>
+		<text id="timefmt.minute" h="2D014E0C">%1 minut</text>
+		<text id="timefmt.minutes" h="781A3650">%1 minutter</text>
+		<text id="timefmt.minutes.short" h="305AE154">%1m</text>
+		<text id="timefmt.second" h="CDE322F6">%1 sekund</text>
+		<text id="timefmt.seconds" h="D24DF2F6">%1 sekunder</text>
+		<text id="timefmt.seconds.short" h="E41BDE8B">%1s</text>
+		<text id="title.choosepages" h="4B381B82">Vælg sider</text>
+		<text id="tool" h="7D3C7CB2">Værktøj</text>
+		<text id="tool.addBatesNumbering" h="5987A707">Tilføj serienummerering</text>
+		<text id="tool.addBatesNumbering.desc" h="19058FA5">Giver mulighed for at serienummerere lovdokumenter, for at lette idenficering, modtagelse...etc.</text>
+		<text id="tool.addDigSign" h="97DD789F">Tilføj digital signatur</text>
+		<text id="tool.addDigSign.desc" h="84946427">Tilføjer og signerer et nyt signaturfelt med et certifikatbaseret digitalt ID.</text>
+		<text id="tool.addHeaderAndFooter" h="71EBAC62">Tilføj sidehoved og sidefod</text>
+		<text id="tool.addHeaderAndFooter.desc" h="36AA73F6">Tilføjer sidehoved og/eller sidefod til sider. De kan indeholde en dato, automatisk sidenummerering, titel, forfatter...etc.</text>
+		<text id="tool.addPagesBackground" h="20D4DB07">Sæt sidebaggrund</text>
+		<text id="tool.addPagesBackground.desc" h="C639A1B2">Bestemmer ensfarvet/ grafisk  baggrund for sidens indhold.</text>
+		<text id="tool.addTimeStamp" h="837FE6FB">Tidsstempel PDF</text>
+		<text id="tool.addTimeStamp.desc" h="4D80E50C">Tilføjer et tidsstempel fra en autoriseret tidsserver, som etablerer det nøjagtige indhold af hele PDF filen på stempeltidspunktet.</text>
+		<text id="tool.addWatermarks" h="F5662DD3">Tilføj vandmærke</text>
+		<text id="tool.addWatermarks.desc" h="434D9E42">Tilføjer tekst eller billeder der enten optræder foran eller bagved det eksisterende indhold.</text>
+		<text id="tool.bookmarksBuildTOC" h="2B3E9BF1">Opret indholdsfortegnelse</text>
+		<text id="tool.bookmarksBuildTOC.desc" h="1D694D80">Opret indholdsfortegnelse ud fra dokumentets bogmærkestruktur og destinationssider.</text>
+		<text id="tool.bookmarksExport" h="F3EE1781">Eksportér bogmærker</text>
+		<text id="tool.bookmarksExport.desc" h="BB39B78E">Eksporterer alle dokumentets bogmærker</text>
+		<text id="tool.bookmarksExportToText" h="01135DA3">Eksportér bogmærker til tekstfil</text>
+		<text id="tool.bookmarksExportToText.desc" h="F351FF49">Gemmer PDF dokuments bogmærkestruktue som tekstfil</text>
+		<text id="tool.bookmarksFromText" h="383A949B">Opret bogmærker fra sidetekst</text>
+		<text id="tool.bookmarksFromText.desc" h="1EF3AF08">Oprette bogmærker fra dokumentets tekst med given skrift og parametre</text>
+		<text id="tool.bookmarksFromTextFile" h="CA5176DD">Importér bogmærker fra tekstfil</text>
+		<text id="tool.bookmarksFromTextFile.desc" h="792D900F">Opretter bogmærker i PDF dokumenter fra tekstfil.</text>
+		<text id="tool.bookmarksImport" h="DC7F6AD5">Importér bogmærker</text>
+		<text id="tool.bookmarksImport.desc" h="40AC7812">Importér bogmærker fra tidligere eksporteret fil.</text>
+		<text id="tool.certifyPDF" h="52B0ED47">Certificér PDF</text>
+		<text id="tool.certifyPDF.desc" h="828838CF">Sikrer et PDF dokument ved at certificere det med et certificeret signaturfelt.</text>
+		<text id="tool.changeProps" h="89CBAD2F">Tilpas dokumentegenskaber</text>
+		<text id="tool.changeProps.desc" h="40BD1FE7">Sætter dokumentegenskaber: Titel, forfatter, emne...etc.</text>
+		<text id="tool.clearDigSign" h="361BBD36">Ryd alle digitale signaturer</text>
+		<text id="tool.clearDigSign.desc" h="E1CDD425">Fjerner alle digitale signaturer, og efterlader usignerede signaturfelter, hvis muligt.</text>
+		<text id="tool.convertToPDFA" h="86709E15">Konvertér til PDF/A</text>
+		<text id="tool.convertToPDFA.desc" h="7DDE1660">Gør PDF dokument(er) kompatible med PDF/A standarden, for langtids opbevaring og holdbarhed.</text>
+		<text id="tool.convertToPDFX" h="1D70370D">Konvertér til PDF/X</text>
+		<text id="tool.convertToPDFX.desc" h="CB599882">Gør PDF dokument(er) kompatible med PDF/X standarden, for udveksling af udskrifter.</text>
+		<text id="tool.copied" h="348DE55D">Kopiér</text>
+		<text id="tool.createWeblinks" h="F68EDD51">Opret weblinks</text>
+		<text id="tool.createWeblinks.desc" h="6971A17D">Opretter weblinks fra tekst i dokumentet.</text>
+		<text id="tool.cropPages" h="54A95B63">Beskær sider</text>
+		<text id="tool.cropPages.desc" h="A9A477BE">Justerer det synlige område, fjerner eller tilpasser hvide margener på sider, sætter sidebokse.</text>
+		<text id="tool.deleteComments.all" h="E8642222">Slet alle kommentarer</text>
+		<text id="tool.deleteComments.all.desc" h="818B531A">Slet alle kommentarer fra dokumentet.</text>
+		<text id="tool.deleteComments.form" h="37ECB4B5">Slet formularfelter</text>
+		<text id="tool.deleteComments.form.desc" h="C5D21570">Slet alle formularfelter fra dokumentet.</text>
+		<text id="tool.deleteComments.links" h="CC8F1411">Slet links</text>
+		<text id="tool.deleteComments.links.desc" h="66D48AF5">Slet alle links fra dokumentet.</text>
+		<text id="tool.deleteComments.markup" h="EA5127FB">Slet alle mærker</text>
+		<text id="tool.deleteComments.markup.desc" h="80CD5AA0">Slet alle mærker fra dokumentet.</text>
+		<text id="tool.deleteComments.weblinks" h="87C8439E">Slet weblinks</text>
+		<text id="tool.deleteComments.weblinks.desc" h="158E179F">Slet weblinks fra dokumentet.</text>
+		<text id="tool.deletePages" h="E5284839">Slet sider</text>
+		<text id="tool.deletePages.desc" h="4E1EBD43">Slet sider fra dokumentet.</text>
+		<text id="tool.descTip" h="04F6C0B5">Værktøjsbeskrivelse...</text>
+		<text id="tool.discardPDFStd" h="E608B980">Kassér speciel PDF standard</text>
+		<text id="tool.discardPDFStd.desc" h="947EF232">Kassér speciel PDF standard information, f.eks. PDF/X, PDF/A, PDF/E...etc.</text>
+		<text id="tool.duplicatePages" h="14C45200">Duplikér sider</text>
+		<text id="tool.duplicatePages.desc" h="0FD26A6C">Duplikér sider fra PDF dokumentet.</text>
+		<text id="tool.enhanceScannedPages" h="0A810C6E">Optimér skannede sider</text>
+		<text id="tool.enhanceScannedPages.desc" h="95589020">Forbedrer skannede billeder i PDF dokumenter, for at lette læsning og reducere filstørrelsen.</text>
+		<text id="tool.extractImagesFromPDF" h="4CF9FEB6">Udtræk billeder fra PDF</text>
+		<text id="tool.extractImagesFromPDF.desc" h="C53280A8">Gennemsøger PDF dokument(er) for billeder der kan udtrækkes og gemmes.</text>
+		<text id="tool.extractPages" h="7AE73EC1">Udtræk sider</text>
+		<text id="tool.extractPages.desc" h="54BB795B">Udtræk angivet sideinterval fra PDF til et nyt dokument.</text>
+		<text id="tool.filesToPDF" h="4CD7DD2F">Konvertér filer til PDF</text>
+		<text id="tool.filesToPDF.desc" h="603206C4">Konverterer understøttede inputfiler til PDF</text>
+		<text id="tool.flattenComments" h="CBA1AA18">Integrér kommentarer</text>
+		<text id="tool.flattenComments.desc" h="20A41E96">Konverterer kommentarer til fast indhold</text>
+		<text id="tool.imagesToPDF" h="B0C7E05C">Opret PDF fra billeder</text>
+		<text id="tool.imagesToPDF.desc" h="0FDB3BE0">Opretter et enkelt PDF dokument fra et eller flere rasterbilleder</text>
+		<text id="tool.insertEmptyPages" h="3779032F">Indsæt tomme sider</text>
+		<text id="tool.insertEmptyPages.desc" h="65380D33">Indsætter tomme sider i dokumentet.</text>
+		<text id="tool.insertPages" h="6B486B45">Indsæt sider</text>
+		<text id="tool.insertPages.desc" h="E986FB1C">Indsætter sider i dokumentet fra valgt dokument.</text>
+		<text id="tool.isused" h="F0A66FDB">Værktøjet &lt;b&gt;"%1"&lt;/b&gt; kan ikke slettes.
+Det bruges til mappeovervågning.</text>
+		<text id="tool.nameTip" h="92682EAF">Værktøjsnavn...</text>
+		<text id="tool.new.name" h="6431F60C">Nyt værktøj</text>
+		<text id="tool.ocrPages" h="D2A189BC">OCR sider</text>
+		<text id="tool.ocrPages.desc" h="E9D91493">Genkender tekst i et PDF dokument, og oprette et lag med tekst der kan markeres og søges.</text>
+		<text id="tool.optimizePDF" h="E369C144">Optimér PDF</text>
+		<text id="tool.optimizePDF.desc" h="2DDF7F6C">Optimerer PDF dokumentet for at reducere filstørrelsen, hvis det er muligt.</text>
+		<text id="tool.overlayDoc" h="A113E021">Overlæg PDF</text>
+		<text id="tool.overlayDoc.desc" h="8AC5B664">Overlæg PDF dokument med et andet PDF dokument.</text>
+		<text id="tool.pageTransitions" h="B5EF0B7A">Sæt sideovergange</text>
+		<text id="tool.pageTransitions.desc" h="33F5B755">Tilpasser sideovergange ved visning i fuld slærm.</text>
+		<text id="tool.pdfToDOCX" h="D89F515F">Eksportér PDF til Word</text>
+		<text id="tool.pdfToDOCX.desc" h="D34FB81F">Eksportér PDF til Word filer (*.docx).</text>
+		<text id="tool.pdfToImages" h="6DC3C315">Eksportér PDF til billeder</text>
+		<text id="tool.pdfToImages.desc" h="87E8923B">Eksporterer sider fra en eller flere PDF filer, til forskellige billedformater, inkl. JPEG, PNG, TIFF...etc.</text>
+		<text id="tool.pdfToPPTX" h="E673A7B8">Eksportér PDF til PowerPoint</text>
+		<text id="tool.pdfToPPTX.desc" h="65E608C6">Eksportér PDF til PowerPoint filer (*.pptx).</text>
+		<text id="tool.pdfToTXT" h="29DDD177">Eksportér PDF til almindelig tekst</text>
+		<text id="tool.pdfToTXT.desc" h="9C277C15">Eksporterer PDF til almindelige tekstfiler (*.txt).</text>
+		<text id="tool.pdfToXSLX" h="A31C131A">Eksportér PDF til Excel</text>
+		<text id="tool.pdfToXSLX.desc" h="325AEA86">Eksportér PDF til Excel filer (*.xlsx).</text>
+		<text id="tool.printDocument" h="4F3750AE">Udskriv dokument</text>
+		<text id="tool.printDocument.desc" h="52ECFAA3">Udskriver alle kildedokumenter</text>
+		<text id="tool.removeBackground" h="E0246483">Fjern sidebaggrund</text>
+		<text id="tool.removeBackground.desc" h="17700648">Fjerner tilpassede sidebaggrunde, og gendanner den hvide standardbaggrund.</text>
+		<text id="tool.removeBatesNumbering" h="901F5ABD">Fjern serienummerering</text>
+		<text id="tool.removeBatesNumbering.desc" h="E4FBEB3C">Fjerner serienummerering.</text>
+		<text id="tool.removeHeaderAndFooter" h="11E8A996">Fjern sidehoveder og sidefødder</text>
+		<text id="tool.removeHeaderAndFooter.desc" h="E1CC0743">Fjerner alle ekssisterende sidehoveder og sidefødder.</text>
+		<text id="tool.removeWatermarks" h="93F16CE2">Fjern vandmærker</text>
+		<text id="tool.removeWatermarks.desc" h="AFCD3BD4">Fjerner alle dokumentets vandmærker</text>
+		<text id="tool.replacePages" h="1311083C">Erstat sider</text>
+		<text id="tool.replacePages.desc" h="9C48D712">Erstat sider i dokumentet med sider fra det valgte dokument.</text>
+		<text id="tool.report.dlg" h="E9D63CB7">Rapport</text>
+		<text id="tool.report.filename" h="C7908B93">Kørselsresultat</text>
+		<text id="tool.report.save" h="418B87C2">Gem som fil</text>
+		<text id="tool.resizePages" h="8A5C31F1">Tilpas sidestørrelse</text>
+		<text id="tool.resizePages.desc" h="822401DC">Forøger/formindsker sidestørrelse, med valgfri skalering af indhold.</text>
+		<text id="tool.rotatePages" h="CBD82045">Rotér sider</text>
+		<text id="tool.rotatePages.desc" h="66235E38">Rotér angivne sider 90 grader med/mod uret.</text>
+		<text id="tool.scanToPDF" h="B9A05395">Skan til PDF</text>
+		<text id="tool.scanToPDF.desc" h="521CD5C0">Oprette nyt PDF dokument direkte fra din skanner.</text>
+		<text id="tool.securePDF" h="400E69FB">Sikker PDF</text>
+		<text id="tool.securePDF.desc" h="322DE365">Beskytte PDF dokumentet med et kodeord, der kræves for at åbne/ændre dokumentet.</text>
+		<text id="tool.sendMail" h="9377A75B">Send mail</text>
+		<text id="tool.sendMail.desc" h="13681586">Sender filer til valgte mailadresse med det aktuelle mailprogram.</text>
+		<text id="tool.splitMergePDF" h="51A86996">Opdel/flet PDF</text>
+		<text id="tool.splitMergePDF.desc" h="73710D3B">Fletter eller opdeler PDF filer, automatisk eller manuelt.</text>
+		<text id="tool.splitPages" h="2648812F">Opdel sider</text>
+		<text id="tool.splitPages.desc" h="4FA35C77">Opdel sider i PDF dokumenter</text>
+		<text id="tool.summarizeComments" h="2233C1CD">Opsummér kommentarer</text>
+		<text id="tool.summarizeComments.desc" h="8EA1DEF5">Oprette oversigt over alle kommentarer i PDF dokument.</text>
+		<text id="tool.textToPDF" h="ECE46B63">Opret PDF fra tekst</text>
+		<text id="tool.textToPDF.desc" h="E1CF697C">Opretter et enkelt PDF dokument fra en eller flere tekstfiler.</text>
+		<text id="tool.warn.actIncompatible" h="AE17E68E">denne proces kan ikke bruges i handlingen &lt;u&gt;%1&lt;/u&gt;. Spring en af dem over</text>
+		<text id="tool.warn.actInvalid1" h="8442B509">Problemer i handlingen:</text>
+		<text id="tool.warn.actInvalid2" h="442E6045">Problemet blev fundet i handlingen:</text>
+		<text id="tool.warn.actReqDoc" h="76C84E2B">denne handling kræver input af PDF, billeder eller andre understøttede filer</text>
+		<text id="tool.warn.actReqFile1" h="0B30D02F">denne handling kræver filinput. Du kan indsætte handlingen &lt;u&gt;%1&lt;/u&gt; før denne, for at løse problemet.</text>
+		<text id="tool.warn.actReqFile2" h="CA8342FE">denne handling kræver filinput</text>
+		<text id="tool.warn.actReqFile21" h="65B62BA0">det ser ud til at du har glemt at indsætte handlingen &lt;u&gt;%1&lt;/u&gt; før dette</text>
+		<text id="tool.warn.actReqImg" h="D28A3C63">denne handling kræver billedinput</text>
+		<text id="tool.warn.actReqSaveRes" h="3621DC81">handlingens resultat skal gemmes. Du kan indsætte handlingen &lt;u&gt;%1&lt;/u&gt; herefter for at løse problemet</text>
+		<text id="tool.warn.actReqSaveRes2" h="9B55FE54">værktøjet har &lt;u&gt;%1&lt;/u&gt; blandt de forrige handlinger, og skal gemmes før anvendelse &lt;i&gt;denne&lt;/i&gt; handling. Du skal tilføje handlingen &lt;u&gt;%2&lt;/u&gt;</text>
+		<text id="tool.warn.actTitle" h="7330FC41">&lt;u&gt;%1&lt;/u&gt; handling:</text>
+		<text id="tool.warn.cancel" h="8DD6365D">Vil du stoppe kørslen af værktøjet &lt;b&gt;"%1"&lt;/b&gt;?
+Hvis ikke, så klik &lt;b&gt;Nej&lt;/b&gt; for at fortsætte...</text>
+		<text id="tool.warn.empty" h="D05A0C43">værktøjet er tomt. Du kan klikke på  '&lt;b&gt;Redigér&lt;/b&gt;'  i værktøjslinien, og tilføje nogle handlinger.</text>
+		<text id="tool.warn.empty2" h="B4FD144F">Værktøjet er tomt: Der er ingen handlinger</text>
+		<text id="tool.warn.imgNotFound" h="9A768995">Billede ikke fundet</text>
+		<text id="tool.warn.invalidActList" h="A2BB75D7">Værktøjets handlingsliste er ugyldig.</text>
+		<text id="tool.warn.nextActNotSuitable" h="17376D04">&lt;i&gt;næste&lt;/i&gt; handling er ikke passende, da den ikke accepterer resultatet af &lt;i&gt;denne&lt;/i&gt; handling som input</text>
+		<text id="tool.warn.nextActNotSuitable2" h="49941252"> Du kan indsætte handlingen &lt;u&gt;%1&lt;/u&gt; efter &lt;i&gt;denne&lt;/i&gt;, for at løse problemet.</text>
+		<text id="tool.warn.nooperation" h="0063BA81">kan ikke oprette processer til denne handling. Reparer/geninstallér tilhørende plugin</text>
+		<text id="tool.warn.runInvalid" h="58A31432">Værktøjet &lt;b&gt;"%1"&lt;/b&gt; er ugyldigt. Tilpas handlingslisten for at køre det.
+
+Vil du redigere værktøjet?</text>
+		<text id="tool.warn.toolInvalid1" h="D448BEEB">Problemer med værktøjet:</text>
+		<text id="tool.warn.toolInvalid2" h="560926B8">Problemet blev fundet i værktøjet:</text>
+		<text id="toolActionsList" h="C9BE1A16">Værktøjs handlingsrækkefølge</text>
+		<text id="toolCategories" h="DB5C4D49">Kategorier</text>
+		<text id="toolInfo" h="979A9FE1">Værktøjsinfo</text>
+		<text id="toolInfo.defaultDesc" h="D1FD06B6">Vælg et værktøj for at se oplysningerne.</text>
+		<text id="toolcat.PDFStandard" h="E51FAF25">PDF standard</text>
+		<text id="toolcat.advanced" h="59A2B513">Avanceret</text>
+		<text id="toolcat.all" h="BF2EE9E9">Alle værktøjer</text>
+		<text id="toolcat.bookmarks" h="E2032460">Bogmærker</text>
+		<text id="toolcat.comments" h="FA5EB905">Kommentarer</text>
+		<text id="toolcat.createPDF" h="ACF7EBD1">Opret PDF</text>
+		<text id="toolcat.customTools" h="22F07048">Tilpassede værktøjer</text>
+		<text id="toolcat.exportPDF" h="4AE54AB5">Eksportér PDF</text>
+		<text id="toolcat.favorites" h="310DA860">Favoritter</text>
+		<text id="toolcat.importedTools" h="48FF1B1E">Importerede værktøjer</text>
+		<text id="toolcat.mostUsed" h="6274AE53">Mest brugt</text>
+		<text id="toolcat.newname" h="DB2A8F96">Ny kategori</text>
+		<text id="toolcat.optimizePDF" h="E369C144">Optimér PDF</text>
+		<text id="toolcat.pages" h="47B1CB74">Sider</text>
+		<text id="toolcat.protection" h="B7EE190B">Beskyttelse</text>
+		<text id="toolcat.recents" h="F90189AF">Seneste</text>
+		<text id="toolsList" h="CA8BB4DB">Værktøjer</text>
+		<text id="toolselect.lbl" h="ECBB264F">Vælg værktøj:</text>
+		<text id="toolslist.drop.nofiles" h="4F3412DD">Der er ingen filer at droppe.</text>
+		<text id="toolslist.tip.icofavorite.add" h="F53B42E1">Klik for at føje værktøj til favoritter</text>
+		<text id="toolslist.tip.icofavorite.remove" h="04AC30FF">Værktøjer i denne favoritkategori.Klik for at fjerne værktøjer fra kategorien</text>
+		<text id="toolslist.tip.icomonitor" h="4A7E7A48">Værktøjet bruges i mappeovervågning</text>
+		<text id="toolslist.tip.icouser" h="9864F819">Tilpasset værktøj</text>
+		<text id="toolsview.warning.emptyname" h="38B7A2E0">Værktøjet skal navngives.</text>
+		<text id="type" h="710B61B4">Type</text>
+		<text id="userui.disable" h="14084105">Deaktivér interaktion</text>
+		<text id="userui.tooltip" h="439FDF26">Handling deaktiverer alle brugerflader under udførelsen (visning af resultater, yderligere handlinger...etc.).
+BEMÆRK. Visse handlinger (f.eks. &lt;b&gt;"%1"&lt;/b&gt;) kræver forberedelse, og brugerfladen vises &lt;u&gt;en gang&lt;/u&gt;.</text>
+		<text id="userui.usetool" h="D5A05798">Brug værktøjsindstillinger</text>
+		<text id="usetool.filter" h="4885292B">Brug filter fra værktøj</text>
+		<text id="warn.textDocSkipOCR" h="FB74BE26">PDF dokumentet indeholder tekst. OCR udføres ikke.</text>
+		<text id="weblinks.grp" h="BC392B82">Vælg sider til oprettelse af weblink:</text>
+		<text id="wrong.file.msg" h="9F0126B0">Kan ikke åbne overlægs PDF:
+&lt;b&gt;%1&lt;/b&gt;:
+%2
+Vil du vælge en anden?</text>
+	</Strings>
+</Localization>

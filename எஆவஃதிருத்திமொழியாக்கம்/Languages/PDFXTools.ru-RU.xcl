@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627201142">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXTools"/>
+	<Language eName="Russian (Russia)" lName="Русский" code="ru-RU" R2L="false"/>
+	<Module name="PDFXTools" namespace="pdft" version="7.0.325.10"/>
+	<Strings>
+		<text id="accessed" h="45570324">Последний доступ</text>
+		<text id="act.askForSourceFiles" h="2E856073">Выберите исходные файлы</text>
+		<text id="act.askForSourceFiles.desc" h="3759C068">Обеспечивает возможность для определения исходных файлов для инструмента.</text>
+		<text id="act.bm.ExportActType_GotoR" h="41E1955E">Закладки с действиями "Перейти к удаленной"</text>
+		<text id="act.bm.ExportActType_JS" h="31D8CD1A">Закладки с JavaScript действиями</text>
+		<text id="act.bm.ExportActType_Launch" h="38537D36">Закладки с действиями "Открыть файл"</text>
+		<text id="act.bm.ExportActType_Page" h="05B4C93C">Закладки с действиями "Перейти к странице"</text>
+		<text id="act.bm.ExportActType_URI" h="F39B51AE">Закладки с действиями "Открыть веб-ссылку"</text>
+		<text id="act.bm.ExportActTypesAll" h="B8B21253">Закладки со всеми типами действий гиперссылок</text>
+		<text id="act.bm.bmToExport" h="28D4BD73">Закладки для экспорта</text>
+		<text id="act.bm.export" h="F3EE1781">Экспортировать закладки</text>
+		<text id="act.bm.export.desc" h="1403C5AD">Экспортирует всех закладки из документа(-ов)</text>
+		<text id="act.bm.exportAll" h="8882D072">Экспортировать все</text>
+		<text id="act.bm.exportHyperlink" h="8AB29747">Экспортировать закладки, которые выполняют действие гиперссылки:</text>
+		<text id="act.bm.exportToTextFile" h="01135DA3">Экспортировать закладки в текстовый файл</text>
+		<text id="act.bm.exportToTextFile.desc" h="7C68D13E">Экспортирует структуру закладок как текстовый файл.</text>
+		<text id="act.bm.fromTextFile" h="CA5176DD">Импорт закладок из текстового файла</text>
+		<text id="act.bm.fromTextFile.desc" h="EE697E49">Создает закладки из текстового файла. Обратите внимание, что формат данных текстовых файлов должен соответствовать правилам Экспорта закладок в текстовые файлы</text>
+		<text id="act.bm.generateFromText" h="383A949B">Создание закладок из текста страницы</text>
+		<text id="act.bm.generateFromText.desc" h="6DDE7415">Создает закладки из текста текущего документа, используя заданный стили и параметры шрифта</text>
+		<text id="act.bm.import" h="DC7F6AD5">Импорт закладок</text>
+		<text id="act.bm.import.desc" h="A5E69BAE">Импортирует закладки в документ(-ы) из файла, в который ранее они были экспортированы.</text>
+		<text id="act.bm.toTOC" h="2B3E9BF1">Создать Оглавление</text>
+		<text id="act.bm.toTOC.desc" h="E92DA1A8">Создает Оглавление на основе структуры закладок и страниц, на которые указывают закладки.</text>
+		<text id="act.deleteComments.all" h="E8642222">Удалить все комментарии</text>
+		<text id="act.deleteComments.all.desc" h="818B531A">Удалить все комментарии в документе.</text>
+		<text id="act.deleteComments.form" h="37ECB4B5">Удалить поля формы</text>
+		<text id="act.deleteComments.form.desc" h="C5D21570">Удалить поля формы в документе.</text>
+		<text id="act.deleteComments.grp" h="73395EF1">Укажите страницы, с которых удалить комментарии</text>
+		<text id="act.deleteComments.lbl" h="605AA315">Выбрать типы комментариев для удаления:</text>
+		<text id="act.deleteComments.links" h="CC8F1411">Удалить ссылки</text>
+		<text id="act.deleteComments.links.desc" h="66D48AF5">Удалить ссылки в документе.</text>
+		<text id="act.deleteComments.markup" h="EA5127FB">Удалить комментарии-метки</text>
+		<text id="act.deleteComments.markup.desc" h="80CD5AA0">Удаляет комментарии-метки в документе.</text>
+		<text id="act.deleteComments.weblinks" h="87C8439E">Удалить веб-ссылки</text>
+		<text id="act.deleteComments.weblinks.desc" h="158E179F">Удалить веб-ссылки в документе.</text>
+		<text id="act.deletePages.dep.enable.lbl" h="6D295CF8">Удалять только пустые страницы</text>
+		<text id="act.deletePages.lbl" h="75141561">Диапазон страниц для удаления:</text>
+		<text id="act.discardPDFStd" h="E608B980">Отменить специальный PDF стандарт</text>
+		<text id="act.discardPDFStd.desc" h="947EF232">Игнорирует информацию специального PDF стандарта, как PDF/X, PDF/A, PDF/E. и др.</text>
+		<text id="act.doc.addBackground" h="8B83981C">Изменить фон</text>
+		<text id="act.doc.addBackground.desc" h="8C8F71BF">Добавляет фон к PDF страницам.</text>
+		<text id="act.doc.addBatesNumbering" h="5987A707">Добавить сквозную нумерацию</text>
+		<text id="act.doc.addBatesNumbering.desc" h="19058FA5">Добавляет сквозную нумерацию в PDF документ(ы) для упрощения их индексации, идентификации, поиска, и т.д.</text>
+		<text id="act.doc.addDigSign" h="97DD789F">Добавить цифровую подпись</text>
+		<text id="act.doc.addDigSign.desc" h="BB76CA39">Добавляет и подписывает новое поле подписи, используя цифровой сертификат (цифровой идентификатор).</text>
+		<text id="act.doc.addHeaderAndFooter" h="71EBAC62">Добавить верхний и нижний колонтитул</text>
+		<text id="act.doc.addHeaderAndFooter.desc" h="8697B047">Добавляет верхний и нижний колонтитулы на указанные страницы. Колонтитулы могут содержать данные о дате, заглавии, авторе, номер страницы и т.д.</text>
+		<text id="act.doc.addTimeStamp" h="896D61BF">Добавить метку времени</text>
+		<text id="act.doc.addTimeStamp.desc" h="2FDF1628">Добавляет временную метку и подтверждает точность содержимого документа в момент применения метки времени. Метку добавляет доверенный сервер временных меток.</text>
+		<text id="act.doc.addWatermarks" h="AA010705">Добавить водяные знаки</text>
+		<text id="act.doc.addWatermarks.desc" h="A89FAD30">Добавляет текст или изображение над или под содержимым страницы.</text>
+		<text id="act.doc.certify" h="C2AFA656">Сертифицировать документ</text>
+		<text id="act.doc.certify.desc" h="402B64F2">Защищает PDF документ(ы), используя сертфикат с определенным типом поля подписи.</text>
+		<text id="act.doc.changeProps" h="89CBAD2F">Изменить свойства документа</text>
+		<text id="act.doc.changeProps.desc" h="40BD1FE7">Изменяет свойства документа: Заголовок, Автор, Тема, Ключевые слова...</text>
+		<text id="act.doc.clearDigSign" h="7E6883B8">Очистить цифровую подпись</text>
+		<text id="act.doc.clearDigSign.desc" h="E1CDD425">Удаляет все цифровые подписи и, по возможности, оставляет неподписанными поля подписи.</text>
+		<text id="act.doc.convertToPDFA" h="86709E15">Преобразовать в PDF/A стандарт</text>
+		<text id="act.doc.convertToPDFA.desc" h="89A9625A">Создает документы для длительного хранения, соответствующие PDF/A стандарту.</text>
+		<text id="act.doc.convertToPDFX" h="1D70370D">Преобразовать в PDF/X стандарт</text>
+		<text id="act.doc.convertToPDFX.desc" h="BB077FA6">Создает документы, соответствующие PDF/X стандарту, для обмена готовыми к печати данными.</text>
+		<text id="act.doc.createWeblinks" h="F68EDD51">Создать веб-ссылки</text>
+		<text id="act.doc.createWeblinks.desc" h="6971A17D">Создает веб-ссылки из текстового содержимого документа.</text>
+		<text id="act.doc.cropPages" h="54A95B63">Обрезать страницы</text>
+		<text id="act.doc.cropPages.desc" h="9F01A5F4">Регулирует видимую область страницы, изменяя или удаляя белые поля на странице(-ах), устанавливает рамки страницы.</text>
+		<text id="act.doc.deletePages" h="E5284839">Удалить страницы</text>
+		<text id="act.doc.deletePages.desc" h="0EA6D9E9">Удалить выбранный диапазон страниц из документа.</text>
+		<text id="act.doc.duplicatePages" h="14C45200">Дублировать страницы</text>
+		<text id="act.doc.duplicatePages.desc" h="0FD26A6C">Дублирует страницы PDF документа.</text>
+		<text id="act.doc.enhanceScannedPages" h="0A810C6E">Улучшить качество сканированных страниц</text>
+		<text id="act.doc.enhanceScannedPages.desc" h="95589020">Улучшает сканированные изображения в PDF документе для улучшения чтения и уменьшения размера файла.</text>
+		<text id="act.doc.exportToDOCX" h="D89F515F">Экспортировать PDF-файл в документ Microsoft Word</text>
+		<text id="act.doc.exportToDOCX.desc" h="D5E45C48">Экспортирует PDF-файлы в документы Microsoft Word (*.docx).</text>
+		<text id="act.doc.exportToImages" h="6DC3C315">Экспортировать в изображения</text>
+		<text id="act.doc.exportToImages.desc" h="0EA3EE6B">Экспортирует PDF страниц одного или нескольких документов в растровые изображения форматов JPEG, PNG, TIFF и т.д.</text>
+		<text id="act.doc.exportToPPTX" h="E673A7B8">Экспортировать PDF-файл в презентацию Microsoft PowerPoint</text>
+		<text id="act.doc.exportToPPTX.desc" h="E0A7703F">Экспортирует PDF-файлы в презентации Microsoft PowerPoint (*.pptx).</text>
+		<text id="act.doc.exportToTXT" h="29DDD177">Экспортировать PDF-файл в текст</text>
+		<text id="act.doc.exportToTXT.desc" h="3D8783C4">Экспортирует PDF-файлы в текстовые файлы (*.txt).</text>
+		<text id="act.doc.exportToXLSX" h="A31C131A">Экспортировать PDF в таблицы Microsoft Excel</text>
+		<text id="act.doc.exportToXLSX.desc" h="66CD86D0">Экспортирует PDF-файлы в таблицы Microsoft Excel (*.xslx).</text>
+		<text id="act.doc.extractImages" h="4CF9FEB6">Извлечь изображения из PDF документа</text>
+		<text id="act.doc.extractImages.desc" h="454EBA71">Поиск растровых изображений в документе для дальнейшего извлечения.</text>
+		<text id="act.doc.extractPages" h="7AE73EC1">Извлечь страницы</text>
+		<text id="act.doc.extractPages.desc" h="8FCE1EA7">Извлекает указанные страницы в новый документ</text>
+		<text id="act.doc.insertEmptyPages" h="3779032F">Вставить пустые страницы</text>
+		<text id="act.doc.insertEmptyPages.desc" h="65380D33">Вставить пустые страницы в документ.</text>
+		<text id="act.doc.insertPages" h="6B486B45">Вставить страницы</text>
+		<text id="act.doc.insertPages.desc" h="C8087FC8">Вставляет в документ страницы из другого документа.</text>
+		<text id="act.doc.ocrPages" h="D2A189BC">OCR страниц</text>
+		<text id="act.doc.ocrPages.desc" h="517C34C3">Сканирует страницы и распознает текст; создает новый PDF документ из сканированных страниц.</text>
+		<text id="act.doc.optimize" h="854E1BE4">Оптимизировать документ</text>
+		<text id="act.doc.optimize.desc" h="988BB3B9">Оптимизирует содержимое документа и уменьшает размер PDF документа.</text>
+		<text id="act.doc.overlayDoc" h="A113E021">PDF файл наложения:</text>
+		<text id="act.doc.overlayDoc.desc" h="8AC5B664">Накладывает PDF документ на другие PDF документы</text>
+		<text id="act.doc.pageNumbering" h="21AF4605">Нумерация страниц</text>
+		<text id="act.doc.pageNumbering.desc" h="A2BA72A1">Добавить номера страниц</text>
+		<text id="act.doc.pageTransitions" h="E9BE43D0">Установить переходы страниц</text>
+		<text id="act.doc.pageTransitions.desc" h="17B37A25">Изменяет переходы страниц в полноэкранном режиме.</text>
+		<text id="act.doc.printDocument" h="4F3750AE">Печатать документа</text>
+		<text id="act.doc.printDocument.desc" h="2523AB5C">Печатает документ.</text>
+		<text id="act.doc.removeBackground" h="7C270CB4">Удалить фон</text>
+		<text id="act.doc.removeBackground.desc" h="17700648">Удаляет фон, установленный пользователем, и возобновляет первоначальный белый фон.</text>
+		<text id="act.doc.removeBatesNumbering" h="901F5ABD">Удалить сквозную нумерацию (Бейтса)</text>
+		<text id="act.doc.removeBatesNumbering.desc" h="E4FBEB3C">Удаляет сквозную нумерацию (Бейтса).</text>
+		<text id="act.doc.removeHeaderAndFooter" h="11E8A996">Удалить колонтитулы</text>
+		<text id="act.doc.removeHeaderAndFooter.desc" h="E1CC0743">Удаляет все колонтитулы</text>
+		<text id="act.doc.removeWatermarks" h="93F16CE2">Удалить водяные знаки</text>
+		<text id="act.doc.removeWatermarks.desc" h="629EC84B">Удаляет все водяные знаки</text>
+		<text id="act.doc.replacePages" h="1311083C">Заменить страницы</text>
+		<text id="act.doc.replacePages.desc" h="8C5176DA">Заменяет страницы в документе.</text>
+		<text id="act.doc.resizePages" h="8A5C31F1">Изменить размер страниц</text>
+		<text id="act.doc.resizePages.desc" h="8F74355D">Изменяет размер страниц; возможно с масштабированием содержимого страниц.</text>
+		<text id="act.doc.rotatePages" h="CBD82045">Повернуть страницы</text>
+		<text id="act.doc.rotatePages.desc" h="00CCD6AD">Поворачивает страницы PDF документа на 90°, 180°, 270°.</text>
+		<text id="act.doc.setSecurity" h="09A28BF5">Установить защиту</text>
+		<text id="act.doc.setSecurity.desc" h="AF6D0BF7">Защищает PDF документ с помощью пароля на открытие и/или изменения документа. Допускает удаление ограничений по безопасности.</text>
+		<text id="act.doc.splitPages" h="2648812F">Разделить страницы</text>
+		<text id="act.doc.splitPages.desc" h="4FA35C77">Разделить страницы PDF документа.</text>
+		<text id="act.doc.summarizeComments" h="2233C1CD">Суммировать комментарии</text>
+		<text id="act.doc.summarizeComments.desc" h="8EA1DEF5">Создает сводку всех комментариев в PDF документе.</text>
+		<text id="act.filesToPDF" h="A382536E">Преобразовать файлы в PDF файл</text>
+		<text id="act.filesToPDF.desc" h="40567B4F">Ковертирует указанные файлы поддерживаемых форматов в PDF.</text>
+		<text id="act.flags.arrdoc" h="F5023560">массив документов</text>
+		<text id="act.flags.arrfile" h="AF02951A">массив файлов</text>
+		<text id="act.flags.arrimage" h="AD43894A">массив изображений</text>
+		<text id="act.flags.arrname" h="A46C1DFE">массив имен</text>
+		<text id="act.flags.doc" h="0417E245">документ</text>
+		<text id="act.flags.file" h="AFFADF08">файл</text>
+		<text id="act.flags.image" h="6F479465">изображения</text>
+		<text id="act.flags.name" h="28F021B5">имя</text>
+		<text id="act.flags.nothing" h="C06D6B01">пусто</text>
+		<text id="act.flattenComments" h="CBA1AA18">Комментарии в элементы содержимого</text>
+		<text id="act.flattenComments.desc" h="20A41E96">Преобразовать комментарии в элементы содержимого.</text>
+		<text id="act.group.PDFStandard" h="E51FAF25">PDF стандарт</text>
+		<text id="act.group.advanced" h="59A2B513">Дополнительно</text>
+		<text id="act.group.bookmarks" h="E2032460">Закладки</text>
+		<text id="act.group.comments" h="FA5EB905">Комментарии</text>
+		<text id="act.group.createPDF" h="ACF7EBD1">Создать PDF</text>
+		<text id="act.group.exportPDF" h="4AE54AB5">Экспортировать PDF</text>
+		<text id="act.group.inputOutput" h="178214DA">Входные/Выходные данные</text>
+		<text id="act.group.optimizePDF" h="E369C144">Оптимизировать PDF документ</text>
+		<text id="act.group.pages" h="47B1CB74">Страницы</text>
+		<text id="act.group.protection" h="B7EE190B">Защита</text>
+		<text id="act.imagesToPDF" h="B0C7E05C">Создать PDF из изображений</text>
+		<text id="act.imagesToPDF.desc" h="43AF6AF6">Создает один PDF документ из растровых изображений.</text>
+		<text id="act.saveDocs" h="07936326">Сохранить документы</text>
+		<text id="act.saveDocs.desc" h="32932EE9">Сохраняет измененные или созданные файлы</text>
+		<text id="act.saveImages" h="2EBC4084">Сохранить изображения</text>
+		<text id="act.saveImages.desc" h="3A5C69E3">Сохраняет растровые изображения в файлы на диске.</text>
+		<text id="act.scan.showlist" h="18D7490A">Показать список изображений после сканирования</text>
+		<text id="act.scanToImages" h="3C7180B5">Получить изображения со сканера</text>
+		<text id="act.scanToImages.desc" h="E0F7A297">Сканирует страницы и создает новый PDF документ из сканированных страниц.</text>
+		<text id="act.sendMail" h="1F56479B">Отправить электронной почтой</text>
+		<text id="act.sendMail.desc" h="18F585BE">Отправить файл на указанный адрес эл. почты.</text>
+		<text id="act.showFiles" h="7E16D9C8">Показать файлы</text>
+		<text id="act.showFiles.desc" h="5A081173">Открывает папку с нужными файлами или запускает программу по умолчанию для обработки каждого файла.</text>
+		<text id="act.splitMergeDocs" h="8343835D">Разделить/объединить документы</text>
+		<text id="act.splitMergeDocs.desc" h="B253B87D">Объедняет все исходные документы в один или разделяет их в несколько автоматически или вручную.</text>
+		<text id="act.textToPDF" h="ECE46B63">Создать PDF из текста</text>
+		<text id="act.textToPDF.desc" h="F9A66354">Создает один PDF документ из текстовых файлов.</text>
+		<text id="act.warn.title" h="76F57ED1">Предупреждения:</text>
+		<text id="actCloseBtnTip" h="087A8145">Нажмите, чтобы удалить действие из списка действий</text>
+		<text id="actOnOffUITip" h="18682AEB">Выберите опцию для исполнения действия во время работы инструмента.</text>
+		<text id="actionInfo.defaultDesc" h="845515AD">Выбeрите действие из списка и посмотрите информации.</text>
+		<text id="actionInfo.defaultTitle" h="375B13FE">Выбeрите действие...</text>
+		<text id="addbookmark.chk" h="C7B70DCB">Добавить корневую закладку с именем файла</text>
+		<text id="afsf.choosefiles" h="BAE0C7B7">Выберите файлы</text>
+		<text id="afsf.choosefiles.editimage" h="56B4E1F8">Редактировать изображение</text>
+		<text id="afsf.click2browse" h="ABC462F9">Нажмите здесь для просмотра...</text>
+		<text id="afsf.clicktoedit" h="56B17D30">Нажмите, чтобы просмотреть и отредактировать сохраненные имена файлов</text>
+		<text id="afsf.clicktoremove" h="CAB117DD">Нажмите, чтобы удалить сохраненные имена файлов</text>
+		<text id="afsf.dlg.editAvail" h="70C3C982">Доступные файловые фильтры</text>
+		<text id="afsf.err.filelistempty" h="6A812F17">Список файлов не пустой</text>
+		<text id="afsf.err.invalidsymbols" h="D036E0B4">Линия %1 содержит недопустимые символы файлов</text>
+		<text id="afsf.listinfo" h="CEB468D3">Специальный файл с рвсширением &lt;b&gt;*.pdtfl&lt;/b&gt;.Этот файл должен содержать список имен файлов:c:filename1c:filename2...c:filenameN</text>
+		<text id="afsf.prop.choose.name" h="758F38E8">Выбeрите фильтр действий</text>
+		<text id="afsf.prop.choose.tip" h="758F38E8">Выбeрите фильтр действий</text>
+		<text id="afsf.prop.choose.title" h="758F38E8">Выбeрите фильтр действий</text>
+		<text id="afsf.prop.manage.name" h="1B8E7007">Прользовательские фильтры</text>
+		<text id="afsf.prop.manage.tip" h="1B8E7007">Прользовательские фильтры</text>
+		<text id="afsf.prop.manage.title" h="1B8E7007">Прользовательские фильтры</text>
+		<text id="afsf.selectfolder" h="3F89B943">Выберите папку:</text>
+		<text id="afsf.sort" h="230935DB">Сортировать:</text>
+		<text id="afsf.sort.creation" h="AEDBE5EB">по дате создания</text>
+		<text id="afsf.sort.modification" h="B802AF12">по дате изменения</text>
+		<text id="afsf.sort.name" h="B3FDD284">по имени</text>
+		<text id="afsf.sort.none" h="004FEF2B">ни один</text>
+		<text id="afsf.sort.size" h="75DE1B35">по размеру</text>
+		<text id="afsf.storefiles" h="06AB1A20">Сохранять выбранные имена файлов для дальнейшего использования</text>
+		<text id="afsf.subfolders" h="EAAFE63E">Искать в подпапках</text>
+		<text id="afsf.usestoredfiles" h="4A3B84D0">Использовать сохраненные имена файлов из предыдущего запуска</text>
+		<text id="afsf.warn.concrete.ext" h="6634FBD4">Расширение '%1' не соответствует параметрам действия 'Выбрать исходные файлы'.</text>
+		<text id="afsf.warn.ext" h="16DBB55E">Расширение не соответсвует параметрам действия 'Выбрать исходные файлы'.</text>
+		<text id="afsf.warn.filescontainer" h="FF3986E4">Невозможно открыть соответствующий контейнер файлов:
+&lt;b&gt;%1&lt;/b&gt;</text>
+		<text id="afsf.warn.listext" h="6B1988CB">Расширение списка файлов должно быть &lt;b&gt;*.pdtfl&lt;/b&gt;</text>
+		<text id="align.bottom" h="08F4AB6F">По низу</text>
+		<text id="align.center" h="CBEFB4D0">По центру</text>
+		<text id="align.left" h="8CEAA299">Слева</text>
+		<text id="align.middle" h="D27F520F">По центру</text>
+		<text id="align.right" h="2D8A4EE6">Справа</text>
+		<text id="align.top" h="249A2BBD">Сверху</text>
+		<text id="alignoverlay" h="B7EB1785">Выровнять наложенные страницы относительно новых страниц:</text>
+		<text id="another.ovrfile.title" h="AEFCE724">Выберите другой файл наложения</text>
+		<text id="askpwd.chk" h="24A0ED40">Не запрашивать пароли</text>
+		<text id="askpwd.tip" h="3C6E1749">Если этот параметр включен, все защищенные паролем файлы без соответствующих действительных паролей в &lt;b&gt;Предопределенном хранилише паролей&lt;/b&gt; будут пропущены.</text>
+		<text id="attributes" h="71F6D064">Атрибуты</text>
+		<text id="availActionsList" h="477E6AC0">Доступные действия</text>
+		<text id="batchproc.chk" h="1194AD9C">Режим пакетной обработки</text>
+		<text id="batchproc.tip" h="8BED8A8A">• Когда эта опция будет включена, сначала одно действие инструмента обработает каждый входной объект (файлы, отсканированные изображения и т. Д.), и затем наступит черед следующего действия.• Когда эта опция будет отключена, сначала один входной объект будет обработан всеми действиями инструмента, и затем наступит черед следующего входного объекта. Все объекты будут обработаны независимо друг от друга. Этот вариант может уменьшить использование памяти и диска. Однако инструменты, предназначенные для объединения входных объектов в PDF файлы, могут работать некорректно. </text>
+		<text id="bmnamesAndDoc.cmb" h="019AADA7">Исходный документ и имя закладки</text>
+		<text id="bmnamesDoc.cmb" h="D7143742">Исходное имя документа</text>
+		<text id="bmnamesName.lbl" h="C761CCE0">Сгенерировать имя файла из:</text>
+		<text id="bmnamesNames.cmb" h="DBDE73F8">Имена закладок</text>
+		<text id="bookmarks.delimiter.lbl" h="A4269065">Разделитель:</text>
+		<text id="bookmarks.invalidSeparator" h="44875D1F">Разделитель свойств не должен быть пустой строкой, содержать буквенно-цифровые символы или пробелы и не должен быть одним из следующих символов: @ #: {} </text>
+		<text id="bookmarks.log.bookmarksNotFound" h="184C696B">Закладки не найдены в документе.</text>
+		<text id="bookmarks.log.bookmarksNotFoundTOC" h="E3250FA7">Закладки не найдены в документе. Будет создано пустое Оглавление</text>
+		<text id="bookmarks.log.txtSrcNotFound" h="52338723">Невозможно импортировать закладки для документа. Файл определения "%1" не найден.</text>
+		<text id="bookmarks.sourcefiletxt.lbl" h="8C896EF2">Выберите текстовый файл, который содержит определение закладок:</text>
+		<text id="bookmarks.sourcefilexcbkm.lbl" h="20DDBCE7">Выбрать файл с экспортированными закладками:</text>
+		<text id="bookmarks.sourcefoldertxt.info" h="9C858B7C">Для каждого входного документа будет выбран текстовый файл с таким же именем в качестве источника новых закладок для документа</text>
+		<text id="bookmarks.sourcefoldertxt.lbl" h="E5CB01F7">Выберите папку, которая содержит текстовые файлы с определениями закладок:</text>
+		<text id="bookmarks.sourcefolderxcbkm.info" h="2F8C4CA0">Для каждого входного документа будет выбран *.txt или *.xcbkm файл с таким же именем в качестве источника новых закладок для документа</text>
+		<text id="bookmarks.sourcefolderxcbkm.lbl" h="0E50F0BA">Выбрать папку с файлами с экспортированными закладками:</text>
+		<text id="btn.delete" h="D8FE3F70">Удалить</text>
+		<text id="btn.edit" h="621534A3">Редактировать...</text>
+		<text id="byhoriz" h="AE80ABA7">По горизонтали:</text>
+		<text id="byvert" h="138F572B">По вертикали:</text>
+		<text id="chk.savepwd" h="2DACA98E">Сохранить пароль для дальнейшего использования</text>
+		<text id="choose.file" h="D8D81DA5">Выберите файл </text>
+		<text id="chooseFiles.chooseForPreview" h="B4BD25C6">Выберите объект для просмотра</text>
+		<text id="chooseFiles.fromScanner" h="BDBDAE44">Изображение со сканнера</text>
+		<text id="chooseFiles.scansubfolders" h="05971C7B">Желаете ли Вы добавить файлы из подпапок выбранноей папки?</text>
+		<text id="chooseFiles.unknownImageType" h="18901815">Неизвестный формат изображения</text>
+		<text id="choosefiles.title" h="2E856073">Выбeрите исходные файлы</text>
+		<text id="choosefiles.warning" h="88E4DD69">Добавьте, пожалуйста, несколько файлов в список.</text>
+		<text id="choosestd.lbl" h="F999AF4C">Выберите PDF стандарт для удаления:</text>
+		<text id="choosetool.caption" h="F368DC49">Выберите инструмент</text>
+		<text id="choosetools.export.caption" h="89168619">Выберите инструменты для экспорта </text>
+		<text id="choosetools.import.caption" h="4D9B8134">Выберите инструменты для импорта</text>
+		<text id="ck.all" h="65CCA5D0">Фильтр 'Все файлы (*.*)'</text>
+		<text id="clonetoolname.lbl" h="E63F45FA">Введите имя клонированого инструмента:</text>
+		<text id="cmd.actionInfoPane" h="BE3FF2AC">Панель информации о действии</text>
+		<text id="cmd.actionInfoPane.tip" h="EA4CDC04">Показать/скрыть панель информации о действии.</text>
+		<text id="cmd.addFavorites" h="253AA8C4">Добавить в избранное</text>
+		<text id="cmd.addFavorites.tip" h="D0494D1D">Добавить инструмент к избранным</text>
+		<text id="cmd.availAct.append" h="44CFD997">Добавить действие</text>
+		<text id="cmd.availActionsPane" h="70AE9683">Панель доступных действий</text>
+		<text id="cmd.availActionsPane.tip" h="EE8A6FE7">Показать/скрыть панель Библиотеки Действий</text>
+		<text id="cmd.catlist.add" h="8E2EE8C1">Добавить</text>
+		<text id="cmd.catlist.add.tip" h="352D549C">Добавить новый инструмент Категория.</text>
+		<text id="cmd.catlist.copyID" h="76D03E52">Копировать идентификатор категории</text>
+		<text id="cmd.catlist.copyID.tip" h="4D528776">Копировать идентификатор категории в Буфер обмена.</text>
+		<text id="cmd.catlist.delete" h="D8FE3F70">Удалить</text>
+		<text id="cmd.catlist.delete.tip" h="F996D3A3">Удалить указанную категорию</text>
+		<text id="cmd.catlist.rename" h="CF7E2A12">Переименовать </text>
+		<text id="cmd.catlist.rename.tip" h="853B01D0">Переименовать указанную категорию</text>
+		<text id="cmd.choosetools.checkAll" h="1ED93781">Отметить все</text>
+		<text id="cmd.choosetools.checkAll.tip" h="5C10CA59">Отметить все инструменты.</text>
+		<text id="cmd.choosetools.collapseAll" h="84E09D66">Свернуть все</text>
+		<text id="cmd.choosetools.collapseAll.tip" h="4B0945EA">Свернуть все развернутые элементы.</text>
+		<text id="cmd.choosetools.expandAll" h="6DA5A467">Развернуть все</text>
+		<text id="cmd.choosetools.expandAll.tip" h="B8DEF87E">Развернуть все свернутые элементы.</text>
+		<text id="cmd.choosetools.uncheckAll" h="5D53AA8D">Не отмечать все</text>
+		<text id="cmd.choosetools.uncheckAll.tip" h="E0FE40A8">Не отмечать все инструменты.</text>
+		<text id="cmd.close" h="BFF0422C">Закрыть редактор</text>
+		<text id="cmd.close.tip" h="803D7B54">Запрашивать о сохранении изменений прежде чем закрыть редактор инструмента.</text>
+		<text id="cmd.collapseAll" h="84E09D66">Свернуть все</text>
+		<text id="cmd.collapseAll.tip" h="4B0945EA">Свернуть все</text>
+		<text id="cmd.continue" h="A5F0062A">Продолжить</text>
+		<text id="cmd.continue.tip" h="449BD617">Продолжить работу инструмента.</text>
+		<text id="cmd.copyToolID" h="29B6ACF3">Копировать идентификатор инструмента</text>
+		<text id="cmd.copyToolID.tip" h="C84C435C">Копировать идентификатор инструмента в Буфер обмена.</text>
+		<text id="cmd.createFld" h="EDCA1553">Создать</text>
+		<text id="cmd.createFld.tip" h="0C2549D2">Создать наблюдателя папок.</text>
+		<text id="cmd.delete" h="D8FE3F70">Удалить</text>
+		<text id="cmd.delete.tip" h="1645B116">Удалить выбранный инструмент.</text>
+		<text id="cmd.deleteAction" h="D8FE3F70">Удалить</text>
+		<text id="cmd.deleteAction.tip" h="8D3F7647">Удалить выбранное действие.</text>
+		<text id="cmd.deleteFld" h="D8FE3F70">Удалить</text>
+		<text id="cmd.deleteFld.tip" h="FE6D13BD">Удалить выбранного наблюдателя.</text>
+		<text id="cmd.disableFld" h="3F68363A">Отключить</text>
+		<text id="cmd.disableFld.tip" h="0002F9EA">Отключить выбранный наблюдатель.</text>
+		<text id="cmd.docsList.collapseAll" h="84E09D66">Свернуть все</text>
+		<text id="cmd.docsList.collapseAll.tip" h="4B0945EA">Свернуть все</text>
+		<text id="cmd.docsList.delete" h="D8FE3F70">Удалить</text>
+		<text id="cmd.docsList.delete.tip" h="AFC734F6">Удалить выбранные элементы из списка.</text>
+		<text id="cmd.docsList.expandAll" h="6DA5A467">Развернуть все</text>
+		<text id="cmd.docsList.expandAll.tip" h="B8DEF87E">Развернуть все </text>
+		<text id="cmd.docsList.invertPagesSel" h="50358D1F">Инвертировать выделение страниц</text>
+		<text id="cmd.docsList.invertPagesSel.tip" h="D48EAFF2">Инвертировать выделение страниц в документе.</text>
+		<text id="cmd.docsList.redo" h="E6E48291">Вернуть</text>
+		<text id="cmd.docsList.redo.tip" h="D864EFC4">Вернуть отмененное ранее действие.</text>
+		<text id="cmd.docsList.rename" h="CF7E2A12">Переименовать</text>
+		<text id="cmd.docsList.rename.tip" h="D13799F6">Переименовать выбранный документ.</text>
+		<text id="cmd.docsList.selectPages" h="CA96B5EB">Выбрать страницы...</text>
+		<text id="cmd.docsList.selectPages.tip" h="2BA1CFDF">Выделить заданные страницы в выбранном документе.</text>
+		<text id="cmd.docsList.showPreview" h="0E09CAB8">Просмотр</text>
+		<text id="cmd.docsList.showPreview.tip" h="5FDF66AB">Показать/скрыть панель просмотра выбранного элемента.</text>
+		<text id="cmd.docsList.showRepo" h="75AE5FBB">Хранилище страниц</text>
+		<text id="cmd.docsList.showRepo.tip" h="A9FDC14F">Показать/скрыть Хранилище для временного размещения любых страниц из разных документов. Добавляйте страницы, перетягивая их.</text>
+		<text id="cmd.docsList.undo" h="86E67B4B">Отменить</text>
+		<text id="cmd.docsList.undo.tip" h="68378895">Отменить последнее действие.</text>
+		<text id="cmd.docsList.zoomIn" h="21C9A3BF">Увеличить</text>
+		<text id="cmd.docsList.zoomIn.tip" h="EEFCC59E">Увеличить миниатюры.</text>
+		<text id="cmd.docsList.zoomOut" h="7749FC62">Уменьшить</text>
+		<text id="cmd.docsList.zoomOut.tip" h="B4B12D5A">Уменьшить миниатюры.</text>
+		<text id="cmd.docsList.zoomSlider" h="596A6E4A">Масштаб</text>
+		<text id="cmd.docsList.zoomSlider.tip" h="0F91092C">Масштабировать миниатюры страниц.</text>
+		<text id="cmd.editDocList.clearAll" h="FCA74107">Очистить хранилище</text>
+		<text id="cmd.editDocList.clearAll.tip" h="8D064794">Удалить все страницы из хранилища.</text>
+		<text id="cmd.editFld" h="009A7A41">Редактировать</text>
+		<text id="cmd.editFld.tip" h="6383A76C">Настроить параметры выбранного наблюдателя. </text>
+		<text id="cmd.editModeView" h="2FCBB32C">Вид</text>
+		<text id="cmd.editModeView.tip" h="FED08A06">Показать/скрыть Дополнительные панели.</text>
+		<text id="cmd.enableFld" h="A816D2F1">Включить</text>
+		<text id="cmd.enableFld.tip" h="5C4A8F7C">Включить выбранный наблюдатель.</text>
+		<text id="cmd.expandAll" h="6DA5A467">Развернуть все</text>
+		<text id="cmd.expandAll.tip" h="B8DEF87E">Развернуть все свернутые элементы.</text>
+		<text id="cmd.filesList.addFiles" h="6BB8C3C3">Добавить файлы...</text>
+		<text id="cmd.filesList.addFiles.combo" h="6BB8C3C3">Добавить файлы...</text>
+		<text id="cmd.filesList.addFiles.tip" h="49EDA302">Нажмите, чтобы открыть стадартный диалог выбора файлов...</text>
+		<text id="cmd.filesList.addFolder" h="48695541">Добавить папку...</text>
+		<text id="cmd.filesList.addFolder.tip" h="6761456F">Нажмите, чтобы открыть диалог выбора папки, из которой будут добавлены файлы...</text>
+		<text id="cmd.filesList.addFromScanner" h="F8B40B5F">Сканировать...</text>
+		<text id="cmd.filesList.addFromScanner.tip" h="B4E7ED2C">Нажмите, чтобы выбрать сканер для получения изображений...</text>
+		<text id="cmd.filesList.delete" h="D8FE3F70">Удалить</text>
+		<text id="cmd.filesList.delete.tip" h="1B809C28">Удалить выбранные элементы. Удаление не может быть отменено.</text>
+		<text id="cmd.filesList.detailsView" h="AEE125D6">Таблица</text>
+		<text id="cmd.filesList.detailsView.tip" h="6570BFC4">Переключиться в просмотр деталей.</text>
+		<text id="cmd.filesList.edit" h="621534A3">Редактировать...</text>
+		<text id="cmd.filesList.edit.tip" h="A8CCCC15">Редактировать выбраный элемент.</text>
+		<text id="cmd.filesList.moveDown" h="B590E566">Переместить вниз</text>
+		<text id="cmd.filesList.moveDown.tip" h="96CBF2AC">Переместить вниз выбранные элементы.</text>
+		<text id="cmd.filesList.moveUp" h="E466537C">Переместить вверх</text>
+		<text id="cmd.filesList.moveUp.tip" h="239B490C">Переместить вверх выбранные элементы.</text>
+		<text id="cmd.filesList.openContFolder" h="D3E03212">Открыть папку с файлом</text>
+		<text id="cmd.filesList.openContFolder.tip" h="4967EB0F">Открыть папку с файлом в проводнике Windows.</text>
+		<text id="cmd.filesList.selectPages" h="CA96B5EB">Выбрать страницы...</text>
+		<text id="cmd.filesList.selectPages.tip" h="9D36120F">Выделить указанные страницы в выбранных документах.</text>
+		<text id="cmd.filesList.showPreview" h="0E09CAB8">Просмотр</text>
+		<text id="cmd.filesList.showPreview.tip" h="5FDF66AB">Показать/скрыть предварительный просмотр для выбранных файлов.</text>
+		<text id="cmd.filesList.thumbsView" h="47B1B2D9">Миниатюры</text>
+		<text id="cmd.filesList.thumbsView.tip" h="E9F10E3C">Переключиться в режим миниатюр страниц.</text>
+		<text id="cmd.filesList.zoomIn" h="21C9A3BF">Увеличить</text>
+		<text id="cmd.filesList.zoomIn.tip" h="EEFCC59E">Увеличить миниатюры страниц.</text>
+		<text id="cmd.filesList.zoomOut" h="7749FC62">Уменьшить</text>
+		<text id="cmd.filesList.zoomOut.tip" h="B4B12D5A">Уменьшить миниатюры страниц.</text>
+		<text id="cmd.filesList.zoomSlider" h="596A6E4A">Масштабировать</text>
+		<text id="cmd.filesList.zoomSlider.tip" h="0F91092C">Масштабировать миниатюры страниц.</text>
+		<text id="cmd.help" h="03718903">Помощь</text>
+		<text id="cmd.help.about" h="06AA44B8">О программе...</text>
+		<text id="cmd.help.about.tip" h="D3746489">Показать номер версии программы и информацию о лицензионном ключе.</text>
+		<text id="cmd.help.checkForUpdates" h="B4EF7EF3">Проверить наличие обновлений</text>
+		<text id="cmd.help.checkForUpdates.tip" h="73587378">Проверить наличие обновлений для приложения.</text>
+		<text id="cmd.help.contents" h="567BC1D7">Содержание</text>
+		<text id="cmd.help.contents.tip" h="08AC959F">Открыть страницу помощи.</text>
+		<text id="cmd.help.enterkey" h="EF62658A">Ввести лицензионный ключ...</text>
+		<text id="cmd.help.enterkey.tip" h="D3746489">Показать версию и информацию о лицензиии приложения.</text>
+		<text id="cmd.help.homepage" h="09F653F5">Домашняя страница</text>
+		<text id="cmd.help.homepage.tip" h="EBA22B5A">Перейти на веб-сайт приложения.</text>
+		<text id="cmd.help.support" h="31A29A3F">Поддержка</text>
+		<text id="cmd.help.support.tip" h="B8C0C0FB">Перейти на форум поддержки.</text>
+		<text id="cmd.help.tip" h="F59770E5">Помощь.</text>
+		<text id="cmd.impexp" h="1D5A9A8A">Импорт/Экспорт</text>
+		<text id="cmd.impexp.expseltools" h="C87F6A0D">Экспорт выбранных инструментов</text>
+		<text id="cmd.impexp.expseltools.tip" h="0E445E08">Экспортирует выбранные инструменты в файл.</text>
+		<text id="cmd.impexp.expsett" h="329179F2">Экспорт всех настроек</text>
+		<text id="cmd.impexp.expsett.tip" h="1BEC5F75">Экспорт всех параметров программы и инструментов в файл.</text>
+		<text id="cmd.impexp.exptools" h="3B532E8F">Экспорт инструментов</text>
+		<text id="cmd.impexp.exptools.tip" h="66B0E107">Экспорт инструментов в файл.</text>
+		<text id="cmd.impexp.impsett" h="92219071">Импорт всех настроек</text>
+		<text id="cmd.impexp.impsett.tip" h="3845D20B"> Импорт всех параметров программы и инструментов из файла.</text>
+		<text id="cmd.impexp.imptools" h="622631EF">Импорт инструментов</text>
+		<text id="cmd.impexp.imptools.tip" h="112B2FCB">Импорт инструментов из файла.</text>
+		<text id="cmd.impexp.shortcut" h="64092D8C">Создать ярлык на Рабочем столе</text>
+		<text id="cmd.impexp.shortcut.tip" h="F695107D">Создает ярлык для выбранного инструмента на Рабочем столе.</text>
+		<text id="cmd.impexp.tip" h="CE31B671">Операции Импорт/Экспорт настроек для инструментов или приложения.</text>
+		<text id="cmd.moveDown" h="B590E566">Переместить вниз</text>
+		<text id="cmd.moveDown.tip" h="96CBF2AC">Переместить выбранный элемент вниз.</text>
+		<text id="cmd.moveUp" h="E466537C">Переместить вверх</text>
+		<text id="cmd.moveUp.tip" h="239B490C">Переместить выбранный элемент вверх.</text>
+		<text id="cmd.opts" h="DAD7B4F4">Параметры</text>
+		<text id="cmd.opts.tip" h="0DB1D677">Содержит функции управления настройками приложения.</text>
+		<text id="cmd.prefs" h="8D3CBDF0">Параметры...</text>
+		<text id="cmd.prefs.tip" h="35A54BBC">Показать параметры приложения.</text>
+		<text id="cmd.redo" h="E6E48291">Повтор</text>
+		<text id="cmd.redo.tip" h="D864EFC4">Повторить ранее отмененное действие.</text>
+		<text id="cmd.removeFavorites" h="85360926">Удалить с Избранных</text>
+		<text id="cmd.removeFavorites.tip" h="DEB12B60">Удалить инструмент с Избранных</text>
+		<text id="cmd.report.clear" h="CB9CE353">Очистить</text>
+		<text id="cmd.report.clear.tip" h="26272D30">Очищает Отчет</text>
+		<text id="cmd.report.collapseAll" h="84E09D66">Свернуть все</text>
+		<text id="cmd.report.collapseAll.tip" h="4B0945EA">Свернуть все раскрытые элементы.</text>
+		<text id="cmd.report.copy" h="348DE55D">Копировать</text>
+		<text id="cmd.report.copy.tip" h="7E2DF69D">Копировать текст сообщения.</text>
+		<text id="cmd.report.copyname" h="895D5980">Копировать имя файла</text>
+		<text id="cmd.report.copyname.tip" h="C6C33FE5">Копировать имя файла в буфер обмена</text>
+		<text id="cmd.report.expandAll" h="6DA5A467">Раскрыть все</text>
+		<text id="cmd.report.expandAll.tip" h="B8DEF87E">Раскрыть все свернутые элементы.</text>
+		<text id="cmd.report.fullreport" h="2B15B2F7">Полный Отчет</text>
+		<text id="cmd.report.fullreport.tip" h="B70410A1">Этот параметр заставляет PDF-Tools распечатать полный отчет о запуске инструмента.</text>
+		<text id="cmd.report.openfolder" h="D3E03212">Открыть папку с файлами</text>
+		<text id="cmd.report.openfolder.tip" h="897118C2">Открывает папку, содержащую файлы</text>
+		<text id="cmd.report.options" h="9757D0D9">Параметры...</text>
+		<text id="cmd.report.options.tip" h="84CAFD98">Показать параметры Отчета инструмента.</text>
+		<text id="cmd.report.savetofile" h="ED4A08DE">Сохранить Отчет...</text>
+		<text id="cmd.report.savetofile.tip" h="5BF810D7">Сохранить Отчет в текстовый файл...</text>
+		<text id="cmd.resetSelAction" h="1008C3F9">Сбросить</text>
+		<text id="cmd.resetSelAction.tip" h="9416B4A0">Возобновить параметры выбранного действие к заданным по умолчанию.</text>
+		<text id="cmd.resetSett" h="1E06BB70">Вернуть все настройки к первоначальным</text>
+		<text id="cmd.resetSett.tip" h="F72C4CB6">Вернуть все настройки программы, интерфейса и инструментов к первоначальным.</text>
+		<text id="cmd.resetTool" h="0E4A9518">Возобновить Инструмент</text>
+		<text id="cmd.resetTool.tip" h="63100C06">Возобновить параметры инструмент к заданным по умолчанию.</text>
+		<text id="cmd.resetseltools" h="11DC26AD">Возобновить выбранные инструменты</text>
+		<text id="cmd.resetseltools.tip" h="7FCF3BF7">Возобновить параметры выбранных инструментов к заданным по умолчанию.</text>
+		<text id="cmd.save" h="01991541">Сохранить изменения</text>
+		<text id="cmd.save.tip" h="45AC7E5D">Сохранить изменения инструмента.</text>
+		<text id="cmd.search" h="547E9E5A">Найти...</text>
+		<text id="cmd.search.tip" h="FC8CBAA4">Поиск</text>
+		<text id="cmd.setupFolderMonitor" h="EDC6E6EA">Наблюдатели папок</text>
+		<text id="cmd.setupFolderMonitor.tip" h="43BBFC78">Настроить наблюдателей папок.</text>
+		<text id="cmd.showActionInfoPane" h="DDDF9129">Показать информацию о действии</text>
+		<text id="cmd.showActionInfoPane.tip" h="B9D63B80">Показать/скрыть информацию о действии.</text>
+		<text id="cmd.showActionLibrary" h="7B4DF4C3">Показать Библиотеку Действий</text>
+		<text id="cmd.showActionLibrary.tip" h="7F2B551F">Показать/скрыть Библиотеку Действий.</text>
+		<text id="cmd.showReport" h="F1E7E74F">Отчет инструмента</text>
+		<text id="cmd.showReport.tip" h="0310270C">Показать Отчет инструмента</text>
+		<text id="cmd.test" h="327F2A55">Тест!</text>
+		<text id="cmd.test.tip" h="9E04AEAA">Тест!</text>
+		<text id="cmd.tool.clone" h="37E754F5">Клонировать</text>
+		<text id="cmd.tool.clone.tip" h="D8321AF8">Клонировать выбранный инструмент.</text>
+		<text id="cmd.tool.create" h="EDCA1553">Создать</text>
+		<text id="cmd.tool.create.tip" h="3D4C85B7">Создать новый инструмент.</text>
+		<text id="cmd.tool.edit" h="009A7A41">Редактировать</text>
+		<text id="cmd.tool.edit.tip" h="426AAF33">Редактировать выбранный инструмент.</text>
+		<text id="cmd.tool.run" h="19264084">Запуск</text>
+		<text id="cmd.tool.run.tip" h="BF1530FA">Запустить выбранный инструмент.</text>
+		<text id="cmd.undo" h="86E67B4B">Отмена</text>
+		<text id="cmd.undo.tip" h="68378895">Отменить последнее действие.</text>
+		<text id="cmd.viewFld" h="2FCBB32C">Просмотр</text>
+		<text id="cmd.viewFld.tip" h="7426084C">Просмотр выделенного наблюдателя.</text>
+		<text id="cmdline.toolnotfound" h="E24BDF60">Инструмент, прописанный в списке действий, не найден.</text>
+		<text id="common" h="FF51CD90">Общие</text>
+		<text id="created" h="BC03BBEA">Создан</text>
+		<text id="custToolsGrName" h="22F07048">Пользовательские инструменты</text>
+		<text id="custom" h="A918FF38">Пользовательский</text>
+		<text id="dclick.authorize" h="E62FEA98">Нажмите для авторизации хранилища</text>
+		<text id="delete.all.pages" h="E66ECE13">Удаление страниц запрещено.</text>
+		<text id="deleteComments.all" h="3DB14B53">Все комментарии</text>
+		<text id="deleteComments.link" h="D84C3990">Ссылки</text>
+		<text id="deleteComments.markup" h="236E76D1">Комментарии-метки</text>
+		<text id="deleteComments.widget" h="105429C0">Поля формы</text>
+		<text id="deleteInputFiles" h="66DB8878">Удалить входные файлы при успешном завершении</text>
+		<text id="deletecat.warn" h="8A426B75">Действительно ли Вы хотите удалить категорию &lt;b&gt;%1&lt;/b&gt; со всеми инструментами?
+Внимание: операция не может быть отменена.</text>
+		<text id="deletestoredpath.warn" h="B01DF4C4">Вы действительно хотите удалить сохраненные имена входных файлов?</text>
+		<text id="disable.ui.lbl" h="F51A0F89">Инструмент UI для взаимодействия с пользователем:</text>
+		<text id="dlg.managefilters" h="BEEA26C3">Управление фильтрами</text>
+		<text id="docauthor.l" h="7E318A91">Автор:</text>
+		<text id="doccreator.l" h="48BB2AC2">Создатель:</text>
+		<text id="dockeywords.l" h="EE89DD49">Ключевые слова:</text>
+		<text id="docproducer.l" h="30A8E856">Производитель:</text>
+		<text id="docsubject.l" h="A59102F6">Тема:</text>
+		<text id="doctitle.l" h="930D3835">Заголовок:</text>
+		<text id="editDocList.containsPages" h="8F4BA4D9">Содержит %1 страниц(у)</text>
+		<text id="editDocList.document" h="13289938">Документ</text>
+		<text id="editDocList.empty.hint" h="C46828D2">Нет страниц</text>
+		<text id="editDocList.noPages" h="DD007EC4">Пустой</text>
+		<text id="editDocList.repository.hint" h="0071AB8A">Вы можете перетянуть страницы сюда для временного хранения.</text>
+		<text id="editDocList.title" h="BB7D1179">Разделить/объединить документы вручную</text>
+		<text id="editDocList.undefined" h="9FA2DA79">Неопределено</text>
+		<text id="editDocList.warning" h="F36DBC31">Список документов не должен быть пустым.
+Чтобы заполнить список, можете воспользоваться командой "Отменить последнее действие".</text>
+		<text id="editDocList.warning.emptyname" h="D690297C">Имя документа не может быть пустым</text>
+		<text id="editDocList.warning.invalidsymbols" h="40A214FA">Недопустимое имя документа</text>
+		<text id="editview.header.changeicon" h="E86B95CD">Изменить...</text>
+		<text id="editview.header.dialog.multiline" h="767057E1">Редактировать описание инструмента</text>
+		<text id="empty.document" h="06A26641">Документ %1 пустой. Он будет пропущен.</text>
+		<text id="enter.pwd.descr" h="77485A4B">Описания пароля (не обязательно)...</text>
+		<text id="enterNewDocName" h="68FD05C5">Введите новое имя документа:</text>
+		<text id="err.foldernotexists" h="4533B896">Указанная папка не существует</text>
+		<text id="err.foldernotvalid" h="E422E783">Невозможно </text>
+		<text id="err.hotfolderbusy" h="40F505AA">Другой наблюдатель уже обрабатывает указанную папку</text>
+		<text id="err.hotfolderempty" h="5734787D">Выберите, пожалуйста, папку для наблюдения</text>
+		<text id="err.movefolderempty" h="141492EF">Выберите, пожалуйста, папку, в которую переместить входные файлы</text>
+		<text id="err.selecttool" h="89F6967E">Выберите, пожалуйста, инструмент для исполнения</text>
+		<text id="err.toolnotexists" h="12CFDA38">Указанный инструмент не существует</text>
+		<text id="expsett.extension.desc" h="F00D3D31">Файл настроек программы PDF-Tools</text>
+		<text id="expsett.failed" h="D36046ED">Сбой при экспорте настроек</text>
+		<text id="expsett.open.caption" h="92B281E9">Открьть файл импорта</text>
+		<text id="expsett.save.caption" h="C1A8C6FD">Сохранить файл экспорта</text>
+		<text id="exptools.extension.desc" h="DC98B451">Файл обмена инструментами PDF-Tools</text>
+		<text id="exptools.failed" h="7A69DC15">Сбой при экспорте инструментов</text>
+		<text id="exptools.open.caption" h="99F5ECED">Выберите файл для импорта</text>
+		<text id="exptools.save.caption" h="C1A8C6FD">Сохранить файл экспорта</text>
+		<text id="extension" h="14FEB836">Расширение</text>
+		<text id="fileLocation" h="7BC24E5F">Размещение файла:</text>
+		<text id="fileNames" h="0F80A6A8">Выберите список файлов:</text>
+		<text id="fileNames.desc" h="7B4EDEA4">Список входных файлов PDF-Tools</text>
+		<text id="fileNames.open" h="8F1B7ED1">Открьть список входных файлов</text>
+		<text id="fileprop.author" h="F6A8A4C0">Автор</text>
+		<text id="fileprop.bpc" h="02071BA4">Битов на канал</text>
+		<text id="fileprop.bpp" h="EC790768">Битов на пиксель</text>
+		<text id="fileprop.channels" h="D3AE76A2">Каналы</text>
+		<text id="fileprop.creator" h="CF26EE59">Создатель</text>
+		<text id="fileprop.dimension" h="96A76700">Размерность</text>
+		<text id="fileprop.horDpi" h="576C5071">Горизонтальный DPI</text>
+		<text id="fileprop.page" h="D70A809E">Страница</text>
+		<text id="fileprop.pageRotation" h="ECFC9C66">Поворот</text>
+		<text id="fileprop.pagesCount" h="AAE42CE5">Количество страниц</text>
+		<text id="fileprop.pdfVer" h="4C06CDA5">Версия PDF</text>
+		<text id="fileprop.producer" h="C54CE945">Поставщик</text>
+		<text id="fileprop.subject" h="B6BCF595">Тема</text>
+		<text id="fileprop.title" h="796DFAD3">Заголовок</text>
+		<text id="fileprop.verDpi" h="33423CE9">Вертикальный DPI</text>
+		<text id="filestopdf.setup" h="FB20B28D">Установка...</text>
+		<text id="finalizing" h="B702861F">Завершение %1...</text>
+		<text id="fitoverlay" h="E2F09068">Страницы наложения по размеру новых страниц документа</text>
+		<text id="fld.disabled" h="AA5BC8D4">Неактивный</text>
+		<text id="fld.enabled" h="2532774E">Активный</text>
+		<text id="fldmon.lbl" h="DEBCEDAF">Имя наблюдателя папок:</text>
+		<text id="folder.grp" h="9AE10AFA">Параметры входных файлов</text>
+		<text id="hotfld.opts.dlg.caption" h="D9DE9C84">Настройка наблюдателя папок</text>
+		<text id="impsett.alert" h="0B2EB063">Действительно ли Вы хотите импортировать все настройки программы? 
+
+Внимание: операция не может быть отменена.</text>
+		<text id="impsett.failed" h="AA8A96CF">Сбой при импорте настроек</text>
+		<text id="imptools.failed" h="DAD93596">Сбой при импорте изображений</text>
+		<text id="info" h="07FB97A4">Информация</text>
+		<text id="inpfiles.lbl" h="28477E27">Параметры входных файлов:</text>
+		<text id="inserting.page" h="7985F658">Вставка страницы %1 из %2</text>
+		<text id="keep.inputfiles" h="800C91A4">Оставить входные файлы в папке</text>
+		<text id="keepaspect" h="A90996CD">Сохранять пропорциональность</text>
+		<text id="lb.availFF" h="6E3CAD3A">Выберите фильтр для типов файлов, которые будут доступны для Вас в выпадающем списке диалога:</text>
+		<text id="lb.presetFF" h="9C590515">Настройки:</text>
+		<text id="lbl.ShowResult" h="C5236BCD">Показать результат по завершении.</text>
+		<text id="lbl.actualview" h="D865F4B2">Текущий вид изображения</text>
+		<text id="lbl.allowMult" h="3B9DFCE0">Разрешить выбор нескольких файлов</text>
+		<text id="lbl.alwaysUseMultipage" h="6C82FB30">Всегда использовать формат для многостраничних изображений</text>
+		<text id="lbl.askDeleteTool" h="1541D739">Действительно ли Вы хотите удалить инструмент &lt;b&gt;%1&lt;/b&gt;?
+
+Внимание: операция не может быть отменена.</text>
+		<text id="lbl.askDeleteTools" h="25C684AA">Действительно ли Вы хотите удалить инструмент &lt;b&gt;%1&lt;/b&gt;?
+
+Внимание: Удалить можете только инструменты пользователя. Операция не может быть отменена.</text>
+		<text id="lbl.askSaveChanges" h="4F19099B">Хотите сохранить изменения перед завершением редактирования?</text>
+		<text id="lbl.chooseAction" h="5EA681F4">Выберите действие из списка:</text>
+		<text id="lbl.choosefiles.dndhint" h="8CF7925F">Добавьте файлы с помощью кнопки на панели инструментов или просто перетяните их сюда. Вы можете разместить их в любом порядке.</text>
+		<text id="lbl.choosefiles.itemscount" h="2CFE0C7C">%1 элементов</text>
+		<text id="lbl.choosefiles.selitemscount" h="402CD736">%1 элементов • %2 элементов выбрано • %3</text>
+		<text id="lbl.choosepages" h="668A500A">Выберите страницы, которые будут отмечены в документе:</text>
+		<text id="lbl.continue" h="A5F0062A">Продолжить</text>
+		<text id="lbl.dblclick2browse" h="DB3D14F9">Двойной щелчек для выбора...</text>
+		<text id="lbl.editViewToolDesc" h="0F22DAFE">Введите текст описания для инструмента:</text>
+		<text id="lbl.editViewToolName" h="76F4AA91">Введите имя инструмента:</text>
+		<text id="lbl.editdocs.dndhint" h="2FAC7414">Используйте перетягивание страниц для перемещения их между документами или для изменения их порядка. Также Вы можете создать новый документ, перетягивая страницы за пределы документа.</text>
+		<text id="lbl.editview.dndhint" h="42E43BBA">Вы можете добавить новое действие, перетянув его из списка справа. Также, с помощью перетягивания, Вы можете менять их порядок.</text>
+		<text id="lbl.editview.dndhint2" h="714B17C6">Отметьте любое действие в списке справа и перетяните его в это окно</text>
+		<text id="lbl.emptyCatList" h="488587B8">Список категорий пустой</text>
+		<text id="lbl.emptyToolList" h="B2BFE203">Список инструментов пустой.</text>
+		<text id="lbl.extractSizeLimit" h="0EA996F6">Исключить изображения меньше:</text>
+		<text id="lbl.fileTypes" h="60ECC8E9">Типы файлов:</text>
+		<text id="lbl.filestopdf.converters" h="902CF9B3">Конверторы:</text>
+		<text id="lbl.folder" h="3F9ED2F9">Папка:</text>
+		<text id="lbl.grouping" h="79C8A88E">Режим группировки</text>
+		<text id="lbl.keeptransparent" h="5070A5EB">Сохранять прозрачность</text>
+		<text id="lbl.multipagetype" h="C5A5712F">Выберите тип файла для многостраничных изображений:</text>
+		<text id="lbl.noActionFound" h="105B87AB">Не найдено действий, удовлетворяющих поисковому запросу.</text>
+		<text id="lbl.noCategoryFound" h="CEC17229">Не найдено категорий, удовлетворяющих поисковому запросу.</text>
+		<text id="lbl.noToolFound" h="181055BB">Не найдено инструментов, удовлетворяющего поисковому запросу.</text>
+		<text id="lbl.reverseOrder" h="9564C9FE">Сохранить в обратном порядке</text>
+		<text id="lbl.run" h="19264084">Запуск</text>
+		<text id="lbl.savemode" h="D16859B7">Параметры сохранения</text>
+		<text id="lbl.showextui" h="1E2770E2">Показывать расширеный диалог выбора файлов</text>
+		<text id="lbl.singlepagetype" h="A6AF6C93">Выберите тип файла для одностраничных изображений:</text>
+		<text id="listmonitors.lbl" h="7A930E45">Список наблюдателей папок:</text>
+		<text id="lnk.browsefolder" h="57F5ECCB">Просмотр входной папки...</text>
+		<text id="lnk.createtitle" h="97F6DA95">Создать параметры ярлыки</text>
+		<text id="lnk.inputfiles" h="3B5E3105">Выберите исходные файлы...</text>
+		<text id="lnk.noinput" h="365E2B73">Запрашивать каждый раз входные файлы</text>
+		<text id="lnk.specifyinput" h="C331E1B9">Вы можете добавить входные файлы/папку в ярлык:</text>
+		<text id="loading" h="DC6A6C81">Загрузка...</text>
+		<text id="location" h="52D95020">Расположение</text>
+		<text id="log.abort" h="6F8E5DCD">Прервать</text>
+		<text id="log.actiondone" h="E2806498">Действие завершено </text>
+		<text id="log.andmore" h="54982D71">Нажмите здесь для просмотра...</text>
+		<text id="log.andmore.tip" h="2D9BDCA0">Двойной щелчек для просмотра всех элементов...</text>
+		<text id="log.cancelled" h="E28236C9">Отменено</text>
+		<text id="log.fail" h="A37F5F82">Ошибка</text>
+		<text id="log.filecreated" h="E300872F">Файл создан</text>
+		<text id="log.filenotexist" h="E9442568">Файл не существует</text>
+		<text id="log.fileprocstart" h="254322E4">Начата обработка файла</text>
+		<text id="log.filestat.failed" h="D1F8052C">Неудачно обработанные файлы: %1 из %2</text>
+		<text id="log.filestat.succeded" h="5A913587">Успешно обработанные файлы: %1 из %2</text>
+		<text id="log.invalidarg" h="79E18E42">Некорректные параметры</text>
+		<text id="log.nofilesinfolder" h="961510F8">В папке не найдено файлов указанного типа. Проверьте параметры действия Выбора входных файлов.</text>
+		<text id="log.nopermissions" h="7508C445">Не достаточно разрешений</text>
+		<text id="log.ok" h="BAD1F1D5">Успешно</text>
+		<text id="log.summary" h="8BE8ABA0">Сводка</text>
+		<text id="log.toolduration" h="8D5BD4C8">%1 потрачено</text>
+		<text id="log.toolrunfinished" h="A50678CB">Результат работы инструмента: %1.</text>
+		<text id="log.toolstarted" h="4352D7A3">Инструмент "%1" запущен</text>
+		<text id="log.txtsummary" h="ABCB53D3">Инструмент "%1" завершил работу: %2 ошибок, %3 файлов обработано, %4 файлов создано, %5 предупреждений</text>
+		<text id="log.txttoolduration" h="1DED609F">продолжительность: %1</text>
+		<text id="log.unknown" h="8566CB94">Неизвестный</text>
+		<text id="log.wrongpass" h="473522EE">Неправильный пароль</text>
+		<text id="modified" h="30325672">Изменен</text>
+		<text id="moduleName" h="9B0F448F">PDF-Tools</text>
+		<text id="mon.priority" h="73E40EE1">Приоритет наблюдателя:</text>
+		<text id="monitor.name.tip" h="A0EB9543">Введите имя наблюдателя здесь...</text>
+		<text id="monitor.subfold" h="7D8D9398">Наблюдатель подпапок</text>
+		<text id="moveInputFiles" h="61936C79">Переместить в папку:</text>
+		<text id="msgtype.debug" h="C3C4F565">Отладка</text>
+		<text id="msgtype.error" h="51BFF51D">Ошибка</text>
+		<text id="msgtype.info" h="07FB97A4">Информация</text>
+		<text id="msgtype.unknown" h="E52D4ED4">Неизвестный тип</text>
+		<text id="msgtype.verbose" h="6817BBB0">Подробный</text>
+		<text id="msgtype.warning" h="E7AD7A2B">Предупреждение</text>
+		<text id="name" h="D18643E3">Имя</text>
+		<text id="no.pages.to.delete" h="7A9E4694">Не указано страниц для удаления.</text>
+		<text id="nooverlay.file" h="4D9B1EA6">Файл наложения не указан</text>
+		<text id="ocr.processall" h="705E5831">OCR документа</text>
+		<text id="ocr.textContinue" h="31439CA0">Не производите OCR, но продолжайте обработку</text>
+		<text id="ocr.textSkip" h="92F274EB">Пропустить обработку документа</text>
+		<text id="ocropt.lbl" h="791CC215">Если документ содержит текст:</text>
+		<text id="ovr.file" h="D8EE6FEB">Файл наложения:</text>
+		<text id="ovr.norepeat" h="E58FFCC1">Не повторять</text>
+		<text id="ovr.positions" h="E9C070C5">Позиции</text>
+		<text id="ovr.repeat" h="DB39711A">Повторять параметры:</text>
+		<text id="ovr.repeatall" h="FB4118C6">Непрерывное повторение более короткого файла наложения</text>
+		<text id="ovr.repeatlast" h="87F51B84">Повторять последнюю страницу файла наложения, если страниц недостаточно</text>
+		<text id="ovr.settings" h="2FF7690D">Настройки файла наложения</text>
+		<text id="page.props" h="F521B2C3">Свойства страницы</text>
+		<text id="pagenumber" h="29EED2B3">Номер страницы</text>
+		<text id="pagesRange" h="30C24AC3">Диапазон страниц</text>
+		<text id="pagesRange.All" h="83434A26">Все</text>
+		<text id="pagesRange.Pages" h="23952CFD">Страницы:</text>
+		<text id="pagesSubset.all" h="599C6EE6">Все страницы указанного (-ых) диапазона (-ов)</text>
+		<text id="pagesSubset.even" h="E64675B8">Парные страницы только в диапазоне (-ах)</text>
+		<text id="pagesSubset.odd" h="87228BC5">Непарные страницы только с диапазона (-ов)</text>
+		<text id="pagesrange.empty" h="630795CE">Диапазон страниц не может быть пустым.</text>
+		<text id="pdf.properies" h="70EFADF5">Свойства PDF</text>
+		<text id="pdfahandle.keepPDFAunchanged" h="908B4A26">Сохранять документ PDF/A без изменений</text>
+		<text id="pdfahandle.reconvert" h="1AFD2B27">Восстановить документ</text>
+		<text id="pdfahandle.skipPDFA" h="9B11C61E">Пропустить PDF/A документ.</text>
+		<text id="pdfastd.lbl" h="83380816">Если документ содержит информацию стандарта PDF/A:</text>
+		<text id="place.foreground" h="0669CDF0">Разместить файл наложения сверху</text>
+		<text id="policy.msg" h="3AE36A58">Защита не создана. Желаете ли Вы создать ее?</text>
+		<text id="preview.ovrfile" h="5593AECC">Просмотр файла наложения</text>
+		<text id="printDoc.collate" h="EB01FB70">Сортиров.</text>
+		<text id="printDoc.copies" h="A516AF46">Копии:</text>
+		<text id="printDoc.deviceName" h="FEF6AD05">Имя:</text>
+		<text id="printDoc.duplex" h="B915897E">Двусторон.</text>
+		<text id="printDoc.paperSize" h="510A44DF">Размер:</text>
+		<text id="printDoc.status" h="922A166F">Статус:</text>
+		<text id="priority.high" h="B7E10973">Высокий приоритет</text>
+		<text id="priority.low" h="15FDBBEA">Низкий приоритет</text>
+		<text id="priority.medium" h="5A523B97">Средний приоритет</text>
+		<text id="prn.status.serverOffline" h="9F1449AB">Не в сети</text>
+		<text id="prn.status.unknown" h="8566CB94">Неизвестный</text>
+		<text id="progr.launching" h="5520AF34">Запуск наблюдателя...</text>
+		<text id="progress.pause" h="6045D570">Пауза</text>
+		<text id="prompt.clearpwd" h="AB0C3147">Желаете ли Вы очистить хранилище паролей?</text>
+		<text id="prompt.removemonitor" h="DF4CD355">Желаете ли Вы удалить выбранный наблюдатель папок?</text>
+		<text id="prompt.removepwd" h="F4C34781">Желаете ли Вы удалить указанный элемент из хранилище паролей?</text>
+		<text id="props" h="F6FFF0BE">Свойства</text>
+		<text id="pwd.defaultDescr" h="EBF5010F">Мой предопределенный пароль</text>
+		<text id="pwd.descr.date" h="F8CC5563">Добавлено: %1</text>
+		<text id="pwd.descr.dflt" h="5C50975F">Без описания</text>
+		<text id="pwd.enter.new" h="D9992E89">Введите пароль для записи в хранилище:</text>
+		<text id="pwd.enter.newdescr" h="9D40879A">Введите новое описание:</text>
+		<text id="pwdadd" h="AED8BB4C">Добавить...</text>
+		<text id="pwdclear" h="CB9CE353">Очистить</text>
+		<text id="pwdedit" h="621534A3">Редактировать...</text>
+		<text id="pwdgrp" h="202AB42A">Хранилище паролей</text>
+		<text id="pwdlbl" h="5F4039B9">Список предопределенных паролей для автоматического использования при обработке документов:</text>
+		<text id="pwdprefs.name" h="D2C0C056">Пароли</text>
+		<text id="pwdprefs.tip" h="7434F5A2">Предопределённое хранилище паролей</text>
+		<text id="pwdprefs.title" h="7434F5A2">Предопределённое хранилище паролей</text>
+		<text id="pwdremove" h="FCE39C1F">Удалить</text>
+		<text id="report" h="E9D63CB7">Отчет об инструменте</text>
+		<text id="report.cuetext" h="5A5BCB07">Нету сообщений для Отчета.</text>
+		<text id="report.defaultDesc" h="882ACAE5">Панель отображает сообщения из действий инструмента.</text>
+		<text id="report.fld.lbl" h="3F89B943">Выбрать папку:</text>
+		<text id="report.framed.dlg" h="E9D63CB7">Отчет об инструменте</text>
+		<text id="report.name.lbl" h="553DE74A">Имя отчета:</text>
+		<text id="report.opt" h="2D42B915">Параметр отчета</text>
+		<text id="report.options.autoclear" h="F9D9404E">Автоматически очищать Отчет перед каждым началом работы инструмента</text>
+		<text id="report.options.forcevisible" h="C79B47D7">Принудительно отображать панель отчета для всех типов сообщений (только при ошибках, если не установлена проверка)</text>
+		<text id="report.options.header" h="7254B91C">Параметры Отчета об инструменте</text>
+		<text id="report.options.main" h="31B3DC7C">Настроить панель отчетов, изменив следующие параметры:</text>
+		<text id="report.options.reset" h="B02C5E5A">Сбросить</text>
+		<text id="report.options.severity" h="B9C34921">Выберите типы сообщений, которые будут показаны в панели Отчета:</text>
+		<text id="report.options.severity.document" h="5CD972FF">Сообщение об операциях с документами PDF</text>
+		<text id="report.options.severity.fileOperations" h="CAB821C9">Сообщения о работе с файлами (открытие, создание, изменение и др.)</text>
+		<text id="report.options.severity.info" h="A8EA107E">Информационные сообщения</text>
+		<text id="report.options.severity.summary" h="692A1A26">Сводная информация о разультате работы инструмента</text>
+		<text id="report.options.severity.title" h="B282840A">Типы сообщений</text>
+		<text id="report.options.severity.warning" h="13217901">Предупреждения (о событиях, влияющих на процесс работы Инструмента)</text>
+		<text id="report.options.showtimestamp" h="2A6DB7B2">Показывать в Отчете отметку времени для сообщений</text>
+		<text id="reprocess.files" h="72A687D7">Еще раз обработать файлы при запуске</text>
+		<text id="resetActionTip" h="D7E3E700">Восстановить параметры действия к заданным по умолчанию.</text>
+		<text id="resetact.warn" h="E5B97341">Желаете ли Вы вернуть параметры действия к заданным по умолчанию?
+Внимание: отменить операцию будет невозможно.</text>
+		<text id="resetprops.btn" h="1008C3F9">Сброс</text>
+		<text id="resetprops.btntip" h="33DDB5A0">Нажмите для возвращения в начальное состояние.</text>
+		<text id="resetseltools.warn" h="26BF4D94">Желаете ли Вы вернуть указанные инструменты к заданным по умолчанию?
+Внимание: отменить операцию будет невозможно.</text>
+		<text id="ressett.alert" h="9B2F79C2">Действительно ли Вы желаете хотите все настройки программы, интерфейса и инструментов к первоначальным?
+
+Внимание: операция не может быть отменена.</text>
+		<text id="ressett.toolsalert" h="8CCEF1F1">Сброс всех параметров включает удаление всех пользовательских инструментов. Если вы хотите вернуть все параметры к первоначальному виду, нажмите "Да".
+ПРИМЕЧАНИЕ: операция сброса не может быть отменена.</text>
+		<text id="resume" h="B0874E65">Продолжить</text>
+		<text id="sameimg.autobpp" h="A216C11C">Глубина цвета автоматически</text>
+		<text id="sameimg.autobpp.info" h="9E850B3C">Если отмечено, глубина цвета для изображения будет выбрана автоматически. Параметр "Тип изображения" для "Формата изображения" будет проигнорирован.</text>
+		<text id="saveas.ask" h="9DF35209">Выбрать действие</text>
+		<text id="saveas.auto" h="C820D6B5">Сохранить новый файл с другим именем</text>
+		<text id="saveas.folder.ask" h="5DC29DB4">Всегда запрашивать путь к файлу</text>
+		<text id="saveas.folder.cust" h="C9BD54EB">Указано использование пользовательской папки</text>
+		<text id="saveas.folder.src" h="5E2E8FE3">Использовать исходную папку как папку назначения</text>
+		<text id="saveas.overwrite" h="68C4F37C">Перезаписать существующий файл</text>
+		<text id="saveas.skip" h="CE81D302">Оставить существующий файл без изменений</text>
+		<text id="saveas.text" h="7D366800">Когда файл уже существует:</text>
+		<text id="saveimg.default.folder" h="DCD2AF9C">Папка</text>
+		<text id="saveimg.default.name" h="5A425CCC">Без названия</text>
+		<text id="saveimg.grouping.apart" h="8E717B39">Каждое изображение в отдельный файл</text>
+		<text id="saveimg.grouping.groupall" h="9E5BA5E4">Все изображения в один многостраничный файл изображения</text>
+		<text id="saveimg.grouping.groupdoc" h="E86A1581">Все изображения из одного документа в одно многостраничное изображение</text>
+		<text id="saveimg.grouping.grouppage" h="FDF715C4">Все изображения с одной страницы в одно многостраничное изображение</text>
+		<text id="savereport.to" h="861DD843">Сохранить отчет</text>
+		<text id="searchActionTip" h="3591BAD8">Поиск действия...</text>
+		<text id="searchToolTip" h="435392D9">Поиск инструмента...</text>
+		<text id="secinfo.grp" h="F5A61224">Информация о безопасности</text>
+		<text id="secsetting.init.warn" h="61B936AD">Для действия &lt;b&gt;"%1"&lt;/b&gt; необходимо задать начальные параметры (инициализировать) перед использованием.
+Вы хотите продолжить работу инструмента и инициализировать действие?</text>
+		<text id="secsettings.btn" h="9147CD71">Настройки</text>
+		<text id="selPages.all" h="7D499596">Все страницы</text>
+		<text id="selPages.dlg" h="4B381B82">Выбрать страницы</text>
+		<text id="selPages.even" h="CDE5C1A0">Парные страницы</text>
+		<text id="selPages.exact" h="23952CFD">Страницы:</text>
+		<text id="selPages.fromsubset" h="3ADEE045">из подмножества "%1"</text>
+		<text id="selPages.odd" h="242E0666">Непарные страницы</text>
+		<text id="select.ovrfile" h="74E5784A">Выбрать файл наложения</text>
+		<text id="selectDestFolder" h="D0F102DD">Выбрать папку назначения</text>
+		<text id="selectHotfolder.lbl" h="3A4859F6">Выбрать папку для наблюдения:</text>
+		<text id="sendmail.archive.defaultname" h="F758C4E9">Без имени</text>
+		<text id="sendmail.by" h="8EF165F7">С помощью:</text>
+		<text id="sendmail.chk.intoone" h="BE171523">Поместить все файлы в одно электронное письмо</text>
+		<text id="sendmail.chk.priority" h="846616F7">Установить сообщению высокий приоритет</text>
+		<text id="sendmail.client" h="E8D90FF3">Почтовый клиент рабочего стола</text>
+		<text id="sendmail.compress.alltoone" h="C303528D">Все файлы в один архив</text>
+		<text id="sendmail.compress.eachfile" h="B972BFCC">Каждый файл в отдельный архив</text>
+		<text id="sendmail.compress.none" h="F9398D7D">Нету</text>
+		<text id="sendmail.edt.cue" h="A179CC6C">Введите текст сообщения...</text>
+		<text id="sendmail.from" h="976952DD">От:</text>
+		<text id="sendmail.lbl.arcname" h="A630D28B">Имя архива:</text>
+		<text id="sendmail.lbl.compress" h="BC1093D8">Сжатие:</text>
+		<text id="sendmail.log.cantcreatearchive" h="B40CACC8">Невозможно создать архив для отправки</text>
+		<text id="sendmail.log.nofiles" h="4C7A563E">Нет файлов для отправки</text>
+		<text id="serializing" h="92752B4F">Последовательность %1...</text>
+		<text id="setup.grp" h="95DF47CE">Параметры наблюдателя папок:</text>
+		<text id="setuphotfolder.dlg.caption" h="EDC6E6EA">Наблюдатели папок</text>
+		<text id="showFiles.enabled" h="2532774E">Активный</text>
+		<text id="showFiles.launchAssocApp" h="FE936D7D">Просмотреть файлы с помощь внешней программы</text>
+		<text id="showFiles.launchAssocAppWarn" h="97CF77EB">Количество файлов для просмотра больше одного.
+Одновременный просмотр всех файлов может задействовать слишком много ресурсов.
+
+Вы уверены, что хотите продолжить?</text>
+		<text id="showFiles.openFolderAndSel" h="A95A4BE0">Окрыть папку и выбрать файлы</text>
+		<text id="showFiles.text" h="26A38ADF">Выбрать действие:</text>
+		<text id="showMoreOpts" h="24B13299">Все параметры...</text>
+		<text id="showMoreOpts2" h="64C40213">Дополнительно...</text>
+		<text id="showMoreOptsTip" h="C60CDB73">Нажмите, чтобы показать все настройки...</text>
+		<text id="showMoreOptsTip2" h="145A1CAD">Нажмите, чтобы показать дополнительные настройки...</text>
+		<text id="showSetupUI" h="0E94449E">Показывать диалог настроек во время работы</text>
+		<text id="showSetupUITip" h="0E94449E">Показывать диалог настроек во время работы</text>
+		<text id="size" h="17A58A52">Размер</text>
+		<text id="sizelimit.nolimit" h="8E135818">Без ограничений</text>
+		<text id="skipaction.b" h="A37FB4B0">Пропустить действие</text>
+		<text id="skipdocsWithText" h="2683C8E5">Не применять OCR к документам, которые содержат текст</text>
+		<text id="skipped" h="B7D8BB1E">пропущен</text>
+		<text id="smmanual.chk" h="563576E6">Показать диалог для ручного разделения/объединения файлов</text>
+		<text id="smmethod" h="C894DD7E">Метод:</text>
+		<text id="smmethod.all2one" h="B3E7239B">Все страницы в один документ</text>
+		<text id="smmethod.asis" h="4C3BC0E6">Оставить входной документ</text>
+		<text id="smmethod.bookmarks" h="44B3EE11">Разделить по закладкам верхнего уровня</text>
+		<text id="smmethod.npages" h="2D67CBA9">Каждые N страниц в отдельный документ</text>
+		<text id="smreverse.chk" h="B766066F">В обратном порядке</text>
+		<text id="sourcepage" h="5D6277DD">Исходная страница</text>
+		<text id="sourcetitle" h="81E00BC2">Исходный документ</text>
+		<text id="specific" h="67D7437D">Особые</text>
+		<text id="status" h="9FB9C788">Статус</text>
+		<text id="stdAll" h="C80F4913">Все стандарты</text>
+		<text id="stdToolsGrName" h="1906BB71">Стадартные инструменты</text>
+		<text id="stop" h="F89FDAAE">Стоп</text>
+		<text id="targettitle" h="F87B6FA7">Заголовок целевого документа</text>
+		<text id="timefmt.day" h="EF28C7D2">%1 дня</text>
+		<text id="timefmt.days" h="F3C5276C">%1 дней</text>
+		<text id="timefmt.days.short" h="E1985A1D">%1 д</text>
+		<text id="timefmt.hour" h="CDADDDAA">%1 часа</text>
+		<text id="timefmt.hours" h="E9410F6D">%1 часа/-ов</text>
+		<text id="timefmt.hours.short" h="4D2D1511">%1 ч</text>
+		<text id="timefmt.minute" h="2D014E0C">%1 минуты</text>
+		<text id="timefmt.minutes" h="781A3650">%1 минут</text>
+		<text id="timefmt.minutes.short" h="305AE154">%1 м</text>
+		<text id="timefmt.second" h="CDE322F6">%1 секунды</text>
+		<text id="timefmt.seconds" h="D24DF2F6">%1 секунд</text>
+		<text id="timefmt.seconds.short" h="E41BDE8B">%1 с</text>
+		<text id="title.choosepages" h="4B381B82">Выбрать страницы</text>
+		<text id="tool" h="7D3C7CB2">Инструмент</text>
+		<text id="tool.addBatesNumbering" h="5987A707">Добавить сквозную нумерацию</text>
+		<text id="tool.addBatesNumbering.desc" h="19058FA5">Добавляет сквозную нумерацию в PDF документ(ы) для упрощения их индексации, идентификации, поиска, и т.д.</text>
+		<text id="tool.addDigSign" h="97DD789F">Добавить цифровую подпись</text>
+		<text id="tool.addDigSign.desc" h="84946427">Добавляет новое поле подписи в документ(ы) и затем подписывает их, используя цифровый сертификат (цифровой идентификатор).</text>
+		<text id="tool.addHeaderAndFooter" h="71EBAC62">Добавить верхний и нижний колонтитул</text>
+		<text id="tool.addHeaderAndFooter.desc" h="36AA73F6">Добавляет верхний и нижний колонтитулы на страницы. Колонтитулы могут содержать данные о дате, заглавии, авторе, номер страницы и т.д.</text>
+		<text id="tool.addPagesBackground" h="20D4DB07">Установить фон страниц</text>
+		<text id="tool.addPagesBackground.desc" h="C639A1B2">Добавляет цвет или изображение как фон к PDF страницам.</text>
+		<text id="tool.addTimeStamp" h="837FE6FB">Добавить временную метку для PDF документа(ов)</text>
+		<text id="tool.addTimeStamp.desc" h="4D80E50C">Добавляет временную метку, используя доверенный сервер временных меток и учреждая точность содержимого документа в момент применения метки времени.</text>
+		<text id="tool.addWatermarks" h="F5662DD3">Добавить водяные знаки</text>
+		<text id="tool.addWatermarks.desc" h="434D9E42">Добавляет текст или изображение над или под содержимым страницы.</text>
+		<text id="tool.bookmarksBuildTOC" h="2B3E9BF1">Создать Оглавление</text>
+		<text id="tool.bookmarksBuildTOC.desc" h="1D694D80">Создает Оглавление на основе структуры закладок документа и страниц, на которые те указывают.</text>
+		<text id="tool.bookmarksExport" h="F3EE1781">Экспортировать закладки</text>
+		<text id="tool.bookmarksExport.desc" h="BB39B78E">Экспортирует всех закладки из документа</text>
+		<text id="tool.bookmarksExportToText" h="01135DA3">Экспортировать закладки в текстовый файл</text>
+		<text id="tool.bookmarksExportToText.desc" h="F351FF49">Сохраняет структуру закладок PDF документа в текстовый файл</text>
+		<text id="tool.bookmarksFromText" h="383A949B">Создание закладок из текста страницы</text>
+		<text id="tool.bookmarksFromText.desc" h="1EF3AF08">Создает закладки из текста документа, используя заданный стили и параметры шрифта.</text>
+		<text id="tool.bookmarksFromTextFile" h="CA5176DD">Импорт закладок из текстового файла</text>
+		<text id="tool.bookmarksFromTextFile.desc" h="792D900F">Создает закладки в PDF документе из текстового файла.</text>
+		<text id="tool.bookmarksImport" h="DC7F6AD5">Импорт закладок</text>
+		<text id="tool.bookmarksImport.desc" h="40AC7812">Импортирует закладки в документ из файла, в который ранее они были экспортированы.</text>
+		<text id="tool.certifyPDF" h="52B0ED47">Сертифицировать PDF</text>
+		<text id="tool.certifyPDF.desc" h="828838CF">Защищает PDF документ(ы), используя сертфикат с определенным типом поля подписи (цифровой идентификатор).</text>
+		<text id="tool.changeProps" h="89CBAD2F">Изменить свойства документа</text>
+		<text id="tool.changeProps.desc" h="40BD1FE7">Изменяет свойства документа: Заголовок, Автор, Тема, Ключевые слова...</text>
+		<text id="tool.clearDigSign" h="361BBD36">Очистить все цифровые подписи</text>
+		<text id="tool.clearDigSign.desc" h="E1CDD425">Удаляет все цифровые подписи и, по возможности, оставляет неподписанными поля подписи.</text>
+		<text id="tool.convertToPDFA" h="86709E15">Преобразовать в PDF/A стандарт</text>
+		<text id="tool.convertToPDFA.desc" h="7DDE1660">Создает PDF документы для длительного хранения и сохранности содержимого, соответствующие PDF/A стандарту.</text>
+		<text id="tool.convertToPDFX" h="1D70370D">Преобразовать в PDF/X стандарт</text>
+		<text id="tool.convertToPDFX.desc" h="CB599882">Создает PDF документы, соответствующие PDF/X стандарту, для обмена готовыми к печати данными.</text>
+		<text id="tool.copied" h="348DE55D">Копия</text>
+		<text id="tool.createWeblinks" h="F68EDD51">Создать веб-ссылки</text>
+		<text id="tool.createWeblinks.desc" h="6971A17D">Создает веб-ссылки из текстового содержимого документа.</text>
+		<text id="tool.cropPages" h="54A95B63">Обрезать страницы</text>
+		<text id="tool.cropPages.desc" h="A9A477BE">Регулирует видимую область страницы, изменяя или удаляя белые поля на страницах, устанавливает рамки страницы.</text>
+		<text id="tool.deleteComments.all" h="E8642222">Удалить все комментарии</text>
+		<text id="tool.deleteComments.all.desc" h="818B531A">Удалить все комментарии в документе.</text>
+		<text id="tool.deleteComments.form" h="37ECB4B5">Удалить поля формы</text>
+		<text id="tool.deleteComments.form.desc" h="C5D21570">Удалить поля формы в документе.</text>
+		<text id="tool.deleteComments.links" h="CC8F1411">Удалить ссылки</text>
+		<text id="tool.deleteComments.links.desc" h="66D48AF5">Удалить ссылки в документе.</text>
+		<text id="tool.deleteComments.markup" h="EA5127FB">Удалить комментарии-метки</text>
+		<text id="tool.deleteComments.markup.desc" h="80CD5AA0">Удаляет комментарии-метки в документе.</text>
+		<text id="tool.deleteComments.weblinks" h="87C8439E">Удалить веб-ссылки</text>
+		<text id="tool.deleteComments.weblinks.desc" h="158E179F">Удалить веб-ссылки в документе.</text>
+		<text id="tool.deletePages" h="E5284839">Удалить страницы</text>
+		<text id="tool.deletePages.desc" h="4E1EBD43">Удалить страницы из документа.</text>
+		<text id="tool.descTip" h="04F6C0B5">Введите описание инструмента...</text>
+		<text id="tool.discardPDFStd" h="E608B980">Отменить специальный PDF стандарт</text>
+		<text id="tool.discardPDFStd.desc" h="947EF232">Игнорирует информацию специального PDF стандарта, как PDF/X, PDF/A, PDF/E. и др.</text>
+		<text id="tool.duplicatePages" h="14C45200">Дублировать страницы</text>
+		<text id="tool.duplicatePages.desc" h="0FD26A6C">Дублирует страницы PDF документа.</text>
+		<text id="tool.enhanceScannedPages" h="0A810C6E">Улучшить качество сканированных страниц</text>
+		<text id="tool.enhanceScannedPages.desc" h="95589020">Улучшает сканированные изображения в PDF документе для улучшения чтения и уменьшения размера файла.</text>
+		<text id="tool.extractImagesFromPDF" h="4CF9FEB6">Извлечь изображения из PDF документа</text>
+		<text id="tool.extractImagesFromPDF.desc" h="C53280A8">Просматривает PDF документы, извлекает растровые изображения в файлы и сохраняет их на диск.</text>
+		<text id="tool.extractPages" h="7AE73EC1">Извлечь страницы</text>
+		<text id="tool.extractPages.desc" h="54BB795B">Извлекает указанны диапазон страниц из PDF документа(ов) в новый документ</text>
+		<text id="tool.filesToPDF" h="4CD7DD2F">Преобразовать файлы в PDF файлы</text>
+		<text id="tool.filesToPDF.desc" h="603206C4">Ковертирует файлы поддерживаемых форматов в PDF.</text>
+		<text id="tool.flattenComments" h="CBA1AA18">Комментарии в элементы содержимого</text>
+		<text id="tool.flattenComments.desc" h="20A41E96">Преобразовать комментарии в элементы содержимого.</text>
+		<text id="tool.imagesToPDF" h="B0C7E05C">Создать PDF из изображений</text>
+		<text id="tool.imagesToPDF.desc" h="0FDB3BE0">Создает один PDF документ из растровых изображений.</text>
+		<text id="tool.insertEmptyPages" h="3779032F">Вставить пустые страницы</text>
+		<text id="tool.insertEmptyPages.desc" h="65380D33">Вставить пустые страницы в документ.</text>
+		<text id="tool.insertPages" h="6B486B45">Вставить страницы</text>
+		<text id="tool.insertPages.desc" h="E986FB1C">Вставляет в документ страницы из указанного документа.</text>
+		<text id="tool.isused" h="F0A66FDB">Невозможно удалить инструмент &lt;b&gt;"%1"&lt;/b&gt;.
+Его использует наблюдатесь папок.</text>
+		<text id="tool.nameTip" h="92682EAF">Введите имя инструмента...</text>
+		<text id="tool.new.name" h="6431F60C">Новый инструмент</text>
+		<text id="tool.ocrPages" h="D2A189BC">Оптическое распознавание страниц</text>
+		<text id="tool.ocrPages.desc" h="E9D91493">Оптически распознает текст на страницах PDF документа(ов), создает слой для поиска и выделения текста.</text>
+		<text id="tool.optimizePDF" h="E369C144">Оптимизировать PDF документ</text>
+		<text id="tool.optimizePDF.desc" h="2DDF7F6C">Оптимизирует содержимое документа и уменьшает размер PDF документа насколько возможно.</text>
+		<text id="tool.overlayDoc" h="A113E021">PDF файл наложения:</text>
+		<text id="tool.overlayDoc.desc" h="8AC5B664">Накладывает PDF документ на другие PDF документы</text>
+		<text id="tool.pageTransitions" h="B5EF0B7A">Установить переходы страниц</text>
+		<text id="tool.pageTransitions.desc" h="33F5B755">Изменяет специальные эффекты переходы страниц для полноэкранного режима.</text>
+		<text id="tool.pdfToDOCX" h="D89F515F">Экспортировать PDF-файл в документ Microsoft Word</text>
+		<text id="tool.pdfToDOCX.desc" h="D34FB81F">Экспортирует PDF-файлы в документы Microsoft Word (*.docx).</text>
+		<text id="tool.pdfToImages" h="6DC3C315">Экспортировать PDF в изображения</text>
+		<text id="tool.pdfToImages.desc" h="87E8923B">Экспорт PDF страниц в растровые изображения форматов JPEG, PNG, TIFF и т.д.</text>
+		<text id="tool.pdfToPPTX" h="E673A7B8">Экспортировать PDF-файл в презентацию Microsoft PowerPoint</text>
+		<text id="tool.pdfToPPTX.desc" h="65E608C6">Экспортирует PDF-файлы в презентации Microsoft PowerPoint (*.pptx).</text>
+		<text id="tool.pdfToTXT" h="29DDD177">Экспортировать PDF-файл в текст</text>
+		<text id="tool.pdfToTXT.desc" h="9C277C15">Экспортирует PDF-файлы в текстовые файлы (*.txt).</text>
+		<text id="tool.pdfToXSLX" h="A31C131A">Экспортировать PDF в таблицы Microsoft Excel</text>
+		<text id="tool.pdfToXSLX.desc" h="325AEA86">Экспортирует PDF-файлы в таблицы Microsoft Excel (*.xslx).</text>
+		<text id="tool.printDocument" h="4F3750AE">Печать документа</text>
+		<text id="tool.printDocument.desc" h="52ECFAA3">Печатает все входные документы.</text>
+		<text id="tool.removeBackground" h="E0246483">Удалить фон</text>
+		<text id="tool.removeBackground.desc" h="17700648">Удаляет фон, установленный пользователем, и возобновляет первоначальный белый фон.</text>
+		<text id="tool.removeBatesNumbering" h="901F5ABD">Удалить сквозную нумерацию (Бейтса)</text>
+		<text id="tool.removeBatesNumbering.desc" h="E4FBEB3C">Удаляет сквозную нумерацию (Бейтса).</text>
+		<text id="tool.removeHeaderAndFooter" h="11E8A996">Удалить колонтитулы</text>
+		<text id="tool.removeHeaderAndFooter.desc" h="E1CC0743">Удаляет все колонтитулы</text>
+		<text id="tool.removeWatermarks" h="93F16CE2">Удалить водяные знаки</text>
+		<text id="tool.removeWatermarks.desc" h="AFCD3BD4">Удаляет все водяные знаки в документе.</text>
+		<text id="tool.replacePages" h="1311083C">Заменить страницы</text>
+		<text id="tool.replacePages.desc" h="9C48D712">Заменяет страницы в документе на страницы из указанного документа.</text>
+		<text id="tool.report.dlg" h="E9D63CB7">Отчет об инструменте</text>
+		<text id="tool.report.filename" h="C7908B93">Отчет о работе инструмента</text>
+		<text id="tool.report.save" h="418B87C2">Сохранить в файл...</text>
+		<text id="tool.resizePages" h="8A5C31F1">Изменить размер страниц</text>
+		<text id="tool.resizePages.desc" h="822401DC">Изменяет размер страниц, опционально масштабируя содержимое страниц.</text>
+		<text id="tool.rotatePages" h="CBD82045">Повернуть страницы</text>
+		<text id="tool.rotatePages.desc" h="66235E38">Поворачивает указанные страницы PDF документа на 90°, 180°, 270°.</text>
+		<text id="tool.scanToPDF" h="B9A05395">Сканировать в PDF файл</text>
+		<text id="tool.scanToPDF.desc" h="521CD5C0">Создает PDF документ из сканированных изображений.</text>
+		<text id="tool.securePDF" h="400E69FB">Защитить PDF документ(ы)</text>
+		<text id="tool.securePDF.desc" h="322DE365">Защищает PDF документ с помощью пароля на открытие и/или изменения документа.</text>
+		<text id="tool.sendMail" h="9377A75B">Отправить электронной почтой</text>
+		<text id="tool.sendMail.desc" h="13681586">Отправить файл на указанный адрес эл. почты с помощью текущего Метода отправки сообщений.</text>
+		<text id="tool.splitMergePDF" h="51A86996">Разделить/объединить PDF документ(ы)</text>
+		<text id="tool.splitMergePDF.desc" h="73710D3B">Объедняет все исходные документы в один или разделяет их в несколько автоматически или вручную.</text>
+		<text id="tool.splitPages" h="2648812F">Разделить страницы</text>
+		<text id="tool.splitPages.desc" h="4FA35C77">Разделить страницы PDF документа.</text>
+		<text id="tool.summarizeComments" h="2233C1CD">Суммировать комментарии</text>
+		<text id="tool.summarizeComments.desc" h="8EA1DEF5">Создает сводку всех комментариев в PDF документе.</text>
+		<text id="tool.textToPDF" h="ECE46B63">Создать PDF из текста</text>
+		<text id="tool.textToPDF.desc" h="E1CF697C">Создает один PDF документ из текстовых файлов.</text>
+		<text id="tool.warn.actIncompatible" h="AE17E68E">это действие несовместимо с действием &lt;u&gt;%1&lt;/u&gt;. Одно из этих действий должно быть пропущено</text>
+		<text id="tool.warn.actInvalid1" h="8442B509">Обнаружены ошибки в этом действии:</text>
+		<text id="tool.warn.actInvalid2" h="442E6045">Найдена ошибка в этом действии:</text>
+		<text id="tool.warn.actReqDoc" h="76C84E2B">для выполнения этого действия необходимо выбрать файлы PDF, изображения, или других поддерживаемых форматов</text>
+		<text id="tool.warn.actReqFile1" h="0B30D02F">для выполнения этого действия необходимо сначала выбрать файлы. Добавьте действие &lt;u&gt;%1&lt;/u&gt; перед ним для выбора файлов.</text>
+		<text id="tool.warn.actReqFile2" h="CA8342FE">для выполнения этого действия необходимо сначала выбрать файлы</text>
+		<text id="tool.warn.actReqFile21" h="65B62BA0">похоже, что Вы забыли добавить действие &lt;u&gt;%1&lt;/u&gt; перед этим действием</text>
+		<text id="tool.warn.actReqImg" h="D28A3C63">для выполнения этого действия необходимо выбрать файлы изображения</text>
+		<text id="tool.warn.actReqSaveRes" h="3621DC81">Разместите действие &lt;u&gt;%1&lt;/u&gt; после этого действия, чтобы сохранить результаты на диск.</text>
+		<text id="tool.warn.actReqSaveRes2" h="9B55FE54">Инструмент состоит из &lt;u&gt;%1&lt;/u&gt; действий и результат их исполнения должен быть сохранен до исполениния &lt;i&gt;этого&lt;/i&gt; действия. Вам следует добавить действие  &lt;u&gt;%2&lt;/u&gt;.</text>
+		<text id="tool.warn.actTitle" h="7330FC41">Действие &lt;u&gt;%1&lt;/u&gt;:</text>
+		<text id="tool.warn.cancel" h="8DD6365D">Желаете ли Вы прекратить работу инструмента &lt;b&gt;"%1"&lt;/b&gt;?
+Для продолжения работы выберите  &lt;b&gt;"Нет"&lt;/b&gt;.
+		</text>
+		<text id="tool.warn.empty" h="D05A0C43">этот инструмент не содержит действий. Нажмите кнопку '&lt;b&gt;Редактировать&lt;/b&gt;' на панели инструментов и добавьте действия.</text>
+		<text id="tool.warn.empty2" h="B4FD144F">Инструмент не содержит действий.</text>
+		<text id="tool.warn.imgNotFound" h="9A768995">Изображения не найдены.</text>
+		<text id="tool.warn.invalidActList" h="A2BB75D7">Некорректный список действий.</text>
+		<text id="tool.warn.nextActNotSuitable" h="17376D04">&lt;i&gt;следующее&lt;/i&gt; действие не подходит, потому что оно не принимает на вход результаты от &lt;i&gt;этого&lt;/i&gt; действия</text>
+		<text id="tool.warn.nextActNotSuitable2" h="49941252">Вы можете решить проблему, добавив действие &lt;u&gt;%1&lt;/u&gt; после &lt;i&gt;этого действия&lt;/i&gt;.</text>
+		<text id="tool.warn.nooperation" h="0063BA81">не может создать операцию для этого действия. Пожалуйста, установите или исправте соответствующий модуль</text>
+		<text id="tool.warn.runInvalid" h="58A31432">Инструмент &lt;b&gt;"%1"&lt;/b&gt; неверный. Перед запуском инструмента исправьте список действий.
+
+Желаете редактировать инструмент?</text>
+		<text id="tool.warn.toolInvalid1" h="D448BEEB">Обнаружены ошибки в этом инструменте:</text>
+		<text id="tool.warn.toolInvalid2" h="560926B8">Инструмент составлен неверно. Ошибка:</text>
+		<text id="toolActionsList" h="C9BE1A16">Последовательность действий инструмента</text>
+		<text id="toolCategories" h="DB5C4D49">Категории</text>
+		<text id="toolInfo" h="979A9FE1">Инфо</text>
+		<text id="toolInfo.defaultDesc" h="D1FD06B6">Выберите инструмент из списка и посмотрите информацию.</text>
+		<text id="toolcat.PDFStandard" h="E51FAF25">PDF стандарт</text>
+		<text id="toolcat.advanced" h="59A2B513">Дополнительно</text>
+		<text id="toolcat.all" h="BF2EE9E9">Все инструменты</text>
+		<text id="toolcat.bookmarks" h="E2032460">Закладки</text>
+		<text id="toolcat.comments" h="FA5EB905">Комментарии</text>
+		<text id="toolcat.createPDF" h="ACF7EBD1">Создать PDF</text>
+		<text id="toolcat.customTools" h="22F07048">Пользовательские инструменты</text>
+		<text id="toolcat.exportPDF" h="4AE54AB5">Экспортировать PDF</text>
+		<text id="toolcat.favorites" h="310DA860">Часто использованные</text>
+		<text id="toolcat.importedTools" h="48FF1B1E">Импортированные инструменты</text>
+		<text id="toolcat.mostUsed" h="6274AE53">Часто использованные</text>
+		<text id="toolcat.newname" h="DB2A8F96">Новая категория</text>
+		<text id="toolcat.optimizePDF" h="E369C144">Оптимизировать PDF документ</text>
+		<text id="toolcat.pages" h="47B1CB74">Страницы</text>
+		<text id="toolcat.protection" h="B7EE190B">Защита</text>
+		<text id="toolcat.recents" h="F90189AF">Недавние</text>
+		<text id="toolsList" h="CA8BB4DB">Инструменты</text>
+		<text id="toolselect.lbl" h="ECBB264F">Инструмент для исполнения:</text>
+		<text id="toolslist.drop.nofiles" h="4F3412DD">Не выбрано файлов для перетягивания.</text>
+		<text id="toolslist.tip.icofavorite.add" h="F53B42E1">Нажмите, чтобы добавить Инструмент в категорию Избранные</text>
+		<text id="toolslist.tip.icofavorite.remove" h="04AC30FF">Инструмент находится в категории Избранных.Нажмите, чтоб удалить инструмент из категории Избранных</text>
+		<text id="toolslist.tip.icomonitor" h="4A7E7A48">Инструмент используют в Наблюдателе папок</text>
+		<text id="toolslist.tip.icouser" h="9864F819">Пользовательский инструмент</text>
+		<text id="toolsview.warning.emptyname" h="38B7A2E0">Имя инструмента не может быть пустым.</text>
+		<text id="type" h="710B61B4">Тип</text>
+		<text id="userui.disable" h="14084105">Отключить взаимодействие</text>
+		<text id="userui.tooltip" h="439FDF26">Этот параметр отключает все взаимодействия интерфейса пользователя при запуске инструмента, таких как диалоговые окна настройки и отображение выходных файлов.ПРИМЕЧАНИЕ: для некоторых действий, таких как &lt;b&gt;"%1"&lt;/b&gt;, необходина инициализация, поэтому при первом запуске будут показаны настройки.</text>
+		<text id="userui.usetool" h="D5A05798">Использовать настройки инструмента</text>
+		<text id="usetool.filter" h="4885292B">Использовать фильтр инструмента</text>
+		<text id="warn.textDocSkipOCR" h="FB74BE26">PDF-документ содержит текст. Распознавание текста (OCR) не будет применено</text>
+		<text id="weblinks.grp" h="BC392B82">Укажите страницы для создания веб-ссылок:</text>
+		<text id="wrong.file.msg" h="9F0126B0">Невозможно открыть PDF для наложения:
+&lt;b&gt;%1&lt;/b&gt;:
+%2
+Желаете выбрать другой файл?</text>
+	</Strings>
+</Localization>

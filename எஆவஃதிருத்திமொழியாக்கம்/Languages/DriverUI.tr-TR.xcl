@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180402181957">2.00.00</Version>
+	<Author>Tülay Ongun</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXDriver"/>
+	<Language eName="Turkish (Turkey)" lName="Türkçe" code="tr-TR" R2L="false"/>
+	<Module name="DriverUI" namespace="" version="7.0.324.4"/>
+	<Strings>
+		<text id="btn.ok" h="FEF0C771">Evet</text>
+		<text id="btn.cancel" h="3D302A38">&amp;İptal etmek</text>
+		<text id="btn.yes" h="E38DE015">&amp;Evet</text>
+		<text id="btn.no" h="B7A441B2">Нет</text>
+		<text id="btn.default" h="F24132BD">&amp;Varsayılan</text>
+		<text id="btn.retry" h="82619C32">&amp;Yeniden Dene</text>
+		<text id="btn.add" h="B1378310">&amp;Ekle</text>
+		<text id="btn.add_" h="9B7E8822">&amp;Eklemek...</text>
+		<text id="btn.remove" h="FCE39C1F">Kaldır</text>
+		<text id="btn.remove_" h="C733C727">&amp;Kaldır...</text>
+		<text id="btn.browse" h="61C204E1">Seçme ...</text>
+		<text id="btn.browse.dot" h="89B34A98">...</text>
+		<text id="btn.close" h="6298A5AF">&amp;Kapat</text>
+		<text id="btn.saveAs" h="34A2687C">Farklı kaydet...</text>
+		<text id="None" h="F9398D7D">Yok</text>
+		<text id="None2" h="18A77318">&lt;Yok&gt;</text>
+		<text id="Yes" h="DC948BC4">Evet</text>
+		<text id="No" h="6651A799">Hayır</text>
+		<text id="issuer" h="278A5A41">İhraççı</text>
+		<text id="expirationDate" h="62A26CAB">Son Kullanma Tarihi</text>
+		<text id="certificate.noname" h="7E323CFC">&lt;İsim kullanılamıyor&gt;</text>
+		<text id="Auto" h="471FE15D">Otomatik</text>
+		<text id="Mixed" h="B107EE41">Karışık</text>
+		<text id="Default" h="B6EF2024">Varsayılan</text>
+		<text id="MoreColors" h="8E37A577">Daha çok renk...</text>
+		<text id="StdColors" h="E77B1524">Standart Renkler</text>
+		<text id="CustColors" h="E549B850">Özel Renkler</text>
+		<text id="True" h="2C126145">Doğru</text>
+		<text id="False" h="6E2C778C">Yanlış</text>
+		<text id="propGroup.general" h="30673BCD">Genel</text>
+		<text id="propGroup.other" h="4D02ADCA">Diğer</text>
+		<text id="rangesNavigator.delSelRange" h="1679F90E">Seçilen aralığı sil</text>
+		<text id="rangesNavigator.addNewRange" h="21AD5513">Yeni aralık ekle</text>
+		<text id="NoDesc2" h="18F77191">&lt;Açıklama Yok&gt;</text>
+		<text id="Undo" h="86E67B4B">Geri alma</text>
+		<text id="Redo" h="E6E48291">Yeniden yapmak</text>
+		<text id="Cut" h="61816B61">Kes</text>
+		<text id="Copy" h="348DE55D">Kopya</text>
+		<text id="Paste" h="2BCB0ED4">Yapıştır</text>
+		<text id="Delete" h="D8FE3F70">Sil</text>
+		<text id="Select" h="3E697735">Seçin</text>
+		<text id="SelectAll" h="35E0E32F">Tümünü Seç</text>
+		<text id="DeselectAll" h="699E910A">Hiçbirini Seçme</text>
+		<text id="Ignore" h="84719564">Yoksay</text>
+		<text id="IgnoreAll" h="8DA1370A">Tümünü Yoksay</text>
+		<text id="TextStyle" h="1FF454A3">Yazı stili</text>
+		<text id="NoSuggestions" h="486A5F0F">(Yazım Önergesi Yok)</text>
+		<text id="AddToDict" h="1E16C146">Sözlüğe Ekle</text>
+		<text id="TextDirection" h="9A7C92FA">Metin Yönü</text>
+		<text id="color.Black" h="8EC6ABE8">Siyah</text>
+		<text id="color.Brown" h="7FF1DD0C">Kahverengi</text>
+		<text id="color.DarkOliveGreen" h="3B0086DA">Koyu Zeytin Yeşili</text>
+		<text id="color.DarkGreen" h="32CD6682">Koyu Yeşil</text>
+		<text id="color.DarkTeal" h="07E82FA9">Koyu Çamurcun</text>
+		<text id="color.DarkBlue" h="948A3D4C">Koyu Mavi</text>
+		<text id="color.Indigo" h="A2D50E5C">Çivit rengi</text>
+		<text id="color.DarkGrey" h="53D85A01">Koyu Gri</text>
+		<text id="color.DarkRed" h="404DA909">Koyu Kırmızı</text>
+		<text id="color.Orange" h="DF701C8C">Turuncu</text>
+		<text id="color.DarkYellow" h="2C647852">Koyu Sarı</text>
+		<text id="color.Green" h="C253AA3A">Yeşil</text>
+		<text id="color.Teal" h="3C7828E7">Çamurcun</text>
+		<text id="color.Blue" h="AF1A3A02">Mavi</text>
+		<text id="color.BlueGrey" h="2DEC56B3">Mavi-Gri</text>
+		<text id="color.Grey40" h="E3913C79">Gri %40</text>
+		<text id="color.Red" h="B3D0FF91">Kırmızı</text>
+		<text id="color.LightOrange" h="56F40088">Açık turuncu</text>
+		<text id="color.Lime" h="7FF0C6F3">Limon rengi</text>
+		<text id="color.SeaGreen" h="68AFBFF8">Deniz yeşili</text>
+		<text id="color.Aqua" h="FAB1E9A0">Su rengi</text>
+		<text id="color.LightBlue" h="45312AF4">Açık mavi</text>
+		<text id="color.Violet" h="301DE95C">Menekşe</text>
+		<text id="color.Grey50" h="28CDEFDC">Gri %50</text>
+		<text id="color.Pink" h="D8D260F7">Pembe</text>
+		<text id="color.Gold" h="55646F9C">Altın</text>
+		<text id="color.Yellow" h="92AA22E7">Sarı</text>
+		<text id="color.BrightGreen" h="883F84F6">Parlak Yeşil</text>
+		<text id="color.Turquoise" h="26F8E234">Turkuaz</text>
+		<text id="color.Skyblue" h="7BD04AE5">Gökyüzü mavisi</text>
+		<text id="color.Plum" h="595D865C">Erik rengi</text>
+		<text id="color.LightGrey" h="82634DB9">Açık gri</text>
+		<text id="color.Rose" h="705E265B">Gül rengi</text>
+		<text id="color.Tan" h="10046351">Bronzluk</text>
+		<text id="color.LightYellow" h="1B2E3EE3">Açık sarı</text>
+		<text id="color.PaleGreen" h="91D8BB4B">Soluk Yeşil</text>
+		<text id="color.PaleTurquoise" h="8C6FB540">Soluk Turkuaz</text>
+		<text id="color.PaleBlue" h="F5990CA0">Soluk Mavi</text>
+		<text id="color.Lavender" h="DC3DBC32">Lavanta</text>
+		<text id="color.White" h="74152F7B">Beyaz</text>
+		<text id="edit.InsertText" h="A931622B">"%1" Metni Ekle</text>
+		<text id="edit.DeleteText" h="AAB9C45C">Metni Sil "%1"</text>
+		<text id="edit.PasteText" h="6DC029B4">Metni Yapıştır "%1"</text>
+		<text id="edit.ModifyTextFormat" h="B2A9BA03">Metin Biçimini Değiştir</text>
+		<text id="edit.ModifyTextFont" h="E57A5027">Metin Yazı Tipini Değiştir</text>
+		<text id="edit.ModifyTextSize" h="8BDA6FAD">Metin Boyutu Değiştir</text>
+		<text id="edit.ModifyTextColor" h="C187B5B1">Metin Rengini Değiştir</text>
+		<text id="edit.ModifyParaFormat" h="A4EFE81F">Paragraf Formatını Değiştir</text>
+		<text id="edit.ModifyParaAlign" h="5ABCBBF1">Paragraf Hizalamasını Değiştir</text>
+		<text id="edit.SetLanguage" h="D8D265EB">Dili ayarla</text>
+		<text id="layout.CloseTab" h="35FC1AA9">Sekmeyi Kapat</text>
+		<text id="layout.DnDAllTabs" h="BC9A3B7F">Tüm Sekmeleri Sürükle ve Bırak</text>
+		<text id="layout.ShowTabsThumbs" h="4F46DD77">Küçük Resim Sekmesini Göster</text>
+		<text id="layout.ShowSortedTabs" h="2FA2819E">Sıralanmış Sekmeleri Göster</text>
+		<text id="layout.ScrollTabsLeft" h="B23B9425">Sekmeleri Sola Kaydır</text>
+		<text id="layout.AddNewTab" h="2C5251EB">Yeni Sekme Ekle</text>
+		<text id="layout.ScrollTabsRight" h="AA40041A">Sekmeleri Sağa Kaydır</text>
+		<text id="layout.CloseActiveTab" h="B83CF8F4">Etkin Sekmeyi Kapat</text>
+		<text id="layout.Close" h="9594DBB7">Kapat</text>
+		<text id="layout.clickToShow" h="E85C828D">Göstermek için tıklayın</text>
+		<text id="layout.clickToHide" h="AD248B87">Gizlemek için tıklayın</text>
+		<text id="driver.mode.auto" h="471FE15D">Otomatik</text>
+		<text id="driver.mode.gdi" h="D86FFE0D">GDI</text>
+		<text id="driver.mode.xps" h="45B97450">XPS</text>
+		<text id="rules.column.app" h="66E8E89C">Uygulama</text>
+		<text id="rules.column.mode" h="97850036">Sürücü Modu</text>
+		<text id="btn.configMode.tooltip" h="59D88CB9">Sürücü Modu kurallarını yapılandır</text>
+		<text id="profile.default.title" h="67249AEE">Varsayılan Ayarları</text>
+		<text id="profile.default.desc" h="C63AA327">Sürücünün varsayılan ayarları</text>
+		<text id="profile.filter" h="1D42128D">PDF-XChange Yazıcı Profili (* .pxpp)</text>
+		<text id="profile.title" h="0295B9AE">Profil Dosyasını Seç</text>
+		<text id="profile.newName" h="5A67CE17">Yeni profil</text>
+		<text id="btn.manage.tooltip" h="02E97817">Kullanılabilir profillerin listesini düzenleme</text>
+		<text id="btn.add.tooltip" h="3EEBE19F">Mevcut ayarlarla yeni profil oluşturma</text>
+		<text id="btn.save.tooltip" h="EB7F125C">Mevcut ayarları profiline kaydet</text>
+		<text id="tip.settings.modified" h="AFEF528F">profil uygulandıktan sonra geçerli ayarınız değiştirildi.  n Ayarlarınızı profilinize kaydetmek için 'Kaydet' veya 'Oluştur' düğmesine basınız</text>
+		<text id="product.ID" h="0F1AA23D">Ürün Kimliği: %1</text>
+		<text id="licence.type" h="02FA2D70">Lisans Türü:%1</text>
+		<text id="paper.group.ISO" h="79F157DD">ISO</text>
+		<text id="paper.group.ANSI" h="D7990290">ANSI</text>
+		<text id="paper.group.Envelope" h="1D74D29F">Zarf</text>
+		<text id="paper.group.JIS" h="26B6CFD5">JIS</text>
+		<text id="paper.group.Misc" h="04ADA73E">Çeşitli</text>
+		<text id="paper.group.Custom" h="A918FF38">Özel</text>
+		<text id="sheet.auto" h="471FE15D">Otomatik</text>
+		<text id="sheet.custom" h="0B8B6CAF">Özel Boyut</text>
+		<text id="unit.inch" h="86129307">inç</text>
+		<text id="unit.millimeter" h="C982BDAD">milimetre</text>
+		<text id="unit.point" h="BF2CAA20">nokta</text>
+		<text id="unit.in" h="42AF015F">İçinde</text>
+		<text id="unit.mm" h="E6E0C5CB">mm</text>
+		<text id="unit.pt" h="DF93E391">pt</text>
+		<text id="paperlayout.standard" h="C6DA1F99">Standart</text>
+		<text id="paperlayout.nUP" h="D4485C9D">Sayfa Başına Birden Fazla Sayfa</text>
+		<text id="paperlayout.booklet" h="901EA828">Kitapçık</text>
+		<text id="nUP.1" h="EEAD9B73">1 sayfa</text>
+		<text id="nUP.2" h="5A659345">2 sayfa</text>
+		<text id="nUP.4" h="A2A7D8F3">4 sayfa</text>
+		<text id="nUP.6" h="43C91C5E">6 sayfa</text>
+		<text id="nUP.8" h="885249DE">8 sayfa</text>
+		<text id="nUP.9" h="155DA8A8">9 sayfa</text>
+		<text id="nUP.16" h="1CB9C82C">16 sayfa</text>
+		<text id="nUP.order.L2R" h="949DEA01">Soldan Sağa</text>
+		<text id="nUP.order.R2L" h="171EAD0C">Sağdan sola</text>
+		<text id="nUP.order.L2R2D" h="C8FF2262">Solun karşısında</text>
+		<text id="nUP.order.L2D2R" h="EB9F4ED9">Soldan aşağı</text>
+		<text id="nUP.order.R2L2D" h="377AB1A5">Sağın karşısında</text>
+		<text id="nUP.order.R2D2L" h="744FC8C5">Sağdan aşağı</text>
+		<text id="bookletType.brochure" h="BC6BC70D">Broşür</text>
+		<text id="bookletType.book" h="88A9D2D9">Kitap</text>
+		<text id="langsList.column.name" h="F479395C">Standart İsmi</text>
+		<text id="langsList.column.locName" h="45A2C755">Yerel ad</text>
+		<text id="langs.Default" h="A50C20C9">İngilizce (ABD), Dahili</text>
+		<text id="langs.Auto" h="343D08C2">Bölgesel Ayarlar'ı Kullan</text>
+		<text id="compr.auto" h="471FE15D">Otomatik</text>
+		<text id="compr.zip" h="D460493A">Flate</text>
+		<text id="compr.jpeg" h="58DE58E0">JPEG</text>
+		<text id="compr.jpeg.zip" h="077BB505">JPEG/ZIP</text>
+		<text id="compr.j2k" h="BDEDDBB8">JPEG 2000</text>
+		<text id="compr.j2k.zip" h="5A9C90B5">JPEG 2000/ZIP</text>
+		<text id="compr.rle" h="82741A51">Run Length</text>
+		<text id="compr.lzw" h="D62F11BD">LZW</text>
+		<text id="compr.ccitt3" h="B7DD624B">CCITT Grup 3</text>
+		<text id="compr.ccitt4" h="F89CF48C">CCITT Grup 4</text>
+		<text id="compr.jbig2" h="DE3BC257">JBIG 2</text>
+		<text id="compr.jbig2.std" h="C6DA1F99">Standart</text>
+		<text id="compr.jbig2.crop" h="089616A4">Kırpma Sınırları</text>
+		<text id="compr.jbig2.symbol" h="8EB3D116">Sembol Sıkıştırma (kayıpsız)</text>
+		<text id="conv.none" h="B58BD00F">Dönüşüm Yok</text>
+		<text id="conv.gray" h="AB87F2BA">Gri Ölçeğe Dönüştür</text>
+		<text id="conv.mono" h="CBA1AA37">Siyah Beyaza Dönüştür</text>
+		<text id="conv.bw" h="21CB967C">Siyah Beyaza Dönüştür</text>
+		<text id="down.none" h="747AEF4D">Aşağı Örnekleme Yok</text>
+		<text id="down.linear" h="A774B742">Doğrusal Aşağı Örnekleme</text>
+		<text id="down.bilinear" h="404DEC83">Çiftdoğrusal Alt Örnekleme</text>
+		<text id="down.bicubic" h="8DB42DD1">Çift Küplü Altörnekleme</text>
+		<text id="align.left" h="8CEAA299">Sol</text>
+		<text id="align.center" h="CBEFB4D0">Merkez</text>
+		<text id="align.right" h="2D8A4EE6">Sağ</text>
+		<text id="align.top" h="249A2BBD">Üst</text>
+		<text id="align.middle" h="D27F520F">Orta</text>
+		<text id="align.bottom" h="08F4AB6F">Alt</text>
+		<text id="overlay.filter" h="21DC74BD">PDF Belgeleri (* .pdf)</text>
+		<text id="overlay.title" h="74E5784A">Şablon Dosyasını Seç</text>
+		<text id="extrafile.title" h="2844ABF8">Dosya Seç</text>
+		<text id="border.type.none" h="B6C5BE05">Kenarlık Yok</text>
+		<text id="border.type.underline" h="2A187377">Altını çizmek</text>
+		<text id="border.type.rect" h="7D22CD90">Dikdörtgen</text>
+		<text id="border.style.solid" h="9C9EA9A8">Tek Parça</text>
+		<text id="border.style.dashed" h="39AEAEE8">Kesik</text>
+		<text id="border.style.dotted" h="59B655A2">Noktalı</text>
+		<text id="blendMode.mode0" h="168CFA48">Normal</text>
+		<text id="blendMode.mode1" h="2F76AE4A">Çoğaltmak</text>
+		<text id="blendMode.mode2" h="CF00816C">Ekran</text>
+		<text id="blendMode.mode3" h="F84F5CCD">Kaplama</text>
+		<text id="blendMode.mode4" h="897F3452">Karartmak</text>
+		<text id="blendMode.mode5" h="76486572">Açıklaştırmak</text>
+		<text id="blendMode.mode6" h="4BC50C39">Renk Solması</text>
+		<text id="blendMode.mode7" h="1C127744">Renk Yanması</text>
+		<text id="blendMode.mode8" h="0E4D1D58">Sabit Işık</text>
+		<text id="blendMode.mode9" h="8EBD9A0E">SoftLight</text>
+		<text id="blendMode.mode10" h="5C4C0DB6">Fark</text>
+		<text id="blendMode.mode11" h="55666E14">Hariç Tutma</text>
+		<text id="detesselation.mode0" h="F9398D7D">Yok</text>
+		<text id="detesselation.mode1" h="B05E374B">Basit</text>
+		<text id="email.method0" h="E67462E4">Varsayılan e-Posta İstemcisini Başlatın</text>
+		<text id="email.method1" h="8E35F75F">Varsayılan e-Posta İstemcisinden Gönder</text>
+		<text id="email.method2" h="D1439B34">SMTP Sunucusu ile Doğrudan Gönder</text>
+		<text id="email.mapi.title" h="10BF58CC">Alıcıları Seç</text>
+		<text id="save.smtp.auth0" h="F9398D7D">Yok</text>
+		<text id="save.smtp.auth1" h="0ACB840D">STARTTLS kullanın</text>
+		<text id="save.smtp.auth2" h="C0BEF71C">SSL / TLS kullanın</text>
+		<text id="saveType.type0" h="7E1941B5">İş Yönetimi için pdfSaver ™ kullanın</text>
+		<text id="saveType.type1" h="CA86F5C8">Geçerli İşi Son Etkin İşe Ekle</text>
+		<text id="saveType.type2" h="DA754594">Üretilen PDF Dosyasını Kaydet</text>
+		<text id="saveType.type3" h="C59E79F5">PDF, E-posta ve ardından Sil oluştur</text>
+		<text id="saveExists.type0" h="0D4B40B1">Uyarı Penceresi Göster</text>
+		<text id="saveExists.type1" h="B605C0F3">Her Zaman Üzerine Yaz</text>
+		<text id="saveExists.type2" h="A8CFCFB8">Otomatik numara</text>
+		<text id="saveExists.type3" h="1C9B2F2A">Varolanla Birleştir (Ekle)</text>
+		<text id="saveExists.type4" h="72FE1173">Varolanla Birleştir (Önce Ekle)</text>
+		<text id="saveExists.type5" h="A00336E6">Yeni dosya adı isteyin</text>
+		<text id="save.browseFolder" h="74154CC7">Elde edilen dosyaları / klasörleri saklamak için klasörü Seç.</text>
+		<text id="save.app.title" h="B6BC08CF">Uygulama Seç</text>
+		<text id="save.app.filter.exe" h="A976550E">Yürütülebilir dosya (* .exe)</text>
+		<text id="save.app.filter.all" h="EEDB8F4F">Tüm dosyalar</text>
+		<text id="hf.header" h="608B00E9">Başlık</text>
+		<text id="hf.footer" h="88C45397">Altbilgi</text>
+		<text id="hf.none" h="5D6722DD">(Yok)</text>
+		<text id="hf.pattern_0" h="962EF85B">Sayfa %1</text>
+		<text id="hf.pattern_1" h="BE4E95E1">Sayfa %1 / %2</text>
+		<text id="hf.pattern_2" h="839A130C">Gizli</text>
+		<text id="hf.pattern_3" h="CACAD862">Hazırlayan %1 %2</text>
+		<text id="bm.mode0" h="0C46ECE4">Hepsi açıldı</text>
+		<text id="bm.mode1" h="1A56CD8E">Hepsi kapalı</text>
+		<text id="bm.mode2" h="DBECA36A">Öğe tarafından tanımlanan</text>
+		<text id="bm.mode3" h="5AC6D86A">Düğüm seviyesine aç</text>
+		<text id="bm.fstyle0" h="BF452F19">Düzenli</text>
+		<text id="bm.fstyle1" h="1D8461F8">Kalın</text>
+		<text id="bm.fstyle2" h="C61EB895">İtalik</text>
+		<text id="bm.fstyle3" h="1D47AA37">Kalın-İtalik</text>
+		<text id="bm.level" h="533D38D5">Seviye %1</text>
+		<text id="encLevel.40RC" h="F45022E3">40-bit RC4 (Acrobat 3.0 ve üstü ile uyumludur)</text>
+		<text id="encLevel.128RC" h="457934B5">128-bit RC4 (Acrobat 5.0 ve üstü ile uyumludur)</text>
+		<text id="encLevel.128AES" h="FB60107D">128 bit AES (Acrobat 7.0 ve üstü ile uyumludur)</text>
+		<text id="encLevel.256AES" h="25B75256">256-bit AES (Acrobat 9.0 ve üstü ile uyumludur)</text>
+		<text id="encLevel.256AESR6" h="B4496CDA">256-bit AES R6 (Acrobat X ve üstü ile uyumludur)</text>
+		<text id="enc.changes0" h="F9398D7D">Yok</text>
+		<text id="enc.changes1" h="F5AAD140">Yalnızca Belge Derleme</text>
+		<text id="enc.changes2" h="8D9D64A1">Sadece Form Sahası Dolu veya İmzalı</text>
+		<text id="enc.changes3" h="AF018800">Yorum Yazma, Form Sahası Doldurma veya İmzalama</text>
+		<text id="enc.changes4" h="5C078DD2">Genel Düzenleme, Yorum ve Form Sahası Yazarlığı</text>
+		<text id="enc.print0" h="50D7EDBB">İzin verilmedi</text>
+		<text id="enc.print1" h="D33F1C80">Düşük Çözünürlük</text>
+		<text id="enc.print2" h="1E5C0EC1">Tamamen İzin Verildi</text>
+		<text id="spec.auto" h="471FE15D">Otomatik</text>
+		<text id="spec.13" h="E6E813F4">Sürüm 1.3 (Acrobat v3.0 ve üstü)</text>
+		<text id="spec.14" h="2543EFD8">Sürüm 1.4 (Acrobat v5.0 ve üstü)</text>
+		<text id="spec.15" h="4E5114F2">Sürüm 1.5 (Acrobat v6.0 ve üstü)</text>
+		<text id="spec.16" h="F5B1EDF8">Sürüm 1.6 (Acrobat v7.0 ve üstü)</text>
+		<text id="spec.17" h="95DB0A4E">Sürüm 1.7 (Acrobat v8.0 ve üstü)</text>
+		<text id="spec.20" h="48278906">Sürüm 2.0</text>
+		<text id="spec.pdfa.1a" h="64CF1485">PDF/A-1a</text>
+		<text id="spec.pdfa.1b" h="4FE24746">PDF/A-1b</text>
+		<text id="spec.pdfa.2a" h="767ABB6B">PDF/A-2a</text>
+		<text id="spec.pdfa.2b" h="5D57E8A8">PDF/A-2b</text>
+		<text id="spec.pdfa.2u" h="58D46C3E">PDF/A-2u</text>
+		<text id="spec.pdfa.3a" h="CEC6DC0E">PDF/A-3a</text>
+		<text id="spec.pdfa.3b" h="E5EB8FCD">PDF/A-3b</text>
+		<text id="spec.pdfa.3u" h="E0680B5B">PDF/A-3u</text>
+		<text id="page.layout.default" h="5D937A45">Görüntüleyici Varsayılanı</text>
+		<text id="page.layout.singlePage" h="39A9F056">Tek Sayfa</text>
+		<text id="page.layout.oneColumn" h="A12E03D3">Sürekli</text>
+		<text id="page.layout.twoPagesLeft" h="1B55DC78">İki Sayfa (Kapak Sayfası)</text>
+		<text id="page.layout.twoPagesRight" h="38D09B41">İki Sayfa</text>
+		<text id="page.layout.twoColumnsLeft" h="DAED5097">İki Sütun (Kapak Sayfası)</text>
+		<text id="page.layout.twoColumnsRight" h="CB1E034F">İki Sütun</text>
+		<text id="page.mode.default" h="5D937A45">Görüntüleyici Varsayılanı</text>
+		<text id="page.mode.none" h="26070E06">Yalnızca sayfa görüntüleme</text>
+		<text id="page.mode.bookmark" h="224DF1A0">Yer İşaretleri Bölmesini Göster</text>
+		<text id="page.mode.thumbnails" h="9B7F1418">Küçük Resimleri Göster</text>
+		<text id="page.mode.layers" h="5F54D2D3">Katmanlar Bölmesini Göster</text>
+		<text id="page.mode.attachments" h="97605CC5">Ek Parça Bölmesini Göster</text>
+		<text id="page.mode.fullScreen" h="3BC2E4C1">Tam ekran</text>
+		<text id="zoom.default" h="B6EF2024">Varsayılan</text>
+		<text id="zoom.actualSize" h="5E4611C5">Gerçek boyutu</text>
+		<text id="zoom.fitPage" h="E07FD6B2">Sayfaya Sığdır</text>
+		<text id="zoom.fitWidth" h="0AB6EA6C">Genişliğe Sığdır</text>
+		<text id="zoom.fitHeight" h="F9EA7C91">Yüksekliğe Sığdır</text>
+		<text id="zoom.fitVisible" h="D1A989D3">Görünürlüğe Sığdır</text>
+		<text id="trans.type.none" h="84AE3030">Geçiş Yok</text>
+		<text id="trans.type.replace" h="0AD7C04B">Değiştirmek</text>
+		<text id="trans.type.split" h="73C7987E">Bölünmüş</text>
+		<text id="trans.type.comb" h="3FC8A185">Tarak</text>
+		<text id="trans.type.blinds" h="A570ADB5">Panjur</text>
+		<text id="trans.type.box" h="39CC4033">Kutu</text>
+		<text id="trans.type.wipe" h="FC5264CC">Sil</text>
+		<text id="trans.type.dissolve" h="49B245E0">Çözünme</text>
+		<text id="trans.type.glitter" h="72796005">Parıltı</text>
+		<text id="trans.type.flyIn" h="42ABD702">Uçarak</text>
+		<text id="trans.type.flyOut" h="714AFAD0">Fırlamak</text>
+		<text id="trans.type.push" h="25987E96">Basınız</text>
+		<text id="trans.type.cover" h="4F3303D2">Kapak</text>
+		<text id="trans.type.uncover" h="62A51AE4">Ortaya çıkarmak</text>
+		<text id="trans.type.fade" h="7F6B17DC">Karartmak</text>
+		<text id="trans.type.random" h="F4885958">Rastgele</text>
+		<text id="trans.mode.horIn" h="E83EC000">Yatay Olarak</text>
+		<text id="trans.mode.horOut" h="C0AFB700">Yatay Çıkışı</text>
+		<text id="trans.mode.vertIn" h="F33AAC2D">Dikey Olarak</text>
+		<text id="trans.mode.vertOut" h="A481DB98">Dikey Çıkış</text>
+		<text id="trans.mode.hor" h="CDB47C8B">Yatay</text>
+		<text id="trans.mode.vert" h="508CF71B">Dikey</text>
+		<text id="trans.mode.in" h="E29DAE61">İçinde</text>
+		<text id="trans.mode.out" h="1643AB1A">Dışarı</text>
+		<text id="trans.mode.0" h="2D8A4EE6">Sağ</text>
+		<text id="trans.mode.45" h="F02DBFA8">Sağ yukarı</text>
+		<text id="trans.mode.90" h="2C137999">Yukarı</text>
+		<text id="trans.mode.135" h="04E1EA36">Sol Yukarı</text>
+		<text id="trans.mode.180" h="8CEAA299">Sol</text>
+		<text id="trans.mode.225" h="5F7E7454">Sol Aşağı</text>
+		<text id="trans.mode.270" h="A61C506B">Aşağı</text>
+		<text id="trans.mode.315" h="B509A0DF">Sağ aşağı</text>
+		<text id="dur.pattern" h="CEB4987D">%1 saniye</text>
+		<text id="custom.form.name" h="207D7C65">Form Adı</text>
+		<text id="custom.form.sizeMM" h="B16A29F8">Boyutu (mm)</text>
+		<text id="custom.form.sizeIN" h="E50D5298">Boyutu (inç)</text>
+		<text id="custom.form.newName" h="F1E2436C">Kullanıcı Formu</text>
+		<text id="wtm.column.title0" h="D18643E3">Adı</text>
+		<text id="wtm.column.title1" h="51CDB637">Yazıcı Açık</text>
+		<text id="wtm.column.title2" h="8693C3EA">Arka Plan Üzerinde</text>
+		<text id="wtm.column.title3" h="CD137DE4">Görülebilir:</text>
+		<text id="wtm.range.type0" h="32149646">Tüm sayfalar</text>
+		<text id="wtm.range.type1" h="C740A6A2">Sadece İlk Sayfa</text>
+		<text id="wtm.range.type2" h="3F1B0692">Sadece Son Sayfa</text>
+		<text id="wtm.range.type3" h="82B8C270">Eşleştirilmiş Sayfalar</text>
+		<text id="wtm.range.type4" h="6B7305B6">Sıradışı Sayfalar</text>
+		<text id="wtm.type.text" h="4D47FEC5">Metin Filigranı</text>
+		<text id="wtm.type.image" h="785F5EAB">Resim Filigranı</text>
+		<text id="wtm.name.untitled" h="2C821098">&lt;Başlıksız&gt;</text>
+		<text id="wtm.visibleOn.view" h="2FCBB32C">Görünüm</text>
+		<text id="wtm.visibleOn.export" h="6D360289">İhracat</text>
+		<text id="wtm.visibleOn.print" h="17CF8D0A">Yazdırma</text>
+		<text id="auto.size" h="471FE15D">Otomatik</text>
+		<text id="wtm.vis.pat1" h="C2D1C6C8">Yalnızca %1</text>
+		<text id="wtm.vis.pat2" h="811F3E2C">%1 ve%2</text>
+		<text id="wtm.vis.pat3" h="B7978C0D">%1, %2 ve%3</text>
+		<text id="sign.reason.none" h="18A77318">&lt;Yok&gt;</text>
+		<text id="sign.reason.author" h="E5EE6464">Bu belgenin yazarıyım</text>
+		<text id="sign.reason.agreePortions" h="C314149A">Bu belgede belirtilen kısımları kabul ediyorum</text>
+		<text id="sign.reason.reviewed" h="82844CFE">Bu belgeyi inceledim</text>
+		<text id="sign.reason.approving" h="B1A808AB">Bu belgeyi onaylıyorum</text>
+		<text id="sign.reason.attest" h="69264D74">Bu belgenin doğruluğunu ve bütünlüğünü kanıtlarım.</text>
+		<text id="sign.reason.agreeTerms" h="5E38C209">İmzanın bu belge üzerinde yer almasıyla tanımlanan şartları kabul ediyorum</text>
+		<text id="sign.graphic.none" h="475DB295">Grafik Yok</text>
+		<text id="sign.graphic.image" h="DF6A504B">Dosya Görüntüsü</text>
+		<text id="sign.graphic.name" h="8BFDAB3B">Grafik Olarak Adı</text>
+		<text id="cert.filter.PFX" h="57197ADC">Kişisel Bilgi Değişimi (* .pfx, * .p12)</text>
+		<text id="cert.openTitle" h="8488239C">Sertifika Dosyası Seç</text>
+		<text id="cert.saveTitle" h="3F8886F2">Sertifikayı Kaydet</text>
+		<text id="cert.usage.digisig" h="F9D0083C">Dijital İmzalar</text>
+		<text id="cert.usage.encryption" h="7DDDCF40">Veri Şifreleme</text>
+		<text id="cert.usage.both" h="E107F280">Dijital İmzalar ve Veri Şifreleme</text>
+		<text id="cert.keyAlg.1024" h="27C369E8">1024-bit RSA</text>
+		<text id="cert.keyAlg.2048" h="E707241F">2048-bit RSA</text>
+		<text id="digisig.password.header" h="96999927">Dijital Kimlik</text>
+		<text id="digisig.password.label" h="726DCB0F">Lütfen şifre giriniz:</text>
+		<text id="digisig.password.label2" h="1CCEC2FE">Girilen şifre geçersiz. Lütfen geçerli şifreyi giriniz:</text>
+		<text id="digisig.certify.DocMDP1" h="B15220D4">Değişiklik Yapılmadı</text>
+		<text id="digisig.certify.DocMDP2" h="550E66E3">Form Doldurma, İmzalama ve Şablon Sayfalarının Oluşturulmasına İzin Ver</text>
+		<text id="digisig.certify.DocMDP3" h="1BFCB157">Şablon Sayfalarının Doldurulması, İmzalanması, Yorumlanması ve Oluşturulmasına İzin Verin</text>
+		<text id="sign.by" h="CFEFFC81">%1 oranında</text>
+		<text id="dlg.lic.l1" h="D7BC993E">Yüklü lisans anahtarları:</text>
+		<text id="dlg.lic.btn.addKey" h="0F0F4E82">&amp;Yeni Seri Anahtar ekle ...</text>
+		<text id="dlg.lic.title" h="43843004">Lisans Anahtarları</text>
+		<text id="lic.User" h="7E7E6177">Kullanıcı</text>
+		<text id="lic.Email" h="EABC42C8">E-Posta</text>
+		<text id="lic.License" h="D06D20AC">Lisans</text>
+		<text id="lic.licNum" h="B97469F0">numara: %1</text>
+		<text id="lic.KeyData" h="835E068C">Anahtar Veri</text>
+		<text id="lic.daysLeftTip" h="949D0A02">BAKIM GÜNÜ KALDI</text>
+		<text id="lic.key.expDate" h="CB67C29C">Son Kullanma Tarihi</text>
+		<text id="lic.key.expDateExp" h="6FBA08FE">bakım süresi vardır</text>
+		<text id="lic.key.expDateLeft" h="604D2189">%1 bakım günü kaldı</text>
+		<text id="lic.key.state" h="E2F3ED6A">Anahtar Durumu</text>
+		<text id="lic.key.valid" h="A4519C22">GEÇERLİ</text>
+		<text id="lic.key.expired" h="F6CD9EED">SÜRESİ DOLDU</text>
+		<text id="lic.key.blocked" h="B99C4175">ENGELLENMİŞ!</text>
+		<text id="lic.key.expiredPart" h="CC7B6389">KISMEN SONA ERDİ</text>
+		<text id="lic.key.renew" h="9E0CAE70">Yenile ...</text>
+		<text id="lic.noSerialKeys" h="02AAA3DD">Yüklü lisans anahtarınız yok ...</text>
+		<text id="lic.msg.Title" h="43843004">Lisans Anahtarları</text>
+		<text id="lic.remSerial.Text" h="34FE2748">Seçilen lisans anahtarlarını kaldırmak istiyor musunuz?
+İşlem geri alınamaz.</text>
+		<text id="lic.msg.remSerial.Hdr" h="A49A7771">Lisans anahtarlarını kaldırmak için onaylayın.</text>
+		<text id="lic.msg.cpySerial.Text1" h="C7390EF4">Seçilen lisans anahtarının gövdesi Pano'ya kopyalanmıştır.</text>
+		<text id="lic.msg.cpySerial.Text2" h="24BBB950">Seçili lisans anahtarının tam açıklaması Pano'ya kopyalanmıştır.</text>
+		<text id="lic.msg.addSerial.Hdr" h="ECE08EA4">Yeni lisans anahtarı ekleme sonucu:</text>
+		<text id="lic.msg.addSerial.Text11" h="64C435DB">%1 lisans anahtarı başarıyla listenize eklendi.</text>
+		<text id="lic.msg.addSerial.Text12" h="58D1D708">%1 lisans anahtarları listenize başarıyla eklendi.</text>
+		<text id="lic.msg.addSerial.Text21" h="529FFB06">%1 lisans anahtarı listenizde zaten bulunduğu için atlandı.</text>
+		<text id="lic.msg.addSerial.Text22" h="2DA01DFD">%1 lisans anahtarları listenizde zaten bulunduğundan atlandı.</text>
+		<text id="lic.msg.addSerial.Text31" h="569F1BFD">Bu ürün için uygun olmadığından %1 lisans anahtarı filtrelendi.</text>
+		<text id="lic.msg.addSerial.Text32" h="E59ABEEE">%1 lisans anahtarları, bu ürün için uygun olmadığından filtrelendi.</text>
+		<text id="lic.msg.addSerial.Text41" h="73FF4C94">%1 lisans anahtarı atlandı, çünkü yanlış.</text>
+		<text id="lic.msg.addSerial.Text42" h="CF2052FF">Hatalı oldukları için %1 lisans anahtarları atlandı.</text>
+		<text id="lic.msg.addSerialErr.Hdr" h="443BD774">Yeni lisans anahtarı eklenemiyor.</text>
+		<text id="lic.msg.addSerialErr.Text1" h="9712BF06">Pano, geçerli lisans anahtarını içermiyor.</text>
+		<text id="lic.msg.activateErr.Hdr2" h="7134134A">Yanlış etkinleştirme parametresi.</text>
+		<text id="lic.msg.activateErr.noKey" h="914AF056">Lütfen aktivasyon anahtarını belirtin.</text>
+		<text id="lic.msg.activateErr.invKey" h="AC0C8EFB">Lütfen geçerli etkinleştirme anahtarını belirtin.</text>
+		<text id="lic.msg.activateErr.noEmail" h="425602D2">Lütfen e-posta adresinizi belirtin. Etkinleştirme işlemi için gereklidir.</text>
+		<text id="lic.msg.activateErr.invEmail" h="87A6E4BF">Belirtilen e-posta adresi yanlış gibi görünüyor.
+
+Etkinleştirme için bu adresi kullanmak istiyor musunuz?</text>
+		<text id="lic.msg.activateErr.invEmail.tip" h="BD3014C1">NOT: geçersiz veya var olmayan bir e-posta adresi belirtilirse, lisans anahtarınız gönderilmeyecektir.</text>
+		<text id="lic.Error" h="51BFF51D">Hata</text>
+		<text id="lic.Unknown2" h="769B45E0">&lt;Bilinmeyen&gt;</text>
+		<text id="lic.msg.activateErr.Hdr" h="7660B951">Etkinleştirme anahtarınız uygulanamadı.</text>
+		<text id="lic.msg.activateErr.Text1" h="82B43AB0">
+Sebep:
+
+%1
+
+Etkinleştirme anahtarınızı manuel olarak uygulamak için bu &lt;a id="1"&gt; web sayfasını &lt;/a&gt; ziyaret edebilirsiniz. Alternatif olarak lütfen daha fazla bilgi için &lt;a id="2"&gt; Destek &lt;/a&gt; ile iletişime geçebilir veya çevrimiçi &lt;a id="3"&gt; Bilgi Tabanımızı &lt;/a&gt; ziyaret edebilirsiniz.</text>
+		<text id="lic.msg.upgradeSerialErr.Hdr" h="E3C03B87">Mevcut lisans anahtarınızı güncelleyemedik.</text>
+		<text id="lic.msg.upgradeSerialErr.Text" h="32DC2043">Sebebi:
+
+%1
+
+Lisans anahtarınızı manuel olarak yükseltmek için bu &lt;a id="1"&gt; web sayfasını &lt;/a&gt; ziyaret edebilirsiniz. Alternatif olarak lütfen daha fazla bilgi için &lt;a id="2"&gt; Destek &lt;/a&gt; ile iletişime geçebilir veya çevrimiçi &lt;a id="3"&gt; Bilgi Tabanımızı &lt;/a&gt; ziyaret edebilirsiniz.</text>
+		<text id="lic.Retry" h="82619C32">&amp;Yeniden Dene</text>
+		<text id="lic.Cancel" h="3D302A38">&amp;İptal etmek</text>
+		<text id="lic.Close" h="6298A5AF">&amp;Kapat</text>
+		<text id="lic.bnt.yes" h="EDFA42B4">&amp;Evet, Şimdi Yükseltin!</text>
+		<text id="lic.bnt.later" h="BCDE8358">Şimdi değil, bir dahaki sefere tekrar sor</text>
+		<text id="lic.bnt.no" h="E1CC0F76">&amp;Hayır, ve tekrar sorma</text>
+		<text id="lic.request.header" h="996E7CF5">Lütfen lisans anahtarınızı yükseltin.</text>
+		<text id="lic.msg.request" h="42CC8ECA">Uygulamanızın bu sürümü, eski / önceki sürümünüzden yeni bir biçim lisans anahtarı gerektiriyor; bu nedenle çevrimiçi olarak yapmak ve otomatik olarak yeni formata geçmek mümkün olabilir.
+
+Bunu şimdi yapmayı denemek ister misiniz (internet bağlantısı gereklidir)?
+
+Alternatif olarak, anahtarınızı manuel olarak güncellemek için bu &lt;a id="1"&gt; web sayfasını &lt;/a&gt; ziyaret edebilir veya lütfen &lt;a id="2"&gt; Destek &lt;/a&gt; ile iletişime geçebilir veya çevrimiçi &lt;a id = "web sitemizi ziyaret edebilirsiniz. 3 "Bilgi Bankası &lt;/a&gt; ile daha fazla bilgi için ...</text>
+		<text id="lic.request_note" h="AD21560C">NOT: gözden geçirilmiş format lisans anahtarını edininceye kadar - bu uygulama yalnızca 'ÜCRETSİZ' veya değerlendirme modunda çalışır. İşbirliğiniz için teşekkürler.</text>
+		<text id="lic.actDlg.title" h="347123F6">Etkinleştirme ...</text>
+		<text id="lic.actDlg.header" h="06854D52">Lütfen adınızı ve geçerli e-posta adresinizi girin.</text>
+		<text id="lic.actDlg.msg" h="90B85877">Etkinleştirme sunucumuz gelecekteki güncellemeleri ve lisans anahtarlarını bu e-posta adresine sağlayacağından sizin tarafınızdan verilen e-posta adresinin sağlam ve geçerli olduğundan emin olun! Aktivasyon başarıyla tamamlandıktan sonra, uygulamanız sisteminizi gerekli lisans anahtarı ile otomatik olarak güncelleştirecektir.</text>
+		<text id="lic.actDlg.name" h="2F83636A">Adınız:</text>
+		<text id="lic.actDlg.email" h="6DC91F37">E-posta adresiniz:</text>
+		<text id="lic.actDlg.key" h="100602A5">Aktivasyon anahtarı:</text>
+		<text id="lic.actDlg.btn.Activate" h="83914F23">&amp;Etkinleştir</text>
+		<text id="lic.addKeyDlg.title" h="EB4CA58B">Yeni Seri / Lisans Anahtarı Ekle</text>
+		<text id="lic.addKeyDlg.tip" h="A75F4604">Lütfen yeni seri / etkinleştirme lisans anahtarını aşağıdaki metin kutusuna belirtin:</text>
+		<text id="lic.addKeyDlg.btn.Paste" h="E7F59864">Panodan Anahtarı Yapıştır</text>
+		<text id="lic.addKeyDlg.btn.Continue" h="B72C4E18">Devam et...</text>
+		<text id="lic.msg.addSerialErr.Text2" h="E821568E">Geçerli lisans anahtarını belirtmediniz.</text>
+		<text id="msg.SMTP.NoServer" h="0141A9D3">SMTP sunucusu Adı belirtilmelidir!</text>
+		<text id="msg.SMTP.Remove" h="468A2A4A">Seçilen SMPT sunucusu ayarlarını gerçekten kaldırmak istiyor musunuz?</text>
+		<text id="msg.custom.form.delete" h="D5818ABF">Bu özel formu gerçekten silmek istiyor musunuz?</text>
+		<text id="msg.custom.form.noDelete" h="96F67D4A">Yerel Makine için Yerel Yönetici tarafından tanımlanan Özel Formları değiştiremez veya silebilirsiniz.</text>
+		<text id="msg.custom.form.noName" h="F0231E7A">Özel formunuz için ad belirtmelisiniz.</text>
+		<text id="msg.custom.form.noUnique" h="D3086CF3">Özel formun adı benzersiz olmalıdır.</text>
+		<text id="msg.wtm.noTitle" h="E85415C3">Filigran başlığı boş olamaz!</text>
+		<text id="msg.wtm.invName" h="FFE6E784">Filigran başlığı noktalı virgül (;) içermemelidir.</text>
+		<text id="msg.wtm.uniqueTitle" h="ECA89E0F">Filigran başlığı benzersiz olmalı!</text>
+		<text id="msg.wtm.delete" h="18BD3007">Bu filigranı gerçekten silmek istiyor musunuz?</text>
+		<text id="msg.wtm.text" h="03F9D16D">Filigran için bir metin belirtmelisiniz.</text>
+		<text id="msg.wtm.image" h="96AAFCDF">Filigran için görüntü dosya yolu ve adını belirtmelisiniz.</text>
+		<text id="msg.tsa.delete" h="1625F779">Bu sunucu tanımını gerçekten silmek istiyor musunuz?</text>
+		<text id="msg.wrongCeritificate" h="4D7D8D33">Dijital Sertifika seçilmedi veya yanlış parametreler belirlendi.
+Değerleri düzeltmek istiyor musunuz?</text>
+		<text id="msg.DigiSig.CertExpired" h="B5B2FB97">Seçilen sertifika süresi doldu ve dijital imza için kullanılamaz.</text>
+		<text id="msg.DigiSig.CertCantSign" h="633A9F30">Seçilen sertifika dijital imza için kullanılamaz.
+Sadece veri şifreleme amaçlıdır.</text>
+		<text id="msg.PasswordDlg.title" h="23DE88B2">Parolanı Gir</text>
+		<text id="msg.NeedNameForCert" h="A9A6D514">Kendinden imzalı Dijital Kimlik oluşturmak için bir ad gereklidir.</text>
+		<text id="msg.NeedEmailForCert" h="8E4FB22F">Kendinden imzalı Dijital Kimlik oluşturmak için bir e-posta adresi gereklidir.</text>
+		<text id="msg.NeedCorrectEmailForCert" h="D7CF5B49">Lütfen geçerli bir e-posta adresi girin (örn. John@mail.com).</text>
+		<text id="msg.PasswTooShort" h="2637CEE9">Yetersiz şifre.
+Parola en az altı karakter uzunluğunda olmalıdır.</text>
+		<text id="msg.WrongConfirmPassw" h="95BA117F">Parolalar uyuşmuyor.
+Lütfen şifreyi tekrar giriniz.</text>
+		<text id="msg.pwd.empty1" h="80C72A1D">Lütfen 'Belgeyi Açmak İçin Şifre Gerekiyor' seçeneğini kaldırın veya şifreyi girin.</text>
+		<text id="msg.pwd.empty2" h="60064900">Lütfen 'İzinleri ve / veya Şifre Değiştirme İstenilen Şifre' seçeneğini kaldırın veya şifreyi girin.</text>
+		<text id="msg.pwd.equals" h="2CF348D2">Belge açma ve izinlere ilişkin şifreler aynı olamaz. Lütfen şifreler alanlarından birine farklı şifre girin.</text>
+		<text id="msg.pwd.bothEmpty" h="8C384AF0">Belge Açma Parolası veya İzin Parolası belirtilmelidir.</text>
+		<text id="msg.profile.delete" h="2A0B9CEB">Bu profili gerçekten silmek istiyor musun?</text>
+		<text id="msg.profile.apply" h="D4CD8FBF">Seçilen profili gerçekten uygulamak istiyor musunuz?</text>
+		<text id="msg.existingProfile2" h="068DA8B9">'%1' adlı profil zaten mevcut. Yeni profille üzerine yazabilir veya yeni profil için farklı bir ad kullanabilirsiniz</text>
+		<text id="msg.existingProfile3" h="9F74E185">%1' adlı profil zaten mevcut. Yeni profil için farklı bir ad kullanmanız gerekir.</text>
+		<text id="msg.digisig.selectCertificate" h="FFF5F514">Lütfen belgeyi imzalamak için sertifikayı belirtin veya 'Belgeyi dijital olarak imzala' seçeneğini kaldırın.</text>
+		<text id="msg.profile.EmptyProfileName" h="1C3A0E84">Profilin adı boş olamaz!</text>
+		<text id="msg.profile.DuplicateProfileName" h="201ADD74">Belirtilen ada sahip profil zaten var! Bu profile üzerine yazmak istiyor musunuz?</text>
+		<text id="cmd.menu.path.item0" h="8A695F02">Son Kullanılan Yol</text>
+		<text id="cmd.menu.path.item1" h="5B2DCF0F">Masaüstü</text>
+		<text id="cmd.menu.path.item2" h="98C46804">Belgelerim</text>
+		<text id="cmd.menu.path.item3" h="4D4F3E29">Resimlerim</text>
+		<text id="cmd.menu.path.item4" h="310DA860">Favoriler</text>
+		<text id="cmd.menu.path.item5" h="38694011">Temp Klasörü</text>
+		<text id="cmd.menu.path.item6" h="D255B9B2">TMP Klasör</text>
+		<text id="cmd.macro.0" h="F0E50ED7">Uygulama Adı</text>
+		<text id="cmd.macro.1" h="766660A7">Doküman Adı</text>
+		<text id="cmd.macro.2" h="87E825E6">Belge Yolu</text>
+		<text id="cmd.macro.3" h="2F1434A9">Tarih</text>
+		<text id="cmd.macro.4" h="317F717E">Yıl</text>
+		<text id="cmd.macro.5" h="11FB07AE">Ay</text>
+		<text id="cmd.macro.6" h="FEBA871A">Gün</text>
+		<text id="cmd.macro.7" h="92ED9FFA">Zaman</text>
+		<text id="cmd.macro.8" h="FF8EA365">Saat</text>
+		<text id="cmd.macro.9" h="B11BAF25">Dakika</text>
+		<text id="cmd.macro.10" h="E1793117">Saniye</text>
+		<text id="cmd.macro.11" h="0A5A0A0C">Bilgisayar adı</text>
+		<text id="cmd.macro.12" h="D8AEF468">Kullanıcı adı</text>
+		<text id="cmd.macro.13" h="88AD9A13">Sayfa numarası</text>
+		<text id="cmd.macro.14" h="4505FFA5">Sayfa sayısı</text>
+		<text id="cmd.macro.15" h="62BE4191">Ortam Değişkeni</text>
+		<text id="cmd.form.add" h="9B7E8822">&amp;Eklemek...</text>
+		<text id="cmd.form.add.tip" h="17513505">Yeni özel form ekle</text>
+		<text id="cmd.form.edit" h="26BB263A">&amp;Düzenle...</text>
+		<text id="cmd.form.edit.tip" h="6618248F">Varolan özel formu düzenleme</text>
+		<text id="cmd.form.clone" h="689435EF">Çoğaltmak</text>
+		<text id="cmd.form.clone.tip" h="06C30368">Seçilen özel formun bir kopyasını oluştur</text>
+		<text id="cmd.form.remove" h="C945AF71">&amp;Kaldır</text>
+		<text id="cmd.form.remove.tip" h="4B938AAA">Seçili özel formu kaldır</text>
+		<text id="cmd.wtm.add" h="9B7E8822">Ekleme...</text>
+		<text id="cmd.wtm.add.tip" h="09971BC5">Yeni filigran ekle</text>
+		<text id="cmd.wtm.edit" h="26BB263A">Düzenle...</text>
+		<text id="cmd.wtm.edit.tip" h="034D81D9">Mevcut filigranı düzenle</text>
+		<text id="cmd.wtm.clone" h="689435EF">Çoğaltmak</text>
+		<text id="cmd.wtm.clone.tip" h="9C040A25">Seçilen filigranın kopyasını oluştur</text>
+		<text id="cmd.wtm.remove" h="C945AF71">Kaldır</text>
+		<text id="cmd.wtm.remove.tip" h="4C4F77E8">Seçilen filigranı kaldır</text>
+		<text id="cmd.wtm.move.up" h="055499B8">Yukarı Taşı</text>
+		<text id="cmd.wtm.move.down" h="EAFA093E">Aşağı İnmek</text>
+		<text id="cmd.wtm.move.top" h="080FF561">Üste Taşı</text>
+		<text id="cmd.wtm.move.bottom" h="E0041811">Alta Taşı</text>
+		<text id="cmd.tsa.add" h="9B7E8822">Ekleme...</text>
+		<text id="cmd.tsa.add.tip" h="121573D6">Yeni zaman damgası sunucusu ekle</text>
+		<text id="cmd.tsa.edit" h="26BB263A">Düzenle...</text>
+		<text id="cmd.tsa.edit.tip" h="72EA14A0">Varolan zaman damgası sunucusunu düzenle</text>
+		<text id="cmd.tsa.clone" h="689435EF">Çoğaltmak</text>
+		<text id="cmd.tsa.clone.tip" h="1AD29189">Seçilen zaman damgası sunucusunun bir kopyasını oluştur</text>
+		<text id="cmd.tsa.remove" h="C945AF71">Kaldır</text>
+		<text id="cmd.tsa.remove.tip" h="3C28BE04">Seçilen zaman damgası sunucusunu kaldır</text>
+		<text id="cmd.tsa.move.up" h="055499B8">Yukarı Taşı</text>
+		<text id="cmd.tsa.move.down" h="EAFA093E">Aşağı İnmek</text>
+		<text id="cmd.tsa.move.top" h="080FF561">Üste Taşı</text>
+		<text id="cmd.tsa.move.bottom" h="E0041811">Alta Taşı</text>
+		<text id="cmd.rule.add" h="9B7E8822">Ekleme...</text>
+		<text id="cmd.rule.add.tip" h="DFDB4A9B">Yeni sürücü modu kuralı ekle</text>
+		<text id="cmd.rule.edit" h="26BB263A">Düzenle...</text>
+		<text id="cmd.rule.edit.tip" h="D4A24586">Mevcut öğeyi görüntüle / değiştir</text>
+		<text id="cmd.rule.remove" h="C945AF71">Kaldır</text>
+		<text id="cmd.rule.remove.tip" h="6CEDB37A">Seçilen öğeyi kaldır</text>
+		<text id="cmd.textStyle.bold" h="1D8461F8">Kalın</text>
+		<text id="cmd.textStyle.bold.tip" h="F2DE3410">Seçili metni kalın yapar.</text>
+		<text id="cmd.textStyle.italic" h="C61EB895">İtalik</text>
+		<text id="cmd.textStyle.italic.tip" h="F196A5E2">Seçilen metni italikleştirin.</text>
+		<text id="cmd.textStyle.underline" h="2A187377">Altını çizmek</text>
+		<text id="cmd.textStyle.underline.tip" h="1D57F33C">Seçilen metnin altını çizin.</text>
+		<text id="cmd.textStyle.strikeOut" h="905D7C0F">Üstü çizili</text>
+		<text id="cmd.textStyle.strikeOut.tip" h="486E2331">Seçili metnin ortasından bir çizgi çizin.</text>
+		<text id="cmd.textStyle.superScript" h="48E13B49">Üst simge</text>
+		<text id="cmd.textStyle.superScript.tip" h="502CDB9F">Metin satırının üzerinde küçük harfler oluşturun.</text>
+		<text id="cmd.textStyle.subScript" h="C13D1308">Alt simge</text>
+		<text id="cmd.textStyle.subScript.tip" h="83378A49">Metin taban çizgisinin altında küçük harfler oluşturun.</text>
+		<text id="cmd.textStyle.clear" h="D1756ADB">Metin Biçimlendirmeyi Temizle</text>
+		<text id="cmd.textStyle.clear.short" h="48BD8C4E">Stili Temizle</text>
+		<text id="cmd.textStyle.clear.tip" h="37581125">Temiz metin biçimlendirme.</text>
+		<text id="cmd.text.hyphenate" h="9D162E6F">Metni Tirelemek</text>
+		<text id="cmd.text.hyphenate.short" h="59DF3C8C">Tire Koymak</text>
+		<text id="cmd.text.hyphenate.tip" h="3B30FFB2">Metni tireleyin.</text>
+		<text id="cmd.text.paraSettings" h="0161553A">Paragraf...</text>
+		<text id="cmd.text.paraSettings.tip" h="A9CB27EC">Paragraf ayarları penceresini göster, çizgi ve metin boşlukları, girinti, hizalama, vb değiştirmek.</text>
+		<text id="cmd.textDirection.LTR" h="83A2917C">Soldan sağa</text>
+		<text id="cmd.textDirection.LTR.tip" h="2E2C0505">Soldan Sağa metin yönünü ayarlayın.</text>
+		<text id="cmd.textDirection.RTL" h="DA7AD5D4">Sağdan sola</text>
+		<text id="cmd.textDirection.RTL.tip" h="75BC97C1">Sağdan Sola metin yönünü ayarlayın.</text>
+		<text id="cmd.noProps" h="EB52FA55">Hayır Özellikleri</text>
+		<text id="cmd.noProps.tip" h="2C064E7D">Şu anda özellikli hiçbir nesne seçilmemiştir.</text>
+		<text id="cmd.profile.edit" h="26BB263A">Düzenle...</text>
+		<text id="cmd.profile.edit.tip" h="983E6A15">Mevcut profili düzenle</text>
+		<text id="cmd.profile.clone" h="689435EF">Çoğaltmak</text>
+		<text id="cmd.profile.clone.tip" h="9AAD99F9">Seçilen profilin kopyasını oluştur</text>
+		<text id="cmd.profile.remove" h="C945AF71">Kaldır</text>
+		<text id="cmd.profile.remove.tip" h="02D435F9">Seçilen profili kaldır</text>
+		<text id="cmd.profile.import" h="0FE6AAE6">İçeri Alma</text>
+		<text id="cmd.profile.import.tip" h="C1B5CBD1">Profili dosyadan içe aktarma</text>
+		<text id="cmd.profile.export" h="02819881">Dışa Aktarma</text>
+		<text id="cmd.profile.export.tip" h="8D4C4AE3">Seçilen profili dışa aktar</text>
+		<text id="cmd.help.help" h="1DDADC82">Ürün Yardımı</text>
+		<text id="cmd.help.home" h="09F653F5">Ana Sayfa</text>
+		<text id="cmd.help.support" h="FA313F31">Destek Forumu</text>
+		<text id="cmd.help.checkForUpdates" h="B4EF7EF3">Güncellemeleri kontrol et</text>
+		<text id="page.paper.name" h="4079C816">Kâğıt</text>
+		<text id="page.paper.title" h="BD068256">Kâğıt Ayarları</text>
+		<text id="page.customForm.name" h="4902546D">Özel formlar</text>
+		<text id="page.customForm.title" h="740C73DF">Özel Form Ayarları</text>
+		<text id="page.general.name" h="30673BCD">Genel</text>
+		<text id="page.general.title" h="37CF7747">Genel Ayarlar</text>
+		<text id="page.graphics.name" h="63B3B423">Grafik</text>
+		<text id="page.graphics.title" h="C43D547E">Grafik Ayarları</text>
+		<text id="page.compression.name" h="A7C57E10">Sıkıştırma</text>
+		<text id="page.compression.title" h="0A4F2829">Sıkıştırma Ayarları</text>
+		<text id="page.fonts.name" h="B72149DB">Yazı tipleri</text>
+		<text id="page.fonts.title" h="50207349">Yazı Tipi Katıştırma Seçenekleri</text>
+		<text id="page.links.name" h="6E16975C">Bağlantılar</text>
+		<text id="page.links.title" h="4B8634B3">Bağlantılar Ayarları</text>
+		<text id="page.docInfo.name" h="3564CAE4">Belge Bilgisi</text>
+		<text id="page.docInfo.title" h="8E6BE160">Belge Bilgisi</text>
+		<text id="page.headers.name" h="5ECD7CD4">Başlıkları / Altbilgileri</text>
+		<text id="page.headers.title" h="261FD71E">Üstbilgi ve Altbilgi Ayarları</text>
+		<text id="page.append.name" h="F84FF456">Varsayılan dosya ekleme</text>
+		<text id="page.append.title" h="D1438457">Ek Dosya Ekle/ekleme seçenekleri</text>
+		<text id="page.bookmarks.name" h="E2032460">Yer İşaretleri</text>
+		<text id="page.bookmarks.title" h="637228AD">Yer İşaretleri Ayarları</text>
+		<text id="page.overlay.name" h="59427459">Kaplamalar</text>
+		<text id="page.overlay.title" h="7E41B81E">Yerleşim Ayarları</text>
+		<text id="page.email.name" h="0BFBFB66">E-Posta</text>
+		<text id="page.email.title" h="D154F309">E-Posta Ayarları</text>
+		<text id="page.save.name" h="B120B787">Kaydet</text>
+		<text id="page.save.title" h="94A844CD">Ayarları Kaydet</text>
+		<text id="page.security.name" h="8292AF02">Güvenlik</text>
+		<text id="page.security.title" h="DEDCAAE8">Belge Güvenliği</text>
+		<text id="page.watermarks.name" h="9EC3F447">Filigranlar</text>
+		<text id="page.watermarks.title" h="1EABC5DE">Filigran Ayarları</text>
+		<text id="page.optimization.name" h="32F54CF2">Optimizasyon</text>
+		<text id="page.optimization.title" h="638FC2A7">Optimizasyon Ayarları</text>
+		<text id="page.languages.name" h="C41449B2">Diller</text>
+		<text id="page.languages.title" h="D5C43A44">Kullanıcı Arayüzü Dilini Seç</text>
+		<text id="about.copyright" h="959E18E0">Copyright © 2001-2017 by &lt;a=1&gt; Tracker Yazılım Ürünleri (Kanada) Ltd, &lt;/a&gt;
+PO Box 79, 9622, Chemainus Rd, Chemainus, BC. V0R 1K0 - Tüm Hakları Saklıdır.</text>
+		<text id="about.credits" h="28592C00">Diğer Tüm Ticari Markalar / Telif Hakları kabul edilmiş ve ilgili sahiplerinin mülkiyetindedir:
+• Zlib Mark Adler ve Jean-Loup Gailly,
+• Marti Maria'nın küçük CMS'si ve IPG © 1991-98.
+• Freetype2, David Turner, Robert Wilhelm ve Werner Lemberg © 1996-2001, 2006
+• Tesseract OCR Motoru. Başlangıçta Hewlett Packard Laboratories Bristol ve Hewlett-Packard Co, Greeley Colorado'da geliştirildi,
+       bu dağıtımdaki tüm kodlar artık Apache Lisansı kapsamında lisanslanmıştır.</text>
+		<text id="about.help" h="6887DFB0">Yardım</text>
+		<text id="about.reg" h="05BF124F">Kayıt</text>
+		<text id="about.version" h="52344715">Sürüm: &lt;b&gt;%1 &lt;/b&gt; (Yapı &lt;b&gt;%2 &lt;/b&gt;)%3 %4</text>
+		<text id="above" h="09C2601E">Yukarıdaki resimler için:</text>
+		<text id="bk.asTitle" h="513216FA">&amp;Belge Başlığını Yer İşaretleri Kökü Olarak Kullan</text>
+		<text id="bk.disp.color" h="02977B17">Renk:</text>
+		<text id="bk.disp.state" h="EE1B645B">Durum:</text>
+		<text id="bk.disp.style" h="AEC0CE33">Stil:</text>
+		<text id="bk.enable" h="F09B2FCA">&amp;Otomatik Yer İmi Algılamasını Etkinleştir</text>
+		<text id="bk.g.title" h="1492312B">Algılama Seçenekleri</text>
+		<text id="bk.g1.title" h="1366B304">Şablon</text>
+		<text id="bk.g3.title" h="1B201DEF">Görüntüleme seçenekleri</text>
+		<text id="bk.load" h="96130CAB">&amp;Yük...</text>
+		<text id="bk.match" h="85EA08AA">Seviyeden Bağımsız Olarak Eşleme Düğümü</text>
+		<text id="bk.multi" h="B5D3268E">&amp;Çok Satır Yer İşaretlerine İzin Ver</text>
+		<text id="bk.dispMode" h="5CA46335">Ekran Modu:</text>
+		<text id="bk.Level" h="AEA169E8">Seviye</text>
+		<text id="bk.opened" h="ECDD3B81">Açıldı</text>
+		<text id="bk.save" h="46DCCD20">&amp;Kaydet...</text>
+		<text id="bk.use.color" h="37314879">&amp;Renk:</text>
+		<text id="bk.use.font" h="6196C38F">&amp;Yazı tipi:</text>
+		<text id="bk.use.size" h="2519C487">Boyut:</text>
+		<text id="bk.use.style" h="9B66FD5D">&amp;Stil:</text>
+		<text id="btn.browse2" h="FF1DC93F">Seçme ...</text>
+		<text id="btn.browse3" h="0BAC1EBD">Araştır...</text>
+		<text id="btn.edit" h="26BB263A">&amp;Düzenle...</text>
+		<text id="btn.new" h="F41C4AA5">&amp;Yeni...</text>
+		<text id="btn.reset" h="E704BDE1">Sıfırla</text>
+		<text id="btn.macro" h="A202F8D8">Makro</text>
+		<text id="compr.cb.compr.ascii" h="2A016E94">&amp;ASCII biçimi (Daha Büyük Dosya)</text>
+		<text id="compr.cb.compr.graphics" h="ED1F20CB">Sıkıştır &amp; Grafik</text>
+		<text id="compr.cb.compr.text" h="0FDBEC91">Sıkıştır &amp; Yaz</text>
+		<text id="compr.cb.use.high" h="E8B25BAD">&amp;Kullanarak Sıkıştır:</text>
+		<text id="compr.cb.use.indexed" h="5622CD17">Sıkıştır ve Kullan:</text>
+		<text id="compr.cb.use.mono" h="6E7D9ACB">Kullanarak Sıkıştır:</text>
+		<text id="compr.g.general" h="30673BCD">Genel</text>
+		<text id="compr.g.high" h="99D510D5">Yüksek Renkli / Gri Ölçekli Resimler</text>
+		<text id="compr.g.indexed" h="FE837B06">Dizinlenmiş Resimler</text>
+		<text id="compr.g.mono" h="19F5498E">Siyah-Beyaz Resimler</text>
+		<text id="compr.l.jbig2" h="D06E637F">JBIG2 Yöntemi:</text>
+		<text id="compr.l.jpeg" h="C63A5BAE">JPEG ve Kalite:</text>
+		<text id="cust.add" h="56C98524">Ekle - &amp;&gt;</text>
+		<text id="cust.l.avpages" h="E7B700F9">Mevcut Sayfalar:</text>
+		<text id="cust.l.height" h="ABCFFD24">&amp;Yükseklik:</text>
+		<text id="cust.l.vispages" h="67E2B616">Görünür Sayfalar:</text>
+		<text id="cust.remove" h="DE318D1F">&amp; &lt;- Kaldır</text>
+		<text id="custform.g1.title" h="567B3029">Özel Form ve İsim:</text>
+		<text id="custform.g2.title" h="3E43518D">Özel Form Boyutu Boyutları</text>
+		<text id="custform.g3.title" h="AA174316">Birimler</text>
+		<text id="custform.l.width" h="B061B0AB">&amp;Genişlik:</text>
+		<text id="dlg.AddCustomForm" h="B88CFE3B">Özel Form Ekle / Düzenle</text>
+		<text id="dlg.AddMode" h="CBEDEC17">Sürücü Modunu Ekle / Düzenle</text>
+		<text id="dlg.AddMode.app.cue" h="696733B2">Örneğin. winword.exe</text>
+		<text id="dlg.AddWatermark" h="F5059D91">Filigran Ekle / Düzenle</text>
+		<text id="dlg.Customize" h="E3787BF8">Özelleştirmek</text>
+		<text id="dlg.CustomizeHF" h="B562B8E4">Özelleştirmek...</text>
+		<text id="dlg.DigiSig" h="B472008F">Dijital İmza</text>
+		<text id="dlg.ManageMode" h="18A54865">Sürücü Modu Kuralları</text>
+		<text id="dlg.ManageMode.defLabel" h="533A5A8B">&amp;Varsayılan sürücü modu:</text>
+		<text id="dlg.ManageMode.g1.title" h="16A3DE48">Mevcut Kurallar</text>
+		<text id="dlg.ManageMode.g2.title" h="B6EF2024">Varsayılan</text>
+		<text id="dlg.ManageProfiles" h="CED5F01E">Profiller Yöneticisi</text>
+		<text id="dlg.ProfileInfo" h="61A918CC">Profil Ekle / Düzenle</text>
+		<text id="dlg.SMTP" h="BE9019DD">SMTP Sunucusu Ekle / Düzenle</text>
+		<text id="dlg.editTSA" h="F88151A4">Zaman Damgası Sunucusu</text>
+		<text id="dlg.manageTSA" h="E2652235">Zaman Damgası Sunucuları Listesi</text>
+		<text id="dlg.newCertificate" h="15B8205F">Kendinden İmzalı Dijital Kimlik Oluşturun</text>
+		<text id="dnc.description" h="0065C015">Kendinden imzalı bir Dijital Kimliğin oluşturulması, bir PDF belgesini dijital olarak imzalamanın maliyetsiz bir yolunu sağlar, ancak bu, üçüncü taraf doğrulamasını gerektiren durumlar için uygun olmayabilir.</text>
+		<text id="dnc.file" h="DC86E810">Yeni PKCS # 12 Dijital Kimlik ve Dosya</text>
+		<text id="dnc.g1.title" h="608B6BF2">Dijital Kimlik Özellikleri</text>
+		<text id="dnc.g2.title" h="D4279166">Kendinden imzalı Dijital Kimliğinizi nerede saklamak istersiniz?</text>
+		<text id="dnc.l.alg" h="E01D59D2">Anahtar ve Algoritması:</text>
+		<text id="dnc.l.confirm" h="AB328CBA">Şifreyi Onayla:</text>
+		<text id="dnc.l.country" h="85808648">İl/Bölge:</text>
+		<text id="dnc.l.email" h="BF27CB5F">E-Posta Adresi:</text>
+		<text id="dnc.l.name" h="09FAD31D">Adı:</text>
+		<text id="dnc.l.org" h="620DF5BE">Kuruluş Adı:</text>
+		<text id="dnc.l.pass" h="7FAD5B01">Parola:</text>
+		<text id="dnc.l.pkcs12" h="543A3DAB">Standart PKCS # 12 biçimini kullanan yeni bir parola korumalı dijital kimlik dosyası oluşturur. Bu yaygın dijital kimlik dosyası formatı, büyük web tarayıcıları da dahil olmak üzere birçok güvenlik yazılımı uygulaması tarafından desteklenir. PKCS # 12 dosyalarının bir .pfx veya .p12 dosya uzantısı var.</text>
+		<text id="dnc.l.system" h="F767B01F">Dijital kimliğiniz Windows® Sertifika Mağazasında saklanır ve burada diğer Windows® uygulamalarıyla da kullanılabilir. Dijital kimlik Windows oturumunuz tarafından korunacaktır.</text>
+		<text id="dnc.l.unit" h="82F8B8FF">Organizasyon ve Birim:</text>
+		<text id="dnc.l.usage" h="8B979C65">Kullanım ve Dijital Kimlik İçin:</text>
+		<text id="dnc.system" h="8D7E75D6">Windows Sertifika Deposu</text>
+		<text id="docinfo.ask" h="BF944220">Yazdırma Başlamasında Belge Bilgilerini İsteyin</text>
+		<text id="docinfo.author" h="1737C813">Yazar:</text>
+		<text id="docinfo.creator" h="1B812E77">&amp;Oluşturan:</text>
+		<text id="docinfo.enable" h="F0A9B0E7">&amp;Belgeye Ek Bilgi Yerleştirme</text>
+		<text id="docinfo.g.title" h="E96E93B9">PDF Bilgisi</text>
+		<text id="docinfo.keywords" h="70561097">&amp;Anahtar Kelimeler:</text>
+		<text id="docinfo.producer" h="AE772588">&amp;Yapımcı:</text>
+		<text id="docinfo.subject" h="F6AB0643">&amp;Konu:</text>
+		<text id="docinfo.title" h="A6AB0B5B">&amp;Başlık:</text>
+		<text id="docinfo.xmp" h="0DF53689">XMP ve Meta Verileri Belgeye Ekle</text>
+		<text id="ds.cb.date" h="6D57473E">Tarih</text>
+		<text id="ds.cb.dname" h="F9ABD1CE">Özel Adı:</text>
+		<text id="ds.cb.labels" h="4BA63161">Etiketler</text>
+		<text id="ds.cb.location" h="52D95020">Konum</text>
+		<text id="ds.cb.logo" h="EB08AA01">Arka planda logo</text>
+		<text id="ds.cb.name" h="63FE3EDE">Adı</text>
+		<text id="ds.cb.reason" h="11BD8A6E">Neden</text>
+		<text id="ds.cb.subject" h="8D5A19C4">Konu</text>
+		<text id="ds.create" h="BB3716B9">Sertifika oluşturma ...</text>
+		<text id="ds.g1.title" h="96999927">Dijital kod</text>
+		<text id="ds.g2.title" h="AEE125D6">Ayrıntılar</text>
+		<text id="ds.g4.title" h="EFFDDE78">Görünüm</text>
+		<text id="ds.g5.title" h="0C13107E">Pozisyon</text>
+		<text id="ds.img.cue" h="51846090">&lt;simgesini tıklayın ve resim dosyasını seçin&gt;</text>
+		<text id="ds.l.contact" h="A8B0C056">Bize ulaşın. Bilgi:</text>
+		<text id="ds.l.graphic" h="880A621F">Grafik</text>
+		<text id="ds.l.height" h="EF61EFBD">Yükseklik</text>
+		<text id="ds.l.hoffset" h="DF4C107F">Yatay Ofset.</text>
+		<text id="ds.l.issued" h="B245A018">İmzaladı:</text>
+		<text id="ds.l.location" h="C9265ABC">Yer:</text>
+		<text id="ds.l.perms" h="65731FF3">Çözünürlük:</text>
+		<text id="ds.l.reason" h="9BA10106">İmza sebebi:</text>
+		<text id="ds.l.useFile" h="7EA982B8">Dosya</text>
+		<text id="ds.l.voffset" h="ACE5B906">Dikey Ofset.</text>
+		<text id="ds.l.width" h="85C783C5">Genişlik:</text>
+		<text id="ds.l.page" h="660A3F38">Sayfa</text>
+		<text id="ds.lastPage" h="6362BC4B">Son sayfada</text>
+		<text id="ds.useFile" h="664F560D">Dosyadan sertifika kullanın</text>
+		<text id="ds.useSystem" h="B064DE08">Sistem deposundan bir sertifika kullanma</text>
+		<text id="ds.view" h="BE4DE4A8">Sertifikayı görüntüle ...</text>
+		<text id="ds.visible" h="D0D758F9">Belirtilen yerde görünür bir imza yerleştirin</text>
+		<text id="email.method" h="6900EC9A">Yöntem:</text>
+		<text id="email.bcc" h="545EB298">&amp;Gizli:</text>
+		<text id="email.cc" h="45106A78">&amp;Cc:</text>
+		<text id="email.content" h="64D3C808">&amp;İçerik:</text>
+		<text id="email.enable" h="BA8783C7">Oluşturulan Belgeyi e-Mail &amp; Ek dosya olarak gönder</text>
+		<text id="email.from" h="60652CC5">&amp;Gönderen:</text>
+		<text id="email.props" h="61B2B055">E-Posta Özellikleri</text>
+		<text id="email.server" h="74EFFD0D">&amp;Sunucu:</text>
+		<text id="email.smtp" h="28F504E2">SMTP Özellikleri</text>
+		<text id="email.subject" h="7E069DE3">&amp;Konu:</text>
+		<text id="email.to" h="1115E7E3">&amp;Kime:</text>
+		<text id="email.zip" h="5480212A">&amp;ZIP Arşivindeki Belgeyi Gönder</text>
+		<text id="extra.append" h="C3DCB52D">&amp;Çıktıyı bir PDF dosyasıyla ekle</text>
+		<text id="extra.f.append" h="FB213381">Dosya:</text>
+		<text id="extra.f.prepend" h="02945BF9">&amp;Dosya:</text>
+		<text id="extra.g1.title" h="A505B373">Belgeyi önüne ekle</text>
+		<text id="extra.g2.title" h="0491DF99">Belge ekle</text>
+		<text id="extra.p.append" h="7FAD5B01">Parola:</text>
+		<text id="extra.p.prepend" h="6975636F">Parola:</text>
+		<text id="extra.prepend" h="D317ECC5">Çıktıyı bir PDF dosyasıyla ön ek</text>
+		<text id="fonts.all" h="10AA37DF">Tüm Fontları Göm ve Kullan</text>
+		<text id="fonts.always" h="F963BAE8">Daima Fontları Göm:</text>
+		<text id="fonts.extra" h="CC2E563C">Genişletilmiş Yazı Tipi / Karakter Bilgisi Göm</text>
+		<text id="fonts.l.available" h="EE0273C3">Kullanılabilir Yazı Tipleri:</text>
+		<text id="fonts.never" h="98D18B9F">Asla Fontları Gömme:</text>
+		<text id="fonts.protected" h="3442F300">Gömme ve Korumalı Fontları Zorla</text>
+		<text id="fonts.subset" h="EAA9617B">Kullanılan karakter yüzdesi şu değerden azsa, yalnızca bir yazı tipi kümesi yerleştirin:</text>
+		<text id="fonts.temp" h="B4A64053">Gömme ve Geçici Fontları Zorla</text>
+		<text id="gen.center" h="36B29C58">Merkez Doküman Penceresi</text>
+		<text id="gen.docTitle" h="20B838ED">Windows Başlık Çubuğunda Belge Başlığını Göster</text>
+		<text id="gen.g1.title" h="F4A99A40">PDF Şartnamesi</text>
+		<text id="gen.g2.title" h="BE761DF7">Doküman Açıldığında</text>
+		<text id="gen.g3.title" h="99033ADB">Geçiş</text>
+		<text id="gen.g4.title" h="FC8108D3">Görüntüleyici Tercihleri</text>
+		<text id="gen.hideMenu" h="F0C440A1">Menü Çubuğunu Gizle</text>
+		<text id="gen.hideToolbars" h="54F815A4">Araç Çubuklarını Gizle</text>
+		<text id="gen.hideUI" h="A2A6D4A8">Belgenin Pencere ve Kullanıcı Arabirimi Öğelerini Gizle</text>
+		<text id="gen.l.fullscreen" h="094D1D93">Tam Ekran Sayfa Modu:</text>
+		<text id="gen.l.layout" h="B301889D">Sayfa Düzeni:</text>
+		<text id="gen.l.mode" h="710B6344">Sayfa Modu:</text>
+		<text id="gen.l.page" h="109582AA">Sayfaya Aç:</text>
+		<text id="gen.l.pdur" h="4463DE4F">Sayfa Süresi:</text>
+		<text id="gen.l.spec" h="439D58B3">Şartnameye Uygunluk:</text>
+		<text id="gen.l.tdur" h="6CB2A5F3">Geçiş süresi:</text>
+		<text id="gen.l.tmode" h="D1B57A88">Geçiş Modu:</text>
+		<text id="gen.l.ttype" h="289DA88B">Geçiş Tipi::</text>
+		<text id="gen.l.zoom" h="362EEF1A">Büyütme:</text>
+		<text id="gen.resize" h="60879BE7">Dokümanı, Birinci Sayfanın Boyutuna Sığacak Şekilde Boyutlandır</text>
+		<text id="graph.l.threshold" h="B2FADA6C">Eşik:</text>
+		<text id="graph.use.dither" h="3FA24F74">Renk Taklidi Kullan</text>
+		<text id="hf.enable" h="C8410A02">&amp;Üstbilgi ve Altbilgi Belge Sayfalarına Ekle</text>
+		<text id="hf.foot" h="ECBC4A48">&amp;Altbilgi:</text>
+		<text id="hf.g1.title" h="5244D472">Başlık ve Altbilgi</text>
+		<text id="hf.g2.title" h="DAD7B4F4">Seçenekler</text>
+		<text id="hf.g3.title" h="62C950A2">Kenar boşlukları</text>
+		<text id="hf.head" h="AF62F631">&amp; Başlık:</text>
+		<text id="hf.l.bottom" h="83BFDBE3">&amp;Alt:</text>
+		<text id="hf.l.first" h="459E6554">İlk Sayfa Numarası:</text>
+		<text id="hf.l.left" h="0B27CDE3">&amp;Ayrıldı:</text>
+		<text id="hf.l.right" h="C896EA9F">&amp;Sağ:</text>
+		<text id="hf.l.top" h="DBE4B23E">&amp;Üst:</text>
+		<text id="hf.units" h="A29BF002">Birimler</text>
+		<text id="hf.customize1" h="B562B8E4">Özelleştirme...</text>
+		<text id="hf.customize2" h="B562B8E4">Özelleştirme...</text>
+		<text id="links.check" h="572D738F">Dosyaları Var Olan Bağlantılar İçin Kontrol Edin</text>
+		<text id="links.detect" h="BADAE078">Dosya Adlarını Bul ve PDF Bağlantılarına Dönüştür</text>
+		<text id="links.enable" h="88E82DA8">Baskılı Metinde URL'leri Analize Et</text>
+		<text id="links.local" h="8C690B8E">Yerel dosyalar</text>
+		<text id="links.options" h="4A56A155">Bağlantı Seçenekleri</text>
+		<text id="links.border.type" h="F1E3B439">Kenarlık Tipi</text>
+		<text id="links.border.color" h="20E74546">Kenar Rengi</text>
+		<text id="links.border.style" h="8CB0F062">Kenarlık Stili</text>
+		<text id="links.border.width" h="A7B7BD94">Kenar Genişliği</text>
+		<text id="links.l.example" h="1F37513E">Örnek:</text>
+		<text id="mail.smtp" h="E2F8F5FC">SMTP sunucusu</text>
+		<text id="mail.smtp.pass" h="7FAD5B01">Parola:</text>
+		<text id="mail.smtp.port" h="3F32F0C0">Bağlantı noktası:</text>
+		<text id="mail.smtp.portDef" h="ED26CC87">Varsayılan:%1</text>
+		<text id="mail.smtp.security" h="AF0F4585">Bağlantı ve Güvenlik:</text>
+		<text id="mail.smtp.serverAuthent" h="89DD97BE">Sunucu ve Kimlik Doğrulama Gerektirir</text>
+		<text id="mail.smtp.serverName" h="BD084E34">Sunucu adı:</text>
+		<text id="mail.smtp.serverNameCue" h="BE98874E">Örnek: smtp.example.com</text>
+		<text id="mail.smtp.userName" h="6901D750">&amp;Kullanıcı adı:</text>
+		<text id="lang.l.select" h="8E26C53F">Tercih edilen arabirim dilini seçin:</text>
+		<text id="lang.l.more" h="2E2CCD84">&lt;a=1&gt;Daha fazla dil...&lt;/a&gt;</text>
+		<text id="lang.btn.asDefault" h="DFA4AF2F">Varsayılan olarak ayarla</text>
+		<text id="opt.grayAsRGB" h="BE6DCABB">RGB Renk Alanına Gri Tonlamalı Palet Yazma</text>
+		<text id="opt.l.blend" h="5C764562">&amp;Harmanlama İşlemi:</text>
+		<text id="opt.l.detess" h="04F08091">&amp;Desensizlik Yöntemi:</text>
+		<text id="opt.masked" h="6970012F">Maskelenmiş Resimleri Kullanın</text>
+		<text id="opt.g1" h="DAD7B4F4">Seçenekler</text>
+		<text id="opt.mbytes" h="E03A7614">MBytes</text>
+		<text id="opt.optImages" h="0E1D0448">Görüntülerin ve Dizilerin Optimizasyonunu Etkinleştir</text>
+		<text id="opt.swap" h="305C86AE">Disk Görüntüleri Daha Büyükten Takas Et:</text>
+		<text id="opt.transp" h="994F0333">Şeffaf Çizim Kullan</text>
+		<text id="ove.l.file" h="5690D310">Örtücü Dosya:</text>
+		<text id="over.enable" h="5AE47AAE">&amp;Varolan bir PDF Dosyası ile kaplama</text>
+		<text id="over.extra" h="EC77115A">&lt;a=1&gt; eklenmiş ek belgeler tarafından eklenen yer paylaşımlı sayfalar &lt;/a&gt;</text>
+		<text id="over.fit" h="3BA1739C">Yerleşim Sayfalarını Yeni Oluşturulan Belge Sayfalarına Sığdır</text>
+		<text id="over.foreground" h="CC9518F1">Örtücül Dosyayı Önplan olarak Yerleştir</text>
+		<text id="over.keep" h="A4D6664D">En-boy oranını koru</text>
+		<text id="over.l.align" h="78726E92">Yerleşim Sayfalarını Yeni PDF Belgelerine Göre Hizala:</text>
+		<text id="over.l.hor" h="080F71A2">&amp;Yatay olarak:</text>
+		<text id="over.l.pass" h="3B996C2A">&amp;Korumalı dosyayı açmak için Şifre:</text>
+		<text id="over.l.vert" h="DD066115">&amp;Dikey olarak:</text>
+		<text id="over.pos" h="E9C070C5">Pozisyonlar</text>
+		<text id="over.repeat" h="18BFF1DB">Tekrar Seçenekler</text>
+		<text id="over.repeat.cont" h="7A290673">Kısaltılmış Şablon Dosyasının Sürekli Tekrarı</text>
+		<text id="over.repeat.last" h="B744CD52">Daha Kısa Kaplama Dosyasının Tekrarı ve Son Sayfası</text>
+		<text id="over.repeat.none" h="6361EAE7">Tekrarlama Yok</text>
+		<text id="papList.label" h="5BB50205">Kullanılabilir özel formlar:</text>
+		<text id="paper.c.borders" h="872135AE">Sayfaları Yazdırma Sınırları</text>
+		<text id="paper.cb.center" h="CBEFB4D0">Merkez</text>
+		<text id="paper.cb.fit" h="9078F779">Uygun Ölçek</text>
+		<text id="paper.cb.scale" h="A256041E">Ölçekleme</text>
+		<text id="paper.g1" h="021E871D">Sayfa Boyutu</text>
+		<text id="paper.g2" h="6DD64EA1">Grafik</text>
+		<text id="paper.g3" h="A9BCB1A8">Düzen</text>
+		<text id="paper.g4" h="D92FF225">Gelişmiş Yazdırma Seçenekleri</text>
+		<text id="paper.l.booklettype" h="E40660F9">Kitapçık Türü:</text>
+		<text id="paper.l.gutter" h="453C4022">Oluk Boyutu:</text>
+		<text id="paper.l.ltype" h="7E455932">Yerleşim Türü:</text>
+		<text id="paper.l.margins" h="07DCB677">&amp;Marjı:</text>
+		<text id="paper.l.nup" h="A6078989">Sayfa Başına Sayfa:</text>
+		<text id="paper.l.orientation" h="F5C1FFB9">&amp;Oryantasyon:</text>
+		<text id="paper.l.pageOrder" h="4415E37B">Sayfa Sırası:</text>
+		<text id="paper.l.position" h="C87B8489">Pozisyon</text>
+		<text id="paper.l.scale" h="C4EC7E3C">Ölçek:</text>
+		<text id="paper.l.sheets" h="3C8E1D5A">İmzalı Levhalar:</text>
+		<text id="paper.l.sheetsize" h="A2557222">Kağıt Ebadı:</text>
+		<text id="paper.l.size" h="E1908ECB">Boyut:</text>
+		<text id="paper.l.ssize" h="E1908ECB">Boyut:</text>
+		<text id="paper.l.resolution" h="4103E512">Çözünürlük</text>
+		<text id="paper.mirror.x" h="C5289BB7">X ekseni tarafından yansıtma</text>
+		<text id="paper.mirror.y" h="5E8DD7D8">Y ekseni tarafından yansıtma</text>
+		<text id="paper.rb.custom" h="1A432471">&amp;Özel:</text>
+		<text id="paper.rb.landscape" h="CF68D0C1">Peyzaj</text>
+		<text id="paper.rb.portrait" h="A9A67C11">&amp;Portre</text>
+		<text id="paper.rb.standard" h="D724FB24">&amp;Standart:</text>
+		<text id="ppi" h="164A6A9C">inç başına piksel</text>
+		<text id="prop.about" h="F2596574">Hakkında</text>
+		<text id="prop.settings" h="9147CD71">Ayarlar</text>
+		<text id="rb.inch" h="3D2782C6">&amp;İnç</text>
+		<text id="rb.mm" h="291025E5">&amp;Milimetre</text>
+		<text id="save.custom" h="A75E6832">&amp;Uygulama:</text>
+		<text id="save.default" h="BE686B14">PDF dosyaları için Varsayılan Başvuru</text>
+		<text id="save.g1.title" h="D16859B7">Kaydetme Seçenekleri</text>
+		<text id="save.g2.title" h="9AAF3E71">Çalıştırma Seçenekleri</text>
+		<text id="save.l.digits" h="B5E21A30">Rakamlar</text>
+		<text id="save.l.example" h="1F37513E">Örnek:</text>
+		<text id="save.l.exists" h="91940E79">&amp;Dosya Varsa:</text>
+		<text id="save.l.file" h="13B32EA0">Dosya Adı:</text>
+		<text id="save.l.path" h="E62EE9C8">&amp;Yol:</text>
+		<text id="save.l.start" h="96A7DBF6">İtibaren başla:</text>
+		<text id="save.l.params" h="4C3CFCB9">Parametreler:</text>
+		<text id="save.run" h="44C73A89">Yazdırmadan Sonra Uygulamayı Çalıştırma</text>
+		<text id="save.show.saveAs" h="E15C50B5">&amp;Göster 'Farklı Kaydet ...' İletişim Kutusu</text>
+		<text id="save.strip" h="F76AC075">Doküman Adı'ndan Çıkarılmış Yol</text>
+		<text id="sec.access" h="A05670C9">Görme Engelliler İçin, İçerik ve Erişimi Etkinleştir</text>
+		<text id="sec.adding" h="47BDA760">Açıklamaları ve Form Alanlarını Ekleme veya Değiştirme İzin Verin</text>
+		<text id="sec.allowPrinting" h="0C5B81F1">İzin Ver &amp; Baskı</text>
+		<text id="sec.changing" h="A8CFDC12">Belgeyi Değiştirmeye İzin Ver</text>
+		<text id="sec.copying" h="2C2D88AC">İçerik Kopyalama veya Çıkarma İşlemine İzin Verme, Erişilebilirliği Etkinleştirme</text>
+		<text id="sec.copying.new" h="96E15885">İçeriğe, Kopyalama ve Çıkarmaya İzin Ver</text>
+		<text id="sec.digisig" h="1104629C">Belgeyi dijital olarak imzala</text>
+		<text id="sec.digisig.settings" h="EC675489">Ayarlar ...</text>
+		<text id="sec.enable" h="D046B193">&amp;PDF güvenlik özelliğini kullan</text>
+		<text id="sec.g1.title" h="063B73F1">Belge Parolaları</text>
+		<text id="sec.g2.title" h="80E178CC">Belge İzinleri</text>
+		<text id="sec.g3.title" h="8E15DAC5">Dijital İmzalama</text>
+		<text id="sec.l.changes" h="54126A02">İzin Verilen Değişiklikler:</text>
+		<text id="sec.l.level" h="F1B06EF5">Şifreleme Seviyesi:</text>
+		<text id="sec.l.printing" h="603A3C89">&amp;Belgeyi Yazdırma:</text>
+		<text id="sec.l.userPass" h="F37B341A">Parola:</text>
+		<text id="sec.meta" h="D336DF65">Belge ve Meta Verilerini Şifreleme (Acrobat 6.0 ve sonrası uyumlu)</text>
+		<text id="sec.timestamp" h="C75027C6">Zaman damgası sunucu kullan</text>
+		<text id="sec.tsa.manage" h="083DA21D">Yönet ...</text>
+		<text id="sec.userPwd" h="8245E2E7">Belgeyi Açmak İçin Gerekli Şifre:</text>
+		<text id="sec.ownerPwd" h="CFDC25CE">Belgeyi Açmak İçin Gerekli Şifre:</text>
+		<text id="settings.btn.manage" h="083DA21D">Yönet ...</text>
+		<text id="settings.l.mode" h="71941FD8">Sürücü Modu</text>
+		<text id="settings.l.profile" h="235B6AC4">Profil:</text>
+		<text id="tsa.auth" h="89DD97BE">Sunucu ve Kimlik Doğrulama Gerektirir</text>
+		<text id="tsa.g1.title" h="23C488F9">Sunucu Özellikleri</text>
+		<text id="tsa.l.name" h="09FAD31D">Adı:</text>
+		<text id="tsa.l.pass" h="7FAD5B01">Parola:</text>
+		<text id="tsa.l.url" h="B037DABE">URL:</text>
+		<text id="tsa.l.user" h="6901D750">Kullanıcı adı:</text>
+		<text id="we.asBkgnd" h="ADDFAB64">Arkaplan Olarak</text>
+		<text id="we.bold" h="5FC7126F">&amp;Kalın</text>
+		<text id="we.fit" h="FA54BFC0">Sayfaya sığdır</text>
+		<text id="we.g1.title" h="F6FFF0BE">Özellikleri</text>
+		<text id="we.g2.title" h="EFFDDE78">Görünüm</text>
+		<text id="we.g3.title" h="A66EEC0E">Yerleştirme Seçenekleri</text>
+		<text id="we.italic" h="F3B88BFB">&amp;İtalik</text>
+		<text id="we.keepAspect" h="C8B15E62">&amp;En-boy oranını koru</text>
+		<text id="we.l.color" h="40DB132E">Renk:</text>
+		<text id="we.l.fname" h="09FAD31D">&amp;Adı:</text>
+		<text id="we.l.font" h="6196C38F">&amp;Yazı tipi:</text>
+		<text id="we.l.from" h="D834510D">İtibaren</text>
+		<text id="we.l.height" h="EF61EFBD">Yükseklik:</text>
+		<text id="we.l.hoffset" h="49A48A03">Yatay Ofset:</text>
+		<text id="we.l.name" h="2639BB67">&amp;Filigran Adı:</text>
+		<text id="we.l.opacity" h="F862D017">Saydamlık</text>
+		<text id="we.l.page" h="660A3F38">Sayfa:</text>
+		<text id="we.l.of" h="253BE8A3">%1</text>
+		<text id="we.l.placeon" h="27B3C8C6">Yer almak:</text>
+		<text id="we.l.rotation" h="4667EEF3">Rotasyon</text>
+		<text id="we.l.size" h="E1908ECB">Boyut:</text>
+		<text id="we.l.talign" h="987B5D23">Metin hizalama:</text>
+		<text id="we.l.text" h="EED05C77">Metin:</text>
+		<text id="we.l.type" h="2960F9E7">&amp;Yazın:</text>
+		<text id="we.l.visibleon" h="70D63AFC">Görülebilir:</text>
+		<text id="we.l.voffset" h="136683BA">Dikey Ofset:</text>
+		<text id="we.l.width" h="85C783C5">Genişlik:</text>
+		<text id="we.outlines" h="EF13DB11">Anahatlar gibi</text>
+		<text id="we.transColor" h="AC5903C6">Şeffaf Renk:</text>
+		<text id="wtm.enable" h="E36FC80F">Yazdırma ve Filigranları Etkinleştir</text>
+		<text id="wtm.list.cue" h="F89305B7">Filigran tanımlanmadı</text>
+		<text id="prof.l.info" h="D5319E61">Profilo Bilgileri</text>
+		<text id="prof.l.name" h="09FAD31D">Adı:</text>
+		<text id="prof.l.comment" h="D41C404F">Yorum yap:</text>
+		<text id="prof.manage.g1" h="C71AA825">Mevcut Profiller</text>
+		<text id="custhf.l.left" h="192F6142">Sol Bölüm:</text>
+		<text id="custhf.l.center" h="C0678ECB">Merkez Bölümü:</text>
+		<text id="custhf.l.right" h="3CB13D9F">Sağ Bölüm:</text>
+		<text id="dlg.AddMode.app" h="D2DF7469">Uygulama Adı:</text>
+		<text id="dlg.AddMode.mode" h="25328698">Belirtilen uygulama için Sürücü Modu:</text>
+	</Strings>
+</Localization>

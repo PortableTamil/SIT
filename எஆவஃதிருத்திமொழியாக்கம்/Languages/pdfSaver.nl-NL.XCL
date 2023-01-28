@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627200255">2.00.00</Version>
+	<Author>pdf.xchange.translate@gmail.com</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXDriver"/>
+	<Language eName="Dutch (Netherlands)" lName="Nederlands" code="nl-NL" R2L="false"/>
+	<Module name="pdfSaver" namespace="saver" version="7.0.325.10"/>
+	<Strings>
+		<text id="about.version" h="2558B135">Versie: %1</text>
+		<text id="btn.help" h="2C29CD29">Help...</text>
+		<text id="btn.hide" h="C4F1F414">&amp;Verbergen</text>
+		<text id="dlg.About" h="F2596574">Over</text>
+		<text id="dlg.AskDocInfo" h="8E6BE160">Documentinformatie</text>
+		<text id="dlg.Progress" h="B3F9EEBF">Afdrukvoortgang</text>
+		<text id="dlg.Settings" h="9147CD71">Instellingen</text>
+		<text id="docInfo.enable" h="F0A9B0E7">Plaats aanvullende informatie in het &amp;document</text>
+		<text id="docinfo.author" h="3A9F9808">&amp;Auteur:</text>
+		<text id="docinfo.creator" h="1B812E77">&amp;Maker:</text>
+		<text id="docinfo.enable" h="F0A9B0E7">Plaats aanvullende informatie in het &amp;document</text>
+		<text id="docinfo.g.title" h="E96E93B9">PDF-informatie</text>
+		<text id="docinfo.keywords" h="70561097">&amp;Sleutelwoorden:</text>
+		<text id="docinfo.subject" h="F6AB0643">O&amp;nderwerp:</text>
+		<text id="docinfo.title" h="A6AB0B5B">&amp;Titel:</text>
+		<text id="errDlg.header" h="E8A076C8">Kan &lt;b&gt;%1&lt;/b&gt; niet opslaan.</text>
+		<text id="errDlg.text" h="3FD6CA0D">Er is een fout opgetreden tijdens het opslaan van een document in het bestand:
+&lt;b&gt;%1&lt;/b&gt;</text>
+		<text id="filter.all" h="A1868C9F">Alle bestanden</text>
+		<text id="filter.pdf" h="21DC74BD">PDF-documenten (*.pdf)</text>
+		<text id="l.sec" h="68B35B56">seconden</text>
+		<text id="mainDlg" h="60C6805D">PDF-XChange Standard: pdfSaver</text>
+		<text id="msg.tray.close" h="7E4415DD">pdfSaver is niet afgesloten.
+Als u pdfSaver wilt afsluiten, kiest u Afsluiten in het menu.</text>
+		<text id="opt.autoUnload" h="96863D52">&lt;i&gt;pdfSaver&lt;/i&gt; automatisch stoppen na:</text>
+		<text id="opt.g1.title" h="30673BCD">Algemeen</text>
+		<text id="opt.g2.title" h="6781287A">Tweaks</text>
+		<text id="opt.keepFile" h="537941B8">Tijdelijke bestanden niet verwijderen</text>
+		<text id="opt.keepFolder" h="F30EC396">Tijdelijke map niet wissen bij het opstarten van pdfSaver</text>
+		<text id="opt.showProgress" h="86E70298">Venster afdrukvoortgang weergeven</text>
+		<text id="opt.systray" h="D55CEA00">&amp;Pictogram in systeemvak weergeven</text>
+		<text id="overDlg.header" h="54920390">Er bestaat al een bestand '%1'</text>
+		<text id="overDlg.text" h="984124BE">Geef de vereiste actie aan:</text>
+		<text id="overwrite.append" h="98ADB7C4">Toevoegen
+Voeg de inhoud van een nieuw bestand toe aan het bestaande bestand</text>
+		<text id="overwrite.autoNumber" h="95BDC2AD">Autonummering
+Opslaan met automatische nummerfunctie</text>
+		<text id="overwrite.leaveJob" h="0CE1E2D3">Uitstellen
+Annuleer de taakbewerking en verlaat de taak</text>
+		<text id="overwrite.over" h="13CC8739">Overschrijven
+Bestaand bestand overschrijven</text>
+		<text id="overwrite.prepend" h="7703513C">Invoegen voor
+Samenvoegen met bestaand bestand</text>
+		<text id="overwrite.select" h="60AA7DB4">Selecteer een ander bestand
+Selecteer een andere bestandsnaam voor het nieuwe document</text>
+		<text id="progress.done" h="F14B47CB">%1%% gereed</text>
+		<text id="progress.generating" h="4509E71B">PDF genereren ...</text>
+		<text id="progress.optimizing" h="6F2453BB">Optimaliseren...</text>
+		<text id="progress.page" h="962EF85B">Pagina %1</text>
+		<text id="progress.saving" h="B1CEA7B0">PDF opslaan...</text>
+		<text id="progress.sending" h="BBDB8877">PDF versturen...</text>
+		<text id="progress.spooling" h="D7D10A9E">Spoolen</text>
+		<text id="save.btn.additional" h="36A51922">&amp;Aanvullende eigenschappen...</text>
+		<text id="save.cb.append" h="DF2206AB">Toevoegen aan bestaande &amp;PDF</text>
+		<text id="save.cb.email" h="93B339D4">&amp;E-mail PDF na creatie</text>
+		<text id="save.cb.run" h="B14F25C0">Start viewer-toepassing na het opslaan</text>
+		<text id="tryAgain" h="B119E265">Probeer opnieuw</text>
+	</Strings>
+</Localization>

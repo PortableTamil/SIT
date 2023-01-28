@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627193931">2.00.00</Version>
+	<Author>Logilink</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Polish (Poland)" lName="Polski" code="pl-PL" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="7.0.325.10"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">Otwórz plik z Dysku Google</text>
+		<text id="DlgSaveFile" h="81F99046">Zapisz plik do Dysku Google</text>
+		<text id="GDPlugin" h="32B7E3E0">Wtyczka Google Drive</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Nowy login...</text>
+		<text id="btn.settings" h="EC675489">Ustawienia...</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Dysk Google</text>
+		<text id="cmd.googledrive" h="1D28DF85">&amp;Dysk Google</text>
+		<text id="cmd.open" h="F32ECED5">&amp;Dysk Google...</text>
+		<text id="cmd.open.tip" h="933837A2">Otwórz dokument z Dysku Google.</text>
+		<text id="cmd.save" h="F32ECED5">&amp;Dysk Google...</text>
+		<text id="cmd.save.tip" h="948C3269">Zapisz aktywny dokument na Dysku Google.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Nie znaleziono pliku</text>
+		<text id="cpt.invalidFileName" h="79C1387C">"Nieprawidłowa nazwa pliku</text>
+		<text id="cpt.navigateError" h="3D300A1C">Błąd nawigacji</text>
+		<text id="cpt.saveReplace" h="520CB069">Zapisz plik</text>
+		<text id="cpt.selectFile" h="C55D68B0">Wybieranie pliku</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Nie można zapisać pliku do folderu</text>
+		<text id="dlg.googleAuth" h="E5642F22">Autoryzacja Dysku Google</text>
+		<text id="fileName" h="DEC92488">Nazwa pliku:</text>
+		<text id="lb.CurrentFolder" h="44158804">Bieżący folder:</text>
+		<text id="lb.Test" h="273F3E5B">Test Test Test!</text>
+		<text id="lb.googleAccName" h="C94645A3">Konto Google:</text>
+		<text id="ls.column.created" h="FE6510B7">Data utworzenia</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Data i czas utworzenia pliku, folderu lub listy</text>
+		<text id="ls.column.extension" h="14FEB836">Rozszerzenie</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Rozszerzenie pliku</text>
+		<text id="ls.column.modified" h="7E234D6D">Data modyfikacji</text>
+		<text id="ls.column.modified.hint" h="12933E76">Data i czas ostatniej modyfikacji pliku, folderu lub listy</text>
+		<text id="ls.column.size" h="17A58A52">Rozmiar</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Rozmiar pliku</text>
+		<text id="ls.column.title" h="D18643E3">Nazwa</text>
+		<text id="ls.column.title.hint" h="6A895576">Nazwa pliku, nazwa folderu lub tytuł listy</text>
+		<text id="msg.fileNotFound" h="430E08B1">Plik "%1" nie został znaleziony w bieżącym folderze.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" nie jest prawidłową nazwą pliku.</text>
+		<text id="msg.navigateError" h="2FCAA72A">Nie można przejść do zasobu Dysku Google. Aby uzyskać dostęp do żądanego zasobu Dysku Google, sprawdź połączenie internetowe i prawa dostępu do niego.</text>
+		<text id="msg.openFailed" h="AC94D960">Nie można otworzyć pliku. Upewnij się, że plik istnieje, nie jest przypisany do innego użytkownika i masz uprawnienia do jego odczytu.</text>
+		<text id="msg.saveFailed" h="4D413392">Nie można zapisać pliku. Upewnij się, że nazwa pliku jest poprawna i masz uprawnienia do jego zapisu.</text>
+		<text id="msg.saveReplace" h="5D56833E">Plik %1 już istnieje. Czy chcesz go zastąpić?</text>
+		<text id="msg.selectFile" h="2530C20F">Proszę wybrać plik przed naciśnięciem OK</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Plik nie może być zapisany w wybranej lokalizacji. Wybierz folder 'Mój dysk', jeden z jego podfolderów lub jeden z podfolderów 'Udostępnione dla mnie', aby zapisać plik.</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">Mój dysk</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Udostępnione dla mnie</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123223025">2.00.00</Version>
+	<Author>Kelvin Muriuki</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXTools"/>
+	<Language eName="Kiswahili (Kenya)" lName="Kiswahili" code="sw-KE" R2L="false"/>
+	<Module name="PDFXTools" namespace="pdft" version="7.0.323.3"/>
+	<Strings>
+		<text id="accessed" h="45570324">Imefikiwa</text>
+		<text id="act.askForSourceFiles" h="2E856073">Chagua Faili Ingizo</text>
+		<text id="act.askForSourceFiles.desc" h="3759C068">Inakupa huduma yakuweza kutaja faili ingizo za zana.</text>
+		<text id="act.deleteComments.all" h="E8642222">Futa Maoni Yote</text>
+		<text id="act.deleteComments.all.desc" h="818B531A">Inafuta maoni yote kutoka kwa waraka.</text>
+		<text id="act.deleteComments.form" h="37ECB4B5">Futa Nyuga za Fomu</text>
+		<text id="act.deleteComments.form.desc" h="C5D21570">Inafuta nyuga za fomu kutoka kwa waraka.</text>
+		<text id="act.deleteComments.grp" h="EFCEA727">Teua kurasa kufuta maoni</text>
+		<text id="act.deleteComments.lbl" h="605AA315">Teua aina ya maoni kufuta:</text>
+		<text id="act.deleteComments.links" h="CC8F1411">Futa Viungo</text>
+		<text id="act.deleteComments.links.desc" h="66D48AF5">Inafuta viungo kutoka kwa waraka.</text>
+		<text id="act.deleteComments.markup" h="EA5127FB">Futa Fasili Dhulishi</text>
+		<text id="act.deleteComments.markup.desc" h="80CD5AA0">Inafuta fasili dhulishi kutoka kwa waraka.</text>
+		<text id="act.deleteComments.weblinks" h="87C8439E">Futa Viungo Wavuti</text>
+		<text id="act.deleteComments.weblinks.desc" h="158E179F">Inafuta viungo wavuti kutoka kwa waraka.</text>
+		<text id="act.deletePages.lbl" h="75141561">Masafa ya ukurasa ya kufuta:</text>
+		<text id="act.discardPDFStd" h="E608B980">Tupilia PDF-Standard Spesheli</text>
+		<text id="act.discardPDFStd.desc" h="947EF232">Inatupa maelezo spesheli ya kiwango-PDF, kama vile PDF/X, PDF/A, PDF/E, etc.</text>
+		<text id="act.doc.addBackground" h="8B83981C">Badilisha Mandharinyuma ya Ukurasa</text>
+		<text id="act.doc.addBackground.desc" h="8C8F71BF">Inaweka mandharinyuma nyuma ya maudhui yaliyo kwenye ukurasa.</text>
+		<text id="act.doc.addBatesNumbering" h="5987A707">Ongeza Unambizaji wa Bates</text>
+		<text id="act.doc.addBatesNumbering.desc" h="19058FA5">Inahudumia unambizaji wa Bates kwa kuunda vielezo vya nyaraka za kisheria, ili kuzifahamu na kuzipata kwa urahisi, etc.</text>
+		<text id="act.doc.addDigSign" h="97DD789F">Ongeza Saini ya Dijitali</text>
+		<text id="act.doc.addDigSign.desc" h="BB76CA39">Inaongeza na kusaini uga mpya wa saini ukitumia ID ya kidijitali ambayo hutumia cheti.</text>
+		<text id="act.doc.addHeaderAndFooter" h="71EBAC62">Ongeza Kijajuu na Kijachini</text>
+		<text id="act.doc.addHeaderAndFooter.desc" h="8697B047">Inaongeza kijajuu na kijachini kwenye kurasa tajwa. Vijajuu na Vijachini vinaweza jumuisha tarehe, unambizaji otomatiki wa kurasa, kichwa na mwandishi etc.</text>
+		<text id="act.doc.addTimeStamp" h="896D61BF">Ongeza Mhuri wa Muda </text>
+		<text id="act.doc.addTimeStamp.desc" h="2FDF1628">Inaongeza mhuri wa muda wa kiwango cha waraka ambacho kinathibitisha maudhui sahihi ya PDF mzima wakati ambapo mhuri huo unawekwa. Hii inapatikana kutoka kwa mamlaka ya mhuri wa muda iliyotajwa.</text>
+		<text id="act.doc.addWatermarks" h="AA010705">Ongeza Taswira Fifi</text>
+		<text id="act.doc.addWatermarks.desc" h="A89FAD30">Inaongeza matini/taswira inayooenekana mbele ama nyuma ya maudhui ya ukurasa.</text>
+		<text id="act.doc.certify" h="C2AFA656">Thibitisha Waraka</text>
+		<text id="act.doc.certify.desc" h="402B64F2">Inalinda nyaraka za PDF kwa kuzithibitisha kutumia uga wa saini uliothibitishwa.</text>
+		<text id="act.doc.changeProps" h="89CBAD2F">Badilisha Sifa za Waraka</text>
+		<text id="act.doc.changeProps.desc" h="40BD1FE7">Inaweka sifa za waraka: kichwa, mwandishi, mada, maneo msingi, etc.</text>
+		<text id="act.doc.clearDigSign" h="7E6883B8">Futa Saini za Dijitali</text>
+		<text id="act.doc.clearDigSign.desc" h="E1CDD425">Inaonda saini zote za dijitali iwapo inawezekana, na kuacha nyuga za saini ambazo hazijasainiwa.</text>
+		<text id="act.doc.convertToPDFA" h="86709E15">Geuza kuwa PDF/A</text>
+		<text id="act.doc.convertToPDFA.desc" h="89A9625A">Inafanya waraka tangamanifu na kiwango cha PDF/A kwa uhifadhi wa muda mrefu na utunzaji.</text>
+		<text id="act.doc.convertToPDFX" h="1D70370D">Geuza kuwa PDF/X</text>
+		<text id="act.doc.convertToPDFX.desc" h="BB077FA6">Inafanya waraka tangamanifu na kiwango cha PDF/X kwa ubadilishaji wa data ya uchapishaji.</text>
+		<text id="act.doc.createWeblinks" h="F68EDD51">Unda Viungo Wavuti</text>
+		<text id="act.doc.createWeblinks.desc" h="6971A17D">Inaunda viungo wavuti kutoka kwa maudhui ya matini ya waraka.</text>
+		<text id="act.doc.cropPages" h="54A95B63">Puna Kurasa</text>
+		<text id="act.doc.cropPages.desc" h="9F01A5F4">Inarekebisha eneo onefu la ukurasa, kubadilisha ama kutoa pambizo nyeupe kwenye (u)kurusa, kuweka visanduku vya ukurasa.</text>
+		<text id="act.doc.deletePages" h="E5284839">Futa Kurasa</text>
+		<text id="act.doc.deletePages.desc" h="0EA6D9E9">Inafuta masafa ya kurasa yaliyoteuliwa kutoka kwa waraka.</text>
+		<text id="act.doc.duplicatePages" h="14C45200">Kurasa Rudufu</text>
+		<text id="act.doc.duplicatePages.desc" h="0FD26A6C">Kurasa rudufu za waraka wa PDF.</text>
+		<text id="act.doc.exportToDOCX" h="D89F515F">Hamisha PDF kwa Waraka wa Microsoft Word</text>
+		<text id="act.doc.exportToDOCX.desc" h="D5E45C48">Inahmisha PDF kwa Faili za Waraka za Microsoft Word (*.docx)</text>
+		<text id="act.doc.exportToImages" h="6DC3C315">Hamisha PDF kwa Taswira</text>
+		<text id="act.doc.exportToImages.desc" h="0EA3EE6B">Inahamishakurasa kutoka kwa PDF moja ama zaidi kuwa taswira za raster zenye umbizo tofauti: i.e. JPEG, PNG, TIFF, etc.</text>
+		<text id="act.doc.exportToPPTX" h="E673A7B8">Hamisha PDF kwa Maonyesho ya Microsoft PowerPoint</text>
+		<text id="act.doc.exportToPPTX.desc" h="E0A7703F">Inahmisha PDF kwa Faili za Maonyesho za Microsoft PowerPoint (*.pptx)</text>
+		<text id="act.doc.exportToTXT" h="29DDD177">Hamisha PDF kwa Matini Ghafi</text>
+		<text id="act.doc.exportToTXT.desc" h="3D8783C4">Inahmisha PDF kwa Faili za Matini Ghafi (*.txt)</text>
+		<text id="act.doc.exportToXLSX" h="A31C131A">Hamisha PDF kwa Lahajedwali ya Microsoft Excel</text>
+		<text id="act.doc.exportToXLSX.desc" h="66CD86D0">Inahmisha PDF kwa Faili za Lahajedwali za MS Excel (*.xlsx)</text>
+		<text id="act.doc.extractImages" h="4CF9FEB6">Opoa Taswira kutoka kwa PDF</text>
+		<text id="act.doc.extractImages.desc" h="454EBA71">Inatafuta taswira za raster kwenye waraka kisha kuziopoa.</text>
+		<text id="act.doc.extractPages" h="7AE73EC1">Opoa Kurasa</text>
+		<text id="act.doc.extractPages.desc" h="8FCE1EA7">Inaopoa kurasa zilizotajwa kwa waraka mpya wa PDF</text>
+		<text id="act.doc.insertEmptyPages" h="3779032F">Ingiza Kurasa Tupu</text>
+		<text id="act.doc.insertEmptyPages.desc" h="65380D33">Inaingiza kurasa tupu kwenye waraka.</text>
+		<text id="act.doc.insertPages" h="6B486B45">Ingiza Kurasa</text>
+		<text id="act.doc.insertPages.desc" h="C8087FC8">Inaingiza kurasa za waraka kutoka kwa waraka mwingine.</text>
+		<text id="act.doc.ocrPages" h="D2A189BC">OCR Kurasa</text>
+		<text id="act.doc.ocrPages.desc" h="517C34C3">Inatambaza kurasa kupata taswira za matini na kutambua vibambo matini. Kisha inaongeza rusu la matini ilikuwezesha uteuzi wa matini, utafutaji etc.</text>
+		<text id="act.doc.optimize" h="854E1BE4">Boresha Waraka</text>
+		<text id="act.doc.optimize.desc" h="988BB3B9">Inaboresha waraka kupunguza ukubwa wa faili la PDF.</text>
+		<text id="act.doc.overlayDoc" h="A113E021">PDF Tandazo</text>
+		<text id="act.doc.overlayDoc.desc" h="8AC5B664">Inatandaza waraka wa PDF na waraka mwingine wa PDF.</text>
+		<text id="act.doc.pageNumbering" h="21AF4605">Unambizaji Kurasa</text>
+		<text id="act.doc.pageNumbering.desc" h="A2BA72A1">Inaongeza nambari za kurasa.</text>
+		<text id="act.doc.pageTransitions" h="E9BE43D0">Sanidi Mipito ya Kurasa</text>
+		<text id="act.doc.pageTransitions.desc" h="17B37A25">Inabadilisha mipito ya kurasa kwenye hali ya skrini nzima.</text>
+		<text id="act.doc.removeBackground" h="7C270CB4">Ondoa Mandharinyuma ya Ukurasa</text>
+		<text id="act.doc.removeBackground.desc" h="17700648">Inaondoa mandharinyuma binafsi kutoka kwa (u)kurasa na kurejesha chaguo-msingi la mandharinyuma nyeupe gumu.</text>
+		<text id="act.doc.removeBatesNumbering" h="901F5ABD">Ondoa Unambizaji wa Bates</text>
+		<text id="act.doc.removeBatesNumbering.desc" h="E4FBEB3C">Ondoa Unambizaji wa Bates.</text>
+		<text id="act.doc.removeHeaderAndFooter" h="11E8A996">Ondoa Vijajuu na Vijaachini</text>
+		<text id="act.doc.removeHeaderAndFooter.desc" h="E1CC0743">Ondoa Mandharinyuma ya Ukurasa</text>
+		<text id="act.doc.removeWatermarks" h="93F16CE2">Ondoa Taswira Fifi</text>
+		<text id="act.doc.removeWatermarks.desc" h="629EC84B">Ondoa Taswira Fifi zote.</text>
+		<text id="act.doc.replacePages" h="1311083C">Badilisha Kurasa</text>
+		<text id="act.doc.replacePages.desc" h="8C5176DA">Badilisha kurasa kwenye waraka.</text>
+		<text id="act.doc.resizePages" h="8A5C31F1">Badilisha Ukubwa wa Kurasa</text>
+		<text id="act.doc.resizePages.desc" h="8F74355D">Inaongeza ama kupunguza ukubwa wa kurasa; urekebishaji maudhui ya ukurasa ni wa hiari.</text>
+		<text id="act.doc.rotatePages" h="CBD82045">Zungusha Kurasa</text>
+		<text id="act.doc.rotatePages.desc" h="00CCD6AD">Inageuza kurasa kisaa ama kinyume saa kwa nyongeza za digrii 90.</text>
+		<text id="act.doc.setSecurity" h="09A28BF5">Tafuta Waraka</text>
+		<text id="act.doc.setSecurity.desc" h="AF6D0BF7">Inalinda waraka wako wa PDF kwa kuweka nenosiri la kufungua na/ama kubadilisha maudhui ya waraka. Inaruhusu uondoaji wa vizuio vya usalama.</text>
+		<text id="act.doc.splitPages" h="2648812F">Gawanya Kurasa</text>
+		<text id="act.doc.splitPages.desc" h="4FA35C77">Gawanya kurasa za waraka wa PDF.</text>
+		<text id="act.doc.summarizeComments" h="2233C1CD">Fanya Muhtasari wa Maoni</text>
+		<text id="act.doc.summarizeComments.desc" h="8EA1DEF5">Inaunda muhtasari kutoka kwa maoni yote yaliyo kwenye PDF.</text>
+		<text id="act.filesToPDF" h="A382536E">Geuza Faili kuwa PDF</text>
+		<text id="act.filesToPDF.desc" h="40567B4F">Inageuza faili chanzo zennye umbizo zinazokubaliwa kuwa PDF.</text>
+		<text id="act.flags.arrdoc" h="F5023560">mkusanyiko wa nyaraka</text>
+		<text id="act.flags.arrfile" h="AF02951A">mkusanyiko wa faili</text>
+		<text id="act.flags.arrimage" h="AD43894A">mkusanyiko wa taswira</text>
+		<text id="act.flags.arrname" h="A46C1DFE">mkusanyiko wa majina</text>
+		<text id="act.flags.doc" h="0417E245">waraka</text>
+		<text id="act.flags.file" h="AFFADF08">faili</text>
+		<text id="act.flags.image" h="6F479465">taswira</text>
+		<text id="act.flags.name" h="28F021B5">jina</text>
+		<text id="act.flags.nothing" h="C06D6B01">hakna</text>
+		<text id="act.flattenComments" h="CBA1AA18">Tandaza Fasili</text>
+		<text id="act.flattenComments.desc" h="20A41E96">Inageuza fasili kuwa vipengee maudhui msingi.</text>
+		<text id="act.group.PDFStandard" h="E51FAF25">Kiwango cha PDF</text>
+		<text id="act.group.advanced" h="59A2B513">Kiwango cha Juu</text>
+		<text id="act.group.comments" h="FA5EB905">Maoni</text>
+		<text id="act.group.createPDF" h="ACF7EBD1">Unda PDF</text>
+		<text id="act.group.exportPDF" h="4AE54AB5">Hamisha PDF</text>
+		<text id="act.group.inputOutput" h="178214DA">Ingizo/Towe</text>
+		<text id="act.group.optimizePDF" h="E369C144">Boresha PDF</text>
+		<text id="act.group.pages" h="47B1CB74">Kurasa</text>
+		<text id="act.group.protection" h="B7EE190B">Ulinzi</text>
+		<text id="act.imagesToPDF" h="B0C7E05C">Unda PDF kutoka kwa Taswira</text>
+		<text id="act.imagesToPDF.desc" h="43AF6AF6">Inaunda waraka mmoja wa PDF kutoka kwa taswira moja ama zaidi za Raster.</text>
+		<text id="act.saveDocs" h="07936326">Hifadhi Nyaraka</text>
+		<text id="act.saveDocs.desc" h="32932EE9">Inahifadhi mabadiliko kwenye waraka/seti la waraka ama kuhifadhi faili zilizoundwa upya.</text>
+		<text id="act.saveImages" h="2EBC4084">Hifadhi Taswira</text>
+		<text id="act.saveImages.desc" h="3A5C69E3">Inahifadhi taswira za raster kwenye diski.</text>
+		<text id="act.scan.showlist" h="18D7490A">Onyesha orodha ya taswira baada ya kutambaza</text>
+		<text id="act.scanToImages" h="3C7180B5">Pata Taswira kutoka kwa Kitambazo</text>
+		<text id="act.scanToImages.desc" h="E0F7A297">Inatambaza waraka wa karatasi na kuunda taswira la PDF kutoka kwa yaliyotambazwa.</text>
+		<text id="act.sendMail" h="1F56479B">Tuma Barua</text>
+		<text id="act.sendMail.desc" h="18F585BE">Inatuma faili kwenye anwani ya barua pepe iliyotajwa</text>
+		<text id="act.showFiles" h="7E16D9C8">Onyesha Faili</text>
+		<text id="act.showFiles.desc" h="5A081173">Inafungua kabrasha lenye faili ama kuanzisha kishikilio chaguo-msingi cha kila faili.</text>
+		<text id="act.splitMergeDocs" h="8343835D">Gawanya/Unganisha Nyaraka</text>
+		<text id="act.splitMergeDocs.desc" h="B253B87D">Inaunganisha PDF ingizo zote kuwa moja ama kuzigawanya kuwa PDFs mpya, kiotomatiki ama kwa mkono.</text>
+		<text id="act.textToPDF" h="ECE46B63">Unda PDF kutoka kwa Matini</text>
+		<text id="act.textToPDF.desc" h="F9A66354">Inaunda waraka mmoja wa PDF kutoka kwa faili moja ya matini ama zaidi.</text>
+		<text id="act.warn.title" h="76F57ED1">Maonyo:</text>
+		<text id="actCloseBtnTip" h="087A8145">Bonyeza kuondoa kitendo kutoka kwa orodha</text>
+		<text id="actOnOffUITip" h="18682AEB">Bonyeza hapa kuwezesha kitendo cha Washa/Zima wakati wa kuendesha</text>
+		<text id="actionInfo.defaultDesc" h="845515AD">Chagua kitendo kutoka kwa orodha ya vitendo kuona maelezo.</text>
+		<text id="actionInfo.defaultTitle" h="375B13FE">Chagua kitendo...</text>
+		<text id="addbookmark.chk" h="C7B70DCB">Ongeza shina la kialamisho na jina la faili</text>
+		<text id="afsf.choosefiles" h="BAE0C7B7">Chagua faili</text>
+		<text id="afsf.choosefiles.editimage" h="56B4E1F8">Hariri Taswira</text>
+		<text id="afsf.click2browse" h="ABC462F9">Bonyeza hapa kuvinjari...</text>
+		<text id="afsf.clicktoedit" h="56B17D30">Bonyeza kuhakiki na kuhariri majina ya faili yaliyohifadhiwa</text>
+		<text id="afsf.clicktoremove" h="CAB117DD">Bonyeza kuondoa majina ya faili yaliyohifadhiwa</text>
+		<text id="afsf.dlg.editAvail" h="70C3C982">Vichujio vya Faili Viliopo</text>
+		<text id="afsf.prop.choose.name" h="758F38E8">Chagua vichujio kitendo</text>
+		<text id="afsf.prop.choose.tip" h="758F38E8">Chagua vichujio kitendo</text>
+		<text id="afsf.prop.choose.title" h="758F38E8">Chagua vichujio kitendo</text>
+		<text id="afsf.prop.manage.name" h="1B8E7007">Vichujio Binafsi</text>
+		<text id="afsf.prop.manage.tip" h="1B8E7007">Vichujio Binafsi</text>
+		<text id="afsf.prop.manage.title" h="1B8E7007">Vichujio Binafsi</text>
+		<text id="afsf.selectfolder" h="3F89B943">Teua Kabrasha:</text>
+		<text id="afsf.sort" h="230935DB">Panga:</text>
+		<text id="afsf.sort.creation" h="AEDBE5EB">kwa tarehe ya uundaji</text>
+		<text id="afsf.sort.modification" h="B802AF12">kwa tarehe ya ubadilishaji</text>
+		<text id="afsf.sort.name" h="B3FDD284">kwa jina</text>
+		<text id="afsf.sort.none" h="004FEF2B">hakuna</text>
+		<text id="afsf.sort.size" h="75DE1B35">kwa ukubwa</text>
+		<text id="afsf.storefiles" h="06AB1A20">Hifadhi majina ya faili yaliyoteuliwa kutumia hapo usoni</text>
+		<text id="afsf.subfolders" h="EAAFE63E">Angalia kwenye kabrasha za ndani</text>
+		<text id="afsf.usestoredfiles" h="4A3B84D0">Tumia majina ya faili yaliyohifadhiwa kutoka kwa uendeshi wa mwisho </text>
+		<text id="afsf.warn.concrete.ext" h="6634FBD4">Kiendelezi cha faili '%1' si tangamanifu na parameta za kitendo cha 'Chagua Faili Ingizo'.</text>
+		<text id="afsf.warn.ext" h="16DBB55E">Kiendelezi cha faili si tangamanifu na parameta za kitendo cha 'Chagua Faili Ingizo'.</text>
+		<text id="afsf.warn.filescontainer" h="FF3986E4">Haiwezekani kufungua kontena ya faili  tangamanifu: &lt;b&gt;%1&lt;/b&gt;</text>
+		<text id="align.bottom" h="08F4AB6F">Chini</text>
+		<text id="align.center" h="CBEFB4D0">Katikati</text>
+		<text id="align.left" h="8CEAA299">Kushoto</text>
+		<text id="align.middle" h="D27F520F">Katikati</text>
+		<text id="align.right" h="2D8A4EE6">Kulia</text>
+		<text id="align.top" h="249A2BBD">Juu</text>
+		<text id="alignoverlay" h="B7EB1785">Pangilia kurasa tandazo husiani na kurasa za waraka mpya wa PDF:</text>
+		<text id="another.ovrfile.title" h="AEFCE724">Chagua Faili Tandazo Nyingine</text>
+		<text id="attributes" h="71F6D064">Sifa</text>
+		<text id="availActionsList" h="477E6AC0">Maktaba ya Vitendo</text>
+		<text id="btn.delete" h="D8FE3F70">Futa</text>
+		<text id="btn.edit" h="621534A3">Hariri...</text>
+		<text id="byhoriz" h="AE80ABA7">Kimlalo:</text>
+		<text id="byvert" h="138F572B">Kiwima:</text>
+		<text id="chk.savepwd" h="2DACA98E">Hifadhi nenosiri kwa utumiaji wa usoni</text>
+		<text id="choose.file" h="D8D81DA5">Chagua Faili</text>
+		<text id="chooseFiles.chooseForPreview" h="B4BD25C6">Chagua kipengee juhakiki.</text>
+		<text id="chooseFiles.fromScanner" h="BDBDAE44">Taswira kutoka kwa Kitambazo</text>
+		<text id="chooseFiles.scansubfolders" h="05971C7B">Je, unataka kuongeza faili kutoka kwa kabrasha za ndani za kabrasha iliyoteuliwa?</text>
+		<text id="chooseFiles.unknownImageType" h="18901815">Aina ya taswira isiyojulikana.</text>
+		<text id="choosefiles.title" h="2E856073">Chagua Faili Ingizo</text>
+		<text id="choosefiles.warning" h="88E4DD69">Tafadhali ongeza faili kwenye orodha.</text>
+		<text id="choosestd.lbl" h="F999AF4C">Chagua kiwango cha PDF kutupilia mbali:</text>
+		<text id="choosetool.caption" h="F368DC49">Chagua Zana</text>
+		<text id="choosetools.export.caption" h="89168619">Chagua Zana za Kuhamisha</text>
+		<text id="choosetools.import.caption" h="4D9B8134">Chagua Zana za Kuleta</text>
+		<text id="ck.all" h="65CCA5D0">Kichujio cha 'Faili Zote (*.*)</text>
+		<text id="clonetoolname.lbl" h="E63F45FA">Ingiza jina la zana lililokloniwa:</text>
+		<text id="cmd.actionInfoPane" h="BE3FF2AC">Kidirisha cha Maelezo Kitendo</text>
+		<text id="cmd.actionInfoPane.tip" h="EA4CDC04">Onyesha/Ficha Maelezo ya Kitendo.</text>
+		<text id="cmd.addFavorites" h="253AA8C4">Ongeza kwa Vipendwa</text>
+		<text id="cmd.addFavorites.tip" h="D0494D1D">Ongeza zana kwa vipendwa</text>
+		<text id="cmd.availAct.append" h="44CFD997">Ambatisha Kitendo</text>
+		<text id="cmd.availActionsPane" h="70AE9683">Kidirisha cha Maktaba ya Vitendo</text>
+		<text id="cmd.availActionsPane.tip" h="EE8A6FE7">Onyesha/Ficha Maktaba ya Vitendo.</text>
+		<text id="cmd.catlist.add" h="8E2EE8C1">Ongeza</text>
+		<text id="cmd.catlist.add.tip" h="352D549C">Ongeza kategori mpya ya zana.</text>
+		<text id="cmd.catlist.copyID" h="76D03E52">Nakili Kijulishi cha Kategeori</text>
+		<text id="cmd.catlist.copyID.tip" h="4D528776">Nakili Kijulishi cha Kategeori kwenye Ubao Nakili.</text>
+		<text id="cmd.catlist.delete" h="D8FE3F70">Futa</text>
+		<text id="cmd.catlist.delete.tip" h="F996D3A3">Futa kategori iliyoteuliwa.</text>
+		<text id="cmd.catlist.rename" h="CF7E2A12">Badilisha Jina</text>
+		<text id="cmd.catlist.rename.tip" h="853B01D0">Badilisha jina la kategori iliyoteuliwa.</text>
+		<text id="cmd.close" h="BFF0422C">Funga Uhariri</text>
+		<text id="cmd.close.tip" h="803D7B54">Uliza kuhifadhi mabadiliko kabla ya kufunga zana kihariri.</text>
+		<text id="cmd.collapseAll" h="84E09D66">Angusha Zote</text>
+		<text id="cmd.collapseAll.tip" h="4B0945EA">Angusha vipengee vyote vilivyopanuliwa.</text>
+		<text id="cmd.continue" h="A5F0062A">Endelea</text>
+		<text id="cmd.continue.tip" h="449BD617">Endelea kuendesha zana.</text>
+		<text id="cmd.copyToolID" h="29B6ACF3">Nakili Kijulishi cha Zana</text>
+		<text id="cmd.copyToolID.tip" h="C84C435C">Nakili Kijulishi cha zana kwenye Ubao Nakili.</text>
+		<text id="cmd.createFld" h="EDCA1553">Unda</text>
+		<text id="cmd.createFld.tip" h="0C2549D2">Unda kabrasha la kifuatiliaji.</text>
+		<text id="cmd.delete" h="D8FE3F70">Futa</text>
+		<text id="cmd.delete.tip" h="1645B116">Futa zana iliyoteuliwa.</text>
+		<text id="cmd.deleteAction" h="D8FE3F70">Futa</text>
+		<text id="cmd.deleteAction.tip" h="8D3F7647">Futa kitendo kilichoteuliwa.</text>
+		<text id="cmd.deleteFld" h="D8FE3F70">Futa</text>
+		<text id="cmd.deleteFld.tip" h="FE6D13BD">Futa kifuatiliaji kilichoteuliwa.</text>
+		<text id="cmd.disableFld" h="3F68363A">Lemaza</text>
+		<text id="cmd.disableFld.tip" h="0002F9EA">Lemaza kifuatiliaji kilichoteuliwa.</text>
+		<text id="cmd.docsList.collapseAll" h="84E09D66">Angusha Zote</text>
+		<text id="cmd.docsList.collapseAll.tip" h="4B0945EA">Angusha vipengee vyote vilivyopanuliwa.</text>
+		<text id="cmd.docsList.delete" h="D8FE3F70">Futa</text>
+		<text id="cmd.docsList.delete.tip" h="AFC734F6">Ondoa vipengee vilivyoteuliwa kutoka kwa orodha.</text>
+		<text id="cmd.docsList.expandAll" h="6DA5A467">Panua Zote</text>
+		<text id="cmd.docsList.expandAll.tip" h="B8DEF87E">Panua vipengee vyote vilivyoangushwa.</text>
+		<text id="cmd.docsList.invertPagesSel" h="50358D1F">Pindua Uteuzi wa Kurasa</text>
+		<text id="cmd.docsList.invertPagesSel.tip" h="D48EAFF2">Pindua uteuzi wa kurasa kwenye kipengee cha waraka.</text>
+		<text id="cmd.docsList.redo" h="E6E48291">Rudia</text>
+		<text id="cmd.docsList.redo.tip" h="D864EFC4">Rudia tendo lililotendwa hapo awali.</text>
+		<text id="cmd.docsList.rename" h="CF7E2A12">Badilisha Jina</text>
+		<text id="cmd.docsList.rename.tip" h="D13799F6">Badilisa jina kipengee cha waraka kilichoteuliwa.</text>
+		<text id="cmd.docsList.selectPages" h="CA96B5EB">Teua Kurasa..</text>
+		<text id="cmd.docsList.selectPages.tip" h="2BA1CFDF">Teua kurasa zilizotajwa kwenye waraka ulioteuliwa.</text>
+		<text id="cmd.docsList.showPreview" h="0E09CAB8">Hakiki</text>
+		<text id="cmd.docsList.showPreview.tip" h="5FDF66AB">Onyehs/Ficha kidirisha cha kipengee kilichoteuliwa.</text>
+		<text id="cmd.docsList.showRepo" h="75AE5FBB">Hazina ya Kurasa</text>
+		<text id="cmd.docsList.showRepo.tip" h="A9FDC14F">Onyesha/Ficha kidirisha cha Hazina la hifadhi muda la kundi za kurasa kutoka kwa waraka wowote. Ni ya manufaa katika kukota na kuangusha kurasa.</text>
+		<text id="cmd.docsList.undo" h="86E67B4B">Tendua</text>
+		<text id="cmd.docsList.undo.tip" h="68378895">Tendua kitendo cha mwisho.</text>
+		<text id="cmd.docsList.zoomIn" h="21C9A3BF">Kuza Zaidi</text>
+		<text id="cmd.docsList.zoomIn.tip" h="EEFCC59E">Kuza Zaidi Vijipicha.</text>
+		<text id="cmd.docsList.zoomOut" h="7749FC62">Fifiza</text>
+		<text id="cmd.docsList.zoomOut.tip" h="B4B12D5A">Fifiza Vijipicha.</text>
+		<text id="cmd.docsList.zoomSlider" h="596A6E4A">Rekebisha</text>
+		<text id="cmd.docsList.zoomSlider.tip" h="0F91092C">Rekebisha Vijipicha vya Ukurasa</text>
+		<text id="cmd.editDocList.clearAll" h="FCA74107">Futa Hazina</text>
+		<text id="cmd.editDocList.clearAll.tip" h="8D064794">Futa hazina ya kurasa.</text>
+		<text id="cmd.editFld" h="009A7A41">Hariri</text>
+		<text id="cmd.editFld.tip" h="6383A76C">Hariri kifuatiliaji kilichoteuliwa.</text>
+		<text id="cmd.editModeView" h="2FCBB32C">Tazama</text>
+		<text id="cmd.editModeView.tip" h="FED08A06">Onyesha/Ficha Vidirisha vya Upeo.</text>
+		<text id="cmd.enableFld" h="A816D2F1">Wezesha</text>
+		<text id="cmd.enableFld.tip" h="5C4A8F7C">Inawezesha kifuatiliaji kilichoteuliwa.</text>
+		<text id="cmd.expandAll" h="6DA5A467">Panua Zote</text>
+		<text id="cmd.expandAll.tip" h="B8DEF87E">Panua vipengee vyote vilivyoangushwa.</text>
+		<text id="cmd.filesList.addFiles" h="6BB8C3C3">Ongeza Faili...</text>
+		<text id="cmd.filesList.addFiles.combo" h="6BB8C3C3">Ongeza Faili...</text>
+		<text id="cmd.filesList.addFiles.tip" h="49EDA302">Bonyeza kuonyesha kidadisi cha uteuzu wa faili...</text>
+		<text id="cmd.filesList.addFolder" h="48695541">Ongeza Kabrasha...</text>
+		<text id="cmd.filesList.addFolder.tip" h="6761456F">Bonyeza kuonyesha kidadisi cha kawaida kuteua kabrasha, kisha ongeza faili kutoka...</text>
+		<text id="cmd.filesList.addFromScanner" h="F8B40B5F">Ongeza toka kwa Kitambazo...</text>
+		<text id="cmd.filesList.addFromScanner.tip" h="B4E7ED2C">Bonyeza kuteua kifaa cha kutambaza kisha anza kupata taswira kutoka...</text>
+		<text id="cmd.filesList.delete" h="D8FE3F70">Futa</text>
+		<text id="cmd.filesList.delete.tip" h="1B809C28">Futa kipengee kilichoteuliwa. Ufutaji hauwezi tenduliwa.</text>
+		<text id="cmd.filesList.detailsView" h="AEE125D6">Maelezo</text>
+		<text id="cmd.filesList.detailsView.tip" h="6570BFC4">Badili kwa Mwonyesho wa Maelezo.</text>
+		<text id="cmd.filesList.edit" h="621534A3">Hariri...</text>
+		<text id="cmd.filesList.edit.tip" h="A8CCCC15">Hariri kipengee kilichoteuliwa.</text>
+		<text id="cmd.filesList.moveDown" h="B590E566">Peleka Chini</text>
+		<text id="cmd.filesList.moveDown.tip" h="96CBF2AC">Peleka Chini vipengee vilivyoteuliwa.</text>
+		<text id="cmd.filesList.moveUp" h="E466537C">Peleka Juu</text>
+		<text id="cmd.filesList.moveUp.tip" h="239B490C">Peleka Juu vipengee vilivyoteuliwa.</text>
+		<text id="cmd.filesList.openContFolder" h="D3E03212">Fungua Kabrasha Chanzo</text>
+		<text id="cmd.filesList.openContFolder.tip" h="4967EB0F">Fungua kabrasha chanzo na teua faili linganifu kwenye Windows Explorer.</text>
+		<text id="cmd.filesList.selectPages" h="CA96B5EB">Teua Kurasa...</text>
+		<text id="cmd.filesList.selectPages.tip" h="9D36120F">Teua kurasa zilizotajwa kwenye waraka ulioteuliwa.</text>
+		<text id="cmd.filesList.showPreview" h="0E09CAB8">Hakiki</text>
+		<text id="cmd.filesList.showPreview.tip" h="5FDF66AB">Onyehs/Ficha kidirisha cha kipengee kilichoteuliwa.</text>
+		<text id="cmd.filesList.thumbsView" h="47B1B2D9">Vijipicha</text>
+		<text id="cmd.filesList.thumbsView.tip" h="E9F10E3C">Badili kwa Mwonyesho wa Vijipicha.</text>
+		<text id="cmd.filesList.zoomIn" h="21C9A3BF">Kuza Zaidi</text>
+		<text id="cmd.filesList.zoomIn.tip" h="EEFCC59E">Kuza Zaidi Vijipicha.</text>
+		<text id="cmd.filesList.zoomOut" h="7749FC62">Fifiza</text>
+		<text id="cmd.filesList.zoomOut.tip" h="B4B12D5A">Fifiza Vijipicha.</text>
+		<text id="cmd.filesList.zoomSlider" h="596A6E4A">Rekebisha</text>
+		<text id="cmd.filesList.zoomSlider.tip" h="0F91092C">Rekebisha Vijipicha vya Ukurasa</text>
+		<text id="cmd.help" h="03718903">Usaidizi</text>
+		<text id="cmd.help.about" h="06AA44B8">Kuhusu...</text>
+		<text id="cmd.help.about.tip" h="D3746489">Onyesha toleo na maelezo ya leseni ya programu.</text>
+		<text id="cmd.help.checkForUpdates" h="B4EF7EF3">Angalia Visasisho</text>
+		<text id="cmd.help.checkForUpdates.tip" h="73587378">Inakagua iwapo kuna visasisho vya programu.</text>
+		<text id="cmd.help.contents" h="567BC1D7">Maudhui</text>
+		<text id="cmd.help.contents.tip" h="08AC959F">Fungua usaidizi wa kina kwenye wavuti.</text>
+		<text id="cmd.help.enterkey" h="EF62658A">Ingiza Kifunguo cha Leseni...</text>
+		<text id="cmd.help.enterkey.tip" h="D3746489">Onyesha toleo na maelezo ya leseni ya programu.</text>
+		<text id="cmd.help.homepage" h="09F653F5">Ukurasa wa Nyumbani</text>
+		<text id="cmd.help.homepage.tip" h="EBA22B5A">Enda kwa tovuti ya programu.</text>
+		<text id="cmd.help.support" h="31A29A3F">Msaada</text>
+		<text id="cmd.help.support.tip" h="B8C0C0FB">Enda kwa mkutano wa msaada.</text>
+		<text id="cmd.help.tip" h="F59770E5">Usaidizi.</text>
+		<text id="cmd.impexp" h="1D5A9A8A">Leta/Hamisha</text>
+		<text id="cmd.impexp.expseltools" h="C87F6A0D">Hamisha Zana Zilizoteuliwa</text>
+		<text id="cmd.impexp.expseltools.tip" h="0E445E08">Inahamisha zana zilizoteuliwa kwa faili.</text>
+		<text id="cmd.impexp.expsett" h="329179F2">Hamisha Mipangilio Yote</text>
+		<text id="cmd.impexp.expsett.tip" h="1BEC5F75">Inahamisha chaguo zote za programu na zana kutoka kwa faili.</text>
+		<text id="cmd.impexp.exptools" h="3B532E8F">Hamisha Zana</text>
+		<text id="cmd.impexp.exptools.tip" h="66B0E107">Inahamisha zana kwa faili.</text>
+		<text id="cmd.impexp.impsett" h="92219071">Leta Mipangilio Yote</text>
+		<text id="cmd.impexp.impsett.tip" h="3845D20B">Inaleta chaguo zote za programu na zana kutoka kwa faili.</text>
+		<text id="cmd.impexp.imptools" h="622631EF">Leta Zana</text>
+		<text id="cmd.impexp.imptools.tip" h="112B2FCB">Inaleta zana kutoka kwa faili.</text>
+		<text id="cmd.impexp.shortcut" h="64092D8C">Unda Mkato kwenye Eneokazi</text>
+		<text id="cmd.impexp.shortcut.tip" h="F695107D">Unda mkato wa zana iliyoteuliwa kwenye Eneokazi</text>
+		<text id="cmd.impexp.tip" h="CE31B671">Operesheni za leta/hamisha za zana ama mipangilio ya programu.</text>
+		<text id="cmd.moveDown" h="B590E566">Peleka Chini</text>
+		<text id="cmd.moveDown.tip" h="96CBF2AC">Peleka Chini vipengee vilivyoteuliwa.</text>
+		<text id="cmd.moveUp" h="E466537C">Peleka Up</text>
+		<text id="cmd.moveUp.tip" h="239B490C">Peleka Juu vipengee vilivyoteuliwa.</text>
+		<text id="cmd.opts" h="DAD7B4F4">Chaguo</text>
+		<text id="cmd.opts.tip" h="0DB1D677">Inavipengele vya kusimamia mipangilio ya programu.</text>
+		<text id="cmd.prefs" h="8D3CBDF0">Mipangilio...</text>
+		<text id="cmd.prefs.tip" h="35A54BBC">Onyesha kidadisi cha mipangilio ya programu.</text>
+		<text id="cmd.redo" h="E6E48291">Rudia</text>
+		<text id="cmd.redo.tip" h="D864EFC4">Rudia tendo lililotenduliwa mwisho.</text>
+		<text id="cmd.removeFavorites" h="85360926">Ondoa toka kwa Vipendwa</text>
+		<text id="cmd.removeFavorites.tip" h="DEB12B60">Ondoa zaa kutoka kwa Vipendwa</text>
+		<text id="cmd.report.clear" h="CB9CE353">Futa</text>
+		<text id="cmd.report.clear.tip" h="26272D30">Inafuta Ripoti</text>
+		<text id="cmd.report.collapseAll" h="84E09D66">Angusha Zote</text>
+		<text id="cmd.report.collapseAll.tip" h="4B0945EA">Angusha vipengee vyote vilivyopanuliwa.</text>
+		<text id="cmd.report.copy" h="348DE55D">Nakili</text>
+		<text id="cmd.report.copy.tip" h="7E2DF69D">Nakili matini ya ujumbe.</text>
+		<text id="cmd.report.expandAll" h="6DA5A467">Panua Zote</text>
+		<text id="cmd.report.expandAll.tip" h="B8DEF87E">Panua vipengee vyote vilivyoangushwa.</text>
+		<text id="cmd.report.fullreport" h="2B15B2F7">Ripoti nzima</text>
+		<text id="cmd.report.fullreport.tip" h="B70410A1">Chaguo hili linalazimisha PDF-Tools kuchapisha ripoti kamilifu ya zana.</text>
+		<text id="cmd.report.options" h="9757D0D9">Chaguo...</text>
+		<text id="cmd.report.options.tip" h="84CAFD98">Onyesha chaguo za Zana ya Ripoti.</text>
+		<text id="cmd.report.savetofile" h="ED4A08DE">Hifadhi Ripoti...</text>
+		<text id="cmd.report.savetofile.tip" h="5BF810D7">Hifadhi Ripoti kawa Faili ya Matini.</text>
+		<text id="cmd.report.openfolder" h="D3E03212">Fungua Kabrasha Chanzo</text>
+		<text id="cmd.report.openfolder.tip" h="897118C2">Inafungua kabrasha yenye faili</text>
+		<text id="cmd.report.copyname" h="895D5980">Nakili Jina la Faili</text>
+		<text id="cmd.report.copyname.tip" h="C6C33FE5">Inanakili Jina la Faili kwenye Ubao Nakili</text>
+		<text id="cmd.resetSelAction" h="1008C3F9">Weka Upya</text>
+		<text id="cmd.resetSelAction.tip" h="9416B4A0">Inaweka upya chaguo za kitendo kilichoteuliwa.</text>
+		<text id="cmd.resetSett" h="1E06BB70">Weka Mipangilio Yote</text>
+		<text id="cmd.resetSett.tip" h="F72C4CB6">Inaweka upya chaguo zote za programu kwa za chaguo-msingi  na kurejesha zana za kawaida zikiwa na chaguo-msingi pekee.</text>
+		<text id="cmd.resetTool" h="0E4A9518">Weka Upya Zana</text>
+		<text id="cmd.resetTool.tip" h="63100C06">Weka upya chauo za zana.</text>
+		<text id="cmd.resetseltools" h="11DC26AD">Weka Upya Zana Iliyoteuliwa</text>
+		<text id="cmd.resetseltools.tip" h="7FCF3BF7">Inaweka upya chaguo za zana zilizoteuliwa.</text>
+		<text id="cmd.save" h="01991541">Hifadhi mabadiliko</text>
+		<text id="cmd.save.tip" h="45AC7E5D">Hifadhi mabadiliko ya zana.</text>
+		<text id="cmd.search" h="547E9E5A">Tafuta...</text>
+		<text id="cmd.search.tip" h="FC8CBAA4">Zana la Utafutaji</text>
+		<text id="cmd.setupFolderMonitor" h="EDC6E6EA">Vifuatiliaji vya Kabrasha</text>
+		<text id="cmd.setupFolderMonitor.tip" h="43BBFC78">Simamia Vifuatiliaji vya Kabrasha.</text>
+		<text id="cmd.showActionInfoPane" h="DDDF9129">Onyesha Maelezo ya Kitendo</text>
+		<text id="cmd.showActionInfoPane.tip" h="B9D63B80">Onyesha/Ficha Maelezo ya Kitendo.</text>
+		<text id="cmd.showActionLibrary" h="7B4DF4C3">Onyesha Maktaba ya Vitendo</text>
+		<text id="cmd.showActionLibrary.tip" h="7F2B551F">Onyesha/Ficha Maktaba ya Vitendo</text>
+		<text id="cmd.showReport" h="F1E7E74F">Zana ya Ripoti</text>
+		<text id="cmd.showReport.tip" h="0310270C">Onyeza Zana ya Ripoti.</text>
+		<text id="cmd.test" h="327F2A55">Jaribu!</text>
+		<text id="cmd.test.tip" h="9E04AEAA">Jaribu Kipengele!</text>
+		<text id="cmd.tool.clone" h="37E754F5">Kloni</text>
+		<text id="cmd.tool.clone.tip" h="D8321AF8">Kloni zana iliyoteuliwa.</text>
+		<text id="cmd.tool.create" h="EDCA1553">Unda</text>
+		<text id="cmd.tool.create.tip" h="3D4C85B7">Unda zna mpya.</text>
+		<text id="cmd.tool.edit" h="009A7A41">Hariri</text>
+		<text id="cmd.tool.edit.tip" h="426AAF33">Hariri zana iliyoteuliwa.</text>
+		<text id="cmd.tool.run" h="19264084">Endesha</text>
+		<text id="cmd.tool.run.tip" h="BF1530FA">Endesha zana iliyoteuliwa.</text>
+		<text id="cmd.undo" h="86E67B4B">Tendua</text>
+		<text id="cmd.undo.tip" h="68378895">Tendua kitendo cha mwisho.</text>
+		<text id="cmd.viewFld" h="2FCBB32C">Tazama</text>
+		<text id="cmd.viewFld.tip" h="7426084C">Tazama kifuatiliaji kilichoteuliwa.</text>
+		<text id="cmd.choosetools.checkAll" h="1ED93781">Teua Zote</text>
+		<text id="cmd.choosetools.checkAll.tip" h="5C10CA59">Teua zana zote.</text>
+		<text id="cmd.choosetools.uncheckAll" h="5D53AA8D">Usiteue Zozote</text>
+		<text id="cmd.choosetools.uncheckAll.tip" h="E0FE40A8">Usiteue zana zolote</text>
+		<text id="cmd.choosetools.expandAll" h="6DA5A467">Panua Zote</text>
+		<text id="cmd.choosetools.expandAll.tip" h="B8DEF87E">Panua vipengee vyote vilivyoangushwa.</text>
+		<text id="cmd.choosetools.collapseAll" h="84E09D66">Angusha Zote</text>
+		<text id="cmd.choosetools.collapseAll.tip" h="4B0945EA">Angusha vipengee vyote vilivyopanuliwa.</text>
+		<text id="cmdline.toolnotfound" h="E24BDF60">Zana iliyoombwa kuendeshwa haijapatikana.</text>
+		<text id="common" h="FF51CD90">Kawaida</text>
+		<text id="created" h="BC03BBEA">Imeundwa</text>
+		<text id="custToolsGrName" h="22F07048">Zana Binafsi</text>
+		<text id="custom" h="A918FF38">Binafsi</text>
+		<text id="dclick.authorize" h="E62FEA98">Bonyeza kuidhinisha hifadhi</text>
+		<text id="delete.all.pages" h="E66ECE13">Ufutaji wa kurasa zote haukubaliwi.</text>
+		<text id="deleteComments.all" h="3DB14B53">Fasili Zote</text>
+		<text id="deleteComments.link" h="D84C3990">Fasili viungo</text>
+		<text id="deleteComments.markup" h="236E76D1">Dhulisha fasili</text>
+		<text id="deleteComments.widget" h="105429C0">Fasili za Wijeti</text>
+		<text id="deleteInputFiles" h="66DB8878">Futa faili ingizo baada ya kufanikiwa</text>
+		<text id="deletecat.warn" h="8A426B75">Unahuhakika kuwa unataka kufuta kategori ya &lt;b&gt;"%1"&lt;/b&gt; na zana zote inazo?
+TAMBUA: ufutaji huu hauwezi tenduliwa.</text>
+		<text id="deletestoredpath.warn" h="B01DF4C4">Unahuhakika kuwa unataka kufuta majina ingizo yaliyohifadhiwa?</text>
+		<text id="disable.ui.lbl" h="F51A0F89">Uingiliani wa UI ya Zana na mtumiaji:</text>
+		<text id="dlg.managefilters" h="BEEA26C3">Simamia vichujio</text>
+		<text id="docauthor.l" h="7E318A91">Mwandishi</text>
+		<text id="doccreator.l" h="48BB2AC2">Muundaji:</text>
+		<text id="dockeywords.l" h="EE89DD49">Maneno Msingi:</text>
+		<text id="docproducer.l" h="30A8E856">Mtayarishaji:</text>
+		<text id="docsubject.l" h="A59102F6">Mada:</text>
+		<text id="doctitle.l" h="930D3835">Kichwa:</text>
+		<text id="editDocList.containsPages" h="8F4BA4D9">Inazo kurasa %1</text>
+		<text id="editDocList.document" h="13289938">Waraka</text>
+		<text id="editDocList.empty.hint" h="C46828D2">Hakuna kurasa</text>
+		<text id="editDocList.noPages" h="DD007EC4">Tupu</text>
+		<text id="editDocList.repository.hint" h="0071AB8A">Unaweza kuangusha kurasa hapa kwa uhifadhi wa muda.</text>
+		<text id="editDocList.title" h="BB7D1179">Mgawanyo/Uanganishi Waraka wa Mkono</text>
+		<text id="editDocList.undefined" h="9FA2DA79">Haijafafanuliwa</text>
+		<text id="editDocList.warning" h="F36DBC31">Orodha ya nyaraka haifai kuwa tupu.
+Unaweza kujaribu kutendua kitendo chako cha mwisho kufanya orodha isiwe tupu.</text>
+		<text id="editDocList.warning.emptyname" h="D690297C">Jina la waraka haliwezi kuwa tupu</text>
+		<text id="editDocList.warning.invalidsymbols" h="40A214FA">Jina batili la waraka</text>
+		<text id="editview.header.changeicon" h="E86B95CD">Badilisha...</text>
+		<text id="editview.header.dialog.multiline" h="767057E1">Hariri Ufafanuzi wa Zana</text>
+		<text id="empty.document" h="06A26641">Waraka "%1" ni tupu. Itarukwa.</text>
+		<text id="enter.pwd.descr" h="77485A4B">Ingiza ufafanuzi wa nenosiri (sio lazima)...</text>
+		<text id="enterNewDocName" h="68FD05C5">Ingiza jina mpya la waraka:</text>
+		<text id="err.foldernotexists" h="4533B896">Kabrasha iliyoteuliwa haipo</text>
+		<text id="err.foldernotvalid" h="E422E783">Haiwezi kufutailia kabrasha iliyoteuliwa </text>
+		<text id="err.hotfolderbusy" h="40F505AA">Kabrasha uliyotaja inachakatwa na kifuatiliaji kingine</text>
+		<text id="err.hotfolderempty" h="5734787D">Tafadhali chagua kabrasha kufuatilia</text>
+		<text id="err.movefolderempty" h="141492EF">Tafadhali chagua kabrasha kuhamisha faili ingizo</text>
+		<text id="err.selecttool" h="89F6967E">Tafadhali chagua kitendo kutekeleza</text>
+		<text id="err.toolnotexists" h="12CFDA38">Zana iliyoteuliwa haipo</text>
+		<text id="expsett.extension.desc" h="F00D3D31">Faili ya Mipnagilio ya PDF-Tools</text>
+		<text id="expsett.failed" h="D36046ED">hamisha mipangilio imefeli</text>
+		<text id="expsett.open.caption" h="92B281E9">Fungua Faili ya Kuleta</text>
+		<text id="expsett.save.caption" h="C1A8C6FD">Hifadhi Faili ya Uhamisho</text>
+		<text id="exptools.extension.desc" h="DC98B451">Faili ya Ubadilishaji ya PDF-Tools </text>
+		<text id="exptools.failed" h="7A69DC15">Hamisha zana imefeli</text>
+		<text id="exptools.open.caption" h="99F5ECED">Chagua Faili ya Kuleta</text>
+		<text id="exptools.save.caption" h="C1A8C6FD">Hifadhi Faili ya Uhamisho</text>
+		<text id="extension" h="14FEB836">Kiendelezi</text>
+		<text id="fileLocation" h="7BC24E5F">Eneo za Faili:</text>
+		<text id="fileprop.author" h="F6A8A4C0">Mwandishi</text>
+		<text id="fileprop.bpc" h="02071BA4">Biti kwa kituo</text>
+		<text id="fileprop.bpp" h="EC790768">Biti kwa pikseli</text>
+		<text id="fileprop.channels" h="D3AE76A2">Vituo</text>
+		<text id="fileprop.creator" h="CF26EE59">Muundaji</text>
+		<text id="fileprop.dimension" h="96A76700">Pandeolwa</text>
+		<text id="fileprop.horDpi" h="576C5071">DPI Mlalo</text>
+		<text id="fileprop.page" h="D70A809E">Ukurasa</text>
+		<text id="fileprop.pageRotation" h="ECFC9C66">Zungsha</text>
+		<text id="fileprop.pagesCount" h="AAE42CE5">Idadi ya Kurasa</text>
+		<text id="fileprop.pdfVer" h="4C06CDA5">Toleo la PDF</text>
+		<text id="fileprop.producer" h="C54CE945">Mtayarishaji</text>
+		<text id="fileprop.subject" h="B6BCF595">Mada</text>
+		<text id="fileprop.title" h="796DFAD3">Kichwa</text>
+		<text id="fileprop.verDpi" h="33423CE9">DPi Wima</text>
+		<text id="filestopdf.setup" h="FB20B28D">Sanidi...</text>
+		<text id="finalizing" h="B702861F">Inamalizia %1...</text>
+		<text id="fitoverlay" h="E2F09068">Tosheleza kurasa tandazo kwenye kurasa mpya za waraka zilizoundwa </text>
+		<text id="fld.disabled" h="AA5BC8D4">Imelemazwa</text>
+		<text id="fld.enabled" h="2532774E">Imewezeshwa</text>
+		<text id="fldmon.lbl" h="DEBCEDAF">Jina la kabrasha fuatiliaji:</text>
+		<text id="folder.grp" h="9AE10AFA">Chaguo za Faili Ingizo</text>
+		<text id="hotfld.opts.dlg.caption" h="D9DE9C84">Sanidi Kifuatiliaji Kabrasha</text>
+		<text id="impsett.alert" h="0B2EB063">Unahuhakika kuwa unataka kuleta mipangilio yote ya programu?
+TAMBUA: operesheni ya uletaji haiwezi tenduliwa.</text>
+		<text id="impsett.failed" h="AA8A96CF">Uletaji mipangilio umefeli</text>
+		<text id="imptools.failed" h="DAD93596">Uletaji wa zana umefeli</text>
+		<text id="info" h="07FB97A4">Maelezo</text>
+		<text id="inpfiles.lbl" h="28477E27">Chaguo za faili ingizo:</text>
+		<text id="inserting.page" h="7985F658">Inaingiza kurasa %1 kutoka %2</text>
+		<text id="keep.inputfiles" h="800C91A4">Hifadhi faili ingizo kwenye kabrasha</text>
+		<text id="keepaspect" h="A90996CD">Hifadhi uwiano kimo-upana</text>
+		<text id="lb.availFF" h="6E3CAD3A">Chagua vichujio vya aina za faili zitakazokuwa kwenye orodha kunjuzi ya kidadisi:</text>
+		<text id="lb.presetFF" h="9C590515">Mpangilio:</text>
+		<text id="lbl.ShowResult" h="C5236BCD">Onyesha tokeo baada ya kumaliza</text>
+		<text id="lbl.actualview" h="D865F4B2">Ongeza Unambizaji wa Bates</text>
+		<text id="lbl.allowMult" h="3B9DFCE0">Ruhusu kuteua faili anuwai</text>
+		<text id="lbl.alwaysUseMultipage" h="6C82FB30">Tumia umbizo la kurasa anuwai kila wakati</text>
+		<text id="lbl.askDeleteTool" h="1541D739">Unahuhakika kuwa unataka kufuta zana ya &lt;b&gt;"%1"&lt;/b&gt;?
+TAMBUA: ufutaji huu hauwezi tenduliwa.</text>
+		<text id="lbl.askDeleteTools" h="25C684AA">Unahuhakika kuwa unataka kufuta zana za &lt;b&gt;%1&lt;/b&gt;?
+TAMBUA: ufutaji huu hauwezi tenduliwa na zana binafsi pekee ndizo zaweza kufutwa.</text>
+		<text id="lbl.askSaveChanges" h="4F19099B">Je ungetaka kuhifadhi mabadiliko kabla ya kumalizia kuhariri?</text>
+		<text id="lbl.chooseAction" h="5EA681F4">Chagua kitendo kutoka kwa orodha:</text>
+		<text id="lbl.choosefiles.dndhint" h="8CF7925F">Ongeza faili ukitumia kitufe kilicho kwenye upauzana ama kokota na kuziangusha hapa. Unaweza kuzipanga kwa mpangilio unaotaka.</text>
+		<text id="lbl.choosefiles.itemscount" h="2CFE0C7C">vipengee %1</text>
+		<text id="lbl.choosefiles.selitemscount" h="402CD736">Vipengee %1 • vipengee %2 vimeteuliwa • %3</text>
+		<text id="lbl.choosepages" h="668A500A">Chagua kurasa ambazo zitateuliwa kwenye waraka.</text>
+		<text id="lbl.continue" h="A5F0062A">Endelea</text>
+		<text id="lbl.editViewToolDesc" h="0F22DAFE">Ingiza matini fafanuzi ya Zana:</text>
+		<text id="lbl.editViewToolName" h="76F4AA91">Ingiza jina la Zana:</text>
+		<text id="lbl.editdocs.dndhint" h="2FAC7414">Unaweza kutumia kokota na kuangusha kuhamisha kurasa kati ya nyaraka na kuzipanga upya. Unaweza pia kuunda nyaraka mpya kwa kuangusha kurasa nje/kati ya vipengee waraka.</text>
+		<text id="lbl.editview.dndhint" h="42E43BBA">Unaweza kutumia kokota na kuangusha kupanga upya vitendo viliopo ama kuongeza vitendo vipya kutoka kwa orodha iliyo kulia.</text>
+		<text id="lbl.editview.dndhint2" h="714B17C6">Bonyeza na kukota kitendo chochote kutoka kwa orodha iliyokulia kisha angusha hapa.</text>
+		<text id="lbl.emptyCatList" h="488587B8">Orodha ya kategeorini tupu</text>
+		<text id="lbl.emptyToolList" h="B2BFE203">Orodha ya Zana ni tupu.</text>
+		<text id="lbl.extractSizeLimit" h="0EA996F6">Tenga taswira zilizo ndogo kuliko:</text>
+		<text id="lbl.fileTypes" h="60ECC8E9">Aina za Faili:</text>
+		<text id="lbl.filestopdf.converters" h="902CF9B3">Vigeuzi:</text>
+		<text id="lbl.grouping" h="79C8A88E">Hali ya Kukundisha</text>
+		<text id="lbl.keeptransparent" h="5070A5EB">Hifadhi uangavu</text>
+		<text id="lbl.multipagetype" h="C5A5712F">Chagua aina ya taswira ya ukurasa anuwai:</text>
+		<text id="lbl.noActionFound" h="105B87AB">Hakuna kitendo kimepatikana kinacholingana na utafutaji wako.</text>
+		<text id="lbl.noCategoryFound" h="CEC17229">Hakuna kategori imepatikana inayolingana na utafutaji wako.</text>
+		<text id="lbl.noToolFound" h="181055BB">Hakuna zana imepatikana inayolingana na utafutaji wako.</text>
+		<text id="lbl.reverseOrder" h="9564C9FE">Hifadhi kwa mpangilio kinyume</text>
+		<text id="lbl.run" h="19264084">Endesha</text>
+		<text id="lbl.savemode" h="D16859B7">Chaguo za Uhifadhi</text>
+		<text id="lbl.showextui" h="1E2770E2">Onyesha kidadisi cha ziada cha kuteua faili</text>
+		<text id="lbl.singlepagetype" h="A6AF6C93">Chagua aina ya taswira ya ukurasa moja:</text>
+		<text id="listmonitors.lbl" h="7A930E45">Orodha ya kabrasha vifuatiliaji:</text>
+		<text id="lnk.browsefolder" h="57F5ECCB">Vinjari Kabrasha Ingizo...</text>
+		<text id="lnk.createtitle" h="97F6DA95">Chaguo za Kuunda Mkato</text>
+		<text id="lnk.inputfiles" h="3B5E3105">Chagua Faili Ingizo...</text>
+		<text id="lnk.noinput" h="365E2B73">Niulize kila wakati Faili Ingizo</text>
+		<text id="lnk.specifyinput" h="C331E1B9">Unaweza kuongeza faili/kabrasha ingizo kwenye mkato:</text>
+		<text id="loading" h="DC6A6C81">Inapakia...</text>
+		<text id="location" h="52D95020">Mahali</text>
+		<text id="log.abort" h="6F8E5DCD">Aga</text>
+		<text id="log.actiondone" h="E2806498">Kitendo kimetekelezwa</text>
+		<text id="log.andmore" h="54982D71">Bonyeza hapa kuonyesha mengineyo...</text>
+		<text id="log.andmore.tip" h="2D9BDCA0">Bonyeza mara mbili kuona vipengee vyote...</text>
+		<text id="log.cancelled" h="E28236C9">Imekataliwa</text>
+		<text id="log.fail" h="A37F5F82">Imefeli</text>
+		<text id="log.filecreated" h="E300872F">Faili imeundwa</text>
+		<text id="log.filenotexist" h="E9442568">Faili haipo</text>
+		<text id="log.fileprocstart" h="254322E4">Uchakataji wa faili umeanza</text>
+		<text id="log.filestat.failed" h="D1F8052C">Haijafanikiwa kuchakata faili: %1 kwa %2</text>
+		<text id="log.filestat.succeded" h="5A913587">Imefanikiwa kuchakata faili: %1 kwa %2</text>
+		<text id="log.invalidarg" h="79E18E42">Parameta zisizo sahihi</text>
+		<text id="log.nopermissions" h="7508C445">Hakuna vibali vya kutosha</text>
+		<text id="log.ok" h="BAD1F1D5">Imefanikiwa</text>
+		<text id="log.summary" h="8BE8ABA0">Muhtasari </text>
+		<text id="log.toolrunfinished" h="A50678CB">Matokeo ya kuendesha zana: %1.</text>
+		<text id="log.toolstarted" h="4352D7A3">zana "%1" imeanzishwa</text>
+		<text id="log.txtsummary" h="22396BE4">Zana "%1" imemaliza: makosa %2, faili %3 zimechakatwa, faili %4 zimeundwa, maonyo %5</text>
+		<text id="log.unknown" h="8566CB94">Isiyojulikana</text>
+		<text id="log.wrongpass" h="473522EE">Nenosiri si sahihi</text>
+		<text id="modified" h="30325672">Imebadilishwa</text>
+		<text id="moduleName" h="9B0F448F">Zana za PDF</text>
+		<text id="mon.priority" h="73E40EE1">Kipaumbele cha kifuatiliaji </text>
+		<text id="monitor.name.tip" h="A0EB9543">Ingiza jina la kifuatiliaji hapa...</text>
+		<text id="monitor.subfold" h="7D8D9398">Folder za ndani kufuatilia</text>
+		<text id="moveInputFiles" h="61936C79">Hamisha faili ingizo hapa:</text>
+		<text id="msgtype.debug" h="C3C4F565">Eua</text>
+		<text id="msgtype.error" h="51BFF51D">Kosa</text>
+		<text id="msgtype.info" h="07FB97A4">Maelezo</text>
+		<text id="msgtype.unknown" h="E52D4ED4">Aina isiyojulikana</text>
+		<text id="msgtype.verbose" h="6817BBB0">Verbose</text>
+		<text id="msgtype.warning" h="E7AD7A2B">Onyo</text>
+		<text id="name" h="D18643E3">Jina</text>
+		<text id="no.pages.to.delete" h="7A9E4694">Hakuna kurasa kufuta.</text>
+		<text id="nooverlay.file" h="4D9B1EA6">Hakuna faili tandazo lilotajwa</text>
+		<text id="ovr.file" h="D8EE6FEB">Faili tandazo:</text>
+		<text id="ovr.norepeat" h="E58FFCC1">Haina kurudia</text>
+		<text id="ovr.positions" h="E9C070C5">Sehemu</text>
+		<text id="ovr.repeat" h="DB39711A">Chaguo za marudio:</text>
+		<text id="ovr.repeatall" h="FB4118C6">Urudiaji endelevu wa faili tandazo mfupi</text>
+		<text id="ovr.repeatlast" h="87F51B84">Rudia kurasa la mwisho la faili tandazo lililofupi zaidi.</text>
+		<text id="ovr.settings" h="2FF7690D">Mipangalio ya Faili Tandazo</text>
+		<text id="page.props" h="F521B2C3">Sifa za kurasa</text>
+		<text id="pagenumber" h="29EED2B3">Namba</text>
+		<text id="pagesRange" h="30C24AC3">Masafa ya Kurasa</text>
+		<text id="pagesRange.All" h="83434A26">Zote</text>
+		<text id="pagesRange.Pages" h="23952CFD">Kurasa:</text>
+		<text id="pagesSubset.all" h="599C6EE6">kurasa zire kutoka masafa yaliyotajwa</text>
+		<text id="pagesSubset.even" h="E64675B8">Kurasa shufwa pekee kutoka kwa masafa</text>
+		<text id="pagesSubset.odd" h="87228BC5">Kurasa witiri pekee kutoka kwa masafa.</text>
+		<text id="pagesrange.empty" h="630795CE">Masafa ta kurasa hayafai kuwa tupu.</text>
+		<text id="pdf.properies" h="70EFADF5">Sifa za PDF</text>
+		<text id="pdfahandle.keepPDFAunchanged" h="908B4A26">Hifadhi waraka wa PDF/A bila mabadiliko</text>
+		<text id="pdfahandle.reconvert" h="1AFD2B27">Gueza upya waraka</text>
+		<text id="pdfahandle.skipPDFA" h="9B11C61E">Ruka waraka wa PDF/A</text>
+		<text id="pdfastd.lbl" h="83380816">Iwapo waraka ina maelezo ya kiwango cha PDF/A:</text>
+		<text id="place.foreground" h="0669CDF0">Weka faili ya tandazo kama mandharimbele</text>
+		<text id="policy.msg" h="3AE36A58">Sera ya usalama haijaundwa.
+Ungetaka kuiunda?</text>
+		<text id="preview.ovrfile" h="5593AECC">Hakiki faili tandazo</text>
+		<text id="priority.high" h="B7E10973">Kipaumbele cha juu</text>
+		<text id="priority.low" h="15FDBBEA">Kipaumbele cha chini</text>
+		<text id="priority.medium" h="5A523B97">Kipaumbele wastani</text>
+		<text id="progr.launching" h="5520AF34">Inaanzisha kifuatiliaji...</text>
+		<text id="progress.pause" h="6045D570">Sitisha</text>
+		<text id="prompt.clearpwd" h="AB0C3147">Je, unataka kufuta hifadhi la nenosiri?</text>
+		<text id="prompt.removemonitor" h="DF4CD355">Je, unataka kuondoa kifuatiliaji kabrasha kilichoteuliwa?</text>
+		<text id="prompt.removepwd" h="F4C34781">Je, unataka kuondoa kipengee kilichoteuliwa kutokak kwa hifadhi la nenosiri?</text>
+		<text id="props" h="F6FFF0BE">Sifa</text>
+		<text id="pwd.defaultDescr" h="EBF5010F">Nenosiri Zangu</text>
+		<text id="pwd.descr.date" h="F8CC5563">Imeongeza: %1</text>
+		<text id="pwd.descr.dflt" h="5C50975F">Hakuna ufafanuzi</text>
+		<text id="pwd.enter.new" h="D9992E89">Ingiza nenosiri kuhifadhi kwenye hifadhi:</text>
+		<text id="pwd.enter.newdescr" h="9D40879A">Ingiza ufafanuzi mpya:</text>
+		<text id="pwdadd" h="AED8BB4C">Ongeza...</text>
+		<text id="pwdclear" h="CB9CE353">Futa</text>
+		<text id="pwdedit" h="621534A3">Hariri...</text>
+		<text id="pwdgrp" h="202AB42A">Hifadhi ya Nenosiri</text>
+		<text id="pwdlbl" h="5F4039B9">Orodha ya nenosiri za awali ambazo zitatumika kiotomatiki katika uchakataji wa nyaraka:</text>
+		<text id="pwdprefs.name" h="D2C0C056">Nenosiri</text>
+		<text id="pwdprefs.tip" h="7434F5A2">Hifadhi ya Nenosiri Zilizofafanuliwa Hapo Awali</text>
+		<text id="pwdprefs.title" h="7434F5A2">Hifadhi ya Nenosiri Zilizofafanuliwa Hapo Awali</text>
+		<text id="pwdremove" h="FCE39C1F">Ondoa</text>
+		<text id="report" h="E9D63CB7">Zana ya Ripoti</text>
+		<text id="report.cuetext" h="5A5BCB07">Hakuma ujumbe kuonyesha kwenye Ripoti.</text>
+		<text id="report.defaultDesc" h="882ACAE5">Kidirisha kinaonyesha ujumbe kutoka kwa vietndo vya zana.</text>
+		<text id="report.fld.lbl" h="3F89B943">Teua kabrasha:</text>
+		<text id="report.framed.dlg" h="E9D63CB7">Zana ya Ripoti</text>
+		<text id="report.name.lbl" h="553DE74A">Jina la ripoti:</text>
+		<text id="report.opt" h="2D42B915">Chaguo la Kuripoti</text>
+		<text id="report.options.autoclear" h="F9D9404E">Futa ripoti kiotomatiki kabla ya kuanzisha kila Zana</text>
+		<text id="report.options.forcevisible" h="C79B47D7">Lazimisha kuonekana kwa kidirisha cha Ripoti kwa aina zote za ujumbe (ya makosa pekee iwapo tiki haijawekwa)</text>
+		<text id="report.options.header" h="7254B91C">Chaguo za Zana ya Ripoti</text>
+		<text id="report.options.main" h="31B3DC7C">Sanidi kidirishi cha Ripoti kwa kubadilisha chaguo zifuatazo:</text>
+		<text id="report.options.reset" h="B02C5E5A">Weka upya chaguo</text>
+		<text id="report.options.severity" h="B9C34921">Chagua aina ya ujumbe zitakazo oneshwa kwenye kidirisha cha Zana la Ripoti:</text>
+		<text id="report.options.severity.document" h="5CD972FF">Ujumbe kuhusu operesheni zenye nyaraka za PDF</text>
+		<text id="report.options.severity.fileOperations" h="CAB821C9">Ujumbe kuhusu operesheni za faili (kufungua, kuunda, kubadilisha, etc.)</text>
+		<text id="report.options.severity.info" h="A8EA107E">Ujumbe za Maelezo</text>
+		<text id="report.options.severity.summary" h="692A1A26">Muhtasari wa maelezo kuhusu matokeo ya utekelezaji wa zana</text>
+		<text id="report.options.severity.title" h="B282840A">Aina za Ujumbe</text>
+		<text id="report.options.severity.warning" h="13217901">Maonyo (Ujumbe kuhusu matukio yanayoweza dhuru utendaji wa Zana)</text>
+		<text id="reprocess.files" h="72A687D7">Chakata faili upya ikianza</text>
+		<text id="resetActionTip" h="D7E3E700">Weka upya chaguo kwa hali chaguo-msingi.</text>
+		<text id="resetact.warn" h="E5B97341">Je, ungetaka kuweka upya chaguo za vitendo kuwa chaguo-msingi?
+TAMBUA: operesheni hii haiwezi tenduliwa.</text>
+		<text id="resetprops.btn" h="1008C3F9">Weka Upya</text>
+		<text id="resetprops.btntip" h="33DDB5A0">Bonyeza kuweka upya kwa hali ya kwanza</text>
+		<text id="resetseltools.warn" h="26BF4D94">Je, ungetaka kuweka upya chaguo za vitendo kuwa chaguo-msingi?
+TAMBUA: operesheni hii haiwezi tenduliwa.</text>
+		<text id="ressett.alert" h="9B2F79C2">Unahuhakika kuwa unataka kuweka upya mipangilio yote ya programu kwa chaguo-msingi na kurejelea zana za kawaida zinazo chaguo za kawaida pekee?
+TAMBUA: operesheni ya uwekaji upya haiwezi tenduliwa.</text>
+		<text id="ressett.toolsalert" h="8CCEF1F1">Kuweka upya chaguo zote kunahusisha uondoaji wa Zana zote za Binafsi.  Iwapo ungetaka kuendelea na operesheni hii, bonyeza Nido.
+TAMBUA:uwekaji upya huu hauwezi tenduliwa.</text>
+		<text id="resume" h="B0874E65">Endelea</text>
+		<text id="sameimg.autobpp" h="A216C11C">Chagua kina cha rangi kiotomatiki:</text>
+		<text id="sameimg.autobpp.info" h="9E850B3C">Iwapo imechaguliwa, kina cha rangi cha taswira kitachaguliwa kiotomatiki. Parameta ya 'Aina ya Taswira' ya Umbizo la Taswira itapuuziliwa.</text>
+		<text id="saveas.ask" h="9DF35209">Shtua kupata kitendo</text>
+		<text id="saveas.auto" h="C820D6B5">Hifadhi mpya kwa jina lingine la kipekee</text>
+		<text id="saveas.folder.ask" h="5DC29DB4">Ulizia kila wakati mahali pa faili.</text>
+		<text id="saveas.folder.cust" h="C9BD54EB">Tumia kabrasha binafsi iliyotajwa</text>
+		<text id="saveas.folder.src" h="5E2E8FE3">Tumia kabrasha chanzo kama fikio</text>
+		<text id="saveas.overwrite" h="68C4F37C">Andikia juu na faili mpya.</text>
+		<text id="saveas.skip" h="CE81D302">Hifadhi faili iliopo bila mabadiliko</text>
+		<text id="saveas.text" h="7D366800">Iwapo faili ipo tayari:</text>
+		<text id="saveimg.default.folder" h="DCD2AF9C">Kabrasha la waraka</text>
+		<text id="saveimg.default.name" h="5A425CCC">Isiyojina</text>
+		<text id="saveimg.grouping.apart" h="8E717B39">Kila taswira kwa faili tofauti</text>
+		<text id="saveimg.grouping.groupall" h="9E5BA5E4">Taswira zote kwa faili moja ya taswira yenye kurasa anuwai</text>
+		<text id="saveimg.grouping.groupdoc" h="E86A1581">Taswira zote kutoka kwa waraka mmoja kwa faili moja ya taswira yenye kurasa anuwai</text>
+		<text id="saveimg.grouping.grouppage" h="FDF715C4">Taswira zote kutoka kwa ukurasa mmoja kwa faili moja ya taswira yenye kurasa anuwai</text>
+		<text id="savereport.to" h="861DD843">Hif</text>
+		<text id="searchActionTip" h="3591BAD8">Tafuta kitendo...</text>
+		<text id="searchToolTip" h="435392D9">Zana ya Utafutaji...</text>
+		<text id="secinfo.grp" h="F5A61224">Maelezo ya Usalama</text>
+		<text id="secsetting.init.warn" h="61B936AD">Kitendo &lt;b&gt;"%1"&lt;/b&gt; lazima kianzilishwe kabla ya kutumika.
+Ungetaka kuendelea na utekelezaji wa zana na kuanzilisha kitendo?</text>
+		<text id="secsettings.btn" h="9147CD71">Mipangilio</text>
+		<text id="selPages.all" h="7D499596">Kurasa zote</text>
+		<text id="selPages.dlg" h="4B381B82">Teua Kurasa</text>
+		<text id="selPages.even" h="CDE5C1A0">Kurasa Shufwa</text>
+		<text id="selPages.exact" h="23952CFD">Kurasa:</text>
+		<text id="selPages.fromsubset" h="3ADEE045">kutoka kikundi "%1"</text>
+		<text id="selPages.odd" h="242E0666">Kurasa Witiri</text>
+		<text id="select.ovrfile" h="74E5784A">Teua Faili Tandazo</text>
+		<text id="selectDestFolder" h="D0F102DD">Teua Kabrasha Fikio</text>
+		<text id="selectHotfolder.lbl" h="3A4859F6">Chagua kabrasha ya kufuatilia:</text>
+		<text id="sendmail.archive.defaultname" h="F758C4E9">Haina Jina</text>
+		<text id="sendmail.by" h="8EF165F7">Na:</text>
+		<text id="sendmail.chk.intoone" h="BE171523">Weka faili zote kwenye barua pepe moja</text>
+		<text id="sendmail.chk.priority" h="846616F7">Weka barua pepe na kipaumble wa juu</text>
+		<text id="sendmail.client" h="E8D90FF3">Eneokazi la Teja la Barua</text>
+		<text id="sendmail.compress.alltoone" h="C303528D">Faili zote kwa hifadhi moja</text>
+		<text id="sendmail.compress.eachfile" h="B972BFCC">Kila faili kwa hifadhi tofauti</text>
+		<text id="sendmail.compress.none" h="F9398D7D">Hakuna</text>
+		<text id="sendmail.edt.cue" h="A179CC6C">Ingiza matini ya ujumbe...</text>
+		<text id="sendmail.from" h="976952DD">Kutoka:</text>
+		<text id="sendmail.lbl.arcname" h="A630D28B">Jina la Hifadhi</text>
+		<text id="sendmail.lbl.compress" h="BC1093D8">Finyaza:</text>
+		<text id="sendmail.log.cantcreatearchive" h="B40CACC8">Haiwezi unda hifadhi ya kutuma</text>
+		<text id="sendmail.log.nofiles" h="4C7A563E">Hakuna faili za kutuma</text>
+		<text id="serializing" h="92752B4F">Inafanya mfululizo %1...</text>
+		<text id="setup.grp" h="95DF47CE">Chaguo za Kabrasha Fuatiliaji</text>
+		<text id="setuphotfolder.dlg.caption" h="EDC6E6EA">Vifuatiliaji Kabrasha</text>
+		<text id="showFiles.enabled" h="2532774E">Imewezeshwa</text>
+		<text id="showFiles.launchAssocApp" h="FE936D7D">Tazana faili ukitumia programu husiani za nje</text>
+		<text id="showFiles.launchAssocAppWarn" h="97CF77EB">Idadi ya faili kutazama ni zaidi ya moja.
+Kuzitazama zote pamoja inaweza tumia rasilimali nyingi za tarakilishi yako.
+Unauhakika unataka kuzitazama?</text>
+		<text id="showFiles.openFolderAndSel" h="A95A4BE0">Fungua kabrasha chanzo na teua faili</text>
+		<text id="showFiles.text" h="26A38ADF">Chagua kitendo:</text>
+		<text id="showMoreOpts" h="24B13299">Chaguo Zote...</text>
+		<text id="showMoreOpts2" h="64C40213">Chaguo Zaidi...</text>
+		<text id="showMoreOptsTip" h="C60CDB73">Bonyeza kuonyesha chaguo zote...</text>
+		<text id="showMoreOptsTip2" h="145A1CAD">Bonyeza kuonyesha chaguo za hali ya juu...</text>
+		<text id="showSetupUI" h="0E94449E">Onyesha kidadisi cha kusanidi baada ya kuendesha</text>
+		<text id="showSetupUITip" h="0E94449E">Onyesha kidadisi cha kusanidi baada ya kuendesha</text>
+		<text id="size" h="17A58A52">Ukubwa</text>
+		<text id="sizelimit.nolimit" h="8E135818">Hakuna kikomo</text>
+		<text id="skipaction.b" h="A37FB4B0">Ruka kitendo</text>
+		<text id="skipdocsWithText" h="2683C8E5">Usitekeleze OCR kwenye nyaraka zenye matini</text>
+		<text id="skipped" h="B7D8BB1E">imerukwa</text>
+		<text id="smmanual.chk" h="563576E6">Onyesha kidadisi cha ugawanyaji/uunganishi wa mkono</text>
+		<text id="smmethod" h="C894DD7E">Mbinu</text>
+		<text id="smmethod.all2one" h="B3E7239B">Kurasa zote kwa Waraka mmoja</text>
+		<text id="smmethod.asis" h="4C3BC0E6">Hifadhi waraka ingizo ilivyo</text>
+		<text id="smmethod.bookmarks" h="44B3EE11">Gawanya kwa vialamisho vya juu</text>
+		<text id="smmethod.npages" h="2D67CBA9">Kila Kurasa N kwenye nyaraka tofauti</text>
+		<text id="smreverse.chk" h="B766066F">Mpangilio kinyume wa kurasa</text>
+		<text id="sourcepage" h="5D6277DD">Ukurasa chanzo</text>
+		<text id="sourcetitle" h="81E00BC2">Chanzo kichwa</text>
+		<text id="specific" h="67D7437D">Dhahiri</text>
+		<text id="status" h="9FB9C788">Hali</text>
+		<text id="stdAll" h="C80F4913">Viwango Vyote</text>
+		<text id="stdToolsGrName" h="1906BB71">Zana za Kawaida</text>
+		<text id="stop" h="F89FDAAE">Komesha</text>
+		<text id="targettitle" h="F87B6FA7">Kichwa cha lengwa</text>
+		<text id="title.choosepages" h="4B381B82">Teua Kurasa</text>
+		<text id="tool" h="7D3C7CB2">Zana</text>
+		<text id="tool.addBatesNumbering" h="5987A707">Ongeza Unambizaji wa Bates</text>
+		<text id="tool.addBatesNumbering.desc" h="19058FA5">Inahudumia unambizaji wa Bates kwa kuunda vielezo vya nyaraka za kisheria, ili kuzifahamu na kuzipata kwa urahisi, etc.</text>
+		<text id="tool.addDigSign" h="97DD789F">Ongeza Saini ya Dijitali</text>
+		<text id="tool.addDigSign.desc" h="84946427">Inaongeza uga mpya wa saini kwenye PDF na kuzisaini ikitumia ID ya kidijitali ambayo hutumia cheti.</text>
+		<text id="tool.addHeaderAndFooter" h="71EBAC62">Ongeza Kijajuu na Kijachini</text>
+		<text id="tool.addHeaderAndFooter.desc" h="36AA73F6">Inaongeza kijajuu na/ama kijachini kwenye kurasa. Kijajuu/Kijachini kinaweza jumuisha tarehe, unambizaji otomatiki wa kurasa, kichwa na mwandishi etc.</text>
+		<text id="tool.addPagesBackground" h="20D4DB07">Weka Mandharinyuma ya Kurasa</text>
+		<text id="tool.addPagesBackground.desc" h="C639A1B2">Inaweka mandharinyuma gumu ama ya mchoro nyuma ya maudhui yaliyo kwenye ukurasa.</text>
+		<text id="tool.addTimeStamp" h="837FE6FB">Weka Mhuri Muda kwenye PDF</text>
+		<text id="tool.addTimeStamp.desc" h="4D80E50C">Inaongeza mhuri wa muda kutoka kwa seva iliyoidhinishwa na ambayo inathibitisha maudhui sahihi ya PDF mzima wakati mhuri unawekwa.</text>
+		<text id="tool.addWatermarks" h="F5662DD3">Ongeza Taswira Fifi</text>
+		<text id="tool.addWatermarks.desc" h="434D9E42">Inaongeza matini ama taswira inayooenekana mbele ama nyuma ya maudhui ya ukurasa uliopo.</text>
+		<text id="tool.certifyPDF" h="52B0ED47">Thibitisha PDFs</text>
+		<text id="tool.certifyPDF.desc" h="828838CF">Inalinda nyaraka za PDF kwa kuzithibitisha kutumia aina ya uga wa saini unaoitwa saini iliyothibitishwa.</text>
+		<text id="tool.changeProps" h="89CBAD2F">Badilisha Sifa za Waraka</text>
+		<text id="tool.changeProps.desc" h="40BD1FE7">Inaweka sifa za waraka: kichwa, mwandishi, mada, maneo msingi, etc.</text>
+		<text id="tool.clearDigSign" h="361BBD36">Futa Saini Zote za Dijitali</text>
+		<text id="tool.clearDigSign.desc" h="E1CDD425">Inaonda saini zote za dijitali iwapo inawezekana, na kuacha nyuga za saini ambazo hazijasainiwa.</text>
+		<text id="tool.convertToPDFA" h="86709E15">Geuza kuwa PDF/A</text>
+		<text id="tool.convertToPDFA.desc" h="7DDE1660">Inafanya waraka tangamanifu na kiwango cha PDF/A kwa uhifadhi wa muda mrefu na mahitaji ya utunzaji.</text>
+		<text id="tool.convertToPDFX" h="1D70370D">Geuza kuwa PDF/X</text>
+		<text id="tool.convertToPDFX.desc" h="CB599882">Inafanya waraka tangamanifu na kiwango cha PDF/X kwa ubadilishaji wa data ya uchapishaji.</text>
+		<text id="tool.copied" h="348DE55D">Nakili</text>
+		<text id="tool.createWeblinks" h="F68EDD51">Unda Viungo Wavuti</text>
+		<text id="tool.createWeblinks.desc" h="6971A17D">Inaunda viungo wavuti kutoka kwa maudhui ya matini ya waraka.</text>
+		<text id="tool.cropPages" h="54A95B63">Puna Kurasa</text>
+		<text id="tool.cropPages.desc" h="A9A477BE">Inarekebisha eneo onefu la ukurasa, kubadilisha ama kutoa pambizo nyeupe kwenye kurusa, kuweka visanduku vya ukurasa.</text>
+		<text id="tool.deleteComments.all" h="E8642222">Futa Maoni Yote</text>
+		<text id="tool.deleteComments.all.desc" h="818B531A">Inafuta maoni yote kutoka kwa waraka.</text>
+		<text id="tool.deleteComments.form" h="37ECB4B5">Futa Nyuga za Fomu</text>
+		<text id="tool.deleteComments.form.desc" h="C5D21570">Inafuta nyuga za fomu kutoka kwa waraka.</text>
+		<text id="tool.deleteComments.links" h="CC8F1411">Futa Viungo</text>
+		<text id="tool.deleteComments.links.desc" h="66D48AF5">Inafuta viungo kutoka kwa waraka.</text>
+		<text id="tool.deleteComments.markup" h="EA5127FB">Futa Fasili Dhulishi</text>
+		<text id="tool.deleteComments.markup.desc" h="80CD5AA0">Inafuta fasili dhulishi kutoka kwa waraka.</text>
+		<text id="tool.deleteComments.weblinks" h="87C8439E">Futa Viungo Wavuti</text>
+		<text id="tool.deleteComments.weblinks.desc" h="158E179F">Inafuta viungo wavuti kutoka kwa waraka.</text>
+		<text id="tool.deletePages" h="E5284839">Futa Kurasa</text>
+		<text id="tool.deletePages.desc" h="4E1EBD43">Inafuta kurasa kutoka kwa waraka.</text>
+		<text id="tool.descTip" h="04F6C0B5">Ingiza ufafanuzi wa zana...</text>
+		<text id="tool.discardPDFStd" h="E608B980">Tupilia PDF-Standard Spesheli</text>
+		<text id="tool.discardPDFStd.desc" h="947EF232">Inatupa maelezo spesheli ya kiwango-PDF, kama vile PDF/X, PDF/A, PDF/E, etc.</text>
+		<text id="tool.duplicatePages" h="14C45200">Kurasa Rudufu</text>
+		<text id="tool.duplicatePages.desc" h="0FD26A6C">Kurasa rudufu za waraka wa PDF.</text>
+		<text id="tool.extractImagesFromPDF" h="4CF9FEB6">Opoa Taswira kutoka kwa PDF</text>
+		<text id="tool.extractImagesFromPDF.desc" h="C53280A8">Inaangalia kwenye PDF(s) taswira za raster za kuopoa zilizomo kwenye maudhui ya waraka, kisha inazihifadhi kwenye faili kwenye diski.</text>
+		<text id="tool.extractPages" h="7AE73EC1">Opoa Kurasa</text>
+		<text id="tool.extractPages.desc" h="54BB795B">Inaopoa masafa ya kurasa tajwa kutoka kwa waraka wa PDF kwa waraka mpya.</text>
+		<text id="tool.filesToPDF" h="4CD7DD2F">Geuza Faili kuwa PDF</text>
+		<text id="tool.filesToPDF.desc" h="603206C4">Inageuza faili ingizo na umbizo zinazokubaliwa kuwa PDF.</text>
+		<text id="tool.flattenComments" h="CBA1AA18">Tandaza Fasili</text>
+		<text id="tool.flattenComments.desc" h="20A41E96">Inageuza fasili kuwa vipengee maudhui msingi.</text>
+		<text id="tool.imagesToPDF" h="B0C7E05C">Unda PDF kutoka kwa Taswira</text>
+		<text id="tool.imagesToPDF.desc" h="0FDB3BE0">Inaunda waraka mmoja wa PDF kutoka kwa taswira moja ama zaidi za Raster.</text>
+		<text id="tool.insertEmptyPages" h="3779032F">Ingiza Kurasa Tupu</text>
+		<text id="tool.insertEmptyPages.desc" h="65380D33">Inaingiza kurasa tupu kwenye waraka.</text>
+		<text id="tool.insertPages" h="6B486B45">Ingiza Kurasa</text>
+		<text id="tool.insertPages.desc" h="E986FB1C">Inaingiza kurasa za waraka kutoka kwa waraka mwingine.</text>
+		<text id="tool.isused" h="F0A66FDB">Haiwezekani kufuta zana ya &lt;b&gt;"%1"&lt;/b&gt;.
+Inatumika na kifuatiliaji kabrasha kingine.</text>
+		<text id="tool.nameTip" h="92682EAF">Ingiza jina la zana...</text>
+		<text id="tool.new.name" h="6431F60C">Zana Mpya</text>
+		<text id="tool.ocrPages" h="D2A189BC">OCR Kurasa</text>
+		<text id="tool.ocrPages.desc" h="E9D91493">Inatambua vibambo vya matini kwenye waraka wa PDF, kisha inaunda rusu la matini linaloweza kuteuliwa kwenye kurasa.</text>
+		<text id="tool.optimizePDF" h="E369C144">Boresha PDF</text>
+		<text id="tool.optimizePDF.desc" h="2DDF7F6C">Inaboresha maudhui ya waraka kupunguza ukubwa wa faili la PDF iwapo inawezekana.</text>
+		<text id="tool.overlayDoc" h="A113E021">PDF Tandazo</text>
+		<text id="tool.overlayDoc.desc" h="8AC5B664">Inatandaza waraka wa PDF na waraka mwingine wa PDF.</text>
+		<text id="tool.pageTransitions" h="B5EF0B7A">Wekka Mipito ya Kurasa</text>
+		<text id="tool.pageTransitions.desc" h="33F5B755">Inabadilisha mipito spesheli ya kurasa kwenye hali ya skrini nzima.</text>
+		<text id="tool.pdfToDOCX" h="D89F515F">Hamisha PDF kwa Waraka wa Microsoft Word</text>
+		<text id="tool.pdfToDOCX.desc" h="D34FB81F">Inahmisha PDF kwa Faili za Waraka za Microsoft Word (*.docx)</text>
+		<text id="tool.pdfToImages" h="6DC3C315">Hamisha PDF kwa Taswira</text>
+		<text id="tool.pdfToImages.desc" h="87E8923B">Inahamisha kwa urahisi kurasa kutoka kwa PDF moja ama zaidi kuwa taswira za raster zenye umbizo tofauti zikiwemo JPEG, PNG, TIFF, etc.</text>
+		<text id="tool.pdfToPPTX" h="E673A7B8">Hamisha PDF kwa Maonyesho ya Microsoft PowerPoint</text>
+		<text id="tool.pdfToPPTX.desc" h="65E608C6">Inahmisha PDF kwa Faili za Maonyesho za Microsoft PowerPoint (*.pptx)</text>
+		<text id="tool.pdfToTXT" h="29DDD177">Hamisha PDF kwa Matini Ghafi</text>
+		<text id="tool.pdfToTXT.desc" h="9C277C15">Inahmisha PDF kwa Faili za Matini Ghafi (*.txt)</text>
+		<text id="tool.pdfToXSLX" h="A31C131A">Hamisha PDF kwa Lahajedwali ya Microsoft Excel</text>
+		<text id="tool.pdfToXSLX.desc" h="325AEA86">Inahmisha PDF kwa Faili za Lahajedwali za MS Excel (*.xlsx)</text>
+		<text id="tool.removeBackground" h="E0246483">Ondoa Mandharinyuma ya Ukurasa</text>
+		<text id="tool.removeBackground.desc" h="17700648">Inaondoa mandharinyuma binafsi kutoka kwa (u)kurasa na kurejesha chaguo-msingi la mandharinyuma nyeupe gumu.</text>
+		<text id="tool.removeBatesNumbering" h="901F5ABD">Ondoa Unambizaji wa Bates</text>
+		<text id="tool.removeBatesNumbering.desc" h="E4FBEB3C">Ondoa Unambizaji wa Bates</text>
+		<text id="tool.removeHeaderAndFooter" h="11E8A996">Ondoa Vijajuu na Vijaachini</text>
+		<text id="tool.removeHeaderAndFooter.desc" h="E1CC0743">Ondoa Vijajuu na Vijaachini vyote viliopo.</text>
+		<text id="tool.removeWatermarks" h="93F16CE2">Ondoa Taswira Fifi</text>
+		<text id="tool.removeWatermarks.desc" h="AFCD3BD4">Inandoa Taswira Fifi zote kutoka kwa waraka.</text>
+		<text id="tool.replacePages" h="1311083C">Badilisha Kurasa</text>
+		<text id="tool.replacePages.desc" h="9C48D712">Inabadilisha kurasa kwenye waraka na kursa kutoka kwa waraka ulioteuliwa.</text>
+		<text id="tool.report.dlg" h="E9D63CB7">Zana ya Ripoti</text>
+		<text id="tool.report.filename" h="C7908B93">Ripoti ya Uendeshi Zana</text>
+		<text id="tool.report.save" h="418B87C2">Hifadhi kwa Faili...</text>
+		<text id="tool.resizePages" h="8A5C31F1">Badilisha Ukubwa wa Kurasa</text>
+		<text id="tool.resizePages.desc" h="822401DC">Inaongeza ama kupunguza ukubwa wa faili, kurekebisha maudhui ya ukurasa kwa hiari.</text>
+		<text id="tool.rotatePages" h="CBD82045">Zungusha Kurasa</text>
+		<text id="tool.rotatePages.desc" h="66235E38">Inageuza ukurasa uliotajwa digrii 90 kisaa ama kinyume saa kwenye waraka wa PDF.</text>
+		<text id="tool.scanToPDF" h="B9A05395">Tambaza kwa PDF</text>
+		<text id="tool.scanToPDF.desc" h="521CD5C0">Inaunda waraka mpya wa PDF kutoka kwa waraka ulio kwenye karatasi ikitumia kitambazo chako.</text>
+		<text id="tool.securePDF" h="400E69FB">Linda PDF</text>
+		<text id="tool.securePDF.desc" h="322DE365">Inalinda waraka wako wa PDF kwa kuweka nenosiri la kufungua na/ama kubadilisha maudhui ya waraka.</text>
+		<text id="tool.sendMail" h="9377A75B">Tuma Barua Pepe</text>
+		<text id="tool.sendMail.desc" h="13681586">Tuma faili kwa barua pepe iliyotajwa ukitumia Mbinu ya Utumaji Barua iliopo sasa.</text>
+		<text id="tool.splitMergePDF" h="51A86996">Gawanya/Unganisha PDFs</text>
+		<text id="tool.splitMergePDF.desc" h="73710D3B">Inaunganisha PDF ingizo zote kuwa moja ama kuzigawanya kuwa PDFs mpya, kiotomatiki na/ama kwa mkono.</text>
+		<text id="tool.splitPages" h="2648812F">Gawanya Kurasa</text>
+		<text id="tool.splitPages.desc" h="4FA35C77">Gawanya kurasa za waraka wa PDF.</text>
+		<text id="tool.summarizeComments" h="2233C1CD">Fanya Muhtasari wa Maoni</text>
+		<text id="tool.summarizeComments.desc" h="8EA1DEF5">Inaunda muhtasari kutoka kwa maoni yote yaliyo kwenye PDF.</text>
+		<text id="tool.textToPDF" h="ECE46B63">Unda PDF kutoka kwa Matini</text>
+		<text id="tool.textToPDF.desc" h="E1CF697C">Inaunda waraka mmoja wa PDF kutoka kwa faili moja ya matini ama zaidi.</text>
+		<text id="tool.warn.actInvalid1" h="8442B509">Shida moja ama zaidi zimepatikana na kitendo hiki:</text>
+		<text id="tool.warn.actInvalid2" h="442E6045">Shida ilipatikana na kitendo hiki:</text>
+		<text id="tool.warn.actReqDoc" h="76C84E2B">kitendo hiki kinahitaji PDFs, taswira ama faili zingenezo zinazokubaliwa kama ingizo</text>
+		<text id="tool.warn.actReqFile1" h="0B30D02F">kitendo hiki kinahitaji faili kama ingizo - unaweza kuingiza kitendo cha &lt;u&gt;%1&lt;/u&gt; kabla ya hiki kutatua shida hili.</text>
+		<text id="tool.warn.actReqFile2" h="CA8342FE">kietndo hiki kinahtaji faili kama ingizo</text>
+		<text id="tool.warn.actReqFile21" h="65B62BA0">inaonekana kuwa ulisahau kuingiza kitendo &lt;u&gt;%1&lt;/u&gt; kabla ya hiki</text>
+		<text id="tool.warn.actReqImg" h="D28A3C63">kitendo hiki kinahitaji taswira kama ingizo</text>
+		<text id="tool.warn.actReqSaveRes" h="3621DC81">inahitajika kuhifadhi matokeo ya kitendo hiki kwenye diski - unaweza ingiza kitendo &lt;u&gt;%1&lt;/u&gt; baada ya kutatua shida hili</text>
+		<text id="tool.warn.actReqSaveRes2" h="9B55FE54">zana ina &lt;u&gt;%1&lt;/u&gt; baadhi ya vitendo vya awali na matokeo yake ni lazima yahifadhiwe kabla ya kutekeleza kitendo &lt;i&gt;1&lt;/i&gt;. Unafaa kuongeza kitendo &lt;u&gt;%2&lt;/u&gt; </text>
+		<text id="tool.warn.actTitle" h="7330FC41">&lt;u&gt;%1&lt;/u&gt; kitendo:</text>
+		<text id="tool.warn.cancel" h="8DD6365D">Je, unataka kukomesha utekelezaji wa zana &lt;b&gt;"%1"&lt;/b&gt; ?/nIkiwa la - bonyeza &lt;b&gt;La&lt;/b&gt; kuendelea na kazi...</text>
+		<text id="tool.warn.empty" h="D05A0C43">zana hili ni tupu - unaweza kubonyeza kitufe cha '&lt;b&gt;Edit&lt;/b&gt;' kwenye upauzana na kuongeza vitendo kuunda zana inayofanya kazi.</text>
+		<text id="tool.warn.empty2" h="B4FD144F">Zana ni tupu: hakuna vitendo.</text>
+		<text id="tool.warn.imgNotFound" h="9A768995">Taswira hazikupatikana.</text>
+		<text id="tool.warn.invalidActList" h="A2BB75D7">Zana inaorodha batili ya vitendo.</text>
+		<text id="tool.warn.nextActNotSuitable" h="17376D04">kitendo &lt;i&gt;kinachofuata&lt;/i&gt; hakifai kwa sababu haikubali matokeo ya kitendo &lt;i&gt;hiki&lt;/i&gt; kama ingizo.</text>
+		<text id="tool.warn.nextActNotSuitable2" h="49941252">Unaweza kuingiza kitendo &lt;u&gt;%1&lt;/u&gt; baada ya kurekebisha shida &lt;i&gt;hili&lt;/i&gt;</text>
+		<text id="tool.warn.runInvalid" h="58A31432">Zana &lt;b&gt;"%1"&lt;/b&gt; ni batili. Ilikuiendesha, unafaa kurekebisha orodha ya vitendo.
+Ungetaka kuhariri zana?</text>
+		<text id="tool.warn.toolInvalid1" h="D448BEEB">Shida moja ama zaidi zimepatikana na zana hili:</text>
+		<text id="tool.warn.toolInvalid2" h="560926B8">Shida ilipatikana na kitendo hiki:</text>
+		<text id="toolActionsList" h="C9BE1A16">Mfuatano wa Vitendo vya Zana</text>
+		<text id="toolCategories" h="DB5C4D49">Kategeori</text>
+		<text id="toolInfo" h="979A9FE1">Maelezo ya Zana</text>
+		<text id="toolInfo.defaultDesc" h="D1FD06B6">Chagua zana kutoka kwa orodha ya zana kuona maelezo.</text>
+		<text id="toolcat.PDFStandard" h="E51FAF25">Kiwango cha PDF</text>
+		<text id="toolcat.advanced" h="59A2B513">Kiwango cha Juu</text>
+		<text id="toolcat.all" h="BF2EE9E9">Zana Zote</text>
+		<text id="toolcat.comments" h="FA5EB905">Maoni</text>
+		<text id="toolcat.createPDF" h="ACF7EBD1">Unda PDF</text>
+		<text id="toolcat.customTools" h="22F07048">Zana Binafsi</text>
+		<text id="toolcat.exportPDF" h="4AE54AB5">Hamisha PDF</text>
+		<text id="toolcat.favorites" h="310DA860">Vipendwa</text>
+		<text id="toolcat.importedTools" h="48FF1B1E">Zana Zilizoteuliwa</text>
+		<text id="toolcat.mostUsed" h="6274AE53">Zilizotumika Sana</text>
+		<text id="toolcat.newname" h="DB2A8F96">Kategori Mpya</text>
+		<text id="toolcat.optimizePDF" h="E369C144">Boresha PDF</text>
+		<text id="toolcat.pages" h="47B1CB74">Kurasa</text>
+		<text id="toolcat.protection" h="B7EE190B">Ulinzi</text>
+		<text id="toolcat.recents" h="F90189AF">Za Hivi Karibuni</text>
+		<text id="toolsList" h="CA8BB4DB">Zana</text>
+		<text id="toolselect.lbl" h="ECBB264F">Teua zana kutekeleza:</text>
+		<text id="toolslist.drop.nofiles" h="4F3412DD">Hakuna faili zakuangusha.</text>
+		<text id="toolsview.warning.emptyname" h="38B7A2E0">Jina la zana halifai kuwa tupu.</text>
+		<text id="type" h="710B61B4">Aina</text>
+		<text id="usebmname.chk" h="A4B3C883">Tumia majina ya vialamisho kama jina la waraka.</text>
+		<text id="userui.disable" h="14084105">Lema uingiliani</text>
+		<text id="userui.tooltip" h="05865038">Inalemaza UI yote wakati wa utekelezaji wa zana (kuonyesha matokeo ya faili, mipangilio zaidi ya vitendo...)
+TAMBUA: baadhi ya vitendo (f.e &lt;b&gt;"%1"&lt;/b&gt;) vinahitaji unanzilishaji: UI ya usanidi itaonyeshwa &lt;u&gt;mara moja&lt;/u&gt;.</text>
+		<text id="userui.usetool" h="D5A05798">Tumia mipangilio ya zana</text>
+		<text id="usetool.filter" h="4885292B">Tumia kichujio kutoka kwa zana</text>
+		<text id="warn.textDocSkipOCR" h="FB74BE26">Waraka wa PDF una matini. Operesheni ya OCR itatekelezwa.</text>
+		<text id="wrong.file.msg" h="9F0126B0">Imeshindwa kufungua PDF tandazo:
+&lt;b&gt;%1&lt;/b&gt;:
+%2
+Ungetaka kuchagua nyingine?</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180627193137">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="XCShellMenu"/>
+	<Language eName="Finnish (Finland)" lName="Suomi" code="fi-FI" R2L="false"/>
+	<Module name="XCShellMenu" namespace="" version="7.0.325.10"/>
+	<Strings>
+		<text id="menu.open" h="D08F8302">Avaa PDF-XChange Editorissa </text>
+		<text id="menu.combine" h="BF3B40FB">Yhdistä PDF-XChange Editorissa</text>
+		<text id="menu.open.help" h="DB2C9B04">Avaa tiedostoja PDF-XChange Editorissa</text>
+		<text id="menu.combine.help" h="3E8460C6">Yhdistä tiedostoja PDF-XChange Editorissa</text>
+	</Strings>
+</Localization>

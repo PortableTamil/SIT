@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180402175539">2.00.00</Version>
+	<Author>Jungle, Inc / Tz</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Japanese (Japan)" lName="日本語" code="ja-JP" R2L="false"/>
+	<Module name="FileOpenSH" namespace="fopw" version="7.0.324.4"/>
+	<Strings>
+		<text id="secure.printer.title" h="448D1D7F">このプリンタは許可されていません。</text>
+		<text id="secure.printer.text" h="7488F002">このプリンタはセキュア（安全）ではありません。他のプリンタを選択して下さい。</text>
+	</Strings>
+</Localization>
