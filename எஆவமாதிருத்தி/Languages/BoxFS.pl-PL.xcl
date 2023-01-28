@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20181205073710">2.00.00</Version>
+	<Author>Logilink, poprawki i uzupełnienia Skiff</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Polish (Poland)" lName="Polski" code="pl-PL" R2L="false"/>
+	<Module name="BoxFileSysPlugin" namespace="bx" version="7.0.327.10"/>
+	<Strings>
+		<text id="DlgOpenFile" h="86E98AB4">Otwórz plik z Box.com</text>
+		<text id="DlgSaveFile" h="92FACB0A">Zapisz plik na Box.com</text>
+		<text id="GDPlugin" h="B688EC2F">Wtyczka Box.com</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Nowe logowanie</text>
+		<text id="cmd.cmdsCategory" h="31FA0599">Box.com</text>
+		<text id="cmd.boxcom" h="75541700">&amp;Box.com</text>
+		<text id="cmd.open" h="031B6D18">&amp;Box.com...</text>
+		<text id="cmd.open.tip" h="62BC57EF">Otwórz dokument z Box.com.</text>
+		<text id="cmd.save" h="031B6D18">&amp;Box.com...</text>
+		<text id="cmd.save.tip" h="504ADEEC">Zapisz aktywny dokument na Box.com.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Nie znaleziono pliku</text>
+		<text id="cpt.invalidFileName" h="79C1387C">Nieprawidłowa nazwa pliku</text>
+		<text id="cpt.navigateError" h="3D300A1C">Błąd nawigacji</text>
+		<text id="cpt.saveReplace" h="520CB069">Zapisz plik</text>
+		<text id="cpt.selectFile" h="C55D68B0">Wybór pliku</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Nie można zapisać pliku do folderu</text>
+		<text id="dlg.Auth" h="D0142F48">Uwierzytelnianie Box.com</text>
+		<text id="fileName" h="DEC92488">Nazwa pliku:</text>
+		<text id="lb.CurrentFolder" h="44158804">Bieżący folder:</text>
+		<text id="lb.Test" h="273F3E5B">Test Test Test!</text>
+		<text id="lb.googleAccName" h="AC7C938D">Konto Box.com:</text>
+		<text id="ls.column.created" h="FE6510B7">Data utworzenia</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Data i godzina utworzenia pliku, folderu lub listy</text>
+		<text id="ls.column.extension" h="14FEB836">Rozszerzenie</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Rozszerzenie pliku</text>
+		<text id="ls.column.modified" h="7E234D6D">Data modyfikacji</text>
+		<text id="ls.column.modified.hint" h="12933E76">Data i godzina ostatniej modyfikacji pliku, folderu lub listy</text>
+		<text id="ls.column.size" h="17A58A52">Rozmiar</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Rozmiar pliku</text>
+		<text id="ls.column.title" h="D18643E3">Nazwa</text>
+		<text id="ls.column.title.hint" h="6A895576">Nazwa pliku, nazwa folderu lub tytuł listy</text>
+		<text id="msg.fileNotFound" h="430E08B1">Plik "%1" nie został znaleziony w bieżącym folderze.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" nie jest prawidłową nazwą pliku.</text>
+		<text id="msg.navigateError" h="93AD3E71">Nie można przejść do zasobu Box.com. Sprawdź połączenie internetowe i prawa dostępu do żądanego zasobu Box.com.</text>
+		<text id="msg.openFailed" h="AC94D960">Nie udało się otworzyć pliku. Upewnij się, że plik istnieje, nie jest przypisany do innego użytkownika i masz uprawnienia do odczytu dla niego.</text>
+		<text id="msg.saveFailed" h="4D413392">Nie udało się zapisać pliku. Upewnij się, że nazwa pliku jest poprawna i masz uprawnienia do zapisu dla niego.</text>
+		<text id="msg.saveReplace" h="5D56833E">Plik %1 już istnieje. Czy chcesz go zamienić?</text>
+		<text id="msg.selectFile" h="2530C20F">Wybierz plik przed naciśnięciem OK</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Plik nie może zostać zapisany w wybranej lokalizacji. Wybierz folder 'Mój dysk', jeden z jego podfolderów lub jeden z podfolderów 'Udostępnione dla mnie', aby zapisać plik.</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">Mój dysk</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Udostępnione dla mnie</text>
+		<text id="addFolder.title" h="42CD8D51">Utwórz folder</text>
+		<text id="addFolder.message" h="940CF2FA">Wprowadź nową nazwę folderu</text>
+		<text id="addFolderError.title" h="DDB9C8A8">Nie można utworzyć folderu</text>
+		<text id="addFolderError.message" h="9294B942">Nie można utworzyć folderu na Box.com. Sprawdź połączenie internetowe i prawa dostępu do żądanego zasobu Box.com.</text>
+		<text id="btn.addFolder.text" h="69FFFB47">&amp;Utwórz folder</text>
+		<text id="btn.settings" h="9757D0D9">Opcje...</text>
+		<text id="deleteError.title" h="002A7E1A">Nie można usunąć elementu</text>
+		<text id="deleteError.message" h="D4B0C004">Nie można usunąć %1 "%2" na Box.com. %3</text>
+		<text id="deleteError.reason" h="3C580AC0">Sprawdź połączenie internetowe i prawa dostępu do żądanego zasobu Box.com.</text>
+		<text id="btn.delete.text" h="ED580C1E">&amp;Usuń</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">W &amp;górę</text>
+		<text id="file" h="AFFADF08">plik</text>
+		<text id="folder" h="1DAC8D17">folder</text>
+		<text id="deleteError.unknownItem.message" h="9BDB4091">Nie można usunąć elementu z Box.com. %1</text>
+		<text id="delete.title" h="FC00502F">Usuń elementy</text>
+		<text id="delete.message" h="16714AA7">Czy usunąć %1 "%2"?</text>
+		<text id="deleteMulti.message" h="6A5DFE06">Czy usunąć %1 elementów z folderu "%2" na Box.com?</text>
+		<text id="deleteMultiRoot.message" h="AB66D793">Czy usunąć %1 elementów z folderu źródłowego na Box.com?</text>
+		<text id="deleteMulti.progress" h="7A18F8DD">Usuwanie elementu %1 z %2</text>
+		<text id="deleteMulti.progress.title" h="D98549E6">Usuwanie elementów z Box.com</text>
+		<text id="deleteSingle.progress" h="B781BCCF">Usuwanie %1 "%2"</text>
+		<text id="deleteSingle.progress.title" h="944FFD63">Usuwanie elementu z Box.com</text>
+	</Strings>
+</Localization>

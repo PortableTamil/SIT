@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180920235159">2.00.00</Version>
+	<Author>Christian A.</Author>
+	<Copyright>Translated by Christian A.</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Indonesian (Indonesia)" lName="Indonesia" code="id-ID" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="7.0.326.10"/>
+	<Strings>
+		<text id="DlgAppPrefs.SharePoint.Name" h="56A5F9B3">SharePoint</text>
+		<text id="DlgAppPrefs.SharePoint.Title" h="07F34B45">Opsi SharePoint</text>
+		<text id="btn.cancelSaving" h="36FF91F6">&amp;Batalkan Penyimpanan di Server</text>
+		<text id="btn.checkIn" h="09996473">&amp;Check In</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">C&amp;heck In dan Pertahankan Check Out</text>
+		<text id="btn.clearLogs" h="848E003C">Hapus Semua</text>
+		<text id="btn.connect" h="A79F815C">&amp;Hubungkan</text>
+		<text id="btn.discardCheckOut" h="40AC5603">&amp;Abaikan Check Out</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">&amp;Pertahankan Check Out</text>
+		<text id="btn.navigate" h="B03F439E">&amp;Navigasi</text>
+		<text id="btn.open" h="B1A510F0">&amp;Buka</text>
+		<text id="btn.openLog" h="F3E66367">Buka</text>
+		<text id="btn.openLogFolder" h="0B1D9C13">Buka Folder</text>
+		<text id="btn.openWithCheckOut" h="2F774735">Buka dengan C&amp;heck Out</text>
+		<text id="btn.overwrite" h="48E63C4C">&amp;Timpa</text>
+		<text id="btn.resetPreferences" h="A7132527">Set Ulang ke Bawaan</text>
+		<text id="btn.save" h="F363C410">&amp;Simpan</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">&amp;Simpan dan Check Out</text>
+		<text id="btn.saveReplace" h="11BF9724">Simpan dan Ganti</text>
+		<text id="btn.settings" h="4AD05264">P&amp;engaturan</text>
+		<text id="btn.signOut" h="645CEBE2">&amp;Keluar</text>
+		<text id="cb.url.tip" h="CD81E674">Masukkan alamat...</text>
+		<text id="cbitem.afterSave.ask" h="5F9AC292">Tanyakan yang harus dilakukan</text>
+		<text id="cbitem.afterSave.checkIn" h="FA91CFF8">Check in</text>
+		<text id="cbitem.afterSave.checkInCheckOut" h="6C7252F6">Check in dan check out</text>
+		<text id="cbitem.afterSave.keepCheckOut" h="F4487016">Pertahankan check out</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.ask" h="5F9AC292">Tanyakan yang harus dilakukan</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.discardCheckOut" h="CA75DE00">Abaikan check out</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.keepCheckOut" h="F4487016">Pertahankan check out</text>
+		<text id="cbitem.closeNeedCheckIn.ask" h="5F9AC292">Tanyakan yang harus dilakukan</text>
+		<text id="cbitem.closeNeedCheckIn.checkIn" h="FA91CFF8">Check in</text>
+		<text id="cbitem.closeNeedCheckIn.checkInCheckOut" h="6C7252F6">Check in dan check out</text>
+		<text id="cbitem.closeNeedCheckIn.keepCheckOut" h="F4487016">Pertahankan check out</text>
+		<text id="cbitem.logLevel.error" h="A393623F">Kesalahan saja</text>
+		<text id="cbitem.logLevel.information" h="2039C12A">Semua informasional</text>
+		<text id="cbitem.logLevel.none" h="1E317BDF">Tanpa logging</text>
+		<text id="cbitem.logLevel.verbose" h="C7EEABE5">Logging verbose sepenuhnya</text>
+		<text id="cbitem.logLevel.warning" h="427C1C47">Peringatan dan kesalahan</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.ask" h="5F9AC292">Tanyakan yang harus dilakukan</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.checkOut" h="95775966">Buka dan check out</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.open" h="38A34D1A">Buka tanpa check out</text>
+		<text id="cbitem.whenSaveConflict.ask" h="5F9AC292">Tanyakan yang harus dilakukan</text>
+		<text id="cbitem.whenSaveConflict.cancel" h="554F5523">Batalkan penyimpanan di server</text>
+		<text id="cbitem.whenSaveConflict.overwrite" h="B67489D8">Timpa versi server</text>
+		<text id="check.dontShowThisMessageAgain" h="AC16D0EE">Jangan tampilkan pesan ini lagi</text>
+		<text id="check.whenOpenDocumentCheckoutNoneDisableEditing" h="778336E0">Nonaktifkan penyuntingan</text>
+		<text id="check.whenOpenDocumentCheckoutNoneShowWarning" h="E97BFF00">Tampilkan pesan peringatan</text>
+		<text id="cmd.checkIn" h="AEF235ED">Check &amp;In</text>
+		<text id="cmd.checkIn.tip" h="C9DCA405">Check In berkas dokumen ke SharePoint.</text>
+		<text id="cmd.checkOut" h="E6A87AFE">Check &amp;Out</text>
+		<text id="cmd.checkOut.tip" h="E1B64D30">Check Out berkas dokumen dari SharePoint.</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">&amp;Abaikan Check Out</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">Abaikan berkas yang di-check out di SharePoint.</text>
+		<text id="cmd.enableEditing" h="340AFFD4">&amp;Aktifkan Penyuntingan</text>
+		<text id="cmd.enableEditing.tip" h="8A29948D">Aktifkan fitur interaktif dan penyuntingan.</text>
+		<text id="cmd.open" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.open.tip" h="007B7200">Buka dokumen dari SharePoint.</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">Siapkan &amp;Info Berkas</text>
+		<text id="cmd.prepareFileInfo.tip" h="E609EA07">Siapkan informasi berkas di SharePoint</text>
+		<text id="cmd.save" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.save.tip" h="C48C1C25">Simpan dokumen yang aktif di SharePoint.</text>
+		<text id="cmd.share_point" h="B7423C0E">Share&amp;Point</text>
+		<text id="cmd.share_point.tip" h="CA99078B">Bekerja dengan dokumen di SharePoint</text>
+		<text id="dlg.liveLogin" h="BFADC685">Log Masuk Langsung</text>
+		<text id="dlg.openFile" h="435887CD">Buka Berkas</text>
+		<text id="dlg.saveFile" h="520CB069">Simpan Berkas</text>
+		<text id="group.Logging" h="F9DEFF33">Logging</text>
+		<text id="group.documentActions" h="64C10405">Bekerja dengan dokumen</text>
+		<text id="ibar.cannotEditEditing" h="13F24128">Anda tidak memiliki izin untuk menyunting berkas di server. Yang diizinkan hanya menyimpan sebagai salinan lokal.</text>
+		<text id="ibar.cannotEditNoEditing" h="52C758B6">Anda tidak memiliki izin untuk menyunting berkas di server. Semua fitur interaktif dan penyuntingan dinonaktifkan.</text>
+		<text id="ibar.checkedOutToMe" h="B5AF7047">Berkas di-check out untuk Anda.</text>
+		<text id="ibar.checkedOutToOtherEditing" h="4F420124">Berkas di-check out untuk %1. Anda tidak akan dapat menyimpan berkas di server.</text>
+		<text id="ibar.checkedOutToOtherNoEditing" h="B8C2709A">Berkas di-check out untuk %1. Semua fitur interaktif dan penyuntingan dinonaktifkan.</text>
+		<text id="ibar.notCheckedOutEditing" h="A4D56FD1">Berkas tidak di-check out. Jika pengguna lain mengubah berkas di server, Anda tidak akan dapat menyimpan perubahan di berkas ini.</text>
+		<text id="ibar.notCheckedOutNoEditing" h="E3EA5586">Berkas tidak di-check out. Semua fitur interaktif dan penyuntingan dinonaktifkan.</text>
+		<text id="ibar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="ibar.sharepoint.description" h="6F2E3CDD">Tindakan dan informasi konteks dokumen SharePoint</text>
+		<text id="ibar.sharepoint.title" h="C3F43468">Dokumen SharePoint</text>
+		<text id="lb.afterSave" h="6ABC46B3">Saat dokumen disimpan:</text>
+		<text id="lb.checkInComment" h="694DD18A">Komentar (opsional):</text>
+		<text id="lb.closeDoesNotNeedCheckIn" h="7B029545">Saat menutup, check out dokumen tanpa perubahan:</text>
+		<text id="lb.closeNeedCheckIn" h="E2376C82">Saat menutup, check out dokumen dengan perubahan:</text>
+		<text id="lb.currentLogFile" h="79D35843">Log sekarang:</text>
+		<text id="lb.name" h="F7B9E475">Nama berkas:</text>
+		<text id="lb.numberOfDaysToStoreLogs" h="E12F4F23">Simpan log (hari)</text>
+		<text id="lb.sharePointPlaceUrl" h="F900769A">URL SharePoint:</text>
+		<text id="lb.sharePointPlaceValidUrl" h="9BFA1D20">Gagal tersambung ke server SharePoint. Silakan periksa koneksi internet dan URL servernya.</text>
+		<text id="lb.whenOpenDocumentCheckoutNone" h="1BB05A3E">Saat buka dokumen tanpa check out ke siapa pun:</text>
+		<text id="lb.whenOpenDocumentCheckoutOther" h="8E43C402">Saat buka dokumen yang check out ke pengguna lain:</text>
+		<text id="lb.whenOpenDocumentWithoutWritePermissions" h="4ACDAA34">Saat membuka dokumen tanpa izin menulis:</text>
+		<text id="lb.whenSaveConflict" h="174E79E4">Saat dokumen tersimpan di server diubah:</text>
+		<text id="ls.column.created" h="FE6510B7">Tanggal dibuat</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Tanggal dan waktu saat berkas, folder, atau daftar dibuat</text>
+		<text id="ls.column.extension" h="14FEB836">Ekstensi</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Ekstensi berkas</text>
+		<text id="ls.column.modified" h="691C3610">Tanggal Diubah</text>
+		<text id="ls.column.modified.hint" h="12933E76">Tanggal dan waktu saat berkas, folder, atau daftar diubah terakhir kali</text>
+		<text id="ls.column.size" h="17A58A52">Ukuran</text>
+		<text id="ls.column.size.hint" h="E79CA174">Ukuran berkas</text>
+		<text id="ls.column.title" h="D18643E3">Nama</text>
+		<text id="ls.column.title.hint" h="81F4F728">Nama berkas, nama folder, atau judul daftar</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">Anda ingin Check In berkas &lt;b&gt;%1&lt;/b&gt; sebelum ditutup? Ini akan menjadikan perubahan tersedia untuk pengguna lain.</text>
+		<text id="msg.askForCheckOutOnOpen" h="B185C3DF">Anda dapat membuka berkas &lt;b&gt;%1&lt;/b&gt; dengan check out untuk mengatur berkas sebagai "hanya baca" untuk pengguna lain sehingga Anda dapat dengan aman mengubahnya dan menyimpan perubahan di SharePoint. Atau Anda dapat mengizinkan pengguna lain untuk mengubah berkas, namun mungkin terjadi konflik jika Anda mencoba mengubah dan menyimpan berkas dari sisi Anda.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">Berkas &lt;b&gt;%1&lt;/b&gt; di-check out untuk Anda. Anda ingin meninggalkan check out dan mengizinkan pengguna lain menyunting berkas?</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">Check In berkas &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="msg.checkInFailed" h="3E327B8B">Berkas &lt;b&gt;%1&lt;/b&gt; gagal check in. Silakan pastikan bahwa berkas ini ada dan di-check out untuk Anda.</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">Berkas &lt;b&gt;%1&lt;/b&gt; gagal check out. Silakan pastikan bahwa berkas ini ada dan di-check out untuk pengguna lain.</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">Anda tidak dapat membuka berkas &lt;b&gt;%1&lt;/b&gt; dengan check out karena di-check out ke pengguna "%2".</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">Berkas &lt;b&gt;%1&lt;/b&gt; di-check out untuk pengguna "%2". Anda tidak dapat menyimpan berkas ini di SharePoint jika tidak di-check out untuk Anda. Namun, Anda dapat menyimpan perubahan Anda di lokasi berbeda.</text>
+		<text id="msg.connectError" h="18DFEDBE">Gagal tersambung ke server SharePoint. Silakan periksa koneksi internet, alamat server, dan hak akses yang diperlukan ke sumber SharePoint.</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">Gagal mengabaikan status check out berkas &lt;b&gt;%1&lt;/b&gt;. Silakan pastikan bahwa berkas ini ada dan di-check out untuk Anda.</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">Anda tidak dapat check out berkas &lt;b&gt;%1&lt;/b&gt; karena Anda tidak memiliki izin sunting untuk berkas ini.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">Anda tidak dapat membuka berkas &lt;b&gt;%1&lt;/b&gt; dengan check out karena Anda tidak memiliki izin sunting untuk berkas ini.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">Anda tidak dapat membuka berkas &lt;b&gt;%1&lt;/b&gt; untuk penyuntingan karena Anda tidak memiliki izin untuk menyunting berkas ini.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">Berkas &lt;b&gt;%1&lt;/b&gt; harus di-check out sebelum disimpan, namun Anda tidak memiliki izin untuk menyunting berkas ini.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="C492B710">Anda tidak dapat menyimpan berkas &lt;b&gt;%1&lt;/b&gt; di SharePoint karena Anda tidak memiliki izin untuk menyunting berkas ini.</text>
+		<text id="msg.fileNotFound" h="381368F8">Berkas &lt;b&gt;%1&lt;/b&gt; tidak ditemukan di folder sekarang.</text>
+		<text id="msg.invalidFileName" h="6BAFE9F2">&lt;b&gt;%1&lt;/b&gt; bukan nama berkas yang valid. Nama berkas tidak dapat mengandung karakter &lt;b&gt;%2&lt;/b&gt;</text>
+		<text id="msg.navigateError" h="CF23B4B6">Gagal menavigasi sumber SharePoint. Silakan periksa koneksi internet, alamat server, dan hak akses yang diperlukan ke sumber SharePoint.</text>
+		<text id="msg.openFailed" h="34DE1259">Gagal membuka berkas. Silakan pastikan bahwa berkas ini ada dan tidak di-check out untuk pengguna lain, dan Anda memiliki izin yang diperlukan untuk mengakses berkas.</text>
+		<text id="msg.outdatedFileOnWrite" h="93CDEA71">Dokumen yang Anda unduh berisi perubahan yang dibuat di &lt;b&gt;%2&lt;/b&gt;, namun server berisi perubahan yang lebih baru, dibuat di &lt;b&gt;%3&lt;/b&gt;. Simpan perubahan Anda di berkas yang baru, lalu buka dokumen terakhir dengan check out dari SharePoint, gabungkan perubahan, dan simpan di server.</text>
+		<text id="msg.outdatedFileOnWrite.question" h="4802DC49">Terjadi konflik perubahan pada berkas &lt;b&gt;%1&lt;/b&gt;. Dokumen yang Anda unduh berisi perubahan yang dibuat di &lt;b&gt;%2&lt;/b&gt;, namun server berisi perubahan yang lebih baru, dibuat di &lt;b&gt;%3&lt;/b&gt;. Anda dapat menimpa versi server atau membatalkan penyimpanan sekarang untuk menyimpan perubahan Anda di berkas yang baru, lalu buka dokumen terakhir dengan check out dari SharePoint, gabungkan perubahan, dan simpan di server.</text>
+		<text id="msg.saveFailed" h="967D2A64">Gagal menyimpan berkas. Silakan pastikan nama berkasnya valid dan tidak di-check out untuk pengguna lain, dan Anda memiliki izin yang diperlukan untuk menyunting berkas.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Berkas &lt;b&gt;%1&lt;/b&gt; sudah ada. Anda ingin menggantinya?</text>
+		<text id="msg.signOutError" h="0E6A5F45">Gagal mengeluarkan pengguna sekarang dari server SharePoint. Namun, Anda mungkin masih dapat mengakses SharePoint tanpa permintaan autentikasi.</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="69F2FCB2">Anda tidak memiliki izin untuk menyunting berkas &lt;b&gt;%1&lt;/b&gt;. Mohon diingat bahwa Anda tidak akan dapat menyimpan perubahan di SharePoint jika tidak memiliki izin yang diperlukan.</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">Berkas &lt;b&gt;%1&lt;/b&gt; di-check out untuk pengguna "%2". Anda tidak dapat menyimpan berkas ini di SharePoint kecuali "%2" meninggalkan status check out. Jika "%2" check in berkas dengan perubahan maka Anda akan mengalami konflik perubahan.</text>
+		<text id="opt.dontShowAgain" h="492B5D79">&amp;Jangan tampilkan pesan ini lagi</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="str.sharePoint" h="56A5F9B3">SharePoint</text>
+	</Strings>
+</Localization>

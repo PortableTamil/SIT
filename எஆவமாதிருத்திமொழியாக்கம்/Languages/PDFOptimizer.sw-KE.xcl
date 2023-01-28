@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123215800">2.00.00</Version>
+	<Author>Kelvin Muriuki</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Kiswahili (Kenya)" lName="Kiswahili" code="sw-KE" R2L="false"/>
+	<Module name="PDFOptimizer" namespace="pdfopt" version="7.0.323.3"/>
+	<Strings>
+		<text id="AcrobatForms" h="45DE15E7">Fomu za Acrobat</text>
+		<text id="AllInPPI" h="73445ABD">Vitengo vyote viko kwa pikseli kwa inchi (ppi).</text>
+		<text id="BackRemov" h="F699750D">Uondoaji Mandharinyuma</text>
+		<text id="BookMarks" h="E2032460">Vialamisho</text>
+		<text id="Bytes" h="4EF6C00A">Baiti </text>
+		<text id="CleanUp" h="85D0243F">Usafishaji</text>
+		<text id="ColorGrayscale" h="63F8C2FC">Rangi/Rekebu-kijivu:</text>
+		<text id="ColorSpaces" h="279CFB02">Nafasi rangi</text>
+		<text id="Comments3D" h="1A213B5F">Maoni na Maudhui ya 3D</text>
+		<text id="ContentStreams" h="EC5AA2E9">Miitiririsho Maudhui</text>
+		<text id="Count" h="48FC51FB">Idadi</text>
+		<text id="CrossReferenceTable" h="B0A3CE52">Jedwali la Marejeleo Mpitano</text>
+		<text id="Description" h="8990DB08">Ufafanuzi</text>
+		<text id="DiscardObjects" h="9A75CFD1">Tupila Violwa</text>
+		<text id="DiscardUserData" h="1B55800A">Tupilia Data ya Mtumiaji</text>
+		<text id="DocOverhead" h="8AF9C6B9">Avizo la Waraka</text>
+		<text id="ErrCount" h="494DF48F">Makosa yaliyopatikana:</text>
+		<text id="ExGStates" h="CFF492D3">Hali ya Michoro Iliyopanuliwa</text>
+		<text id="Fonts" h="B72149DB">Fonti</text>
+		<text id="Images" h="77764F9D">Taswira</text>
+		<text id="LinkAnnotations" h="50D3AB53">Viungo Fasili</text>
+		<text id="Mobile" h="A5903811">Rununu</text>
+		<text id="Mobile.Desc" h="AC3CDB44">Mipangilio ya watazamaji wa rununu</text>
+		<text id="NamedDect" h="C4E8D8F5">Fikio Tajwa</text>
+		<text id="ObjectFor" h="24200BB3">Violwa vya PDF vya...</text>
+		<text id="Optimize.Error1" h="C319CA59">Kosa la muhimu limetendeka wakati wa uboreshaji wa waraka:</text>
+		<text id="Optimize.Error2" h="E3B5A795">Faili tokevu haingeweza kuhifadhiwa.</text>
+		<text id="Optimize.IsXFA" h="86036928">Waraka unafomu la Adobe XML (XFA).
+
+Faili amabazo zinafomu za XFA haziweza kuboreshwa.</text>
+		<text id="OptimizeCleanUp" h="2BE9852C">Safisha waraka...</text>
+		<text id="OptimizeCropContent" h="55D9A57D">Pata na Ondoa Maudhui Nje ya Sunduku la Kuopoa</text>
+		<text id="OptimizeDiscardObj" h="87F2BCDD">Tupila Violwa vyote kutoka kwa Waraka..</text>
+		<text id="OptimizeDiscardUD" h="0A072948">Tupilia Data ya Mtumiaji kutoka kwa Waraka...</text>
+		<text id="OptimizeDuplicates" h="C12ECD41">Inatafuta rudufu (Taswira, XForm, Fonti) na kuziondoa...</text>
+		<text id="OptimizeFonts" h="A46D6002">Boresha Fonti...</text>
+		<text id="OptimizeImages" h="8D04A12D">Boresha Taswira...</text>
+		<text id="OptimizeTransparency" h="F0A68140">Boresha Uangavu</text>
+		<text id="PDFAuditInfo" h="3689108E">Maelezo ya Ukaguzi wa PDF</text>
+		<text id="PDFOptScaned" h="15D6F8BB">Boresha PDF Iliyotambazwa</text>
+		<text id="PDFOptimizer" h="E369C144">Boresha PDF</text>
+		<text id="PatternInfo" h="BF98E424">Maelezo ya Ruwaza</text>
+		<text id="Percentage" h="AB9C5DE5">Asilimia</text>
+		<text id="PieceInfo" h="14FA9D8A">Maelezo ya Kipande</text>
+		<text id="ProgOptimizing" h="307A05DD">Inaboresha waraka, tafadhali ngoja...</text>
+		<text id="ProgPreparing" h="88C0C05E">Inatayarisha waraka kwa uboreshaji...</text>
+		<text id="ProgTitle" h="9480CEF5">Uboreshaji</text>
+		<text id="RetainExisting" h="6258BC37">Bakiza ziliopo</text>
+		<text id="SavingDocument" h="56115414">Inahifadhi waraka ulioboreshwa...</text>
+		<text id="ShadingInfo" h="F222371A">Maelezo ya Utiaji Kivuli</text>
+		<text id="Standard" h="C6DA1F99">Kawaida</text>
+		<text id="Standard.Desc" h="D517594C">Mipangilio chaguo-msingi kwa vifaa vyote</text>
+		<text id="StructInfo" h="75C658E9">Maelezo ya Muundoa</text>
+		<text id="Thumbnails" h="47B1B2D9">Vijipicha</text>
+		<text id="Total" h="9CAA90C0">Jumla</text>
+		<text id="Transparency" h="9EAC5CA4">Uanagavu</text>
+		<text id="VersionWarning" h="4EF893BE">Ubainishaji wa toleo la PDF umepunguzwa kutoka %1.%2 hadi %3.%4 kwa sababu ya mipangilio ya uboreshaji.
+Hii inaweza sababisha shida na baadhi ya programu. Tafadhali kagua waraka ulioboreshwa.</text>
+		<text id="XForms" h="336DF358">Fomu za X Object</text>
+		<text id="abc" h="BD101B14">Matini ya</text>
+		<text id="adjustName" h="CD74E7C8">Badilisha jina la faili unapohifadhi tekelezo la uboreshaji:</text>
+		<text id="alpha" h="632E9A25">Mpangilio Hifadhi:</text>
+		<text id="alpha.resolution.0" h="D33F1C80">Mwonekano wa Chini</text>
+		<text id="alpha.resolution.1" h="64A38366">Mwonekano Wastani</text>
+		<text id="alpha.resolution.2" h="0B020749">Mwonekano wa Juu</text>
+		<text id="alpha.set" h="A135F93B">Mipangilio ya mpangilio hifadhi:</text>
+		<text id="alpha.set.0" h="04DA8EE6">Kiwangi cha uanagavu: %1</text>
+		<text id="alpha.set.1" h="E18C52C1">Mistari Sanaa na Matini: %1</text>
+		<text id="alpha.set.2" h="82CFFAB0">Upinde Rangi na Meshi: %1</text>
+		<text id="alpha.set.3" h="6FFD6051">Geuza Matini Yote kuwa Mistari ya Mipaka: %1</text>
+		<text id="alpha.set.4" h="F2FA75FC">Geuza Micharazo Yote kuwa Mistari ya Mipaka: %1</text>
+		<text id="alpha.set.5" h="B3DB6D2B">Kata Eneo Changamani: %1</text>
+		<text id="alpha.set.6" h="33A6ABAC">Hifadhi Overprint: %1</text>
+		<text id="cleanUp" h="65707B26">Safisha Mipangilio</text>
+		<text id="cleanUp.DelDuplicateFont" h="19ADBE28">Tupilia Fonti Rudufu</text>
+		<text id="cleanUp.DelDuplicateImg" h="6B3E34D0">Tupilia Taswira Rudufu</text>
+		<text id="cleanUp.DelDuplicateXForm" h="C81BC491">Tupilia XForms Rudufu</text>
+		<text id="cleanUp.LZW" h="58145992">Kwenye mitiririsho inayotumia usimbaji wa 'LZW', tumia 'Flate'</text>
+		<text id="cleanUp.bookmark" h="0744B268">Tupilia Vialamisho Batili</text>
+		<text id="cleanUp.compress" h="631E86C0">Chaguo za Mfinyazo wa Voilwa</text>
+		<text id="cleanUp.compress.0" h="590461FB">Finyaza faili nzima</text>
+		<text id="cleanUp.compress.1" h="223C9F8A">Finyaza muundo wa waraka</text>
+		<text id="cleanUp.compress.2" h="02FEB23B">Ondoa mfinyazo</text>
+		<text id="cleanUp.compress.3" h="00A7F105">Aga mfinyazo bila mabadiliko</text>
+		<text id="cleanUp.content" h="AF96A559">Boresha Maudhui ya Ukurasa</text>
+		<text id="cleanUp.destinat" h="43CBC798">Tuplia Fikio Tajwa Zisizo Marejeleo</text>
+		<text id="cleanUp.link" h="D4DE7736">Tupilia Viungo Batili</text>
+		<text id="cleanUp.stream" h="2C797CB5">Tumia 'Flate' kusimba mitiririsho ambayo haijasimbwa</text>
+		<text id="cleanUp.web" h="278DAB99">Boresha PDF ili kuonekana Haraka kwenye Wavuti</text>
+		<text id="cmd.name" h="E03D5D96">Hifadhi kama Iliyoboreshwa...</text>
+		<text id="cmd.nameScan" h="9FD32538">Boresha Kurasa Zilizotambazwa</text>
+		<text id="cmd.nameScanShort" h="EC746C37">Boresha Tambazo...</text>
+		<text id="cmd.nameScanTip" h="075F0E8E">Rekebisha na punguza ukubwa wa waraka uliotambazwa.</text>
+		<text id="cmd.nameShort" h="E03D5D96">Hifadhi kama Iliyoboreshwa...</text>
+		<text id="cmd.nameTip" h="DBCE5DD2">Inahifadhi waraka amilifu kama iliyoboreshwa kupunguza ukubwa na wakati unaochukua kuufungua.</text>
+		<text id="descreen" h="250001AD">Descreen</text>
+		<text id="deskew" h="D73E3DAE">Ondoa Kukingamana</text>
+		<text id="diObject" h="686FD8CF">Tupilia Mipangilio ya Violwa</text>
+		<text id="diObject.action" h="05E16E16">Tupilia fomu zote zilizowasilishwa, kuletwa na weka upya vitendo</text>
+		<text id="diObject.bookmark" h="A40329EB">Tupilia vialamisho</text>
+		<text id="diObject.curves" h="919F43B2">Geuza mistari laini kuwa vizingo</text>
+		<text id="diObject.flatten" h="73C56406">Tandaza nyuga za fomu</text>
+		<text id="diObject.fragment" h="CD4A23BC">Gundua na unganisha vipande bya taswira</text>
+		<text id="diObject.image" h="63729870">Tupilia taswira zote mbadala</text>
+		<text id="diObject.javascript" h="7FFE9012">Tupilia vitendo vyote vya HatiJava</text>
+		<text id="diObject.print" h="BD6C83FA">Tupilia mipangilio pachikwa ya uchapishaji</text>
+		<text id="diObject.search" h="7B117F1A">Tupilia kiolezo cha utafutaji kilichopachikwa</text>
+		<text id="diObject.tags" h="3C045100">Tupilia lebo za waraka</text>
+		<text id="diObject.thumbnail" h="9599423F">Tupilia vijipicha vya kurasa pachikwa</text>
+		<text id="diUserData" h="728DF433">Tupilia maelezo yote yanayohusu mtumiaji</text>
+		<text id="diUserData.attach" h="92D67E12">Tupilia faili viambatisho</text>
+		<text id="diUserData.form" h="6C36F02B">Tupilia maoni yote (pamoja na viungo), fomu na midia -anuwai</text>
+		<text id="diUserData.layer" h="FB8629C9">Tupilia maudhui ya rusu fiche kisha tandaza rusu zinazoonekana</text>
+		<text id="diUserData.links" h="12EEC435">Tupilia viungo vyote</text>
+		<text id="diUserData.metadata" h="1E9402E3">Tupilia maelezo na metadata yote ya waraka</text>
+		<text id="diUserData.object" h="6C03028D">Tupilia data yote ya violwa</text>
+		<text id="diUserData.privat" h="304A6889">Tupilia data ya siri ya programu zinginezo</text>
+		<text id="diUserData.refer" h="B0E9F442">Tupilia marejeleo mpitano ya nje</text>
+		<text id="dlg.POTitle" h="E462CC15">Boresha PDF</text>
+		<text id="dlg.delete" h="38F26847">Unauhakika unataka kufuta mpangilio '%1'?</text>
+		<text id="dlg.save" h="9A3AA1B1">Unda mipangilio ya PDF Optimizer</text>
+		<text id="dlg.save.text" h="A599E751">Hifadhi mipangilio ya sasa kama:</text>
+		<text id="filename" h="B06ACB9D">Desturi za Upatiaji Majina</text>
+		<text id="filters" h="8DA3B27E">Vichujio</text>
+		<text id="fonts" h="1250B714">Kutopachika Fonti</text>
+		<text id="fonts.active" h="5C8642DA">Usipachike fonti yoyote:</text>
+		<text id="fonts.all" h="3FE17594">Topachika fonti zote</text>
+		<text id="fonts.btn.retain" h="BAD13ABC">&lt;&lt; Bakiza</text>
+		<text id="fonts.btn.unembed" h="760953D2">Kutopachika&gt;&gt;</text>
+		<text id="fonts.comment" h="F38E9B57">Fonti zilizo orodheshwa hapa juu zimepachikwa kwenye waraka. Kutopachika fonti, ihamishe kwenye kidirisha cha kulia. Fonti zilizo orodheshwa kwenye kidirsha cah kushoto zitabaki bila kupachikwa.</text>
+		<text id="fonts.custom" h="2AAB35CE">Teua fonti kutopachika kwa mkono</text>
+		<text id="fonts.embedded" h="A77293DA">Pachika fonti:</text>
+		<text id="fonts.mergesubsets" h="F0C43A59">Unganisha vikundi vya ndani vya fonti</text>
+		<text id="fonts.recommend" h="F9ABDD3E">Topachika fonti zilizopendekezwa</text>
+		<text id="fonts.subset" h="6EC24EDD">Ingiza kwa kundi la ndani fonti zote zilizopachikwa</text>
+		<text id="fonts.unembed" h="D1144C15">Fonti kutopachika:</text>
+		<text id="highQuality" h="44A62CCC">Ubora wa Juu</text>
+		<text id="images.AverageDownsampling" h="9DF5988E">Upunguzaji Ubora Wastani hadi</text>
+		<text id="images.BicubicDownsamplingTo" h="2B989117">Upunguzaji Ubora wa Bicubic hadi</text>
+		<text id="images.NoDownsampling" h="747AEF4D">Hakuna Upunguzaji Ubora</text>
+		<text id="images.SubsamplingTo" h="F298A3BE">Punguza mwonekano hadi</text>
+		<text id="images.above" h="09C2601E">kwa taswira zilizo juu:</text>
+		<text id="images.color" h="EFDBFA28">Taswira za Rangi</text>
+		<text id="images.compress" h="990F2529">Mfinyazo:</text>
+		<text id="images.compress.CCITTGroup3" h="B7DD624B">CCITT Kikundi 3</text>
+		<text id="images.compress.CCITTGroup4" h="F89CF48C">CCITT Kikundi 4</text>
+		<text id="images.compress.JBIG2" h="DE3BC257">JBIG</text>
+		<text id="images.compress.JPEG" h="58DE58E0">JPEG</text>
+		<text id="images.compress.JPEG2000" h="3A603972">JPEG2000</text>
+		<text id="images.compress.LZW" h="D62F11BD">LZW</text>
+		<text id="images.compress.MRC" h="F6693DA2">MRC</text>
+		<text id="images.compress.RunLength" h="82741A51">Upana Endeshi</text>
+		<text id="images.compress.ZIP" h="0E4D9E8D">ZIP</text>
+		<text id="images.grey" h="F9551019">Taswira Rekebu-kijivu</text>
+		<text id="images.ingexed" h="FE837B06">Taswira kwenye Kielezo</text>
+		<text id="images.mono" h="19F5498E">Taswira Rangi Moja</text>
+		<text id="images.quality.High" h="21A95620">Hali ya Juu</text>
+		<text id="images.quality.Lossless" h="40A582D7">Kisicho na Hasara</text>
+		<text id="images.quality.Lossy" h="78731864">Kinacho na Hasara</text>
+		<text id="images.quality.Low" h="845E3D8C">Hali ya Chini</text>
+		<text id="images.quality.Maximum" h="A8A97F0E">Upeo</text>
+		<text id="images.quality.Medium" h="91153342">Wastani</text>
+		<text id="images.quality.Minimum" h="8415F85F">Chini Kabisa</text>
+		<text id="images.reduct" h="96D00A5D">Boresha taswira iwapo kuna upunguzaji wa ukubwa pekee</text>
+		<text id="mono" h="65032FDA">Rangi Moja:</text>
+		<text id="msg.NoPermission" h="DF8FF5FA">Waraka umelindwa na hauna vibali vya kutosha kutekeleza uboreshaji.</text>
+		<text id="optPrefs" h="FDCAF687">Mipangilio ya Kiboreshaji</text>
+		<text id="ppi" h="B39AC2C1">dpi</text>
+		<text id="prefix" h="95164599">Kiambishi Awali:</text>
+		<text id="quality" h="E3A77A93">Ubora:</text>
+		<text id="result" h="CE676C2B">Matokeo:</text>
+		<text id="settings" h="B781AB7B">Mipangilio:</text>
+		<text id="settings.Custom" h="A918FF38">Binafsi</text>
+		<text id="settings.Mobile" h="A5903811">Rununu</text>
+		<text id="settings.Standard" h="C6DA1F99">Kawaida</text>
+		<text id="smallSize" h="2A56EB5B">Ukubwa Mdogo</text>
+		<text id="spaceusage" h="2FA61B33">Kagua Utumiaji Nafasi...</text>
+		<text id="stage.getfonts" h="9DF9EE20">Inakusanya fonti za waraka...</text>
+		<text id="stage.preparing" h="3F6313D6">Inatayarisha waraka...</text>
+		<text id="sufix" h="1627987B">Kiambishi Tamati:</text>
+		<text id="textSharp" h="D60116F5">Kuitia Matini Ukali</text>
+		<text id="tileSize" h="A4FAD93F">Ukubwa wa kigae:</text>
+		<text id="ver" h="C549FED4">Fanya Iwe Tangamanifu Na:</text>
+		<text id="ver.1" h="8B2AEC62">Toleo 1.3 (Acrobat 4.0 na juu)</text>
+		<text id="ver.2" h="A0EA502A">Toleo 1.4 (Acrobat 5.0 na juu)</text>
+		<text id="ver.3" h="26054EFC">Toleo 1.5 (Acrobat 6.0 na juu)</text>
+		<text id="ver.4" h="70929FB3">Toleo 1.6 (Acrobat 7.0 na juu)</text>
+		<text id="ver.5" h="FD059DF9">Toleo 1.7 (Acrobat 8.0 na juu)</text>
+		<text id="ver.current" h="17DA1613">Toleo la PDF ya Sasa: %1.%2</text>
+	</Strings>
+</Localization>

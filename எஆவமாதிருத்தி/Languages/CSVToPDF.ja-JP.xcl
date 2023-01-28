@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20211012163840">2.00.00</Version>
+	<Author>Tz</Author>
+	<Copyright>Tz</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Japanese (Japan)" lName="日本語" code="ja-JP" R2L="false"/>
+	<Module name="CSVToPDFPlugin" namespace="csv" version="9.1.357.0"/>
+	<Strings>
+		<text id="DlgCSVToPDF" h="159649A7">CSV から PDF に変換</text>
+		<text id="converter.desc" h="967CBC0E">CSV ファイルを PDF ドキュメントのテーブルとして変換します</text>
+		<text id="autoInfo" h="27598254">値を編集するには、自動列幅計算をオフにしてください</text>
+		<text id="ctp.chb.autoDelimiter" h="BFABCE78">データから区切り文字を自動的に検出する</text>
+		<text id="ctp.chb.boldHeaders" h="AB4D23E9">ヘッダテキストを太字にする</text>
+		<text id="ctp.chb.calcWidth" h="C8B58489">データから列幅を自動的に検出する</text>
+		<text id="ctp.chb.drawBorder" h="1C2186D3">テーブルに線を描画する</text>
+		<text id="ctp.chb.headersOnEachPage" h="9413CFF2">各ページにヘッダテーブルを描画する</text>
+		<text id="ctp.chb.showDialogOnOpen" h="D10EC9DE">CSV ファイルを開くとき、このダイアログを表示する</text>
+		<text id="ctp.g.Margins" h="62C950A2">余白</text>
+		<text id="ctp.g.delimiterAndQuotes" h="A6EFA0C6">区切り文字と引用府</text>
+		<text id="ctp.g.pageSettings" h="D82087B4">ページ設定</text>
+		<text id="ctp.g.style" h="C091D68E">スタイル</text>
+		<text id="ctp.l.borderWidth" h="457515E3">線の太さ:</text>
+		<text id="ctp.l.bottom" h="C711C97A">下:</text>
+		<text id="ctp.l.delimiter" h="3480C690">区切り:</text>
+		<text id="ctp.l.left" h="FC2BB3FB">左:</text>
+		<text id="ctp.l.quotes" h="F5FEAC85">引用府:</text>
+		<text id="ctp.l.right" h="FD30D9F1">右:</text>
+		<text id="ctp.l.top" h="99A7C1A9">上:</text>
+		<text id="ctp.lst.calcWidth.header" h="608B00E9">ヘッダ</text>
+		<text id="ctp.lst.calcWidth.width" h="DADE8BD3">幅（%1）</text>
+		<text id="ctp.previewCtl.noDocTip" h="55E892D4">ドキュメントをロードしています...</text>
+		<text id="message.marginsWarning" h="4388F5CE">余白が大きすぎます</text>
+		<text id="message.warning" h="E7AD7A2B">警告</text>
+		<text id="newDocFromCSV" h="602EDA1B">CSV ファイル...</text>
+		<text id="prop.source" h="A2415BEA">CSV ファイル</text>
+	</Strings>
+</Localization>

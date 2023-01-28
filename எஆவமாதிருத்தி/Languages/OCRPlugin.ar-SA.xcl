@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20170425233727">2.00.00</Version>
+	<Author>Muhammad Alkhateeb</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Arabic (Saudi Arabia)" lName="العربية" code="ar-SA" R2L="true"/>
+	<Module name="OCRPlugin" namespace="ocr" version="6.0.322.0"/>
+	<Strings>
+		<text id="OrientationDetection" h="40F7AA0E">حدد المحاذاة تلقائيًا</text>
+		<text id="accuracy.high" h="21A95620">عالي</text>
+		<text id="accuracy.low" h="845E3D8C">منخفض</text>
+		<text id="accuracy.medium" h="91153342">متوسط</text>
+		<text id="cb.cuenoany" h="899F9872">لم يتم تثبيت أي شيء</text>
+		<text id="cmd.name" h="6DAA8A17">التعرف على النص على الصفحات...</text>
+		<text id="l.accuracy" h="3B2028D8">&amp;الدقة :</text>
+		<text id="l.language" h="7B707020">&amp;اللغة:</text>
+		<text id="lnk.more" h="2E2CCD84">&lt;a=1&gt;المزيد من اللغات...&lt;/a&gt;</text>
+		<text id="prefs.title" h="D0975E29">إعدادات OCR</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20221121232130">2.00.00</Version>
+	<Author>ELDOST QASIMOV</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Azerbaijani (Latin, Azerbaijan)" lName="Azərbaycan" code="az-Latn-AZ" R2L="false"/>
+	<Module name="U3DPlugin" namespace="u3d" version="9.5.365.0"/>
+	<Strings>
+		<text id="3DRenderingCrashed.str" h="3B1E0F07">Təəssüf ki, 3D göstəricinin qəzaya uğrayıb. 3D göstərməni yenidən başlamaq üçün xahiş edirəm sənədi yenidən açın.</text>
+		<text id="3DSceneFailed.str" h="27A53BDF">3D səhnənin başlanması uğursuz oldu.</text>
+		<text id="DlgCameraProperties.Title" h="C62520F7">Kamera xüsusiyyətləri</text>
+		<text id="PRCUnsupported.str" h="B107E80C">PRC modeli dəstəklənmir.</text>
+		<text id="angular.degrees.str" h="9A86A604">Dərəcələr</text>
+		<text id="angular.radians.str" h="8186B9C8">Radian</text>
+		<text id="appPrefsPage.AAType.2x" h="423B3C2B">2x</text>
+		<text id="appPrefsPage.AAType.3x" h="FA875B4E">3x</text>
+		<text id="appPrefsPage.AAType.4x" h="675063F7">4x</text>
+		<text id="appPrefsPage.AAType.None" h="F9398D7D">Yoxdur</text>
+		<text id="appPrefsPage.PickMode.TreeOrder" h="F1D70337">Obyekt quruluş qaydası</text>
+		<text id="appPrefsPage.PickMode.ZOrder" h="8F0DAF26">Z-qaydası</text>
+		<text id="appPrefsPage.gr.3DToolOptions" h="FA532EE7">3D alət seçimləri</text>
+		<text id="appPrefsPage.gr.rOptions" h="A6CEA705">Göstərmə seçimləri</text>
+		<text id="appPrefsPage.lb.PickMode" h="26EFD83B">Seçim üsulu:</text>
+		<text id="appPrefsPage.name" h="86A64F71">3D multimediya</text>
+		<text id="appPrefsPage.tip" h="878BC70D">3D multimediya seçimləri</text>
+		<text id="appPrefsPage.title" h="878BC70D">3D multimediya seçimləri</text>
+		<text id="appPrefsPageMeasurement3D.name" h="E3933ACE">3D Ölçmə</text>
+		<text id="appPrefsPageMeasurement3D.tip" h="ADF62F93">3D Ölçmə seçimləri</text>
+		<text id="appPrefsPageMeasurement3D.title" h="ADF62F93">3D Ölçmə seçimləri</text>
+		<text id="btn.default" h="3BF809E4">Standart et</text>
+		<text id="btn.moveDown" h="4CE68730">Aşağı yerləşdir</text>
+		<text id="btn.moveUp" h="4454FC42">Yuxarı yerləşdir</text>
+		<text id="camera.X" h="714AA303">Kamera X:</text>
+		<text id="camera.Y" h="C9F6C466">Kamera Y:</text>
+		<text id="camera.Z" h="DB436B88">Kamera Z:</text>
+		<text id="camera.altitude" h="D35D23E4">Hündürlük:</text>
+		<text id="camera.azimut" h="796BF9A5">Azimut:</text>
+		<text id="camera.distance" h="47D78EAE">Məsafə:</text>
+		<text id="chck.RenderDoubleSideStr" h="2A75AAF0">İki tərəfli göstər</text>
+		<text id="chck.Show3DAxesStr" h="3173CD8B">3D oxları göstər</text>
+		<text id="chck.ShowCircleForRadialStr" h="1BC633C3">Radial Ölçmələr üçün dairəni göstərin</text>
+		<text id="chck.UseDefaultDisplayUnitStr" h="6D6F945B">Standart görüntü vahidi istifadə et</text>
+		<text id="chck.UseScaleAndUnitsFromModelStr" h="78DD018F">Modeldəki miqyas və vahidlərdən istifadə et (olduqda)</text>
+		<text id="circular.diameter.str" h="A99C6701">Diametr</text>
+		<text id="circular.radius.str" h="3233DE6A">Radius</text>
+		<text id="ck.bgColor" h="799B39A6">Arxa görünüş rəngi</text>
+		<text id="ck.cameraProps" h="C62520F7">Kamera xüsusiyyətləri</text>
+		<text id="ck.crossSection" h="B6196404">Bölmə haqqında məlumat</text>
+		<text id="ck.enable3D" h="90C6F9B5">3D məzmuna icazə ver</text>
+		<text id="ck.lighting" h="3C76D70F">İşıqlandırma</text>
+		<text id="ck.nodesVis" h="39891BF4">Düyünlərin görünməsi</text>
+		<text id="ck.renderMode" h="CDA80CD8">Göstərmə rejimi</text>
+		<text id="cmd.3DPrefs" h="BB6488C0">3D Xüsusiyyətləri ...</text>
+		<text id="cmd.3dContent.trustAlways" h="C6E70253">Bu sənədə həmişə etibar et</text>
+		<text id="cmd.3dContent.trustOnce" h="6AE4F0D7">Bu sənədə yalnız bir dəfə etibar et</text>
+		<text id="cmd.3dContentOpts" h="DAD7B4F4">Seçimlər</text>
+		<text id="cmd.3dContentOpts.tip" h="46505A9A">Xüsusiyyətləri aktiv etmək üçün toxunun</text>
+		<text id="cmd.Cancel3DComment" h="D526EB0F">Rəyi ləğv et</text>
+		<text id="cmd.Cancel3DMeasurement" h="4F0F252D">Ölçünü ləğv et</text>
+		<text id="cmd.addComment" h="9054EDA4">3D rəy əlavə et</text>
+		<text id="cmd.addComment.tip" h="F8CEDF90">3D rəy əlavə et</text>
+		<text id="cmd.bkColor" h="799B39A6">Arxa görünüş rəngi</text>
+		<text id="cmd.cameraProps" h="C62520F7">Kamera xüsusiyyətləri</text>
+		<text id="cmd.crossSectionProps" h="14B2AE31">Kesim düzənləmə Xüsusiyyətləri ...</text>
+		<text id="cmd.defView" h="A1F14B2B">Standart görünüş</text>
+		<text id="cmd.fly" h="96EAF75B">Uçuş</text>
+		<text id="cmd.fly.tip" h="A9F39C8A">Uçuş</text>
+		<text id="cmd.lightSchemes" h="8C1BFE4C">İşıqlanma sxemi</text>
+		<text id="cmd.lights" h="41B4EB09">Əlavə işıqlanmanı aktiv et</text>
+		<text id="cmd.measure.angular" h="D40492A0">Bucaqlı</text>
+		<text id="cmd.measure.angular.tip" h="0936B097">3D Bucaq Ölçmə</text>
+		<text id="cmd.measure.linear" h="E4AF8D46">Xətti</text>
+		<text id="cmd.measure.linear.tip" h="1839B2ED">3D Nöqtədən Nöqtəyə Ölçmə</text>
+		<text id="cmd.measure.perpendicular" h="AE57B56A">Perpendikulyar</text>
+		<text id="cmd.measure.perpendicular.tip" h="02507B9D">3D Perpendikulyar olçmə</text>
+		<text id="cmd.measure.radial" h="2012103C">Radial</text>
+		<text id="cmd.measure.radial.tip" h="A6DE5391">3D Radial ölçmə</text>
+		<text id="cmd.measure.snap.edges" h="E6611D4B">Kənarlara yapış</text>
+		<text id="cmd.measure.snap.edges.tip" h="A607DE0D">Xətt Kənarlarına 3D bərkit</text>
+		<text id="cmd.measure.snap.endPoints" h="4F0EBE65">Son nöqtələrə yapış</text>
+		<text id="cmd.measure.snap.endPoints.tip" h="6BFDBD18">3D Son nöqtələrə yapış</text>
+		<text id="cmd.measure.snap.faces" h="DE27EA3A">Üzlərə yapış</text>
+		<text id="cmd.measure.snap.faces.tip" h="90E0002F">Planar üzlərə 3D yapış</text>
+		<text id="cmd.measure.snap.radial" h="65EEBD99">Radial yapış</text>
+		<text id="cmd.measure.snap.radial.tip" h="E4DA5906">Radial kənarlara 3D yapış</text>
+		<text id="cmd.measure.snap.silhouette" h="C6A68501">Siluetlərə yapış</text>
+		<text id="cmd.measure.snap.silhouette.tip" h="A58DE3BD">Siluetlərə 3D yapış</text>
+		<text id="cmd.measureTool" h="65934C21">3D ölçü aləti</text>
+		<text id="cmd.measureTool.tip" h="E8982E6F">3D ölçü aləti</text>
+		<text id="cmd.orthoPerspProj.ortho" h="15C31A48">Ortoqrafik proyeksiyadan istifadə et</text>
+		<text id="cmd.orthoPerspProj.ortho.tip" h="B336199D">Ortoqrafik proyeksiyada model göstər</text>
+		<text id="cmd.orthoPerspProj.persp" h="49402634">Perspektiv proyeksiyadan istifadə et</text>
+		<text id="cmd.orthoPerspProj.persp.tip" h="330F26E9">Perspektiv proyeksiyada model göstər</text>
+		<text id="cmd.pan" h="B48C4A96">Panorama</text>
+		<text id="cmd.pan.tip" h="8B952147">Panorama</text>
+		<text id="cmd.partOptions" h="066AF13F">Hissə seçimləri</text>
+		<text id="cmd.renderMode" h="9892CD92">Model göstərmə üsulu</text>
+		<text id="cmd.renderMode.default" h="F24132BD">Standart</text>
+		<text id="cmd.rotate" h="2D90BC43">Döndər</text>
+		<text id="cmd.rotate.tip" h="18368F2D">Döndər</text>
+		<text id="cmd.showCrossSection" h="B9E7DB9A">Kəsim hissəsini göstər</text>
+		<text id="cmd.spin" h="D0678B2C">Fırlat</text>
+		<text id="cmd.spin.tip" h="9224F8BB">Fırlat</text>
+		<text id="cmd.startPauseAnim.pause" h="743DFB17">Animasiyanı dayandır</text>
+		<text id="cmd.startPauseAnim.play" h="C2662211">Animayiyanı başlat</text>
+		<text id="cmd.startPauseAnim.tip" h="3A44AF42">Model animasiyasını Başlat/Saxla</text>
+		<text id="cmd.testCmd" h="79888B18">3D fayllarının yoxlanması</text>
+		<text id="cmd.testCmd.tip" h="D422EA7A">3D faylları yoxlayır və sorğu məlumatı ilə müqayisə edir.</text>
+		<text id="cmd.toggleCrossSection" h="53B68A7B">Kəsim bölməsini dəyişdir</text>
+		<text id="cmd.toolbar.hide" h="FE5E382C">Alət bölməsini gizlə</text>
+		<text id="cmd.toolbar.hide.tip" h="7734A008">3D bölməni gizlə</text>
+		<text id="cmd.toolbar.show" h="D86490DE">Alət bölməsini göstər</text>
+		<text id="cmd.toolbar.show.tip" h="DF2DAC82">3D bölməsini göstər</text>
+		<text id="cmd.tools" h="3D87CAC3">Alətlər</text>
+		<text id="cmd.tree.bboxColor" h="36C9D753">Sərhəd çərçivəsi rəngini təyin edin ...</text>
+		<text id="cmd.tree.bboxColor.tip" h="3C62FC40">Sərhəd çərçivəsi rəngini təyin edin</text>
+		<text id="cmd.tree.fitVisible" h="9F4225F9">Görünüşə uyğun</text>
+		<text id="cmd.tree.fitVisible.tip" h="614956B4">Kameranı bütün görünüş hissəsi üzrə genişləndir</text>
+		<text id="cmd.tree.hide" h="C4F1F414">Gizlə</text>
+		<text id="cmd.tree.hide.tip" h="8AA8B90C">Seçilmiş düyünü gizlə</text>
+		<text id="cmd.tree.isolate" h="9FBD280C">İzoliyasiya</text>
+		<text id="cmd.tree.isolate.tip" h="D5DA7C68">Biri istisna olmaqla modelin bütün düyünlərini gizlə</text>
+		<text id="cmd.tree.isolatePart" h="7751F8EC">İzoliyasiya hissəsi</text>
+		<text id="cmd.tree.isolatePart.tip" h="A3D5F690">Seçilmiş düyün olan hissə istisna olmaqla modelin bütün düyünlərini gizlə</text>
+		<text id="cmd.tree.makeTransparent" h="0759BABB">Şəffaf et</text>
+		<text id="cmd.tree.modelRenderMode" h="9892CD92">Model görünüş üsulu</text>
+		<text id="cmd.tree.modelRenderMode.tip" h="9F89C88A">Bütün modellər üçün görünüş üsulu təyin et</text>
+		<text id="cmd.tree.partRenderMode" h="16069F94">Hissənin görünüş üsulu</text>
+		<text id="cmd.tree.partRenderMode.tip" h="821E3259">Seçilmiş hissə üçün görünüş üsulu təyin et</text>
+		<text id="cmd.tree.show" h="C3CA8E89">Göstər</text>
+		<text id="cmd.tree.show.tip" h="790D864F">Seçilmiş düyünü göstər</text>
+		<text id="cmd.tree.showAll" h="24F4F631">Bütün hissələri göstər</text>
+		<text id="cmd.tree.showAll.tip" h="144FE078">Bütün gizli hissələri göstər</text>
+		<text id="cmd.tree.showBBox" h="8E963AD7">Sərhəd çərçivəsini göstər</text>
+		<text id="cmd.tree.showBBox.tip" h="3B27C053">Seçilmiş hissə ətrafındakı sərhəd çərçivəsini göstər</text>
+		<text id="cmd.tree.zoom2part" h="29498553">Hissənin miqyası</text>
+		<text id="cmd.tree.zoom2part.tip" h="AF54E436">Kameranın seçilmiş düyünə yönləndirilməsi</text>
+		<text id="cmd.viewingOptions" h="B7019F33">Baxış seçimləri</text>
+		<text id="cmd.views" h="0F296AD5">Görünüş:</text>
+		<text id="cmd.walk" h="D60E509F">Keçid</text>
+		<text id="cmd.walk.tip" h="944D2308">Keçid</text>
+		<text id="cmd.zoom" h="33EE2C56">Miqyas</text>
+		<text id="cmd.zoom.tip" h="71AD5FC1">Miqyas</text>
+		<text id="directx9.str" h="4DB13F37">DirectX-9</text>
+		<text id="dlgcp.fov" h="A7D2D5BD">Baxış bucağı:</text>
+		<text id="dlgcp.g1.title" h="0C13107E">Yerləşmə</text>
+		<text id="dlgcp.g2.title" h="4288E30E">Hədəf:</text>
+		<text id="dlgcp.g3.title" h="5F78932B">Parametrlər</text>
+		<text id="dlgcp.posType" h="C8F2B656">Bucaq vahidləri</text>
+		<text id="dlgcp.roll" h="1B2556A3">Kamera dönməsi:</text>
+		<text id="dlgcp.save" h="D64F3B21">Kamera görüntüsünü saxla..</text>
+		<text id="dlgcp.target.x" h="93F346A4">Hədəf X:</text>
+		<text id="dlgcp.target.y" h="2B4F21C1">Hədəf Y:</text>
+		<text id="dlgcp.target.z" h="39FA8E2F">Hədəf Z:</text>
+		<text id="dlgcs.b.alignCamera" h="DCD9B156">Kameranı kəsici düzlüklə düzənlə</text>
+		<text id="dlgcs.b.alignToFace" h="F63844BE">Üzə görə düzənlə</text>
+		<text id="dlgcs.b.alignToPoints" h="294EAE5A">3 Nöqtəyə görə</text>
+		<text id="dlgcs.b.save" h="B60C5C7A">Bölmə görünüşünü saxla</text>
+		<text id="dlgcs.cb.addCaps" h="A56D4C7B">Bölmə Böyük Hərfləri əlavə edin</text>
+		<text id="dlgcs.cb.enable" h="ACCDC008">Kəsişmə hissəni aktivləşdirin</text>
+		<text id="dlgcs.cb.flip" h="4565ED97">Çevir</text>
+		<text id="dlgcs.cb.ignoreSel" h="87E49B7A">Seçilmiş hissələri nəzərə alma</text>
+		<text id="dlgcs.cb.showInt" h="07E37FF4">Kəsişmələri göstər</text>
+		<text id="dlgcs.cb.showPlane" h="E34207AF">Kəsim düzəninii göstər</text>
+		<text id="dlgcs.cb.showTransp" h="FDF85C69">Şəffaf göstərin</text>
+		<text id="dlgcs.g1" h="0651B15D">Düzənləmə</text>
+		<text id="dlgcs.g2" h="977BDC50">Ekran ayaraları</text>
+		<text id="dlgcs.g3" h="7FF6B930">Mövqe və istiqamət</text>
+		<text id="dlgcs.l.offset" h="0CF8F296">Offset:</text>
+		<text id="dlgcs.l.opacity" h="0D011B7E">Kəsim yerinin şəffaflığı:</text>
+		<text id="dlgcs.l.tilt1" h="565BCADE">Meyl 1:</text>
+		<text id="dlgcs.l.tilt2" h="44EE6530">Meyl 2:</text>
+		<text id="dlgcs.r.x" h="0AF7B760">X-Axis</text>
+		<text id="dlgcs.r.y" h="9152FB0F">Y-Axis</text>
+		<text id="dlgcs.r.z" h="E6CC29FF">Z-Axis</text>
+		<text id="dlgcs.title" h="083D1133">Kəsişmə hissə Xüsusiyyətləri</text>
+		<text id="gr.inheritProps" h="F5C46974">Mövcud görünüşdən əldə et:</text>
+		<text id="ibar.3dContent" h="4EE9C4B1">3D məzmun məlumatı</text>
+		<text id="ibar.3dContent.desc" h="B9385C56">Sənəddə 3D məzmunu aktivləşdirmək üçün icazə istəyir</text>
+		<text id="ibar.3dContent.text" h="5E8AC651">3D məzmun deaktiv edildi. Bu sənədə etibar edirsinizsə bu xüsusiyyəti aktivləşdirin.</text>
+		<text id="info.angle" h="376DC953">Bucaq</text>
+		<text id="info.diameter" h="A99C6701">Diametr</text>
+		<text id="info.distance" h="94EB4A0D">Məsafə</text>
+		<text id="info.length" h="64B191B5">Uzunluq</text>
+		<text id="info.radius" h="3233DE6A">Radius</text>
+		<text id="lbl.3DCommentStr" h="AB4D67DE">3D şərh:</text>
+		<text id="lbl.3DMeasureTextSizeStr" h="EF9A15BB">Şrift boyunu ölç:</text>
+		<text id="lbl.AngularShownInStr" h="2877154F">Bucaq ölçüləri:</text>
+		<text id="lbl.AntiAliasing" h="050110D0">Yumşaqlıq:</text>
+		<text id="lbl.CircularShownAsStr" h="FFB789B9">Dairəvi ölçmələr aşağıdakı kimi göstərilmişdir:</text>
+		<text id="lbl.DigitsStr" h="D0715756">Göstərmək üçün əhəmiyyətli rəqəmlər:</text>
+		<text id="lbl.HighlightColor" h="5F548840">İşıqlanma rəngi:</text>
+		<text id="lbl.LineColorStr" h="2A4E912F">3D Ölçmə Xətti Rəngi:</text>
+		<text id="lbl.SnapHintColorStr" h="E14BB320">İpucu Rəngi:</text>
+		<text id="lbl.framerate" h="E28DF43C">Kadr tezliyi (FPS):</text>
+		<text id="lbl.renderingEngine" h="0F210502">Göstərmə aləti:</text>
+		<text id="lbl.viewName" h="64A879B2">Görünüş adı:</text>
+		<text id="manageViews" h="8D0BFCAB">Görünüşü idarə et</text>
+		<text id="manageViews.List.defaultItem" h="F93BCF4A">3D görüntü</text>
+		<text id="manageViews.newViewName" h="36C63992">Yeni görünüş</text>
+		<text id="op.crossSection.add" h="816A8FBA">Kəsim hissəsi əlavə et</text>
+		<text id="op.crossSection.del" h="7359BC97">Kəsim hissəsini sil</text>
+		<text id="op.crossSection.edit" h="F1E2B734">Kəsim hissəsini düzəlt</text>
+		<text id="op.measure.add" h="C937F475">Ölçmü əlavə et</text>
+		<text id="op.measure.del" h="98EFA25F">Ölçünü sil</text>
+		<text id="op.measure.edit" h="B0A6FD84">Ölçünü düzəlt</text>
+		<text id="op.view.add" h="5EA580D2">Görüntü əlavə et</text>
+		<text id="op.view.del" h="09EFE6B4">Görüntünü sil</text>
+		<text id="op.view.edit" h="D656AA99">Görünüşü düzəlt</text>
+		<text id="opengl.str" h="BBBBF29E">OpenGL</text>
+		<text id="units.centimeters.str" h="63D677E4">santimetr</text>
+		<text id="units.feet.str" h="F6E973E9">ayaq</text>
+		<text id="units.inches.str" h="37039ACE">düymə</text>
+		<text id="units.kilometers.str" h="8D5FC0C4">kilometr</text>
+		<text id="units.meters.str" h="CBCB1E8C">metr</text>
+		<text id="units.miles.str" h="639E298A">mil</text>
+		<text id="units.millimeters.str" h="EBB2FCDD">millimetr</text>
+		<text id="units.modelunits.str" h="9DC83793">model vahidi</text>
+		<text id="units.picas.str" h="CFFA0650">pika</text>
+		<text id="units.points.str" h="E64CE9B2">point</text>
+		<text id="units.yards.str" h="1F5E1723">yard</text>
+		<text id="view.custom" h="A918FF38">Xüsusi</text>
+		<text id="view.default" h="B6EF2024">Standart</text>
+		<text id="op.manageViews" h="8D0BFCAB">Görüntüləri idarə et</text>
+		<text id="viewName.SectionView" h="C0FD0A97">Bölmə Görünüşü</text>
+		<text id="viewName.CameraView" h="73227EFE">Kamera Görünüşü</text>
+		<text id="viewName.MeasurementView" h="6D7646F2">Ölçü görünüşü</text>
+		<text id="viewName.NewView" h="018D94A4">Yeni Görünüş</text>
+		<text id="viewName.3DCommentView" h="05B86C99">3D Şərh Görünüşü</text>
+		<text id="DlgManage3DViews.title" h="8D0BFCAB">Görüntüləri idarə et</text>
+		<text id="DlgViewProperties.title" h="F5C86852">Yeni Görünüş Xüsusiyyətləri</text>
+		<text id="Dlg3DComment.title" h="92BCB7CD">Şərh sətirini daxil edin</text>
+		<text id="lbl.pmiRenderingMode" h="22BCA220">Üstünlük verilən 3D Render rejimi:</text>
+		<text id="pmiRenderingMode.ContentSetting" h="21BB2D95">Məzmun parametrindən istifadə edin</text>
+		<text id="pmiRenderingMode.FrontOfModel" h="2A68E699">Modelin qarşısında 3D PMI göstərin</text>
+		<text id="pmiRenderingMode.ZBuffer" h="C20E3E1F">Z-buferdən istifadə edərək 3D PMI göstərin</text>
+	</Strings>
+</Localization>

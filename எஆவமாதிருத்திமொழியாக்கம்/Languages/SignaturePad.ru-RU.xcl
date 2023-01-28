@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123215759">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Russian (Russia)" lName="Русский" code="ru-RU" R2L="false"/>
+	<Module name="SignaturePad" namespace="sigpad" version="7.0.323.3"/>
+	<Strings>
+		<text id="btn.clear" h="8A6A002B">Очистить</text>
+		<text id="dgl.drawsign.title" h="8BE10CB7">Создание подписи</text>
+		<text id="signature.pad" h="1CB89F08">Устройство ввода электронной подписи</text>
+		<text id="signature.pad.desc" h="B2E4D573">Использовать Устройство ввода электронной подписи, присоединенному к Вашему компютеру, для создания подписи</text>
+		<text id="msg.nodevice" h="69EAAE3A">Ни одно &lt;i&gt;устройство&lt;/i&gt; не доступно.
+
+Убедитесь, что устройство подключено и
+установлены драйверы,
+затем повторите попытку.</text>
+	</Strings>
+</Localization>

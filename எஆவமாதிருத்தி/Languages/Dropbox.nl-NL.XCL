@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20221121231615">2.00.00</Version>
+	<Author>Hans Barnhoorn</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Dutch (Netherlands)" lName="Nederlands" code="nl-NL" R2L="false"/>
+	<Module name="Dropbox" namespace="db" version="9.5.365.0"/>
+	<Strings>
+		<text id="btn.cancel" h="3D302A38">&amp;Annuleren</text>
+		<text id="btn.chooseUser" h="4E5DDBFB">&amp;Kies gebruiker</text>
+		<text id="btn.ok" h="FEF0C771">&amp;OK</text>
+		<text id="btn.open" h="B1A510F0">&amp;Openen</text>
+		<text id="btn.save" h="F363C410">&amp;Opslaan</text>
+		<text id="btn.saveReplace" h="11BF9724">Opslaan en &amp;vervangen</text>
+		<text id="btn.settings" h="563BF6B7">O&amp;pties...</text>
+		<text id="cmd.cmdsCategory" h="22B8ECE9">Dropbox</text>
+		<text id="cmd.open" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.open.tip" h="683AE278">Open documenten vanuit Dropbox.</text>
+		<text id="cmd.save" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.save.tip" h="B5D0B78F">Sla een actief document op in Dropbox.</text>
+		<text id="cmd.dropbox" h="6616FE70">&amp;Dropbox</text>
+		<text id="dlg.authenticate" h="E6E77652">Authenticeren</text>
+		<text id="dlg.openFile" h="435887CD">Bestand openen</text>
+		<text id="dlg.saveFile" h="520CB069">Bestand opslaan</text>
+		<text id="lb.itemsInFolder" h="8F56A98C">%d onderdelen</text>
+		<text id="lb.name" h="F7B9E475">Bestandnaam</text>
+		<text id="ls.column.created" h="9E0B497D">Aanmaakdatum</text>
+		<text id="ls.column.created.hint" h="291F5AEC">De datum en tijd waarop het bestand, de map of de lijst is gemaakt.</text>
+		<text id="ls.column.extension" h="14FEB836">Extensie</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Bestandsextensie</text>
+		<text id="ls.column.modified" h="691C3610">Wijzigingsdatum</text>
+		<text id="ls.column.modified.hint" h="2C2CF8F2">De datum en tijd waarop het bestand, de map of de lijst voor het laatst is gewijzigd.</text>
+		<text id="ls.column.size" h="17A58A52">Groottte</text>
+		<text id="ls.column.size.hint" h="E79CA174">Bestandsgrootte</text>
+		<text id="ls.column.title" h="D18643E3">Naam</text>
+		<text id="ls.column.title.hint" h="D883F263">Bestands-/mapnaam</text>
+		<text id="msg.connectError" h="A594B0D5">Kan geen verbinding maken met Dropbox. Controleer de internetverbinding en toegangsrechten tot het opgegeven materiaal.</text>
+		<text id="msg.fileNotFound" h="381368F8">Het bestand &lt;b&gt;%1&lt;/b&gt; is niet gevonden in de huidige map.</text>
+		<text id="msg.invalidFileName" h="859254AD">&lt;b&gt;%1&lt;/b&gt; is geen geldige bestandsnaam, omdat symbolen &lt;b&gt;&lt;&gt; " / \ | ? *&lt;/b&gt; niet zijn toegestaan.</text>
+		<text id="msg.navigateError" h="8BCFBD0F">Controleer de internetverbinding, controleer of het juiste adres is opgegeven en of u over de benodigde rechten beschikt om toegang te krijgen tot het opgegeven Dropbox-item.</text>
+		<text id="msg.openFailed" h="794811DE">Kan bestand niet openen. Zorg ervoor dat het bestand bestaat en dat leestoegang is verleend.</text>
+		<text id="msg.saveFailed" h="36780EC6">Kan bestand niet opslaan. Zorg ervoor dat de bestandsnaam geldig is, dat schrijftoegang is verleend en dat uw DropBox voldoende ruimte heeft.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Het bestand &lt;b&gt;%1&lt;/b&gt; bestaat al. Wilt u het vervangen?</text>
+		<text id="msg.wrongUser" h="27773B86">Het bestand/de map kan niet worden geopend omdat het bij de Dropbox van een andere gebruiker hoort. Wilt u een andere gebruiker selecteren?</text>
+		<text id="str.fileSystemName" h="22B8ECE9">Dropbox</text>
+		<text id="addFolder.error.message" h="26E3D84F">Maken van map &lt;b&gt;%1&lt;/b&gt; in de Dropbox-bron is mislukt.</text>
+		<text id="addFolder.question.button.create" h="5AFC56A9">Map aanmaken</text>
+		<text id="addFolder.question.edit.title" h="AD9C0CB3">Voer een nieuwe mapnaam in:</text>
+		<text id="addFolder.question.error.alreadyExists" h="C0A47FF7">De huidige map bevat al een item met de naam &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="addFolder.question.error.emptyFolderName" h="BB6566D6">Mapnaam mag niet leeg zijn.</text>
+		<text id="addFolder.question.error.invalidFolderName" h="0A24FCDF">&lt;b&gt;%1&lt;/b&gt; is geen geldige mapnaam, omdat symbolen &lt;b&gt;&lt;&gt; " /  \\ | ? *&lt;/b&gt; niet zijn toegestaan.</text>
+		<text id="addFolder.progress.text" h="8C5EF68A">Map &lt;b&gt;%1&lt;/b&gt; aanmaken...</text>
+		<text id="addFolder.progress.title" h="595759D0">Map aanmaken in Dropbox</text>
+		<text id="btn.addFolder.text" h="69FFFB47">Map &amp;aanmaken</text>
+		<text id="btn.delete.text" h="ED580C1E">&amp;Verwijderen</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">&amp;Omhoog</text>
+		<text id="delete.error.file" h="5F9FEEF5">Verwijderen van bestand &lt;b&gt;%1&lt;/b&gt; uit de Dropbox-bron is mislukt.</text>
+		<text id="delete.error.folder" h="5F9FEEF5">Verwijderen van bestand &lt;b&gt;%1&lt;/b&gt; uit de Dropbox-bron is mislukt.</text>
+		<text id="delete.error.unknown" h="73BC7295">Verwijderen van geselecteerd item uit Dropbox is mislukt.</text>
+		<text id="delete.progress.status" h="F729DF24">%1 van %2</text>
+		<text id="delete.progress.text.file" h="EFCE4189">Bestand &lt;b&gt;%1&lt;/b&gt; verwijderen...</text>
+		<text id="delete.progress.text.folder" h="2E89372D">Map &lt;b&gt;%1&lt;/b&gt; verwijderen...</text>
+		<text id="delete.progress.text.unknown" h="367B0EA7">&lt;b&gt;%1&lt;/b&gt; verwijderen...</text>
+		<text id="delete.progress.title" h="9D1FD2AA">Uit Dropbox verwijderen</text>
+		<text id="delete.question.file" h="F3B2380C">Wilt u het bestand &lt;b&gt;%1&lt;/b&gt; verwijderen?</text>
+		<text id="delete.question.folder" h="DA195BFA">Wilt u de map &lt;b&gt;%1&lt;/b&gt; en alle bijbehorende inhoud verwijderen?</text>
+		<text id="delete.question.multi" h="ACA0CEC0">Wilt u %1 items verwijderen?</text>
+		<text id="delete.question.unknown" h="8C13886E">Wilt u het geselecteerde item verwijderen?</text>
+	</Strings>
+</Localization>

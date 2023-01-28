@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20181205073708">2.00.00</Version>
+	<Author>Michael Dodl</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="German (Germany)" lName="Deutsch" code="de-DE" R2L="false"/>
+	<Module name="OneDrivePlugin" namespace="od" version="7.0.327.10"/>
+	<Strings>
+		<text id="DlgOpenFile" h="F5F0D3C4">Datei von OneDrive öffnen</text>
+		<text id="DlgSaveFile" h="8E6D35E7">Datei auf OneDrive speichern</text>
+		<text id="GDPlugin" h="55E9533C">Erweiterung für OneDrive</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Neues Konto...</text>
+		<text id="cmd.cmdsCategory" h="A8DDA089">OneDrive</text>
+		<text id="cmd.onedrive" h="FBE7A43C">&amp;OneDrive</text>
+		<text id="cmd.open" h="C3A80FF4">&amp;OneDrive...</text>
+		<text id="cmd.open.tip" h="03DE0A0A">Ein Dokument von OneDrive öffnen</text>
+		<text id="cmd.save" h="C3A80FF4">&amp;OneDrive...</text>
+		<text id="cmd.save.tip" h="BC9750BB">Das aktive Dokument auf OneDrive speichern.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Datei wurde nicht gefunden</text>
+		<text id="cpt.invalidFileName" h="79C1387C">"Ungültiger Dateiname</text>
+		<text id="cpt.navigateError" h="3D300A1C">Navigationsfehler</text>
+		<text id="cpt.saveReplace" h="520CB069">Datei speichern</text>
+		<text id="cpt.selectFile" h="C55D68B0">Datei auswählen</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Die Datei konnte nicht im ausgewählten Ordner gespeichert werden</text>
+		<text id="dlg.Auth" h="6D5E22C0">Anmeldung: OneDrive</text>
+		<text id="fileName" h="DEC92488">Dateiname:</text>
+		<text id="lb.CurrentFolder" h="44158804">Aktueller Ordner:</text>
+		<text id="lb.Test" h="273F3E5B">Test Test Test!</text>
+		<text id="lb.onedriveAccName" h="740F2198">OneDrive-Konto:</text>
+		<text id="ls.column.created" h="FE6510B7">Erstellungsdatum</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Datum und Uhrzeit zu der die Datei, der Ordner oder die Liste erstellt wurde</text>
+		<text id="ls.column.extension" h="14FEB836">Erweiterung</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Dateierweiterung</text>
+		<text id="ls.column.modified" h="7E234D6D">Änderungsdatum</text>
+		<text id="ls.column.modified.hint" h="12933E76">Datum und Uhrzeit zu der die Datei, der Ordner oder die Liste zuletzt geändert wurde</text>
+		<text id="ls.column.size" h="17A58A52">Größe</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Größe der Datei</text>
+		<text id="ls.column.title" h="D18643E3">Name</text>
+		<text id="ls.column.title.hint" h="6A895576">Datei-, Ordner- oder Listenname</text>
+		<text id="msg.fileNotFound" h="430E08B1">Die Datei "%1" konnte im aktuellen Ordner nicht gefunden werden.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" ist kein gültiger Dateiname.</text>
+		<text id="msg.navigateError" h="9C1CD106">OneDrive konnte nicht geöffnet werden. Bitte prüfen Sie Ihre Internetverbindung und die Berechtigung, um auf OneDrive zuzugreifen.</text>
+		<text id="msg.openFailed" h="AC94D960">Die Datei konnte nicht geöffnet werden. Stellen Sie sicher, dass die Datei existiert, nicht von einem anderen Benutzer verwendet wird und Sie Leserechte für die Datei haben. </text>
+		<text id="msg.saveFailed" h="4D413392">Die Datei konnte nicht gespeichert werden. Stellen Sie sicher, dass der Dateiname gültig ist und Sie Schreibrechte für die Datei haben.</text>
+		<text id="msg.saveReplace" h="5D56833E">Die Datei %1 existiert bereits. Wollen Sie sie ersetzen?</text>
+		<text id="msg.selectFile" h="2530C20F">Bitte wählen Sie eine Datei vor Sie auf OK klicken</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Die Datei konnte nicht am ausgewählten Ort gespeichert werden. Bitte wählen Sie den 'Mein Laufwerk'-Ordner, einen seiner Unterordner oder einen Unterordner von 'Mit mir geteilt', um die Datei zu speichern.</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">Mein Laufwerk</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Mit mir geteilt</text>
+		<text id="addFolder.title" h="42CD8D51">Ordner erstellen</text>
+		<text id="addFolder.message" h="940CF2FA">Ordnernamen eingeben</text>
+		<text id="addFolderError.title" h="DDB9C8A8">Ordner konnte nicht erstellt werden</text>
+		<text id="addFolderError.message" h="E37B3660">Fehler beim Anlegen eines Ordners auf OneDrive. Bitte überprüfen Sie Ihre Internetverbindung und Ihre Zugriffsrechte auf OneDrive.</text>
+		<text id="btn.addFolder.text" h="69FFFB47">&amp;Ordner erstellen</text>
+		<text id="btn.settings" h="9757D0D9">Einstellungen...</text>
+		<text id="deleteError.title" h="002A7E1A">Element konnte nicht gelöscht werden</text>
+		<text id="deleteError.message" h="ABCC0ED6">%1 "%2" konnte auf OneDrive nicht gelöscht werden. %3</text>
+		<text id="deleteError.reason" h="09E96BF8">Bitte überprüfen Sie Ihre Internetverbindung und Ihre Zugriffsrechte auf OneDrive.</text>
+		<text id="btn.delete.text" h="ED580C1E">&amp;Löschen</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">&amp;Auf</text>
+		<text id="file" h="AFFADF08">Datei</text>
+		<text id="folder" h="1DAC8D17">Ordner</text>
+		<text id="deleteError.unknownItem.message" h="D27D16CB">Element konnte auf OneDrive nicht gelöscht werden. %1</text>
+		<text id="delete.title" h="FC00502F">Element(e) löschen</text>
+		<text id="delete.message" h="16714AA7">Wollen Sie %1 "%2" wirklich löschen?</text>
+		<text id="deleteMulti.message" h="806F170A">Wollen Sie %1 Elemente aus dem Ordner "%2" auf OneDrive löschen?</text>
+		<text id="deleteMulti.progress" h="7A18F8DD">Lösche Element %1 von %2</text>
+		<text id="deleteMulti.progress.title" h="CE70C7AD">Lösche Elemente auf OneDrive</text>
+		<text id="deleteSingle.progress" h="B781BCCF">Lösche %1 "%2"</text>
+		<text id="deleteSingle.progress.title" h="448891FC">Lösche Element auf OneDrive</text>
+	</Strings>
+</Localization>

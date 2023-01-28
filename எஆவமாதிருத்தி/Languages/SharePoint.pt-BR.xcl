@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20191210184457">2.00.00</Version>
+	<Author>Hélio de Souza</Author>
+	<Copyright>https://sway.office.com/RVue6qySNJ2DzYrs</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Portuguese (Brazil)" lName="Português do Brasil" code="pt-BR" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="8.0.335.0"/>
+	<Strings>
+		<text id="DlgAppPrefs.SharePoint.Name" h="56A5F9B3">SharePoint</text>
+		<text id="DlgAppPrefs.SharePoint.Title" h="07F34B45">Opções do SharePoint</text>
+		<text id="addFolder.error.message" h="F0B996F8">Falha ao criar pasta &lt;b&gt;%1&lt;/b&gt; no SharePoint.</text>
+		<text id="addFolder.progress.text" h="8C5EF68A">Criando a pasta &lt;b&gt;%1&lt;/b&gt;...</text>
+		<text id="addFolder.progress.title" h="7B4FFE6D">Criando a pasta no SharePoint</text>
+		<text id="addFolder.question.button.create" h="5AFC56A9">Criar Pasta</text>
+		<text id="addFolder.question.edit.title" h="AD9C0CB3">Por favor, insira o novo nome da pasta:</text>
+		<text id="addFolder.question.error.alreadyExists" h="C0A47FF7">A pasta atual já contém um item com o nome &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="addFolder.question.error.emptyFolderName" h="BB6566D6">O nome da pasta não pode estar vazio.</text>
+		<text id="addFolder.question.error.invalidFolderName" h="0A24FCDF">&lt;b&gt;%1&lt;/b&gt; não é um nome de pasta válido (os símbolos &lt;b&gt;&lt; &gt; " / \ | ? *&lt;/b&gt; não são permitidos).</text>
+		<text id="advancedPreferences.cb.hideFolders" h="56731DD2">Ocultar as seguintes pastas:</text>
+		<text id="advancedPreferences.group.OpenSaveDialog" h="4D95ED95">Abrir e Salvar</text>
+		<text id="btn.addFolder.text" h="69FFFB47">&amp;Criar Pasta</text>
+		<text id="btn.advancedPreferences" h="1EE42724">Avançado...</text>
+		<text id="btn.apply" h="51F4FB2C">&amp;Aplicar</text>
+		<text id="btn.cancelSaving" h="36FF91F6">&amp;Cancelar salvamento no servidor</text>
+		<text id="btn.checkIn" h="09996473">&amp;Check In</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">Manter o Check Out após o C&amp;heck In</text>
+		<text id="btn.clearLogs" h="848E003C">Excluir todos</text>
+		<text id="btn.connect" h="A79F815C">C&amp;onectar</text>
+		<text id="btn.delete.text" h="ED580C1E">&amp;Excluir</text>
+		<text id="btn.discardCheckOut" h="40AC5603">&amp;Descartar o Check Out</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">&amp;Acima</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">Manter em Check Out</text>
+		<text id="btn.navigate" h="B03F439E">&amp;Navegar</text>
+		<text id="btn.open" h="B1A510F0">&amp;Abrir</text>
+		<text id="btn.openLog" h="F3E66367">Abrir</text>
+		<text id="btn.openLogFolder" h="0B1D9C13">Abrir Pasta</text>
+		<text id="btn.openWithCheckOut" h="2F774735">Abrir com C&amp;heck Out</text>
+		<text id="btn.overwrite" h="48E63C4C">&amp;Substituir</text>
+		<text id="btn.resetPreferences" h="A7132527">Restaurar Padrão</text>
+		<text id="btn.save" h="F363C410">Salvar</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">&amp;Salvar e fazer Check Out</text>
+		<text id="btn.saveReplace" h="11BF9724">Salvar e Substituir</text>
+		<text id="btn.settings" h="563BF6B7">Configuraçõ&amp;es</text>
+		<text id="btn.signOut" h="645CEBE2">Sa&amp;ir</text>
+		<text id="cb.url.tip" h="CD81E674">Digite o Endereço</text>
+		<text id="cbitem.afterSave.ask" h="5F9AC292">Perguntar o que fazer</text>
+		<text id="cbitem.afterSave.checkIn" h="FA91CFF8">Check In</text>
+		<text id="cbitem.afterSave.checkInCheckOut" h="C236E112">Manter o Check Out após o Check In</text>
+		<text id="cbitem.afterSave.keepCheckOut" h="F4487016">Manter o Check Out</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.ask" h="5F9AC292">Perguntar o que fazer</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.discardCheckOut" h="CA75DE00">Descartar o Check Out</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.keepCheckOut" h="F4487016">Manter o Check Out</text>
+		<text id="cbitem.closeNeedCheckIn.ask" h="5F9AC292">Perguntar o que fazer</text>
+		<text id="cbitem.closeNeedCheckIn.checkIn" h="FA91CFF8">Check In</text>
+		<text id="cbitem.closeNeedCheckIn.checkInCheckOut" h="C236E112">Manter o Check Out após o Check In</text>
+		<text id="cbitem.closeNeedCheckIn.keepCheckOut" h="B1F294B6">Manter em Check Out</text>
+		<text id="cbitem.defaultCheckInType.major" h="D5227ED6">Incrementar versão principal</text>
+		<text id="cbitem.defaultCheckInType.minor" h="5B8ED168">Incrementar versão secundária</text>
+		<text id="cbitem.defaultCheckInType.overwrite" h="05A502D0">Substituir sem alterar a versão</text>
+		<text id="cbitem.logLevel.error" h="A393623F">Apenas erros</text>
+		<text id="cbitem.logLevel.information" h="2039C12A">Todos informativos</text>
+		<text id="cbitem.logLevel.none" h="1E317BDF">Sem registro</text>
+		<text id="cbitem.logLevel.verbose" h="C7EEABE5">Registro detalhado completo</text>
+		<text id="cbitem.logLevel.warning" h="427C1C47">Avisos e erros</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.ask" h="5F9AC292">Perguntar o que fazer</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.checkOut" h="95775966">Abrir e fazer Check Out</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.open" h="38A34D1A">Abrir sem Check Out</text>
+		<text id="cbitem.whenSaveConflict.ask" h="5F9AC292">Perguntar o que fazer</text>
+		<text id="cbitem.whenSaveConflict.cancel" h="554F5523">Cancelar salvamento no servidor</text>
+		<text id="cbitem.whenSaveConflict.overwrite" h="B67489D8">Substituir versão no servidor</text>
+		<text id="check.dontShowThisMessageAgain" h="AC16D0EE">Não exibir esta mensagem novamente</text>
+		<text id="check.whenOpenDocumentCheckoutNoneDisableEditing" h="778336E0">Desativar a edição</text>
+		<text id="check.whenOpenDocumentCheckoutNoneShowWarning" h="E97BFF00">Mostrar mensagem de aviso</text>
+		<text id="checkInDialog.typeRaio.Major" h="55515597">Increment&amp;ar versão principal</text>
+		<text id="checkInDialog.typeRaio.Minor" h="DBFDFA29">Incrementar versão secundár&amp;ia</text>
+		<text id="checkInDialog.typeRaio.Overwrite" h="FE98B944">&amp;Substituir sem alterar a versão</text>
+		<text id="cmd.checkIn" h="AEF235ED">Check &amp;In</text>
+		<text id="cmd.checkIn.tip" h="C9DCA405">Fazer Check In no documento do SharePoint</text>
+		<text id="cmd.checkOut" h="E6A87AFE">Check &amp;Out</text>
+		<text id="cmd.checkOut.tip" h="E1B64D30">Fazer Check Out no documento do SharePoint</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">&amp;Descartar o Check Out</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">&amp;Descartar o Check Out no arquivo do SharePoint</text>
+		<text id="cmd.enableEditing" h="340AFFD4">Habilitar &amp;Edição</text>
+		<text id="cmd.enableEditing.tip" h="8A29948D">Ativar edição e recursos interativos.</text>
+		<text id="cmd.open" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.open.tip" h="007B7200">Abrir documentos a partir do SharePoint</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">Preparar &amp;Informação do Arquivo</text>
+		<text id="cmd.prepareFileInfo.tip" h="E609EA07">Preparar a informação para o SharePoint</text>
+		<text id="cmd.save" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.save.tip" h="C48C1C25">Salvar o documento atual no SharePoint.</text>
+		<text id="cmd.share_point" h="B7423C0E">Share&amp;Point</text>
+		<text id="cmd.share_point.tip" h="CA99078B">Trabalhar com documentos do SharePoint</text>
+		<text id="defaultCheckInComment" h="4EF280A5">Comentário do Check-In:</text>
+		<text id="defaultCheckInType" h="F606FFC1">Tipo de Check-In padrão:</text>
+		<text id="delete.error.file" h="3C348225">Falha ao excluir o arquivo &lt;b&gt;%1&lt;/b&gt; do SharePoint.</text>
+		<text id="delete.error.folder" h="3C348225">Falha ao excluir o arquivo &lt;b&gt;%1&lt;/b&gt; do SharePoint.</text>
+		<text id="delete.error.unknown" h="A3E6F83A">Falha ao excluir o item selecionado do SharePoint.</text>
+		<text id="delete.progress.status" h="F729DF24">%1 de %2</text>
+		<text id="delete.progress.text.file" h="EFCE4189">Excluindo o arquivo &lt;b&gt;%1&lt;/b&gt;...</text>
+		<text id="delete.progress.text.folder" h="2E89372D">Excluindo a pasta &lt;b&gt;%1&lt;/b&gt;...</text>
+		<text id="delete.progress.text.unknown" h="367B0EA7">Excluindo &lt;b&gt;%1&lt;/b&gt;...</text>
+		<text id="delete.progress.title" h="DFC61F07">Excluindo do SharePoint</text>
+		<text id="delete.question.file" h="F3B2380C">Deseja excluir o arquivo &lt;b&gt;%1&lt;/b&gt;?</text>
+		<text id="delete.question.folder" h="DA195BFA">Deseja excluir a pasta &lt;b&gt;%1&lt;/b&gt; e todo o seu conteúdo?</text>
+		<text id="delete.question.multi" h="ACA0CEC0">Deseja excluir %1 itens?</text>
+		<text id="delete.question.unknown" h="8C13886E">Deseja excluir o item selecionado?</text>
+		<text id="dlg.advancedPreferences.title" h="88234689">Preferências Avançadas do SharePoint</text>
+		<text id="dlg.liveLogin" h="BFADC685">Acesso Ao Vivo</text>
+		<text id="dlg.openFile" h="435887CD">Abrir Arquivo</text>
+		<text id="dlg.saveFile" h="520CB069">Salvar Arquivo</text>
+		<text id="group.Logging" h="F9DEFF33">Logs</text>
+		<text id="group.documentActions" h="C2F29B9A">Trabalhar com documentos</text>
+		<text id="ibar.cannotEditEditing" h="13F24128">Você não tem permissão para editar o arquivo no servidor. Você pode apenas salvar uma cópia local do documento.</text>
+		<text id="ibar.cannotEditNoEditing" h="52C758B6">Você não tem permissão para editar o arquivo no servidor. Todos os recursos interativos e de edição estão desativados.</text>
+		<text id="ibar.checkedOutToMe" h="B5AF7047">O arquivo está em Check Out para você.</text>
+		<text id="ibar.checkedOutToOtherEditing" h="4F420124">O arquivo está em Check Out para %1. Você não poderá salvar o arquivo no servidor.</text>
+		<text id="ibar.checkedOutToOtherNoEditing" h="B8C2709A">O arquivo está em Check Out para %1. Todos os recursos interativos e de edição estão desativados.</text>
+		<text id="ibar.notCheckedOutEditing" h="A4D56FD1">O arquivo está em Check In. Se outros usuários alterarem o arquivo no servidor, você não poderá salvar as alterações deste arquivo.</text>
+		<text id="ibar.notCheckedOutNoEditing" h="E3EA5586">O arquivo está em Check In. Todos os recursos interativos e de edição estão desativados.</text>
+		<text id="ibar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="ibar.sharepoint.description" h="6F2E3CDD">Informações e operações de contexto do documento do SharePoint</text>
+		<text id="ibar.sharepoint.title" h="C3F43468">Documento do SharePoint</text>
+		<text id="lb.afterSave" h="B8FD9751">Ao salvar o documento:</text>
+		<text id="lb.checkInComment" h="694DD18A">Comentário (opcional):</text>
+		<text id="lb.closeDoesNotNeedCheckIn" h="293982D2">Fechar um documento com Check Out sem alterações:</text>
+		<text id="lb.closeNeedCheckIn" h="32249D2D">Fechar um documento com Check Out com alterações:</text>
+		<text id="lb.currentLogFile" h="79D35843">Log atual:</text>
+		<text id="lb.name" h="F7B9E475">Nome:</text>
+		<text id="lb.numberOfDaysToStoreLogs" h="E12F4F23">Armazenar por:</text>
+		<text id="lb.sharePointPlaceUrl" h="F900769A">URL do SharePoint:</text>
+		<text id="lb.sharePointPlaceValidUrl" h="9BFA1D20">Falha ao conectar-se ao servidor do SharePoint. Por favor, verifique a conexão com a internet e a URL do servidor fornecido.</text>
+		<text id="lb.whenOpenDocumentCheckoutNone" h="D9B6115E">Abrir um documento com Check Out para ninguém:</text>
+		<text id="lb.whenOpenDocumentCheckoutOther" h="4C458F62">Abrir um documento com Check Out para outro usuário:</text>
+		<text id="lb.whenOpenDocumentWithoutWritePermissions" h="88CBE154">Abrir um documento somente para leitura:</text>
+		<text id="lb.whenSaveConflict" h="6DA89C17">Ao salvar um documento alterado no servidor:</text>
+		<text id="ls.column.created" h="FE6510B7">Data de Criação</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Data e hora em que o arquivo, pasta ou lista foi criada</text>
+		<text id="ls.column.extension" h="14FEB836">Extensão</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Extensão de Arquivo</text>
+		<text id="ls.column.modified" h="691C3610">Data de Modificação</text>
+		<text id="ls.column.modified.hint" h="12933E76">Data e hora em que o arquivo, pasta ou lista foi modificada pela última vez</text>
+		<text id="ls.column.size" h="17A58A52">Tamanho</text>
+		<text id="ls.column.size.hint" h="E79CA174">Tamanho do Arquivo</text>
+		<text id="ls.column.title" h="D18643E3">Nome</text>
+		<text id="ls.column.title.hint" h="81F4F728">Nome do arquivo, nome da pasta ou título da lista</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">Deseja fazer o Check In no arquivo &lt;b&gt;%1&lt;/b&gt; antes de fechar?  Isso tornará as alterações disponíveis para outros usuários.</text>
+		<text id="msg.askForCheckOutOnOpen" h="B185C3DF">Você pode abrir o arquivo &lt;b&gt;%1&lt;/b&gt; com o Check Out para definir o arquivo como "Somente Leitura" para outros usuários e para que você possa alterá-lo com segurança e salvar as alterações no SharePoint ou você pode permitir que outros usuários alterem o arquivo, mas isso pode causar conflitos se você tentar alterar e salvar o arquivo.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">O arquivo &lt;b&gt;%1&lt;/b&gt; está em Check Out para você. Deseja cancelar o Check Out e permitir que outros usuários possam editar o arquivo?</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">Fazer Check In no arquivo &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="msg.checkInFailed" h="3E327B8B">Falha ao fazer Check In no arquivo &lt;b&gt;%1&lt;/b&gt;. Certifique-se que este arquivo está em Check Out para você.</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">Falha ao fazer Check Out no arquivo &lt;b&gt;%1&lt;/b&gt;. Certifique-se de que o arquivo existe no servidor e não está em Check Out para outro usuário.</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">Você não pode abrir o arquivo &lt;b&gt;%1&lt;/b&gt; com Check Out. Ele já está em Check Out para o usuário "%2".</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">O arquivo &lt;b&gt;%1&lt;/b&gt; está em Check Out para o usuário "%2". Você não pode salvar o arquivo no SharePoint até que o Check Out seja feito para você, mas você poderá salvar as alterações em um local diferente.</text>
+		<text id="msg.connectError" h="18DFEDBE">Falha ao conectar ao servidor SharePoint. Por favor, verifique sua conexão com a internet, exatidão do endereço do servidor e os direitos de acesso a recursos do SharePoint solicitado.</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">Falha ao descartar o Check Out do arquivo &lt;b&gt;%1&lt;/b&gt;. Certifique-se de que este arquivo existe em Check Out para você.</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">Você não pode fazer o Check Out do arquivo &lt;b&gt;%1&lt;/b&gt; ou não possui permissões para editá-lo.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">Você não pode abrir o arquivo &lt;b&gt;%1&lt;/b&gt; com Check Out, já que não possui as permissões de edição deste arquivo.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">Você não possui permissões para abrir ou editar o arquivo &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">O arquivo &lt;b&gt;%1&lt;/b&gt; deve estar em Check Out antes de ser salvo, mas você não possui permissões para isso.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="C492B710">Você não pode salvar o arquivo &lt;b&gt;%1&lt;/b&gt; no SharePoint, já que não possui as permissões de edição deste arquivo.</text>
+		<text id="msg.fileNotFound" h="381368F8">O arquivo &lt;b&gt;%1&lt;/b&gt; não foi encontrado na pasta atual.</text>
+		<text id="msg.invalidFileName" h="6BAFE9F2">&lt;b&gt;%1&lt;/b&gt; não é um nome de arquivo válido. O nome não pode conter os caracteres &lt;b&gt;%2&lt;/b&gt;.</text>
+		<text id="msg.navigateError" h="CF23B4B6">Falha ao acessar os recursos do SharePoint. Por favor, verifique sua conexão com a internet, exatidão do endereço e direitos para acessar os recursos do SharePoint solicitado.</text>
+		<text id="msg.openFailed" h="34DE1259">Falha ao abrir arquivo. Certifique-se de que o arquivo existe; que não está em Check Out para outro usuário e que você tem as permissões necessárias.</text>
+		<text id="msg.outdatedFileOnWrite" h="93CDEA71">Este arquivo contém modificações feitas por &lt;b&gt;%2&lt;/b&gt;, mas o servidor contém novas modificações feitas em &lt;b&gt;%3&lt;/b&gt;. Salve as alterações em um novo arquivo e depois abra o último arquivo em Check Out no SharePoint. Mescle as alterações e salve-as no servidor.</text>
+		<text id="msg.outdatedFileOnWrite.question" h="4802DC49">O arquivo &lt;b&gt;%1&lt;/b&gt; tem um conflito de alterações. O documento contém alterações feitas em &lt;b&gt;%2&lt;/b&gt;, mas o servidor contém alterações mais recentes feitas em &lt;b&gt;%3&lt;/b&gt;. Você pode tentar salvar no servidor ou salvar suas alterações em um novo arquivo. Após isso, abra o documento mais recente com Check Out no SharePoint para mesclar e salvar as alterações no servidor.</text>
+		<text id="msg.saveFailed" h="967D2A64">Não foi possível salvar o arquivo. Certifique-se o nome do arquivo é válido; que não está em Check Out para outro usuário e que você tem permissão para editá-lo.</text>
+		<text id="msg.saveReplace" h="B1889DFB">O arquivo &lt;b&gt;%1&lt;/b&gt; já existe. Deseja substituir?</text>
+		<text id="msg.signOutError" h="0E6A5F45">Falha ao sair do usuário atual do servidor do SharePoint. Você ainda poderá acessar o SharePoint sem solicitação de autenticação.</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="69F2FCB2">Você não tem permissão para editar o arquivo &lt;b&gt;%1&lt;/b&gt;. Note que você não poderá salvar as alterações no SharePoint, a menos que tenha as permissões necessárias.</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">O arquivo &lt;b&gt;%1&lt;/b&gt; está em Check Out para o usuário "%2". Você não pode salvar o arquivo no SharePoint até que "%2" descarte o Check Out. Se "%2" fizer Check In no arquivo, existirá um conflito de alterações.</text>
+		<text id="opt.dontShowAgain" h="492B5D79">Não &amp;mostrar esta mensagem novamente</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="str.sharePoint" h="56A5F9B3">SharePoint</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20211012163836">2.00.00</Version>
+	<Author>Regmos</Author>
+	<Copyright>Regmos 2022</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Danish (Denmark)" lName="dansk" code="da-DK" R2L="false"/>
+	<Module name="BoxFileSysPlugin" namespace="bx" version="9.1.357.0"/>
+	<Strings>
+		<text id="DlgOpenFile" h="86E98AB4">Åben fil fra Box.com</text>
+		<text id="DlgSaveFile" h="92FACB0A">Gem fil på Box.com</text>
+		<text id="GDPlugin" h="B688EC2F">Box.com plugin</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Nyt login...</text>
+		<text id="cmd.cmdsCategory" h="31FA0599">Box.com</text>
+		<text id="cmd.boxcom" h="75541700">Box.com</text>
+		<text id="cmd.open" h="031B6D18">Box.com...</text>
+		<text id="cmd.open.tip" h="62BC57EF">Åben dokument fra Box.com</text>
+		<text id="cmd.save" h="031B6D18">Box.com...</text>
+		<text id="cmd.save.tip" h="504ADEEC">Gem aktivt dokument i Box.com</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Fil ikke fundet</text>
+		<text id="cpt.invalidFileName" h="79C1387C">Ugyldigt filnavn</text>
+		<text id="cpt.navigateError" h="3D300A1C">Navigeringsfejl</text>
+		<text id="cpt.saveReplace" h="520CB069">Gem fil</text>
+		<text id="cpt.selectFile" h="C55D68B0">Vælger fil</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Kan ikke gemme fil i mappe</text>
+		<text id="dlg.Auth" h="D0142F48">Box.com godkendelse</text>
+		<text id="fileName" h="DEC92488">Filnavn:</text>
+		<text id="lb.CurrentFolder" h="44158804">Aktuel mappe:</text>
+		<text id="lb.Test" h="273F3E5B">Test Test Test!</text>
+		<text id="lb.googleAccName" h="AC7C938D">Box.com konto:</text>
+		<text id="ls.column.created" h="FE6510B7">Oprettet</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Dato/tid for oprettelse af fil, mappe eller liste</text>
+		<text id="ls.column.extension" h="14FEB836">Filtype</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Filtype</text>
+		<text id="ls.column.modified" h="7E234D6D">Ændret</text>
+		<text id="ls.column.modified.hint" h="12933E76">Dato/tid for ændring af fil, mappe eller liste</text>
+		<text id="ls.column.size" h="17A58A52">Størrelse</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Filstørrelse</text>
+		<text id="ls.column.title" h="D18643E3">Navn</text>
+		<text id="ls.column.title.hint" h="6A895576">Filnavn, mappenavn eller listenavn</text>
+		<text id="msg.fileNotFound" h="430E08B1">Filen "%1" findes ikke i den aktuelle mappe.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">Filnavnet "%1" er ugyldigt</text>
+		<text id="msg.navigateError" h="93AD3E71">Kunne ikke kontakte Box.com. Kontroller din internetforbindelse og dine rettigheder!</text>
+		<text id="msg.openFailed" h="AC94D960">Kunne ikke åbne fil. Kontroller at den findes, ikke er åbnet af en anden bruger og at du har de nødvendige rettigheder.</text>
+		<text id="msg.saveFailed" h="4D413392">Kunne ikke gemme fil. Kontroller at filnavnet er gyldigt og du har de nødvendige rettigheder.</text>
+		<text id="msg.saveReplace" h="5D56833E">Filen %1 findes allerede. Vil du overskrive?</text>
+		<text id="msg.selectFile" h="2530C20F">Vælg fil og klik OK</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Filen kan ikke gemmes på valgte placering. Vælg 'Mit drev', en af dets undermapper eller en 'Delt med mig' undermappe.</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">Mit drev</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Delt medmig</text>
+		<text id="addFolder.title" h="42CD8D51">Opret mappe</text>
+		<text id="addFolder.message" h="940CF2FA">Angiv nyt mappenavn</text>
+		<text id="addFolderError.title" h="DDB9C8A8">Kan ikke oprette mappe</text>
+		<text id="addFolderError.message" h="9294B942">Kunne ikke oprette mappe på Box.com. Kontroller din internetforbindelse!</text>
+		<text id="btn.addFolder.text" h="69FFFB47">Opret mappe</text>
+		<text id="deleteError.title" h="002A7E1A">Kan ikke slette emne</text>
+		<text id="deleteError.message" h="D4B0C004">Kan ikke slette %1 "%2" på Box.com. %3</text>
+		<text id="deleteError.reason" h="3C580AC0">Kontroller din internetforbindelse og dine rettigheder.</text>
+		<text id="btn.delete.text" h="ED580C1E">Slet</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">Op</text>
+		<text id="file" h="AFFADF08">fil</text>
+		<text id="folder" h="1DAC8D17">mappe</text>
+		<text id="deleteError.unknownItem.message" h="9BDB4091">Kan ikke slette emne på Box.com. %1</text>
+		<text id="delete.title" h="FC00502F">"Slet emne(r)"</text>
+		<text id="delete.message" h="16714AA7">"Vil du slette %1 "%2"?"</text>
+		<text id="deleteMulti.message" h="6A5DFE06">"Vil du slette %1 emner fra mappen "%2" på Box.com?"</text>
+		<text id="deleteMultiRoot.message" h="AB66D793">"Vil du slette %1 fra rodmappen på Box.com?"</text>
+		<text id="deleteMulti.progress" h="7A18F8DD">"Sletter #%1 af %2"</text>
+		<text id="deleteMulti.progress.title" h="D98549E6">"Sletter emner fra Box.com"</text>
+		<text id="deleteSingle.progress" h="B781BCCF">"Sletter %1 "%2""</text>
+		<text id="deleteSingle.progress.title" h="944FFD63">"Sletter emne fra Box.com"</text>
+	</Strings>
+</Localization>

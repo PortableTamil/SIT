@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20221121231902">2.00.00</Version>
+	<Author>ELDOST QASIMOV</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Azerbaijani (Latin, Azerbaijan)" lName="Azərbaycan" code="az-Latn-AZ" R2L="false"/>
+	<Module name="CSVToPDFPlugin" namespace="csv" version="9.5.365.0"/>
+	<Strings>
+		<text id="DlgCSVToPDF" h="159649A7">CSV-dən  PDF-ə</text>
+		<text id="converter.desc" h="967CBC0E">CSV sənədlərini PDF Sənədinin içindəki cədvəllərə çevirir</text>
+		<text id="autoInfo" h="27598254">Dəyərləri düzənləmək üçün lütfən avtomatik sütun genişliyi hesablamasını bağlayın.</text>
+		<text id="ctp.chb.autoDelimiter" h="BFABCE78">Ayırıcını verilənlərə görə avtomatik hesabla</text>
+		<text id="ctp.chb.boldHeaders" h="AB4D23E9">Başlıq mətni üçün qalın şrift istifadə et</text>
+		<text id="ctp.chb.calcWidth" h="C8B58489">Verilənlərə görə sütun genişliklərini avtomatik olaraq hesabla</text>
+		<text id="ctp.chb.drawBorder" h="1C2186D3">Cədvəl sərhədlərini çək</text>
+		<text id="ctp.chb.headersOnEachPage" h="9413CFF2">Hər səhifədə bölmə başlığı çək</text>
+		<text id="ctp.chb.showDialogOnOpen" h="D10EC9DE">CSV faylını açarkən bu dialoqu göstərin</text>
+		<text id="ctp.g.Margins" h="62C950A2">Kənar Boşluqlar</text>
+		<text id="ctp.g.delimiterAndQuotes" h="A6EFA0C6">Ayırıcı ve Alıntılar</text>
+		<text id="ctp.g.pageSettings" h="D82087B4">Səhifə Ayarları</text>
+		<text id="ctp.g.style" h="C091D68E">Üslub</text>
+		<text id="ctp.l.borderWidth" h="457515E3">Sərhəd genişliyi:</text>
+		<text id="ctp.l.bottom" h="C711C97A">Alt:</text>
+		<text id="ctp.l.delimiter" h="3480C690">Ayırıcı:</text>
+		<text id="ctp.l.left" h="FC2BB3FB">Sol:</text>
+		<text id="ctp.l.quotes" h="F5FEAC85">Alıntılar:</text>
+		<text id="ctp.l.right" h="FD30D9F1">Sağ:</text>
+		<text id="ctp.l.top" h="99A7C1A9">Üst:</text>
+		<text id="ctp.lst.calcWidth.header" h="608B00E9">Başlıq</text>
+		<text id="ctp.lst.calcWidth.width" h="DADE8BD3">Genişlik (%1)</text>
+		<text id="ctp.previewCtl.noDocTip" h="55E892D4">Sənəd yüklənir...</text>
+		<text id="message.marginsWarning" h="4388F5CE">Kənar boşluqları çox böyükdür</text>
+		<text id="message.warning" h="E7AD7A2B">Xəbərdarlıq</text>
+		<text id="newDocFromCSV" h="602EDA1B">CSV sənədindən...</text>
+		<text id="prop.source" h="A2415BEA">CSV sənədləri</text>
+	</Strings>
+</Localization>

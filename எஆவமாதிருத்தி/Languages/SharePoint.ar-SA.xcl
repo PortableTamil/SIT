@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20190812220242">2.00.00</Version>
+	<Author>Muhammad Alkhateeb</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Arabic (Saudi Arabia)" lName="العربية" code="ar-SA" R2L="true"/>
+	<Module name="SharePoint" namespace="sp" version="8.0.331.0"/>
+	<Strings>
+		<text id="DlgAppPrefs.SharePoint.Name" h="56A5F9B3">SharePoint</text>
+		<text id="DlgAppPrefs.SharePoint.Title" h="07F34B45">إعدادات SharePoint</text>
+		<text id="addFolder.error.message" h="F0B996F8">Der Ordner &lt;b&gt;%1&lt;/b&gt; konnte nicht in SharePoint erstellt werden.</text>
+		<text id="addFolder.progress.text" h="8C5EF68A">Erstelle Ordner &lt;b&gt;%1&lt;/b&gt;...</text>
+		<text id="addFolder.progress.title" h="7B4FFE6D">إنشاء مجلدات في SharePoint</text>
+		<text id="addFolder.question.button.create" h="5AFC56A9">إنشاء مجلد</text>
+		<text id="addFolder.question.edit.title" h="AD9C0CB3">الرجاء إدخال اسم المجلد:</text>
+		<text id="addFolder.question.error.alreadyExists" h="C0A47FF7">Der aktuelle Ordner enthält bereits ein Element mit dem Namen &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="addFolder.question.error.emptyFolderName" h="BB6566D6">يجب ألا يكون اسم المجلد فارغًا.</text>
+		<text id="addFolder.question.error.invalidFolderName" h="0A24FCDF">&lt;b&gt;%1&lt;/b&gt; ist kein gültiger Dateiname: الرموز &lt;b&gt;&lt; &gt; &quot; / | ? *&lt;/b&gt; غير مسموح به.</text>
+		<text id="advancedPreferences.cb.hideFolders" h="56731DD2">إخفاء هذه المجلدات:</text>
+		<text id="advancedPreferences.group.OpenSaveDialog" h="4D95ED95">فتح/حفظ مربع الحوار</text>
+		<text id="btn.addFolder.text" h="69FFFB47">إنشاء مجلد</text>
+		<text id="btn.advancedPreferences" h="1EE42724">ممتد...</text>
+		<text id="btn.apply" h="51F4FB2C">تطبيق</text>
+		<text id="btn.cancelSaving" h="36FF91F6">إلغاء الطعام على الخادم</text>
+		<text id="btn.checkIn" h="09996473">&amp;العودة</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">العودة ، ولكن استمر في الاقتراض</text>
+		<text id="btn.clearLogs" h="848E003C">حذف الكل</text>
+		<text id="btn.connect" h="A79F815C">&amp;Connect</text>
+		<text id="btn.delete.text" h="ED580C1E">&amp;حذف</text>
+		<text id="btn.discardCheckOut" h="40AC5603">الاقتراض والتراجع</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">A &amp;uf</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">استمر في الاقتراض</text>
+		<text id="btn.navigate" h="B03F439E">&amp;تنقل</text>
+		<text id="btn.open" h="B1A510F0">افتح</text>
+		<text id="btn.openLog" h="F3E66367">افتح</text>
+		<text id="btn.openLogFolder" h="0B1D9C13">افتح المجلد</text>
+		<text id="btn.openWithCheckOut" h="2F774735">فتح واقتراض</text>
+		<text id="btn.overwrite" h="48E63C4C">الكتابة فوق</text>
+		<text id="btn.resetPreferences" h="A7132527">القيم الافتراضية</text>
+		<text id="btn.save" h="F363C410">&amp;حفظ</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">&amp;حفظ واستعارة</text>
+		<text id="btn.saveReplace" h="11BF9724">حفظ واستبدال</text>
+		<text id="btn.settings" h="563BF6B7">&amp;الإعدادات</text>
+		<text id="btn.signOut" h="645CEBE2">إلغاء الاشتراك</text>
+		<text id="cb.url.tip" h="CD81E674">أدخل العنوان...</text>
+		<text id="cbitem.afterSave.ask" h="5F9AC292">اسأل ماذا تفعل</text>
+		<text id="cbitem.afterSave.checkIn" h="FA91CFF8">إرجاع</text>
+		<text id="cbitem.afterSave.checkInCheckOut" h="C236E112">العودة ومواصلة الاقتراض</text>
+		<text id="cbitem.afterSave.keepCheckOut" h="F4487016">استمر في الاقتراض</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.ask" h="5F9AC292">اسأل ماذا تفعل</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.discardCheckOut" h="CA75DE00">إلغاء الاقتراض</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.keepCheckOut" h="F4487016">استمر في الاقتراض</text>
+		<text id="cbitem.closeNeedCheckIn.ask" h="5F9AC292">اسأل ماذا تفعل</text>
+		<text id="cbitem.closeNeedCheckIn.checkIn" h="FA91CFF8">إرجاع</text>
+		<text id="cbitem.closeNeedCheckIn.checkInCheckOut" h="C236E112">العودة ومواصلة الاقتراض</text>
+		<text id="cbitem.closeNeedCheckIn.keepCheckOut" h="B1F294B6">استمر في الاقتراض</text>
+		<text id="cbitem.defaultCheckInType.major" h="D5227ED6">زيادة الإصدار الرئيسي</text>
+		<text id="cbitem.defaultCheckInType.minor" h="5B8ED168">زيادة النسخة الثانوية</text>
+		<text id="cbitem.defaultCheckInType.overwrite" h="05A502D0">الكتابة فوق بدون تغيير الإصدار</text>
+		<text id="cbitem.logLevel.error" h="A393623F">الأخطاء فقط</text>
+		<text id="cbitem.logLevel.information" h="2039C12A">جميع المعلومات</text>
+		<text id="cbitem.logLevel.none" h="1E317BDF">لا تسجيل</text>
+		<text id="cbitem.logLevel.verbose" h="C7EEABE5">تسجيل كامل ومفصل</text>
+		<text id="cbitem.logLevel.warning" h="427C1C47">التحذيرات والأخطاء</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.ask" h="5F9AC292">اسأل ماذا تفعل</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.checkOut" h="95775966">فتح واقتراض</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.open" h="38A34D1A">مفتوح بدون اقتراض</text>
+		<text id="cbitem.whenSaveConflict.ask" h="5F9AC292">اسأل ماذا تفعل</text>
+		<text id="cbitem.whenSaveConflict.cancel" h="554F5523">إلغاء الحفظ على الخادم</text>
+		<text id="cbitem.whenSaveConflict.overwrite" h="B67489D8">نسخة الكتابة فوق الخادم</text>
+		<text id="check.dontShowThisMessageAgain" h="AC16D0EE">لا تظهر هذه الرسالة بعد الآن</text>
+		<text id="check.whenOpenDocumentCheckoutNoneDisableEditing" h="778336E0">قم بإيقاف التحرير</text>
+		<text id="check.whenOpenDocumentCheckoutNoneShowWarning" h="E97BFF00">أظهر التحذير</text>
+		<text id="checkInDialog.typeRaio.Major" h="55515597">زيادة الإصدار الرئيسي</text>
+		<text id="checkInDialog.typeRaio.Minor" h="DBFDFA29">زيادة التأمين الجانبي</text>
+		<text id="checkInDialog.typeRaio.Overwrite" h="FE98B944">الكتابة فوق وبدون تغيير الإصدار</text>
+		<text id="cmd.checkIn" h="AEF235ED">&amp;العودة</text>
+		<text id="cmd.checkIn.tip" h="C9DCA405">أعد المستند إلى SharePoint.</text>
+		<text id="cmd.checkOut" h="E6A87AFE">&amp;اقتراض</text>
+		<text id="cmd.checkOut.tip" h="E1B64D30">استعارة المستند من SharePoint.</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">الاقتراض والتراجع</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">التراجع عن إقراض المستند إلى SharePoint.</text>
+		<text id="cmd.enableEditing" h="340AFFD4">تنشيط المعالجة</text>
+		<text id="cmd.enableEditing.tip" h="8A29948D">السماح بتحرير المستند وتنشيط الوظائف التفاعلية.</text>
+		<text id="cmd.open" h="68595810">حصة ونقطة...</text>
+		<text id="cmd.open.tip" h="007B7200">افتح مستند SharePoint.</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">إعداد الملف والمعلومات</text>
+		<text id="cmd.prepareFileInfo.tip" h="E609EA07">إعداد معلومات الملف لـ SharePoint.</text>
+		<text id="cmd.save" h="68595810">حصة ونقطة...</text>
+		<text id="cmd.save.tip" h="C48C1C25">احفظ مستندًا نشطًا في SharePoint.</text>
+		<text id="cmd.share_point" h="B7423C0E">حصة ونقطة</text>
+		<text id="cmd.share_point.tip" h="CA99078B">العمل مع المستندات من SharePoint</text>
+		<text id="defaultCheckInComment" h="4EF280A5">التعليق عند العودة:</text>
+		<text id="defaultCheckInType" h="F606FFC1">إجراء الإرجاع :</text>
+		<text id="delete.error.file" h="3C348225">Die Datei &lt;b&gt;%1&lt;/b&gt; konnte nicht aus SharePoint gelöscht werden.</text>
+		<text id="delete.error.folder" h="3C348225">Die Datei &lt;b&gt;%1&lt;/b&gt; konnte nicht aus SharePoint gelöscht werden.</text>
+		<text id="delete.error.unknown" h="A3E6F83A">تعذر حذف العنصر المحدد من SharePoint.</text>
+		<text id="delete.progress.status" h="F729DF24">%1 von %2</text>
+		<text id="delete.progress.text.file" h="EFCE4189">Lösche Datei &lt;b&gt;%1&lt;/b&gt;...</text>
+		<text id="delete.progress.text.folder" h="2E89372D">Lösche Ordner &lt;b&gt;%1&lt;/b&gt;...</text>
+		<text id="delete.progress.text.unknown" h="367B0EA7">Lösche &lt;b&gt;%1&lt;/b&gt;...</text>
+		<text id="delete.progress.title" h="DFC61F07">حذف من SharePoint</text>
+		<text id="delete.question.file" h="F3B2380C">Wollen Sie die Datei &lt;b&gt;%1&lt;/b&gt; löschen?</text>
+		<text id="delete.question.folder" h="DA195BFA">Wollen Sie den Ordner &lt;b&gt;%1&lt;/b&gt; und seinen gesamten Inhalt löschen?</text>
+		<text id="delete.question.multi" h="ACA0CEC0">Wollen Sie %1 Elemente löschen?</text>
+		<text id="delete.question.unknown" h="8C13886E">هل تريد حذف العنصر المحدد؟</text>
+		<text id="dlg.advancedPreferences.title" h="88234689">إعدادات متقدمة لـ SharePoint</text>
+		<text id="dlg.liveLogin" h="BFADC685">التسجيل المباشر</text>
+		<text id="dlg.openFile" h="435887CD">افتح الملف</text>
+		<text id="dlg.saveFile" h="520CB069">حفظ الملف</text>
+		<text id="group.Logging" h="F9DEFF33">التسجيل</text>
+		<text id="group.documentActions" h="C2F29B9A">العمل مع المستندات</text>
+		<text id="ibar.cannotEditEditing" h="13F24128">ليس لديك أذونات لتغيير الملف على الخادم. يمكنك فقط حفظ المستند كنسخة محلية.</text>
+		<text id="ibar.cannotEditNoEditing" h="52C758B6">ليس لديك أذونات لتغيير الملف على الخادم. يتم إيقاف التحرير وجميع الوظائف التفاعلية.</text>
+		<text id="ibar.checkedOutToMe" h="B5AF7047">لقد اقترضت الملف.</text>
+		<text id="ibar.checkedOutToOtherEditing" h="4F420124">Die Datei ist von %1 ausgeliehen. لن تتمكن من حفظ المستند على الخادم.</text>
+		<text id="ibar.checkedOutToOtherNoEditing" h="B8C2709A">Die Datei ist von %1 ausgeliehen. يتم إيقاف تشغيل المستند وجميع الوظائف التفاعلية.</text>
+		<text id="ibar.notCheckedOutEditing" h="A4D56FD1">الملف غير مستعار. إذا قام المستخدمون الآخرون بتغيير الملف على الخادم ، فلن تتمكن من حفظ التغييرات.</text>
+		<text id="ibar.notCheckedOutNoEditing" h="E3EA5586">الملف غير مستعار. يتم إيقاف تشغيل المستند وجميع الوظائف التفاعلية.</text>
+		<text id="ibar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="ibar.sharepoint.description" h="6F2E3CDD">معلومات السياق والإجراءات الخاصة بمستند SharePoint</text>
+		<text id="ibar.sharepoint.title" h="C3F43468">مستند SharePoint</text>
+		<text id="lb.afterSave" h="B8FD9751">حفظ الملفات :</text>
+		<text id="lb.checkInComment" h="694DD18A">تعليق (اختياري):</text>
+		<text id="lb.closeDoesNotNeedCheckIn" h="293982D2">إغلاق الملفات المستعارة دون تغييرات:</text>
+		<text id="lb.closeNeedCheckIn" h="32249D2D">إغلاق الملفات المستعارة مع التغييرات:</text>
+		<text id="lb.currentLogFile" h="79D35843">الحالي:</text>
+		<text id="lb.name" h="F7B9E475">اسم الملف:</text>
+		<text id="lb.numberOfDaysToStoreLogs" h="E12F4F23">حفظ (أيام)</text>
+		<text id="lb.sharePointPlaceUrl" h="F900769A">عنوان URL الخاص بـ SharePoint:</text>
+		<text id="lb.sharePointPlaceValidUrl" h="9BFA1D20">فشل الاتصال بخادم SharePoint. يرجى التحقق من اتصال الإنترنت وعنوان URL .</text>
+		<text id="lb.whenOpenDocumentCheckoutNone" h="D9B6115E">فتح الملفات غير المستعارة :</text>
+		<text id="lb.whenOpenDocumentCheckoutOther" h="4C458F62">فتح الملفات المستعارة:</text>
+		<text id="lb.whenOpenDocumentWithoutWritePermissions" h="88CBE154">فتح الملفات للقراءة فقط :</text>
+		<text id="lb.whenSaveConflict" h="6DA89C17">تم تغيير حفظ الملفات على الخادم:</text>
+		<text id="ls.column.created" h="FE6510B7">تاريخ الإنشاء</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">تاريخ ووقت إنشاء الملف أو المجلد أو القائمة</text>
+		<text id="ls.column.extension" h="14FEB836">تمديد</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">تمديد</text>
+		<text id="ls.column.modified" h="691C3610">تاريخ التغيير</text>
+		<text id="ls.column.modified.hint" h="12933E76">تاريخ ووقت تغيير الملف أو المجلد أو القائمة</text>
+		<text id="ls.column.size" h="17A58A52">الحجم</text>
+		<text id="ls.column.size.hint" h="E79CA174">حجم الملف</text>
+		<text id="ls.column.title" h="D18643E3">الاسم</text>
+		<text id="ls.column.title.hint" h="81F4F728">ملف أو اسم مجلد أو عنوان قائمة</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">Wollen Sie die Datei &lt;b&gt;%1&lt;/b&gt; vor dem Schließen zurückgeben, um die Änderungen für andere Benutzer verfügbar zu machen?</text>
+		<text id="msg.askForCheckOutOnOpen" h="B185C3DF">Sie können die Datei &lt;b&gt;%1&lt;/b&gt; ausleihen, damit sie von anderen Benutzern nur noch gelesen werden kann, um Sie zu ändern und wieder auf SharePoint zu speichern. أو يمكنك السماح للمستخدمين الآخرين بتحرير الملف ، مما قد يؤدي إلى تعارضات إذا كنت تريد تغيير الملف وحفظه.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">Die Datei &lt;b&gt;%1&lt;/b&gt; ist von Ihnen ausgeliehen. هل تريد التراجع عن القرض حتى يتمكن المستخدمون الآخرون من تغييره مرة أخرى؟</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">Datei &lt;b&gt;%1&lt;/b&gt; zurückgeben.</text>
+		<text id="msg.checkInFailed" h="3E327B8B">Die Datei &lt;b&gt;%1&lt;/b&gt; konnte nicht zurückgegeben werden. يرجى التحقق من وجود الملف واستعارته منك.</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">Die Datei &lt;b&gt;%1&lt;/b&gt; konnte nicht ausgeliehen werden. يرجى التحقق من وجود الملف على الخادم ولم يتم اقتراضه بالفعل من مستخدم آخر.</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">Sie können die Datei &lt;b&gt;%1&lt;/b&gt; nicht ausleihen, weil es bereits vom Benutzer &quot;%2&quot; ausgeliehen wurde.</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">Die Datei &lt;b&gt;%1&lt;/b&gt; ist von Benutzer &quot;%2&quot; ausgeliehen. لا يمكنك حفظ هذا الملف في SharePoint إلا إذا اقترضته ، ولكن يمكنك حفظ التغييرات في مكان آخر.</text>
+		<text id="msg.connectError" h="18DFEDBE">خطأ في الاتصال بخادم SharePoint. يرجى التحقق من اتصال الإنترنت وعنوان الخادم وحقوق الوصول.</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">Fehler beim Zurückgeben der Datei &lt;b&gt;%1&lt;/b&gt;. يرجى التحقق مما إذا كان الملف موجودًا ومقترضًا منك.</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">Sie können die Datei &lt;b&gt;%1&lt;/b&gt; nicht ausleihen, weil Sie keine Rechte zum Bearbeiten der Datei haben.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">Sie können die Datei &lt;b&gt;%1&lt;/b&gt; nicht ausleihen, weil Sie keine Rechte zum Bearbeiten der Datei haben.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">Sie können die Datei &lt;b&gt;%1&lt;/b&gt; nicht zum Bearbeiten öffnen, weil Sie keine Rechte zum Bearbeiten der Datei haben.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">Die Datei &lt;b&gt;%1&lt;/b&gt; muss ausgeliehen werden, bevor Sie es speichern können, aber Sie haben keine Rechte zum Bearbeiten der Datei.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="C492B710">Die Datei &lt;b&gt;%1&lt;/b&gt; kann nicht auf SharePoint gespeichert werden, da sie keine Berechtigungen zum Bearbeiten der Datei haben.</text>
+		<text id="msg.fileNotFound" h="381368F8">Die Datei &lt;b&gt;%1&lt;/b&gt; wurde im aktuellen Ordner nicht gefunden.</text>
+		<text id="msg.invalidFileName" h="6BAFE9F2">&lt;b&gt;%1&lt;/b&gt; ist kein gültiger Dateiname. Das Zeichen &lt;b&gt;%2&lt;/b&gt; ist im Dateinamen nicht erlaubt.</text>
+		<text id="msg.navigateError" h="CF23B4B6">خطأ في فتح مورد SharePoint. يرجى التحقق من اتصال الإنترنت وعنوان الخادم وحقوق الوصول.</text>
+		<text id="msg.openFailed" h="34DE1259">تعذر فتح الملف. تأكد من وجود الملف ولم يتم اقتراضه من مستخدم آخر وحقوق الوصول الخاصة بك.</text>
+		<text id="msg.outdatedFileOnWrite" h="93CDEA71">Das Dokument, das Sie heruntergeladen haben, ist vom &lt;b&gt;%2&lt;/b&gt;, aber das Dokument auf dem Server enthält neuere Änderungen vom &lt;b&gt;%3&lt;/b&gt;. احفظ التغييرات في ملف جديد واستعير أحدث إصدار من المستند من SharePoint لإدخال التغييرات في المستند الأحدث وحفظها مرة أخرى في الخادم.</text>
+		<text id="msg.outdatedFileOnWrite.question" h="4802DC49">Für die Datei &lt;b&gt;%1&lt;/b&gt; gibt es einen Änderungskonflikt. Das Dokument, das Sie heruntergeladen haben, enthält Änderungen vom &lt;b&gt;%2&lt;/b&gt;, aber der Server enthält ein Dokument mit Änderungen vom &lt;b&gt;%3&lt;/b&gt;. يمكنك إجبار الإصدار على الكتابة فوق الخادم أو إلغاء عملية التخزين الحالية لحفظ التغييرات في مستند جديد. ثم يمكنك استعارة الإصدار الحالي من SharePoint وإدخال التغييرات في المستند الحالي.</text>
+		<text id="msg.saveFailed" h="967D2A64">تعذر حفظ الملف. تأكد من أن اسم الملف صالح ولم يتم استعارة الملف من مستخدم آخر وحقوق الوصول الخاصة بك.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Die Datei &lt;b&gt;%1&lt;/b&gt; existiert bereits. هل تريد استبدال الملف؟</text>
+		<text id="msg.signOutError" h="0E6A5F45">تعذر تسجيل خروج المستخدم الحالي من خادم SharePoint. قد تظل قادرًا على الوصول إلى SharePoint دون الحاجة إلى تسجيل الدخول مرة أخرى.</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="69F2FCB2">Sie haben keine Rechte zum Bearbeiten der Datei &lt;b&gt;%1&lt;/b&gt;. يرجى ملاحظة أنه لا يمكنك حفظ التغييرات على SharePoint ما لم يكن لديك الأذونات اللازمة.</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">Die Datei &lt;b&gt;%1&lt;/b&gt; ist von Benutzer &quot;%2&quot; ausgeliehen. Sie können diese Datei nicht auf SharePoint speichern, solange &quot;%2&quot; die Datei nicht zurück gibt. Wenn die Datei von &quot;%2&quot; Änderungen enthält, führt dies zu einem Änderungskonflikt.</text>
+		<text id="opt.dontShowAgain" h="492B5D79">&amp;لا تعرض هذه الرسالة مرة أخرى</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="str.sharePoint" h="56A5F9B3">SharePoint</text>
+	</Strings>
+</Localization>

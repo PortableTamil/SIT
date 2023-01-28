@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180920232553">2.00.00</Version>
+	<Author>Christian A.</Author>
+	<Copyright>Translated by Christian A.</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Indonesian (Indonesia)" lName="Indonesia" code="id-ID" R2L="false"/>
+	<Module name="OCRPlugin" namespace="ocr" version="7.0.326.10"/>
+	<Strings>
+		<text id="OrientationDetection" h="40F7AA0E">Otomatis Deteksi Orientasi</text>
+		<text id="accuracy.high" h="21A95620">Tinggi</text>
+		<text id="accuracy.low" h="845E3D8C">Rendah</text>
+		<text id="accuracy.medium" h="91153342">Medium</text>
+		<text id="cb.cuenoany" h="899F9872">Tidak ada yang terinstal</text>
+		<text id="cmd.name" h="6DAA8A17">Halaman OCR...</text>
+		<text id="l.accuracy" h="3B2028D8">&amp;Akurasi:</text>
+		<text id="l.language" h="7B707020">&amp;Bahasa:</text>
+		<text id="lnk.more" h="2E2CCD84">&lt;a=1&gt;Bahasa Lain...&lt;/a&gt;</text>
+		<text id="prefs.title" h="D0975E29">Opsi OCR</text>
+	</Strings>
+</Localization>

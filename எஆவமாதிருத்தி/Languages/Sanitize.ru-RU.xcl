@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20210617190137">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Russian (Russia)" lName="Русский" code="ru-RU" R2L="false"/>
+	<Module name="SanitizePlugin" namespace="snt" version="9.0.354.0"/>
+	<Strings>
+		<text id="accessibilty.chk" h="691CFC68">Теги расширенного доступа</text>
+		<text id="actionsandscripts.snt" h="DD6759CC">Удалить действия и JS</text>
+		<text id="add.new.pntlist" h="8052B2AC">Добавить новый список шаблонов...</text>
+		<text id="add.new.pntlist.tip" h="9DD2AAE5">Создает новый список пользовательских шаблонов</text>
+		<text id="attachments.chk" h="E754AE2B">Искать во вложениях</text>
+		<text id="attachments2.chk" h="488D4743">Поиск во вложениях</text>
+		<text id="autolocale.ptn" h="986476CF">Авто (%1)</text>
+		<text id="bookmarks.chk" h="E2032460">Закладки</text>
+		<text id="builder.tip" h="DCB5FF71">Составитель регулярных выражений</text>
+		<text id="case.chk" h="371919EA">Учитывать регистр</text>
+		<text id="click2seedescr" h="2B79F497">Щелкните на шаблоне, чтобы увидеть его описание ...</text>
+		<text id="cmd.findandredact" h="A71BA803">Найти и Откорректировать</text>
+		<text id="cmd.findandredact.tip" h="C9957B03">Находит текст и помечает его для корректировки</text>
+		<text id="cmd.list.add" h="8E2EE8C1">Добавить</text>
+		<text id="cmd.list.addcustom.tip" h="48F73BAE">Добавить нестандартный шаблон</text>
+		<text id="cmd.list.checkall" h="1ED93781">Отметить все</text>
+		<text id="cmd.list.load" h="D2BD1E32">Загрузить...</text>
+		<text id="cmd.list.locale" h="2B6AC5E3">Местоположение</text>
+		<text id="cmd.list.remove" h="FCE39C1F">Удалить</text>
+		<text id="cmd.list.removecustom.tip" h="D7AF6E36">Удалить указанные нестандартные шаблоны</text>
+		<text id="cmd.list.save" h="0272DFB9">Сохранить...</text>
+		<text id="cmd.list.uncheckall" h="5D53AA8D">Снять отметку</text>
+		<text id="commentsandlinks.chk" h="DA6216C5">Комментарри и внешние ссылки:</text>
+		<text id="customname" h="48E7DC23">Нестандартный шаблон</text>
+		<text id="custompatterns.lbl" h="5E153556">Нестандартный шаблоны (%1 из %2)</text>
+		<text id="customptn.dlg" h="8583A4FB">Нестандартный шаблон</text>
+		<text id="deletepattern1.msg" h="07465752">Действительно ли Вы хотите удалить этот шаблон?</text>
+		<text id="deletepatterns.msg" h="ECB5282F">Действительно ли Вы хотите удалить выбранные нестандартные шаблоны?</text>
+		<text id="deletetext.chk" h="8280F60B">Удалить найденный текст</text>
+		<text id="documentinfo.chk" h="913876A8">Информация о документе (название, тема, автор, и т.д.)</text>
+		<text id="documentxmp.chk" h="55410A25">Метаданные XMP документа</text>
+		<text id="editstring.lbl" h="641BB43C">Редактировать слово или фразу для поиска</text>
+		<text id="enterphrase.lbl" h="E663CA06">Введите слово или фразу для поиска:</text>
+		<text id="enterphrase.lbl.cue" h="F6663BF7">Введите слово или фразу...</text>
+		<text id="example.lbl" h="489035D9">Введите пример шаблона:</text>
+		<text id="findopt.grp" h="6D2C3084">Поиск параметров</text>
+		<text id="findredact.dlg" h="D7CC6798">Поиск и корректировка текста</text>
+		<text id="forms.chk" h="EE24932E">Формы</text>
+		<text id="formsandcomments.snt" h="3CE422D8">Объединить комментарии и формы с содержимым</text>
+		<text id="hiddenText.chk" h="1065E006">Страница содержит скрытый текст</text>
+		<text id="hiddenlayer.snt" h="05D69CC6">Удалить спрятанные слои</text>
+		<text id="hiddenttext.snt" h="ECD99D2C">Удалить спрятанный текст</text>
+		<text id="history.fr.redo" h="38D56E9D">Повторить корректировку текста</text>
+		<text id="history.fr.title" h="BDE7F808">Найти и Откорректировать</text>
+		<text id="history.fr.undo" h="FC974711">Отменить корректировку текста</text>
+		<text id="layers.chk" h="B5D83FAD">Страница содержит слои</text>
+		<text id="marktext.chk" h="71D6C968">Пометить найденный текст для корректировки</text>
+		<text id="match.abc" h="3760672D">Совпадает с любым символом в наборе 'abc'</text>
+		<text id="match.anynumeric" h="A6E72A4D">Совпадает с любым числовым символом</text>
+		<text id="match.anyword" h="C747C7E3">Совпадает с любым словом из символов</text>
+		<text id="match.intdec" h="1D7C37DC">Совпадает с целыми числами и десятичными</text>
+		<text id="match.linebegin" h="E85BEDEB">Совпадает в начале линии</text>
+		<text id="match.notabc" h="07BFD63F">Совпадает с любым символом не из набора 'abc'</text>
+		<text id="match.onemore" h="A0F72662">Совпадает с любым символом хотя бы раз</text>
+		<text id="match.range" h="CCF11EC0">Совпадает с любым символом в диапазоне от a до f</text>
+		<text id="match.single" h="22AEEA91">Совпадает с любым отдельным символом (кроме переноса)</text>
+		<text id="match.threedigits" h="F40292A5">Совпадает с тремя последовательными десятичными цифрами</text>
+		<text id="match.whitespace" h="F4925C7A">Совпадает с любым пробелом</text>
+		<text id="match.wordends" h="EC27D4F5">Совпадает в начале или в конце слова</text>
+		<text id="match.zeromore" h="4EE3FE93">Совпадает с предыдущим символом ни разу или несколько раз</text>
+		<text id="maxcountfile.msg" h="7C0D9E22">Список слов был обрезан до максимально разрешимого размера: %1</text>
+		<text id="maxnumberofwords.msg" h="52B7987A">Невозможно добавить новый элемент:
+Список превышает максимальное количество слов или фраз</text>
+		<text id="maxwordlength.msg" h="5BE34E54">Слово или фраза слишком длинные</text>
+		<text id="maxwordlengthfromfile.msg" h="FE7C0D03">Слово или фраза были обрезаны до максимально разрешимой длины: %1</text>
+		<text id="multipleword" h="C8368EA9">Несколько слов или фраз</text>
+		<text id="newstring.lbl" h="927FC81B">Добавить новое слово или фразу в поиск</text>
+		<text id="notextwasfound" h="D1BCA29B">Нету текста, соответсвующего критериям.</text>
+		<text id="objects.lbl" h="AFBB32E9">Текст объектов:</text>
+		<text id="objectsxmp.chk" h="B45AE8C8">Метаданные XMP объектов</text>
+		<text id="obscured.content.chk" h="1311BB99">Найдено обрезанное или скрытое содержимое</text>
+		<text id="obscuredcontent.snt" h="7F9B3F4C">Удалить скрытый контент</text>
+		<text id="opt.donotshow" h="B2D782D9">Не показывать это сообщение в будущем</text>
+		<text id="outlines.snt" h="48561E69">Удалить закладки</text>
+		<text id="overlapping.obj.chk" h="D2955BC5">Страница содержит перекрывающиеся объекты</text>
+		<text id="overlappingobjects.snt" h="99DED65B">Растеризация контента с перекрывающимися объектами</text>
+		<text id="pagetext.lbl" h="B7832810">Текст на странице:</text>
+		<text id="pagetext2.chk" h="7FBFC7B2">Текст на странице</text>
+		<text id="patternlocale.lbl" h="5470225F">Выберите шаблон места:</text>
+		<text id="patterns" h="ACAA6A08">Шаблоны</text>
+		<text id="patterns.desc.tip" h="127DB6CA">Введите описание шаблона (не обязательно):</text>
+		<text id="patterns.description.empty" h="CB37274C">Описание шаблона отсутствует</text>
+		<text id="patterns.example.tip" h="127DB6CA">Введите описание шаблона (не обязательно):</text>
+		<text id="phones.ptn" h="889BA45B">Например  555-1234    212.555.1212      1 (212) 555-1234</text>
+		<text id="preceding.onemore" h="0DB280A6">Совпадает с предыдущим символом один или несколько раз</text>
+		<text id="preceding.zeromore" h="6994F6CF">Совпадает с предыдущим символом ни разу или несколько раз</text>
+		<text id="preceding.zeroone" h="96A31B68">Совпадает с предыдущим символом ни разу или раз</text>
+		<text id="processing.accessibility" h="07319AF0">Обработка тегов расширенного доступа</text>
+		<text id="processing.markedcontent" h="41E6A029">Обработка отмеченного содержимого</text>
+		<text id="processing.metadata" h="27C23D00">Обработка метаданных документа</text>
+		<text id="processing.embeddedfiles" h="9C473B09">Обработка встроенных файлов</text>
+		<text id="progress.applyredaction" h="82CD13B5">Применеиние Корректора к документу...</text>
+		<text id="progress.findtext" h="9AA4E47B">Поиск текста, соответсвующего критериям.</text>
+		<text id="ptndescr.lbl" h="C56EB241">Введите описание шаблона:</text>
+		<text id="ptnname.lbl" h="A7E2C5D0">Введите имя шаблона:</text>
+		<text id="ptnvalue.lbl" h="58401EB7">Введите значение шаблона:</text>
+		<text id="rbar.sanitize" h="092C966D">Очистить документ</text>
+		<text id="rbar.sanitize.tip" h="B573254E">Удаляет конфиденциальную информацию, такую как метаданные, данные формы, невидимое содержимое ...</text>
+		<text id="redactioncolor.lbl" h="AA984FC4">Цвет корректора:</text>
+		<text id="redactiontext.edt.cue" h="0A4FA672">Не указано</text>
+		<text id="redactiontext.lbl" h="F18E110C">Текст:</text>
+		<text id="redacttext.chk" h="1E76EC28">Откорректировать найденный текст</text>
+		<text id="regexp.help" h="41F2BA26">Регулярные выражения (Помощь)</text>
+		<text id="removeembedded.snt" h="29624A93">Удалить встроенное содержимое</text>
+		<text id="removemetadata.snt" h="0A323970">Удалить метаданные и информацию документа</text>
+		<text id="repeattext.chk" h="D0D05924">Повторить текст</text>
+		<text id="replacetext.chk" h="DB2F141B">Заменить текст на:</text>
+		<text id="sanitize.descr" h="6AA269FA">Очистить PDF документ</text>
+		<text id="sanitize.lbl" h="9650169B">Очищение документа удалит скрытые данные и метаданные, поэтому любая конфиденциальная информация не будет опубликована в Вашем PDF.
+Выберите опции, которые будут применены к документу:</text>
+		<text id="sanitize.warning" h="3321EE07">Очищение документа удалит скрытые данные и метаданные, поэтому любая конфиденциальная информация не будет опубликована в Вашем PDF.
+
+Операция удалит:
+
+• Метаданные
+• Невидимый текст и изображения
+• Перекрывающиеся объекты
+• Формы и комментарий
+• Встроенный контент и файлы
+• Скрытые слои
+• Скрытые данные и комментарии 
+• Данные без ссылок</text>
+		<text id="sanitizeDoc.progr" h="062BF2F0">Очищение документа</text>
+		<text id="sanitizePage.progr" h="EA4FCD7C">Обработка страницы %1</text>
+		<text id="sanitizeSave.progr" h="93EC7255">Сохранение очищенного документа</text>
+		<text id="sanitizeconverter.name" h="9BE4E232">Очиститель документов</text>
+		<text id="sanitizefilter.name" h="804EA582">Очищенный PDF документ</text>
+		<text id="sanitizeoptions.dlg" h="A6BCECE6">Параметры очистки документа</text>
+		<text id="sanitizeopts.lbl" h="BB4BCFA8">Выберите опции, которые будут применены:</text>
+		<text id="saveDlg.caption" h="2FD66192">Сохранить очищенный документ</text>
+		<text id="searchindex.snt" h="B2A720E0">Удалить индекс поиска</text>
+		<text id="showmore.lbl" h="143C6320">Показать больше...</text>
+		<text id="singleword" h="BAB11ED8">Отдельное слово или фраза</text>
+		<text id="snt.redact.grp" h="98BDF535">Параметры Корректора</text>
+		<text id="status.saving" h="3D2A3BDC">Сохранение документа</text>
+		<text id="stdpatterns.lbl" h="4FF587EE">Стандартные шаблоны (%1 из %2)</text>
+		<text id="textcolor.lbl" h="393AC769">текста:</text>
+		<text id="unsupported.format" h="5F8D8E51">Неподдерживаемый формат списока слов </text>
+		<text id="useregexp.chk" h="299B0303">Использовать регулярные выражения</text>
+		<text id="whatfind.lbl" h="27D208DF">ЧТО искать?</text>
+		<text id="wherefind.lbl" h="76DF8D13">ГДЕ искать?</text>
+		<text id="wholewords.lbl" h="C794AEE3">Только целые слова</text>
+		<text id="wordlist" h="637B75E0">Список слов</text>
+		<text id="wordlist.empty" h="3311A197">Список слов пустой</text>
+	</Strings>
+</Localization>

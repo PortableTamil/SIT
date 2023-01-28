@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20191210184534">2.00.00</Version>
+	<Author>Jungle, Inc / Tz</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Japanese (Japan)" lName="日本語" code="ja-JP" R2L="false"/>
+	<Module name="Dropbox" namespace="db" version="8.0.335.0"/>
+	<Strings>
+		<text id="btn.cancel" h="3D302A38">キャンセル(&amp;C)</text>
+		<text id="btn.chooseUser" h="4E5DDBFB">ユーザーを選択(&amp;S)</text>
+		<text id="btn.ok" h="FEF0C771">OK(&amp;O)</text>
+		<text id="btn.open" h="B1A510F0">開く(&amp;O)</text>
+		<text id="btn.save" h="F363C410">保存(&amp;S)</text>
+		<text id="btn.saveReplace" h="11BF9724">保存して置き換える(&amp;R)</text>
+		<text id="btn.settings" h="563BF6B7">設定</text>
+		<text id="cmd.cmdsCategory" h="22B8ECE9">Dropbox</text>
+		<text id="cmd.open" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.open.tip" h="683AE278">Dropbox からドキュメントを開きます。</text>
+		<text id="cmd.save" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.save.tip" h="B5D0B78F">現在のドキュメントを Dropbox に保存します。</text>
+		<text id="cmd.dropbox" h="6616FE70">&amp;Dropbox</text>
+		<text id="dlg.authenticate" h="E6E77652">認証</text>
+		<text id="dlg.openFile" h="435887CD">ファイルを開く</text>
+		<text id="dlg.saveFile" h="520CB069">ファイルを保存</text>
+		<text id="lb.itemsInFolder" h="8F56A98C">%d アイテム</text>
+		<text id="lb.name" h="F7B9E475">ファイル名：</text>
+		<text id="ls.column.created" h="9E0B497D">作成日時</text>
+		<text id="ls.column.created.hint" h="291F5AEC">ファイル / フォルダ / リストが、作成された日時。</text>
+		<text id="ls.column.extension" h="14FEB836">拡張子</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">ファイルの拡張子</text>
+		<text id="ls.column.modified" h="691C3610">更新日時</text>
+		<text id="ls.column.modified.hint" h="2C2CF8F2">ファイル / フォルダ / リストが、最後に変更された日時。</text>
+		<text id="ls.column.size" h="17A58A52">サイズ</text>
+		<text id="ls.column.size.hint" h="E79CA174">ファイルサイズ</text>
+		<text id="ls.column.title" h="D18643E3">名前</text>
+		<text id="ls.column.title.hint" h="D883F263">ファイルまたはフォルダ名</text>
+		<text id="msg.connectError" h="A594B0D5">Dropboxに接続できません。 インターネット接続、指定場所のアクセス権 を確認してください。</text>
+		<text id="msg.fileNotFound" h="381368F8">現在のフォルダに &lt;b&gt;%1&lt;/b&gt; ファイルはありません。</text>
+		<text id="msg.invalidFileName" h="859254AD">&lt;b&gt;%1&lt;/b&gt;はファイル名にできません。ファイル名称に記号&lt;b&gt;&lt; &gt; " / \ | ? *&lt;/b&gt;を含んでいます。</text>
+		<text id="msg.navigateError" h="8BCFBD0F">インターネット接続を確認し、正しいアドレスが指定されている、指定されたアイテムに対しアクセス権限があることを確認してください。</text>
+		<text id="msg.openFailed" h="794811DE">ファイルが開けませんでした。 ファイルが存在し、読み取りのアクセス権を持っていることを確認してください。</text>
+		<text id="msg.saveFailed" h="36780EC6">ファイルを保存できませんでした。 ファイル名が有効で、書き込みアクセスが許可されており、Dropboxに十分な容量があることを確認してください。</text>
+		<text id="msg.saveReplace" h="B1889DFB">ファイル&lt;b&gt;%1&lt;/b&gt;は既に存在します。 上書きしますか？</text>
+		<text id="msg.wrongUser" h="27773B86">該当 ファイル / フォルダは、他ユーザーがアクセス規制し開けません。 アカウントを切り替えますか？</text>
+		<text id="str.fileSystemName" h="22B8ECE9">Dropbox</text>
+		<text id="addFolder.error.message" h="26E3D84F">Dropbox上にある &lt;b&gt;%1&lt;/b&gt; フォルダを削除できませんでした</text>
+		<text id="addFolder.question.button.create" h="5AFC56A9">フォルダ作成</text>
+		<text id="addFolder.question.edit.title" h="AD9C0CB3">新規フォルダ名を入力してください</text>
+		<text id="addFolder.question.error.alreadyExists" h="C0A47FF7">&lt;b&gt;%1&lt;/b&gt;は、既に同名のフォルダが存在します</text>
+		<text id="addFolder.question.error.emptyFolderName" h="BB6566D6">フォルダ名が入力されていません</text>
+		<text id="addFolder.question.error.invalidFolderName" h="0A24FCDF">&lt;b&gt;%1&lt;/b&gt;はフォルダ名にできません。フォルダ名称に記号&lt;b&gt;&lt; &gt; " / \ | ? *&lt;/b&gt;を含んでいます。</text>
+		<text id="addFolder.progress.text" h="8C5EF68A">&lt;b&gt;%1&lt;/b&gt; フォルダを作成中です</text>
+		<text id="addFolder.progress.title" h="595759D0">Dropbox上にフォルダを作成</text>
+		<text id="btn.addFolder.text" h="69FFFB47">フォルダ作成</text>
+		<text id="btn.delete.text" h="ED580C1E">削除</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">上</text>
+		<text id="delete.error.file" h="5F9FEEF5">Dropbox上にある &lt;b&gt;%1&lt;/b&gt; ファイルを削除できませんでした</text>
+		<text id="delete.error.folder" h="5F9FEEF5">Dropbox上にある &lt;b&gt;%1&lt;/b&gt; ファイルを削除できませんでした</text>
+		<text id="delete.error.unknown" h="73BC7295">Dropbox上にある 選択ファイルを削除できませんでした</text>
+		<text id="delete.progress.status" h="F729DF24">%1 / %2</text>
+		<text id="delete.progress.text.file" h="EFCE4189">&lt;b&gt;%1&lt;/b&gt;ファイルを削除中</text>
+		<text id="delete.progress.text.folder" h="2E89372D">&lt;b&gt;%1&lt;/b&gt;フォルダを削除中</text>
+		<text id="delete.progress.text.unknown" h="367B0EA7">&lt;b&gt;%1&lt;/b&gt;を削除中</text>
+		<text id="delete.progress.title" h="9D1FD2AA">Dropbox上から削除</text>
+		<text id="delete.question.file" h="F3B2380C">&lt;b&gt;%1&lt;/b&gt;ファイルを削除しますか？</text>
+		<text id="delete.question.folder" h="DA195BFA"> &lt;b&gt;%1&lt;/b&gt;フォルダ内 全てのアイテムを削除しますか？</text>
+		<text id="delete.question.multi" h="ACA0CEC0"> %1を削除しますか？</text>
+		<text id="delete.question.unknown" h="8C13886E">選択削除しますか？</text>
+	</Strings>
+</Localization>

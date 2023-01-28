@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20211012163843">2.00.00</Version>
+	<Author>Angel Herráez</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Spanish (Spain, Traditional Sort)" lName="español" code="es-ES" R2L="false"/>
+	<Module name="AzureRMS" namespace="msrms" version="9.1.357.0"/>
+	<Strings>
+		<text id="UserIdentity.title" h="176AEDC1">Protección de información de Microsoft Azure</text>
+		<text id="btn.next" h="3A4ABB6E">Conti&amp;nuar...</text>
+		<text id="cmd.protect" h="228A9168">Proteger</text>
+		<text id="cmd.protect.tip" h="176AEDC1">Protección de información de Microsoft Azure</text>
+		<text id="rbar.protect.title" h="43C83177">MS RMS</text>
+		<text id="secure.handler.name" h="176AEDC1">Protección de información de Microsoft Azure</text>
+		<text id="uid.email.cue" h="2334460A">Su dirección de correo</text>
+		<text id="uid.label1" h="8E83CAEB">Este archivo está protegido por Protección de información de Microsoft Azure.</text>
+		<text id="uid.pick" h="DCF6A308">Elija una cuenta.</text>
+		<text id="uid.email" h="5B5BF151">Escriba su dirección de correo electrónico.</text>
+		<text id="uid.label2" h="A1DC8236">* En la etapa siguiente se le pedirá la autenticación de Microsoft.
+Puede omitir la etapa siguiente si la cuenta ya se ha verificado antes.</text>
+		<text id="uid.remember" h="A77974A7">&amp;Recordar mi cuenta</text>
+		<text id="uid.add" h="D5E24D76">Usar otra cuenta</text>
+		<text id="ibar.label.classified" h="9B716F59">Este documento está clasificado por Protección de información de Microsoft Azure con la etiqueta:</text>
+		<text id="ibar.label.protected" h="8CBF20A7">Este documento está protegido por Protección de información de Microsoft Azure con la etiqueta:</text>
+		<text id="info.protected" h="A49B0FCD">Este documento está protegido por Protección de información de Microsoft Azure.</text>
+		<text id="info.protectedWithLabel" h="8A425C7C">Este documento está protegido por Protección de información de Microsoft Azure.
+
+Etiqueta aplicada:</text>
+	</Strings>
+</Localization>

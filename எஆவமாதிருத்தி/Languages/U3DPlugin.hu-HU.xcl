@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20220819211843">2.00.00</Version>
+	<Author>John Fowler</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Hungarian (Hungary)" lName="magyar" code="hu-HU" R2L="false"/>
+	<Module name="U3DPlugin" namespace="u3d" version="9.4.363.0"/>
+	<Strings>
+		<text id="3DRenderingCrashed.str" h="3B1E0F07">Sajnáljuk, hogy a 3D render összeomlott. A 3D-s megjelenítés újbóli indításához nyissa meg újra a dokumentumot.</text>
+		<text id="3DSceneFailed.str" h="27A53BDF">A 3D-s jelenet indítása nem sikerült.</text>
+		<text id="DlgCameraProperties.Title" h="C62520F7">Kamera Tulajdonságai</text>
+		<text id="PRCUnsupported.str" h="B107E80C">PRC modellek nem támogatottak.</text>
+		<text id="angular.degrees.str" h="9A86A604">Fok</text>
+		<text id="angular.radians.str" h="8186B9C8">Radiánok</text>
+		<text id="appPrefsPage.AAType.2x" h="423B3C2B">2x</text>
+		<text id="appPrefsPage.AAType.3x" h="FA875B4E">3x</text>
+		<text id="appPrefsPage.AAType.4x" h="675063F7">4x</text>
+		<text id="appPrefsPage.AAType.None" h="F9398D7D">Nincs</text>
+		<text id="appPrefsPage.PickMode.TreeOrder" h="F1D70337">Objektum-Fa Sorrendje</text>
+		<text id="appPrefsPage.PickMode.ZOrder" h="8F0DAF26">Z-Sorrend</text>
+		<text id="appPrefsPage.gr.3DToolOptions" h="FA532EE7">3D Eszköz Beállítások</text>
+		<text id="appPrefsPage.gr.rOptions" h="A6CEA705">Megjelenítő Beállításai</text>
+		<text id="appPrefsPage.lb.PickMode" h="26EFD83B">Mód Kiválasztása:</text>
+		<text id="appPrefsPage.name" h="86A64F71">Multimédia 3D</text>
+		<text id="appPrefsPage.tip" h="878BC70D">Multimédia 3D Beállítások</text>
+		<text id="appPrefsPage.title" h="878BC70D">Multimédia 3D Beállítások</text>
+		<text id="appPrefsPageMeasurement3D.name" h="E3933ACE">3D Mérés </text>
+		<text id="appPrefsPageMeasurement3D.tip" h="ADF62F93">3D Mérési Beállítások</text>
+		<text id="appPrefsPageMeasurement3D.title" h="ADF62F93">3D Mérési Beállítások</text>
+		<text id="btn.default" h="3BF809E4">Legyen alapértelmezett</text>
+		<text id="btn.moveDown" h="4CE68730">Mozgatás lefelé</text>
+		<text id="btn.moveUp" h="4454FC42">Mozgatás felfelé</text>
+		<text id="camera.X" h="714AA303">Kamera X:</text>
+		<text id="camera.Y" h="C9F6C466">Kamera Y:</text>
+		<text id="camera.Z" h="DB436B88">Kamera Z:</text>
+		<text id="camera.altitude" h="D35D23E4">Magasság:</text>
+		<text id="camera.azimut" h="796BF9A5">Irányszög:</text>
+		<text id="camera.distance" h="47D78EAE">Távolság:</text>
+		<text id="chck.RenderDoubleSideStr" h="2A75AAF0">Kétoldalas renderelés</text>
+		<text id="chck.Show3DAxesStr" h="3173CD8B">3D tengelyek megjelenítése</text>
+		<text id="chck.ShowCircleForRadialStr" h="1BC633C3">Kör Megjelenítése Radiális Mérésekhez</text>
+		<text id="chck.UseDefaultDisplayUnitStr" h="6D6F945B">&amp;Alapértelmezett kijelzőegység:</text>
+		<text id="chck.UseScaleAndUnitsFromModelStr" h="78DD018F">Méretezés és egységek használata a &amp;Modelből (ha van)</text>
+		<text id="circular.diameter.str" h="A99C6701">Átmérő</text>
+		<text id="circular.radius.str" h="3233DE6A">Sugár</text>
+		<text id="ck.bgColor" h="799B39A6">Háttérszín</text>
+		<text id="ck.cameraProps" h="C62520F7">Kamera Tulajdonságai</text>
+		<text id="ck.crossSection" h="B6196404">Keresztmetszet Információk</text>
+		<text id="ck.enable3D" h="90C6F9B5">3D Tartalom Engedélyezése</text>
+		<text id="ck.lighting" h="3C76D70F">Világítás</text>
+		<text id="ck.nodesVis" h="39891BF4">Csomópontok Láthatósága</text>
+		<text id="ck.renderMode" h="CDA80CD8">Renderelési Mód</text>
+		<text id="cmd.3DPrefs" h="BB6488C0">&amp;3D Beállítások...</text>
+		<text id="cmd.3dContent.trustAlways" h="C6E70253">Dokumentum megbízhatósága mindig</text>
+		<text id="cmd.3dContent.trustOnce" h="6AE4F0D7">Dokumentum megbízhatósága csak egyszer</text>
+		<text id="cmd.3dContentOpts" h="DAD7B4F4">Lehetőségek</text>
+		<text id="cmd.3dContentOpts.tip" h="46505A9A">Ide kattintva engedélyezheti a szolgáltatásokat</text>
+		<text id="cmd.Cancel3DComment" h="D526EB0F">Megjegyzés Visszavonása</text>
+		<text id="cmd.Cancel3DMeasurement" h="4F0F252D">Mérés Megszakítása</text>
+		<text id="cmd.addComment" h="9054EDA4">3D Megjegyzés &amp;Hozzáadása</text>
+		<text id="cmd.addComment.tip" h="F8CEDF90">3D Megjegyzés Hozzáadása</text>
+		<text id="cmd.bkColor" h="799B39A6">Háttérszín</text>
+		<text id="cmd.cameraProps" h="C62520F7">Kamera Tulajdonságai</text>
+		<text id="cmd.crossSectionProps" h="14B2AE31">Keresztmetszeti Tulajdonságok...</text>
+		<text id="cmd.defView" h="A1F14B2B">Alapértelmezett Nézet</text>
+		<text id="cmd.fly" h="96EAF75B">&amp;Repülés</text>
+		<text id="cmd.fly.tip" h="A9F39C8A">Repülés</text>
+		<text id="cmd.lightSchemes" h="8C1BFE4C">Világítási Rendszer</text>
+		<text id="cmd.lights" h="41B4EB09">Extra Fény Engedélyezése</text>
+		<text id="cmd.measure.angular" h="D40492A0">Szögmérés</text>
+		<text id="cmd.measure.angular.tip" h="0936B097">3D Szögmérés</text>
+		<text id="cmd.measure.linear" h="E4AF8D46">Vonalas </text>
+		<text id="cmd.measure.linear.tip" h="1839B2ED">3D Ponttól Pontig Mérés</text>
+		<text id="cmd.measure.perpendicular" h="AE57B56A">Merőleges</text>
+		<text id="cmd.measure.perpendicular.tip" h="02507B9D">3D Merőleges Dimenzió</text>
+		<text id="cmd.measure.radial" h="2012103C">Sugárirányú</text>
+		<text id="cmd.measure.radial.tip" h="A6DE5391">3D Sugárirányú Dimenzió</text>
+		<text id="cmd.measure.snap.edges" h="E6611D4B">Igazítás a Élekhez</text>
+		<text id="cmd.measure.snap.edges.tip" h="A607DE0D">3D Illesztés a Vonalas Élekhez</text>
+		<text id="cmd.measure.snap.endPoints" h="4F0EBE65">Csatolás Végpontokhoz</text>
+		<text id="cmd.measure.snap.endPoints.tip" h="6BFDBD18">3d Csatolás az Él Végpontjaihoz</text>
+		<text id="cmd.measure.snap.faces" h="DE27EA3A">Csatolás Nézetre</text>
+		<text id="cmd.measure.snap.faces.tip" h="90E0002F">3d Csatolás a Sík Nézetre</text>
+		<text id="cmd.measure.snap.radial" h="65EEBD99">Csatolás Radiálisan</text>
+		<text id="cmd.measure.snap.radial.tip" h="E4DA5906">3d csatolás a Radiális Élekhez</text>
+		<text id="cmd.measure.snap.silhouette" h="C6A68501">Csatolás a Sziluettekhez</text>
+		<text id="cmd.measure.snap.silhouette.tip" h="A58DE3BD">3d Csatolás a Sziluettekhez</text>
+		<text id="cmd.measureTool" h="65934C21">3D &amp;Mérő Eszköz</text>
+		<text id="cmd.measureTool.tip" h="E8982E6F">3D Mérő Eszköz</text>
+		<text id="cmd.orthoPerspProj.ortho" h="15C31A48">Ortográfiai Vetítés Használata</text>
+		<text id="cmd.orthoPerspProj.ortho.tip" h="B336199D">Renderelési modell az ortográfiai vetítésben</text>
+		<text id="cmd.orthoPerspProj.persp" h="49402634">Perspektív Vetítés Használata</text>
+		<text id="cmd.orthoPerspProj.persp.tip" h="330F26E9">Renderelési modell a perspektivikus vetítésben</text>
+		<text id="cmd.pan" h="B48C4A96">&amp;Tisztít</text>
+		<text id="cmd.pan.tip" h="8B952147">Tisztít</text>
+		<text id="cmd.partOptions" h="066AF13F">Rész Opciók</text>
+		<text id="cmd.renderMode" h="9892CD92">Modell Renderelési Módja</text>
+		<text id="cmd.renderMode.default" h="F24132BD">&amp;Alapértelmezett</text>
+		<text id="cmd.rotate" h="2D90BC43">&amp;Forgatás</text>
+		<text id="cmd.rotate.tip" h="18368F2D">Forgatás</text>
+		<text id="cmd.showCrossSection" h="B9E7DB9A">Keresztmetszet Megjelenítése</text>
+		<text id="cmd.spin" h="D0678B2C">&amp;Dugóhúzó</text>
+		<text id="cmd.spin.tip" h="9224F8BB">Dugóhúzó</text>
+		<text id="cmd.startPauseAnim.pause" h="743DFB17">Animáció Szüneteltetése</text>
+		<text id="cmd.startPauseAnim.play" h="C2662211">Animáció Lejátszása</text>
+		<text id="cmd.startPauseAnim.tip" h="3A44AF42">Modellanimáció Lejátszása/Szüneteltetése</text>
+		<text id="cmd.testCmd" h="79888B18">3D fájlok tesztelése</text>
+		<text id="cmd.testCmd.tip" h="D422EA7A">Teszteli a 3D fájlokat és összehasonlítja a referenciával.</text>
+		<text id="cmd.toggleCrossSection" h="53B68A7B">Váltás Keresztmetszet</text>
+		<text id="cmd.toolbar.hide" h="FE5E382C">&amp;Eszköztár Elrejtése</text>
+		<text id="cmd.toolbar.hide.tip" h="7734A008">3D Eszköztár Elrejtése</text>
+		<text id="cmd.toolbar.show" h="D86490DE">Eszköztár &amp;Megjelenítése</text>
+		<text id="cmd.toolbar.show.tip" h="DF2DAC82">Eszköztár megjelenítése a 3D nézet mellett</text>
+		<text id="cmd.tools" h="3D87CAC3">Eszkö&amp;zök</text>
+		<text id="cmd.tree.bboxColor" h="36C9D753">Határoló doboz színének beállítása ...</text>
+		<text id="cmd.tree.bboxColor.tip" h="3C62FC40">Határoló doboz színének beállítása</text>
+		<text id="cmd.tree.fitVisible" h="9F4225F9">&amp;Látható Illeszkedés</text>
+		<text id="cmd.tree.fitVisible.tip" h="614956B4">Kamera nagyítás az összes látható alkatrészhez</text>
+		<text id="cmd.tree.hide" h="C4F1F414">&amp;Elrejt</text>
+		<text id="cmd.tree.hide.tip" h="8AA8B90C">Kiválasztott csomópont elrejtése</text>
+		<text id="cmd.tree.isolate" h="9FBD280C">&amp;Elkülönít</text>
+		<text id="cmd.tree.isolate.tip" h="D5DA7C68">A modell összes csomópontjának elrejtése, kivéve a kijelöltet</text>
+		<text id="cmd.tree.isolatePart" h="7751F8EC">Rész Elkülönítése</text>
+		<text id="cmd.tree.isolatePart.tip" h="A3D5F690">Modell összes csomópontjának elrejtése, kivéve a kiválasztott csomópontot tartalmazó részt</text>
+		<text id="cmd.tree.makeTransparent" h="0759BABB">Átlátszóvá Tétel</text>
+		<text id="cmd.tree.modelRenderMode" h="9892CD92">Modell Renderelési Mód</text>
+		<text id="cmd.tree.modelRenderMode.tip" h="9F89C88A">Megjelenítési módot állít be a teljes modellhez</text>
+		<text id="cmd.tree.partRenderMode" h="16069F94">Rész Renderelési Mód</text>
+		<text id="cmd.tree.partRenderMode.tip" h="821E3259">Renderelési mód beállítása a kiválasztott részhez</text>
+		<text id="cmd.tree.show" h="C3CA8E89">Megjelenítés</text>
+		<text id="cmd.tree.show.tip" h="790D864F">Kiválasztott Csomópont Megjelenítése</text>
+		<text id="cmd.tree.showAll" h="24F4F631">&amp;Összes Rész Megjelenítése</text>
+		<text id="cmd.tree.showAll.tip" h="144FE078">Az összes elrejtett rész mutatása</text>
+		<text id="cmd.tree.showBBox" h="8E963AD7">Határoló Doboz Mutatása</text>
+		<text id="cmd.tree.showBBox.tip" h="3B27C053">A határoló mező megjelenítése a kijelölt rész körül</text>
+		<text id="cmd.tree.zoom2part" h="29498553">&amp;Részlet Nagyítása</text>
+		<text id="cmd.tree.zoom2part.tip" h="AF54E436">Kamera nagyítása a kiválasztott csomópontra</text>
+		<text id="cmd.viewingOptions" h="B7019F33">Megtekintési Opciók</text>
+		<text id="cmd.views" h="0F296AD5">Nézet:</text>
+		<text id="cmd.walk" h="D60E509F">&amp;Bejárás</text>
+		<text id="cmd.walk.tip" h="944D2308">Bejárás</text>
+		<text id="cmd.zoom" h="33EE2C56">&amp;Nagyítás</text>
+		<text id="cmd.zoom.tip" h="71AD5FC1">Nagyítás</text>
+		<text id="directx9.str" h="4DB13F37">DirectX 9</text>
+		<text id="dlgcp.fov" h="A7D2D5BD">&amp;Látómezők:</text>
+		<text id="dlgcp.g1.title" h="0C13107E">Helyzet</text>
+		<text id="dlgcp.g2.title" h="4288E30E">Cél</text>
+		<text id="dlgcp.g3.title" h="5F78932B">Paraméterek</text>
+		<text id="dlgcp.posType" h="C8F2B656">&amp;Szögegységek</text>
+		<text id="dlgcp.roll" h="1B2556A3">&amp;Elfordulás:</text>
+		<text id="dlgcp.save" h="D64F3B21">&amp;Kamera Nézet Mentése ...</text>
+		<text id="dlgcp.target.x" h="93F346A4">X cél:</text>
+		<text id="dlgcp.target.y" h="2B4F21C1">Y cél:</text>
+		<text id="dlgcp.target.z" h="39FA8E2F">Z cél:</text>
+		<text id="dlgcs.b.alignCamera" h="DCD9B156">Kamera &amp;Igazítása a Vágósíkhoz</text>
+		<text id="dlgcs.b.alignToFace" h="F63844BE">&amp;Igazítás Szembe</text>
+		<text id="dlgcs.b.alignToPoints" h="294EAE5A">Igazítás &amp;3 Ponthoz</text>
+		<text id="dlgcs.b.save" h="B60C5C7A">&amp;Vágásnézet Mentése</text>
+		<text id="dlgcs.cb.addCaps" h="A56D4C7B">Sza&amp;kaszsapkák Hozzáadása</text>
+		<text id="dlgcs.cb.enable" h="ACCDC008">Keresz&amp;tmetszet Engedélyezése</text>
+		<text id="dlgcs.cb.flip" h="4565ED97">&amp;Pattintás</text>
+		<text id="dlgcs.cb.ignoreSel" h="87E49B7A">Figyelmen Kívül Hagyja a Kiválasztott &amp;Részeket</text>
+		<text id="dlgcs.cb.showInt" h="07E37FF4">Metsz&amp;éspontok Megjelenítése</text>
+		<text id="dlgcs.cb.showPlane" h="E34207AF">Vágási &amp;Sík Megjelenítése</text>
+		<text id="dlgcs.cb.showTransp" h="FDF85C69">Á&amp;tlátszó Megjelenítése</text>
+		<text id="dlgcs.g1" h="0651B15D">Igazítás</text>
+		<text id="dlgcs.g2" h="977BDC50">Megjelenítési Beállítások</text>
+		<text id="dlgcs.g3" h="7FF6B930">Helyzet és Tájolás</text>
+		<text id="dlgcs.l.offset" h="0CF8F296">&amp;Eltolás:</text>
+		<text id="dlgcs.l.opacity" h="0D011B7E">&amp;Vágási Sík Átlátszatlansága:</text>
+		<text id="dlgcs.l.tilt1" h="565BCADE">Dőlés &amp;1:</text>
+		<text id="dlgcs.l.tilt2" h="44EE6530">Dőlés &amp;2:</text>
+		<text id="dlgcs.r.x" h="0AF7B760">&amp;X-Tengely</text>
+		<text id="dlgcs.r.y" h="9152FB0F">&amp;Y-Tengely</text>
+		<text id="dlgcs.r.z" h="E6CC29FF">&amp;Z-Tengely</text>
+		<text id="dlgcs.title" h="083D1133">Keresztmetszeti Tulajdonságok</text>
+		<text id="gr.inheritProps" h="F5C46974">Öröklés a Jelenlegi Nézetből:</text>
+		<text id="ibar.3dContent" h="4EE9C4B1">3D Tartalmi Információk</text>
+		<text id="ibar.3dContent.desc" h="B9385C56">Engedélyt kér a 3D tartalom engedélyezésére a dokumentumban</text>
+		<text id="ibar.3dContent.text" h="5E8AC651">A 3D-s tartalom le van tiltva. Engedélyezze ezt a funkciót, ha megbízik ebben a dokumentumban.</text>
+		<text id="info.angle" h="376DC953">Szög</text>
+		<text id="info.diameter" h="A99C6701">Átmérő</text>
+		<text id="info.distance" h="94EB4A0D">Távolság</text>
+		<text id="info.length" h="64B191B5">Hossza</text>
+		<text id="info.radius" h="3233DE6A">Sugár</text>
+		<text id="lbl.3DCommentStr" h="AB4D67DE">&amp;3D Megjegyzés:</text>
+		<text id="lbl.3DMeasureTextSizeStr" h="EF9A15BB">Betűméret Mértéke:</text>
+		<text id="lbl.AngularShownInStr" h="2877154F">Szögmérések a következőkben láthatók:</text>
+		<text id="lbl.AntiAliasing" h="050110D0">Anti-Aliasing:</text>
+		<text id="lbl.CircularShownAsStr" h="FFB789B9">Kör alakú mérések a így jelennek meg:</text>
+		<text id="lbl.DigitsStr" h="D0715756">&amp;Jelentős Megjelenítendő Számjegyek:</text>
+		<text id="lbl.HighlightColor" h="5F548840">Kiemelés Színe:</text>
+		<text id="lbl.LineColorStr" h="2A4E912F">3D Mérővonal Színe:</text>
+		<text id="lbl.SnapHintColorStr" h="E14BB320">Kapcsolt Tipp Szín:</text>
+		<text id="lbl.framerate" h="E28DF43C">Framerate (FPS):</text>
+		<text id="lbl.renderingEngine" h="0F210502">Renderelő Motor:</text>
+		<text id="lbl.viewName" h="64A879B2">Nézet Neve:</text>
+		<text id="manageViews" h="8D0BFCAB">Nézetek Kezelése</text>
+		<text id="manageViews.List.defaultItem" h="F93BCF4A">3D nézetek</text>
+		<text id="manageViews.newViewName" h="36C63992">Új Nézet</text>
+		<text id="op.crossSection.add" h="816A8FBA">Keresztmetszet Hozzáadása</text>
+		<text id="op.crossSection.del" h="7359BC97">Keresztmetszet Törlése</text>
+		<text id="op.crossSection.edit" h="F1E2B734">Keresztmetszet Szerkesztése</text>
+		<text id="op.measure.add" h="C937F475">Mérés Hozzáadása</text>
+		<text id="op.measure.del" h="98EFA25F">Mérés Törlése</text>
+		<text id="op.measure.edit" h="B0A6FD84">Mérés Szerkesztése</text>
+		<text id="op.view.add" h="5EA580D2">Nézet Hozzáadása</text>
+		<text id="op.view.del" h="09EFE6B4">Nézet Törlése</text>
+		<text id="op.view.edit" h="D656AA99">Szerkesztés nézet</text>
+		<text id="opengl.str" h="BBBBF29E">OpenGL</text>
+		<text id="units.centimeters.str" h="63D677E4">centiméter</text>
+		<text id="units.feet.str" h="F6E973E9">láb</text>
+		<text id="units.inches.str" h="37039ACE">hüvelyk</text>
+		<text id="units.kilometers.str" h="8D5FC0C4">kilométer</text>
+		<text id="units.meters.str" h="CBCB1E8C">méter</text>
+		<text id="units.miles.str" h="639E298A">mérföld</text>
+		<text id="units.millimeters.str" h="EBB2FCDD">milliméter</text>
+		<text id="units.modelunits.str" h="9DC83793">modell egység(ek)</text>
+		<text id="units.picas.str" h="CFFA0650">pica</text>
+		<text id="units.points.str" h="E64CE9B2">pontok</text>
+		<text id="units.yards.str" h="1F5E1723">yard</text>
+		<text id="view.custom" h="A918FF38">Egyéni</text>
+		<text id="view.default" h="B6EF2024">Alapértelmezett</text>
+		<text id="op.manageViews" h="8D0BFCAB">Nézetek kezelése</text>
+		<text id="viewName.SectionView" h="C0FD0A97">Szakasz nézet</text>
+		<text id="viewName.CameraView" h="73227EFE">Kamera nézet</text>
+		<text id="viewName.MeasurementView" h="6D7646F2">Mérési nézet</text>
+		<text id="viewName.NewView" h="018D94A4">Új nézet</text>
+		<text id="viewName.3DCommentView" h="05B86C99">3D megjegyzés nézet</text>
+		<text id="DlgManage3DViews.title" h="8D0BFCAB">Nézetmódok kezelése</text>
+		<text id="DlgViewProperties.title" h="F5C86852">Új nézet tulajdonságok</text>
+		<text id="Dlg3DComment.title" h="92BCB7CD">Adja meg a megjegyzés karakterláncot</text>
+		<text id="lbl.pmiRenderingMode" h="22BCA220">Kedvelt 3D renderelési mód:</text>
+		<text id="pmiRenderingMode.ContentSetting" h="21BB2D95"> A tartalom beállításának használata</text>
+		<text id="pmiRenderingMode.FrontOfModel" h="2A68E699"> 3D PMI renderelése a modell előtt</text>
+		<text id="pmiRenderingMode.ZBuffer" h="C20E3E1F"> 3D PMI renderelése Z-puffer használatával</text>
+	</Strings>
+</Localization>

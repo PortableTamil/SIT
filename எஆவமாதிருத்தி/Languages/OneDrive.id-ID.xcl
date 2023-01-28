@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180920232528">2.00.00</Version>
+	<Author>Christian A.</Author>
+	<Copyright>Translated by Christian A.</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Indonesian (Indonesia)" lName="Indonesia" code="id-ID" R2L="false"/>
+	<Module name="OneDrivePlugin" namespace="od" version="7.0.326.10"/>
+	<Strings>
+		<text id="DlgOpenFile" h="F5F0D3C4">Buka Berkas dari OneDrive</text>
+		<text id="DlgSaveFile" h="8E6D35E7">Simpan Berkas di OneDrive</text>
+		<text id="GDPlugin" h="55E9533C">Plugin OneDrive</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Log Masuk Baru...</text>
+		<text id="cmd.cmdsCategory" h="A8DDA089">OneDrive</text>
+		<text id="cmd.onedrive" h="FBE7A43C">&amp;OneDrive</text>
+		<text id="cmd.open" h="C3A80FF4">&amp;OneDrive...</text>
+		<text id="cmd.open.tip" h="03DE0A0A">Buka dokumen dari OneDrive.</text>
+		<text id="cmd.save" h="C3A80FF4">&amp;OneDrive...</text>
+		<text id="cmd.save.tip" h="BC9750BB">Simpan dokumen yang aktif di OneDrive.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Berkas Tidak Ditemukan</text>
+		<text id="cpt.invalidFileName" h="79C1387C">"Nama Berkas Tidak Valid"</text>
+		<text id="cpt.navigateError" h="3D300A1C">Kesalahan Navigasi</text>
+		<text id="cpt.saveReplace" h="520CB069">Simpan Berkas</text>
+		<text id="cpt.selectFile" h="C55D68B0">Memilih berkas</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Tidak Dapat Menyimpan Berkas di Folder</text>
+		<text id="dlg.Auth" h="6D5E22C0">Autentikasi One Drive</text>
+		<text id="fileName" h="DEC92488">Nama Berkas:</text>
+		<text id="lb.CurrentFolder" h="44158804">Folder Sekarang:</text>
+		<text id="lb.Test" h="273F3E5B">Tes Tes Tes!</text>
+		<text id="lb.onedriveAccName" h="740F2198">Akun OneDrive:</text>
+		<text id="ls.column.created" h="FE6510B7">Tanggal dibuat</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Tanggal dan waktu saat berkas, folder, atau daftar dibuat</text>
+		<text id="ls.column.extension" h="14FEB836">Ekstensi</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Ekstensi berkas</text>
+		<text id="ls.column.modified" h="7E234D6D">Tanggal diubah</text>
+		<text id="ls.column.modified.hint" h="12933E76">Tanggal dan waktu saat berkas, folder, atau daftar diubah terakhir kali</text>
+		<text id="ls.column.size" h="17A58A52">Ukuran</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Ukuran berkas</text>
+		<text id="ls.column.title" h="D18643E3">Nama</text>
+		<text id="ls.column.title.hint" h="6A895576">Nama berkas, nama folder, atau judul daftar</text>
+		<text id="msg.fileNotFound" h="430E08B1">Berkas "%1" tidak ditemukan di folder sekarang.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" bukan nama berkas yang valid.</text>
+		<text id="msg.navigateError" h="9C1CD106">Gagal menavigasi di sumber OneDrive. Silakan periksa koneksi internet Anda dan hak untuk mengakses sumber OneDrive yang diminta.</text>
+		<text id="msg.openFailed" h="AC94D960">Gagal membuka berkas. Pastikan berkasnya ada, tidak diperiksa pengguna lain, dan Anda memiliki izin untuk membacanya.</text>
+		<text id="msg.saveFailed" h="4D413392">Gagal menyimpan berkas. Pastikan nama berkasnya valid dan Anda memiliki izin untuk menulisnya.</text>
+		<text id="msg.saveReplace" h="5D56833E">Berkas %1 sudah ada. Anda ingin menggantinya?</text>
+		<text id="msg.selectFile" h="2530C20F">Silakan pilih berkas sebelum menekan OK</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Berkas tidak dapat disimpan di lokasi yang dipilih. Silakan pilih folder 'Drive Saya', salah satu dari subfoldernya, atau salah satu dari subfolder 'Berbagi Dengan Saya' untuk menyimpan berkas.</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">Drive Saya</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Berbagi dengan Saya</text>
+		<text id="addFolder.title" h="42CD8D51">Buat Folder</text>
+		<text id="addFolder.message" h="940CF2FA">Masukkan nama folder yang baru</text>
+		<text id="addFolderError.title" h="DDB9C8A8">Tidak dapat membuat berkas</text>
+		<text id="addFolderError.message" h="E37B3660">Gagal membuat folder di sumber OneDrive. Silakan periksa koneksi internet Anda dan hak untuk mengakses sumber OneDrive yang diminta.</text>
+		<text id="btn.addFolder.text" h="69FFFB47">&amp;Buat folder</text>
+		<text id="btn.settings" h="EC675489">Pengaturan...</text>
+		<text id="deleteError.title" h="002A7E1A">Tidak dapat menghapus butir</text>
+		<text id="deleteError.message" h="ABCC0ED6">Tidak dapat menghapus %1 "%2" di sumber OneDrive. %3</text>
+		<text id="deleteError.reason" h="09E96BF8">Silakan periksa koneksi internet Anda dan hak untuk mengakses sumber OneDrive yang diminta.</text>
+		<text id="btn.delete.text" h="ED580C1E">&amp;Hapus</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">&amp;Atas</text>
+		<text id="file" h="AFFADF08">berkas</text>
+		<text id="folder" h="1DAC8D17">folder</text>
+		<text id="deleteError.unknownItem.message" h="D27D16CB">Tidak dapat menghapus butir di sumber OneDrive. %1</text>
+		<text id="delete.title" h="FC00502F">"Hapus butir"</text>
+		<text id="delete.message" h="16714AA7">"Anda ingin menghapus %1 "%2"?"</text>
+		<text id="deleteMulti.message" h="806F170A">"Anda ingin menghapus %1 butir dari folder "%2" di sumber OneDrive?"</text>
+		<text id="deleteMulti.progress" h="7A18F8DD">"Menghapus butir #%1 of %2"</text>
+		<text id="deleteMulti.progress.title" h="CE70C7AD">"Menghapus butir dari OneDrive"</text>
+		<text id="deleteSingle.progress" h="B781BCCF">"Menghapus %1 "%2""</text>
+		<text id="deleteSingle.progress.title" h="448891FC">"Menghapus butir dari OneDrive"</text>
+	</Strings>
+</Localization>

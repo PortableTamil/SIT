@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20211012163843">2.00.00</Version>
+	<Author>Alfonso Seoage</Author>
+	<Copyright>Alfonso Seoage © 
+jassgali@hotmail.com</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Galician (Galician)" lName="Galego" code="gl-ES" R2L="false"/>
+	<Module name="AzureRMS" namespace="msrms" version="9.1.357.0"/>
+	<Strings>
+		<text id="UserIdentity.title" h="176AEDC1">Protección da información de Microsoft  Azure</text>
+		<text id="btn.next" h="3A4ABB6E">Próxi&amp;mo...</text>
+		<text id="cmd.protect" h="228A9168">Protexer</text>
+		<text id="cmd.protect.tip" h="176AEDC1">Microsoft Azure Information Protection</text>
+		<text id="rbar.protect.title" h="43C83177">MS RMS</text>
+		<text id="secure.handler.name" h="176AEDC1">Protección da información de Microsoft  Azure</text>
+		<text id="uid.email.cue" h="2334460A">O teu correo electrónico</text>
+		<text id="uid.label1" h="8E83CAEB">Este arquivo está protexido por Microsoft Azure Information Protection.</text>
+		<text id="uid.pick" h="DCF6A308">Por favor, elixa a conta.</text>
+		<text id="uid.email" h="5B5BF151">Por favor introduza o seu correo electrónico.</text>
+		<text id="uid.label2" h="A1DC8236">* Solicitaráselle a autenticación de Microsoft no seguinte paso.
+O seguinte paso pódese omitir se a conta verificouse antes.</text>
+		<text id="uid.remember" h="A77974A7">Lembra&amp;r a miña conta</text>
+		<text id="uid.add" h="D5E24D76">Usar outra conta</text>
+		<text id="ibar.label.classified" h="9B716F59">Este documento está clasificado por Microsoft Information Protection coa etiqueta:</text>
+		<text id="ibar.label.protected" h="8CBF20A7">Este documento está protexido por Microsoft Information Protection con lab</text>
+		<text id="info.protected" h="A49B0FCD">Este documento está protexido por Microsoft Information Protection.</text>
+		<text id="info.protectedWithLabel" h="8A425C7C">Este documento está protexido por Microsoft Information Protection.
+
+Etiqueta aplicada:</text>
+	</Strings>
+</Localization>

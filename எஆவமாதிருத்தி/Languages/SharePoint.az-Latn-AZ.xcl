@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20221121231554">2.00.00</Version>
+	<Author>ELDOST QASIMOV</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Azerbaijani (Latin, Azerbaijan)" lName="Azərbaycan" code="az-Latn-AZ" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="9.5.365.0"/>
+	<Strings>
+		<text id="DlgAppPrefs.SharePoint.Name" h="56A5F9B3">Paylaşım nöqtəsi</text>
+		<text id="DlgAppPrefs.SharePoint.Title" h="07F34B45">Paylaşım nöqtəsi seçimləri</text>
+		<text id="addFolder.error.message" h="F0B996F8">&lt;b&gt;%1&lt;/b&gt; qovluğunun Paylaşım nöqtəsi resurslarında yaradılması alınmadı.</text>
+		<text id="addFolder.progress.text" h="8C5EF68A">&lt;b&gt;%1&lt;/b&gt; qovluğu yaradılır...</text>
+		<text id="addFolder.progress.title" h="7B4FFE6D">Paylaşım nöqtəsində qovluq yaradılır</text>
+		<text id="addFolder.question.button.create" h="5AFC56A9">Qovluq yarat</text>
+		<text id="addFolder.question.edit.title" h="AD9C0CB3">Lütfən yeni qovluq adı daxil edin:</text>
+		<text id="addFolder.question.error.alreadyExists" h="C0A47FF7">Hazırki qovluqda &lt;b&gt;%1&lt;/b&gt; adlı element artıq mövcuddur.</text>
+		<text id="addFolder.question.error.emptyFolderName" h="BB6566D6">Qovluq adı boş ola bilməz.</text>
+		<text id="addFolder.question.error.invalidFolderName" h="0A24FCDF">&lt;b&gt;%1&lt;/b&gt; etibarsız qovluq adıdır, &lt;b&gt;&lt; &gt; " /  | ? *&lt;/b&gt; simvollarına icazə verilmir.</text>
+		<text id="advancedPreferences.cb.hideFolders" h="56731DD2">Aşağıdakı qovluqları gizlət:</text>
+		<text id="advancedPreferences.group.OpenSaveDialog" h="4D95ED95">Aç/Yadda saxla dialoqu</text>
+		<text id="btn.addFolder.text" h="69FFFB47">Qovluq yarat</text>
+		<text id="btn.advancedPreferences" h="1EE42724">Qabaqcıl...</text>
+		<text id="btn.apply" h="51F4FB2C">Tətbiq et</text>
+		<text id="btn.cancelSaving" h="414AE9E8">Ləğv et
+- yerli dəyişikliklərinizi başqa bir faylda saxlaya biləcəksiniz</text>
+		<text id="btn.checkIn" h="09996473">Yoxla</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">Yaoxla və yoxlanılanları saxla</text>
+		<text id="btn.clearLogs" h="848E003C">Hamısını sil</text>
+		<text id="btn.connect" h="A79F815C">Bağlantı</text>
+		<text id="btn.delete.text" h="ED580C1E">Sil</text>
+		<text id="btn.discardCheckOut" h="40AC5603">Yoxlanılan faylı sil</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">Yuxarı</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">Yoxlanılanları saxla</text>
+		<text id="btn.navigate" h="B03F439E">İstiqamət</text>
+		<text id="btn.open" h="B1A510F0">Aç</text>
+		<text id="btn.openLog" h="F3E66367">Aç</text>
+		<text id="btn.openLogFolder" h="0B1D9C13">Qovluğu aç</text>
+		<text id="btn.openWithCheckOut" h="2F774735">Yoxlamaqla aç</text>
+		<text id="btn.overwrite" h="FC839A4B">Üzərinə yaz
+- SERVERDƏKİ DƏYİŞİKLİKLƏR İTİRİLƏCƏK</text>
+		<text id="btn.resetPreferences" h="A7132527">Standartlara sıfırla</text>
+		<text id="btn.save" h="F363C410">Saxla</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">Saxla və yoxlayın</text>
+		<text id="btn.saveReplace" h="11BF9724">Saxla və əvəz et</text>
+		<text id="btn.settings" h="563BF6B7">Seçimlər...</text>
+		<text id="btn.signOut" h="645CEBE2">Çıxış</text>
+		<text id="btn.reloadAndCheckOut" h="1E1A625F">Yenidən yükləyin və yoxlayın
+- serverdən yerli surətinizi yeniləmək üçün</text>
+		<text id="btn.reloadLostYourChangesAndCheckOut" h="6097C49C">Yenidən yükləyin və yoxlayın
+- YERLİ DƏYİŞİKLƏRİNİZİ İTİRƏCƏKSİNİZ</text>
+		<text id="btn.cancelCheckOut" h="08512B92">Çıxışı ləğv et
+- yerli surətinizdə qalmaq üçün</text>
+		<text id="btn.cancelOutdatedCheckOut" h="24D4C014">Çıxışı ləğv et
+- yerli dəyişikliklərinizi başqa bir faylda saxlaya biləcəksiniz</text>
+		<text id="cb.url.tip" h="CD81E674">Ünvan daxil et...</text>
+		<text id="cbitem.afterSave.ask" h="5F9AC292">Nə etmək lazım olduğunu soruş</text>
+		<text id="cbitem.afterSave.checkIn" h="FA91CFF8">Yoxla</text>
+		<text id="cbitem.afterSave.checkInCheckOut" h="C236E112">Yoxla və yoxlanılanları saxla</text>
+		<text id="cbitem.afterSave.keepCheckOut" h="F4487016">Yoxlanılanları saxla</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.ask" h="5F9AC292">Nə etmək lazım olduğunu soruş</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.discardCheckOut" h="CA75DE00">Yoxlanılanı sil</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.keepCheckOut" h="F4487016">Yoxlanılanları saxla</text>
+		<text id="cbitem.closeNeedCheckIn.ask" h="5F9AC292">Nə etmək lazım olduğunu soruş</text>
+		<text id="cbitem.closeNeedCheckIn.checkIn" h="FA91CFF8">Yoxla</text>
+		<text id="cbitem.closeNeedCheckIn.checkInCheckOut" h="C236E112">Yoxla və yoxlanılanları saxla</text>
+		<text id="cbitem.closeNeedCheckIn.keepCheckOut" h="B1F294B6">Yoxlanılanları saxla</text>
+		<text id="cbitem.defaultCheckInType.major" h="D5227ED6">Əsas versiyanı artır</text>
+		<text id="cbitem.defaultCheckInType.minor" h="5B8ED168">Kiçik versiyanı artır</text>
+		<text id="cbitem.defaultCheckInType.overwrite" h="05A502D0">Versiyasını dəyişdirmədən üzərinə yazın</text>
+		<text id="cbitem.logLevel.error" h="A393623F">Yalnı səhvlər</text>
+		<text id="cbitem.logLevel.information" h="2039C12A">Bütün məlumatlı</text>
+		<text id="cbitem.logLevel.none" h="1E317BDF">Giriş olmayıb</text>
+		<text id="cbitem.logLevel.verbose" h="C7EEABE5">Tam ayrıntılı giriş</text>
+		<text id="cbitem.logLevel.warning" h="427C1C47">Xəbərdarlıq və xətalar</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.ask" h="5F9AC292">Nə etmək lazım olduğunu soruş</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.checkOut" h="95775966">Aç və yoxla</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.open" h="38A34D1A">Yoxlanılmadan aç</text>
+		<text id="cbitem.whenSaveConflict.ask" h="5F9AC292">Nə etmək lazım olduğunu soruş</text>
+		<text id="cbitem.whenSaveConflict.cancel" h="554F5523">Serverdə saxlamanı ləğv et</text>
+		<text id="cbitem.whenSaveConflict.overwrite" h="B67489D8">Server versiyası üzərinə yaz</text>
+		<text id="check.dontShowThisMessageAgain" h="AC16D0EE">Bu ismarıcı bir daha göstərmə</text>
+		<text id="check.whenOpenDocumentCheckoutNoneDisableEditing" h="778336E0">Redaktəni bağla</text>
+		<text id="check.whenOpenDocumentCheckoutNoneShowWarning" h="E97BFF00">Xəbərdarlıq ismarıcı göstər</text>
+		<text id="checkInDialog.typeRaio.Major" h="55515597">Əsas versiyanı artır</text>
+		<text id="checkInDialog.typeRaio.Minor" h="DBFDFA29">Kiçik versiyanı artır</text>
+		<text id="checkInDialog.typeRaio.Overwrite" h="FE98B944">Versiyasını dəyişdirmədən üzərinə yazın</text>
+		<text id="cmd.checkIn" h="AEF235ED">Daxildə yoxla</text>
+		<text id="cmd.checkIn.tip" h="C9DCA405">Sənədi paylaşım nöqtəsi daxilində yoxla.</text>
+		<text id="cmd.checkOut" h="E6A87AFE">Kənarda yoxla</text>
+		<text id="cmd.checkOut.tip" h="E1B64D30">Sənədi paylaşım nöqtəsindən kənarda yoxla.</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">Paylaşım nöqtəsi</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">Yoxlanılan faylı sil</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">Paylaşım nöqtəsində yoxlanılan faylı silin.</text>
+		<text id="cmd.enableEditing" h="340AFFD4">Redaktə aktiv</text>
+		<text id="cmd.enableEditing.tip" h="8A29948D">Düzəliş və interaktiv xüsusiyyətləri aktivləşdirin.</text>
+		<text id="cmd.open" h="68595810">Paylaşım nöqtəsi...</text>
+		<text id="cmd.open.tip" h="007B7200">Sənədi paylaşım nöqtəsindən aç.</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">Fayl məlumatlarını hazırla</text>
+		<text id="cmd.prepareFileInfo.tip" h="E609EA07">Paylaşım nöqtəsində fayl məlumatlarını hazırlayın</text>
+		<text id="cmd.save" h="68595810">Paylaşım nöqtəsi...</text>
+		<text id="cmd.save.tip" h="C48C1C25">Aktiv sənədi Paylaşım nöqtəsində saxla.</text>
+		<text id="cmd.share_point" h="B7423C0E">Paylaşım nöqtəsi</text>
+		<text id="cmd.share_point.tip" h="CA99078B">Paylaşım nöqtəsində sənədlərlə işləmək</text>
+		<text id="defaultCheckInComment" h="4EF280A5">Standart sənəd yoxlaması:</text>
+		<text id="defaultCheckInType" h="F606FFC1">Standart növ yoxlaması:</text>
+		<text id="delete.error.file" h="3C348225">&lt;b&gt;%1&lt;/b&gt; faylının Paylaşım nöqtəsindən silinməsi alınmadı.</text>
+		<text id="delete.error.folder" h="3C348225">&lt;b&gt;%1&lt;/b&gt; faylının Paylaşım nöqtəsindən silinməsi alınmadı.</text>
+		<text id="delete.error.unknown" h="A3E6F83A">Seçilmiş elementlərin Paylaşım nöqtəsindən silinməsi alınmadı.</text>
+		<text id="delete.progress.status" h="F729DF24">%2-dən %1</text>
+		<text id="delete.progress.text.file" h="EFCE4189">&lt;b&gt;%1&lt;/b&gt; faylı silinir...</text>
+		<text id="delete.progress.text.folder" h="2E89372D">&lt;b&gt;%1&lt;/b&gt; qovluq silinir...</text>
+		<text id="delete.progress.text.unknown" h="367B0EA7">&lt;b&gt;%1&lt;/b&gt; silinir...</text>
+		<text id="delete.progress.title" h="DFC61F07">Paylaşım nöqtəsindən sil</text>
+		<text id="delete.question.file" h="F3B2380C">&lt;b&gt;%1&lt;/b&gt; faylını silmək istəyirsiniz?</text>
+		<text id="delete.question.folder" h="DA195BFA">&lt;b&gt;%1&lt;/b&gt; qovluğunu və tərkibindəkiləri silmək istəyirsiniz?</text>
+		<text id="delete.question.multi" h="ACA0CEC0">%1 elementini silmək istəyirsiniz?</text>
+		<text id="delete.question.unknown" h="8C13886E">Seçilmiş elementləri silmək istəyirsiniz?</text>
+		<text id="dlg.advancedPreferences.title" h="88234689">Paylaşma nöqtəsi qabaqcıl xüsusiyyətləri</text>
+		<text id="dlg.liveLogin" h="BFADC685">Canlı Gisiş</text>
+		<text id="dlg.openFile" h="435887CD">Faylı aç</text>
+		<text id="dlg.saveFile" h="520CB069">Faylı yadda saxla</text>
+		<text id="group.Logging" h="F9DEFF33">Giriş</text>
+		<text id="group.documentActions" h="C2F29B9A">Sənədlərlə iş</text>
+		<text id="ibar.cannotEditEditing" h="13F24128">Faylı serverdə redaktə etmək icazəniz yoxdur. Yalnız yerli surət kimi saxlamağa icazə verilir.</text>
+		<text id="ibar.cannotEditNoEditing" h="52C758B6">Faylı serverdə redaktə etmək icazəniz yoxdur. Bütün redaktə və interaktiv xüsusiyyətlər bağlıdır.</text>
+		<text id="ibar.checkedOutToMe" h="B5AF7047">Fayl sizin üçün yoxlanılır.</text>
+		<text id="ibar.checkedOutToOtherEditing" h="4F420124">Fayl %1 ilə yoxlanılır. Faylı serverdə saxlaya bilməyəcəksiniz.</text>
+		<text id="ibar.checkedOutToOtherNoEditing" h="B8C2709A">Fayl %1 ilə yoxlanılır. Bütün redaktə və interaktiv xüsusiyyətlər bağlıdır.</text>
+		<text id="ibar.notCheckedOutEditing" h="A4D56FD1">Fayl yoxlanılmır. Digər istifadəçilər serverdəki faylı dəyişsələr, bu sənəddəki dəyişiklikləri saxlaya bilməyəcəksiniz.</text>
+		<text id="ibar.notCheckedOutNoEditing" h="E3EA5586">Fayl yoxlanılmır. Bütün redaktə və interaktiv xüsusiyyətlər bağlıdır.</text>
+		<text id="ibar.sharepoint" h="56A5F9B3">Paylaşım nöqtəsi</text>
+		<text id="ibar.sharepoint.description" h="6F2E3CDD">Paylaşım nöqtəsi sənəd kontekstində məlumat və əməliyyatlar</text>
+		<text id="ibar.sharepoint.title" h="C3F43468">Paylaşım nöqtəsi Sənədi</text>
+		<text id="lb.afterSave" h="B8FD9751">Sənəd saxlanılarkən:</text>
+		<text id="lb.checkInComment" h="694DD18A">Rəy (seçimli):</text>
+		<text id="lb.closeDoesNotNeedCheckIn" h="293982D2">Yoxlanılan sənəd dəyişdirilmədən bağlandıqda:</text>
+		<text id="lb.closeNeedCheckIn" h="32249D2D">Yoxlanılan bir sənəd dəyişikliklərlə bağlandıqda:</text>
+		<text id="lb.currentLogFile" h="79D35843">Hazırki qeyd:</text>
+		<text id="lb.name" h="F7B9E475">Fayladı:</text>
+		<text id="lb.numberOfDaysToStoreLogs" h="E12F4F23">Qeydləri saxla (gün):</text>
+		<text id="lb.sharePointPlaceUrl" h="F900769A">Paylaşım nöqtəsi URL:</text>
+		<text id="lb.sharePointPlaceValidUrl" h="9BFA1D20">Paylaşım nöqtəsi serverinə qoşula bilmədi. Zəhmət olmasa internet bağlantısını və verilən server URL-i yoxlayın.</text>
+		<text id="lb.whenOpenDocumentCheckoutNone" h="D9B6115E">Heç kimin yoxlamadığı sənədi açarkən:</text>
+		<text id="lb.whenOpenDocumentCheckoutOther" h="4C458F62">Digər istifadəçiyə yoxlanılan bir sənəd açarkən:</text>
+		<text id="lb.whenOpenDocumentWithoutWritePermissions" h="88CBE154">Yazı icazəsi olmayan bir sənəd açarkən:</text>
+		<text id="lb.whenSaveConflict" h="6DA89C17">Serverdə dəyişən bir sənəd saxlayarkən:</text>
+		<text id="ls.column.created" h="FE6510B7">Yaradılma tarixi</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Fayl, qovluq və ya siyahının yaradılma tarixi və vaxtı</text>
+		<text id="ls.column.extension" h="14FEB836">Uzantı</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Fayl uzantısı</text>
+		<text id="ls.column.modified" h="691C3610">Dəyişdirilmə tarixi</text>
+		<text id="ls.column.modified.hint" h="12933E76">Fayl, qovluq və ya siyahının son dəyişdirilmə tarixi və vaxtı</text>
+		<text id="ls.column.size" h="17A58A52">Ölçü</text>
+		<text id="ls.column.size.hint" h="E79CA174">Fayl ölçüsü</text>
+		<text id="ls.column.title" h="D18643E3">Ad</text>
+		<text id="ls.column.title.hint" h="81F4F728">Fayl adı, qovluq adı və ya başlıqlar siyahısı</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">Bağlanmadan əvvəl &lt;b&gt;%1&lt;/b&gt; faylında yoxlamaq istəyirsiniz? Bu dəyişiklikləri digər istifadəçilər üçün əlçatan edəcəkdir.</text>
+		<text id="msg.askForCheckOutOnOpen" h="B185C3DF">Təhlükəsiz dəyişə və Paylaşım Nöqtəsində dəyişiklikləri saxlaya bilmək üçün digər istifadəçilərə görə "yalnız oxumaq" olaraq təyin edilərək yoxlamaqla &lt;b&gt;%1&lt;/b&gt; faylını aça bilərsiniz və ya digər istifadəçilərin faylı dəyişriməsinəicazə verə bilərsiniz, lakin öz hissənizi dəyişdirməyə və saxlamağa çalışsanız münaqişələr yarana bilər.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">&lt;b&gt;%1&lt;/b&gt; sizə yoxlanılır. Dəyişiklikləri ləğv edib digər istifadəçilərin faylda düzəliş etməsinə icazə vermək istəyirsinizmi?</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">&lt;b&gt;%1&lt;/b&gt; faylını yoxla.</text>
+		<text id="msg.checkInFailed" h="3E327B8B">&lt;b&gt;%1&lt;/b&gt; faylı yoxlanıla bilmədi. Lütfən bu faylın mövcudluğuna və sizin üçün baxıldığına əmin olun.</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">&lt;b&gt;%1&lt;/b&gt; faylı yoxlanıla bilmədi. Lütfən faylın serverdə mövcud olduğundan və onun digər istifadəçiyə yoxlanılmadığından əmin olun.</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">&lt;b&gt;%1&lt;/b&gt; faylını "%2" istifadəçisi yoxladığından onu yoxlamaq üçün aça bilməzsiniz.</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">&lt;b&gt;%1&lt;/b&gt; faylı "%2" istifadəşisinə yoxlanılır. Bu sənəd sizə yoxlanılmasa Paylaşım Nöqtəsində saxlaya bilməzsiniz, ancaq dəyişiklikləri başqa bir yerdə saxlaya bilərsiniz.</text>
+		<text id="msg.connectError" h="18DFEDBE">Paylaşım nöqtəsi serverinə qoşula bilmədi. Lütfən internet bağlantısını, server ünvanını və Paylaşım nöqtəsi qaynağına tələb olunan giriş hüquqlarını yoxlayın.</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">&lt;b&gt;%1&lt;/b&gt; faylın yoxlanmış vəziyyətdən çıxara bilmədi. Lütfən, bu faylın mövcud olduğundan və sizə yoxlanıldığından əmin olun.</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">&lt;b&gt;%1&lt;/b&gt; faylını redaktə etmək icazəniz olmadığı üçün onu yoxlaya bilməzsiniz.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">&lt;b&gt;%1&lt;/b&gt; faylını redaktə etmək icazəniz olmadığından onu yoxlama üçün aça bilməzsiniz.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">&lt;b&gt;%1&lt;/b&gt; faylını redaktə etmək icazəniz olmadığından redaktə üçün onu aça bilməzsiniz.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">Saxlanmazdan əvvəl &lt;b&gt;%1&lt;/b&gt;faylı yoxlanılmalıdır, ancaq bu fayla düzəliş icazəsi yoxdur.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="C492B710">&lt;b&gt;%1&lt;/b&gt; faylını redaktə etmək icazəniz olmadığından onu Paylaşım Nöqtəsində saxlaya bilməzsiniz.</text>
+		<text id="msg.fileNotFound" h="381368F8">&lt;b&gt;%1&lt;/b&gt; faylı hazırki qovluqda tapılmadı.</text>
+		<text id="msg.invalidFileName" h="6BAFE9F2">&lt;b&gt;%1&lt;/b&gt; etibarlı fayl adı deyil. Faylın adı &lt;b&gt;%2&lt;/b&gt; simvoldan ibarət ola bilməz</text>
+		<text id="msg.navigateError" h="CF23B4B6">Paylaşım nöqtəsi mənbəyinə gedə bilmədi. Lütfən, internet bağlantısını, server adresini və Paylaşım nöqtəsi mənbəyinə tələb olunan giriş hüququnu yoxlayın.</text>
+		<text id="msg.openFailed" h="34DE1259">Fayl açıla bilmədi. Lütfən bu faylın mövcud olduğunu və başqa bir istifadəçiyə yoxlanılmadığını və faylı əldə etmək üçün lazımi icazələrin olduğundan əmin olun.</text>
+		<text id="msg.outdatedFileOnWrite" h="F762A6D3">Yüklədiyiniz sənəddə &lt;b&gt;%1&lt;/b&gt;-də edilmiş dəyişikliklər var, lakin serverdə &lt;b&gt;%2&lt;/b&gt;-də edilmiş daha yeni dəyişikliklər var. Dəyişikliklərinizi yeni faylda saxlayın, sonra Paylaşım Nöqtəsindən yoxlanışla ən son sənədi açın, dəyişiklikləri birləşdirin və onları serverdə saxlayın.</text>
+		<text id="msg.outdatedFileOnWrite.question" h="5F57CFBC">Bu sənədin yerli nüsxəsi açıldığı gündən köhnəlmişdir, çünki bu yaxınlarda &lt;b&gt;%1&lt;/b&gt; istifadəçisi tərəfindən &lt;b&gt;%2&lt;/b&gt; serverdə dəyişdirilmişdir.
+Siz sənədin server versiyasını yerli versiyanızla əvəz etmək üçün 'Üzerinə yaz' üzərinə klikləyə bilərsiniz &lt;b&gt;(lakin %1 istifadəçisi SON DƏYİŞİKLƏRİNİ İTİRƏCƏK)&lt;/b&gt; və ya mövcud versiyasını saxlamaq üçün 'Ləğv et' üzərinə klikləyə bilərsiniz. serverdəki sənəd (və siz daha sonra yerli versiyanızı başqa faylda saxlaya bilərsiniz).</text>
+		<text id="msg.outdatedFileOnCheckout.question" h="E700325C">Bu sənədin yerli nüsxəsi açıldığı gündən köhnəlib, çünki bu yaxınlarda &lt;b&gt;%1&lt;/b&gt; istifadəçisi tərəfindən &lt;b&gt;%2&lt;/b&gt; serverdə dəyişdirilib.</text>
+		<text id="msg.outdatedModifiedFileOnCheckout.question" h="736B2C99">Bu sənədin yerli nüsxəsi açıldığı gündən köhnəlmişdir, çünki bu yaxınlarda &lt;b&gt;%1&lt;/b&gt; istifadəçisi tərəfindən &lt;b&gt;%2&lt;/b&gt; serverdə dəyişdirilmişdir. Qeyd edək ki, siz yerli versiyanızı da dəyişdirmisiniz.
+Siz serverdən yerli nüsxənizi yeniləmək üçün 'Yenidən yüklə' üzərinə klikləyə bilərsiniz &lt;b&gt;(lakin YERLİ DƏYİŞİKLİKLƏRİNİZİ İTİRƏCƏKSİNİZ)&lt;/b&gt; və ya yerli versiyanızda qalmaq üçün 'Ləğv et' üzərinə klikləyə bilərsiniz (və məlumatınızı saxlaya bilərsiniz. sonra başqa fayla dəyişir).</text>
+		<text id="msg.saveFailed" h="967D2A64">Fayl saxlaya bilmədi. Lütfən fayl adının etibarlı olduğundan, başqa bir istifadəçiyə yoxlanılmadığına və sənədin düzəldilməsi üçün lazımi icazələrin olduğuna əmin olun.</text>
+		<text id="msg.saveReplace" h="B1889DFB">&lt;b&gt;%1&lt;/b&gt; faylı artıq mövcuddur. Onu əvəz etmək istəyirsiniz?</text>
+		<text id="msg.signOutError" h="0E6A5F45">Cari istifadəçini Paylaşım nöqtəsi serverindən çıxara bilmədi. Bununla birlikdə, doğrulama tələbi olmadan Paylaşım nöqtəsinə daxil ola bilərsiniz.</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="69F2FCB2">&lt;b&gt;%1&lt;/b&gt; faylını redaktə etmək icazəniz yoxdur. Lütfən nəzərə alın ki, zəruri icazəniz olmadığı halda dəyişiklikləri Paylaşım nöqtəsində saxlaya bilməzsiniz.</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">&lt;b&gt;%1&lt;/b&gt; faylı "%2" istifadəsi tərəfindən yoxlanıldı. "%2" yoxlanılmış vəziyyəti ləğv etməyincə faylı Paylaşım Nöqtəsində saxlaya bilməzsiniz. Əgər "%2" faylda dəyişikliklər ilə yoxlayarsa sizin dəyişikliklərlə konfilikt yaranacaq.</text>
+		<text id="opt.dontShowAgain" h="492B5D79">Bu ismarıcı bir daha göstərmə</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">Paylaşım nöqtəsi</text>
+		<text id="str.sharePoint" h="56A5F9B3">Paylaşım nöqtəsi</text>
+	</Strings>
+</Localization>

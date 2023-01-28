@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20211007022814">2.00.00</Version>
+	<Author>Oksana Poberezhnyk</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Russian (Russia)" lName="Русский" code="ru-RU" R2L="false"/>
+	<Module name="AzureRMS" namespace="msrms" version="9.1.356.0"/>
+	<Strings>
+		<text id="UserIdentity.title" h="176AEDC1">Защита Информации Microsoft Azure</text>
+		<text id="btn.next" h="3A4ABB6E">Дальше...</text>
+		<text id="cmd.protect" h="228A9168">Защита</text>
+		<text id="cmd.protect.tip" h="176AEDC1">Защита информации Microsoft Azure</text>
+		<text id="rbar.protect.title" h="43C83177">MS RMS</text>
+		<text id="secure.handler.name" h="176AEDC1">Защита Информации Microsoft Azure</text>
+		<text id="uid.email.cue" h="2334460A">Ваша электронная пошта</text>
+		<text id="uid.label1" h="8E83CAEB">Этот файл защищён Защитой Информации Microsoft Azure.</text>
+		<text id="uid.pick" h="DCF6A308">Выберите учётную запись.</text>
+		<text id="uid.email" h="5B5BF151">Введите Ваш электронный адрес.</text>
+		<text id="uid.label2" h="A1DC8236">* Следующим этапом будет проверка аутентификации Microsoft.
+Этот шаг можно пропустить, если учетная запись была проверена ранее.</text>
+		<text id="uid.remember" h="A77974A7">Запомнить мою учётную запись</text>
+		<text id="uid.add" h="D5E24D76">Использовать другую учётную запись.</text>
+		<text id="ibar.label.classified" h="9B716F59">Этот документ засекречен Защитой Информации Microsoft с меткой:</text>
+		<text id="ibar.label.protected" h="8CBF20A7">Этот документ защищён Защитой Информации Microsoft с меткой:</text>
+		<text id="info.protected" h="A49B0FCD">Этот документ защищён Защитой Информации Microsoft.</text>
+		<text id="info.protectedWithLabel" h="8A425C7C">Этот документ защищён Защитой Информации Microsoft.
+
+Применена метка:</text>
+	</Strings>
+</Localization>

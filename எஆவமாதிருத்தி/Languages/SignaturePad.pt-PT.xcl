@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20190319232844">2.00.00</Version>
+	<Author>Nelson Vladimiro Nunes Amaral</Author>
+	<Copyright>Nelson Vladimiro ©
+
+nvladimiro@gmail.com</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Portuguese (Portugal)" lName="português" code="pt-PT" R2L="false"/>
+	<Module name="SignaturePad" namespace="sigpad" version="8.0.329.0"/>
+	<Strings>
+		<text id="btn.clear" h="8A6A002B">Apagar</text>
+		<text id="dgl.drawsign.title" h="8BE10CB7">Desenhar assinatura</text>
+		<text id="signature.pad" h="1CB89F08">Papel de assinatura</text>
+		<text id="signature.pad.desc" h="B2E4D573">Use o papel de assinatura no seu computador para criar assinaturas</text>
+		<text id="msg.nodevice" h="69EAAE3A">Não foi encontrado nenhum &lt;i&gt;dispositivo compatível&lt;/i&gt;.
+
+Verifique se o dispositivo está ligado e se os drivers correctos estão instalados. De seguida, tente de novo.</text>
+	</Strings>
+</Localization>

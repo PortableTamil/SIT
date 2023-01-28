@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20210617190520">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Russian (Russia)" lName="Русский" code="ru-RU" R2L="false"/>
+	<Module name="U3DPlugin" namespace="u3d" version="9.0.352.0"/>
+	<Strings>
+		<text id="3DRenderingCrashed.str" h="3B1E0F07">К сожалению, рендеринг 3D потерпел неудачу. Для перезапуска 3D рендеринга откройте документ еще раз</text>
+		<text id="3DSceneFailed.str" h="27A53BDF">Ошибка при инициализации 3D сценария.</text>
+		<text id="DlgCameraProperties.Title" h="C62520F7">Свойства камеры</text>
+		<text id="PRCUnsupported.str" h="B107E80C">Модели PRC не поддерживаются.</text>
+		<text id="angular.degrees.str" h="9A86A604">Градусы</text>
+		<text id="angular.radians.str" h="8186B9C8">Радианы</text>
+		<text id="appPrefsPage.AAType.2x" h="423B3C2B">2х</text>
+		<text id="appPrefsPage.AAType.3x" h="FA875B4E">3х</text>
+		<text id="appPrefsPage.AAType.4x" h="675063F7">4х</text>
+		<text id="appPrefsPage.AAType.None" h="F9398D7D">Нету</text>
+		<text id="appPrefsPage.PickMode.TreeOrder" h="F1D70337">Порядок структуры объектов</text>
+		<text id="appPrefsPage.PickMode.ZOrder" h="8F0DAF26">Z-порядок</text>
+		<text id="appPrefsPage.gr.3DToolOptions" h="FA532EE7">Параметры 3D</text>
+		<text id="appPrefsPage.gr.rOptions" h="A6CEA705">Параметры рендеринга</text>
+		<text id="appPrefsPage.lb.PickMode" h="26EFD83B">Режим выбора:</text>
+		<text id="appPrefsPage.name" h="86A64F71">3D мультимедиа</text>
+		<text id="appPrefsPage.tip" h="878BC70D">Параметры 3D мультимедиа</text>
+		<text id="appPrefsPage.title" h="878BC70D">Параметры 3D мультимедиа</text>
+		<text id="appPrefsPageMeasurement3D.name" h="E3933ACE">3D Измерение</text>
+		<text id="appPrefsPageMeasurement3D.tip" h="ADF62F93">Параметры 3D Измерение</text>
+		<text id="appPrefsPageMeasurement3D.title" h="ADF62F93">Параметры 3D Измерение</text>
+		<text id="btn.default" h="3BF809E4">Сделать по умолчанию</text>
+		<text id="btn.moveDown" h="4CE68730">Переместить вниз</text>
+		<text id="btn.moveUp" h="4454FC42">Переместить вверх</text>
+		<text id="camera.X" h="714AA303">Камера X:</text>
+		<text id="camera.Y" h="C9F6C466">Камера Y:</text>
+		<text id="camera.Z" h="DB436B88">Камера Z:</text>
+		<text id="camera.altitude" h="D35D23E4">Широта:</text>
+		<text id="camera.azimut" h="796BF9A5">Азимут:</text>
+		<text id="camera.distance" h="47D78EAE">Дистанция:</text>
+		<text id="chck.RenderDoubleSideStr" h="2A75AAF0">Двусторонний рендеринг</text>
+		<text id="chck.Show3DAxesStr" h="3173CD8B">Показывать 3D оси</text>
+		<text id="chck.ShowCircleForRadialStr" h="1BC633C3">Показывать круг для радиальных измерен.</text>
+		<text id="chck.UseDefaultDisplayUnitStr" h="6D6F945B">Единицы "по умолчанию":</text>
+		<text id="chck.UseScaleAndUnitsFromModelStr" h="78DD018F">Использовать Масштаб и Единицы из модели (если она есть)</text>
+		<text id="circular.diameter.str" h="A99C6701">Диаметр</text>
+		<text id="circular.radius.str" h="3233DE6A">Радиус</text>
+		<text id="ck.bgColor" h="799B39A6">Цвет фона</text>
+		<text id="ck.cameraProps" h="C62520F7">Свойства камеры</text>
+		<text id="ck.crossSection" h="B6196404">Свойства сечения</text>
+		<text id="ck.enable3D" h="90C6F9B5">Разрешить 3D содержимое</text>
+		<text id="ck.lighting" h="3C76D70F">Подсветка</text>
+		<text id="ck.nodesVis" h="39891BF4">Видимость узлов</text>
+		<text id="ck.renderMode" h="CDA80CD8">Режим рендеринга</text>
+		<text id="cmd.3DPrefs" h="BB6488C0">3D Параметры...</text>
+		<text id="cmd.3dContent.trustAlways" h="C6E70253">Доверять содержимому этого документа всегда</text>
+		<text id="cmd.3dContent.trustOnce" h="6AE4F0D7">Доверить содержимому этого документа только один раз</text>
+		<text id="cmd.3dContentOpts" h="DAD7B4F4">Параметры</text>
+		<text id="cmd.3dContentOpts.tip" h="46505A9A">Нажать для включения функций</text>
+		<text id="cmd.Cancel3DComment" h="D526EB0F">Отменить Комментарий</text>
+		<text id="cmd.Cancel3DMeasurement" h="4F0F252D">Отменить Измерение</text>
+		<text id="cmd.addComment" h="9054EDA4">Добавить 3D комментарий</text>
+		<text id="cmd.addComment.tip" h="F8CEDF90">Добавить 3D комментарий</text>
+		<text id="cmd.bkColor" h="799B39A6">Цвет фона</text>
+		<text id="cmd.cameraProps" h="C62520F7">Свойства камеры</text>
+		<text id="cmd.crossSectionProps" h="14B2AE31">Параметры поперечного сечения...</text>
+		<text id="cmd.defView" h="A1F14B2B">Вид по умолчанию</text>
+		<text id="cmd.fly" h="96EAF75B">Вылет</text>
+		<text id="cmd.fly.tip" h="A9F39C8A">Вылет</text>
+		<text id="cmd.lightSchemes" h="8C1BFE4C">Схема освещения</text>
+		<text id="cmd.lights" h="41B4EB09">Включить дополнительное освещение</text>
+		<text id="cmd.measure.angular" h="D40492A0">Угловое</text>
+		<text id="cmd.measure.angular.tip" h="0936B097">3D угловое измерение</text>
+		<text id="cmd.measure.linear" h="E4AF8D46">Линейное</text>
+		<text id="cmd.measure.linear.tip" h="1839B2ED">3D измерение от точки к точке</text>
+		<text id="cmd.measure.perpendicular" h="AE57B56A">Перпендикуляр</text>
+		<text id="cmd.measure.perpendicular.tip" h="02507B9D">3D перпендикулярный размер</text>
+		<text id="cmd.measure.radial" h="2012103C">Радиальное</text>
+		<text id="cmd.measure.radial.tip" h="A6DE5391">3D радиальный размер</text>
+		<text id="cmd.measure.snap.edges" h="E6611D4B">Привязать к краям</text>
+		<text id="cmd.measure.snap.edges.tip" h="A607DE0D">3D привязка к линейным краям</text>
+		<text id="cmd.measure.snap.endPoints" h="4F0EBE65">Привязать к крайним точкам</text>
+		<text id="cmd.measure.snap.endPoints.tip" h="6BFDBD18">3D привязка к крайним точкам</text>
+		<text id="cmd.measure.snap.faces" h="DE27EA3A">Привязать к плоской поверхности</text>
+		<text id="cmd.measure.snap.faces.tip" h="90E0002F">3D привязка   к плоской поверхности</text>
+		<text id="cmd.measure.snap.radial" h="65EEBD99">Привязать к радиальным краям</text>
+		<text id="cmd.measure.snap.radial.tip" h="E4DA5906">3D привязка к радиальным краям</text>
+		<text id="cmd.measure.snap.silhouette" h="C6A68501">Привязать к поверхности</text>
+		<text id="cmd.measure.snap.silhouette.tip" h="A58DE3BD">3D привязка к силуэтам</text>
+		<text id="cmd.measureTool" h="65934C21">3D Измерение</text>
+		<text id="cmd.measureTool.tip" h="E8982E6F">3D Измерение</text>
+		<text id="cmd.orthoPerspProj.ortho" h="15C31A48">Использовать ортогональную проекцию</text>
+		<text id="cmd.orthoPerspProj.ortho.tip" h="B336199D">Модель рендеринга в ортогональной проекции</text>
+		<text id="cmd.orthoPerspProj.persp" h="49402634">Использовать проекцию в перспективе</text>
+		<text id="cmd.orthoPerspProj.persp.tip" h="330F26E9">Модель рендеринга в перспективной проекции</text>
+		<text id="cmd.pan" h="B48C4A96">Панорама</text>
+		<text id="cmd.pan.tip" h="8B952147">Панорама</text>
+		<text id="cmd.partOptions" h="066AF13F">Параметры части</text>
+		<text id="cmd.renderMode" h="9892CD92">Режим рендеринга модели</text>
+		<text id="cmd.renderMode.default" h="F24132BD">По умолчанию</text>
+		<text id="cmd.rotate" h="2D90BC43">Поворот</text>
+		<text id="cmd.rotate.tip" h="18368F2D">Поворот</text>
+		<text id="cmd.showCrossSection" h="B9E7DB9A">Показать поперечное сечение</text>
+		<text id="cmd.spin" h="D0678B2C">Вращение</text>
+		<text id="cmd.spin.tip" h="9224F8BB">Вращение</text>
+		<text id="cmd.startPauseAnim.pause" h="743DFB17">Приостановить анимацию</text>
+		<text id="cmd.startPauseAnim.play" h="C2662211">Запустить анимацию</text>
+		<text id="cmd.startPauseAnim.tip" h="3A44AF42">Воспроизведение/Пауза модельной анимации</text>
+		<text id="cmd.testCmd" h="79888B18">Тест 3D файлов</text>
+		<text id="cmd.testCmd.tip" h="D422EA7A">Тестирует рендеринт 3D файлов и сравнивает со справочной информацией.</text>
+		<text id="cmd.toggleCrossSection" h="53B68A7B">Переключить поперечное сечение</text>
+		<text id="cmd.toolbar.hide" h="FE5E382C">Спрятать панель инструментов</text>
+		<text id="cmd.toolbar.hide.tip" h="7734A008">Скрыть 3D панель</text>
+		<text id="cmd.toolbar.show" h="D86490DE">Показать панель инструментов</text>
+		<text id="cmd.toolbar.show.tip" h="DF2DAC82">Показать 3D панель</text>
+		<text id="cmd.tools" h="3D87CAC3">Инструменты</text>
+		<text id="cmd.tree.bboxColor" h="36C9D753">Установить цвет ограничительной рамки</text>
+		<text id="cmd.tree.bboxColor.tip" h="3C62FC40">Установить цвет ограничительной рамки</text>
+		<text id="cmd.tree.fitVisible" h="9F4225F9">По видимому</text>
+		<text id="cmd.tree.fitVisible.tip" h="614956B4">Масштабировать камеру на все видимые части</text>
+		<text id="cmd.tree.hide" h="C4F1F414">Скрыть</text>
+		<text id="cmd.tree.hide.tip" h="8AA8B90C">Скрыть выделенный узел</text>
+		<text id="cmd.tree.isolate" h="9FBD280C">Изолированный</text>
+		<text id="cmd.tree.isolate.tip" h="D5DA7C68">Скрыть все узлы модели за исключением одного</text>
+		<text id="cmd.tree.isolatePart" h="7751F8EC">Изолированная часть</text>
+		<text id="cmd.tree.isolatePart.tip" h="A3D5F690">Скрыть все узлы модели за исключением части, содержащей выделенный узел</text>
+		<text id="cmd.tree.makeTransparent" h="0759BABB">Сделать прозрачным</text>
+		<text id="cmd.tree.modelRenderMode" h="9892CD92">Режим рендеринга модели</text>
+		<text id="cmd.tree.modelRenderMode.tip" h="9F89C88A">Установить режим рендеринга для всей модели</text>
+		<text id="cmd.tree.partRenderMode" h="16069F94">Режим рендеринга части</text>
+		<text id="cmd.tree.partRenderMode.tip" h="821E3259">Установить режим рендеринга для выделенной части</text>
+		<text id="cmd.tree.show" h="C3CA8E89">Показать</text>
+		<text id="cmd.tree.show.tip" h="790D864F">Показать выделенный узел</text>
+		<text id="cmd.tree.showAll" h="24F4F631">Показать все части</text>
+		<text id="cmd.tree.showAll.tip" h="144FE078">Показать все скрытые части</text>
+		<text id="cmd.tree.showBBox" h="8E963AD7">Отобразить ограничительную рамку</text>
+		<text id="cmd.tree.showBBox.tip" h="3B27C053">Показать ограничительную рамку вокруг выбранной части</text>
+		<text id="cmd.tree.zoom2part" h="29498553">Масштабировать к части</text>
+		<text id="cmd.tree.zoom2part.tip" h="AF54E436">Масштабировать камеру на выбранный узел</text>
+		<text id="cmd.viewingOptions" h="B7019F33">Просмотр свойств</text>
+		<text id="cmd.views" h="0F296AD5">Вид:</text>
+		<text id="cmd.walk" h="D60E509F">Обход</text>
+		<text id="cmd.walk.tip" h="944D2308">Обход</text>
+		<text id="cmd.zoom" h="33EE2C56">Масштаб</text>
+		<text id="cmd.zoom.tip" h="71AD5FC1">Масштаб</text>
+		<text id="directx9.str" h="4DB13F37">DirectX 9</text>
+		<text id="dlgcp.fov" h="A7D2D5BD">Угол поля зрения:</text>
+		<text id="dlgcp.g1.title" h="0C13107E">Позиция</text>
+		<text id="dlgcp.g2.title" h="4288E30E">Цель:</text>
+		<text id="dlgcp.g3.title" h="5F78932B">Параметры</text>
+		<text id="dlgcp.posType" h="C8F2B656">Единицы угла</text>
+		<text id="dlgcp.roll" h="1B2556A3">Поворот камеры:</text>
+		<text id="dlgcp.save" h="D64F3B21">Сохранить вид камеры...</text>
+		<text id="dlgcp.target.x" h="93F346A4">Цель X:</text>
+		<text id="dlgcp.target.y" h="2B4F21C1">Цель Y:</text>
+		<text id="dlgcp.target.z" h="39FA8E2F">Цель Z:</text>
+		<text id="gr.inheritProps" h="F5C46974">Наследовать из текущего вида:</text>
+		<text id="ibar.3dContent" h="4EE9C4B1">Информация о 3D контенте</text>
+		<text id="ibar.3dContent.desc" h="B9385C56">Запрашивает разрешение для возможности использования 3D содержимого в документе</text>
+		<text id="ibar.3dContent.text" h="5E8AC651">Возможность просмотра 3D контента отключена. Вы можете ее включить, если доверяете содержимому этого документа.</text>
+		<text id="info.angle" h="376DC953">Угол</text>
+		<text id="info.diameter" h="A99C6701">Диаметр</text>
+		<text id="info.distance" h="94EB4A0D">Дистанция</text>
+		<text id="info.length" h="64B191B5">Длина</text>
+		<text id="info.radius" h="3233DE6A">Радиус</text>
+		<text id="lbl.3DCommentStr" h="AB4D67DE">&amp;3D Комментарий:</text>
+		<text id="lbl.3DMeasureTextSizeStr" h="EF9A15BB">Размер шрифта для измерения:</text>
+		<text id="lbl.AngularShownInStr" h="2877154F">Угловые измерения показаны в:</text>
+		<text id="lbl.AntiAliasing" h="050110D0">Сглаживание</text>
+		<text id="lbl.CircularShownAsStr" h="FFB789B9">Круговые измерения показаны как:</text>
+		<text id="lbl.DigitsStr" h="D0715756">Цифр после запятой:</text>
+		<text id="lbl.HighlightColor" h="5F548840">Цвет подсветки:</text>
+		<text id="lbl.LineColorStr" h="2A4E912F">Цвет линии измерения 3D:</text>
+		<text id="lbl.SnapHintColorStr" h="E14BB320">Цвет точки привязки:</text>
+		<text id="lbl.framerate" h="E28DF43C">Частота кадров (FPS):</text>
+		<text id="lbl.renderingEngine" h="0F210502">Инструмент рендеринга:</text>
+		<text id="lbl.viewName" h="64A879B2">Имя вида:</text>
+		<text id="manageViews" h="8D0BFCAB">Управление видами</text>
+		<text id="manageViews.List.defaultItem" h="F93BCF4A">3D виды</text>
+		<text id="manageViews.newViewName" h="36C63992">Новый вид</text>
+		<text id="op.crossSection.add" h="816A8FBA">Добавить поперечное сечение</text>
+		<text id="op.crossSection.del" h="7359BC97">Удалить поперечное сечение</text>
+		<text id="op.crossSection.edit" h="F1E2B734">Редактировать поперечное сечение</text>
+		<text id="op.measure.add" h="C937F475">Добавить Измерение</text>
+		<text id="op.measure.del" h="98EFA25F">Удалить Измерение</text>
+		<text id="op.measure.edit" h="B0A6FD84">Редактировать Измерение</text>
+		<text id="op.view.add" h="5EA580D2">Добавить вид</text>
+		<text id="op.view.del" h="09EFE6B4">Удалить Вид</text>
+		<text id="opengl.str" h="BBBBF29E">OpenGL</text>
+		<text id="units.centimeters.str" h="63D677E4">сантиметры</text>
+		<text id="units.feet.str" h="F6E973E9">футы</text>
+		<text id="units.inches.str" h="37039ACE">дюймы</text>
+		<text id="units.kilometers.str" h="8D5FC0C4">километры</text>
+		<text id="units.meters.str" h="CBCB1E8C">метры</text>
+		<text id="units.miles.str" h="639E298A">мили</text>
+		<text id="units.millimeters.str" h="EBB2FCDD">миллиметры</text>
+		<text id="units.modelunits.str" h="9DC83793">единицы модели</text>
+		<text id="units.picas.str" h="CFFA0650">пика</text>
+		<text id="units.points.str" h="E64CE9B2">точки</text>
+		<text id="units.yards.str" h="1F5E1723">ярды</text>
+		<text id="view.custom" h="A918FF38">Заказной</text>
+		<text id="view.default" h="B6EF2024">По умолчанию</text>
+		<text id="dlgcs.title" h="083D1133">Параметры поперечного сечения </text>
+		<text id="dlgcs.cb.enable" h="ACCDC008">Включить поперечное сечение</text>
+		<text id="dlgcs.g1" h="0651B15D">Выравнивание</text>
+		<text id="dlgcs.g2" h="977BDC50">Показывать параметры</text>
+		<text id="dlgcs.g3" h="7FF6B930">Позиция и ориентация</text>
+		<text id="dlgcs.r.x" h="0AF7B760">Ось Х</text>
+		<text id="dlgcs.r.y" h="9152FB0F">Ось Y</text>
+		<text id="dlgcs.r.z" h="E6CC29FF">Ось Z</text>
+		<text id="dlgcs.b.alignToFace" h="F63844BE">По грани</text>
+		<text id="dlgcs.b.alignToPoints" h="294EAE5A">По 3-х точках</text>
+		<text id="dlgcs.cb.showInt" h="07E37FF4">Показывать линии сечения</text>
+		<text id="dlgcs.cb.showPlane" h="E34207AF">Показывать плоскости сечения</text>
+		<text id="dlgcs.cb.ignoreSel" h="87E49B7A">Игнорировать выбранные части</text>
+		<text id="dlgcs.cb.addCaps" h="A56D4C7B">Добавить поверхность пересечения</text>
+		<text id="dlgcs.cb.showTransp" h="FDF85C69">Показывать прозрачность</text>
+		<text id="dlgcs.l.opacity" h="0D011B7E">Непрозрачность плоскости сечения</text>
+		<text id="dlgcs.b.alignCamera" h="DCD9B156">Выровнять камеру по сечению</text>
+		<text id="dlgcs.l.offset" h="0CF8F296">Смещение:</text>
+		<text id="dlgcs.l.tilt1" h="565BCADE">Угол наклона 1:</text>
+		<text id="dlgcs.l.tilt2" h="44EE6530">Угол наклона 2:</text>
+		<text id="dlgcs.cb.flip" h="4565ED97">С обратной</text>
+		<text id="dlgcs.b.save" h="B60C5C7A">Сохранить вид сечения</text>
+	</Strings>
+</Localization>

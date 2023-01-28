@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20200722155013">2.00.00</Version>
+	<Author>Pari D.; Facta D. ; Andrea R.</Author>
+	<Copyright>Basata su traduzione parziale precedente,
+completato ed aggiornato da Facta D.
+per versione 7.0 build 326.1</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Italian (Italy)" lName="Italiano" code="it-IT" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="8.0.340.0"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">Apri File da Google Drive</text>
+		<text id="DlgSaveFile" h="81F99046">Salva FIle in Google Drive</text>
+		<text id="GDPlugin" h="32B7E3E0">Plugin Google Drive</text>
+		<text id="addFolder.message" h="940CF2FA">Inserisci il nome della nuova cartella</text>
+		<text id="addFolder.title" h="42CD8D51">Crea Cartella</text>
+		<text id="addFolderError.message" h="A6367553">Impossibile creare la cartella su Google Drive. Controlla la tua connessione a Internet e i diritti per accedere a Google Drive.</text>
+		<text id="addFolderError.title" h="DDB9C8A8">Impossibile creare la cartella</text>
+		<text id="btn.addFolder.text" h="69FFFB47">&amp;Crea cartella</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Nuovo accesso...</text>
+		<text id="btn.delete.text" h="ED580C1E">&amp;Cancella</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">&amp;Su</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google Drive</text>
+		<text id="cmd.googledrive" h="1D28DF85">&amp;Google Drive</text>
+		<text id="cmd.open" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.open.tip" h="933837A2">Apre un documento da Google Drive.</text>
+		<text id="cmd.save" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.save.tip" h="948C3269">Salva il documento attivo in Google Drive.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">File non trovato.</text>
+		<text id="cpt.invalidFileName" h="79C1387C">Nome File non valido</text>
+		<text id="cpt.navigateError" h="3D300A1C">Errore di navigazione</text>
+		<text id="cpt.saveReplace" h="520CB069">Salva FIle</text>
+		<text id="cpt.selectFile" h="C55D68B0">FIle in corso di selezione</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Impossibile salvare il file nella cartella</text>
+		<text id="delete.message" h="16714AA7">"Vuoi eliminare%1"%2 "?"</text>
+		<text id="delete.title" h="FC00502F">"Cancella elemento(i)"</text>
+		<text id="deleteError.message" h="109E94B7">Impossibile eliminare%1 "%2" da Google Drive. %3</text>
+		<text id="deleteError.reason" h="81A03554">Controlla la tua connessione a Internet e i diritti per accedere a Google Drive.</text>
+		<text id="deleteError.title" h="002A7E1A">Impossibile eliminare l'elemento</text>
+		<text id="deleteError.unknownItem.message" h="B0869235">Impossibile eliminare l'elemento dai Google Drive. %1</text>
+		<text id="deleteMulti.message" h="7340678F">"Vuoi eliminae gli elementi %1 dalla catella  "%2" di Google Drive?"</text>
+		<text id="deleteMulti.progress" h="7A18F8DD">"Cancella elemento #%1 di %2"</text>
+		<text id="deleteMulti.progress.title" h="3AED7560">"Cancella elementi da Google Drive"</text>
+		<text id="deleteSingle.progress" h="B781BCCF">"Cancella %1 "%2""</text>
+		<text id="deleteSingle.progress.title" h="E1F369F2">"Cancella elemento da Google Drive"</text>
+		<text id="dlg.googleAuth" h="E5642F22">Accesso a Google Drive</text>
+		<text id="file" h="AFFADF08">file</text>
+		<text id="fileName" h="DEC92488">Nome File:</text>
+		<text id="folder" h="1DAC8D17">cartella</text>
+		<text id="lb.CurrentFolder" h="44158804">Cartella corrente:</text>
+		<text id="lb.Test" h="273F3E5B">Prova Prova Prova!</text>
+		<text id="lb.googleAccName" h="C94645A3">Account Google:</text>
+		<text id="ls.column.created" h="FE6510B7">Data di creazione</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Data e ora di creazione del file</text>
+		<text id="ls.column.extension" h="14FEB836">Estensione</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Estensione del file</text>
+		<text id="ls.column.modified" h="7E234D6D">Data di ultima modifica</text>
+		<text id="ls.column.modified.hint" h="12933E76">Data e ora di ultima modifica del file</text>
+		<text id="ls.column.size" h="17A58A52">Dimensione</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Dimensione del file</text>
+		<text id="ls.column.title" h="D18643E3">Nome</text>
+		<text id="ls.column.title.hint" h="6A895576">Nome del file, cartella o elenco.</text>
+		<text id="msg.fileNotFound" h="430E08B1">Impossibile trovare il file "%1" nella cartella corrente.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" non è un nome di file valido.</text>
+		<text id="msg.navigateError" h="2FCAA72A">Impossibile accedere a Google Drive. Verificare la connessione internet ed i diritti di accesso al documento Google Drive richiesto.</text>
+		<text id="msg.openFailed" h="AC94D960">Impossibile aprire il file. Verificare che esista, che non sia in uso da un altro utente e di disporre dei permessi di lettura.</text>
+		<text id="msg.saveFailed" h="4D413392">Impossibile salvare il file. Verificare che il nome file sia valido e di disporre dei permessi di scrittura.</text>
+		<text id="msg.saveReplace" h="5D56833E">Il file %1 esiste già. Desideri sovrascriverlo?</text>
+		<text id="msg.selectFile" h="2530C20F">Selezionare un file prima di premere OK</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Il file non può essere salvato nella posizione selezionata. Selezionare la Cartella 'Il mio Drive', una delle sue sottocartelle oppure una delle cartelle 'Condiviso con me' per salvare il file.</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">Il mio Drive</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Condiviso con me</text>
+		<text id="unableUploadFile" h="4B0B6791">Impossibile caricare il file.</text>
+	</Strings>
+</Localization>

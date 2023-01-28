@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20220819211843">2.00.00</Version>
+	<Author>Andrius Balsevičius (andrius@geocad.lt)</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Lithuanian (Lithuania)" lName="lietuvių" code="lt-LT" R2L="false"/>
+	<Module name="PDFConverter" namespace="pdfconv" version="9.4.363.0"/>
+	<Strings>
+		<text id="AddLang" h="CE4DDC96">Pridėti kalbą...</text>
+		<text id="DT" h="99A777DC">Skaitiniai nustatymai:</text>
+		<text id="Decimal" h="97B538F3">Dešimtainis simbolis:</text>
+		<text id="DetectTable" h="8EFAF45F">Lentelių aptikimas </text>
+		<text id="Fonts" h="09BC9E47">Šriftai:</text>
+		<text id="HasOCR" h="96B8D96E">Šiai kalbai yra OCR moduliai.</text>
+		<text id="Language" h="E5AFBDFE">Kalba:</text>
+		<text id="LayoutSettings" h="0EB6BCF7">Išdėstymo parinktys</text>
+		<text id="NoPermission" h="F6BEA48A">Dokumentas yra apsaugotas. Neturite pakankamai teisių konvertuoti.</text>
+		<text id="PageLayout" h="2E7FA6E9">Išlaikyti išdėstymą</text>
+		<text id="Sheets" h="0E4A84A5">Sukurti darbalapį</text>
+		<text id="TextFlow" h="D5276DB5">Neskaidyti teksto</text>
+		<text id="cmd.name.P" h="FE79EAE9">Eksportuoti į Microsoft PowerPoint pateiktį...</text>
+		<text id="cmd.name.Sel.P" h="10B9EA70">Eksportuoti pasirinkimą į Microsoft PowerPoint pateiktį...</text>
+		<text id="cmd.name.Sel.W" h="F60B7012">Eksportuoti pasirinkimą į Microsoft Word dokumentą...</text>
+		<text id="cmd.name.Sel.X" h="53447190">Eksportuoti pasirinkimą į Microsoft Excel...</text>
+		<text id="cmd.name.W" h="36A68CE1">Eksportuoti į Microsoft Word dokumentą...</text>
+		<text id="cmd.name.X" h="5F515377">Eksportuoti į Microsoft Excel...</text>
+		<text id="cmd.nameShort.P" h="C4DB7FDB">Į MS-PowerPoint...</text>
+		<text id="cmd.nameShort.W" h="23467A9D">Į MS-Word...</text>
+		<text id="cmd.nameShort.X" h="4FDED68C">Į MS-Excel...</text>
+		<text id="cmd.nameTip.P" h="5DF5F44C">Eksportuoti aktyvų dokumentą į Microsoft PowerPoint pateiktį...</text>
+		<text id="cmd.nameTip.Sel.P" h="547499FA">Eksportuoti dabartinį pasirinkimą į Microsoft PowerPoint pateiktį...</text>
+		<text id="cmd.nameTip.Sel.W" h="9526C3A8">Eksportuoti dabartinį pasirinkimą į Microsoft Word dokumentą...</text>
+		<text id="cmd.nameTip.Sel.X" h="9DBFD9AB">Eksportuoti dabartinį pasirinkimą į Microsoft Excel...</text>
+		<text id="cmd.nameTip.W" h="08C70E7C">Eksportuoti aktyvų dokumentą į Microsoft Word dokumentą...</text>
+		<text id="cmd.nameTip.X" h="71C65F22">Eksportuoti aktyvų dokumentą į Microsoft Excel...</text>
+		<text id="convertation" h="B1E1828B">PDF dokumento konvertavimas</text>
+		<text id="convertation.DecimalError" h="AB9CA906">Neteisingas dešimtainis simbolis</text>
+		<text id="convertation.DecimalThousandsError" h="9002FE5E">Dešimtainis simbolis ir tūkstančių skyriklis turi skirtis</text>
+		<text id="convertation.Error1" h="388D83B4">Konvertuojant dokumentą įvyko kritinė klaida:</text>
+		<text id="convertation.Error2" h="A394ADBC">Gauto failo išsaugoti negalima.</text>
+		<text id="convertation.ProWarning" h="64B1DA0A">Galite naudoti šią funkciją, tačiau tai bus naudojama bandymo režimu, o visuose išvesties failo puslapiuose bus dedami &lt;b&gt;DEMO&lt;/b&gt; antspaudai. Be to, išvesties failas bus apsaugotas nuo redagavimo slaptažodžiu. Norėdami viso to išvengti – &lt;a=1=""&gt;pateikite naują galiojantį raktą&lt;/a&gt;. Norėdami gauti daugiau informacijos, žr. &lt;a=3=""&gt;pagalbą&lt;/a&gt; arba apsilankykite mūsų &lt;a=2=""&gt;svetainėje&lt;/a&gt;.
+
+Ar tikrai norite tęsti ir naudoti šią funkciją?</text>
+		<text id="convertation.ThousandsError" h="1660BD37">Netinkamas tūkstančių skyriklis</text>
+		<text id="dpi" h="B39AC2C1">dpi</text>
+		<text id="elseUseRegional" h="8F1D3748">* Kitu atveju naudoti regionines nuostatas</text>
+		<text id="excel.filter" h="D766664D">MS Excel</text>
+		<text id="getOCRLang" h="4275388E">Kai kuriuos probleminius simbolius dokumento tekste reikia atpažinti optiškai. Norėdami tinkamai atpažinti, nurodykite teksto kalbą:</text>
+		<text id="newRowRul" h="4CD45F3D">Lape kiekvienam naudoti naują eilutę:</text>
+		<text id="options" h="DAD7B4F4">Parinktys</text>
+		<text id="options.IBOcrFontsGliphs" h="BB134F07">Kai kuriuose PDF dokumentuose yra šriftų su negaliojančia simbolių kodavimo sistema. Konvertuojant šiuos dokumentus į MS Office formatus, juose gali būti iškraipytas tekstas, nes tokių šriftų gali būti neįmanoma tiesiogiai įterpti į išvesties failus. Jei susiduriate su šia problema, galite įjungti šią parinktį, kad simbolių optiniam atpažinimui būtų naudojamas OCR variklis, kuris turėtų padėti išvesties failuose pateikti teisingą tekstą.
+
+
+
+Pastaba: nenaudokite šios parinkties tais atvejais, kai su tekstu išvesties failuose problemų nekyla.</text>
+		<text id="options.compress.0" h="378201C4">PNG</text>
+		<text id="options.compress.1" h="25090095">JPG</text>
+		<text id="options.dpilevel" h="4D4FE579">%1 dpi</text>
+		<text id="options.fontsembedmode.0" h="4FD6EAB9">Įdėti tik šriftus, įdėtus į PDF dokumentą</text>
+		<text id="options.fontsembedmode.1" h="485361C4">Be įdėjimo</text>
+		<text id="options.newRow.0" h="9CF38C36">Pastraipa</text>
+		<text id="options.newRow.1" h="6D45691D">Linija</text>
+		<text id="options.newSheet.0" h="42E9E100">kiekvienam puslapiui</text>
+		<text id="options.newSheet.1" h="FB4125FF">vienas dokumentui</text>
+		<text id="options.quality.0" h="8415F85F">Minimumas</text>
+		<text id="options.quality.1" h="845E3D8C">Žemas</text>
+		<text id="options.quality.2" h="91153342">Vidutinis</text>
+		<text id="options.quality.3" h="21A95620">Aukštas</text>
+		<text id="options.quality.4" h="A8A97F0E">Maksimumas</text>
+		<text id="options.textmode.0" h="77B1E837">Išsaugoti tekstą kaip redaguojamą</text>
+		<text id="options.textmode.1" h="8419D7CE">Konvertuoti į kreives</text>
+		<text id="options.textmode.2" h="60E91945">Konvertuoti į paveikslėlius</text>
+		<text id="optionsCBAllowCurves" h="976099D8">Leisti tekstą, kuriame naudojami probleminiai šriftai, konvertuoti į kreives</text>
+		<text id="optionsCBAllowSubstitution" h="169F5988">Leisti pakeisti šriftus, kurių negalima įdėti</text>
+		<text id="optionsCBEmbedFont" h="3E50224C">Įdėti visus šriftus</text>
+		<text id="optionsCBIncludeComments" h="B08E5CA8">Įtraukti komentarus</text>
+		<text id="optionsCBIncludeImages" h="969B2F6C">Įtraukti paveikslėlius</text>
+		<text id="optionsCBIncludeLinks" h="F5F4CED4">Įtraukti nuorodas</text>
+		<text id="optionsCBOcrFontsGliphs" h="6DCBFDE4">Naudoti OCR ištaisyti iškraipytam tekstui.</text>
+		<text id="optionsCBPageToImage" h="0707FDB4">Konvertuoti visą puslapio turinį į paveikslėlį</text>
+		<text id="optionsCBShowInvisibleText" h="68D10624">Išvesties dokumente nematomą tekstą padaryti matomu</text>
+		<text id="optionsGBCommonOpt" h="5B3B421B">Bendrieji nustatymai</text>
+		<text id="optionsGBTextOpt" h="D7BD8320">Teksto konvertavimo parinktys</text>
+		<text id="optionsIBTextRaster" h="699A1B72">Tekstas bus rasterizuotas, jei jo nepavyks konvertuoti pagal anksčiau pateiktas parinktis.</text>
+		<text id="optionsLBCompres" h="990F2529">Suspaudimas:</text>
+		<text id="optionsLBIssuesFont" h="BB2E863E">Jei kyla šriftų suderinamumo/perkeliamumo problemų:</text>
+		<text id="optionsLBMode" h="274455FC">Režimas:</text>
+		<text id="optionsLBQuality" h="E3A77A93">Kokybė:</text>
+		<text id="optionsLBTextRaster" h="32A3B18F">Teksto rasterizavimo kokybė:</text>
+		<text id="optionsLBToImgParam" h="4ED54AB4">Teksto konvertavimo į paveikslėlį nustatymai:</text>
+		<text id="optionsLBdpiComm" h="0FE84938">Rezoliucija:</text>
+		<text id="optionsLBdpiCompression" h="4CA3E32A">Galite koreguoti nekonvertuojamo turinio elementų (pvz., sudėtingų gradientų) arba viso puslapio rasterizavimo kokybę, kai įgalinta aukščiau pateikta parinktis:</text>
+		<text id="optionsLBlastHope" h="F73DC603">PASTABA: jei nepavyksta paversti teksto į kreives, tekstas bus konvertuojamas į paveikslėlius.</text>
+		<text id="powerpoint.filter" h="9FB63544">MS PowerPoint pateiktis</text>
+		<text id="regionalDT" h="FB22F59E">Aptikti dešimtainių ir tūkstančių skyriklius naudojant regioninius nuostatas</text>
+		<text id="thousands" h="256655C5">Tūkstančių skyriklis:</text>
+		<text id="userDefinedDT" h="7EA9F301">Laikyti toliau nurodytus dešimtainių ir tūkstančių skyrikliais:</text>
+		<text id="word.filter" h="6BB79C71">MS Word dokumentas</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20220819211843">2.00.00</Version>
+	<Author>John Fowler</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Hungarian (Hungary)" lName="magyar" code="hu-HU" R2L="false"/>
+	<Module name="Dropbox" namespace="db" version="9.4.363.0"/>
+	<Strings>
+		<text id="btn.cancel" h="3D302A38">&amp;Mégsem</text>
+		<text id="btn.chooseUser" h="4E5DDBFB">&amp;Felhasználó</text>
+		<text id="btn.ok" h="FEF0C771">&amp;OK</text>
+		<text id="btn.open" h="B1A510F0">M&amp;egnyitás</text>
+		<text id="btn.save" h="F363C410">&amp;Mentés</text>
+		<text id="btn.saveReplace" h="11BF9724">Mentés és &amp;lecserélés</text>
+		<text id="btn.settings" h="563BF6B7">&amp;Lehetőségek...</text>
+		<text id="cmd.cmdsCategory" h="22B8ECE9">Dropbox</text>
+		<text id="cmd.open" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.open.tip" h="683AE278">Dokumentum Megnyitása Dropboxból.</text>
+		<text id="cmd.save" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.save.tip" h="B5D0B78F">Aktív dokumentum mentése a Dropboxba.</text>
+		<text id="cmd.dropbox" h="6616FE70">&amp;Dropbox</text>
+		<text id="dlg.authenticate" h="E6E77652">Hitelesítés</text>
+		<text id="dlg.openFile" h="435887CD">Fájl megnyitása</text>
+		<text id="dlg.saveFile" h="520CB069">Fájl mentése</text>
+		<text id="lb.itemsInFolder" h="8F56A98C">%d elem</text>
+		<text id="lb.name" h="F7B9E475">Fájlnév:</text>
+		<text id="ls.column.created" h="9E0B497D">Létrehozás dátuma</text>
+		<text id="ls.column.created.hint" h="291F5AEC">A fájl, a mappa vagy lista létrehozásának dátuma és időpontja.</text>
+		<text id="ls.column.extension" h="14FEB836">Kiterjesztés</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Fájl kiterjesztése</text>
+		<text id="ls.column.modified" h="691C3610">Módosítás dátuma</text>
+		<text id="ls.column.modified.hint" h="2C2CF8F2">A fájl, a mappa vagy lista utolsó módosításának dátuma és időpontja.</text>
+		<text id="ls.column.size" h="17A58A52">Méret</text>
+		<text id="ls.column.size.hint" h="E79CA174">Fájlméret</text>
+		<text id="ls.column.title" h="D18643E3">Név</text>
+		<text id="ls.column.title.hint" h="D883F263">Fájl/Mappa neve</text>
+		<text id="msg.connectError" h="A594B0D5">Nem sikerült csatlakozni a Dropboxhoz. Kérjük, ellenőrizze az internetkapcsolatot és aa meghatározott anyaghoz való hozzáférési jogokat.</text>
+		<text id="msg.fileNotFound" h="381368F8">A&lt;b&gt;%1&lt;/b&gt; nem található az aktuális mappában.</text>
+		<text id="msg.invalidFileName" h="859254AD">&lt;b&gt;%1&lt;/b&gt; helytelen fájlnév a &lt;b&gt;&lt; &gt; " /  | ? *&lt;/b&gt; szimbólumok nem megengedettek).</text>
+		<text id="msg.navigateError" h="8BCFBD0F">Ellenőrizze az internetkapcsolatot, győződjön meg arról, hogy a helyes cím meg van adva, és hogy rendelkezik a szükséges jogokkal a megadott Dropbox elem eléréséhez.</text>
+		<text id="msg.openFailed" h="794811DE">Nem sikerült megnyitni a fájlt. Győződjön meg arról, hogy a fájl létezik, és hogy az olvasási hozzáférést megadták.</text>
+		<text id="msg.saveFailed" h="36780EC6">Nem sikerült menteni a fájlt. Győződjön meg arról, hogy a fájlnév érvényes, az írási hozzáférés meg lett adva, és hogy a DropBoxon elegendő területtel rendelkezik.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Az &lt;b&gt;%1&lt;/b&gt; fájl már létezik. Lecseréli?</text>
+		<text id="msg.wrongUser" h="27773B86">A fájl/mappa nem nyitható meg, mivel egy másik felhasználó Dropbox fiókjához tartozik. Szeretne más felhasználót kiválasztani?</text>
+		<text id="str.fileSystemName" h="22B8ECE9">Dropbox</text>
+		<text id="addFolder.error.message" h="26E3D84F">Nem sikerült mappát létrehozni a &lt;b&gt;%1&lt;/b&gt; a Dropbox eszközön.</text>
+		<text id="addFolder.question.button.create" h="5AFC56A9">Mappa létrehozása</text>
+		<text id="addFolder.question.edit.title" h="AD9C0CB3">Adja meg az új mappa nevét:</text>
+		<text id="addFolder.question.error.alreadyExists" h="C0A47FF7">Az aktuális mappa már tartalmaz a &lt;b&gt;%1&lt;/b&gt; elemet.</text>
+		<text id="addFolder.question.error.emptyFolderName" h="BB6566D6">A mappanév nem lehet üres.</text>
+		<text id="addFolder.question.error.invalidFolderName" h="0A24FCDF">&lt;b&gt;%1&lt;/b&gt; helytelen mappa név a &lt;b&gt;&lt; &gt; " /  | ? *&lt;/b&gt; szimbólumok nem megengedettek).</text>
+		<text id="addFolder.progress.text" h="8C5EF68A">&lt;b&gt;%1&lt;/b&gt; Mappa létrehozása...</text>
+		<text id="addFolder.progress.title" h="595759D0">Mappa létrehozása a Dropboxon</text>
+		<text id="btn.addFolder.text" h="69FFFB47">Mappa &amp;létrehozása</text>
+		<text id="btn.delete.text" h="ED580C1E">&amp;Törlés</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">&amp;Fel</text>
+		<text id="delete.error.file" h="5F9FEEF5">Nem sikerült törölni a fájlt a &lt;b&gt;%1&lt;/b&gt; a Dropbox-ból.</text>
+		<text id="delete.error.folder" h="5F9FEEF5">Nem sikerült törölni a fájlt a &lt;b&gt;%1&lt;/b&gt; a Dropbox-ból.</text>
+		<text id="delete.error.unknown" h="73BC7295">Nem sikerült törölni a kiválasztott elemet a Dropboxból.</text>
+		<text id="delete.progress.status" h="F729DF24">%1 Összesen %2</text>
+		<text id="delete.progress.text.file" h="EFCE4189">&lt;b&gt;%1&lt;/b&gt; fájl törlése ...</text>
+		<text id="delete.progress.text.folder" h="2E89372D">&lt;b&gt;%1&lt;/b&gt; mappa törlése ...</text>
+		<text id="delete.progress.text.unknown" h="367B0EA7">&lt;b&gt;%1&lt;/b&gt; törlése ...</text>
+		<text id="delete.progress.title" h="9D1FD2AA">Törlés a Dropboxból</text>
+		<text id="delete.question.file" h="F3B2380C">Törli a(z) &lt;b&gt;%1&lt;/b&gt; fájlt?</text>
+		<text id="delete.question.folder" h="DA195BFA">Törli a(z) &lt;b&gt;%1&lt;/b&gt; mappát és annak teljes tartalmát?</text>
+		<text id="delete.question.multi" h="ACA0CEC0">Törli a %1 elemet?</text>
+		<text id="delete.question.unknown" h="8C13886E">Törli a kijelölt elemet?</text>
+	</Strings>
+</Localization>

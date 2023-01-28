@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20191210181448">2.00.00</Version>
+	<Author>Muhammad Alkhateeb</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Arabic (Saudi Arabia)" lName="العربية" code="ar-SA" R2L="true"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="8.0.335.0"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">افتح ملف Google Drive</text>
+		<text id="DlgSaveFile" h="81F99046">حفظ الملف على Google Drive</text>
+		<text id="GDPlugin" h="32B7E3E0">ملحق لـ Google Drive</text>
+		<text id="addFolder.message" h="940CF2FA">أدخل اسم المجلد</text>
+		<text id="addFolder.title" h="42CD8D51">إنشاء مجلد</text>
+		<text id="addFolderError.message" h="A6367553">خطأ في إنشاء مجلد على Google Drive. يرجى التحقق من اتصالك بالإنترنت وحقوق الوصول الخاصة بك على Google Drive.</text>
+		<text id="addFolderError.title" h="DDB9C8A8">تعذر إنشاء المجلد</text>
+		<text id="btn.addFolder.text" h="69FFFB47">&amp;إنشاء مجلد</text>
+		<text id="btn.connectToAnother" h="508BDBC5">حساب جديد...</text>
+		<text id="btn.delete.text" h="ED580C1E">&amp;حذف</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">&amp;On</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google Drive</text>
+		<text id="cmd.googledrive" h="1D28DF85">&amp;Google Drive</text>
+		<text id="cmd.open" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.open.tip" h="933837A2">افتح مستند Google Drive</text>
+		<text id="cmd.save" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.save.tip" h="948C3269">احفظ المستند النشط على Google Drive.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">لم يتم العثور على الملف</text>
+		<text id="cpt.invalidFileName" h="79C1387C">&quot;اسم ملف غير صالح</text>
+		<text id="cpt.navigateError" h="3D300A1C">خطأ في التنقل</text>
+		<text id="cpt.saveReplace" h="520CB069">حفظ الملف</text>
+		<text id="cpt.selectFile" h="C55D68B0">حدد الملف</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">تعذر حفظ الملف في المجلد المحدد</text>
+		<text id="delete.message" h="16714AA7">Wollen Sie %1 &quot;%2&quot; wirklich löschen?</text>
+		<text id="delete.title" h="FC00502F">حذف العنصر (العناصر)</text>
+		<text id="deleteError.message" h="109E94B7">%1 &quot;%2&quot; konnte auf Google Drive nicht gelöscht werden. %3</text>
+		<text id="deleteError.reason" h="81A03554">يرجى التحقق من اتصالك بالإنترنت وحقوق الوصول الخاصة بك على Google Drive.</text>
+		<text id="deleteError.title" h="002A7E1A">تعذر حذف العنصر</text>
+		<text id="deleteError.unknownItem.message" h="B0869235">تعذر حذف العنصر على Google Drive. %1</text>
+		<text id="deleteMulti.message" h="7340678F">Wollen Sie %1 Elemente aus dem Ordner &quot;%2&quot; auf Google Drive löschen?</text>
+		<text id="deleteMulti.progress" h="7A18F8DD">Lösche Element %1 von %2</text>
+		<text id="deleteMulti.progress.title" h="3AED7560">حذف العناصر الموجودة على Google Drive</text>
+		<text id="deleteSingle.progress" h="B781BCCF">Lösche %1 &quot;%2&quot;</text>
+		<text id="deleteSingle.progress.title" h="E1F369F2">حذف العنصر على Google Drive</text>
+		<text id="dlg.googleAuth" h="E5642F22">محرك جوجل : التسجيل</text>
+		<text id="file" h="AFFADF08">ملف</text>
+		<text id="fileName" h="DEC92488">اسم الملف:</text>
+		<text id="folder" h="1DAC8D17">مجلد</text>
+		<text id="lb.CurrentFolder" h="44158804">المجلد الحالي :</text>
+		<text id="lb.Test" h="273F3E5B">اختبار اختبار الاختبار!</text>
+		<text id="lb.googleAccName" h="C94645A3">حساب جوجل :</text>
+		<text id="ls.column.created" h="FE6510B7">تاريخ الإنشاء</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">تاريخ ووقت إنشاء الملف أو المجلد أو القائمة</text>
+		<text id="ls.column.extension" h="14FEB836">تمديد</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">امتداد الملف</text>
+		<text id="ls.column.modified" h="7E234D6D">تاريخ التغيير</text>
+		<text id="ls.column.modified.hint" h="12933E76">التاريخ والوقت الذي تم فيه تغيير الملف أو المجلد أو القائمة آخر مرة</text>
+		<text id="ls.column.size" h="17A58A52">الحجم</text>
+		<text id="ls.column.size.hint" h="9C4BD847">حجم الملف</text>
+		<text id="ls.column.title" h="D18643E3">الاسم</text>
+		<text id="ls.column.title.hint" h="6A895576">ملف أو مجلد أو اسم قائمة</text>
+		<text id="msg.fileNotFound" h="430E08B1">Die Datei &quot;%1&quot; konnte im aktuellen Ordner nicht gefunden werden.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">&quot;%1&quot; ist kein gültiger Dateiname.</text>
+		<text id="msg.navigateError" h="2FCAA72A">تعذر فتح Google Drive. يرجى التحقق من اتصال الإنترنت الخاص بك وإذن للوصول إلى Google Drive.</text>
+		<text id="msg.openFailed" h="AC94D960">تعذر فتح الملف. تأكد من وجود الملف ، ولا يستخدمه مستخدم آخر ، وقد قرأت الوصول إلى الملف.</text>
+		<text id="msg.saveFailed" h="4D413392">تعذر حفظ الملف. تأكد من صحة اسم الملف ولديك حق الوصول إلى الملف.</text>
+		<text id="msg.saveReplace" h="5D56833E">Die Datei %1 existiert bereits. هل تريد استبدالها؟</text>
+		<text id="msg.selectFile" h="2530C20F">يرجى تحديد ملف قبل النقر فوق موافق</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">تعذر حفظ الملف في الموقع المحدد. يرجى تحديد مجلد &quot;محرك الأقراص الخاص بي&quot; أو أحد مجلداته الفرعية أو مجلد فرعي &quot;مشترك معي&quot; لحفظ الملف.</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">قيادتي</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">مشترك معي</text>
+		<text id="unableUploadFile" h="4B0B6791">تعذر تحميل الملف.</text>
+	</Strings>
+</Localization>

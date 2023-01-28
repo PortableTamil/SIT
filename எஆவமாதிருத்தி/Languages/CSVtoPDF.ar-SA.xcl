@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20190320002433">2.00.00</Version>
+	<Author>Muhammad Alkhateeb</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Arabic (Saudi Arabia)" lName="العربية" code="ar-SA" R2L="true"/>
+	<Module name="CSVToPDFPlugin" namespace="csv" version="8.0.329.0"/>
+	<Strings>
+		<text id="DlgCSVToPDF" h="159649A7">CSV إلى PDF</text>
+		<text id="converter.desc" h="967CBC0E">يحول ملفات CSV إلى جداول في مستند PDF</text>
+		<text id="autoInfo" h="27598254">يرجى إلغاء تنشيط التحديد التلقائي لعرض العمود لتحديد القيم.</text>
+		<text id="ctp.chb.autoDelimiter" h="BFABCE78">تحديد الفاصل بناءً على المحتوى</text>
+		<text id="ctp.chb.boldHeaders" h="AB4D23E9">قم بتنسيق رأس الجدول بخط غامق</text>
+		<text id="ctp.chb.calcWidth" h="C8B58489">تحديد عرض العمود بناءً على البيانات</text>
+		<text id="ctp.chb.drawBorder" h="1C2186D3">ارسم إطارات حول الطاولة</text>
+		<text id="ctp.chb.headersOnEachPage" h="9413CFF2">أدخل رأس الجدول في كل صفحة</text>
+		<text id="ctp.chb.showDialogOnOpen" h="D10EC9DE">إظهار مربع الحوار هذا عند فتح ملف CSV</text>
+		<text id="ctp.g.Margins" h="62C950A2">إطار</text>
+		<text id="ctp.g.delimiterAndQuotes" h="A6EFA0C6">علامات الفصل والاقتباس</text>
+		<text id="ctp.g.pageSettings" h="D82087B4">إعدادات الصفحة</text>
+		<text id="ctp.g.style" h="C091D68E">شكل</text>
+		<text id="ctp.l.borderWidth" h="457515E3">عرض الإطار :</text>
+		<text id="ctp.l.bottom" h="C711C97A">أدناه:</text>
+		<text id="ctp.l.delimiter" h="3480C690">فاصل:</text>
+		<text id="ctp.l.left" h="FC2BB3FB">اليسار:</text>
+		<text id="ctp.l.quotes" h="F5FEAC85">علامة نصية:</text>
+		<text id="ctp.l.right" h="FD30D9F1">حق:</text>
+		<text id="ctp.l.top" h="99A7C1A9">في الاعلى:</text>
+		<text id="ctp.lst.calcWidth.header" h="608B00E9">رئيس</text>
+		<text id="ctp.lst.calcWidth.width" h="DADE8BD3">Breite (%1)</text>
+		<text id="ctp.previewCtl.noDocTip" h="55E892D4">تحميل المستند...</text>
+		<text id="message.marginsWarning" h="4388F5CE">الإطارات كبيرة جدًا</text>
+		<text id="message.warning" h="E7AD7A2B">تحذير</text>
+		<text id="newDocFromCSV" h="494D0787">من ملف CSV</text>
+		<text id="prop.source" h="A2415BEA">ملفات CSV</text>
+	</Strings>
+</Localization>

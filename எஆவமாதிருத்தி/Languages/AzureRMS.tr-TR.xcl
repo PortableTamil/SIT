@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20220414000750">2.00.00</Version>
+	<Author>Osman ÖZ</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Turkish (Turkey)" lName="Türkçe" code="tr-TR" R2L="false"/>
+	<Module name="AzureRMS" namespace="msrms" version="9.3.361.0"/>
+	<Strings>
+		<text id="UserIdentity.title" h="176AEDC1">Microsoft Azure Bilgi Koruması</text>
+		<text id="btn.next" h="3A4ABB6E">&amp;Sonraki...</text>
+		<text id="cmd.protect" h="228A9168">Koruma</text>
+		<text id="cmd.protect.tip" h="176AEDC1">Microsoft Azure Bilgi Koruması</text>
+		<text id="rbar.protect.title" h="43C83177">MS RMS</text>
+		<text id="secure.handler.name" h="176AEDC1">Microsoft Azure Bilgi Koruması</text>
+		<text id="uid.email.cue" h="2334460A">E-posta adresiniz</text>
+		<text id="uid.label1" h="8E83CAEB">Bu dosya Microsoft Azure Bilgi Koruması tarafından korunmaktadır.</text>
+		<text id="uid.pick" h="DCF6A308">Lütfen hesap seçin.</text>
+		<text id="uid.email" h="5B5BF151">Lütfen e-postanızı girin.</text>
+		<text id="uid.label2" h="A1DC8236">* Bir sonraki adımda sizden Microsoft Kimlik Doğrulaması istenecektir.
+Hesap daha önce doğrulanmışsa bir sonraki adım atlanabilir.</text>
+		<text id="uid.remember" h="A77974A7">Hesabımı &amp;hatırla</text>
+		<text id="uid.add" h="D5E24D76">Başka bir hesap kullan</text>
+		<text id="ibar.label.classified" h="9B716F59">Bu belge, Microsoft Bilgi Koruma tarafından şu etiket ile sınıflandırılmıştır:</text>
+		<text id="ibar.label.protected" h="8CBF20A7">Bu belge, Microsoft Bilgi Koruması tarafından şu etiket ile korunmaktadır:</text>
+		<text id="info.protected" h="A49B0FCD">Bu belge, Microsoft Bilgi Koruması tarafından korunmaktadır.</text>
+		<text id="info.protectedWithLabel" h="8A425C7C">Bu belge, Microsoft Bilgi Koruması tarafından korunmaktadır.
+
+Uygulanan etiket:</text>
+	</Strings>
+</Localization>

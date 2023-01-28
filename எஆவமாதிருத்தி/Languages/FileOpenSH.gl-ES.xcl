@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20190812212412">2.00.00</Version>
+	<Author>Alfonso Seoage, David Rebolo</Author>
+	<Copyright>Alfonso Seoage © 
+jassgali@hotmail.com
+
+David Rebolo Magariños
+davidrebolomagarinnos@gmail.com</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Galician (Galician)" lName="Galego" code="gl-ES" R2L="false"/>
+	<Module name="FileOpenSH" namespace="fopw" version="8.0.332.0"/>
+	<Strings>
+		<text id="secure.printer.title" h="448D1D7F">Impresora non permitida.</text>
+		<text id="secure.printer.text" h="7488F002">Non se permite utilizar esta impresora para unha impresión segura. Comece de novo e elixa outra impresora.</text>
+	</Strings>
+</Localization>

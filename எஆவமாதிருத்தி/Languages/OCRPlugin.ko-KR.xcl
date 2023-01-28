@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20210114191055">2.00.00</Version>
+	<Author>pCsOrI</Author>
+	<Copyright>프로그램의 쉬운 사용을 위해</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Korean (Korea)" lName="한국어" code="ko-KR" R2L="false"/>
+	<Module name="OCRPlugin" namespace="ocr" version="9.0.350.0"/>
+	<Strings>
+		<text id="OrientationDetection" h="40F7AA0E">자동 방향 감지</text>
+		<text id="accuracy.high" h="21A95620">높음</text>
+		<text id="accuracy.low" h="845E3D8C">낮음</text>
+		<text id="accuracy.medium" h="91153342">보통</text>
+		<text id="cb.cuenoany" h="899F9872">설치되지 않음</text>
+		<text id="cmd.name" h="6DAA8A17">OCR 페이지...</text>
+		<text id="l.accuracy" h="3B2028D8">정확도(&amp;A):</text>
+		<text id="l.language" h="7B707020">언어(&amp;L):</text>
+		<text id="lnk.more" h="2E2CCD84">&lt;a=1&gt;더 많은 언어...&lt;/a&gt;</text>
+		<text id="prefs.title" h="D0975E29">OCR 옵션</text>
+	</Strings>
+</Localization>

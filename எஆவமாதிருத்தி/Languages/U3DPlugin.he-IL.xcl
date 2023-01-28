@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20191210185310">2.00.00</Version>
+	<Author>Amitai.G</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Hebrew (Israel)" lName="עברית" code="he-IL" R2L="true"/>
+	<Module name="U3DPlugin" namespace="u3d" version="8.0.335.0"/>
+	<Strings>
+		<text id="3DRenderingCrashed.str" h="3B1E0F07">אנו מצטערים ש- renderer 3D קרס. כדי לאתחל מחדש את עיבוד התלת מימד, אנא פתח את המסמך מחדש.</text>
+		<text id="3DSceneFailed.str" h="27A53BDF">אתחול סצנת תלת מימד נכשל.</text>
+		<text id="DlgCameraProperties.Title" h="C62520F7">מאפייני מצלמה</text>
+		<text id="PRCUnsupported.str" h="B107E80C">דגמי PRC אינם נתמכים.</text>
+		<text id="appPrefsPage.AAType.2x" h="423B3C2B">2x</text>
+		<text id="appPrefsPage.AAType.3x" h="FA875B4E">3x</text>
+		<text id="appPrefsPage.AAType.4x" h="675063F7">4x</text>
+		<text id="appPrefsPage.AAType.None" h="F9398D7D">ללא</text>
+		<text id="appPrefsPage.PickMode.TreeOrder" h="F1D70337">סדר עץ אובייקטים</text>
+		<text id="appPrefsPage.PickMode.ZOrder" h="8F0DAF26">סדר Z</text>
+		<text id="appPrefsPage.gr.3DToolOptions" h="FA532EE7">אפשרויות כלי תלת מימד</text>
+		<text id="appPrefsPage.gr.rOptions" h="A6CEA705">אפשרויות מגיש</text>
+		<text id="appPrefsPage.lb.PickMode" h="26EFD83B">מצב בחירה:</text>
+		<text id="appPrefsPage.name" h="86A64F71">מולטימדיה תלת מימדית</text>
+		<text id="appPrefsPage.tip" h="878BC70D">אפשרויות מולטימדיה תלת מימדית</text>
+		<text id="appPrefsPage.title" h="878BC70D">אפשרויות מולטימדיה תלת מימדית</text>
+		<text id="btn.default" h="3BF809E4">הגדר כברירת מחדל</text>
+		<text id="btn.moveDown" h="4CE68730">הזז למטה</text>
+		<text id="btn.moveUp" h="4454FC42">הזז למעלה</text>
+		<text id="chck.Show3DAxesStr" h="3173CD8B">הצג צירי תלת מימד</text>
+		<text id="ck.bgColor" h="799B39A6">צבע רקע</text>
+		<text id="ck.cameraProps" h="C62520F7">מאפייני מצלמה</text>
+		<text id="ck.crossSection" h="B6196404">מידע על הצומת</text>
+		<text id="ck.enable3D" h="90C6F9B5">אפשר תוכן תלת מימד</text>
+		<text id="ck.lighting" h="3C76D70F">תאורה</text>
+		<text id="ck.nodesVis" h="39891BF4">ניראות צמתים</text>
+		<text id="ck.renderMode" h="CDA80CD8">מצב הגשה</text>
+		<text id="cmd.3DPrefs" h="BB6488C0">&amp;העדפות תלת מימד</text>
+		<text id="cmd.3dContent.trustAlways" h="C6E70253">סמוך תמיד על מסמך זה</text>
+		<text id="cmd.3dContent.trustOnce" h="6AE4F0D7">סמוך על מסמך זה פעם אחת בלבד</text>
+		<text id="cmd.3dContentOpts" h="DAD7B4F4">אפשרויות</text>
+		<text id="cmd.3dContentOpts.tip" h="46505A9A">לחץ כדי לאפשר תכונות</text>
+		<text id="cmd.bkColor" h="799B39A6">צבע רקע</text>
+		<text id="cmd.cameraProps" h="C62520F7">מאפייני מצלמה</text>
+		<text id="cmd.defView" h="A1F14B2B">תצוגת ברירת מחדל</text>
+		<text id="cmd.fly" h="96EAF75B">&amp;לטוס</text>
+		<text id="cmd.fly.tip" h="A9F39C8A">לטוס</text>
+		<text id="cmd.lightSchemes" h="8C1BFE4C">סכמת תאורה</text>
+		<text id="cmd.lights" h="41B4EB09">אפשר תאורה נוספת</text>
+		<text id="cmd.orthoPerspProj.ortho" h="15C31A48">השתמש בהקרנה אורתוגרפית</text>
+		<text id="cmd.orthoPerspProj.ortho.tip" h="B336199D">הגשת מודל בהקרנה אורתוגרפית</text>
+		<text id="cmd.orthoPerspProj.persp" h="49402634">השתמש בהקרנת נקודת מבט</text>
+		<text id="cmd.orthoPerspProj.persp.tip" h="330F26E9">הגש מודל בהקרנת נקודת מבט</text>
+		<text id="cmd.pan" h="B48C4A96">&amp;מחבת</text>
+		<text id="cmd.pan.tip" h="8B952147">מחבת</text>
+		<text id="cmd.partOptions" h="066AF13F">אפשרויות חלקיות</text>
+		<text id="cmd.renderMode" h="9892CD92">מודל מצב ביצוע</text>
+		<text id="cmd.renderMode.default" h="F24132BD">&amp;ברירת מחדל</text>
+		<text id="cmd.rotate" h="2D90BC43">&amp;סובב</text>
+		<text id="cmd.rotate.tip" h="18368F2D">סובב</text>
+		<text id="cmd.spin" h="D0678B2C">&amp;סובב</text>
+		<text id="cmd.spin.tip" h="9224F8BB">סובב</text>
+		<text id="cmd.startPauseAnim.pause" h="743DFB17">השהה אנימציה</text>
+		<text id="cmd.startPauseAnim.play" h="C2662211">הפעל אנימציה</text>
+		<text id="cmd.startPauseAnim.tip" h="3A44AF42">נגן/השהה הנפשה של הדגם</text>
+		<text id="cmd.testCmd" h="79888B18">בחן קבצי תלת מימד</text>
+		<text id="cmd.testCmd.tip" h="D422EA7A">בודק הגשת קבצי תלת מימד ומשווה עם הייחוס.</text>
+		<text id="cmd.toolbar.hide" h="FE5E382C">הסתר את &amp;סרגל הכלים</text>
+		<text id="cmd.toolbar.hide.tip" h="7734A008">הסתר סרגל כלים תלת מימדי</text>
+		<text id="cmd.toolbar.show" h="D86490DE">הצג &amp;סרגל כלים</text>
+		<text id="cmd.toolbar.show.tip" h="DF2DAC82">הצג סרגל כלים לצד תצוגת תלת מימד</text>
+		<text id="cmd.tools" h="3D87CAC3">&amp;כלים</text>
+		<text id="cmd.tree.bboxColor" h="36C9D753">הגדר צבע תיבת גבול ...</text>
+		<text id="cmd.tree.bboxColor.tip" h="3C62FC40">הגדר צבע תיבת גבול</text>
+		<text id="cmd.tree.fitVisible" h="9F4225F9">&amp;התאם ניראות</text>
+		<text id="cmd.tree.fitVisible.tip" h="614956B4">הגדלת המצלמה כדי להתאים לכל החלקים הגלויים</text>
+		<text id="cmd.tree.hide" h="C4F1F414">&amp;הסתר</text>
+		<text id="cmd.tree.hide.tip" h="8AA8B90C">הסתר את הצומת שנבחרה</text>
+		<text id="cmd.tree.isolate" h="9FBD280C">&amp;בודד</text>
+		<text id="cmd.tree.isolate.tip" h="D5DA7C68">הסתר את כל צמתי המודלים למעט אחד שנבחר</text>
+		<text id="cmd.tree.isolatePart" h="7751F8EC">בודד חלק</text>
+		<text id="cmd.tree.isolatePart.tip" h="A3D5F690">הסתר את כל צמתי המודלים למעט החלק המכיל את הצומת שנבחר</text>
+		<text id="cmd.tree.makeTransparent" h="0759BABB">הפוך &amp;לשקוף</text>
+		<text id="cmd.tree.modelRenderMode" h="9892CD92">מודל מצב ביצוע</text>
+		<text id="cmd.tree.modelRenderMode.tip" h="9F89C88A">מגדיר מצב הגשה למודל כולו</text>
+		<text id="cmd.tree.partRenderMode" h="16069F94">מצב ביצוע חלק</text>
+		<text id="cmd.tree.partRenderMode.tip" h="821E3259">הגדר מצב הגשה לחלק הנבחר</text>
+		<text id="cmd.tree.show" h="C3CA8E89">הצג</text>
+		<text id="cmd.tree.show.tip" h="790D864F">הצג את הצומת שנבחר</text>
+		<text id="cmd.tree.showAll" h="24F4F631">&amp;הצג את כל החלקים</text>
+		<text id="cmd.tree.showAll.tip" h="144FE078">מציג את כל החלקים הנסתרים</text>
+		<text id="cmd.tree.showBBox" h="8E963AD7">הצג תיבת גבולות</text>
+		<text id="cmd.tree.showBBox.tip" h="3B27C053">הצג תיבת הגבלה סביב החלק שנבחר</text>
+		<text id="cmd.tree.zoom2part" h="29498553">&amp; התקרב לחלק</text>
+		<text id="cmd.tree.zoom2part.tip" h="AF54E436">הגדלת המצלמה לצומת שנבחר</text>
+		<text id="cmd.viewingOptions" h="B7019F33">אפשרויות צפייה</text>
+		<text id="cmd.views" h="0F296AD5">תצוגה:</text>
+		<text id="cmd.walk" h="D60E509F">&amp;טיול</text>
+		<text id="cmd.walk.tip" h="944D2308">טיול</text>
+		<text id="cmd.zoom" h="33EE2C56">&amp;זום</text>
+		<text id="cmd.zoom.tip" h="71AD5FC1">זום</text>
+		<text id="directx9.str" h="4DB13F37">DirectX 9</text>
+		<text id="dlgcp.fov" h="A7D2D5BD">&amp;שדות תצוגה:</text>
+		<text id="dlgcp.g1.title" h="0C13107E">מנח</text>
+		<text id="dlgcp.g2.title" h="4288E30E">יעד</text>
+		<text id="dlgcp.g3.title" h="5F78932B">פרמטרים</text>
+		<text id="dlgcp.posType" h="C8F2B656">יחידות &amp;זווית</text>
+		<text id="dlgcp.roll" h="1B2556A3">גל&amp;יל:</text>
+		<text id="dlgcp.save" h="D64F3B21">&amp;שמור תצוגת מצלמה...</text>
+		<text id="dlgcp.target.x" h="93F346A4">יעד X:</text>
+		<text id="dlgcp.target.y" h="2B4F21C1">יעד Y:</text>
+		<text id="dlgcp.target.z" h="39FA8E2F">יעד Z:</text>
+		<text id="gr.inheritProps" h="F5C46974">קח מהתצוגה הנוכחית:</text>
+		<text id="ibar.3dContent" h="4EE9C4B1">מידע תוכן תלת מימד</text>
+		<text id="ibar.3dContent.desc" h="B9385C56">מבקש רשות לאפשר תוכן תלת מימדי במסמך</text>
+		<text id="ibar.3dContent.text" h="5E8AC651">תוכן תלת מימד הושבת. הפעל תכונה זו אם אתה סומך על מסמך זה.</text>
+		<text id="lbl.AntiAliasing" h="050110D0">החלקת עקומות:</text>
+		<text id="lbl.HighlightColor" h="5F548840">צבע הדגשה:</text>
+		<text id="lbl.framerate" h="E28DF43C">נמרץ (FPS):</text>
+		<text id="lbl.renderingEngine" h="0F210502">מנוע הגשה:</text>
+		<text id="lbl.viewName" h="64A879B2">שם תצוגה:</text>
+		<text id="manageViews" h="8D0BFCAB">נהל תצוגות</text>
+		<text id="manageViews.List.defaultItem" h="F93BCF4A">תצוגות תלת מימדיות</text>
+		<text id="manageViews.newViewName" h="36C63992">תצוגה חדשה</text>
+		<text id="opengl.str" h="BBBBF29E">OpenGL</text>
+		<text id="view.custom" h="A918FF38">התאם אישית</text>
+		<text id="view.default" h="B6EF2024">ברירת מחדל</text>
+		<text id="camera.X" h="714AA303">מצלמה X:</text>
+		<text id="camera.Y" h="C9F6C466">מצלמה Y:</text>
+		<text id="camera.Z" h="DB436B88">מצלמה Z:</text>
+		<text id="camera.azimut" h="796BF9A5">אזימוט:</text>
+		<text id="camera.altitude" h="D35D23E4">גובה:</text>
+		<text id="camera.distance" h="47D78EAE">מרחק:</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20211007022818">2.00.00</Version>
+	<Author>Marko Puškarić</Author>
+	<Copyright>Marko Puškarić</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Croatian (Croatia)" lName="Hrvatski" code="hr-HR" R2L="false"/>
+	<Module name="SignaturePad" namespace="sigpad" version="9.1.356.0"/>
+	<Strings>
+		<text id="btn.clear" h="8A6A002B">&amp;Očisti</text>
+		<text id="dgl.drawsign.title" h="8BE10CB7">Nacrtaj potpis</text>
+		<text id="signature.pad" h="1CB89F08">Potpisna pločica</text>
+		<text id="signature.pad.desc" h="B2E4D573">Za izradu potpisa koristi Potpisnu pločicu na svom računalu</text>
+		<text id="msg.nodevice" h="69EAAE3A">Ne postoji &lt;i&gt;podržani uređaj&lt;/i&gt;.
+
+Molim provjerite je li uređaj spojen i
+instalirani valjani driveri,
+zatim pokušajte ponovno.</text>
+	</Strings>
+</Localization>

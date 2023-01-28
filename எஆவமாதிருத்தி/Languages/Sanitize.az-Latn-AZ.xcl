@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20221121231727">2.00.00</Version>
+	<Author>ELDOST QASIMOV</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Azerbaijani (Latin, Azerbaijan)" lName="Azərbaycan" code="az-Latn-AZ" R2L="false"/>
+	<Module name="SanitizePlugin" namespace="snt" version="9.5.365.0"/>
+	<Strings>
+		<text id="accessibilty.chk" h="691CFC68">Əlşatımlılıq etiketləri</text>
+		<text id="actionsandscripts.snt" h="DD6759CC">Əməliyyatı və skriptləri sil</text>
+		<text id="add.new.pntlist" h="8052B2AC">Yeni nümunələr siyahısı əlavə edin ...</text>
+		<text id="add.new.pntlist.tip" h="9DD2AAE5">Yeni xüsusi nümunələr siyahısını yaradır</text>
+		<text id="attachments.chk" h="E754AE2B">Qoşmalarda axtar</text>
+		<text id="attachments2.chk" h="488D4743">Qoşmalarda axtar</text>
+		<text id="autolocale.ptn" h="986476CF">Avto (%1)</text>
+		<text id="bookmarks.chk" h="E2032460">Giriş yerləri</text>
+		<text id="builder.tip" h="DCB5FF71">Söz yaradıcısı</text>
+		<text id="case.chk" h="371919EA">Böyük/kiçik hərfləri uyğunlaşdır</text>
+		<text id="click2seedescr" h="2B79F497">Təsvirini burada görmək üçün vurun ...</text>
+		<text id="cmd.findandredact" h="A71BA803">Tap və düzəlt</text>
+		<text id="cmd.findandredact.tip" h="C9957B03">Mətni tapır və düzəltmək üçün işarələyir.</text>
+		<text id="cmd.list.add" h="8E2EE8C1">Əlavə et</text>
+		<text id="cmd.list.addcustom.tip" h="48F73BAE">Xüsusi nümunə əlavə edin</text>
+		<text id="cmd.list.checkall" h="1ED93781">Hamısını işarələ</text>
+		<text id="cmd.list.load" h="D2BD1E32">Yüklənmə...</text>
+		<text id="cmd.list.locale" h="2B6AC5E3">Yerləşmə yeri</text>
+		<text id="cmd.list.remove" h="FCE39C1F">Sil</text>
+		<text id="cmd.list.removecustom.tip" h="D7AF6E36">İşarələnmiş xüsusi nümunələri aradan qaldır</text>
+		<text id="cmd.list.save" h="0272DFB9">Saxla...</text>
+		<text id="cmd.list.uncheckall" h="5D53AA8D">İşarələri götür</text>
+		<text id="commentsandlinks.chk" h="DA6216C5">Şərhlər və xarici əlaqələr</text>
+		<text id="customname" h="48E7DC23">Xüsusi nümunə</text>
+		<text id="custompatterns.lbl" h="5E153556">Xüsusi nümunə (%2 dən %1)</text>
+		<text id="customptn.dlg" h="8583A4FB">Fərdi nümunə</text>
+		<text id="deletepattern1.msg" h="07465752">Bu nümunələri silmək istədiyinizə əminsinizmi?</text>
+		<text id="deletepatterns.msg" h="ECB5282F">Seçilmiş xüsusi nümunələri silmək istədiyinizə əminsinizmi?</text>
+		<text id="deletetext.chk" h="8280F60B">Tapılmış mətni sil</text>
+		<text id="documentinfo.chk" h="913876A8">Sənəd məlumatı (adı, mövzusu, müəllif və s.)</text>
+		<text id="documentxmp.chk" h="55410A25">Sənədin XMP metaməlumatı</text>
+		<text id="editstring.lbl" h="641BB43C">Axtarış üçün söz və ya ifadə redaktə edin</text>
+		<text id="enterphrase.lbl" h="E663CA06">Axtarış üçün söz və ya ifadə daxil edin:</text>
+		<text id="enterphrase.lbl.cue" h="F6663BF7">Söz və ya ifadə daxil edin...</text>
+		<text id="example.lbl" h="489035D9">Nümunə daxil edin:</text>
+		<text id="findopt.grp" h="6D2C3084">Tapılma seçimləri</text>
+		<text id="findredact.dlg" h="D7CC6798">Mətn Tapılması və Düzəldilməsi</text>
+		<text id="forms.chk" h="EE24932E">Formalar</text>
+		<text id="formsandcomments.snt" h="3CE422D8">Şərhləri və formaları düzəldin</text>
+		<text id="hiddenText.chk" h="1065E006">Səhifədə gizli mətn var</text>
+		<text id="hiddenlayer.snt" h="05D69CC6">Gizli təbəqələri sil</text>
+		<text id="hiddenttext.snt" h="ECD99D2C">Gizli mətni sil</text>
+		<text id="history.fr.redo" h="38D56E9D">Mətnin düzəldilməsini təkrarla</text>
+		<text id="history.fr.title" h="BDE7F808">Tap və düzəlt</text>
+		<text id="history.fr.undo" h="FC974711">Mətnin düzəldilməsini ləğv et</text>
+		<text id="layers.chk" h="B5D83FAD">Səhifə təbəqələrdən ibarətdir</text>
+		<text id="marktext.chk" h="71D6C968">Düzəltmək üçün tapılmış mətni işarələ</text>
+		<text id="match.abc" h="3760672D">'abc' dəstində olan hər hansı bir simvolu uyğunlaşdırın</text>
+		<text id="match.anynumeric" h="A6E72A4D">Hər hansı bir ədədi uyğunlaşdırın</text>
+		<text id="match.anyword" h="C747C7E3">Hər hansı bir sözə uyğunlaşdır</text>
+		<text id="match.intdec" h="1D7C37DC">Tam və onluqları uyğunlaşdırın</text>
+		<text id="match.linebegin" h="E85BEDEB">Xəttin əvvəlində uyğunlaşdır</text>
+		<text id="match.notabc" h="07BFD63F">'abc' dəstində olmayan hər hansı bir simvolu uyğunlaşdırın</text>
+		<text id="match.onemore" h="A0F72662">İstənilən simvolla heç olmasa bir dəfə uyğunlaşdır</text>
+		<text id="match.range" h="CCF11EC0">A ilə f arasında olan hər hansı bir simvolu uyğunlaşdırın</text>
+		<text id="match.single" h="22AEEA91">Hər hansı bir simvolu uyğunlaşdırın (sətir arası istisna olmaqla)</text>
+		<text id="match.threedigits" h="F40292A5">Ardıcıl üç rəqəmi uyğunlaşdırın</text>
+		<text id="match.whitespace" h="F4925C7A">Hər hansı bir boşluğa uyğunlaşdır</text>
+		<text id="match.wordends" h="EC27D4F5">Sözün əvvəlində və ya sonunda uyğunlaşdır</text>
+		<text id="match.zeromore" h="4EE3FE93">Əvvəlki simvolla heç bir dəfə uyğunlaşmayan</text>
+		<text id="maxcountfile.msg" h="7C0D9E22">Sözlər siyahısı icazə verilən maksimum ölçüyə qədər kəsilmişdir: %1</text>
+		<text id="maxnumberofwords.msg" h="52B7987A">Yeni element əlavə etmək olmur:
+Siyahı maksimum söz və ya ifadə həddini aşır</text>
+		<text id="maxwordlength.msg" h="5BE34E54">Söz və ya ifadə çox uzundur</text>
+		<text id="maxwordlengthfromfile.msg" h="FE7C0D03">Söz və ya cümlə maksimum icazə verilən uzunluğa qədər kəsilmişdir: %1</text>
+		<text id="multipleword" h="C8368EA9">Bir neçə söz və ya ifadə</text>
+		<text id="newstring.lbl" h="927FC81B">Axtarış üçün yeni söz və ya ifadə əlavə edin</text>
+		<text id="notextwasfound" h="D1BCA29B">Uyğun meyarları olan bir mətn tapılmadı.</text>
+		<text id="objects.lbl" h="AFBB32E9">Obyektlərin mətni:</text>
+		<text id="objectsxmp.chk" h="B45AE8C8">Obyektlərin XMP metaməlumatları</text>
+		<text id="obscured.content.chk" h="1311BB99">Kəsilmiş və ya gizli məzmun tapıldı</text>
+		<text id="obscuredcontent.snt" h="7F9B3F4C">Naməlum məzmunu sil</text>
+		<text id="opt.donotshow" h="B2D782D9">Bu məlumatı bir daha göstərmə</text>
+		<text id="outlines.snt" h="48561E69">Giriş yerlərini sil</text>
+		<text id="overlapping.obj.chk" h="D2955BC5">Səhifədə üst-üstə düşən obyektlər var</text>
+		<text id="overlappingobjects.snt" h="99DED65B">Məzmunu üst-üstə düşən obyektlərlə rasterləşdirin</text>
+		<text id="overlaytype.lbl" h="BC47CE25">Üst qat növü:</text>
+		<text id="pagetext.lbl" h="B7832810">Səhifə mətni:</text>
+		<text id="pagetext2.chk" h="7FBFC7B2">Səhifə mətni</text>
+		<text id="patternlocale.lbl" h="5470225F">Şablon yeri seçin:</text>
+		<text id="patterns" h="ACAA6A08">Nümunələr</text>
+		<text id="patterns.desc.tip" h="127DB6CA">Nümunə təsviri daxil edin (məcburi deyil):</text>
+		<text id="patterns.description.empty" h="CB37274C">Nümunənin təsviri boşdur</text>
+		<text id="patterns.example.tip" h="127DB6CA">Nümunə təsviri daxil edin (məcburi deyil):</text>
+		<text id="phones.ptn" h="889BA45B">Nümunə
+555-1234
+212.555.1212
+1 (212) 555-1234</text>
+		<text id="preceding.onemore" h="0DB280A6">Əvvəlki simvoldan bir və ya daha çox dəfə uyğunlaşdır</text>
+		<text id="preceding.zeromore" h="6994F6CF">Əvvəlki simvoldan sıfır və ya daha çox dəfə uyğunlaşdır</text>
+		<text id="preceding.zeroone" h="96A31B68">Əvvəlki simvoldan sıfır və ya bir dəfə uyğunlaşdır</text>
+		<text id="processing.accessibility" h="07319AF0">Əlçatımlılıq etiketləri işlənir</text>
+		<text id="processing.embeddedfiles" h="9C473B09">Yerləşdirilmiş sənədlərin işlənməsi</text>
+		<text id="processing.markedcontent" h="41E6A029">İşarələnmiş məzmunun işlənməsi</text>
+		<text id="processing.metadata" h="27C23D00">Sənəd metaməlumatları işlənir</text>
+		<text id="progress.applyredaction" h="82CD13B5">Düzəldilənlərin sənədə tətbiq edilməsi ...</text>
+		<text id="progress.findtext" h="9AA4E47B">Uyğun meyarlara uyğun mətn axtarılır ...</text>
+		<text id="ptndescr.lbl" h="C56EB241">Nümunə təsviri daxil edin:</text>
+		<text id="ptnname.lbl" h="A7E2C5D0">Nümunə adı daxil edin:</text>
+		<text id="ptnvalue.lbl" h="58401EB7">Nümunə dəyəri daxil edin:</text>
+		<text id="rbar.sanitize" h="092C966D">Sənədi təmizləyin</text>
+		<text id="rbar.sanitize.tip" h="B573254E">Meta məlumat, forma məlumatları, görünməz məzmun kimi həssas məlumatları silir ...</text>
+		<text id="redactioncolor.lbl" h="AA984FC4">Redaktə rəngi:</text>
+		<text id="redactiontext.edt.cue" h="0A4FA672">&lt;Qurulmayıb&gt;</text>
+		<text id="redactiontext.lbl" h="F18E110C">Mətn:</text>
+		<text id="redacttext.chk" h="1E76EC28">Tapılmış mətni düzəlt</text>
+		<text id="regexp.help" h="41F2BA26">Daimi İfadə (Kömək)</text>
+		<text id="removeembedded.snt" h="29624A93">Yerləşdirilmiş məzmunu sil</text>
+		<text id="removemetadata.snt" h="0A323970">Metaməlumat və sənəd məlumatını sil</text>
+		<text id="repeattext.chk" h="D0D05924">Mətni təkrarla</text>
+		<text id="replacetext.chk" h="DB2F141B">Mətni aşağıdakılarla əvəz et:</text>
+		<text id="resolution.lbl" h="F5CAE407">Rasterləşdirmə ölçüsü:</text>
+		<text id="sanitize.descr" h="6AA269FA">PDF Sənədini Təmizlə</text>
+		<text id="sanitize.lbl" h="9650169B">Sənəd Təmizlənməsi gizli məlumatları və metadataları siləcək, beləliklə həssas məlumatlar PDF ilə dərc olunmayacaq. Sənədinizə tətbiq ediləcək bir seçim seçin:</text>
+		<text id="sanitize.warning" h="3321EE07">Sənədin Təmizlənməsi gizli məlumatları və metadataları siləcək, beləliklə həssas məlumatlar PDF ilə dərc olunmayacaq.
+
+Əməliyyat aradan qaldıracaq:
+
+   • Metadata
+   • Görünməz mətn və şəkillər
+   • Üst-üstə düşən obyektlər
+   • Formaları və şərh məlumatlarını
+   • Yerləşdirilmiş məzmun və sənədlər
+   • Gizli təbəqələr
+   • Gizli məlumatlar və şərhlər
+   • İstinad olunmayan məlumatlar</text>
+		<text id="sanitizeDoc.progr" h="062BF2F0">Sənədin təmizlənməsi ...</text>
+		<text id="sanitizePage.progr" h="EA4FCD7C">%1 səhifəsinin işlənməsi</text>
+		<text id="sanitizeSave.progr" h="93EC7255">Təmizlənmiş sənədin saxlanması ...</text>
+		<text id="sanitizeconverter.name" h="9BE4E232">Çeviricini təmizləyin</text>
+		<text id="sanitizefilter.name" h="804EA582">Təmizlənmiş PDF Sənədləri</text>
+		<text id="sanitizeoptions.dlg" h="A6BCECE6">Sənəd Təmizlənməsi seçimləri</text>
+		<text id="sanitizeopts.lbl" h="BB4BCFA8">Tətbiq olunacaq variantları seçin:</text>
+		<text id="saveDlg.caption" h="2FD66192">Təmizlənmiş sənədi saxla</text>
+		<text id="searchindex.snt" h="B2A720E0">Axtarış indeksini sil</text>
+		<text id="showmore.lbl" h="143C6320">Daha çox göstər ...</text>
+		<text id="singleword" h="BAB11ED8">Ayrıca söz və ya ifadə</text>
+		<text id="snt.redact.grp" h="98BDF535">Düzəltmə seşimləri</text>
+		<text id="status.saving" h="3D2A3BDC">Sənədin saxlanması</text>
+		<text id="stdpatterns.lbl" h="4FF587EE">Standart nümunələr (%2 -dən %1)</text>
+		<text id="textcolor.lbl" h="393AC769">Mətn rəngi:</text>
+		<text id="unsupported.format" h="5F8D8E51">Söz siyahısı dəstəklənməyən formatdadır</text>
+		<text id="useregexp.chk" h="299B0303">Normal ifadələrdən istifadə edin</text>
+		<text id="whatfind.lbl" h="27D208DF">Hansı mətni tapmaq istəyirsiniz? ...</text>
+		<text id="wherefind.lbl" h="76DF8D13">HARADA tapmaq istərdiniz?</text>
+		<text id="wholewords.lbl" h="C794AEE3">Yalnız bütöv sözlər</text>
+		<text id="wordlist" h="637B75E0">Söz Siyahısı</text>
+		<text id="wordlist.empty" h="3311A197">Söz siyahısı boşdur</text>
+	</Strings>
+</Localization>

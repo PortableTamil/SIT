@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20200402215908">2.00.00</Version>
+	<Author>Martin Paulík</Author>
+	<Copyright>TERAGON SW s.r.o.
+www.pdfxchange.cz		</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Czech (Czech Republic)" lName="čeština" code="cs-CZ" R2L="false"/>
+	<Module name="OneDrivePlugin" namespace="od" version="8.0.337.0"/>
+	<Strings>
+		<text id="DlgOpenFile" h="F5F0D3C4">Otevřít soubor z OneDrive</text>
+		<text id="DlgSaveFile" h="8E6D35E7">Uložit soubor na OneDrive</text>
+		<text id="GDPlugin" h="55E9533C">Plug-in OneDrive</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Přihlášení...</text>
+		<text id="cmd.cmdsCategory" h="A8DDA089">One Drive</text>
+		<text id="cmd.onedrive" h="FBE7A43C">&amp;OneDrive</text>
+		<text id="cmd.open" h="C3A80FF4">&amp;OneDrive...</text>
+		<text id="cmd.open.tip" h="03DE0A0A">Otevřít dokument z One Drive.</text>
+		<text id="cmd.save" h="C3A80FF4">&amp;OneDrive...</text>
+		<text id="cmd.save.tip" h="BC9750BB">Uložit aktivní dokument do One Drive.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Soubor nenalezen</text>
+		<text id="cpt.invalidFileName" h="79C1387C">"Neplatný název souboru</text>
+		<text id="cpt.navigateError" h="3D300A1C">Chyba navigace</text>
+		<text id="cpt.saveReplace" h="520CB069">Uložit soubor</text>
+		<text id="cpt.selectFile" h="C55D68B0">Výběr souboru</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Nelze uložit soubor do složky</text>
+		<text id="dlg.Auth" h="6D5E22C0">Autentizace One Drive</text>
+		<text id="fileName" h="DEC92488">Soubor:</text>
+		<text id="lb.CurrentFolder" h="44158804">Aktuální složka:</text>
+		<text id="lb.Test" h="273F3E5B">Test Test Test!</text>
+		<text id="lb.onedriveAccName" h="740F2198">Účet OneDrive:</text>
+		<text id="ls.column.created" h="FE6510B7">Datum vytvoření</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Datum a čas, kdy byly soubor, složka nebo seznam vytvořeny</text>
+		<text id="ls.column.extension" h="14FEB836">Přípona</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Přípona souboru</text>
+		<text id="ls.column.modified" h="7E234D6D">Datum úpravy</text>
+		<text id="ls.column.modified.hint" h="12933E76">Datum a čas, kdy byly soubor, složka nebo list upraveny</text>
+		<text id="ls.column.size" h="17A58A52">Velikost</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Velikost souboru</text>
+		<text id="ls.column.title" h="D18643E3">Název</text>
+		<text id="ls.column.title.hint" h="6A895576">Název souboru, složky nebo seznamu</text>
+		<text id="msg.fileNotFound" h="430E08B1">Soubor "%1" nebyl nalezen v aktuální složce.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" není platný název souboru.</text>
+		<text id="msg.navigateError" h="9C1CD106">Navigace ke zdroji OneDrive selhala. Zkontrolujte prosím internetové připojení a přístupová práva ke zdroji OneDrive.</text>
+		<text id="msg.openFailed" h="AC94D960">Otevření souboru selhalo. Ujistěte se, že soubor existuje nebo zda není vyhrazen pro jiného uživatele nebo zda máte k němu přístupová práva.</text>
+		<text id="msg.saveFailed" h="4D413392">Uložení souboru selhalo. Ujistěte se, že má soubor platný název a že máte přístupová práva pro zápis.</text>
+		<text id="msg.saveReplace" h="5D56833E">Soubor %1 již existuje. Chcete ho nahradit?</text>
+		<text id="msg.selectFile" h="2530C20F">Před stisknutím OK vyberte soubor</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Soubor nemůže být uložen do vybraného umístění. Vyberte prosím složku 'Můj disk', některou z jeho podsložek nebo některou ze složek 'Sdíleno se mnou' pro uložení souboru. </text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">Můj disk</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Sdíleno se mnou</text>
+		<text id="addFolder.title" h="42CD8D51">Vytvořit složku</text>
+		<text id="addFolder.message" h="940CF2FA">Zadejte název nové složky</text>
+		<text id="addFolderError.title" h="DDB9C8A8">Složku nelze vytvořit</text>
+		<text id="addFolderError.message" h="E37B3660">Nemohu vytvořit složku na OneDrive. Zkontrolujte prosím internetové připojení a přístupová práva ke zdroji OneDrive.</text>
+		<text id="btn.addFolder.text" h="69FFFB47">Vytvořit složku</text>
+		<text id="deleteError.title" h="002A7E1A">Položku nelze odstranit</text>
+		<text id="deleteError.message" h="ABCC0ED6">Nelze smazat %1 "%2" ze zdroje OneDrive. %3</text>
+		<text id="deleteError.reason" h="09E96BF8">Zkontrolujte prosím internetové připojení a přístupová práva ke zdroji OneDrive.</text>
+		<text id="btn.delete.text" h="ED580C1E">Smazat</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">Nahoru</text>
+		<text id="file" h="AFFADF08">soubor</text>
+		<text id="folder" h="1DAC8D17">složka</text>
+		<text id="deleteError.unknownItem.message" h="D27D16CB">Nelze odstranit položku ze zdroje OneDrive. %1</text>
+		<text id="delete.title" h="FC00502F">"Odstranění položek"</text>
+		<text id="delete.message" h="16714AA7">"Chcete smazat %1 "%2"?"</text>
+		<text id="deleteMulti.message" h="806F170A">"Chcete smazat %1 položek ze složky "%2" na OneDrive?"</text>
+		<text id="deleteMulti.progress" h="7A18F8DD">"Odstraňuji položku #%1 z %2"</text>
+		<text id="deleteMulti.progress.title" h="CE70C7AD">"Odstraňuji položky z OneDrive"</text>
+		<text id="deleteSingle.progress" h="B781BCCF">"Odstraňuji %1 "%2""</text>
+		<text id="deleteSingle.progress.title" h="448891FC">"Odstraňuji položku z OneDrive"</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20190320002037">2.00.00</Version>
+	<Author>Stanko Horvat</Author>
+	<Copyright>Stanko Horvat</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Slovenian (Slovenia)" lName="slovenščina" code="sl-SI" R2L="false"/>
+	<Module name="Dropbox" namespace="db" version="7.0.328.2"/>
+	<Strings>
+		<text id="btn.cancel" h="3D302A38">&amp;Prekliči</text>
+		<text id="btn.chooseUser" h="4E5DDBFB">&amp;Izberi uporabnika</text>
+		<text id="btn.ok" h="FEF0C771">&amp;V redu</text>
+		<text id="btn.open" h="B1A510F0">&amp;Odpri</text>
+		<text id="btn.save" h="F363C410">&amp;Shrani</text>
+		<text id="btn.saveReplace" h="11BF9724">Shrani in &amp;zamenjaj</text>
+		<text id="btn.settings" h="563BF6B7">N&amp;astavitve ...</text>
+		<text id="cmd.cmdsCategory" h="22B8ECE9">Dropbox</text>
+		<text id="cmd.open" h="028048E8">&amp;Dropbox ...</text>
+		<text id="cmd.open.tip" h="683AE278">Odpri dokument iz Dropbox-a.</text>
+		<text id="cmd.save" h="028048E8">&amp;Dropbox ...</text>
+		<text id="cmd.save.tip" h="B5D0B78F">Shrani aktivni dokument v Dropbox.</text>
+		<text id="cmd.dropbox" h="6616FE70">&amp;Dropbox</text>
+		<text id="dlg.authenticate" h="E6E77652">Preverjanje pristnosti</text>
+		<text id="dlg.openFile" h="435887CD">Odpri datoteko</text>
+		<text id="dlg.saveFile" h="520CB069">Shrani datoteko</text>
+		<text id="lb.itemsInFolder" h="8F56A98C">%d predmetov</text>
+		<text id="lb.name" h="F7B9E475">Ime datoteke:</text>
+		<text id="ls.column.created" h="9E0B497D">Datum nastanka</text>
+		<text id="ls.column.created.hint" h="291F5AEC">Datum in čas, ko je bila ustvarjena datoteka, mapa ali seznam</text>
+		<text id="ls.column.extension" h="14FEB836">Pripona</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Pripona datoteke</text>
+		<text id="ls.column.modified" h="691C3610">Datum spremembe</text>
+		<text id="ls.column.modified.hint" h="2C2CF8F2">Datum in čas, ko so bili datoteka, mapa ali seznam nazadnje spremenjeni</text>
+		<text id="ls.column.size" h="17A58A52">Velikost</text>
+		<text id="ls.column.size.hint" h="E79CA174">Velikost datoteke</text>
+		<text id="ls.column.title" h="D18643E3">Ime</text>
+		<text id="ls.column.title.hint" h="D883F263">Ime datoteke ali mape</text>
+		<text id="msg.connectError" h="A594B0D5">Ni se uspelo povezati v Dropbox. Preverite internetno povezavo in pravice za dostop do zahtevanih Dropbox virov.</text>
+		<text id="msg.fileNotFound" h="381368F8">Datoteke &lt;b&gt;%1&lt;/b&gt; ni mogoče najti v trenutni mapi.</text>
+		<text id="msg.invalidFileName" h="10E2440D">&lt;b&gt;%1&lt;/b&gt; ni veljavno ime datoteke, ker simboli &lt;b&gt;&lt; &gt; " / \ | ? *&lt;/b&gt; niso dovoljeni.</text>
+		<text id="msg.navigateError" h="8BCFBD0F">Spodletela navigacija v Dropbox viru. Preverite internetno povezavo, pravilnost naslova sredstev in pravic za dostop do zahtevanega Dropbox vira.</text>
+		<text id="msg.openFailed" h="794811DE">Napaka pri odpiranju datoteke. Preverite, ali datoteka obstaja in da imate bralno dovoljenje.</text>
+		<text id="msg.saveFailed" h="36780EC6">Datoteko ni bilo mogoče shraniti. Prepričajte se, da je ime datoteke veljavno in da imate dovoljenje za pisanje.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Datoteka &lt;b&gt;%1"&lt;/b&gt; že obstaja. Ali jo želite zamenjati?</text>
+		<text id="msg.wrongUser" h="27773B86">Ne morem odpreti vir, ker pripada drugemu uporabniku Dropbox-a. Ali želite izbrati drugega uporabnika?</text>
+		<text id="str.fileSystemName" h="22B8ECE9">Dropbox</text>
+		<text id="addFolder.error.message" h="26E3D84F">Ni bilo mogoče ustvariti mapo &lt;b&gt;%1&lt;/b&gt; na viru Dropbox.</text>
+		<text id="addFolder.question.button.create" h="5AFC56A9">Ustvari mapo</text>
+		<text id="addFolder.question.edit.title" h="AD9C0CB3">Vnesite novo ime mape:</text>
+		<text id="addFolder.question.error.alreadyExists" h="C0A47FF7">Trenutna mapa že vsebuje element z imenom &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="addFolder.question.error.emptyFolderName" h="BB6566D6">Ime mape ne sme biti prazno.</text>
+		<text id="addFolder.question.error.invalidFolderName" h="0A24FCDF">&lt;b&gt;%1&lt;/b&gt; ni veljavno ime mape, saj simboli &lt;b&gt;&lt; &gt; " / \ | ? *&lt;/b&gt; niso dovoljeni.</text>
+		<text id="addFolder.progress.text" h="8C5EF68A">Ustvarjanje mape &lt;b&gt;%1&lt;/b&gt;...</text>
+		<text id="addFolder.progress.title" h="595759D0">Ustvarjanje mape na Dropboxu</text>
+		<text id="btn.addFolder.text" h="69FFFB47">&amp;Ustvari mapo</text>
+		<text id="btn.delete.text" h="ED580C1E">&amp;Izbriši</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">&amp;Gor</text>
+		<text id="delete.error.file" h="5F9FEEF5">Ni mogoče izbrisati datoteko &lt;b&gt;%1&lt;/b&gt; iz Dropboxa.</text>
+		<text id="delete.error.folder" h="5F9FEEF5">Ni mogoče izbrisati datoteko &lt;b&gt;%1&lt;/b&gt; iz Dropboxa.</text>
+		<text id="delete.error.unknown" h="73BC7295">Izbranega elementa ni bilo mogoče izbrisati iz Dropboxa.</text>
+		<text id="delete.progress.status" h="F729DF24">%1 od %2</text>
+		<text id="delete.progress.text.file" h="EFCE4189">Brisanje datoteke &lt;b&gt;%1&lt;/b&gt;...</text>
+		<text id="delete.progress.text.folder" h="2E89372D">Brisanje mape &lt;b&gt;%1&lt;/b&gt;...</text>
+		<text id="delete.progress.text.unknown" h="367B0EA7">Brisanje &lt;b&gt;%1&lt;/b&gt;...</text>
+		<text id="delete.progress.title" h="9D1FD2AA">Brisanje iz Dropboxa</text>
+		<text id="delete.question.file" h="F3B2380C">Ali želite izbrisati datoteko &lt;b&gt;%1&lt;/b&gt;?</text>
+		<text id="delete.question.folder" h="DA195BFA">Ali želite izbrisati mapo &lt;b&gt;%1&lt;/b&gt; in vso njeno vsebino?</text>
+		<text id="delete.question.multi" h="ACA0CEC0">Ali želite izbrisati %1 elementov?</text>
+		<text id="delete.question.unknown" h="8C13886E">Ali želite izbrisati izbrani element?</text>
+	</Strings>
+</Localization>

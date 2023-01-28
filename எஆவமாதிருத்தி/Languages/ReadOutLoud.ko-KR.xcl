@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20210114191055">2.00.00</Version>
+	<Author>pCsOrI</Author>
+	<Copyright>프로그램의 쉬운 사용을 위해</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Korean (Korea)" lName="한국어" code="ko-KR" R2L="false"/>
+	<Module name="ReadOutLoud" namespace="speech" version="9.0.350.0"/>
+	<Strings>
+		<text id="cmd.category" h="A1EB605F">소리내어 읽기</text>
+		<text id="cmd.readSelection" h="D503AA0C">선택한 텍스트를 소리내어 읽기</text>
+		<text id="cmd.readStop" h="06B322F6">읽기 중지</text>
+		<text id="opt.btn.test" h="D799C8E8">텍스트 읽기(&amp;T)</text>
+		<text id="opt.cb.defAttr" h="232D9E03">기본 말하기 특성 사용(&amp;A)</text>
+		<text id="opt.cb.defVoice" h="57A5382A">기본 음성 사용(&amp;D)</text>
+		<text id="opt.cb.readComments" h="070A2526">주석 읽기(&amp;C)</text>
+		<text id="opt.cb.readFields" h="4331E3A2">양식 필드 읽기(&amp;F)</text>
+		<text id="opt.group.title" h="54357DDF">읽기 옵션</text>
+		<text id="opt.l.max" h="284585D5">최대</text>
+		<text id="opt.l.min" h="F16918ED">최소</text>
+		<text id="opt.l.pitch" h="A6915A2C">피치(&amp;P):</text>
+		<text id="opt.l.rate" h="10B1E128">속도(&amp;R):</text>
+		<text id="opt.l.voice" h="5026E016">음성(&amp;I):</text>
+		<text id="opt.l.volume" h="8C0E20F2">음량(&amp;V):</text>
+		<text id="opt.l.wpm" h="9421CA7D">분당 단어 수</text>
+		<text id="opt.test.title" h="44732FAA">테스트</text>
+		<text id="prefs.name" h="06D67BEF">말하기</text>
+		<text id="prefs.tips" h="110DB02C">말하기 옵션</text>
+		<text id="prefs.title" h="110DB02C">말하기 옵션</text>
+		<text id="speech.opt.title" h="54357DDF">읽기 옵션</text>
+		<text id="test.text" h="6B245451">The quick brown fox jumps over the lazy dog.</text>
+	</Strings>
+</Localization>

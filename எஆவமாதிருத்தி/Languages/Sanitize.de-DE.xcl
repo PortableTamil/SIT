@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20220808224748">2.00.00</Version>
+	<Author>Michael Dodl</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="German (Germany)" lName="Deutsch" code="de-DE" R2L="false"/>
+	<Module name="SanitizePlugin" namespace="snt" version="9.4.362.0"/>
+	<Strings>
+		<text id="accessibilty.chk" h="691CFC68">Markierungen für Barrierefreiheit</text>
+		<text id="actionsandscripts.snt" h="DD6759CC">Aktionen und Skripte entfernen</text>
+		<text id="add.new.pntlist" h="8052B2AC">Neue Liste für Muster hinzufügen...</text>
+		<text id="add.new.pntlist.tip" h="9DD2AAE5">Erstellt eine neue Liste für Muster</text>
+		<text id="attachments.chk" h="E754AE2B">Suche &amp;in Anhängen</text>
+		<text id="attachments2.chk" h="488D4743">Suche in Anhängen</text>
+		<text id="autolocale.ptn" h="986476CF">Automatisch (%1)</text>
+		<text id="bookmarks.chk" h="E2032460">Lesezeichen</text>
+		<text id="builder.tip" h="DCB5FF71">RegExp erstellen</text>
+		<text id="case.chk" h="371919EA">Groß-/Kleinschreibung be&amp;achten</text>
+		<text id="click2seedescr" h="2B79F497">Klicken Sie auf das Muster, um seine Beschreibung hier anzuzeigen...</text>
+		<text id="cmd.findandredact" h="A71BA803">Suchen und schwärzen</text>
+		<text id="cmd.findandredact.tip" h="C9957B03">Sucht nach Text und markiert die Ergebnisse zum Schwärzen.</text>
+		<text id="cmd.list.add" h="8E2EE8C1">Hinzufügen</text>
+		<text id="cmd.list.addcustom.tip" h="48F73BAE">Eigenes Muster hinzufügen</text>
+		<text id="cmd.list.checkall" h="1ED93781">Alle auswählen</text>
+		<text id="cmd.list.load" h="D2BD1E32">Laden...</text>
+		<text id="cmd.list.locale" h="2B6AC5E3">&amp;Sprache</text>
+		<text id="cmd.list.remove" h="FCE39C1F">Entfernen</text>
+		<text id="cmd.list.removecustom.tip" h="D7AF6E36">Augewählte Muster entfernen</text>
+		<text id="cmd.list.save" h="0272DFB9">Speichern...</text>
+		<text id="cmd.list.uncheckall" h="5D53AA8D">Alle abwählen</text>
+		<text id="commentsandlinks.chk" h="DA6216C5">Kommentare und externe Verweise</text>
+		<text id="customname" h="48E7DC23">Eigenes Muster</text>
+		<text id="custompatterns.lbl" h="5E153556">Eigene Muster (%1 von %2)</text>
+		<text id="customptn.dlg" h="8583A4FB">Eigenes Muster</text>
+		<text id="deletepattern1.msg" h="07465752">Sind Sie sicher, dass Sie dieses Muster löschen möchten?</text>
+		<text id="deletepatterns.msg" h="ECB5282F">Sind Sie sicher, dass Sie die ausgewählten Muster löschen möchten?</text>
+		<text id="deletetext.chk" h="8280F60B">Text löschen</text>
+		<text id="documentinfo.chk" h="913876A8">Dokumenteninformationen (Titel, Thema, Autor, etc.)</text>
+		<text id="documentxmp.chk" h="55410A25">XMP-Metadaten des Dokuments</text>
+		<text id="editstring.lbl" h="641BB43C">Wort oder Ausdruck bearbeiten</text>
+		<text id="enterphrase.lbl" h="E663CA06">Wort oder Ausdruck eingeben:</text>
+		<text id="enterphrase.lbl.cue" h="F6663BF7">Wort oder Ausdruck eingeben...</text>
+		<text id="example.lbl" h="489035D9">Musterbeispiel eingeben:</text>
+		<text id="findopt.grp" h="6D2C3084">Einstellungen für die Suche</text>
+		<text id="findredact.dlg" h="D7CC6798">Text suchen und schwärzen</text>
+		<text id="forms.chk" h="EE24932E">Formulare</text>
+		<text id="formsandcomments.snt" h="3CE422D8">Anmerkungen und Formularfelder einbetten</text>
+		<text id="hiddenText.chk" h="1065E006">Seite enthält versteckten Text</text>
+		<text id="hiddenlayer.snt" h="05D69CC6">Versteckte Ebenen entfernen</text>
+		<text id="hiddenttext.snt" h="ECD99D2C">Versteckten Text entfernen</text>
+		<text id="history.fr.redo" h="38D56E9D">Schwärzen wiederherstellen</text>
+		<text id="history.fr.title" h="BDE7F808">Suchen und schwärzen</text>
+		<text id="history.fr.undo" h="FC974711">Schwärzen rückgängig machen</text>
+		<text id="layers.chk" h="B5D83FAD">Seite enthält Ebenen</text>
+		<text id="marktext.chk" h="71D6C968">Ergebnisse zum Schwärzen &amp;markieren</text>
+		<text id="match.abc" h="3760672D">Passt auf ein beliebieges Zeichen aus der Gruppe 'abc'</text>
+		<text id="match.anynumeric" h="A6E72A4D">Passt auf eine Ziffer (0-9)</text>
+		<text id="match.anyword" h="C747C7E3">Passt auf ein Wort-Zeichen (a-z, A-Z, 0-9, _)</text>
+		<text id="match.intdec" h="1D7C37DC">Passt auf Ganz- und Dezimalzahlen</text>
+		<text id="match.linebegin" h="E85BEDEB">Passt auf den Zeilenanfang</text>
+		<text id="match.notabc" h="07BFD63F">Passt auf ein beliebieges Zeichen, das nicht in der Gruppe 'abc' enthalten ist</text>
+		<text id="match.onemore" h="A0F72662">Passt auf ein oder mehrere beliebiege Zeichen</text>
+		<text id="match.range" h="CCF11EC0">Passt auf ein beliebieges Zeichen im Bereich von a bis f</text>
+		<text id="match.single" h="22AEEA91">Passt auf ein einzelnes Zeichen (außer einem Zeilenumbruch)</text>
+		<text id="match.threedigits" h="F40292A5">Passt auf drei aufeinanderfolgende Dezimalzahlen</text>
+		<text id="match.whitespace" h="F4925C7A">Passt auf ein Weißraum-Zeichen</text>
+		<text id="match.wordends" h="EC27D4F5">Passt auf den Beginn oder das Ende eines Wortes</text>
+		<text id="match.zeromore" h="4EE3FE93">Passt auf kein, ein oder mehrere beliebiege Zeichen</text>
+		<text id="maxcountfile.msg" h="7C0D9E22">Die Liste wurde auf die maximale Länge gekürzt: %1</text>
+		<text id="maxnumberofwords.msg" h="52B7987A">Das neue Element kann nicht hinzugefügt werden:
+Die Anzahl der Wörter und Ausdrücke übersteigt die maximale Anzahlt.</text>
+		<text id="maxwordlength.msg" h="5BE34E54">Wort oder Ausdruck ist zu lang"</text>
+		<text id="maxwordlengthfromfile.msg" h="FE7C0D03">Das Wort oder der Ausdruck wurde auf die maximale Länge gekürzt: %1</text>
+		<text id="multipleword" h="C8368EA9">Mehrere &amp;Wörter oder Ausdrücke</text>
+		<text id="newstring.lbl" h="927FC81B">Wort oder Ausdruck zu Suchbegriffen hinzufügen</text>
+		<text id="notextwasfound" h="D1BCA29B">Kein Text, der den Kriterien entspricht, wurde gefunden.</text>
+		<text id="objects.lbl" h="AFBB32E9">Text in Objekten:</text>
+		<text id="objectsxmp.chk" h="B45AE8C8">XMP-Metadaten von Objekten</text>
+		<text id="obscured.content.chk" h="1311BB99">Abgeschnittene oder unsichtbare Inhalte wurden gefunden</text>
+		<text id="obscuredcontent.snt" h="7F9B3F4C">Verborgene Inhalte entfernen</text>
+		<text id="opt.donotshow" h="B2D782D9">Diese Nachricht nicht erneut anzeigen</text>
+		<text id="outlines.snt" h="48561E69">Lesezeichen entfernen</text>
+		<text id="overlapping.obj.chk" h="D2955BC5">Seite enthält sich überlagernde Objekte</text>
+		<text id="overlappingobjects.snt" h="99DED65B">Inhalte, die von Objekten überlagert werden in Bilder umwandeln</text>
+		<text id="overlaytype.lbl" h="BC47CE25">Überlagerung:</text>
+		<text id="pagetext.lbl" h="B7832810">Seitentext:</text>
+		<text id="pagetext2.chk" h="7FBFC7B2">Seitentext</text>
+		<text id="patternlocale.lbl" h="5470225F">Sprache wählen:</text>
+		<text id="patterns" h="ACAA6A08">M&amp;uster</text>
+		<text id="patterns.desc.tip" h="127DB6CA">Fügen Sie eine (optionale) Beschreibung hinzu...</text>
+		<text id="patterns.description.empty" h="CB37274C">Das Muster hat keine Beschreibung</text>
+		<text id="patterns.example.tip" h="127DB6CA">Fügen Sie eine (optionale) Beschreibung hinzu...</text>
+		<text id="phones.ptn" h="889BA45B">Zum Beispiel:
+555-1234
+212.555.1212
+1 (212) 555-1234</text>
+		<text id="preceding.onemore" h="0DB280A6">Passt auf ein oder mehrere Vorkommen des vorhergehenden Zeichens</text>
+		<text id="preceding.zeromore" h="6994F6CF">Passt auf kein, ein oder mehrere Vorkommen des vorhergehenden Zeichens</text>
+		<text id="preceding.zeroone" h="96A31B68">Passt auf kein oder ein Vorkommen des vorhergehenden Zeichens</text>
+		<text id="processing.accessibility" h="07319AF0">Verarbeite Markierungen für Barrierefreiheit</text>
+		<text id="processing.embeddedfiles" h="9C473B09">Verarbeite eingebettete Dateien</text>
+		<text id="processing.markedcontent" h="41E6A029">Verarbeite markierte Inhalte</text>
+		<text id="processing.metadata" h="27C23D00">Verarbeite die Metadaten des Dokuments</text>
+		<text id="progress.applyredaction" h="82CD13B5">Dokument wird geschwärzt...</text>
+		<text id="progress.findtext" h="9AA4E47B">Suche nach Text, der den Kriterien entspricht...</text>
+		<text id="ptndescr.lbl" h="C56EB241">Beschreibung für das Muster:</text>
+		<text id="ptnname.lbl" h="A7E2C5D0">Name für das Muster:</text>
+		<text id="ptnvalue.lbl" h="58401EB7">Muster:</text>
+		<text id="rbar.sanitize" h="092C966D">Dokument säubern</text>
+		<text id="rbar.sanitize.tip" h="B573254E">Entfernt sensible Informationen wie Metadaten, Formulardaten, unsichtbare Inhalte...</text>
+		<text id="redactioncolor.lbl" h="AA984FC4">Hintergrundfarbe:</text>
+		<text id="redactiontext.edt.cue" h="0A4FA672">&lt;Nicht Festgelegt&gt;</text>
+		<text id="redactiontext.lbl" h="F18E110C">Text:</text>
+		<text id="redacttext.chk" h="1E76EC28">Ergebnisse schwä&amp;rzen</text>
+		<text id="regexp.help" h="41F2BA26">Hilfe zu regulären Ausdrücken</text>
+		<text id="removeembedded.snt" h="29624A93">Eingebettete Inhalte entfernen</text>
+		<text id="removemetadata.snt" h="0A323970">Metadaten und Dokumenteninformationen entfernen</text>
+		<text id="repeattext.chk" h="D0D05924">Text wiederholen</text>
+		<text id="replacetext.chk" h="DB2F141B">Text ersetzen mit:</text>
+		<text id="resolution.lbl" h="F5CAE407">Auflösung:</text>
+		<text id="sanitize.descr" h="6AA269FA">PDF-Dokument säubern</text>
+		<text id="sanitize.lbl" h="9650169B">Beim Säubern werden versteckte Daten und Metadaten aus dem Dokument entfernt. Wählen Sie Aktionen, die auf das Dokument angewendet werden:</text>
+		<text id="sanitize.warning" h="3321EE07">Beim Säubern des Dokuments werden unsichtbare Daten und Metadaten entfernt, so dass sensible Informationen nicht mit Ihrem PDF veröffentlicht werden.
+
+Die Funktion entfernt:
+
+ • Metadaten
+ • Unsichtbaren Text und Bilder
+ • Überlagernde Objekte
+ • Formular- und Anmerkungsdaten
+ • Eingebettete Inhalte und Dateien
+ • Versteckte Ebenen
+ • Versteckte Daten und Anmerkungen
+ • Unreferenzierte Daten</text>
+		<text id="sanitizeDoc.progr" h="062BF2F0">Dokument säubern...</text>
+		<text id="sanitizePage.progr" h="EA4FCD7C">Verarbeite Seite %1</text>
+		<text id="sanitizeSave.progr" h="93EC7255">Speichere gesäubertes Dokument...</text>
+		<text id="sanitizeconverter.name" h="9BE4E232">Dokumente säubern</text>
+		<text id="sanitizefilter.name" h="804EA582">Gesäubertes PDF-Dokument</text>
+		<text id="sanitizeoptions.dlg" h="A6BCECE6">Einstellungen zum Säubern des Dokuments</text>
+		<text id="sanitizeopts.lbl" h="BB4BCFA8">Wählen Sie die Aktionen, die ausgeführt werden sollen:</text>
+		<text id="saveDlg.caption" h="2FD66192">Gesäubertes Dokument speichern</text>
+		<text id="searchindex.snt" h="B2A720E0">Entferne Suchindex</text>
+		<text id="showmore.lbl" h="143C6320">Mehr anzeigen...</text>
+		<text id="singleword" h="BAB11ED8">Einzelnes Wort oder Au&amp;sdruck</text>
+		<text id="snt.redact.grp" h="98BDF535">Schwärzen</text>
+		<text id="status.saving" h="3D2A3BDC">Dokument speichern</text>
+		<text id="stdpatterns.lbl" h="4FF587EE">Standardmuster (%1 von %2)</text>
+		<text id="textcolor.lbl" h="393AC769">Textfarbe:</text>
+		<text id="unsupported.format" h="5F8D8E51">Das Format der Wortliste wird nicht unterstützt</text>
+		<text id="useregexp.chk" h="299B0303">Reguläre Ausdrücke &amp;benutzen</text>
+		<text id="whatfind.lbl" h="27D208DF">Was soll gesucht werden?</text>
+		<text id="wherefind.lbl" h="76DF8D13">Wo wollen Sie suchen?</text>
+		<text id="wholewords.lbl" h="C794AEE3">Nur &amp;ganze Wörter</text>
+		<text id="wordlist" h="637B75E0">Liste</text>
+		<text id="wordlist.empty" h="3311A197">Die Wortliste ist leer</text>
+	</Strings>
+</Localization>

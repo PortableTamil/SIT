@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180920232530">2.00.00</Version>
+	<Author>Christian A.</Author>
+	<Copyright>Translated by Christian A.</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Indonesian (Indonesia)" lName="Indonesia" code="id-ID" R2L="false"/>
+	<Module name="BookmarksPlugin" namespace="bp" version="7.0.326.10"/>
+	<Strings>
+		<text id="DlgAddExcludedWords" h="BED549D0">Tambahkan Kata Baru yang Dikecualikan</text>
+		<text id="DlgAddTextToBookmark" h="E5B26485">Tambahkan Teks ke Judul Bookmark</text>
+		<text id="DlgAutoGenerateBookmarks.Title" h="0E85373B">Hasilkan Bookmark dari Teks Halaman</text>
+		<text id="DlgBookmarkAppearance" h="7544DDCE">Tampilan Hasil</text>
+		<text id="DlgBookmarkEveryNthPage" h="B6869582">Bookmark Setiap Halaman ke-</text>
+		<text id="DlgBookmarkLevelDescription" h="186C1D0A">Opsi Pencocokan Teks</text>
+		<text id="DlgBookmarkPropSheet" h="862C67E7">Properti Pembuatan Bookmark</text>
+		<text id="DlgBookmarkTitleFormatting" h="A87502C2">Format Judul</text>
+		<text id="DlgBookmarksToNamedDests" h="8A0957E5">Konversi ke Tujuan Bernama</text>
+		<text id="DlgBookmarksToTextFile" h="29F18B82">Ekspor Bookmark ke Berkas Teks</text>
+		<text id="DlgChangeBookmarkCase" h="4D74C7D9">Ubah Besar/Kecil Huruf Teks</text>
+		<text id="DlgEditStopWords" h="911413E7">Sunting Kata Stop</text>
+		<text id="DlgFindReplaceBookmarkText" h="733A7FC1">Temukan dan Ganti Teks Bookmark</text>
+		<text id="DlgFontNames" h="3C8B1F88">Pilih Nama Fon</text>
+		<text id="DlgFromTOC" h="AC2ED85C">Daftar Isi Bookmark</text>
+		<text id="DlgFromTOCIndentation" h="12688622">Ubah Offset</text>
+		<text id="DlgFromTextFile" h="B3799046">Hasilkan Bookmark dari Berkas Teks</text>
+		<text id="DlgNamedDestsToPageNumbers" h="9CAE5E39">Konversikan Tujuan Bernama ke Tujuan Reguler</text>
+		<text id="DlgSetBookmarkZoomType" h="296A1A5F">Atur Zoom Bookmark</text>
+		<text id="DlgSheetBttfBookmarkProps" h="4B2F0AA2">Properti Bookmark</text>
+		<text id="DlgSheetBttfSelectBookmarks" h="30673BCD">Umum</text>
+		<text id="DlgSortBookmarks" h="8339BB6C">Sortir Bookmark</text>
+		<text id="DlgToTOC" h="2B3E9BF1">Buat Daftar Isi</text>
+		<text id="DlgValidateBookmarks" h="0CD39971">Validasi Bookmark</text>
+		<text id="atb.btn.Macroses" h="81734E4F">Makro</text>
+		<text id="atb.chb.IncludeChildren" h="0AC4CB2B">Termasuk semua sublevel</text>
+		<text id="atb.chb.ProcessAllLevels" h="26C3B2DF">Memproses semua level bookmark</text>
+		<text id="atb.chb.RemoveSpaces" h="ABDEA5BC">Hapus kelebihan spasi dari judul bookmark asli</text>
+		<text id="atb.gb.AddText" h="E21C9B55">Tambahkan Teks</text>
+		<text id="atb.gb.Levels" h="8A668489">Pilih Level Bookmark untuk Diproses</text>
+		<text id="atb.gb.LevelsToProc" h="A69D7BF6">Level Untuk Diproses:</text>
+		<text id="atb.gb.SelectSource" h="1E2E96A4">Pilih Sumber Bookmark</text>
+		<text id="atb.lbl.ApplyChangesTo" h="5770CF16">Terapkan Perubahan ke:</text>
+		<text id="atb.lbl.PrefixShort" h="D2C57DF1">Tambahkan Prefiks:</text>
+		<text id="atb.lbl.SelectLevel" h="D1263889">Pilih level untuk diproses:</text>
+		<text id="atb.lbl.SuffixShort" h="310B0AA6">Tambahkan Sufiks:</text>
+		<text id="atb.lbl.UseBookmarksFrom" h="E770326C">Gunakan Bookmark:</text>
+		<text id="ba.chb.expand" h="BBA3BD8A">Tampilkan terkembang (tampilkan semua anak)</text>
+		<text id="ba.l.expl" h="EE297184">Pilih tampilan visual dari bookmark yang dihasilkan:</text>
+		<text id="ba.l.textStyle" h="8D5CA9B5">Gaya Teks:</text>
+		<text id="benp.Gb.Main" h="4B2F0AA2">Properti Bookmark</text>
+		<text id="benp.Label.TitleTemplate" h="5E999567">Templat Judul Bookmark</text>
+		<text id="benp.Label1.SelectN" h="8626E4EA">Bookmark setiap</text>
+		<text id="benp.Label2.SelectN" h="6270721D">halaman dalam rentang yang dipilih</text>
+		<text id="benp.infoBtn.invalidMacro" h="1561C0F2">String berisi nama makro yang tidak ditentukan dan akan diabaikan</text>
+		<text id="bft.l.actionSeparator" h="5C05CE1E">Pemisah Parameter Tindakan:</text>
+		<text id="bft.l.separator" h="A4269065">Pembatas Bidang</text>
+		<text id="bld.btn.selStyle" h="EE213BC5">Dapatkan Gaya dari Teks yang Dipilih</text>
+		<text id="bld.chb.fontNames" h="AB457B23">Nama Fon:</text>
+		<text id="bld.chb.limitToPattern" h="7F0826AB">Batasi judul bookmark untuk pola yang cocok saja</text>
+		<text id="bld.chb.matchTextPattern" h="5A64E195">Cocokkan Pola Teks:</text>
+		<text id="bld.chb.multilineBookmarks" h="CB4817D1">Izinkan judul bookmark multibaris</text>
+		<text id="bld.g.textContentRules" h="5B364747">Aturan Konten Teks</text>
+		<text id="bld.l.description" h="2F770A5B">Pilih kombinasi dari atribut teks berikut untuk otomatis menghasilkan bookmark dari teks di dokumen:</text>
+		<text id="bld.l.matchTextCase" h="43616BDA">Cocok Besar/Kecil</text>
+		<text id="bld.matchTextCase.allCapital" h="D4E8E731">Semua Karakter adalah Kapital</text>
+		<text id="bld.matchTextCase.firstCapital" h="CAA2E79D">Karakter Pertama adalah Kapital</text>
+		<text id="bld.matchTextCase.firstDigit" h="42E73545">Karakter Pertama adalah Digit</text>
+		<text id="bld.matchTextCase.noRestrictions" h="93089981">Tidak Ada Batasan</text>
+		<text id="bnd.gb.Main" h="4DDA9780">Judul Tujuan Bernama</text>
+		<text id="bnd.lbl.NDTitle" h="7F7F73EC">Judul Tujuan Bernama akan dibuat dengan pola yang dimasukkan:</text>
+		<text id="btf.chb.insertAfter" h="DD7B743E">Tambahkan teks setelah setiap judul:</text>
+		<text id="btf.chb.insertBefore" h="CBDD1CF8">Masukkan teks sebelum setiap judul:</text>
+		<text id="btf.chb.removeDuplicateSpaces" h="2653A648">Hapus spasi duplikat</text>
+		<text id="btf.chb.replaceLineBreaks" h="0C51EEEB">Ganti jeda baris dengan spasi</text>
+		<text id="btf.chb.replaceTitle" h="097EF3C2">Cari dan ganti judul bookmark dengan pola teks</text>
+		<text id="btf.g.advancedFormatting" h="9130441A">Pemformatan Lanjutan</text>
+		<text id="btf.g.textCase" h="97FCC959">Huruf Teks Besar/Kecil</text>
+		<text id="btf.l.characters" h="189C88D2">(karakter)</text>
+		<text id="btf.l.expl" h="169A084A">Pilih properti teks yang akan diterapkan ke judul bookmark baru:</text>
+		<text id="btf.l.leadingNumbers" h="074A1A51">Nomor di Depan:</text>
+		<text id="btf.l.maxLength" h="A52EC501">Panjang Judul Maks.:</text>
+		<text id="btf.l.replacePattern" h="B54B1F92">Ganti Pola:</text>
+		<text id="btf.l.searchPattern" h="E87DDC08">Pola Pencarian:</text>
+		<text id="btf.l.use" h="46DEA47A">Gunakan:</text>
+		<text id="btf.leadingNumbers.noChange" h="3399B0A0">Tidak Ada Perubahan</text>
+		<text id="btf.rb.doNotChange" h="4CBF2C1B">Jangan Ubah</text>
+		<text id="btf.rb.lowercase" h="82451817">Huruf kecil</text>
+		<text id="btf.rb.sentenceCase" h="B26B2798">Huruf kalimat besar/kecil</text>
+		<text id="btf.rb.titleCase" h="2C8DBF1B">Huruf Judul Besar/Kecil</text>
+		<text id="btf.rb.uppercase" h="42F820C7">HURUF BESAR</text>
+		<text id="btf.use.letters" h="6EE7E478">Huruf</text>
+		<text id="btf.use.numbers" h="E2FE5FA7">Nomor</text>
+		<text id="btf.use.romanLetters" h="290A50ED">Angka Romawi</text>
+		<text id="btn.add.custom" h="3080663C">Tambahkan Kustom...</text>
+		<text id="btn.highlight" h="2485FBFF">Sorot Bookmark</text>
+		<text id="btn.validate" h="1E91E484">Validasi</text>
+		<text id="cbc.aew.label" h="7EC386C0">Tambahkan kata baru yang dikecualikan, ketik satu kata per baris (tekan "Enter" setelah setiap kata):</text>
+		<text id="cbc.cb.fromBookmarks" h="CF38CD8D">Terpilih</text>
+		<text id="cbc.cb.fromDocument" h="424CAFC5">Semua bookmark</text>
+		<text id="cbc.cb.fromSelectedBookmarks" h="2DFD9D02">Bookmark terpilih</text>
+		<text id="cbc.chb.EnterCustomWordList" h="EB8ACE1B">Masukkan daftar kata yagn tidak akan diproses</text>
+		<text id="cbc.chb.IncludeChildrenBookmarks" h="051C6219">Termasuk semua subbookmark</text>
+		<text id="cbc.gb.SelectTextCase" h="F9747FC0">Pilih Besar/Kecil Huruf Teks</text>
+		<text id="cbc.gb.TextCaseOptions" h="DAD7B4F4">Opsi</text>
+		<text id="cbc.list.header" h="647D6FC4">Kata yang Dikecualikan</text>
+		<text id="cbc.rbtn.LowerCase" h="82451817">huruf kecil</text>
+		<text id="cbc.rbtn.SentenceCase" h="B26B2798">Huruf kalimat besar/kecil</text>
+		<text id="cbc.rbtn.TitleCase" h="2C8DBF1B">Huruf Judul Besar/Kecil</text>
+		<text id="cbc.rbtn.UpperCase" h="42F820C7">HURUF BESAR</text>
+		<text id="chb.ignoreDuplicates" h="B30FC50E">Abaikan bookmark duplikat berturutan</text>
+		<text id="chb.stopWords" h="491ED7FC">Abaikan teks yang mengandung 'kata stop'</text>
+		<text id="chb.verifyLinks" h="7A46B598">Verifikasi tautan ke berkas eksternal</text>
+		<text id="chb.warnGoTo" h="911FC68A">Peringatkan jika tindakan Tuju tidak valid</text>
+		<text id="chb.warnGoToRE" h="C0827D11">Peringatkan jika tindakan Tuju Remote dan Tuju Entri tidak valid</text>
+		<text id="chb.warnLaunchURI" h="94F27C09">Peringatkan jika tindakan URI dan Luncurkan tidak valid</text>
+		<text id="chb.warnNoActions" h="FBF997CF">Peringatkan jika daftar tindakan kosong atau tidak ada anak yang valid</text>
+		<text id="chb.warnNoGoTo" h="66B02339">Peringatkan jika tindakan Tuju tidak ada dalam daftar tindakan</text>
+		<text id="chb.warnOther" h="B30D6C64">Peringatkan jika ada tindakan tidak sah lainnya</text>
+		<text id="chb.warnTitle" h="F0B5EE52">Peringatkan jika judul kosong</text>
+		<text id="cmd.addAGBLevel" h="928E2BB5">Gunakan Gaya Teks yang Dipilih dalam Pembuatan Bookmark...</text>
+		<text id="cmd.addTextToBookmarkTitle" h="C4C93738">Tambahkan Teks ke Judul Bookmark</text>
+		<text id="cmd.addTextToBookmarkTitle.short" h="E21C9B55">Tambahkan Teks</text>
+		<text id="cmd.addTextToBookmarkTitle.tip" h="B412507B">Tambahkan prefiks dan sufiks ke judul bookmark</text>
+		<text id="cmd.bookmarkEveryNthPage" h="940FCD39">Bookmark Setiap Halaman ke-...</text>
+		<text id="cmd.bookmarkEveryNthPage.short" h="71BCE832">Bookmark Setiap Halaman ke-</text>
+		<text id="cmd.bookmarkEveryNthPage.tip" h="B60E23D7">Buat bookmark terkait dengan nomor halaman dokumen.</text>
+		<text id="cmd.bookmarksToHtmlFile" h="EFF75744">Ekspor Bookmark ke HTML...</text>
+		<text id="cmd.bookmarksToHtmlFile.short" h="76C20816">Ekspor ke HTML</text>
+		<text id="cmd.bookmarksToHtmlFile.tip" h="8968844D">Simpan struktur bookmark sebagai berkas HTML.</text>
+		<text id="cmd.bookmarksToNamedDests" h="9A9E5CF2">Konversi ke Tujuan Bernama...</text>
+		<text id="cmd.bookmarksToNamedDests.short" h="9226CE11">Konversi ke Tujuan Bernama</text>
+		<text id="cmd.bookmarksToNamedDests.tip" h="76CA39A1">Konversikan tujuan reguler di daftar tindakan Bookmark ke Tujuan Bernama. Kemudian, ketika halaman dipindahkan atau dihapus, bookmark akan mengarah ke halaman yang sama seperti sebelumnya.</text>
+		<text id="cmd.bookmarksToTextFile" h="DBEBEEB8">Ekspor Bookmark ke Berkas Teks...</text>
+		<text id="cmd.bookmarksToTextFile.short" h="738D44A8">Ekspor ke Berkas Teks</text>
+		<text id="cmd.bookmarksToTextFile.tip" h="2F1DD236">Simpan struktur bookmark sebagai berkas teks.</text>
+		<text id="cmd.changeBookmarkCase" h="359544B0">Ubah Besar Huruf Bookmark...</text>
+		<text id="cmd.changeBookmarkCase.short" h="BC4AE60A">Ubah Besar Huruf</text>
+		<text id="cmd.changeBookmarkCase.tip" h="48522DE3">Ubah besar huruf dari judul bookmark.</text>
+		<text id="cmd.findReplaceBookmarkText" h="AF996007">Temukan dan Ganti Teks Bookmark...</text>
+		<text id="cmd.findReplaceBookmarkText.short" h="9F35A871">Temukan dan Ganti</text>
+		<text id="cmd.findReplaceBookmarkText.tip" h="7ED81F66">Temukan dan ganti elemen teks dalam judul bookmark.</text>
+		<text id="cmd.fromTOC" h="D15400EB">Hasilkan Bookmark dari Daftar Isi...</text>
+		<text id="cmd.fromTOC.short" h="3AB39C50">Dari Daftar Isi</text>
+		<text id="cmd.fromTOC.tip" h="D4170828">Buat bookmark dari daftar isi yang ada. Daftar isi pertama-tama perlu dipilih menggunakan Alat Pilih Teks agar fitur ini berfungsi.</text>
+		<text id="cmd.fromTextFile" h="55CA46BC">Hasilkan Bookmark dari Berkas Teks...</text>
+		<text id="cmd.fromTextFile.short" h="3619B3DB">Dari Berkas Teks</text>
+		<text id="cmd.fromTextFile.tip" h="11167525">Buat bookmark dari berkas teks. Ingat bahwa format data berkas teks perlu mengikuti aturan fitur Ekspor Bookmark ke Berkas Teks.</text>
+		<text id="cmd.generate" h="2147DF79">Hasilkan Bookmark dari Teks Halaman...</text>
+		<text id="cmd.generate.short" h="8BE514A6">Dari Teks Halaman</text>
+		<text id="cmd.generate.tip" h="2A03253C">Buat bookmark dari teks dokumen sekarang dengan menggunakan parameter dan gaya teks yang diberikan.</text>
+		<text id="cmd.macro.firstLine" h="613F14A5">Baris Pertama Teks Halaman</text>
+		<text id="cmd.macro.hierIndex" h="7DCA5F4D">Indeks Hierarkis</text>
+		<text id="cmd.macro.hierTitle" h="0E7B4B6F">Judul Hierarkis Bookmark</text>
+		<text id="cmd.macro.indexInParent" h="1B41AFB1">Indeks dalam Induk</text>
+		<text id="cmd.macro.label" h="EEE40FF3">Label Halaman</text>
+		<text id="cmd.macro.launch" h="87D9EB8D">Berkas untuk Buka</text>
+		<text id="cmd.macro.level" h="B863033F">Level Bookmark</text>
+		<text id="cmd.macro.namedDest" h="C4E8D8F5">Tujuan Bernama</text>
+		<text id="cmd.macro.sequentialNum" h="CDF4EA5E">Nomor Urut</text>
+		<text id="cmd.macro.title" h="3AB782A4">Judul Bookmark</text>
+		<text id="cmd.macro.uri" h="6C21F7EF">Tautan Web untuk Buka</text>
+		<text id="cmd.name" h="E2032460">Bookmark</text>
+		<text id="cmd.namedDestsToPageNumbers" h="3A651CA9">Konversikan Tujuan Bernama ke Tujuan Reguler...</text>
+		<text id="cmd.namedDestsToPageNumbers.short" h="74C22304">Tujuan Bernama ke Reguler</text>
+		<text id="cmd.namedDestsToPageNumbers.tip" h="2ABF8034">Konversikan Tujuan Bernama di daftar tindakan Bookmark ke tujuan reguler. Kemudian, ketika halaman dipindahkan atau dihapus, bookmark akan mengarah ke halaman yang sesuai dengan nomor halaman tujuan.</text>
+		<text id="cmd.setBookmarksZoomFactor" h="78663694">Ubah Faktor Zoom Bookmark...</text>
+		<text id="cmd.setBookmarksZoomFactor.short" h="37A2CF55">Ubah Zoom</text>
+		<text id="cmd.setBookmarksZoomFactor.tip" h="E5EE8A34">Ubah faktor zoom dari bookmark dokumen.</text>
+		<text id="cmd.sort" h="B1FFF012">Sortir Bookmark...</text>
+		<text id="cmd.sort.short" h="579162B0">Sortir</text>
+		<text id="cmd.sort.tip" h="90B74C06">Sortir bookmark berdasarkan kriteria yang diberikan.</text>
+		<text id="cmd.toTOC" h="9B7AEEEA">Buat Daftar Isi...</text>
+		<text id="cmd.toTOC.short" h="2B3E9BF1">Buat Daftar Isi</text>
+		<text id="cmd.toTOC.tip" h="E92DA1A8">Buat Daftar Isi berdasarkan struktur bookmark dan halaman yang dituju.</text>
+		<text id="cmd.validate" h="E61D60D2">Validasi Bookmark...</text>
+		<text id="cmd.validate.short" h="1E91E484">Validasi</text>
+		<text id="cmd.validate.tip" h="AF7C0DD0">Periksa validitas bookmark dengan kriteria yang diberikan.</text>
+		<text id="ebttf.actType.all" h="B8B21253">Bookmark dengan semua jenis tindakan dengan pranala</text>
+		<text id="ebttf.actType.goto" h="05B4C93C">Bookmark dengan tindakan 'Tuju Halaman'</text>
+		<text id="ebttf.actType.gotoR" h="41E1955E">Bookmark dengan tindakan 'Tuju Remote'</text>
+		<text id="ebttf.actType.js" h="07676EBA">Bookmark dengan tindakan JavaScript</text>
+		<text id="ebttf.actType.launch" h="38537D36">Bookmark dengan tindakan 'Buka Berkas'</text>
+		<text id="ebttf.actType.uri" h="F39B51AE">Bookmark dengan tindakan 'Buka Tautan Web'</text>
+		<text id="ebttf.cb.separator.comma" h="827998F7">Koma</text>
+		<text id="ebttf.cb.separator.semi" h="988594A6">Titik Koma</text>
+		<text id="ebttf.ch.doNotEscape" h="09B53F9F">Jangan luputkan simbol layanan seperti @ # { }  : dll.</text>
+		<text id="ebttf.ch.expClosedState" h="46E4EC7E">Ekspor status terciutkan Pohon bookmark</text>
+		<text id="ebttf.ch.expDetailedGotoDescr" h="18B9C243">Ekspor deskripsi tujuan secara detail</text>
+		<text id="ebttf.ch.exportActions" h="3444FE51">Ekspor tindakan bookmark</text>
+		<text id="ebttf.ch.exportGoto" h="37493654">Ekspor Halaman yang dituju bookmark</text>
+		<text id="ebttf.ch.exportGotoR" h="92C06BA6">Ekspor deskripsi tindakan 'Tuju Remote'</text>
+		<text id="ebttf.ch.exportJS" h="9362EAE3">Ekspor kode tindakan JavaScript</text>
+		<text id="ebttf.ch.exportLaunch" h="1B39BF89">Ekspor deskripsi tindakan 'Buka Berkas'</text>
+		<text id="ebttf.ch.exportStyle" h="A6713F10">Ekspor properti warna dan gaya teks bookmark</text>
+		<text id="ebttf.ch.exportWebLinks" h="3C61424C">Ekspor Tautan Web</text>
+		<text id="ebttf.ch.includeSubBookmarks" h="051C6219">Termasuk semua subbookmark</text>
+		<text id="ebttf.ch.openContFolder" h="80BDDAAC">Buka folder penampung</text>
+		<text id="ebttf.ch.overwriteExistingFiles" h="29981774">Timpa berkas yang ada</text>
+		<text id="ebttf.ch.resloveNamedDests" h="D1E8A9BC">Perbaiki tujuan bernama ke nomor halaman</text>
+		<text id="ebttf.gb.actionExportParams" h="DA853D34">Pilih Properti Bookmark untuk Diekspor</text>
+		<text id="ebttf.gb.savingResults" h="49571A59">Parameter Output</text>
+		<text id="ebttf.gb.selectBookmarks" h="E2AFC2C6">Pilih Bookmark untuk Diekspor</text>
+		<text id="ebttf.infoBtn.doNotEscape" h="93A6DD6C">Meluputkan simbol layanan disarankan jika kelak Anda bermaksud menggunakan berkas yang dihasilkan dengan fitur "Hasilkan Bookmark dari Berkas Teks".</text>
+		<text id="ebttf.infoBtn.invalidSeparator" h="44875D1F">Pembatas properti tidak dapat berupa string kosong, mengandung spasi atau simbol alfanumerik, dan tidak dapat berupa salah satu karakter berikut: @ # : { } \</text>
+		<text id="ebttf.lbl.folder" h="3F9ED2F9">Folder:</text>
+		<text id="ebttf.lbl.separator" h="E9D351AC">Pembatas properti:</text>
+		<text id="ebttf.rb.exportActionTypes" h="533F8EA6">Ekspor bookmark berisi tindakan berpranala:</text>
+		<text id="ebttf.rb.exportAll" h="8F2ED544">Ekspor semua</text>
+		<text id="ebttf.rb.exportSelected" h="69FB5145">Ekspor bookmark yang dipilih</text>
+		<text id="ebttf.rb.useDefaultFilename" h="0E7FC989">Gunakan nama berkas dokumen PDF untuk menyimpan hasil</text>
+		<text id="esw.chb.matchCase" h="2E5EFD7E">Cocok huruf besar/kecil</text>
+		<text id="esw.chb.matchWhole" h="17009870">Cocokkan keseluruhan kata</text>
+		<text id="esw.chb.useRegExp" h="7FC6EB4F">Gunakan ekspresi reguler</text>
+		<text id="esw.l.explanation" h="2C312B17">Teks yang mengandung 'kata stop' ini akan diabaikan dan tidak digunakan untuk membuat bookmark.</text>
+		<text id="fn.l.selectFontNames" h="0CCEF1FA">Pilih Nama Fon:</text>
+		<text id="frbt.chb.MatchCase" h="12EB8088">Sesuaikan besar huruf</text>
+		<text id="frbt.chb.MatchWholeWord" h="FE8CC762">Cocokkan keseluruhan kata</text>
+		<text id="frbt.chb.UseRegex" h="7FC6EB4F">Gunakan ekspresi reguler</text>
+		<text id="frbt.gb.FindReplace" h="BA012728">Opsi Temukan dan Ganti </text>
+		<text id="frbt.lbl.FindWhat" h="D0A8A2C5">Temukan apa:</text>
+		<text id="frbt.lbl.ReplaceWith" h="3BE65784">Ganti dengan:</text>
+		<text id="ftoc.allIncluded" h="C994FC1B">Termasuk Semua</text>
+		<text id="ftoc.b.indents" h="48800D32">Ubah offset...</text>
+		<text id="ftoc.chb.addBookmarks" h="CBBAE768">Tambahkan bookmark ke halaman menggunakan daftar isi</text>
+		<text id="ftoc.chb.addLinks" h="68456DBA">Tambahkan tautan ke entri daftar isi</text>
+		<text id="ftoc.chb.createLevels" h="58CF083A">Gunakan indentasi Daftar Isi untuk membuat hierarki bookmark</text>
+		<text id="ftoc.chb.improveDest" h="417AD7B0">Perbaiki tujuan bookmark dengan mengacu pada teks</text>
+		<text id="ftoc.chb.trimNumbers" h="40ACC5F5">Hapus nomor prefiks dari judul bookmark </text>
+		<text id="ftoc.chb.trimSpaces" h="5A27A063">Hapus spasi berturutan dari judul bookmark</text>
+		<text id="ftoc.chb.useExistingLinks" h="E214DBE7">Gunakan tautan yang ada sebagai tujuan bookmark baru</text>
+		<text id="ftoc.l.bottomIndent" h="C983AD6F">Offset Bawah:</text>
+		<text id="ftoc.l.expl" h="1FAB779E">Tindakan ini akan menambahkan bookmark ke halaman, berdasarkan entri daftar isi yang dipilih. Selain itu, tautan dapat ditambahkan ke entri daftar isi, dan tautan yang ada dapat digunakan sebagai tujuan bookmark.</text>
+		<text id="ftoc.l.offsetExpl" h="9D6C25F6">Ini adalah perbedaan antara nomor halaman fisik dalam dokumen dan nomor halaman tercetak, bisa positif atau negatif.</text>
+		<text id="ftoc.l.pageOffset" h="9E563407">Offset Halaman:</text>
+		<text id="ftoc.l.separator" h="45CF4893">Pilih jenis pemisah:</text>
+		<text id="ftoc.l.topIndent" h="FA827580">Offset Atas:</text>
+		<text id="msg.bft.warning" h="726201E6">Silakan pilih simbol yang berbeda untuk pembatas bidang dan pemisah tindakan! </text>
+		<text id="msg.cbc.excludedwords.add.title" h="9ADE883B">Tambahkan Kata Baru yang Dikecualikan</text>
+		<text id="msg.cbc.excludedwords.caption" h="6B29D4B4">Masukkan Kata yang Dikecualikan:</text>
+		<text id="msg.cbc.excludedwords.edit.title" h="82F8AAA6">Sunting Kata Terpilih yang Dikecualikan</text>
+		<text id="msg.dlg.bookmarksToTextFile.done" h="8E1397E9">Bookmark berhasil diekspor.</text>
+		<text id="msg.dlg.emptyFilename.warning" h="96A438DA">Nama berkas tidak dapat kosong.</text>
+		<text id="msg.dlg.invalidFilename.slashes" h="626318B0">Nama berkas tidak dapat secara berturut-turut mengandung simbol  atau /, juga tidak dapat diakhiri dengan salah satunya.</text>
+		<text id="msg.dlg.invalidFilename.warning" h="46CD566C">Windows melarang nama berkas yang mengandung simbol berikut: * ? : | " &lt; &gt; </text>
+		<text id="msg.dlg.noActionsSelected.warning" h="933F1901">Boks centang "Ekspor tindakan bookmark" dipilih tanpa penentuan jenis tindakan. Silakan pilih satu atau beberapa jenis tindakan untuk diekspor, atau hapus pilihan pada boks centang "Ekspor tindakan bookmark".</text>
+		<text id="msg.dlg.noSelectedBookmarks.warning" h="21F37C67">Tidak ada bookmark yang dipilih. Silakan pilih satu atau beberapa bookmark, atau ubah parameter "Sumber Bookmark" menjadi "Semua bookmark".</text>
+		<text id="msg.dlg.pathDoesntExist.warning" h="0804B942">Folder yang Anda tentukan tidak ada. Silakan pilih folder tujuan yang valid dan coba lagi.</text>
+		<text id="msg.font.addCustom.caption" h="75533687">Masukkan nama fon PDF baru:</text>
+		<text id="msg.font.addCustom.title" h="06AFFCAB">Tambahkan Fon Kustom Baru</text>
+		<text id="msg.frbt.result.bookmarksCount" h="EE00AC0B">Pencarian selesai. Jumlah bookmark yang diubah: %1</text>
+		<text id="msg.frbt.result.noBookmarksModified" h="84BE491B">Pencarian selesai. Tidak ada bookmark yang diubah.</text>
+		<text id="msg.levelDesc.title" h="E92EACC5">Spesifikasi Level</text>
+		<text id="msg.levelDesc.warning" h="86A85979">Tidak mungkin membuat level bookmark baru sebagai parameter sekarang. Silakan pilih setidaknya satu kriteria yang cocok dalam Opsi Pencocokan Teks. Selain itu, silakan periksa apakah elemen yang dipilih berisi data.</text>
+		<text id="msg.oper.noChanges" h="5777DD79">Tidak ada perubahan yang dilakukan. Silakan periksa data input Anda dan coba lagi.</text>
+		<text id="msg.oper.warning" h="ABDCBB65">Ada beberapa masalah selama pelaksanaan operasi. Silakan periksa hasilnya.</text>
+		<text id="msg.regex.error" h="D799FCBE">Kesalahan saat mengurai ekspresi reguler</text>
+		<text id="msg.stopWords.add.title" h="F6B54725">Tambahkan Frasa Stop Baru</text>
+		<text id="msg.stopWords.caption" h="E2BC1B9E">Masukkan 'kalimat stop' atau 'kata stop' baru:</text>
+		<text id="msg.stopWords.edit.title" h="AFE604DF">Sunting Frasa Stop yang Dipilih</text>
+		<text id="msg.titleFormatting.title" h="A87502C2">Format Judul</text>
+		<text id="msg.titleFormatting.warning" h="1E329424">Parameter Format Judul tidak valid. Silakan periksa data yang dimasukkan dan coba lagi.</text>
+		<text id="msg.validateBookmarks.delete.caption" h="ED4457F4">Anda ingin menghapus anak dan bookmark yang dipilih?</text>
+		<text id="msg.validateBookmarks.delete.title" h="8FF00765">Hapus Bookmark yang Tidak Valid</text>
+		<text id="msg.validateBookmarks.rename.caption" h="CE842D61">Masukkan nama bookmark baru:</text>
+		<text id="msg.validateBookmarks.rename.title" h="ED9AF7FA">Ganti Nama Bookmark</text>
+		<text id="ndpn.ch.deleteDests" h="BC12FBF0">Hapus tujuan bernama yang dikonversi dari dokumen</text>
+		<text id="op.GenerateBookmarks" h="05382BCA">Hasilkan Bookmark</text>
+		<text id="op.ValidateBookmarks.msg.emptyActionsList" h="A0A0065C">Bookmark tidak memiliki tindakan tertentu.</text>
+		<text id="op.ValidateBookmarks.msg.emptyTitle" h="83F3E965">Judul bookmark kosong.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidDestName" h="81A40483">Tindakan Tuju mengacu pada Tujuan Bernama yang tidak valid.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidPageNumber" h="C8941D79">Tindakan Tuju mengacu pada halaman di luar batas.</text>
+		<text id="op.ValidateBookmarks.msg.goto.noAction" h="368F0970">Tidak ada tindakan Tuju dalam daftar tindakan.</text>
+		<text id="op.ValidateBookmarks.msg.gotoE.invalidTargetPath" h="9D8A50F1">Jalur target kosong atau tidak ada dalam tindakan Tuju Entri.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidFile" h="76CCA61D">Tindakan Tuju Remote mengacu pada berkas yang tidak valid.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidPath" h="560614BE">Jalur ke berkas tidak valid.</text>
+		<text id="op.ValidateBookmarks.msg.invalidAction" h="84877FDA">Tindakan %1 tidak valid.</text>
+		<text id="progress.BookmarkEveryNthPage.title" h="DA523087">Melakukan bookmark halaman...</text>
+		<text id="progress.addTextToBookmarkTitle.text" h="BE27C5C9">Menambahkan teks ke bookmark: %1...</text>
+		<text id="progress.addTextToBookmarkTitle.title" h="EC7EB408">Menambahkan teks ke bookmark...</text>
+		<text id="progress.addingBookmark" h="45BBB17E">Menambahkan bookmark: %1 dari %2...</text>
+		<text id="progress.bookmarksToHtmlFile.status" h="AF1901AD">Mengekspor bookmark: %1 dari %2...</text>
+		<text id="progress.bookmarksToHtmlFile.text" h="4DD531FF">Mengekspor bookmark: %1...</text>
+		<text id="progress.bookmarksToHtmlFile.title" h="E1D21FEE">Mengekspor ke HTML...</text>
+		<text id="progress.bookmarksToNamedDests.text" h="CE73819F">Mengonversi bookmark: %1...</text>
+		<text id="progress.bookmarksToNamedDests.title" h="8DB00717">Mengonversi ke tujuan bernama...</text>
+		<text id="progress.bookmarksToTextFile.text" h="6E74EA26">Memproses bookmark untuk ekspor: %1</text>
+		<text id="progress.bookmarksToTextFile.title" h="D2C04472">Mengekspor bookmark ke berkas teks...</text>
+		<text id="progress.calculatingBookmarks" h="4AC26E12">Menghitung bookmark...</text>
+		<text id="progress.changingBookmarkCase.text" h="107628CA">Mengubah besar/kecil huruf teks: %1...</text>
+		<text id="progress.changingBookmarkCase.title" h="E01AED17">Mengubah Besar/Kecil Huruf Teks...</text>
+		<text id="progress.findReplaceBookmarkText.text" h="ABC58F1D">Memproses bookmark: %1</text>
+		<text id="progress.findReplaceBookmarkText.title" h="00FEBD2A">Mengganti teks bookmark...</text>
+		<text id="progress.generateBookmarks" h="3D5E30ED">Menghasilkan bookmark dari halaman %1...</text>
+		<text id="progress.generatingBookmarks" h="CFF0F2A9">Menghasilkan Bookmark</text>
+		<text id="progress.generatingBookmarks.label" h="043CF7B1">Menambahkan bookmark: %1...</text>
+		<text id="progress.generatingLevels" h="07A22443">Menghasilkan level dari bookmark...</text>
+		<text id="progress.generatingTOC" h="A438CB9C">Menghasilkan Daftar Isi</text>
+		<text id="progress.generatingTOCFromBookmark" h="C9213435">Menghasilkan konten dari bookmark: %1...</text>
+		<text id="progress.namedDestsToPageNumbers.deleteNds" h="5DFFFF06">Menghapus tujuan bernama...</text>
+		<text id="progress.namedDestsToPageNumbers.title" h="4615CB0B">Mengonversi tujuan bernama ke nomor halaman...</text>
+		<text id="progress.parsingFile" h="B2405DA1">Membaca struktur bookmark dari berkas teks...</text>
+		<text id="progress.precalculatingPages" h="DB83BEF7">Membuat halaman untuk Daftar Isi...</text>
+		<text id="progress.preparingSelected" h="52031EDE">Menyiapkan bookmark yang dipilih...</text>
+		<text id="progress.settingBookmarksZoom" h="DF2C9E26">Mengubah Zoom Bookmark: %1...</text>
+		<text id="progress.settingBookmarksZoom.status" h="FB6B6DCD">Mengubah Zoom %1 bookmark dari %2...</text>
+		<text id="progress.settingBookmarksZoom.title" h="5567B65E">Mengubah Zoom Bookmark</text>
+		<text id="progress.sortingBookmarks" h="99E846CF">Menyortir bookmark: %1...</text>
+		<text id="progress.sortingBookmarks.status" h="451C3890">Menyortir %1 bookmark dari %2...</text>
+		<text id="progress.sortingBookmarks.title" h="E134B46E">Penyortiran Bookmark</text>
+		<text id="progress.statusText.ProcessingBookmarks" h="3836AD6B">Memproses bookmark %1 dari %2...</text>
+		<text id="progress.statusText.ProcessingBookmarksDone" h="67CB6C48">Pemrosesan bookmark selesai.</text>
+		<text id="progress.undoingChanges" h="BBD3EE96">Mengurungkan perubahan...</text>
+		<text id="rbar.convert" h="EFAC3874">Konversikan</text>
+		<text id="rbar.create" h="EDCA1553">Buat</text>
+		<text id="rbar.modify" h="EA358CAF">Ubah</text>
+		<text id="regex.error.backref" h="3D1C1BE5">Ekspresi berisi referensi kembali yang tidak valid.</text>
+		<text id="regex.error.badbrace" h="4363EA7D">Ekspresi berisi rentang yang tidak valid di antara kurung kurawal: '{' dan '}'.</text>
+		<text id="regex.error.badrepeat" h="9091944F">Ekspresi berisi penentu berulang, yakni salah satu dari *? + {, yang tidak didahului oleh ekspresi reguler yang valid.</text>
+		<text id="regex.error.brace" h="3031B0A1">Ekspresi berisi kurung kurawal yang tidak cocok: '{' dan '}'.</text>
+		<text id="regex.error.brack" h="A41AB311">Ekspresi berisi tanda kurung besar yang tidak cocok: '[' dan ']'.</text>
+		<text id="regex.error.collate" h="D15FB49F">Ekspresi berisi nama elemen penyusun yang tidak valid.</text>
+		<text id="regex.error.complexity" h="76ADCA5C">Kompleksitas dari kecocokan percobaan terhadap ekspresi reguler melebihi level yang ditetapkan sebelumnya.</text>
+		<text id="regex.error.ctype" h="76D6C176">Ekspresi berisi nama kelas karakter yang tidak valid.</text>
+		<text id="regex.error.default" h="509A660E">Terjadi kesalahan saat memproses input ekspresi reguler.</text>
+		<text id="regex.error.escape" h="4BAF1552">Ekspresi berisi karakter yang diluputkan yang tidak valid, atau peluputan tambahan.</text>
+		<text id="regex.error.paren" h="11F2EE54">Ekspresi berisi tanda kurung yang tidak cocok: '(' dan ')'.</text>
+		<text id="regex.error.range" h="CDB00023">Ekspresi berisi rentang karakter yang tidak valid (mis. [z-a])</text>
+		<text id="regex.error.space" h="2FFB9DD7">Memori tidak cukup untuk menangani ekspresi reguler ini.</text>
+		<text id="regex.error.stack" h="2F47E3EC">Memori tidak cukup untuk menentukan apakah ekspresi reguler bisa cocok dengan urutan karakter yang ditentukan.</text>
+		<text id="regex.error.syntax" h="4F399035">Ada kesalahan dalam sintaks ekspresi reguler.</text>
+		<text id="rtab" h="E2032460">Bookmark</text>
+		<text id="sb.ascending" h="59F2363F">Naik</text>
+		<text id="sb.chb.ignoreCase" h="E0949C6C">Abaikan besar/kecil huruf teks </text>
+		<text id="sb.chb.sortAll" h="7BB3E98C">Sortir semua level bookmark</text>
+		<text id="sb.chb.sortChildren" h="B1087C90">Sortir bookmark anak</text>
+		<text id="sb.descending" h="74091246">Turun</text>
+		<text id="sb.g.sortingMethod" h="93D0D863">Metode Penyortiran</text>
+		<text id="sb.l.selectLevel" h="62FA8E9C">Pilih level bookmark untuk disortir:</text>
+		<text id="sb.l.sortType" h="85828DAE">Jenis penyortiran</text>
+		<text id="sb.rb.sortAlpha" h="F9CD110C">Sortir bookmark menurut abjad</text>
+		<text id="sb.rb.sortByPage" h="EB2AF7E4">Sortir bookmark dengan merujuk nomor halaman</text>
+		<text id="sbz.chb.changeGoToE" h="0F9F7991">Ubah level zoom tindakan Tuju Entri</text>
+		<text id="sbz.chb.changeGoToR" h="CDE782F7">Ubah level zoom tindakan Tuju Remote</text>
+		<text id="sbz.chb.changeNamedDestinations" h="182510AD">Ubah Tujuan Bernama yang digunakan dalam bookmark</text>
+		<text id="sbz.gb.zoomParams" h="89DAAEE8">Parameter Zoom</text>
+		<text id="test" h="A538F326">Tes String</text>
+		<text id="tree.fontColor" h="210B1C91">Warna Teks</text>
+		<text id="tree.fontName" h="ACA86074">Nama Fon</text>
+		<text id="tree.fontSize" h="B3CE43BA">Ukuran Fon:</text>
+		<text id="tree.fontTolerance" h="7781AAB6">Toleransi:</text>
+		<text id="tree.level" h="9B075A86">Level:</text>
+		<text id="tree.textPattern" h="24121AD7">Pola Teks:</text>
+		<text id="tree.vb.bookmark" h="9926EC31">&lt;b&gt;%1. Bookmark:&lt;/b&gt; "%2"</text>
+		<text id="ttoc.b.build" h="DE9A0F1C">Buat</text>
+		<text id="ttoc.b.changeNumber" h="DD04BEA8">Ubah Format...</text>
+		<text id="ttoc.b.changeTitle" h="3B951B9A">Ubah Format Judul...</text>
+		<text id="ttoc.chb.asLastPage" h="D323F9DD">Sebagai hlm terakhir</text>
+		<text id="ttoc.chb.end" h="9F41B967">Gunakan semua level bookmark</text>
+		<text id="ttoc.chb.skipInvalid" h="F864C487">Abaikan bookmark yang tidak valid</text>
+		<text id="ttoc.chb.useDifferentNumberFormatting" h="A39D9F18">Gunakan format nomor kustom</text>
+		<text id="ttoc.chb.useDifferentSeparatorFormatting" h="7D6F82B2">Gunakan format pemisah kustom</text>
+		<text id="ttoc.chb.useSizeFromDoc" h="79C19271">Tentukan ukuran halaman dari dokumen</text>
+		<text id="ttoc.g.pageNumbering" h="21AF4605">Penomoran Halaman</text>
+		<text id="ttoc.g.pageSettings" h="D82087B4">Pengaturan Halaman</text>
+		<text id="ttoc.ib.numberFormat" h="D41C6CB8">&lt;b&gt;Format Nomor:&lt;/b&gt; &lt;i&gt;Keluarga Fon:&lt;/i&gt; %1, &lt;i&gt;Ukuran Fon:&lt;/i&gt; %2 pt, &lt;i&gt;Warna Fon:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.separatorFormat" h="14A80F28">&lt;b&gt;Format Pemisah:&lt;/b&gt; &lt;i&gt;Keluarga Fon:&lt;/i&gt; %1, &lt;i&gt;Ukuran Fon:&lt;/i&gt; %2 pt, &lt;i&gt;Warna Fon:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.titleFormat" h="4A9C0388">&lt;b&gt;Format Judul:&lt;/b&gt; &lt;i&gt;Keluarga Fon:&lt;/i&gt; %1, &lt;i&gt;Ukuran Fon:&lt;/i&gt; %2 pt, &lt;i&gt;Warna Fon:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.l.end" h="43FA653A">Level bookmark terakhir yang disertakan di Daftar Isi:</text>
+		<text id="ttoc.l.insertAsPage" h="B68AF5B1">Daftar Isi sebelum halaman:</text>
+		<text id="ttoc.l.outputPagesAs" h="96E6A50A">Nomor halaman output sebagai:</text>
+		<text id="ttoc.l.pageMargins" h="DA4D6B15">Margin Halaman:</text>
+		<text id="ttoc.l.start" h="B03149CB">Level bookmark pertama yang disertakan di Daftar Isi:</text>
+		<text id="ttoc.l.title" h="930D3835">Judul:</text>
+		<text id="ttoc.l.titleFormatting" h="21C775EE">Perbarui pemformatan judul:</text>
+		<text id="ttoc.output.bates" h="ECE56FA9">Penomoran Bates (jika ada)</text>
+		<text id="ttoc.output.labels" h="EAE579C1">Label Halaman</text>
+		<text id="ttoc.output.numbers" h="38E0043C">Nomor Halaman Asli</text>
+		<text id="ttoc.style.dots" h="C13D9439">Bab..........1</text>
+		<text id="ttoc.style.spaces" h="D9E4F5A0">Bab          1</text>
+		<text id="ttoc.style.underline" h="B52B746A">Bab______1</text>
+		<text id="ttoc.tableOfContents" h="080B4CC0">Daftar Isi</text>
+		<text id="undefinedFont" h="1DF66129">&lt;i&gt;Fon tidak terdefinisi (%1)&lt;/i&gt;</text>
+		<text id="vb.invalidALWarining" h="6B3E67E5">Perubahan diabaikan karena daftar tindakan tidak valid. Silakan tentukan setidaknya satu tindakan.</text>
+		<text id="vb.l.invalidBookmarks" h="EE502FFE">%1 bookmark yang tidak valid ditemukan</text>
+	</Strings>
+</Localization>

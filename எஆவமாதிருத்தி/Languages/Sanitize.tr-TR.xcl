@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20220414000750">2.00.00</Version>
+	<Author>Osman Öz</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Turkish (Turkey)" lName="Türkçe" code="tr-TR" R2L="false"/>
+	<Module name="SanitizePlugin" namespace="snt" version="9.3.361.0"/>
+	<Strings>
+		<text id="accessibilty.chk" h="691CFC68">Erişilebilirlik etiketleri</text>
+		<text id="actionsandscripts.snt" h="DD6759CC">Eylemi ve komut dosyalarını kaldır</text>
+		<text id="add.new.pntlist" h="8052B2AC">Yeni kalıp listesi ekle...</text>
+		<text id="add.new.pntlist.tip" h="9DD2AAE5">Yeni özel kalıp listesi oluşturur</text>
+		<text id="attachments.chk" h="E754AE2B">&amp;Eklerde ara</text>
+		<text id="attachments2.chk" h="488D4743">Eklerde ara</text>
+		<text id="autolocale.ptn" h="986476CF">Otomatik (%1)</text>
+		<text id="bookmarks.chk" h="E2032460">Yer imleri</text>
+		<text id="builder.tip" h="DCB5FF71">Normal İfade Oluşturucu</text>
+		<text id="case.chk" h="371919EA">Büyük/küçük harf &amp;eşleştir</text>
+		<text id="click2seedescr" h="2B79F497">Açıklamasını burada görmek için kalıba tıklayın...</text>
+		<text id="cmd.findandredact" h="A71BA803">Bul ve Düzelt</text>
+		<text id="cmd.findandredact.tip" h="C9957B03">Metni bulur ve düzeltme sonucunu işaretler.</text>
+		<text id="cmd.list.add" h="8E2EE8C1">Ekle</text>
+		<text id="cmd.list.addcustom.tip" h="48F73BAE">Özel kalıp ekleyin</text>
+		<text id="cmd.list.checkall" h="1ED93781">Tümünü İşaretle</text>
+		<text id="cmd.list.load" h="D2BD1E32">Yükle...</text>
+		<text id="cmd.list.locale" h="2B6AC5E3">&amp;Yerel</text>
+		<text id="cmd.list.remove" h="FCE39C1F">Kaldır</text>
+		<text id="cmd.list.removecustom.tip" h="D7AF6E36">İşaretli özel kalıpları kaldır</text>
+		<text id="cmd.list.save" h="0272DFB9">Kaydet...</text>
+		<text id="cmd.list.uncheckall" h="5D53AA8D">Tüm İşaretleri Kaldır</text>
+		<text id="commentsandlinks.chk" h="DA6216C5">Yorumlar ve harici bağlantılar</text>
+		<text id="customname" h="48E7DC23">Özel kalıp</text>
+		<text id="custompatterns.lbl" h="5E153556">Özel kalıplar (%1 / %2)</text>
+		<text id="customptn.dlg" h="8583A4FB">Özel Kalıp</text>
+		<text id="deletepattern1.msg" h="07465752">Bu kalıbı silmek istediğinizden emin misiniz?</text>
+		<text id="deletepatterns.msg" h="ECB5282F">İşaretlenmiş özel kalıp(lar)ı silmek istediğinizden emin misiniz?</text>
+		<text id="deletetext.chk" h="8280F60B">Bulunan metni sil</text>
+		<text id="documentinfo.chk" h="913876A8">Belge bilgileri (başlık, konu, yazar vb.)</text>
+		<text id="documentxmp.chk" h="55410A25">Belgenin XMP meta verileri</text>
+		<text id="editstring.lbl" h="641BB43C">Aramak için kelime veya kelime öbeği düzenle</text>
+		<text id="enterphrase.lbl" h="E663CA06">Aramak için kelime veya kelime öbeği girin:</text>
+		<text id="enterphrase.lbl.cue" h="F6663BF7">Kelime veya kelime öbeği girin...</text>
+		<text id="example.lbl" h="489035D9">Kalıp örneği girin:</text>
+		<text id="findopt.grp" h="6D2C3084">Bulma Seçenekleri</text>
+		<text id="findredact.dlg" h="D7CC6798">Metni Bul ve Düzelt</text>
+		<text id="forms.chk" h="EE24932E">Formlar</text>
+		<text id="formsandcomments.snt" h="3CE422D8">Yorumları ve formları düzleştirin</text>
+		<text id="hiddenText.chk" h="1065E006">Sayfada gizli metin var</text>
+		<text id="hiddenlayer.snt" h="05D69CC6">Gizli katmanları kaldır</text>
+		<text id="hiddenttext.snt" h="ECD99D2C">Gizli metni kaldır</text>
+		<text id="history.fr.redo" h="38D56E9D">Yeniden Düzeltme Metni</text>
+		<text id="history.fr.title" h="BDE7F808">Bul Ve Düzelt</text>
+		<text id="history.fr.undo" h="FC974711">Metni Düzeltmeyi Geri Al</text>
+		<text id="layers.chk" h="B5D83FAD">Sayfa katman içeriyor</text>
+		<text id="marktext.chk" h="71D6C968">Düzeltmek için bulunan metni &amp;işaretle</text>
+		<text id="match.abc" h="3760672D">'Abc' setindeki herhangi bir karakteri eşleştirin</text>
+		<text id="match.anynumeric" h="A6E72A4D">Herhangi bir sayısal karakteri eşleştiin</text>
+		<text id="match.anyword" h="C747C7E3">Herhangi bir kelime karakteri eşleştirin</text>
+		<text id="match.intdec" h="1D7C37DC">Tamsayıları ve ondalık sayıları eşleştirin</text>
+		<text id="match.linebegin" h="E85BEDEB">Satırın başında eşleştirin</text>
+		<text id="match.notabc" h="07BFD63F">'Abc' setinde olmayan herhangi bir karakteri eşleştirin</text>
+		<text id="match.onemore" h="A0F72662">Herhangi bir karakteri bir veya daha fazla kez eşleştirin</text>
+		<text id="match.range" h="CCF11EC0">A ile f aralığındaki herhangi bir karakteri eşleştirin</text>
+		<text id="match.single" h="22AEEA91">Herhangi bir karakteri eşleştirin (satır sonu hariç)</text>
+		<text id="match.threedigits" h="F40292A5">Üç ardışık ondalık basamağı eşleştirin</text>
+		<text id="match.whitespace" h="F4925C7A">Herhangi bir boşluk karakterini eşleştirin</text>
+		<text id="match.wordends" h="EC27D4F5">Kelimenin başında veya sonunda eşleştirin</text>
+		<text id="match.zeromore" h="4EE3FE93">Herhangi bir karakteri sıfır veya daha fazla kez eşleştirin</text>
+		<text id="maxcountfile.msg" h="7C0D9E22">Kelimeler listesi izin verilen maksimum boyuta kesildi: %1</text>
+		<text id="maxnumberofwords.msg" h="52B7987A">Yeni öğe eklenemiyor:
+Liste maksimum kelime veya kelime öbeğini aşıyor</text>
+		<text id="maxwordlength.msg" h="5BE34E54">Kelime veya cümle çok uzun"</text>
+		<text id="maxwordlengthfromfile.msg" h="FE7C0D03">Sözcük veya tümcecik izin verilen maksimum uzunluğa kesildi: %1</text>
+		<text id="multipleword" h="C8368EA9">Birden çok &amp;kelime veya kelime öbeği</text>
+		<text id="newstring.lbl" h="927FC81B">Aramak için yeni bir kelime veya kelime öbeği ekleyin</text>
+		<text id="notextwasfound" h="D1BCA29B">Eşleşen kriterlere sahip metin bulunamadı.</text>
+		<text id="objects.lbl" h="AFBB32E9">Nesneler metni:</text>
+		<text id="objectsxmp.chk" h="B45AE8C8">Nesnelerin XMP meta verileri</text>
+		<text id="obscured.content.chk" h="1311BB99">Kesilmiş veya görünmeyen içerik bulundu</text>
+		<text id="obscuredcontent.snt" h="7F9B3F4C">Gizlenmiş içeriği kaldır</text>
+		<text id="opt.donotshow" h="B2D782D9">Bu mesajı tekrar gösterme</text>
+		<text id="outlines.snt" h="48561E69">Yer imlerini kaldır</text>
+		<text id="overlapping.obj.chk" h="D2955BC5">Sayfa çakışan nesneler içeriyor</text>
+		<text id="overlappingobjects.snt" h="99DED65B">Çakışan nesnelerle içeriği rasterleştir</text>
+		<text id="pagetext.lbl" h="B7832810">Sayfa metni:</text>
+		<text id="pagetext2.chk" h="7FBFC7B2">Sayfa metni</text>
+		<text id="patternlocale.lbl" h="5470225F">Kalıp yerel ayarını seçin:</text>
+		<text id="patterns" h="ACAA6A08">&amp;Kalıplar</text>
+		<text id="patterns.desc.tip" h="127DB6CA">Kalıbın açıklamasını girin (isteğe bağlı)...</text>
+		<text id="patterns.description.empty" h="CB37274C">Kalıbın açıklaması boş</text>
+		<text id="patterns.example.tip" h="127DB6CA">Kalıbın açıklamasını girin (isteğe bağlı)...</text>
+		<text id="phones.ptn" h="889BA45B">Örneğin
+555-1234
+212.555.1212
+1 (212) 555-1234</text>
+		<text id="preceding.onemore" h="0DB280A6">Önceki karakteri bir veya daha fazla kez eşleştirin</text>
+		<text id="preceding.zeromore" h="6994F6CF">Önceki karakteri sıfır veya daha fazla kez eşleştirin</text>
+		<text id="preceding.zeroone" h="96A31B68">Önceki karakteri sıfır veya bir kez eşleştirin</text>
+		<text id="processing.accessibility" h="07319AF0">Erişilebilirlik etiketlerini işleme</text>
+		<text id="processing.embeddedfiles" h="9C473B09">Gömülü dosyaları işleme</text>
+		<text id="processing.markedcontent" h="41E6A029">İşaretli içeriklerin işlenmesi</text>
+		<text id="processing.metadata" h="27C23D00">Belgenin meta verilerini işleme</text>
+		<text id="progress.applyredaction" h="82CD13B5">Belgeye düzeltme uygulanıyor...</text>
+		<text id="progress.findtext" h="9AA4E47B">Eşleşen ölçütlere sahip metin aranıyor...</text>
+		<text id="ptndescr.lbl" h="C56EB241">Kalıp açıklamasını girin:</text>
+		<text id="ptnname.lbl" h="A7E2C5D0">Kalıp adını girin:</text>
+		<text id="ptnvalue.lbl" h="58401EB7">Kalıp değerini girin:</text>
+		<text id="rbar.sanitize" h="092C966D">Belgeyi Sterilize Et</text>
+		<text id="rbar.sanitize.tip" h="B573254E">Meta veriler, form verileri, görünmez içerikler gibi hassas bilgileri kaldırır...</text>
+		<text id="redactioncolor.lbl" h="AA984FC4">Düzeltme rengi:</text>
+		<text id="redactiontext.edt.cue" h="0A4FA672">&lt;Ayarlanmadı&gt;</text>
+		<text id="redactiontext.lbl" h="F18E110C">Metin:</text>
+		<text id="redacttext.chk" h="1E76EC28">Bulunan metni &amp;düzeltin</text>
+		<text id="regexp.help" h="41F2BA26">Normal İfade Yardımı</text>
+		<text id="removeembedded.snt" h="29624A93">Gömülü içeriği kaldır</text>
+		<text id="removemetadata.snt" h="0A323970">Meta verileri ve belge bilgilerini kaldır</text>
+		<text id="repeattext.chk" h="D0D05924">Metni tekrarla</text>
+		<text id="replacetext.chk" h="DB2F141B">Metni şununla değiştir:</text>
+		<text id="resolution.lbl" h="F5CAE407">Rasterleştirme çözünürlüğü:</text>
+		<text id="sanitize.descr" h="6AA269FA">PDF Belgesini Sterilize Et</text>
+		<text id="sanitize.lbl" h="9650169B">Belgeyi Sterilize Etmek, gizli verileri ve meta verileri kaldıracak ve böylece herhangi bir hassas bilgi PDF'nizle birlikte yayınlanmayacaktır. Belgenize uygulanacak bir seçenek belirleyin:</text>
+		<text id="sanitize.warning" h="3321EE07">Belgeyi Sterilize Etmek, gizli verileri ve meta verileri kaldıracak ve böylece hassas bilgiler PDF'nizle birlikte yayınlanmayacaktır.
+
+İşlem şunları kaldıracak:
+
+   • Meta veriler
+   • Görünmez metin ve resimler
+   • Çakışan nesneler
+   • Form ve yorum verileri
+   • Gömülü içerik ve dosyalar
+   • Gizli katmanlar
+   • Gizli veriler ve yorumlar
+   • Referanssız veriler</text>
+		<text id="sanitizeDoc.progr" h="062BF2F0">Belgeyi sterilize etme...</text>
+		<text id="sanitizePage.progr" h="EA4FCD7C">%1 sayfası işleniyor</text>
+		<text id="sanitizeSave.progr" h="93EC7255">Sterilize edilmiş belgeyi kaydetme...</text>
+		<text id="sanitizeconverter.name" h="9BE4E232">Dönüştürücüyü Sterilize Et</text>
+		<text id="sanitizefilter.name" h="804EA582">Sterilize Edilmiş PDF Belgeleri</text>
+		<text id="sanitizeoptions.dlg" h="A6BCECE6">Belge Seçeneklerini Sterilize Et</text>
+		<text id="sanitizeopts.lbl" h="BB4BCFA8">Uygulanacak seçenekleri seçin:</text>
+		<text id="saveDlg.caption" h="2FD66192">Sterilize Edilmiş Belgeyi Kaydet</text>
+		<text id="searchindex.snt" h="B2A720E0">Arama dizinini kaldır</text>
+		<text id="showmore.lbl" h="143C6320">Daha fazla göster...</text>
+		<text id="singleword" h="BAB11ED8">&amp;Tek kelime veya kelime öbeği</text>
+		<text id="snt.redact.grp" h="98BDF535">Düzeltme Seçenekleri</text>
+		<text id="status.saving" h="3D2A3BDC">Belgeyi kaydetme</text>
+		<text id="stdpatterns.lbl" h="4FF587EE">Standart kalıplar (%1 / %2)</text>
+		<text id="textcolor.lbl" h="393AC769">Metin rengi:</text>
+		<text id="unsupported.format" h="5F8D8E51">Kelime listesinin desteklenmeyen biçimi var</text>
+		<text id="useregexp.chk" h="299B0303">Normal ifadeler &amp;kullanın</text>
+		<text id="whatfind.lbl" h="27D208DF">HANGİ metni bulmak istersiniz?</text>
+		<text id="wherefind.lbl" h="76DF8D13">NEREDE bulmak istersiniz?</text>
+		<text id="wholewords.lbl" h="C794AEE3">&amp;Sadece tüm kelimeler</text>
+		<text id="wordlist" h="637B75E0">Kelime listesi</text>
+		<text id="wordlist.empty" h="3311A197">Kelimelerin listesi boş</text>
+	</Strings>
+</Localization>

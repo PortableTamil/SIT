@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20191210184713">2.00.00</Version>
+	<Author>Tz</Author>
+	<Copyright>Tz</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Japanese (Japan)" lName="日本語" code="ja-JP" R2L="false"/>
+	<Module name="ColorConvert" namespace="cc" version="8.0.335.0"/>
+	<Strings>
+		<text id="absolute.ri" h="2B4BF91A">絶対的な色域</text>
+		<text id="any.cs" h="8A3A9D71">任意の色空間</text>
+		<text id="anycmyk.cs" h="7F4DF0D2">任意の CMYK</text>
+		<text id="anyobject.type" h="72C84120">任意のオブジェクト</text>
+		<text id="anyrgb.cs" h="94CA7E95">任意の RGB</text>
+		<text id="calcmyk.cs" h="F1126F53">CMYK をキャリブレート</text>
+		<text id="calgray.cs" h="33EB89D0">グレースケールをキャリブレート</text>
+		<text id="calibrated.cs" h="6691A3E6">キャリブレート済み</text>
+		<text id="calrgb.cs" h="EA2AFBDE">RGB をキャリブレート</text>
+		<text id="cmd.list.add" h="8E2EE8C1">追加</text>
+		<text id="cmd.list.remove" h="FCE39C1F">削除</text>
+		<text id="colortype.lbl" h="21687EB3">色の種類:</text>
+		<text id="command.lbl" h="63E7087D">変換コマンド:</text>
+		<text id="conv.false" h="FDCF50B8">変換対象のオブジェクトが見つかりませんでした</text>
+		<text id="conv.succeeded" h="9F1280CB">変換が成功しました</text>
+		<text id="convattr.grp" h="9849DBD9">変換の属性</text>
+		<text id="conversion.commads.group" h="26756936">変換コマンド</text>
+		<text id="convert.cmd" h="66E18092">プロファイルに変換</text>
+		<text id="convert.lbl" h="433E719B">%1 を変換</text>
+		<text id="convertcolors.dlg" h="A784DD5F">色を変換</text>
+		<text id="convopt.grp" h="3BDEC580">変換オプション</text>
+		<text id="cs_based_on" h="FFE0AF7F">基準にする</text>
+		<text id="cs_with_alternate" h="22956BBD">代替</text>
+		<text id="decalibrate.cmd" h="E03118F5">キャリブレーションの取り消し</text>
+		<text id="doc.ri" h="9A06AE7B">ドキュメントのインテントを使用</text>
+		<text id="doccolors.btn" h="9665902B">ドキュメントの色...</text>
+		<text id="doccolors.lbl" h="4D2F349E">ドキュメントカラー:</text>
+		<text id="doccolorsdlg" h="E252ADD0">ドキュメントの色</text>
+		<text id="embed.chk" h="84D781B2">埋め込み</text>
+		<text id="grayCmyk.chk" h="0F5E13C0">グレーを CMYK ブラックに変更</text>
+		<text id="grayscale.cs" h="BD6354DE">グレースケール</text>
+		<text id="history.cc.redo" h="5409F668">色変換の繰り返し</text>
+		<text id="history.cc.title" h="A784DD5F">色を変換</text>
+		<text id="history.cc.undo" h="5611C194">色変換を元に戻す</text>
+		<text id="image.type" h="AB6DEA58">イメージ</text>
+		<text id="lineart.type" h="1592B5FC">ラインアート</text>
+		<text id="matching.grp" h="920C9FBB">マッチさせる基準</text>
+		<text id="msg.proc.colorConversion" h="29B82B36">色の変換が適用されました</text>
+		<text id="noconversion.applied" h="DF0BFB50">色変換操作が終了しました。 変更は適用されませんでした。</text>
+		<text id="nomaximume.edt" h="8222833A">最大なし</text>
+		<text id="nominimum.edt" h="AE9E046B">最小なし</text>
+		<text id="objtype.lbl" h="F77F2940">オブジェクトの種類:</text>
+		<text id="oi.chk" h="94ED2F6E">色を出力インテントに変換</text>
+		<text id="oiprofile.lbl" h="235B6AC4">プロファイル:</text>
+		<text id="perceptual.ri" h="FE1548A6">知覚的</text>
+		<text id="preservblck.chk" h="BA0C6CC7">黒を保持</text>
+		<text id="preserve.cmd" h="19170747">保持</text>
+		<text id="preserveCmyk.chk" h="1DEF0320">CMYK プリミティブを保持</text>
+		<text id="profile.lbl" h="2B23E392">変換プロファイル:</text>
+		<text id="progress.cnvDoc" h="2FB51FBD">ドキュメントカラーに変換しています...</text>
+		<text id="rbar.convert.colors" h="A784DD5F">色を変換</text>
+		<text id="rbar.convert.colors.tip" h="D733E17B">ドキュメント内の色を変換します</text>
+		<text id="relative.ri" h="4E4820BA">相対的な色域</text>
+		<text id="rintent.lbl" h="56478B71">レンダリングのインテント：</text>
+		<text id="saturation.ri" h="81E4F5A0">飽和</text>
+		<text id="shading.type" h="9ECB4FEA">なめらかなシェード</text>
+		<text id="spotcolor.cs" h="6D651DE1">スポットカラー</text>
+		<text id="spotcolors.lbl" h="2CD39A6E">スポットカラー:</text>
+		<text id="status.cnvPage" h="92A4E6A3">%1 ページを変換しています...</text>
+		<text id="status.enumcsDoc" h="38B45907">色空間を列挙しています</text>
+		<text id="status.enumcsPage" h="CA0A6487">%1 ページの色空間を列挙しています...</text>
+		<text id="text.type" h="9372A8AB">テキスト</text>
+		<text id="textmax.lbl" h="72531743">最大のテキストサイズ:</text>
+		<text id="textmin.lbl" h="D926E164">最小のテキストサイズ:</text>
+		<text id="translate.spot.chk" h="C70A9205">すべてのスポットカラーを変換する</text>
+		<text id="undone.noshow" h="B2D782D9">このメッセージを再度表示しない</text>
+		<text id="undone.warning" h="52E66FDE">この操作は元に戻せません。 続行しますか？</text>
+	</Strings>
+</Localization>

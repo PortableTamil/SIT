@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20191210181448">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Ukrainian (Ukraine)" lName="Українська" code="uk-UA" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="8.0.335.0"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">Відкрити файл з Google Drive</text>
+		<text id="DlgSaveFile" h="81F99046">Зберегти файл в Google Drive</text>
+		<text id="GDPlugin" h="32B7E3E0">Модуль Google Drive</text>
+		<text id="addFolder.message" h="940CF2FA">Введіть нове ім’я папки</text>
+		<text id="addFolder.title" h="42CD8D51">Створити папку</text>
+		<text id="addFolderError.message" h="A6367553">Помилка при створенні папки на Google Drive. Перевірте під’єднання до інтернету і права доступу до ресурсу Google Drive.</text>
+		<text id="addFolderError.title" h="DDB9C8A8">Неможливо створити папку</text>
+		<text id="btn.addFolder.text" h="69FFFB47">Створити папку</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Новий користувач...</text>
+		<text id="btn.delete.text" h="ED580C1E">Видалити</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">Вверх</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google Drive</text>
+		<text id="cmd.googledrive" h="1D28DF85">Google Drive</text>
+		<text id="cmd.open" h="F32ECED5">Google Drive...</text>
+		<text id="cmd.open.tip" h="933837A2">Вікдрити документ з Google Drive.</text>
+		<text id="cmd.save" h="F32ECED5">Google Drive...</text>
+		<text id="cmd.save.tip" h="948C3269">Зберегти активний документ в Google Drive.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Файл не знайдено</text>
+		<text id="cpt.invalidFileName" h="79C1387C">Недійсне ім’я файла</text>
+		<text id="cpt.navigateError" h="3D300A1C">Помилка навігації</text>
+		<text id="cpt.saveReplace" h="520CB069">Зберегти файл</text>
+		<text id="cpt.selectFile" h="C55D68B0">Вибір файла</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Неможливо зберегти файл в папку</text>
+		<text id="delete.message" h="16714AA7">"Чи бажаєте видалити %1 "%2""?</text>
+		<text id="delete.title" h="FC00502F">"Видалити елемент (-и)"</text>
+		<text id="deleteError.message" h="109E94B7">Неможливо видалити %1 "%2" з ресурсу Google Drive. %3</text>
+		<text id="deleteError.reason" h="81A03554">Перевірте підключення інтернету і права доступу до ресурсу Google Drive.</text>
+		<text id="deleteError.title" h="002A7E1A">Неможливо видалити елемент</text>
+		<text id="deleteError.unknownItem.message" h="B0869235">Неможливо видалити елемент з Google Drive. %1</text>
+		<text id="deleteMulti.message" h="7340678F">"Чи бажаєте видалити %1 елемент(-ів) з папки "%2" на Google Drive?"</text>
+		<text id="deleteMulti.progress" h="7A18F8DD">"Видалення елементу %1 з "%2""</text>
+		<text id="deleteMulti.progress.title" h="3AED7560">"Видалення елементів з Google Drive"</text>
+		<text id="deleteSingle.progress" h="B781BCCF">"Видалення %1 "%2""</text>
+		<text id="deleteSingle.progress.title" h="E1F369F2">"Видалення елементу з Google Drive"</text>
+		<text id="dlg.googleAuth" h="E5642F22">Аутентифікація Google Drive</text>
+		<text id="file" h="AFFADF08">файл</text>
+		<text id="fileName" h="DEC92488">Ім’я файла:</text>
+		<text id="folder" h="1DAC8D17">папка</text>
+		<text id="lb.CurrentFolder" h="44158804">Дана папка:</text>
+		<text id="lb.Test" h="273F3E5B">Тест!</text>
+		<text id="lb.googleAccName" h="C94645A3">Обліковий запис Google:</text>
+		<text id="ls.column.created" h="FE6510B7">Дата створення</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Дата і час створення файла, папки чи списку</text>
+		<text id="ls.column.extension" h="14FEB836">Розширення</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Розширення файла</text>
+		<text id="ls.column.modified" h="7E234D6D">Дата змін</text>
+		<text id="ls.column.modified.hint" h="12933E76">Дата і час останніх змін у файлі, папці чи списку</text>
+		<text id="ls.column.size" h="17A58A52">Розмір</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Розмір файла</text>
+		<text id="ls.column.title" h="D18643E3">Ім’я</text>
+		<text id="ls.column.title.hint" h="6A895576">Ім’я файла, папки чи заголовок списку</text>
+		<text id="msg.fileNotFound" h="430E08B1">Файл "%1" не знайдено в даній папці.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">Ім’я файла "%1" недійсне.</text>
+		<text id="msg.navigateError" h="2FCAA72A">Помилка при навігації в ресурсі Google Drive. Перевірте під’єднання до інтернету і наявність права доступу до необхідного ресурсу Google Drive.</text>
+		<text id="msg.openFailed" h="AC94D960">Помилка при відкритті файла. Перевірте, чи файл існує  і чи не заблокований іншим користувачем, а також чи є у Вас дозвіл на його зчитування.</text>
+		<text id="msg.saveFailed" h="4D413392">Помилка при збереженні файла. Перевірте, чи правильно записано ім’я файла і чи маєте Ви дозвіл на його збереження.</text>
+		<text id="msg.saveReplace" h="5D56833E">Файл %1 вже існує. Замінити його?</text>
+		<text id="msg.selectFile" h="2530C20F">Виберіть файл перед натисканням кнопки ТАК</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Файл не вдалося зберегти у вказане місце. Будь ласка, виберіть папку 'My Drive', далі одну з її підпапок чи з підпапок 'Сумісно зі мною', і збережіть файл. </text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">My Drive</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Сумісно зі мною</text>
+		<text id="unableUploadFile" h="4B0B6791">Неможливо завантажити файл.</text>
+	</Strings>
+</Localization>

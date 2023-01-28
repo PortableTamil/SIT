@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20220819211843">2.00.00</Version>
+	<Author>John Fowler</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Hungarian (Hungary)" lName="magyar" code="hu-HU" R2L="false"/>
+	<Module name="SanitizePlugin" namespace="snt" version="9.4.363.0"/>
+	<Strings>
+		<text id="accessibilty.chk" h="691CFC68">Hozzáférhetőségi címkék</text>
+		<text id="actionsandscripts.snt" h="DD6759CC">Művelet és parancsfájlok eltávolítása</text>
+		<text id="add.new.pntlist" h="8052B2AC">Új mintalista hozzáadása...</text>
+		<text id="add.new.pntlist.tip" h="9DD2AAE5">Új egyéni mintalista létrehozása</text>
+		<text id="attachments.chk" h="E754AE2B">Keresés a mellékletek&amp;ben</text>
+		<text id="attachments2.chk" h="488D4743">Keresés a mellékletekben</text>
+		<text id="autolocale.ptn" h="986476CF">Automatikus (%1)</text>
+		<text id="bookmarks.chk" h="E2032460">Könyvjelzők</text>
+		<text id="builder.tip" h="DCB5FF71">RegExp Builder</text>
+		<text id="case.chk" h="371919EA">E&amp;gyezés esetén</text>
+		<text id="click2seedescr" h="2B79F497">A mintára kattintva megtekintheti a leírását itt ...</text>
+		<text id="cmd.findandredact" h="A71BA803">Keresés és Újraszerkesztés</text>
+		<text id="cmd.findandredact.tip" h="C9957B03">Megkeresi a szöveget, és megjelöli az eredményt az újraszerkesztéshez.</text>
+		<text id="cmd.list.add" h="8E2EE8C1">Hozzáadás</text>
+		<text id="cmd.list.addcustom.tip" h="48F73BAE">Egyéni sablon hozzáadása</text>
+		<text id="cmd.list.checkall" h="1ED93781">Ellenőrizni Mind</text>
+		<text id="cmd.list.load" h="D2BD1E32">Betöltés...</text>
+		<text id="cmd.list.locale" h="2B6AC5E3">&amp;Helyi</text>
+		<text id="cmd.list.remove" h="FCE39C1F">Eltávolítás</text>
+		<text id="cmd.list.removecustom.tip" h="D7AF6E36">Ellenőrzött egyéni sablonok eltávolítása</text>
+		<text id="cmd.list.save" h="0272DFB9">Mentés...</text>
+		<text id="cmd.list.uncheckall" h="5D53AA8D">Minden Választott Törlése</text>
+		<text id="commentsandlinks.chk" h="DA6216C5">Megjegyzések és külső linkek</text>
+		<text id="customname" h="48E7DC23">Egyéni minta</text>
+		<text id="custompatterns.lbl" h="5E153556">Egyéni minták (%1 összesen %2)</text>
+		<text id="customptn.dlg" h="8583A4FB">Egyéni Sablon</text>
+		<text id="deletepattern1.msg" h="07465752">Biztosan törli ezt a sablont?</text>
+		<text id="deletepatterns.msg" h="ECB5282F">Biztosan törli az ellenőrzött egyéni sablon(oka)t?</text>
+		<text id="deletetext.chk" h="8280F60B">Talált szöveg törlése</text>
+		<text id="documentinfo.chk" h="913876A8">Dokumentuminformáció (cím, tárgy, szerző stb.)</text>
+		<text id="documentxmp.chk" h="55410A25">Dokumentum(ok) XMP metaadata</text>
+		<text id="editstring.lbl" h="641BB43C">Szerkesztheti a szót vagy kifejezést a kereséshez</text>
+		<text id="enterphrase.lbl" h="E663CA06">Írja be a keresett szót vagy kifejezést:</text>
+		<text id="enterphrase.lbl.cue" h="F6663BF7">Írja be a szót vagy kifejezést...</text>
+		<text id="example.lbl" h="489035D9">Írja be a minta példáját:</text>
+		<text id="findopt.grp" h="6D2C3084">Keresési Beállítások</text>
+		<text id="findredact.dlg" h="D7CC6798">Szöveg Keresése és Újraszerkesztése</text>
+		<text id="forms.chk" h="EE24932E">Űrlapok</text>
+		<text id="formsandcomments.snt" h="3CE422D8">Lapított Megjegyzések és űrlapok</text>
+		<text id="hiddenText.chk" h="1065E006">Az oldal rejtett szöveget tartalmaz</text>
+		<text id="hiddenlayer.snt" h="05D69CC6">Rejtett rétegek eltávolítása</text>
+		<text id="hiddenttext.snt" h="ECD99D2C">Rejtett szöveg eltávolítása</text>
+		<text id="history.fr.redo" h="38D56E9D">Újraszerkesztett Szöveg Visszaállítása</text>
+		<text id="history.fr.title" h="BDE7F808">Keresési és Újraszerkesztés</text>
+		<text id="history.fr.undo" h="FC974711">Szöveg Újraszerkesztésének Visszavonása</text>
+		<text id="layers.chk" h="B5D83FAD">Az oldal rétegeket tartalmaz</text>
+		<text id="marktext.chk" h="71D6C968">Talált szöveg &amp;megjelölése  újraszerkesztéshez</text>
+		<text id="match.abc" h="3760672D">Az 'abc' készlet bármely karakterének egyezése</text>
+		<text id="match.anynumeric" h="A6E72A4D">Bármilyen numerikus karakter egyezése</text>
+		<text id="match.anyword" h="C747C7E3">Bármely szó karakterének egyezése</text>
+		<text id="match.intdec" h="1D7C37DC">Egész szám és tizedesjegyek egyezése</text>
+		<text id="match.linebegin" h="E85BEDEB">Egyezés a sor elején</text>
+		<text id="match.notabc" h="07BFD63F">Az 'abc' készletben nem szereplő bármely karakter egyezése</text>
+		<text id="match.onemore" h="A0F72662">Bármilyen karakter egy vagy több alkalommal</text>
+		<text id="match.range" h="CCF11EC0">Párosítson bármely karaktert az a – f tartományban</text>
+		<text id="match.single" h="22AEEA91">Bármilyen karakter egyezése (sortörés kivételével)</text>
+		<text id="match.threedigits" h="F40292A5">Három egymást követő tizedesjegy egyezése</text>
+		<text id="match.whitespace" h="F4925C7A">Bármely szóköz karakter egyezése</text>
+		<text id="match.wordends" h="EC27D4F5">Egyezés a szó elején vagy végén</text>
+		<text id="match.zeromore" h="4EE3FE93">Bármilyen karakter egyezése nulla vagy nagyobb idő karakterrel </text>
+		<text id="maxcountfile.msg" h="7C0D9E22">A szavak listája a maximálisan megengedett méretre lett csonkítva: %1</text>
+		<text id="maxnumberofwords.msg" h="52B7987A">Új elem nem adható hozzá:
+A lista meghaladja a szavak vagy kifejezések maximális számát</text>
+		<text id="maxwordlength.msg" h="5BE34E54">A szó vagy kifejezés túl hosszú"</text>
+		<text id="maxwordlengthfromfile.msg" h="FE7C0D03">A szó vagy kifejezés a maximálisan megengedett hosszúságra csonkítva lett: %1</text>
+		<text id="multipleword" h="C8368EA9">&amp;Több szó vagy kifejezés</text>
+		<text id="newstring.lbl" h="927FC81B">Új szó vagy kifejezés hozzáadása a kereséshez</text>
+		<text id="notextwasfound" h="D1BCA29B">Nem található megfeleltetési feltételeket tartalmazó szöveg.</text>
+		<text id="objects.lbl" h="AFBB32E9">Objektumok szövege:</text>
+		<text id="objectsxmp.chk" h="B45AE8C8">Objektum(ok) XMP metaadata</text>
+		<text id="obscured.content.chk" h="1311BB99">Levágott vagy láthatatlan tartalom található</text>
+		<text id="obscuredcontent.snt" h="7F9B3F4C">Elhomályosított tartalom eltávolítása</text>
+		<text id="opt.donotshow" h="B2D782D9">Ne mutassa újra ezt az üzenetet</text>
+		<text id="outlines.snt" h="48561E69">Könyvjelzők eltávolítása</text>
+		<text id="overlapping.obj.chk" h="D2955BC5">Az oldal átfedő objektumokat tartalmaz</text>
+		<text id="overlappingobjects.snt" h="99DED65B">Tartalmat átfedő tárgyak raszterizálása</text>
+		<text id="overlaytype.lbl" h="BC47CE25">Átfedés típusa:</text>
+		<text id="pagetext.lbl" h="B7832810">Oldalszöveg:</text>
+		<text id="pagetext2.chk" h="7FBFC7B2">Oldalszöveg</text>
+		<text id="patternlocale.lbl" h="5470225F">Válasszon helyi mintát:</text>
+		<text id="patterns" h="ACAA6A08">M&amp;inták</text>
+		<text id="patterns.desc.tip" h="127DB6CA">Adja meg a sablon leírását (nem kötelező)...</text>
+		<text id="patterns.description.empty" h="CB37274C">A sablon leírása üres</text>
+		<text id="patterns.example.tip" h="127DB6CA">Írja be a minta leírását (opcionális) ...</text>
+		<text id="phones.ptn" h="889BA45B">Például
+555-1234
+212.555.1212
+1 (212) 555-1234</text>
+		<text id="preceding.onemore" h="0DB280A6">Egyezés egy karaktert megelőzően egy vagy több alkalommal</text>
+		<text id="preceding.zeromore" h="6994F6CF">Előző karakter egyezése nullával vagy többel</text>
+		<text id="preceding.zeroone" h="96A31B68">Előző karakter egyezése nullával vagy egyel</text>
+		<text id="processing.accessibility" h="07319AF0">Elérhetőségi címkék feldolgozása</text>
+		<text id="processing.embeddedfiles" h="9C473B09">Beágyazott fájlok feldolgozása</text>
+		<text id="processing.markedcontent" h="41E6A029">Megjelölt tartalom feldolgozása</text>
+		<text id="processing.metadata" h="27C23D00">Dokumentum metaadatainak feldolgozása</text>
+		<text id="progress.applyredaction" h="82CD13B5">A dokumentumra vonatkozó újraszerkesztés alkalmazása...</text>
+		<text id="progress.findtext" h="9AA4E47B">Szöveg keresése egyező feltételekkel...</text>
+		<text id="ptndescr.lbl" h="C56EB241">Adja meg a sablon leírását:</text>
+		<text id="ptnname.lbl" h="A7E2C5D0">Adja meg a sablon nevét:</text>
+		<text id="ptnvalue.lbl" h="58401EB7">Adja meg a sablon értékét:</text>
+		<text id="rbar.sanitize" h="092C966D">Dokumentum Tisztítása</text>
+		<text id="rbar.sanitize.tip" h="B573254E">Eltávolítja a bizalmas adatokat, például a metaadatokat, az űrlapadatokat, a láthatatlan tartalmakat...</text>
+		<text id="redactioncolor.lbl" h="AA984FC4">Szerkesztés színe:</text>
+		<text id="redactiontext.edt.cue" h="0A4FA672">&lt;Nem Beállított&gt;</text>
+		<text id="redactiontext.lbl" h="F18E110C">Szöveg:</text>
+		<text id="redacttext.chk" h="1E76EC28">Talált szöveg &amp;Újraszerkesztése</text>
+		<text id="regexp.help" h="41F2BA26">Reguláris Kifejezés Súgója</text>
+		<text id="removeembedded.snt" h="29624A93">Beágyazott tartalom eltávolítása</text>
+		<text id="removemetadata.snt" h="0A323970">Metaadatok és dokumentumadatok eltávolítása</text>
+		<text id="repeattext.chk" h="D0D05924">Szöveg ismétlés</text>
+		<text id="replacetext.chk" h="DB2F141B">Szöveg cseréje a következőre:</text>
+		<text id="resolution.lbl" h="F5CAE407">Raszterizálás felbontása:</text>
+		<text id="sanitize.descr" h="6AA269FA">PDF Dokumentum Tisztítása</text>
+		<text id="sanitize.lbl" h="9650169B">A dokumentum tisztítása eltávolítja a rejtett adatokat és metaadatokat, így az érzékeny információk nem lesznek közzétéve a PDF-fájllal. Válasszon egy opciót, amelyet a dokumentumra kell alkalmazni:</text>
+		<text id="sanitize.warning" h="3321EE07">A Documentum-Tisztítás eltávolítja a rejtett adatokat és a metaadatokat, így az érzékeny információk nem kerülnek közzétételre a PDF-fájljával együtt.
+
+A művelet eltávolítja:
+
+  • Metaadatokat
+  • Láthatatlan szövegeket és képeket
+  • Átfedő objektumokat
+  • Űrlap és megjegyzésadatokat
+  • Beágyazott tartalmakat és fájlokat
+  • Rejtett rétegeket
+  • Rejtett adatokat és megjegyzéseket
+  • Nem hivatkozott adatokat</text>
+		<text id="sanitizeDoc.progr" h="062BF2F0">Dokumentum tisztítása ...</text>
+		<text id="sanitizePage.progr" h="EA4FCD7C">%1 oldal feldolgozása</text>
+		<text id="sanitizeSave.progr" h="93EC7255">Tisztított dokumentum mentése...</text>
+		<text id="sanitizeconverter.name" h="9BE4E232">Átalakító Tisztítása</text>
+		<text id="sanitizefilter.name" h="804EA582">Tisztított PDF Dokumentumok</text>
+		<text id="sanitizeoptions.dlg" h="A6BCECE6">Dokumentum Beállításainak Tisztázása</text>
+		<text id="sanitizeopts.lbl" h="BB4BCFA8">Válassza ki az alkalmazandó beállításokat:</text>
+		<text id="saveDlg.caption" h="2FD66192">Tisztított Dokumentum Mentése</text>
+		<text id="searchindex.snt" h="B2A720E0">Keresési index eltávolítása</text>
+		<text id="showmore.lbl" h="143C6320">Mutasson többet...</text>
+		<text id="singleword" h="BAB11ED8">&amp;Egyetlen szó vagy kifejezés</text>
+		<text id="snt.redact.grp" h="98BDF535">Újraszerkesztési Beállítások</text>
+		<text id="status.saving" h="3D2A3BDC">Dokumentum Mentése</text>
+		<text id="stdpatterns.lbl" h="4FF587EE">Mértékadó minták (%1 összesen %2)</text>
+		<text id="textcolor.lbl" h="393AC769">Szövegszín:</text>
+		<text id="unsupported.format" h="5F8D8E51">A szólista nem támogatott formátumú</text>
+		<text id="useregexp.chk" h="299B0303">&amp;Reguláris kifejezések használata</text>
+		<text id="whatfind.lbl" h="27D208DF">MILYEN szöveget szeretne megtalálni?</text>
+		<text id="wherefind.lbl" h="76DF8D13">HOL szeretne keresni?</text>
+		<text id="wholewords.lbl" h="C794AEE3">&amp;Csak egész szó</text>
+		<text id="wordlist" h="637B75E0">Szólista</text>
+		<text id="wordlist.empty" h="3311A197">A szavak listája üres</text>
+	</Strings>
+</Localization>

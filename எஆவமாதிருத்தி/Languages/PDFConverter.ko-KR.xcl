@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20220808214036">2.00.00</Version>
+	<Author>pCsOrI</Author>
+	<Copyright>프로그램의 쉬운 사용을 위해</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Korean (Korea)" lName="한국어" code="ko-KR" R2L="false"/>
+	<Module name="PDFConverter" namespace="pdfconv" version="9.4.362.0"/>
+	<Strings>
+		<text id="AddLang" h="CE4DDC96">언어 추가...</text>
+		<text id="DT" h="99A777DC">숫자 설정:</text>
+		<text id="Decimal" h="97B538F3">소수점 기호</text>
+		<text id="DetectTable" h="8EFAF45F">테이블 감지</text>
+		<text id="Fonts" h="09BC9E47">글꼴:</text>
+		<text id="HasOCR" h="96B8D96E">이 언어에 대한 OCR 모듈이 있습니다.</text>
+		<text id="Language" h="E5AFBDFE">언어:</text>
+		<text id="LayoutSettings" h="0EB6BCF7">레이아웃 설정</text>
+		<text id="NoPermission" h="F6BEA48A">문서는 보호됩니다. 변환을 수행할 충분한 권한이 없습니다.</text>
+		<text id="PageLayout" h="2E7FA6E9">페이지 레이아웃 유지</text>
+		<text id="Sheets" h="0E4A84A5">워크시트 만들기</text>
+		<text id="TextFlow" h="D5276DB5">흐르는 텍스트 유지</text>
+		<text id="cmd.name.P" h="FE79EAE9">Microsoft PowerPoint 프레젠테이션으로 내보내기...</text>
+		<text id="cmd.name.Sel.P" h="10B9EA70">Microsoft PowerPoint 프레젠테이션으로 선택 내보내기...</text>
+		<text id="cmd.name.Sel.W" h="F60B7012">선택 영역을 Microsoft Word 문서로 내보내기...</text>
+		<text id="cmd.name.Sel.X" h="53447190">선택 영역을 Microsoft Excel로 내보내기...</text>
+		<text id="cmd.name.W" h="36A68CE1">Microsoft Word 문서로 내보내기...</text>
+		<text id="cmd.name.X" h="5F515377">Microsoft Excel로 내보내기...</text>
+		<text id="cmd.nameShort.P" h="C4DB7FDB">MS-PowerPoint로...</text>
+		<text id="cmd.nameShort.W" h="23467A9D">MS-Word로...</text>
+		<text id="cmd.nameShort.X" h="4FDED68C">MS Excel로...</text>
+		<text id="cmd.nameTip.P" h="5DF5F44C">활성 문서를 Microsoft PowerPoint 프레젠테이션으로 내보내기...</text>
+		<text id="cmd.nameTip.Sel.P" h="547499FA">현재 선택 영역을 Microsoft PowerPoint 프레젠테이션으로 내보내기...</text>
+		<text id="cmd.nameTip.Sel.W" h="9526C3A8">현재 선택 영역을 Microsoft Word 문서로 내보내기...</text>
+		<text id="cmd.nameTip.Sel.X" h="9DBFD9AB">현재 선택 영역을 Microsoft Excel로 내보내기...</text>
+		<text id="cmd.nameTip.W" h="08C70E7C">활성 문서를 Microsoft Word 문서로 내보내기...</text>
+		<text id="cmd.nameTip.X" h="71C65F22">활성 문서를 Microsoft Excel로 내보내기...</text>
+		<text id="convertation" h="B1E1828B">PDF 문서 변환</text>
+		<text id="convertation.DecimalError" h="AB9CA906">잘못된 소수점 기호</text>
+		<text id="convertation.DecimalThousandsError" h="9002FE5E">소수점 기호와 천 단위 구분 기호는 달라야 합니다.</text>
+		<text id="convertation.Error1" h="388D83B4">문서 변환 중에 심각한 오류가 발생했습니다.</text>
+		<text id="convertation.Error2" h="A394ADBC">결과 파일을 저장할 수 없습니다.</text>
+		<text id="convertation.ProWarning" h="64B1DA0A">이 기능을 사용할 수 있음 - 그러나, 현재 평가 모드로 사용 중이므로 결과 파일의 모든 페이지에 &lt;b&gt;데모&lt;/b&gt; 스탬프가 배치됩니다. 또한, 결과 파일은 편집할 수 없도록 비밀번호로 보호됩니다. 이 모든 것을 방지하려면 - &lt;a=1=""&gt;새 유효한 키를 제공하십시오&lt;/a&gt;. 자세한 내용은 &lt;a=3=""&gt;도움말p&lt;/a&gt; 또는 우리의 &lt;a=2=""&gt;웹사이트&lt;/a&gt;를 방문하십시오.
+
+이 기능을 계속 사용하시겠습니까?</text>
+		<text id="convertation.ThousandsError" h="1660BD37">천 단위 구분 기호가 잘못되었습니다.</text>
+		<text id="dpi" h="B39AC2C1">dpi</text>
+		<text id="elseUseRegional" h="8F1D3748">* 그렇지 않으면, 국가별 설정 사용</text>
+		<text id="excel.filter" h="D766664D">MS Excel</text>
+		<text id="getOCRLang" h="4275388E">문서 텍스트에 문제가 있는 일부 문자는 시각적으로 인식할 필요가 있습니다. 올바른 인식을 위해 텍스트의 언어를 지정하십시오.</text>
+		<text id="newRowRul" h="4CD45F3D">각 시트에 대해 새 행 사용:</text>
+		<text id="options" h="DAD7B4F4">옵션</text>
+		<text id="options.IBOcrFontsGliphs" h="BB134F07">일부 PDF 문서에는 문자 인코딩이 잘못된 글꼴이 포함되어 있습니다. 이러한 문서가 MS Office 형식으로 변환되면 출력 파일에 이러한 글꼴을 직접 포함할 수 없기 때문에 왜곡된 텍스트가 포함될 수 있습니다. 이 문제가 발생하면, 이 옵션을 활성화하여 기호의 광학적 인식을 위해 OCR 엔진을 사용할 수 있습니다. OCR 엔진은 출력 파일에 올바른 텍스트를 제공하는 데 도움이 됩니다.
+
+참고: 출력 파일의 텍스트에 문제가 없는 경우에는 이 옵션을 사용하지 마십시오.</text>
+		<text id="options.compress.0" h="378201C4">PNG</text>
+		<text id="options.compress.1" h="25090095">JPG</text>
+		<text id="options.dpilevel" h="4D4FE579">%1 dpi</text>
+		<text id="options.fontsembedmode.0" h="4FD6EAB9">PDF 문서에 포함된 글꼴만 포함</text>
+		<text id="options.fontsembedmode.1" h="485361C4">삽입 안함</text>
+		<text id="options.newRow.0" h="9CF38C36">단락</text>
+		<text id="options.newRow.1" h="6D45691D">선</text>
+		<text id="options.newSheet.0" h="42E9E100">각 페이지마다</text>
+		<text id="options.newSheet.1" h="FB4125FF">문서에 대한 단일</text>
+		<text id="options.quality.0" h="8415F85F">최소</text>
+		<text id="options.quality.1" h="845E3D8C">낮음</text>
+		<text id="options.quality.2" h="91153342">보통</text>
+		<text id="options.quality.3" h="21A95620">높음</text>
+		<text id="options.quality.4" h="A8A97F0E">최대</text>
+		<text id="options.textmode.0" h="77B1E837">텍스트 편집 가능 유지</text>
+		<text id="options.textmode.1" h="8419D7CE">곡선으로 변환</text>
+		<text id="options.textmode.2" h="60E91945">이미지로 변환</text>
+		<text id="optionsCBAllowCurves" h="976099D8">문제가 있는 글꼴을 사용하는 텍스트를 곡선으로 변환하도록 허용</text>
+		<text id="optionsCBAllowSubstitution" h="169F5988">포함할 수 없는 글꼴에 대체 사용 허용</text>
+		<text id="optionsCBEmbedFont" h="3E50224C">모든 글꼴 포함</text>
+		<text id="optionsCBIncludeComments" h="B08E5CA8">주석 포함</text>
+		<text id="optionsCBIncludeImages" h="969B2F6C">이미지 포함</text>
+		<text id="optionsCBIncludeLinks" h="F5F4CED4">링크 포함</text>
+		<text id="optionsCBOcrFontsGliphs" h="6DCBFDE4">OCR을 사용하여 출력 파일에서 왜곡된 텍스트 수정.</text>
+		<text id="optionsCBPageToImage" h="0707FDB4">전체 페이지 콘텐츠를 이미지로 변환</text>
+		<text id="optionsCBShowInvisibleText" h="68D10624">출력 문서에 보이지 않는 텍스트 표시</text>
+		<text id="optionsGBCommonOpt" h="5B3B421B">공통 설정</text>
+		<text id="optionsGBTextOpt" h="D7BD8320">텍스트 변환 옵션</text>
+		<text id="optionsIBTextRaster" h="699A1B72">텍스트는 위의 옵션에 따라 변환할 수 없는 경, 래스터화됩니다.</text>
+		<text id="optionsLBCompres" h="990F2529">압축:</text>
+		<text id="optionsLBIssuesFont" h="BB2E863E">글꼴과의 호환성/이식성 문제가 있는 경우:</text>
+		<text id="optionsLBMode" h="274455FC">방법:</text>
+		<text id="optionsLBQuality" h="E3A77A93">품질:</text>
+		<text id="optionsLBTextRaster" h="32A3B18F">텍스트 래스터화 품질:</text>
+		<text id="optionsLBToImgParam" h="4ED54AB4">텍스트-이미지 변환 설정:</text>
+		<text id="optionsLBdpiComm" h="0FE84938">해상도:</text>
+		<text id="optionsLBdpiCompression" h="4CA3E32A">위의 옵션을 사용하면 변환 불가능한 컨텐츠 항목(예: 복잡한 그라디언트) 또는 전체 페이지의 래스터화 품질을 조정할 수 있습니다.</text>
+		<text id="optionsLBlastHope" h="F73DC603">참고: 텍스트를 곡선으로 변환하지 못하면 텍스트가 이미지로 변환됩니다.</text>
+		<text id="powerpoint.filter" h="9FB63544">MS PowerPoint 프레젠테이션</text>
+		<text id="regionalDT" h="FB22F59E">국가별 설정을 사용하여 소수점 및 천 단위 구분 기호 감지</text>
+		<text id="thousands" h="256655C5">천 단위 구분 기호:</text>
+		<text id="userDefinedDT" h="7EA9F301">다음을 소수 및 천 단위 구분 기호로 취급:</text>
+		<text id="word.filter" h="6BB79C71">MS Word 문서</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20190812220326">2.00.00</Version>
+	<Author>Muhammad Alkhateeb</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Arabic (Saudi Arabia)" lName="العربية" code="ar-SA" R2L="true"/>
+	<Module name="Dropbox" namespace="db" version="8.0.331.0"/>
+	<Strings>
+		<text id="btn.cancel" h="3D302A38">&amp;إلغاء</text>
+		<text id="btn.chooseUser" h="4E5DDBFB">&amp;حدد المستخدمين</text>
+		<text id="btn.ok" h="FEF0C771">&amp;حسنًا</text>
+		<text id="btn.open" h="B1A510F0">افتح</text>
+		<text id="btn.save" h="F363C410">&amp;حفظ</text>
+		<text id="btn.saveReplace" h="11BF9724">حفظ واستبدال</text>
+		<text id="btn.settings" h="563BF6B7">&amp;الإعدادات</text>
+		<text id="cmd.cmdsCategory" h="22B8ECE9">Dropbox</text>
+		<text id="cmd.open" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.open.tip" h="683AE278">افتح مستندًا من مربع الإسقاط.</text>
+		<text id="cmd.save" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.save.tip" h="B5D0B78F">حفظ المستند النشط في مربع الإسقاط.</text>
+		<text id="cmd.dropbox" h="6616FE70">&amp;Dropbox</text>
+		<text id="dlg.authenticate" h="E6E77652">سجل</text>
+		<text id="dlg.openFile" h="435887CD">افتح الملف</text>
+		<text id="dlg.saveFile" h="520CB069">حفظ الملف</text>
+		<text id="lb.itemsInFolder" h="8F56A98C">%d Elemente</text>
+		<text id="lb.name" h="F7B9E475">اسم الملف:</text>
+		<text id="ls.column.created" h="9E0B497D">تاريخ الإنشاء</text>
+		<text id="ls.column.created.hint" h="291F5AEC">تاريخ ووقت إنشاء الملف أو المجلد أو القائمة.</text>
+		<text id="ls.column.extension" h="14FEB836">تمديد</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">امتداد الملف</text>
+		<text id="ls.column.modified" h="691C3610">تاريخ التغيير</text>
+		<text id="ls.column.modified.hint" h="2C2CF8F2">التاريخ والوقت الذي تم فيه تغيير الملف أو المجلد أو القائمة آخر مرة.</text>
+		<text id="ls.column.size" h="17A58A52">الحجم</text>
+		<text id="ls.column.size.hint" h="E79CA174">حجم الملف</text>
+		<text id="ls.column.title" h="D18643E3">الاسم</text>
+		<text id="ls.column.title.hint" h="D883F263">اسم الملف/المجلد</text>
+		<text id="msg.connectError" h="A594B0D5">فشل الاتصال بصندوق الإسقاط. يرجى التحقق من اتصال الإنترنت الخاص بك والأذونات للوصول إلى البيانات.</text>
+		<text id="msg.fileNotFound" h="381368F8">Die Datei &lt;b&gt;%1&lt;/b&gt; wurde im aktuellen Ordner nicht gefunden.</text>
+		<text id="msg.invalidFileName" h="859254AD">&lt;b&gt;%1&lt;/b&gt; ist kein gültiger Dateiname: الرموز &lt;b&gt;&lt; &gt; &quot; / \ | ? *&lt;/b&gt; غير مسموح به.</text>
+		<text id="msg.navigateError" h="8BCFBD0F">يرجى التحقق من اتصال الإنترنت والعنوان والتفويضات للوصول إلى العنصر في صندوق الإسقاط.</text>
+		<text id="msg.openFailed" h="794811DE">تعذر فتح الملف. تأكد من وجود الملف ولديك حق الوصول للقراءة.</text>
+		<text id="msg.saveFailed" h="36780EC6">تعذر حفظ الملف. تأكد من أن اسم الملف صالح ولديك حق الوصول للكتابة.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Die Datei &lt;b&gt;%1&lt;/b&gt; existiert bereits. هل تريد استبدال الملف؟</text>
+		<text id="msg.wrongUser" h="27773B86">لا يمكن فتح الملف لأنه موجود في صندوق إسقاط مستخدم آخر. هل تريد تحديد مستخدم مختلف؟</text>
+		<text id="str.fileSystemName" h="22B8ECE9">Dropbox</text>
+		<text id="addFolder.error.message" h="26E3D84F">Der Ordner &lt;b&gt;%1&lt;/b&gt; konnte nicht in der Dropbox erstellt werden.</text>
+		<text id="addFolder.question.button.create" h="5AFC56A9">إنشاء مجلد</text>
+		<text id="addFolder.question.edit.title" h="AD9C0CB3">الرجاء إدخال اسم المجلد الجديد:</text>
+		<text id="addFolder.question.error.alreadyExists" h="C0A47FF7">Der aktuelle Ordner enthält bereits ein Element mit dem Namen &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="addFolder.question.error.emptyFolderName" h="BB6566D6">يجب ألا يكون اسم المجلد فارغًا.</text>
+		<text id="addFolder.question.error.invalidFolderName" h="0A24FCDF">&lt;b&gt;%1&lt;/b&gt; ist kein gültiger Ordnername: الرموز &lt;b&gt;&lt; &gt; &quot; / \ | ? *&lt;/b&gt; غير مسموح به.</text>
+		<text id="addFolder.progress.text" h="8C5EF68A">Erstelle Ordner &lt;b&gt;%1&lt;/b&gt;...</text>
+		<text id="addFolder.progress.title" h="595759D0">قم بإنشاء مجلدات في صندوق الإسقاط</text>
+		<text id="btn.addFolder.text" h="69FFFB47">&amp;إنشاء مجلد</text>
+		<text id="btn.delete.text" h="ED580C1E">&amp;حذف</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">&amp;On</text>
+		<text id="delete.error.file" h="5F9FEEF5">Die Datei &lt;b&gt;%1&lt;/b&gt; konnte nicht aus der Dropbox gelöscht werden.</text>
+		<text id="delete.error.folder" h="5F9FEEF5">Der Ordner &lt;b&gt;%1&lt;/b&gt; konnte nicht aus der Dropbox gelöscht werden.</text>
+		<text id="delete.error.unknown" h="73BC7295">تعذر حذف العنصر المحدد من مربع الإسقاط.</text>
+		<text id="delete.progress.status" h="F729DF24">%1 von %2</text>
+		<text id="delete.progress.text.file" h="EFCE4189">Lösche Datei &lt;b&gt;%1&lt;/b&gt;...</text>
+		<text id="delete.progress.text.folder" h="2E89372D">Lösche Ordner &lt;b&gt;%1&lt;/b&gt;...</text>
+		<text id="delete.progress.text.unknown" h="367B0EA7">Lösche &lt;b&gt;%1&lt;/b&gt;...</text>
+		<text id="delete.progress.title" h="9D1FD2AA">حذف من Dropbox</text>
+		<text id="delete.question.file" h="F3B2380C">Wollen Sie die Datei &lt;b&gt;%1&lt;/b&gt; löschen?</text>
+		<text id="delete.question.folder" h="DA195BFA">Wollen Sie den Ordner &lt;b&gt;%1&lt;/b&gt; und den gesamten Inhalt löschen?</text>
+		<text id="delete.question.multi" h="ACA0CEC0">Wollen Sie %1 Elemente löschen?</text>
+		<text id="delete.question.unknown" h="8C13886E">هل تريد حذف العنصر المحدد؟</text>
+	</Strings>
+</Localization>

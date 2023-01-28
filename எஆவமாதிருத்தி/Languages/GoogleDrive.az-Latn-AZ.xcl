@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20221121225541">2.00.00</Version>
+	<Author>ELDOST QASIMOV</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Azerbaijani (Latin, Azerbaijan)" lName="Azərbaycan" code="az-Latn-AZ" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="9.5.365.0"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">Faylın Google Drive-dan açılması</text>
+		<text id="DlgSaveFile" h="81F99046">Faylın Google Drive-da saxlanılması</text>
+		<text id="GDPlugin" h="32B7E3E0">Google Drive plagini</text>
+		<text id="addFolder.message" h="940CF2FA">Yeni qovluq adını daxil edin</text>
+		<text id="addFolder.title" h="42CD8D51">Qovluq yarat</text>
+		<text id="addFolderError.message" h="A6367553">Google Drive resursunda qovluq yaradılmasında xəta baş verdi. Lütfən internet əlaqəsinin və Google Drive resursuna giriş icazəsinin olub-olmadığını yoxlayın.</text>
+		<text id="addFolderError.title" h="DDB9C8A8">Qovluq yaratmaq mümkün deyil</text>
+		<text id="btn.addFolder.text" h="69FFFB47">Qovluq yarat</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Yeni giriş...</text>
+		<text id="btn.delete.text" h="ED580C1E">Sil</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">Yuxarı</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google Drive</text>
+		<text id="cmd.googledrive" h="1D28DF85">Google Drive</text>
+		<text id="cmd.open" h="F32ECED5">Google Drive ...</text>
+		<text id="cmd.open.tip" h="933837A2">Sənədin Google Drive-dan açılması.</text>
+		<text id="cmd.save" h="F32ECED5">Google Drive ...</text>
+		<text id="cmd.save.tip" h="948C3269">Aktiv sənədin Google Drive-da saxlanılması.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Fayl tapılmadı</text>
+		<text id="cpt.invalidFileName" h="79C1387C">Fayl adı etibarsızdır</text>
+		<text id="cpt.navigateError" h="3D300A1C">Hərəkət xətası</text>
+		<text id="cpt.saveReplace" h="520CB069">Faylı saxla</text>
+		<text id="cpt.selectFile" h="C55D68B0">Faylın seçilməsi</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Faylı qovluqda saxlamaq mümkün deyil</text>
+		<text id="delete.message" h="16714AA7">"%1 "%2" silmək istəyirsiniz?"</text>
+		<text id="delete.title" h="FC00502F">"Element(lər)i sil"</text>
+		<text id="deleteError.message" h="109E94B7">Google Drive resursundan %1 "%2" silmək mümkün deyil . %3</text>
+		<text id="deleteError.reason" h="81A03554">Lütfən internet əlaqəsinin və Google Drive resursuna giriş icazəsinin olub-olmadığını yoxlayın.</text>
+		<text id="deleteError.title" h="002A7E1A">Elementi silmək mümkün deyil</text>
+		<text id="deleteError.unknownItem.message" h="B0869235">Elementi Google Drive resursundan silmək mümkün deyil. %1</text>
+		<text id="deleteMulti.message" h="7340678F">"Google Drive resursunda "%2" qovluğundakı %1 elementi silmək istəyirsiniz?"</text>
+		<text id="deleteMulti.progress" h="7A18F8DD">"%2 -dən #%1 elementin silinməsi"</text>
+		<text id="deleteMulti.progress.title" h="3AED7560">"Google Drive-dan elementlərin silinməsi"</text>
+		<text id="deleteSingle.progress" h="B781BCCF">"%1 "%2" silinməsi"</text>
+		<text id="deleteSingle.progress.title" h="E1F369F2">"Google Drive-dan elementin silinməsi"</text>
+		<text id="dlg.googleAuth" h="E5642F22">Google Drive kimlik təsdiqi</text>
+		<text id="file" h="AFFADF08">fayl</text>
+		<text id="fileName" h="DEC92488">Faylın adı:</text>
+		<text id="folder" h="1DAC8D17">qovluq</text>
+		<text id="lb.CurrentFolder" h="44158804">Hazırki qovluq:</text>
+		<text id="lb.Test" h="273F3E5B">YOXLAMA!</text>
+		<text id="lb.googleAccName" h="C94645A3">Google hesabı:</text>
+		<text id="ls.column.created" h="FE6510B7">Yaradılma tarixi</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Faylın, qovluğun və ya siyahının yaradılma tarixi və vaxtı</text>
+		<text id="ls.column.extension" h="14FEB836">Genişlik</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Fayl genişliyi (növü)</text>
+		<text id="ls.column.modified" h="7E234D6D">Dəyişdirilmə tarixi</text>
+		<text id="ls.column.modified.hint" h="12933E76">Faylın, qovluğun və ya siyahının dəyişdirilmə tarixi və vaxtı</text>
+		<text id="ls.column.size" h="17A58A52">Həcm</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Faylın ölçüsü</text>
+		<text id="ls.column.title" h="D18643E3">Ad</text>
+		<text id="ls.column.title.hint" h="6A895576">Fayl adı, qovluq adı və ya siyahı başlığı</text>
+		<text id="msg.fileNotFound" h="430E08B1">Hazırki qovluqda "%1" faylı tapılmadı.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" fayl adı düzgün deyil.</text>
+		<text id="msg.navigateError" h="2FCAA72A">Google Drive resursunda hərəktdə xəta baş verdi. Lütfən internet əlaqəsinin və Google Drive resursuna giriş icazəsinin olub-olmadığını yoxlayın.</text>
+		<text id="msg.openFailed" h="AC94D960">Faylın açmaq olmadı. Faylın mövcudluğuna, onun oxunmasına icazə verildiyinə və digər istifadəçi tərəfindən əngəllənmədiyinə əmin olun.</text>
+		<text id="msg.saveFailed" h="4D413392">Faylın saxlanmasında xəta baş verdi. Fayl adının düzgün yazıldığına və saxlanmasına icazə verildiyinə əmin olun.</text>
+		<text id="msg.saveReplace" h="5D56833E">%1 faylı artıq mövcuddur. Onu əvəz etmək istəyirsinizmi?</text>
+		<text id="msg.selectFile" h="2530C20F">"Bəli" düyməsini vurmazdan əvvəl faylı seçin</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Seçilmiş yerdə faylı saxlamaq olmur. Lütfən 'My Drive' qovluğunu seçin, sonra faylı saxlamaq üçün alt qovluqlardan birini və ya "Mənimlə əlqəli" alt qovluqlardan birini seçin.</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">My Drive</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Mənimlə əlaqəli</text>
+		<text id="unableUploadFile" h="4B0B6791">Faylı yükləmək mümkün deyil.</text>
+	</Strings>
+</Localization>

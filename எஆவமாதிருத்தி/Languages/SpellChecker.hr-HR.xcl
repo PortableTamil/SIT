@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20211012163838">2.00.00</Version>
+	<Author>Marko Puškarić</Author>
+	<Copyright>Marko Puškarić</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Croatian (Croatia)" lName="Hrvatski" code="hr-HR" R2L="false"/>
+	<Module name="SpellChecker" namespace="spell" version="9.1.357.0"/>
+	<Strings>
+		<text id="dict.param.hyphen" h="50549BEC">Rastavljanje</text>
+		<text id="dict.param.spell" h="E10DA1DD">Provjeri</text>
+		<text id="lstDicts.empty" h="FFD5B8BB">&lt;Bez rječnika&gt;</text>
+		<text id="msg.CopyDictError" h="81324CC9">Nije moguće kopirati datoteke rječnika</text>
+		<text id="msg.DictExists" h="650ABF1A">Rječnik već postoji</text>
+		<text id="msg.DictExists.title" h="B025530B">Rječnik postoji</text>
+		<text id="msg.ErrorTitle" h="D9DB5E01">Greška provjere pravopisa</text>
+		<text id="msg.LoadDictError" h="D139CD51">Nije moguće učitati rječnik</text>
+		<text id="msg.RemoveError" h="DDD3D452">Nije moguće izbrisati datoteke rječnika, jer pristup je odbijen.</text>
+		<text id="msg.WordExists" h="54B206DA">Riječ već postoji</text>
+		<text id="msg.WordExists.title" h="A9AFB29B">Riječ postoji</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">Dodaj rječnik</text>
+		<text id="opt.b.CustomWordList" h="D1505337">Prilagođeni popis riječi</text>
+		<text id="opt.b.RemoveDict" h="D94F3439">Ukloni rječnik</text>
+		<text id="opt.b.Updater" h="4A49FCF0">Dodaj/Ažuriraj jezike</text>
+		<text id="opt.cb.AllowAlgoHyphens" h="D8C41308">Rastavi nepoznate riječi</text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">Omogući rastavljanje riječi</text>
+		<text id="opt.cb.EnableHyphens" h="71ECEEC4">Omogući rječnik rastavljanja riječi</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">Omogući provjeru pravopisa</text>
+		<text id="opt.cb.IgnoreWordsInUppercase" h="BEB17F5B">Zanemari riječi pisane VELIKIM SLOVIMA</text>
+		<text id="opt.cb.IgnoreWordsWithNumbers" h="2AA28F70">Zanemari riječi koje sadrže brojeve</text>
+		<text id="opt.title" h="AEF9F007">Postavke provjere pravopisa</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">Dodaj</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">Izbriši</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">Izbriši sve</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">Rječnik:</text>
+		<text id="wrd.l.Word" h="7AFBC23E">Riječ:</text>
+		<text id="wrd.title" h="66DDC653">Prilagođeni popis riječi</text>
+	</Strings>
+</Localization>

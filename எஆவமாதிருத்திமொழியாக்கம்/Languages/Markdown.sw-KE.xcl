@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123222427">2.00.00</Version>
+	<Author>Kelvin Muriuki</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Kiswahili (Kenya)" lName="Kiswahili" code="sw-KE" R2L="false"/>
+	<Module name="MarkdownPlugin" namespace="md" version="7.0.323.3"/>
+	<Strings>
+		<text id="btn.md.submenu" h="89D1502A">Kutoka kwa &amp;Markdown...</text>
+		<text id="cmd.tip" h="117085B4">Unda waraka mpya kutoka kwa faili za Markdown.</text>
+		<text id="converter.desc" h="41356938">Geuza Faili za Markdown </text>
+		<text id="converter.filterName" h="AE86B691">Faili za Markdown</text>
+		<text id="converter.name" h="AE86B691">Faili za Markdown</text>
+		<text id="converting.progress.text" h="4DD2C8CD">Inageuza faili</text>
+		<text id="grb.style" h="1FF454A3">Mtindo wa Matini</text>
+		<text id="msg.error" h="51BFF51D">Kosa</text>
+		<text id="msg.file.empty" h="8F9B5982">Faili ni tupu.</text>
+		<text id="opt.all.files" h="C68ACE05">Faili Zote</text>
+		<text id="opt.btn.clear.style" h="8932B6EE">Inarejesha mtindo wa CSS kwa chaguo-msingi</text>
+		<text id="opt.create.style" h="EDCA1553">Unda</text>
+		<text id="opt.file" h="45B5DF3A">Faili</text>
+		<text id="opt.margins.fixed" h="6103695E">Kingo zako ni kubwa sana. Zitarekebishwa kiotomatiki.</text>
+		<text id="opt.none" h="F9398D7D">Hakuna</text>
+		<text id="opt.style" h="5CEA121A">Mtindo:</text>
+		<text id="opt.test.title" h="44732FAA">Jaribu</text>
+		<text id="opt.title" h="45D26671">Chaguo za Markdown Kuwa PDF</text>
+		<text id="opt.unavailable" h="5669C949">haipo</text>
+		<text id="prefs.name" h="07E67B98">Markdown Kuwa PDF</text>
+		<text id="prefs.title" h="45D26671">Chaguo za Markdown Kuwa PDF</text>
+		<text id="prop.list.extension" h="14FEB836">Kiendelezi</text>
+		<text id="prop.list.location" h="BB241F45">Mahali</text>
+		<text id="prop.list.modified" h="30325672">Imebadilishwa</text>
+		<text id="prop.list.size" h="17A58A52">Ukubwa</text>
+		<text id="prop.list.title" h="796DFAD3">Kichwa</text>
+		<text id="prop.source" h="AE86B691">Faili za Markdown</text>
+		<text id="prop.source.file" h="F3110572">Teua Faili za Markdown</text>
+		<text id="prop.source.file.unavailable" h="AE2771B8">Faili ya mtindo haipo</text>
+		<text id="prop.source.folder" h="8477FBD3">Teua Kabrasha yenye Markdown</text>
+		<text id="prop.source.subfolder" h="F053B635">Angalia kwenye Kabrasha za ndani</text>
+		<text id="prop.source.txt" h="0B465380">Faili za Matini</text>
+		<text id="prop.window.name" h="6E4F5CCE">Geuza Markdown Kuwa PDF</text>
+		<text id="style.edit.default" h="600F2F18">Tumia mtindo chaguo-msingi</text>
+		<text id="style.files.title" h="26E23587">Faili za CSS</text>
+		<text id="style.folder.name" h="2F5ECDDE">Mitindo ya Faili za Markdown</text>
+		<text id="style.save.title" h="2E270E87">Mtindo wa Kuhifadhi</text>
+		<text id="style.select.file" h="37C34A80">Teua Faili ya Mtindo</text>
+	</Strings>
+</Localization>

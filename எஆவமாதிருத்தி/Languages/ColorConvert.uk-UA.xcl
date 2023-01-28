@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20191030202830">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Ukrainian (Ukraine)" lName="Українська" code="uk-UA" R2L="false"/>
+	<Module name="ColorConvert" namespace="cc" version="8.0.332.0"/>
+	<Strings>
+		<text id="msg.proc.colorConversion" h="29B82B36">Застосовано перетворення кольорів</text>
+		<text id="absolute.ri" h="2B4BF91A">Абсолютний колометричний</text>
+		<text id="any.cs" h="8A3A9D71">Будь-який кольоровий простір</text>
+		<text id="anycmyk.cs" h="7F4DF0D2">Будь-який CMYK</text>
+		<text id="anyobject.type" h="72C84120">Будь-який об’єкт</text>
+		<text id="anyrgb.cs" h="94CA7E95">Будь-який RGB</text>
+		<text id="calcmyk.cs" h="F1126F53">Відкалібрований CMYK</text>
+		<text id="calgray.cs" h="33EB89D0">Відкалібрований сірий</text>
+		<text id="calibrated.cs" h="6691A3E6">Відкалібрований</text>
+		<text id="calrgb.cs" h="EA2AFBDE">Відкалібрований RGB</text>
+		<text id="cmd.list.add" h="8E2EE8C1">Додати</text>
+		<text id="cmd.list.remove" h="FCE39C1F">Видалити</text>
+		<text id="colortype.lbl" h="21687EB3">Тип кольору:</text>
+		<text id="command.lbl" h="63E7087D">Команда перетворення:</text>
+		<text id="conv.false" h="FDCF50B8">Не знайдено потрібних об’єктів для перетворення</text>
+		<text id="conv.succeeded" h="9F1280CB">Перетворення завершено успішно </text>
+		<text id="convattr.grp" h="9849DBD9">Атрибути перетворення</text>
+		<text id="conversion.commads.group" h="26756936">Команди перетворення</text>
+		<text id="convert.cmd" h="66E18092">Перетворити в профіль</text>
+		<text id="convopt.grp" h="3BDEC580">Параметри перетворення</text>
+		<text id="decalibrate.cmd" h="E03118F5">Відмінити калібровку</text>
+		<text id="doc.ri" h="9A06AE7B">Використовувати метод документа</text>
+		<text id="doccolorsdlg" h="E252ADD0">Кольори документа</text>
+		<text id="embed.chk" h="84D781B2">Вбудувати</text>
+		<text id="grayCmyk.chk" h="0F5E13C0">Перевести сірий колір до чорного кольору CMYK</text>
+		<text id="grayscale.cs" h="BD6354DE">Сірий</text>
+		<text id="history.cc.redo" h="5409F668">Повторити операцію перетворення кольорів</text>
+		<text id="history.cc.title" h="A784DD5F">Перетворення кольорів</text>
+		<text id="history.cc.undo" h="5611C194">Відмінити операцію перетворення кольорів</text>
+		<text id="image.type" h="AB6DEA58">Зображення</text>
+		<text id="lineart.type" h="1592B5FC">Шриховий рисунок</text>
+		<text id="matching.grp" h="920C9FBB">Критерії відповідності</text>
+		<text id="nomaximume.edt" h="8222833A">Нема максимуму</text>
+		<text id="nominimum.edt" h="AE9E046B">Нема мінімуму</text>
+		<text id="objtype.lbl" h="F77F2940">Тип об’єкта:</text>
+		<text id="oi.chk" h="94ED2F6E">Перетворити кольори </text>
+		<text id="oiprofile.lbl" h="235B6AC4">Профіль:</text>
+		<text id="perceptual.ri" h="FE1548A6">Перцептивний</text>
+		<text id="preservblck.chk" h="BA0C6CC7">Зберегти чорний</text>
+		<text id="preserve.cmd" h="19170747">Зберегти</text>
+		<text id="preserveCmyk.chk" h="1DEF0320">Зберегти основні кольори CMYK</text>
+		<text id="profile.lbl" h="2B23E392">Профіль перетворення:</text>
+		<text id="progress.cnvDoc" h="2FB51FBD">Перетворення кольорів документа...</text>
+		<text id="rbar.convert.colors" h="A784DD5F">Перетворення кольорів</text>
+		<text id="rbar.convert.colors.tip" h="D733E17B">Перетворює кольори документа...</text>
+		<text id="relative.ri" h="4E4820BA">Відносний колометричний</text>
+		<text id="rintent.lbl" h="56478B71">Метод рендерингу:</text>
+		<text id="saturation.ri" h="81E4F5A0">Зберегти насиченість</text>
+		<text id="shading.type" h="9ECB4FEA">Зглажені тіні</text>
+		<text id="spotcolor.cs" h="6D651DE1">Спеціальний колір</text>
+		<text id="status.cnvPage" h="92A4E6A3">Перетворення сторінки %1...</text>
+		<text id="status.enumcsPage" h="CA0A6487">Перерахування кольорових просторів на сторінці %1...</text>
+		<text id="status.enumcsDoc" h="38B45907">Перерахування кольорових просторів</text>
+		<text id="text.type" h="9372A8AB">Текст</text>
+		<text id="textmax.lbl" h="72531743">Макс. розмір тексту:</text>
+		<text id="textmin.lbl" h="D926E164">Мін. розмір тексту:</text>
+		<text id="translate.spot.chk" h="C70A9205">Перетворити всі спеціальні кольори</text>
+		<text id="undone.noshow" h="B2D782D9">Не показувати це повідомлення надалі</text>
+		<text id="undone.warning" h="52E66FDE">Операцію не можна відмінити. Бажаєте продовжувати?</text>
+		<text id="cs_with_alternate" h="22956BBD">чергувати</text>
+		<text id="cs_based_on" h="FFE0AF7F">на основі</text>
+		<text id="doccolors.lbl" h="4D2F349E">Кольори документа:</text>
+		<text id="doccolors.btn" h="9665902B">Кольори док-та...</text>
+		<text id="spotcolors.lbl" h="2CD39A6E">Спеціальні кольори:</text>
+		<text id="convertcolors.dlg" h="A784DD5F">Перетворення кольорів</text>
+		<text id="convert.lbl" h="433E719B">Перетворення %1</text>
+		<text id="noconversion.applied" h="DF0BFB50">Операцію перетворення кольорів завершено. Ніяких змін не було здійснено.</text>
+	</Strings>
+</Localization>

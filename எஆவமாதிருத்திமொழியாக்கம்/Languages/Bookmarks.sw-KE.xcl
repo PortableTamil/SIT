@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123215804">2.00.00</Version>
+	<Author>Kelvin Muriuki</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Kiswahili (Kenya)" lName="Kiswahili" code="sw-KE" R2L="false"/>
+	<Module name="BookmarksPlugin" namespace="bp" version="7.0.323.3"/>
+	<Strings>
+		<text id="DlgAddExcludedWords" h="BED549D0">Ongeza Maneno Tengwa Mapya</text>
+		<text id="DlgAddTextToBookmark" h="E5B26485">Ongeza Matini Kwenye Kichwa cha Kialamisho</text>
+		<text id="DlgAutoGenerateBookmarks.Title" h="0E85373B">Zalisha Vialamisho Kutoka kwa Matini ya Ukurasa</text>
+		<text id="DlgBookmarkAppearance" h="7544DDCE">Mandhari Tokezi</text>
+		<text id="DlgBookmarkEveryNthPage" h="B6869582">Alamisha Kila Ukurasa N-th</text>
+		<text id="DlgBookmarkLevelDescription" h="186C1D0A">Chaguo za Matini Linganifu</text>
+		<text id="DlgBookmarkPropSheet" h="862C67E7">Sifa za Uzalishaji Vialamisho</text>
+		<text id="DlgBookmarkTitleFormatting" h="A87502C2">Uumbizaji la Kichwa</text>
+		<text id="DlgBookmarksToNamedDests" h="8A0957E5">Geuza kuwa Fikio Tajwa</text>
+		<text id="DlgBookmarksToTextFile" h="29F18B82">Hamisha Vialamisho kwa Faili ya Matini</text>
+		<text id="DlgChangeBookmarkCase" h="4D74C7D9">Badilisha Herufi za Vialamisho</text>
+		<text id="DlgEditStopWords" h="911413E7">Hariri Maneno Simamishi</text>
+		<text id="DlgFindReplaceBookmarkText" h="733A7FC1">Tafuta na Badilisha Matini ya Kialamisho</text>
+		<text id="DlgFontNames" h="3C8B1F88">Chagua Jina la Fonti</text>
+		<text id="DlgFromTOC" h="AC2ED85C">Alamisha Yaliyomo</text>
+		<text id="DlgFromTOCIndentation" h="12688622">Badillisha Fidio</text>
+		<text id="DlgFromTextFile" h="B3799046">Zalisha Vialamisho toka kwa Faili la Matini</text>
+		<text id="DlgNamedDestsToPageNumbers" h="9CAE5E39">Geuza Fikio Tajwa kuwa Fikio la Kawaida</text>
+		<text id="DlgSheetBttfBookmarkProps" h="4B2F0AA2">Sifa za vialamisho </text>
+		<text id="DlgSheetBttfSelectBookmarks" h="30673BCD">Kawaida</text>
+		<text id="DlgSortBookmarks" h="8339BB6C">Panga Vialamisho </text>
+		<text id="DlgToTOC" h="2B3E9BF1">Jenga Yaliyomo</text>
+		<text id="DlgValidateBookmarks" h="0CD39971">Hakikisha Vialamisho</text>
+		<text id="atb.btn.Macroses" h="81734E4F">Mak</text>
+		<text id="atb.chb.IncludeChildren" h="0AC4CB2B">Jumuisha viwango vyote vya ndani</text>
+		<text id="atb.chb.ProcessAllLevels" h="26C3B2DF">Chakata viwango vyote vya vialamisho </text>
+		<text id="atb.chb.RemoveSpaces" h="ABDEA5BC">Ondoa nafasi za ziada kutoka kwa kichwa asilia cha kialamisho</text>
+		<text id="atb.gb.AddText" h="E21C9B55">Ongeza Matini</text>
+		<text id="atb.gb.Levels" h="8A668489">Teua Viwango vya Vialamisho Kuchakata</text>
+		<text id="atb.gb.SelectSource" h="1E2E96A4">Teua Chanzo cha Kialamisho</text>
+		<text id="atb.lbl.BookmarkTitle" h="2DC1254E">"Kichwa Kialamisho"</text>
+		<text id="atb.lbl.Prefix" h="A51A4726">Ongeza Kiambishi Awali kwa Kichwa:</text>
+		<text id="atb.lbl.SelectLevel" h="D1263889">Teua kiwango cha kuchakata:</text>
+		<text id="atb.lbl.Suffix" h="C27741D5">Ongeza Kiambishi Tamati kwa Kichwa:</text>
+		<text id="atb.lbl.UseBookmarksFrom" h="E770326C">Tumia Vialamisho:</text>
+		<text id="ba.chb.expand" h="BBA3BD8A">Onyesha panuzi (onyesha vitoto vyote)</text>
+		<text id="ba.l.expl" h="EE297184">Teua mandhari oneshi ya vialamisho tokezi:</text>
+		<text id="ba.l.textStyle" h="8D5CA9B5">Mtindo wa Matini</text>
+		<text id="benp.Gb.Main" h="4B2F0AA2">Sifa za Kialamisho </text>
+		<text id="benp.Label.TitleTemplate" h="5E999567">Kiolezo cha Kichwa cha Kialamisho</text>
+		<text id="benp.Label1.SelectN" h="8626E4EA">Alamisha kila </text>
+		<text id="benp.Label2.SelectN" h="6270721D">ukurasa kwenye masafa teuzi</text>
+		<text id="benp.infoBtn.invalidMacro" h="1561C0F2">Tungo lina jina la makro amabalo halijatambulishwa na kwa hivyo litapuuziliwa.</text>
+		<text id="bft.l.actionSeparator" h="5C05CE1E">Kitenganishi cha Parameta Vitendo</text>
+		<text id="bft.l.separator" h="A4269065">Kitenganishi cha Uga</text>
+		<text id="bld.btn.selStyle" h="EE213BC5">Pata Mtindo toka kwa Matini Yaliyoteuliwa</text>
+		<text id="bld.chb.fontNames" h="AB457B23">Majina ya Fonti:</text>
+		<text id="bld.chb.limitToPattern" h="7F0826AB">Zuia vichwa vya vialamisho kwa ruwaza inayolingana pekee</text>
+		<text id="bld.chb.matchTextPattern" h="5A64E195">Linganisha Ruwaza ya Matini:</text>
+		<text id="bld.chb.multilineBookmarks" h="CB4817D1">Kubali vichwa vya vialamisho vyenye laini anuwai</text>
+		<text id="bld.g.textContentRules" h="5B364747">Kanuni za Maudhui Matini</text>
+		<text id="bld.l.description" h="2F770A5B">Teua mchanganyiko wa sifa za matini kuzalisha vialamisho kiotomatiki kutoka kwa matini ya waraka:</text>
+		<text id="bld.l.matchTextCase" h="43616BDA">Linganisha Herufi:</text>
+		<text id="bld.matchTextCase.allCapital" h="D4E8E731">Vibambo Vyote ni Herufi Kubwa</text>
+		<text id="bld.matchTextCase.firstCapital" h="CAA2E79D">Kibambo cha Kwanza ni Herufi Kubwa</text>
+		<text id="bld.matchTextCase.firstDigit" h="42E73545">Kibambo cha Kwanza ni Dijiti</text>
+		<text id="bld.matchTextCase.noRestrictions" h="93089981">Hakuna Vizuio</text>
+		<text id="bnd.gb.Main" h="4DDA9780">Kichwa cha Fikio Tajwa</text>
+		<text id="bnd.lbl.NDTitle" h="7F7F73EC">Kichwa cha Fikio Tajwa kitaundwa kutumia ruwaza iliyoingizwa:</text>
+		<text id="btf.chb.insertAfter" h="DD7B743E">Ongeza matini baada ya kila kichwa:</text>
+		<text id="btf.chb.insertBefore" h="CBDD1CF8">Ingiza matini kabla kila kichwa:</text>
+		<text id="btf.chb.removeDuplicateSpaces" h="2653A648">Ondoa nafasi rudufu</text>
+		<text id="btf.chb.replaceLineBreaks" h="0C51EEEB">Badili kigawa mistari na nafasi</text>
+		<text id="btf.chb.replaceTitle" h="097EF3C2">Tafuta na badilisha kichwa ca kialamisho na ruwaza matini</text>
+		<text id="btf.g.advancedFormatting" h="9130441A">Uumbizaji wa Hali ya Juu</text>
+		<text id="btf.g.textCase" h="97FCC959">Herufi ya Matini</text>
+		<text id="btf.l.characters" h="189C88D2">(vibambo)</text>
+		<text id="btf.l.expl" h="169A084A">Teua sifa za matini kutekeleza kwenye vichwa vipya vya vialamisho:</text>
+		<text id="btf.l.leadingNumbers" h="074A1A51">Namabri Tangulizi:</text>
+		<text id="btf.l.maxLength" h="A52EC501">Urefu Upeo wa Kichwa:</text>
+		<text id="btf.l.replacePattern" h="B54B1F92">Ruwaza Ubadili:</text>
+		<text id="btf.l.searchPattern" h="E87DDC08">Ruwaza Utafutaji:</text>
+		<text id="btf.l.use" h="46DEA47A">Tumia:</text>
+		<text id="btf.leadingNumbers.noChange" h="3399B0A0">Hakuna Badiliko</text>
+		<text id="btf.rb.doNotChange" h="4CBF2C1B">Usibadilishe</text>
+		<text id="btf.rb.lowercase" h="82451817">herufi ndogo</text>
+		<text id="btf.rb.sentenceCase" h="B26B2798">Herufi ya sentensi</text>
+		<text id="btf.rb.titleCase" h="2C8DBF1B">Herufi ya Kichwa</text>
+		<text id="btf.rb.uppercase" h="42F820C7">HERUFI KUBWA</text>
+		<text id="btf.use.letters" h="6EE7E478">Herufi</text>
+		<text id="btf.use.numbers" h="E2FE5FA7">Nambari</text>
+		<text id="btf.use.romanLetters" h="290A50ED">Namba za Kirumi</text>
+		<text id="btn.add.custom" h="3080663C">Ongeza Binafsi...</text>
+		<text id="btn.highlight" h="2485FBFF">Angaza Vialamisho</text>
+		<text id="btn.validate" h="1E91E484">Hakikisha</text>
+		<text id="cbc.aew.label" h="7EC386C0">Ongeza maneno mapya ya kutengwa ukiingiza moja kwa kila laini (Bonyeza "Enter" baada ya kila neno):</text>
+		<text id="cbc.cb.fromBookmarks" h="CF38CD8D">Vilivyoteuliwa</text>
+		<text id="cbc.cb.fromDocument" h="424CAFC5">Vialamish vyote</text>
+		<text id="cbc.chb.EnterCustomWordList" h="EB8ACE1B">Ingiza orodha ya maneno ambayo hayatachakatwa</text>
+		<text id="cbc.chb.IncludeChildrenBookmarks" h="051C6219">Jumuisha vialamisho vya ndani</text>
+		<text id="cbc.gb.SelectTextCase" h="F9747FC0">Teua Herufi za Matini</text>
+		<text id="cbc.gb.TextCaseOptions" h="DAD7B4F4">Chaguo</text>
+		<text id="cbc.list.header" h="647D6FC4">Maneno Tengwa</text>
+		<text id="cbc.rbtn.LowerCase" h="82451817">herufi ndogo</text>
+		<text id="cbc.rbtn.SentenceCase" h="B26B2798">Herufi za sentensi</text>
+		<text id="cbc.rbtn.TitleCase" h="2C8DBF1B">Herufi za Kichwa</text>
+		<text id="cbc.rbtn.UpperCase" h="42F820C7">HERUFI KUBWA</text>
+		<text id="chb.ignoreDuplicates" h="B30FC50E">Puuza vialamisho rudufu zinazofuatana</text>
+		<text id="chb.stopWords" h="491ED7FC">Puuza matini yenye maneno simamishi</text>
+		<text id="chb.verifyLinks" h="7A46B598">Thibitisha viungo vya faili za nje</text>
+		<text id="chb.warnGoTo" h="911FC68A">Onya kuhusu vitendo batili vya EndaKwa</text>
+		<text id="chb.warnGoToRE" h="C0827D11">Onya kuhusu vitendo batili vya EndaKwaR na EndaKwaE</text>
+		<text id="chb.warnLaunchURI" h="94F27C09">Onya kuhusu Ufunguzi na vitendo vya URI batili</text>
+		<text id="chb.warnNoActions" h="FBF997CF">Onya kuhusu orodha tupu za vitendo ama hakuna watoto halali</text>
+		<text id="chb.warnNoGoTo" h="66B02339">Onya kuhusu ukosefu wa vitendo vya EndaKwa kwa orodha ya vitendo</text>
+		<text id="chb.warnOther" h="B30D6C64">Onya kuhusu vitendo vingenevyo batili</text>
+		<text id="chb.warnTitle" h="F0B5EE52">Onya kuhusu vichwa tupu</text>
+		<text id="cmd.addAGBLevel" h="928E2BB5">Tumia Mtindo wa Matinu Ulioteuliwa kwenye Uzalishaji Vialamisho...</text>
+		<text id="cmd.addTextToBookmarkTitle" h="C4C93738">Ongeza Matini kwenye Vichwa vta Vialamisho...</text>
+		<text id="cmd.addTextToBookmarkTitle.short" h="E21C9B55">Ongeza Matini</text>
+		<text id="cmd.addTextToBookmarkTitle.tip" h="B412507B">Ongeza viambishi awali na tamati kwenye vichwa vya vialamisho</text>
+		<text id="cmd.changeBookmarkCase" h="359544B0">Badilisha Herufi za Kialamisho...</text>
+		<text id="cmd.changeBookmarkCase.short" h="BC4AE60A">Badilisha Herufi</text>
+		<text id="cmd.changeBookmarkCase.tip" h="48522DE3">Inabadilisha ukubwa wa herufi wa vichwa vya vialamisho.</text>
+		<text id="cmd.findReplaceBookmarkText" h="AF996007">Tafuta na Badilisha Matini ya Kialamisho...</text>
+		<text id="cmd.findReplaceBookmarkText.short" h="9F35A871">Tafuta na Badilisha</text>
+		<text id="cmd.findReplaceBookmarkText.tip" h="7ED81F66">Inatafuta na kubadilisha elementi za matini zilizomo kwenye vichwa vya vialamisho.</text>
+		<text id="cmd.sort" h="B1FFF012">Panga Vialamisho...</text>
+		<text id="cmd.sort.short" h="579162B0">Panga</text>
+		<text id="cmd.sort.tip" h="90B74C06">Inapanga vialamisho kulingana na kigezo kilichopatiwa.</text>
+		<text id="cmd.validate" h="E61D60D2">Hakikisha Vialamisho...</text>
+		<text id="cmd.validate.short" h="1E91E484">Hakikisha </text>
+		<text id="cmd.validate.tip" h="AF7C0DD0">Inahakikisha vialamisho kwa usahihi wa vigezo vilivyopatiwa.</text>
+		<text id="cmd.toTOC" h="9B7AEEEA">Jenga Yaliyomo...</text>
+		<text id="cmd.toTOC.short" h="2B3E9BF1">Jenga Yaliyomo...</text>
+		<text id="cmd.toTOC.tip" h="E92DA1A8">Inaunda Yailyomo kulingana na muundo wa vialamisho na kurasa zinazoelekeza.</text>
+		<text id="cmd.bookmarksToNamedDests" h="9A9E5CF2">Geuza kwa Fikio Tajwa...</text>
+		<text id="cmd.bookmarksToNamedDests.short" h="9226CE11">Geuza kwa Fikio Tajwa</text>
+		<text id="cmd.bookmarksToNamedDests.tip" h="76CA39A1">Inageuza fikio za kawaida kwenye orodha ya vitendo vya Vialamisho kwa Fikio Tajwa.  Sasa, iwapo kurasa zitahamishwa ama kufutwa, vialamisho vitaelekea kwa kurasa sawa na zile zilizokuwa hapo awali.</text>
+		<text id="cmd.bookmarksToTextFile" h="DBEBEEB8">Hamisha Vialamisho kwa Faili ya Matini...</text>
+		<text id="cmd.bookmarksToTextFile.short" h="738D44A8">Hamisha kwa Faili ya Matini</text>
+		<text id="cmd.bookmarksToTextFile.tip" h="2F1DD236">Inahifadhi muundo wa vialamisho kwenye faili ya matini.</text>
+		<text id="cmd.bookmarksToHtmlFile" h="EFF75744">Hamisha Vialamisho kwa HTML...</text>
+		<text id="cmd.bookmarksToHtmlFile.short" h="76C20816">Hamisha kwa HTML</text>
+		<text id="cmd.bookmarksToHtmlFile.tip" h="8968844D">Hifadhu muundo wa vialamisho kama faili ya HTML.</text>
+		<text id="cmd.namedDestsToPageNumbers" h="3A651CA9">Geuza Fikio Tajwa kuwa Fikio za Kawaida</text>
+		<text id="cmd.namedDestsToPageNumbers.short" h="74C22304">Fikio Taj. kuwa Kawaida</text>
+		<text id="cmd.namedDestsToPageNumbers.tip" h="2ABF8034">Inageuza Fikio Tajwa kwenye orodha ya vitendo ya Vialamisho kuwa fikio za kawaida. Sasa, iwapo kurasa zitahamishwa ama kufutwa, vialamisho vitaelekea kwa kurasa zinazolingana na namba za kurasa fikio.</text>
+		<text id="cmd.bookmarkEveryNthPage" h="940FCD39">Alamisha Kila Ukurasa Nth...</text>
+		<text id="cmd.bookmarkEveryNthPage.short" h="71BCE832">Alamisha Kila Ukurasa Nth...</text>
+		<text id="cmd.bookmarkEveryNthPage.tip" h="B60E23D7">Unda vialamisho kulingana na uhusiano wa namba za kurasa za waraka.</text>
+		<text id="cmd.generate" h="2147DF79">Zalisha Kialamisho toka kwa Matini ya Ukurasa...</text>
+		<text id="cmd.generate.short" h="8BE514A6">Toka kwa Matini ya Ukurasa</text>
+		<text id="cmd.generate.tip" h="2A03253C">Inaunda vialamisho kutoka kwa matini ya waraka uliopo kwa kutumia mtindo wa fonti na parameta zilizopatiwa.</text>
+		<text id="cmd.fromTOC" h="D15400EB">Zalisha Kialamisho toka kwa Yaliyomo...</text>
+		<text id="cmd.fromTOC.short" h="3AB39C50">Toka kwa Yaliyomo</text>
+		<text id="cmd.fromTOC.tip" h="D4170828">Inaunda vialamisho kutoka kwa Yailyomo iliopo tayari.  Yaliyomo inafaa kwanza kuteuliwa kutumia Zana ya Matini ili kipengele hiki kufanya kazi.</text>
+		<text id="cmd.fromTextFile" h="55CA46BC">Zalisha Vialamisho toka kwa Faili ya Matini</text>
+		<text id="cmd.fromTextFile.short" h="3619B3DB"> Toka kwa Faili ya Matini</text>
+		<text id="cmd.fromTextFile.tip" h="11167525">Inaunda vialamisho kutoka kwa faili ya matini. Tambua kuwa faili ya matini inafaa ifuate kanuni za kipengele cha Hamisha Vialamisho kwa Faili ya Matini.</text>
+		<text id="cmd.name" h="7CDCE9BE">&amp;Vialamisho</text>
+		<text id="cmd.macro.firstLine" h="613F14A5">Laini ya Matini Ukurasa wa Kwanza</text>
+		<text id="cmd.macro.hierIndex" h="7DCA5F4D">Kielezo Tabaka</text>
+		<text id="cmd.macro.hierTitle" h="0E7B4B6F">Alamisha Kichwa Tabaka </text>
+		<text id="cmd.macro.indexInParent" h="1B41AFB1">Eleza kwa Kizazi</text>
+		<text id="cmd.macro.label" h="EEE40FF3">Lebo la Ukurasa</text>
+		<text id="cmd.macro.launch" h="87D9EB8D">Faili ya Kufungua</text>
+		<text id="cmd.macro.level" h="B863033F">Kiwango cha kialamisho</text>
+		<text id="cmd.macro.namedDest" h="C4E8D8F5">Fikio Tajwa</text>
+		<text id="cmd.macro.sequentialNum" h="CDF4EA5E">Namba Mfuatano</text>
+		<text id="cmd.macro.title" h="3AB782A4">Kichwa cha Kialamisho</text>
+		<text id="cmd.macro.uri" h="6C21F7EF">Kiungo Wavuti Kufungua</text>
+		<text id="ebttf.actType.all" h="B8B21253">Vialamisho vyenye vitendo vyote vya aina ya kiungo wavuti</text>
+		<text id="ebttf.actType.goto" h="05B4C93C">Vialamisho vyenye vitendo 'Enda-kwa Ukurasa'</text>
+		<text id="ebttf.actType.gotoR" h="41E1955E">Vialamisho vyenye vitendo 'Enda-kwa Mbali</text>
+		<text id="ebttf.actType.js" h="07676EBA">Vialamisho vyenye vitendo HatiJava</text>
+		<text id="ebttf.actType.launch" h="38537D36">Vialamisho vyenye vitendo 'Fungua Faili'</text>
+		<text id="ebttf.actType.uri" h="F39B51AE">Vialamisho vyenye vitendo 'Fungua Kiungo Wavuti'</text>
+		<text id="ebttf.cb.separator.comma" h="827998F7">Koma</text>
+		<text id="ebttf.cb.separator.semi" h="988594A6">Nukta mkato</text>
+		<text id="ebttf.ch.doNotEscape" h="09B53F9F">Usiweke mkwajunyuma kwenye alama kama @ # {}  : etc.</text>
+		<text id="ebttf.ch.expClosedState" h="46E4EC7E">Hamisha hali "mfinyo" ya mti wa kialamisho</text>
+		<text id="ebttf.ch.expDetailedGotoDescr" h="18B9C243">Hamisha ufafanuzi wa kina wa fikio</text>
+		<text id="ebttf.ch.exportActions" h="3444FE51">Hamisha vitendo vya kialamisho</text>
+		<text id="ebttf.ch.exportGoto" h="37493654">Hamisha Ukurasa ambao kialamisho kinaelekeza</text>
+		<text id="ebttf.ch.exportGotoR" h="92C06BA6">Hamisha ufafanuzi wa vitendo vya 'Enda-kwa Mbali'</text>
+		<text id="ebttf.ch.exportJS" h="9362EAE3">Hamisha msimbo wa vitendo vya HatiJava</text>
+		<text id="ebttf.ch.exportLaunch" h="1B39BF89">Hamisha ufafanuzi wa vitendo vya 'Fungua Faili'</text>
+		<text id="ebttf.ch.exportStyle" h="A6713F10">Hamisha mtindo wa matini na sifa za rangi za kialamisho </text>
+		<text id="ebttf.ch.exportWebLinks" h="3C61424C">Hamisha Viungo vya Wavuti</text>
+		<text id="ebttf.ch.includeSubBookmarks" h="051C6219">Jumuisha vialamisho vyote vya ndani</text>
+		<text id="ebttf.ch.openContFolder" h="80BDDAAC">Fungua kabrasha inazo</text>
+		<text id="ebttf.ch.overwriteExistingFiles" h="29981774">Andikia juu ya faili zilizopo</text>
+		<text id="ebttf.ch.resloveNamedDests" h="D1E8A9BC">Suluhisha fikio tajwa kwenye nambari za ukurasa</text>
+		<text id="ebttf.gb.actionExportParams" h="DA853D34">Chagua Sifa za Vialamisho Kuhamisha</text>
+		<text id="ebttf.gb.savingResults" h="49571A59">Parameta za Towe</text>
+		<text id="ebttf.gb.selectBookmarks" h="E2AFC2C6">Hamisha </text>
+		<text id="ebttf.infoBtn.doNotEscape" h="93A6DD6C">Kuweka mkwajunyuma kwenye alama za huduma inashauriwa iwapo unatarajia kutumia faili towe na kipengele cha "Zalisha Vialamisho Toka kwa Matini" hapo usoni.</text>
+		<text id="ebttf.infoBtn.invalidSeparator" h="44875D1F">Kitenganishi cha sifa hakifai kuwa tungo tupu, alama za alafabeti na namba ama nafasi; na pia haifai iwe vibambo vifuatavyo: @ # : {} \</text>
+		<text id="ebttf.lbl.folder" h="3F9ED2F9">Kabrasha:</text>
+		<text id="ebttf.lbl.separator" h="E9D351AC">Kitenganishi cha Sifa:</text>
+		<text id="ebttf.rb.exportActionTypes" h="533F8EA6">Hamisha vialamisho vinavyofanya vitendo vya viungo</text>
+		<text id="ebttf.rb.exportAll" h="8F2ED544">Hamisha Zote</text>
+		<text id="ebttf.rb.exportSelected" h="69FB5145">Hamisha vialamisho vilivyoteuliwa</text>
+		<text id="ebttf.rb.useDefaultFilename" h="0E7FC989">Tumia jina la waraka wa PDF kuhifadhi matokeo</text>
+		<text id="esw.chb.matchCase" h="2E5EFD7E">Linganisha herufi:</text>
+		<text id="esw.chb.matchWhole" h="17009870">Linganisha menno kamili</text>
+		<text id="esw.chb.useRegExp" h="7FC6EB4F">Tumia semi za kawaida</text>
+		<text id="esw.l.explanation" h="2C312B17">Matini yenye 'maneo simamishi' yatapuuzwa na kukosa kutumika kuunda vialamisho.</text>
+		<text id="fn.l.selectFontNames" h="0CCEF1FA">Chagua Majina ya Fonti:</text>
+		<text id="frbt.chb.MatchCase" h="12EB8088">Linganisha herufi</text>
+		<text id="frbt.chb.MatchWholeWord" h="FE8CC762">Linganisha maneno kamili</text>
+		<text id="frbt.chb.UseRegex" h="7FC6EB4F">Tumia semi za kawaida</text>
+		<text id="frbt.gb.FindReplace" h="BA012728">Chaguo za Tafuta na Badilisha</text>
+		<text id="frbt.lbl.FindWhat" h="D0A8A2C5">Tafuta nini:</text>
+		<text id="frbt.lbl.ReplaceWith" h="3BE65784">Badilisha na:</text>
+		<text id="ftoc.allIncluded" h="C994FC1B">Jumuisha Zote</text>
+		<text id="ftoc.b.indents" h="48800D32">Badilisha fidio...</text>
+		<text id="ftoc.chb.addBookmarks" h="CBBAE768">Ongeza vialamisho kwenye kurasa ukitumia yaliyomo</text>
+		<text id="ftoc.chb.addLinks" h="68456DBA">Ongeza viungo kwenye ingizo za yaliyomo </text>
+		<text id="ftoc.chb.createLevels" h="58CF083A">Tumia jongezo la Yaliyomo kuunda mwongozo wa vialamisho</text>
+		<text id="ftoc.chb.improveDest" h="417AD7B0">Boresha fikio za vialamisho kulingana na matini</text>
+		<text id="ftoc.chb.trimNumbers" h="40ACC5F5">Ondoa nambari za kiambishi awali kutoka kwa vichwa vya vialamisho</text>
+		<text id="ftoc.chb.trimSpaces" h="5A27A063">Ondoa nafasi zinazofuatana kutoka kwa vichwa vya vialamisho</text>
+		<text id="ftoc.chb.useExistingLinks" h="E214DBE7">Tumia viungo viliopo kama fikio za vialamisho</text>
+		<text id="ftoc.l.bottomIndent" h="C983AD6F">Fidio la Chini:</text>
+		<text id="ftoc.l.expl" h="1FAB779E">Operesheni hii itaongeza vialamisho kwenye kurasa kulingana na ingizo zilizoteuliwa za yaliyomo. Kwa ziada, viungo vyaweza kuongezwa kwenye ingizo za yaliyomo ama viungo viliopo kutumika kama fikio za vialamisho.</text>
+		<text id="ftoc.l.offsetExpl" h="9D6C25F6">Hii ni tofauti kati ya nambari halisi za ukurasa kwenye waraka na nambari za ukurasa zilizochapishwa ambazo zaweza kuwa chanya ama hasi.</text>
+		<text id="ftoc.l.pageOffset" h="9E563407">Fidio la Ukurasa</text>
+		<text id="ftoc.l.separator" h="45CF4893">Chagua aina ya kitenanishi</text>
+		<text id="ftoc.l.topIndent" h="FA827580">Fidio la Juu:</text>
+		<text id="msg.bft.warning" h="726201E6">Tafadhali chagua alama tofauti ya kitenganishi cha uga na kitenganishi cha kitendo!</text>
+		<text id="msg.cbc.excludedwords.add.title" h="9ADE883B">Ongeza Neno Tengwa Mapya</text>
+		<text id="msg.cbc.excludedwords.caption" h="6B29D4B4">Ingiza Neno Tengwa:</text>
+		<text id="msg.cbc.excludedwords.edit.title" h="82F8AAA6">Hariri Neno Tengwa Lililoteuliwa</text>
+		<text id="msg.dlg.bookmarksToTextFile.done" h="8E1397E9">Vialamisho vilifanikiwa kuhamishwa.</text>
+		<text id="msg.dlg.emptyFilename.warning" h="96A438DA">Jina la faili haliwezi kuwa tupu.</text>
+		<text id="msg.dlg.invalidFilename.slashes" h="626318B0">Jina la faili halifai kuwa na alama za  ama / zinazofuatana ama kuisha nazo.</text>
+		<text id="msg.dlg.invalidFilename.warning" h="46CD566C">Windows hairuhusu majina ya faili yanayo alama zifuatazo: *?:|"&lt;&gt;</text>
+		<text id="msg.dlg.noActionsSelected.warning" h="933F1901">Kisanduku tiki cha "Hamisha vitendo vya kialamisho" kimeteuliwa bila ya kutaja aina ya vitendo. Tafadhali chagua kitendo kimoja ama zaidi cha kuhamisha ama ondoa uteuzi wa "Hamisha vitendo vya kialamisho".</text>
+		<text id="msg.dlg.noSelectedBookmarks.warning" h="21F37C67">Hakuna vialamisho vimeteuliwa. Tafadhali chagua kialamisho kimoja ama zaidi, ama badilisha parameta la "Chanzo cha Vialamisho" kuwa "Vialamisho vyote".</text>
+		<text id="msg.dlg.pathDoesntExist.warning" h="0804B942">Kabrasha uliyotaja haipo. Tafadhali chagua kabrasha fikio halali kisha jaribu tena.</text>
+		<text id="msg.font.addCustom.caption" h="75533687">Ingiza jina la fonti mpya ya PDF:</text>
+		<text id="msg.font.addCustom.title" h="06AFFCAB">Ongeza Fonti Mpya ya Binafsi</text>
+		<text id="msg.frbt.result.bookmarksCount" h="EE00AC0B">Utafutaji umekamilika. Idadi ya vialamisho vilivyobadilishwa: %1</text>
+		<text id="msg.frbt.result.noBookmarksModified" h="84BE491B">Utafutaji umekamilika. Hakuna vialamisho vimebadilishwa.</text>
+		<text id="msg.levelDesc.title" h="E92EACC5">Ubainishaji wa Viwango</text>
+		<text id="msg.levelDesc.warning" h="86A85979">Haiwezekani kuunda kiwango kipya cha kialamisho kutumia parameta zilizopo. Tafadhali chagua angalau kigezo kimoja linganifu kwenye Chaguo za Matini Linganifu. Pia, tafadhali thibitisha kuwa elementi zilizoteuliwa zina data.</text>
+		<text id="msg.oper.noChanges" h="5777DD79">Hakuna mabadiliko yametekelezwa. Tafadhali thibitisha data unayoingiza kisha jaribu tena.</text>
+		<text id="msg.oper.warning" h="ABDCBB65">Hakuwa na kumbukumbu wakati wa utekelezaji wa operesheni. Tafadhali kagua tokeo.</text>
+		<text id="msg.regex.error" h="D799FCBE">Kosa la uchanganuzi wa Regex</text>
+		<text id="msg.stopWords.add.title" h="F6B54725">Ongeza Fungu Mpya Simamishi</text>
+		<text id="msg.stopWords.caption" h="E2BC1B9E">Ingiza 'neno simamishi' mpya ama 'sentensi simamishi':</text>
+		<text id="msg.stopWords.edit.title" h="AFE604DF">Hariri Neno Simamishi Lililoteuliwa</text>
+		<text id="msg.validateBookmarks.delete.caption" h="ED4457F4">Ungetaka kufuta vialamisho vilivyoteuliwa pamoja na vitoto vyake?</text>
+		<text id="msg.validateBookmarks.delete.title" h="8FF00765">Futa Kialamisho Batili</text>
+		<text id="msg.validateBookmarks.rename.caption" h="CE842D61">Ingiza jina la kialamisho kipya:</text>
+		<text id="msg.validateBookmarks.rename.title" h="ED9AF7FA">Badilisha Jina la Kialamisho</text>
+		<text id="ndpn.ch.deleteDests" h="BC12FBF0">Ondoa fikio tajwa iliyogeuzwa kutoka kwa waraka</text>
+		<text id="op.GenerateBookmarks" h="05382BCA">Zalisha Vialamisho</text>
+		<text id="op.ValidateBookmarks.msg.emptyActionsList" h="A0A0065C">Kialamisho hakijapatiwa tendo.</text>
+		<text id="op.ValidateBookmarks.msg.emptyTitle" h="83F3E965">Kichwa cha kialamisho ni kitupu</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidDestName" h="81A40483">Kitendo cha EndaKwa kinaelekeza kwa Fikio Tajwa iliyobatili.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidPageNumber" h="C8941D79">Kitendo cha EndaKwa kinaelekeza kwa ukurasa ulio nje ya kingo.</text>
+		<text id="op.ValidateBookmarks.msg.goto.noAction" h="368F0970">Hakuna kitendo cha EndaKwa kimo katika orodha ya vitendo.</text>
+		<text id="op.ValidateBookmarks.msg.gotoE.invalidTargetPath" h="9D8A50F1">Njia lengwa ni tupu ama haipo kwenye kitendo cha EndaKwaE.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidFile" h="76CCA61D">Kitendo cha EndaKwaR kinaelekeza kwa faili batili.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidPath" h="560614BE">Njia ya faili ni batili.</text>
+		<text id="op.ValidateBookmarks.msg.invalidAction" h="84877FDA">Kitendo %1 ni batili.</text>
+		<text id="progress.BookmarkEveryNthPage.title" h="DA523087">Inalamisha kurasa...</text>
+		<text id="progress.addTextToBookmarkTitle.text" h="BE27C5C9">Inaongeza matini kwenye kialamisho: %1...</text>
+		<text id="progress.addTextToBookmarkTitle.title" h="EC7EB408">Inaongeza matini kwenye vialamisho: %1...</text>
+		<text id="progress.addingBookmark" h="45BBB17E">Inaongeza vialamisho: %1 kwa %2...</text>
+		<text id="progress.bookmarksToHtmlFile.status" h="AF1901AD">Inahamisha vialamisho: %1 kwa %2...</text>
+		<text id="progress.bookmarksToHtmlFile.text" h="4DD531FF">Inahamisha kialamisho: %1...</text>
+		<text id="progress.bookmarksToHtmlFile.title" h="E1D21FEE">Inahamisha vialamisho kwa HTML</text>
+		<text id="progress.bookmarksToNamedDests.text" h="CE73819F">Inageuza kialamisho: %1</text>
+		<text id="progress.bookmarksToNamedDests.title" h="8DB00717">Inageuza fikio tajwa...</text>
+		<text id="progress.bookmarksToTextFile.text" h="6E74EA26">Inachakata kialamisho kwa uhamishaji: %1</text>
+		<text id="progress.bookmarksToTextFile.title" h="D2C04472">Inahamisha vialamisho kwa faili ya matini...</text>
+		<text id="progress.calculatingBookmarks" h="4AC26E12">Inahesabu vialamisho...</text>
+		<text id="progress.changingBookmarkCase.text" h="107628CA">Inabadilisha Herufi za Kialamisho: %1...</text>
+		<text id="progress.changingBookmarkCase.title" h="E01AED17">Inabadilisha Herufi za Kialamisho...</text>
+		<text id="progress.findReplaceBookmarkText.text" h="ABC58F1D">Inachakata kialamisho: %1</text>
+		<text id="progress.findReplaceBookmarkText.title" h="00FEBD2A">Inabadilisha matini ya kialamisho...</text>
+		<text id="progress.generateBookmarks" h="3D5E30ED">Inazalisha vialamisho kutoka ukurasa %1...</text>
+		<text id="progress.generatingBookmarks" h="CFF0F2A9">Inazalisha Vialamisho</text>
+		<text id="progress.generatingBookmarks.label" h="043CF7B1">Inaongeza kialamisho: %1...</text>
+		<text id="progress.generatingLevels" h="07A22443">Inazalisha viwango kutoka vialamisho: %1...</text>
+		<text id="progress.generatingTOC" h="A438CB9C">Inazalisha Yaliyomo</text>
+		<text id="progress.generatingTOCFromBookmark" h="C9213435">Inazalisha maudhui kutoka kialamisho: %1...</text>
+		<text id="progress.namedDestsToPageNumbers.deleteNds" h="5DFFFF06">Inafuta fikio tajwa...</text>
+		<text id="progress.namedDestsToPageNumbers.title" h="4615CB0B">Inageuza fikio tajwa kuwa namba za kurasa...</text>
+		<text id="progress.parsingFile" h="B2405DA1">Inasoma muundo wa kialamisho toka kwa faili ya matini...</text>
+		<text id="progress.precalculatingPages" h="DB83BEF7">Inaunda kurasa za Yaliyomo...</text>
+		<text id="progress.preparingSelected" h="52031EDE">Inatayarisha vialamisho vilivyoteuliwa...</text>
+		<text id="progress.sortingBookmarks" h="99E846CF">Inapanga kialamisho: %1...</text>
+		<text id="progress.sortingBookmarks.status" h="451C3890">Inapanga kialamisho %1 kwa %2...</text>
+		<text id="progress.sortingBookmarks.title" h="E134B46E">Inapanga Vialamisho</text>
+		<text id="progress.statusText.ProcessingBookmarks" h="3836AD6B">Inachakata kialamisho %1 kwa %2...</text>
+		<text id="progress.statusText.ProcessingBookmarksDone" h="67CB6C48">Uchakataji wa vialamisho umekamilika.</text>
+		<text id="progress.undoingChanges" h="BBD3EE96">Inatendua mabadiliko...</text>
+		<text id="regex.error.backref" h="3D1C1BE5">Usemi ulikuwa na rejeleo nyuma batili.</text>
+		<text id="regex.error.badbrace" h="4363EA7D">Usemi ulikuwa na masafa batili kati ya brasi: '{ na }'.</text>
+		<text id="regex.error.badrepeat" h="9091944F">Usemi ulikuwa na kibainishi kinachorudia (moja ya *?+(){) ambacho hakikutanguliwa na usemi halali wa kawaida.</text>
+		<text id="regex.error.brace" h="3031B0A1">Usemi ulikuwa na brasi zisizolingana: '{ na }'.</text>
+		<text id="regex.error.brack" h="A41AB311">Usemi ulikuwa na bano zisizolingana: '[ na ]'.</text>
+		<text id="regex.error.collate" h="D15FB49F">Usemi ulikuwa na elementi batili ya upangaji.</text>
+		<text id="regex.error.complexity" h="76ADCA5C">Uchangamano wa ulinganishi uliojaribiwa kwenye usemi wa kawaida, umepita kiwango kilichowekwa hapo awali.</text>
+		<text id="regex.error.ctype" h="76D6C176">Usemi ulikuwa na kibambo batili cha jina la darasa.</text>
+		<text id="regex.error.default" h="509A660E">Kosa limetendeka uchakataji wa regex ukitendeka</text>
+		<text id="regex.error.escape" h="4BAF1552">Usemi ulikuwa na kibabmbo batili cha mkwajunyuma ama mkwajunyuma uliobakia.</text>
+		<text id="regex.error.paren" h="11F2EE54">Usemi ulikuwa na bano zisizolingana: '( na )'.</text>
+		<text id="regex.error.range" h="CDB00023">Usemi ulikuwa na masafa batili ya vibambo (kwa mafano, [z-a])</text>
+		<text id="regex.error.space" h="2FFB9DD7">Hakuwa na kumbukumbu zakutosha kutenda usemi huu wa kawaida.</text>
+		<text id="regex.error.stack" h="2F47E3EC">Hakuwa na kumbukumbu zakutosha kuamua iwapo usemi wa kawaida ungelingana na mfuatano wa vibambo uliotajwa.</text>
+		<text id="regex.error.syntax" h="4F399035">Kuna kosa kwenye sintaksi ya Regex.</text>
+		<text id="sb.ascending" h="59F2363F">Kupanda</text>
+		<text id="sb.chb.ignoreCase" h="E0949C6C">Puuza herufi za matini</text>
+		<text id="sb.chb.sortAll" h="7BB3E98C">Panga viwango vyote vya vialamisho </text>
+		<text id="sb.chb.sortChildren" h="B1087C90">Panga vialamisho vitoto</text>
+		<text id="sb.descending" h="74091246">Kushuka</text>
+		<text id="sb.g.sortingMethod" h="93D0D863">Mbinu ya Kupanga</text>
+		<text id="sb.l.selectLevel" h="62FA8E9C">Teua kiwango cha kialamisho kupanga:</text>
+		<text id="sb.l.sortType" h="85828DAE">Aina za kupanga:</text>
+		<text id="sb.rb.sortAlpha" h="F9CD110C">Panga vialamisho kialfabeti</text>
+		<text id="sb.rb.sortByPage" h="EB2AF7E4">Panga vialamisho kwa kurejelea namba za ukurasa</text>
+		<text id="test" h="A538F326">Tungo Matini</text>
+		<text id="tree.fontColor" h="210B1C91">Rangi ya Matini:</text>
+		<text id="tree.fontName" h="ACA86074">Jina la Fonti:</text>
+		<text id="tree.fontSize" h="B3CE43BA">Ukubwa Fonti:</text>
+		<text id="tree.fontTolerance" h="7781AAB6">Ustahimilivu:</text>
+		<text id="tree.level" h="9B075A86">Kiwango</text>
+		<text id="tree.textPattern" h="24121AD7">Ruwaza la Matini:</text>
+		<text id="tree.vb.bookmark" h="9926EC31">&lt;b&gt;%1. Kialamisho:&lt;/b&gt; "%2'</text>
+		<text id="ttoc.b.build" h="DE9A0F1C">Jenga</text>
+		<text id="ttoc.b.changeNumber" h="DD04BEA8">Badilisha Umbizo...</text>
+		<text id="ttoc.b.changeTitle" h="3B951B9A">Badilisha Umbizo la Kichwa...</text>
+		<text id="ttoc.chb.asLastPage" h="D323F9DD">Kama ukurasa mwisho</text>
+		<text id="ttoc.chb.end" h="9F41B967">Tumia viwango vyote vya vialamisho</text>
+		<text id="ttoc.chb.skipInvalid" h="F864C487">Ruka vialamisho batili</text>
+		<text id="ttoc.chb.useDifferentNumberFormatting" h="A39D9F18">Tumia uumbizaji wa binafsi</text>
+		<text id="ttoc.chb.useDifferentSeparatorFormatting" h="7D6F82B2">Tumia uumbizaji binafsi wa kitenganishi</text>
+		<text id="ttoc.chb.useSizeFromDoc" h="79C19271">Amua ukubwa wa ukurasa toka kwa waraka</text>
+		<text id="ttoc.g.pageNumbering" h="21AF4605">Unambizaji Kurasa</text>
+		<text id="ttoc.g.pageSettings" h="D82087B4">Mipangilio ya Ukurasa</text>
+		<text id="ttoc.ib.numberFormat" h="D41C6CB8">&lt;b&gt;Umbizo la Namba:&lt;/b&gt; &lt;i&gt;Familia ya Fonti:&lt;/i&gt; %1, &lt;i&gt;Ukubwa wa Fonti&lt;/i&gt; %2 pt, &lt;i&gt;Rangi ya Fonti:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.separatorFormat" h="14A80F28">&lt;b&gt;Umbizo la Kitenganishi:&lt;/b&gt; &lt;i&gt;Familia ya Fonti:&lt;/i&gt; %1, &lt;i&gt;Ukubwa wa Fonti&lt;/i&gt; %2 pt, &lt;i&gt;Rangi ya Fonti:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.titleFormat" h="4A9C0388">&lt;b&gt;Umbizo la Kichwa:&lt;/b&gt; &lt;i&gt;Familia ya Fonti:&lt;/i&gt; %1, &lt;i&gt;Ukubwa wa Fonti&lt;/i&gt; %2 pt, &lt;i&gt;Rangi ya Fonti:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.l.end" h="43FA653A">Kiwango cha mwisho kujumuisha kwenye TOC:</text>
+		<text id="ttoc.l.insertAsPage" h="B68AF5B1">Ingiza TOC kabla ya ukurasa:</text>
+		<text id="ttoc.l.outputPagesAs" h="96E6A50A">Toa nambari za kurasa kama:</text>
+		<text id="ttoc.l.pageMargins" h="DA4D6B15">Kingo za Ukurasa</text>
+		<text id="ttoc.l.start" h="B03149CB">Kiwango cha kwanza kujumuisha kwenye TOC:</text>
+		<text id="ttoc.l.title" h="930D3835">Kichwa:</text>
+		<text id="ttoc.l.titleFormatting" h="21C775EE">Sasisha uumbizaji wa kichwa:</text>
+		<text id="ttoc.output.bates" h="ECE56FA9">Nambari za Bates (kama zipo)</text>
+		<text id="ttoc.output.labels" h="EAE579C1">Lebo za Kurasa</text>
+		<text id="ttoc.output.numbers" h="38E0043C">Namba za Kurasa Asilia</text>
+		<text id="ttoc.style.dots" h="C13D9439">Sura......... 1</text>
+		<text id="ttoc.style.spaces" h="D9E4F5A0">Sura          1</text>
+		<text id="ttoc.style.underline" h="B52B746A">Sura______1</text>
+		<text id="ttoc.tableOfContents" h="080B4CC0">Yaliyomo</text>
+		<text id="undefinedFont" h="06D72DED">Fonti lisilofasiliwa (%1)</text>
+		<text id="vb.invalidALWarining" h="6B3E67E5">Mabadiliko yalikanushwa kwa sababu ya orodha batili ya vitendo. Tafadhali acha angalau kitendo kimoja!</text>
+		<text id="vb.l.invalidBookmarks" h="EE502FFE">Imepata vialamisho %1 batili</text>
+		<text id="rtab" h="7CDCE9BE">&amp;Vialamisho</text>
+		<text id="rbar.create" h="EDCA1553">Unda</text>
+		<text id="rbar.modify" h="EA358CAF">Badilisha</text>
+		<text id="rbar.convert" h="EFAC3874">Geuza</text>
+	</Strings>
+</Localization>

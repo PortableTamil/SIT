@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20190320002037">2.00.00</Version>
+	<Author>Nelson Vladimiro Nunes Amaral</Author>
+	<Copyright>Nelson Vladimiro ©
+
+nvladimiro@gmail.com</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Portuguese (Portugal)" lName="português" code="pt-PT" R2L="false"/>
+	<Module name="Dropbox" namespace="db" version="7.0.328.2"/>
+	<Strings>
+		<text id="btn.cancel" h="3D302A38">&amp;Cancelar</text>
+		<text id="btn.chooseUser" h="4E5DDBFB">&amp;Utilizador</text>
+		<text id="btn.ok" h="FEF0C771">&amp;OK</text>
+		<text id="btn.open" h="B1A510F0">&amp;Abrir</text>
+		<text id="btn.save" h="F363C410">&amp;Guardar</text>
+		<text id="btn.saveReplace" h="11BF9724">Guardar e &amp;substituir</text>
+		<text id="btn.settings" h="563BF6B7">O&amp;pções</text>
+		<text id="cmd.cmdsCategory" h="22B8ECE9">Dropbox</text>
+		<text id="cmd.open" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.open.tip" h="683AE278">Abrir documento no Dropbox.</text>
+		<text id="cmd.save" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.save.tip" h="B5D0B78F">Guardar um documento no Dropbox</text>
+		<text id="cmd.dropbox" h="6616FE70">&amp;Dropbox</text>
+		<text id="dlg.authenticate" h="E6E77652">Autenticar</text>
+		<text id="dlg.openFile" h="435887CD">Abrir ficheiro</text>
+		<text id="dlg.saveFile" h="520CB069">Guardar ficheiro</text>
+		<text id="lb.itemsInFolder" h="8F56A98C">%d itens</text>
+		<text id="lb.name" h="F7B9E475">Ficheiro:</text>
+		<text id="ls.column.created" h="9E0B497D">Criado em</text>
+		<text id="ls.column.created.hint" h="291F5AEC">Data e Hora de criação do ficheiro, pasta ou lista.</text>
+		<text id="ls.column.extension" h="14FEB836">Extensão</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Extensão do ficheiro</text>
+		<text id="ls.column.modified" h="691C3610">Modificado em</text>
+		<text id="ls.column.modified.hint" h="2C2CF8F2">Data e hora da última modificação do ficheiro, pasta ou lista.</text>
+		<text id="ls.column.size" h="17A58A52">Tamanho</text>
+		<text id="ls.column.size.hint" h="E79CA174">Tamanho</text>
+		<text id="ls.column.title" h="D18643E3">Nome</text>
+		<text id="ls.column.title.hint" h="D883F263">Nome do ficheiro/pasta</text>
+		<text id="msg.connectError" h="A594B0D5">Falha ao ligar ao Dropbox. Verifique a sua ligação à  Internet e as permissões de acesso ao recurso selecionado.</text>
+		<text id="msg.fileNotFound" h="381368F8">O ficheiro &lt;b&gt;%1&lt;/b&gt; não foi encontrado.</text>
+		<text id="msg.invalidFileName" h="10E2440D">&lt;b&gt;%1&lt;/b&gt; não é um nome válido. Os caracteres &lt;b&gt;&lt; &gt; " / \ | ? *&lt;/b&gt; não são permitidos.</text>
+		<text id="msg.navigateError" h="8BCFBD0F">Verifique a sua ligação à Internet, se o endereço está correto e as permissões de acesso ao ficheiro do Dropbox.</text>
+		<text id="msg.openFailed" h="794811DE">Falha ao abrir o ficheiro. Certifique-se que o ficheiro existe e que tem permissões de leitura.</text>
+		<text id="msg.saveFailed" h="36780EC6">Falha ao guardar o ficheiro. Certifique-se que o nome é válido e que tem permissões de escrita.</text>
+		<text id="msg.saveReplace" h="B1889DFB">O ficheiro &lt;b&gt;%1&lt;/b&gt; já existe. Deseja substitui-lo?</text>
+		<text id="msg.wrongUser" h="27773B86">Não é possível abrir o ficheiro porque pertence ao Dropbox de outro utilizador. Deseja escolher outro utilizador?</text>
+		<text id="str.fileSystemName" h="22B8ECE9">Dropbox</text>
+		<text id="addFolder.error.message" h="26E3D84F">Falha ao criar a pasta &lt;b&gt;%1&lt;/b&gt; no Dropbox.</text>
+		<text id="addFolder.question.button.create" h="5AFC56A9">Criar pasta</text>
+		<text id="addFolder.question.edit.title" h="AD9C0CB3">Indique o novo nome da pasta:</text>
+		<text id="addFolder.question.error.alreadyExists" h="C0A47FF7">Já existe um ficheiro com o nome &lt;b&gt;%1&lt;/b&gt; na pasta</text>
+		<text id="addFolder.question.error.emptyFolderName" h="BB6566D6">O nome da pasta não pode ser um campo vazio</text>
+		<text id="addFolder.question.error.invalidFolderName" h="0A24FCDF">&lt;b&gt;%1&lt;/b&gt; não é um nome válido. Os caracteres &lt;b&gt;&lt; &gt; " / \ | ? *&lt;/b&gt; não são permitidos.</text>
+		<text id="addFolder.progress.text" h="8C5EF68A">A criar a pasta &lt;b&gt;%1&lt;/b&gt;...</text>
+		<text id="addFolder.progress.title" h="595759D0">A criar a pasta no Dropbox</text>
+		<text id="btn.addFolder.text" h="69FFFB47">&amp;Criar pasta</text>
+		<text id="btn.delete.text" h="ED580C1E">&amp;Apagar</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">&amp;Acima</text>
+		<text id="delete.error.file" h="5F9FEEF5">Falha ao apagar o ficheiro &lt;b&gt;%1&lt;/b&gt; no Dropbox.</text>
+		<text id="delete.error.folder" h="5F9FEEF5">Falha ao criar o ficheiro &lt;b&gt;%1&lt;/b&gt; no Dropbox.</text>
+		<text id="delete.error.unknown" h="73BC7295">Falha ao apagar o item selecionado no Dropbox.</text>
+		<text id="delete.progress.status" h="F729DF24">%1 de %2</text>
+		<text id="delete.progress.text.file" h="EFCE4189">A apagar o ficheiro &lt;b&gt;%1&lt;/b&gt;...</text>
+		<text id="delete.progress.text.folder" h="2E89372D">A apagar a pasta &lt;b&gt;%1&lt;/b&gt;...</text>
+		<text id="delete.progress.text.unknown" h="367B0EA7">A apagar &lt;b&gt;%1&lt;/b&gt;...</text>
+		<text id="delete.progress.title" h="9D1FD2AA">A apagar no Dropbox</text>
+		<text id="delete.question.file" h="F3B2380C">Quer apagar o ficheiro &lt;b&gt;%1&lt;/b&gt;?</text>
+		<text id="delete.question.folder" h="DA195BFA">Quer apagar a pasta &lt;b&gt;%1&lt;/b&gt; e todo o seu conteúdo?</text>
+		<text id="delete.question.multi" h="ACA0CEC0">Quer apagar %1 itens?</text>
+		<text id="delete.question.unknown" h="8C13886E">Quer apagar o item selecionado?</text>
+	</Strings>
+</Localization>

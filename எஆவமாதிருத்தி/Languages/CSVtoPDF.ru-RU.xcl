@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20210408025631">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Russian (Russia)" lName="Русский" code="ru-RU" R2L="false"/>
+	<Module name="CSVToPDFPlugin" namespace="csv" version="9.0.353.0"/>
+	<Strings>
+		<text id="DlgCSVToPDF" h="159649A7">CSV в PDF</text>
+		<text id="converter.desc" h="967CBC0E">Превращает CSV файлы в таблицы PDF документа</text>
+		<text id="autoInfo" h="27598254">Отмените автовычисление ширины столбцов для возможности изменения ее значений</text>
+		<text id="ctp.chb.autoDelimiter" h="BFABCE78">Автовычисление разделителя за данными</text>
+		<text id="ctp.chb.boldHeaders" h="AB4D23E9">Использовать п/ж шрифт для заглавий</text>
+		<text id="ctp.chb.calcWidth" h="C8B58489">Автовычисление ширины столбцов за данными</text>
+		<text id="ctp.chb.drawBorder" h="1C2186D3">Начертить границы таблицы</text>
+		<text id="ctp.chb.headersOnEachPage" h="9413CFF2">Заглавие таблицы на каждой странице</text>
+		<text id="ctp.chb.showDialogOnOpen" h="D10EC9DE">Показывать этот диалог при открытии CSV файла</text>
+		<text id="ctp.g.Margins" h="62C950A2">Поля</text>
+		<text id="ctp.g.delimiterAndQuotes" h="A6EFA0C6">Разделители и кавычки</text>
+		<text id="ctp.g.pageSettings" h="D82087B4">Параметры страницы</text>
+		<text id="ctp.g.style" h="C091D68E">Стиль</text>
+		<text id="ctp.l.borderWidth" h="457515E3">Толщина:</text>
+		<text id="ctp.l.bottom" h="C711C97A">Снизу:</text>
+		<text id="ctp.l.delimiter" h="3480C690">Разделитель:</text>
+		<text id="ctp.l.left" h="FC2BB3FB">Слева:</text>
+		<text id="ctp.l.quotes" h="F5FEAC85">Кавычки:</text>
+		<text id="ctp.l.right" h="FD30D9F1">Справа:</text>
+		<text id="ctp.l.top" h="99A7C1A9">Сверху:</text>
+		<text id="ctp.lst.calcWidth.header" h="608B00E9">Заглавие</text>
+		<text id="ctp.lst.calcWidth.width" h="DADE8BD3">Ширина (%1)</text>
+		<text id="ctp.previewCtl.noDocTip" h="55E892D4">Загрузка документа...</text>
+		<text id="message.marginsWarning" h="4388F5CE">Поля слишком большие</text>
+		<text id="message.warning" h="E7AD7A2B">Предупреждение</text>
+		<text id="newDocFromCSV" h="602EDA1B">Из CSV файлов...</text>
+		<text id="prop.source" h="A2415BEA">CSV файли</text>
+	</Strings>
+</Localization>

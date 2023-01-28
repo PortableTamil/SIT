@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20221121225541">2.00.00</Version>
+	<Author>ELDOST QASIMOV</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Azerbaijani (Latin, Azerbaijan)" lName="Azərbaycan" code="az-Latn-AZ" R2L="false"/>
+	<Module name="SignaturePad" namespace="sigpad" version="9.5.365.0"/>
+	<Strings>
+		<text id="btn.clear" h="8A6A002B">Təmizlə</text>
+		<text id="dgl.drawsign.title" h="8BE10CB7">İmza Yaradılması</text>
+		<text id="signature.pad" h="1CB89F08">Elektron imza daxiletmə qurğusu</text>
+		<text id="signature.pad.desc" h="B2E4D573">İmza yaratmaq üçün kompüterinizə quraşdırılmış Elektron İmza cihazından istifadə edin</text>
+		<text id="msg.nodevice" h="69EAAE3A">Heç bir &lt;i&gt;Dəstəklənən cihaz&lt;/i&gt; tapılmadı.
+
+Cihazın bərkidildiyinə və ona uyğun
+sürücülərin quraşdırıldığına əmin olun,
+sonra yenidən sınayın.</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20211012163836">2.00.00</Version>
+	<Author>Alfonso Seoage, David Rebolo</Author>
+	<Copyright>Alfonso Seoage © 
+jassgali@hotmail.com
+
+David Rebolo Magariños © 
+davidrebolomagarinnos@gmail.com</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Galician (Galician)" lName="Galego" code="gl-ES" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="9.1.357.0"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">Abrir un ficheiro desde Google Drive</text>
+		<text id="DlgSaveFile" h="81F99046">Gardar o ficheiro en Google Drive</text>
+		<text id="GDPlugin" h="32B7E3E0">Complemento para Google Drive</text>
+		<text id="addFolder.message" h="940CF2FA">Introduce o nome do cartafol novo</text>
+		<text id="addFolder.title" h="42CD8D51">Crear un cartafol</text>
+		<text id="addFolderError.message" h="A6367553">Non se puido crear o cartafol no recurso de Google Drive. Verifique a súa conexión a internet e dereitos para acceder ao recurso de Google Drive solicitado.</text>
+		<text id="addFolderError.title" h="DDB9C8A8">Non se puido crear o cartafol</text>
+		<text id="btn.addFolder.text" h="69FFFB47">&amp;Crear un cartafol</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Novo inicio de sesión...</text>
+		<text id="btn.delete.text" h="ED580C1E">&amp;Eliminar</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">&amp;Cara a</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google Drive</text>
+		<text id="cmd.googledrive" h="1D28DF85">&amp;Google Drive</text>
+		<text id="cmd.open" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.open.tip" h="933837A2">Abra un documento gardado en Google Drive.</text>
+		<text id="cmd.save" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.save.tip" h="948C3269">Garde o documento en Google Drive.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Non se atopou o ficheiro</text>
+		<text id="cpt.invalidFileName" h="79C1387C">Nome de ficheiro non válido</text>
+		<text id="cpt.navigateError" h="3D300A1C">Erro de navegación</text>
+		<text id="cpt.saveReplace" h="520CB069">Gardar o ficheiro</text>
+		<text id="cpt.selectFile" h="C55D68B0">Está a seleccionarse un ficheiro</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Non se puido gardar o ficheiro nese cartafol</text>
+		<text id="delete.message" h="16714AA7">"Quere eliminar %1"%2"?"</text>
+		<text id="delete.title" h="FC00502F">"Eliminar elemento(s)"</text>
+		<text id="deleteError.message" h="109E94B7">Non se pode eliminar %1 "%2" no recurso de Google Drive. %3</text>
+		<text id="deleteError.reason" h="81A03554">Verifique a súa conexión a internet e dereitos para acceder ao recurso de Google Drive solicitado.</text>
+		<text id="deleteError.title" h="002A7E1A">Non se pode eliminar o elemento</text>
+		<text id="deleteError.unknownItem.message" h="B0869235">Non se pode eliminar o elemento no recurso de Google Drive. %1</text>
+		<text id="deleteMulti.message" h="7340678F">"Desexa eliminar %1 elementos do cartafol "%2" no recurso de Google Drive?"</text>
+		<text id="deleteMulti.progress" h="7A18F8DD">"Eliminando elemento #%1 de %2"</text>
+		<text id="deleteMulti.progress.title" h="3AED7560">"Eliminando os elementos de Google Drive"</text>
+		<text id="deleteSingle.progress" h="B781BCCF">"Eliminando %1 "%2""</text>
+		<text id="deleteSingle.progress.title" h="E1F369F2">"Eliminando o elemento de Google Drive"</text>
+		<text id="dlg.googleAuth" h="E5642F22">Autentificación en Google Drive</text>
+		<text id="file" h="AFFADF08">ficheiro</text>
+		<text id="fileName" h="DEC92488">Nome fichero:</text>
+		<text id="folder" h="1DAC8D17">cartafol</text>
+		<text id="lb.CurrentFolder" h="44158804">Cartafol actual:</text>
+		<text id="lb.Test" h="273F3E5B">Proba, proba, proba!</text>
+		<text id="lb.googleAccName" h="C94645A3">Conta de Google:</text>
+		<text id="ls.column.created" h="FE6510B7">Data de creación</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Data e hora na que se creou o ficheiro, o cartafol ou a lista</text>
+		<text id="ls.column.extension" h="14FEB836">Extensión</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Extensión do ficheiro</text>
+		<text id="ls.column.modified" h="7E234D6D">Data de modificación</text>
+		<text id="ls.column.modified.hint" h="12933E76">Data e hora na que se modificou o ficheiro, o cartafol ou a lista</text>
+		<text id="ls.column.size" h="17A58A52">Tamaño</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Tamaño do ficheiro</text>
+		<text id="ls.column.title" h="D18643E3">Nome</text>
+		<text id="ls.column.title.hint" h="6A895576">Nome do ficheiro ou do cartafol, ou título da lista</text>
+		<text id="msg.fileNotFound" h="430E08B1">Non se atopou o ficheiro "%1" no cartafol actual.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" non é un nome de ficheiro válido.</text>
+		<text id="msg.navigateError" h="2FCAA72A">Non se puido navegar ata o recurso Google Drive. Comprobe a súa conexión a internet e os permisos de acceso ao devandito recurso.</text>
+		<text id="msg.openFailed" h="AC94D960">Non se puido abrir o ficheiro. Comprobe que exista, que non estea reservado a outro usuario e que ten permisos de lectura para o.</text>
+		<text id="msg.saveFailed" h="4D413392">Non se puido gardar o ficheiro. Comprobe que o nome de ficheiro sexa válido e que ten permisos de escritura para o.</text>
+		<text id="msg.saveReplace" h="5D56833E">Xa existe o ficheiro %1. Quere substituílo?</text>
+		<text id="msg.selectFile" h="2530C20F">Elixa un ficheiro antes de premer en 'Aceptar'</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">O ficheiro non se pode gardar na localización seleccionada. Elixa gardalo no cartafol 'Miña unidade', nun subcartafol ou ben nun cartafol de 'Compartir comigo'.</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">O meu Drive</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Compartido comigo</text>
+		<text id="unableUploadFile" h="4B0B6791">Non se pode cargar o arquivo.</text>
+	</Strings>
+</Localization>

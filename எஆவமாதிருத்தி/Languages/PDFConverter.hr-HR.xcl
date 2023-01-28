@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20211012163842">2.00.00</Version>
+	<Author>Marko Puškarić</Author>
+	<Copyright>Marko Puškarić</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Croatian (Croatia)" lName="Hrvatski" code="hr-HR" R2L="false"/>
+	<Module name="PDFConverter" namespace="pdfconv" version="9.1.357.0"/>
+	<Strings>
+		<text id="AddLang" h="CE4DDC96">Dodaj jezik...</text>
+		<text id="DT" h="99A777DC">Brojčane postavke:</text>
+		<text id="Decimal" h="97B538F3">Decimalni simbol:</text>
+		<text id="DetectTable" h="8EFAF45F">Otkrivam tablice na</text>
+		<text id="Fonts" h="09BC9E47">Fontovi:</text>
+		<text id="HasOCR" h="96B8D96E">Postoje OCR moduli za ovaj jezik.</text>
+		<text id="Language" h="E5AFBDFE">Jezik:</text>
+		<text id="NoPermission" h="F6BEA48A">Dokument je zaštićen. Nemate dovoljne ovlasti za izvršenje konverzije.</text>
+		<text id="Sheets" h="0E4A84A5">Stvori radni list</text>
+		<text id="cmd.name.P" h="FE79EAE9">Izvezi u Microsoft PowerPoint prezentaciju</text>
+		<text id="cmd.name.Sel.P" h="10B9EA70">Izvezi odabrano u Microsoft PowerPoint prezentaciju...</text>
+		<text id="cmd.name.Sel.W" h="F60B7012">Izvezi odabrano u Microsoft Word dokument...</text>
+		<text id="cmd.name.Sel.X" h="53447190">Izvezi odabrano u Microsoft Excel...</text>
+		<text id="cmd.name.W" h="36A68CE1">Izvezi u Microsoft Word dokument...</text>
+		<text id="cmd.name.X" h="5F515377">Izvezi u Microsoft Excel...</text>
+		<text id="cmd.nameShort.P" h="C4DB7FDB">U MS-PowerPoint...</text>
+		<text id="cmd.nameShort.W" h="23467A9D">U MS Word...</text>
+		<text id="cmd.nameShort.X" h="4FDED68C">U MS Excel...</text>
+		<text id="cmd.nameTip.P" h="5DF5F44C">Izvezi aktivni dokument u Microsoft PowerPoint prezentaciju...</text>
+		<text id="cmd.nameTip.Sel.P" h="547499FA">Izvezi trenutni odabir u Microsoft PowerPoint prezentaciju...</text>
+		<text id="cmd.nameTip.Sel.W" h="9526C3A8">Izvezi trenutni odabir u Microsoft Word dokument...</text>
+		<text id="cmd.nameTip.Sel.X" h="9DBFD9AB">Izvezi trenutni odabir u Microsoft Excel...</text>
+		<text id="cmd.nameTip.W" h="08C70E7C">Izvezi aktivni dokument u Microsoft Word dokument...</text>
+		<text id="cmd.nameTip.X" h="71C65F22">Izvezi aktivni dokument u Microsoft Excel...</text>
+		<text id="convertation" h="B1E1828B">Pretvaranje PDF dokumenta</text>
+		<text id="convertation.DecimalError" h="AB9CA906">Nevaljan decimalni simbol</text>
+		<text id="convertation.DecimalThousandsError" h="9002FE5E">Decimalni simbol i separator tisućica moraju biti različiti</text>
+		<text id="convertation.Error1" h="388D83B4">Pojavila se kritična greška pri pretvorbi dokumenta:</text>
+		<text id="convertation.Error2" h="A394ADBC">Rezultirajuća datoteka ne može se spremiti.</text>
+		<text id="convertation.ThousandsError" h="1660BD37">Nevaljan separator tisućica</text>
+		<text id="dpi" h="B39AC2C1">dpi</text>
+		<text id="elseUseRegional" h="8F1D3748">* U protivnom koristi regionalne postavke</text>
+		<text id="excel.filter" h="D766664D">MS Excel</text>
+		<text id="getOCRLang" h="4275388E">Neke problematične znakove u tekstu dokumenta treba prepoznati optički. Navedite jezik teksta za pravilno prepoznavanje:</text>
+		<text id="newRowRul" h="4CD45F3D">Koristi novi redak na listu za svaki:</text>
+		<text id="options" h="DAD7B4F4">Opcije</text>
+		<text id="options.compress.0" h="378201C4">PNG</text>
+		<text id="options.compress.1" h="25090095">JPG</text>
+		<text id="options.dpilevel" h="4D4FE579">%1 dpi</text>
+		<text id="options.fontsembedmode.0" h="4FD6EAB9">Ugradi samo fontove ugrađene u PDF dokument</text>
+		<text id="options.fontsembedmode.1" h="485361C4">Bez ugradnje</text>
+		<text id="options.newRow.0" h="9CF38C36">Odlomak</text>
+		<text id="options.newRow.1" h="6D45691D">Linija</text>
+		<text id="options.newSheet.0" h="42E9E100">za svaku stranicu</text>
+		<text id="options.newSheet.1" h="FB4125FF">singl za dokument</text>
+		<text id="options.quality.0" h="8415F85F">Minimalna</text>
+		<text id="options.quality.1" h="845E3D8C">Niska</text>
+		<text id="options.quality.2" h="91153342">Srednja</text>
+		<text id="options.quality.3" h="21A95620">Visoka</text>
+		<text id="options.quality.4" h="A8A97F0E">Maksimalna</text>
+		<text id="options.textmode.0" h="77B1E837">Zadrži tekst kao urediv</text>
+		<text id="options.textmode.1" h="8419D7CE">Pretvori u krivulje</text>
+		<text id="options.textmode.2" h="60E91945">Pretvori u slike</text>
+		<text id="optionsCBAllowCurves" h="976099D8">Dopusti pretvaranje u krivulje teksta koji koristi problematične fontove</text>
+		<text id="optionsCBAllowSubstitution" h="169F5988">Dopusti zamjenu fontova koji se ne mogu ugraditi</text>
+		<text id="optionsCBEmbedFont" h="3E50224C">Ugradi sve fontove</text>
+		<text id="optionsCBIncludeComments" h="B08E5CA8">Uključi komentare</text>
+		<text id="optionsCBIncludeImages" h="969B2F6C">Uključi slike</text>
+		<text id="optionsCBIncludeLinks" h="F5F4CED4">Uključi linkove</text>
+		<text id="optionsCBPageToImage" h="0707FDB4">Pretvori cijelu stranicu sadržaja u sliku</text>
+		<text id="optionsCBShowInvisibleText" h="68D10624">Nevidljivi tekst učini vidljivim u izlaznom dokumentu</text>
+		<text id="optionsGBCommonOpt" h="5B3B421B">Opće postavke</text>
+		<text id="optionsGBTextOpt" h="D7BD8320">Opcije konverzije teksta:</text>
+		<text id="optionsIBTextRaster" h="699A1B72">Tekst će biti rasteriziran ako se ne može konvertirati prema gornjim opcijama.</text>
+		<text id="optionsLBCompres" h="990F2529">Sažimanje:</text>
+		<text id="optionsLBIssuesFont" h="BB2E863E">Kada ima problema s kompatibilnošću/portabilnošću fontova:</text>
+		<text id="optionsLBMode" h="274455FC">Način:</text>
+		<text id="optionsLBQuality" h="E3A77A93">Kvalitet:</text>
+		<text id="optionsLBTextRaster" h="32A3B18F">Kvalitet rasterizacije teksta:</text>
+		<text id="optionsLBToImgParam" h="4ED54AB4">Postavke konverzije teksta u sliku:</text>
+		<text id="optionsLBdpiComm" h="0FE84938">Razlučivost:</text>
+		<text id="optionsLBdpiCompression" h="4CA3E32A">Možete podesiti kvalitet rasterizacije za nekonvertibilne stavke (kao što su složeni prijelazi) ili za cijelu stranicu, ako je opcija iznad uključena:</text>
+		<text id="optionsLBlastHope" h="F73DC603">NAPOMENA: Ako pretvaranje teksta u krivulje ne uspije, tekst će biti pretvoren u slike.</text>
+		<text id="powerpoint.filter" h="9FB63544">MS PowerPoint prezentacija</text>
+		<text id="regionalDT" h="FB22F59E">Otkrij razdjelnik decimala i tisućica koristeći regionalne postavke</text>
+		<text id="thousands" h="256655C5">Razdjelnik tisućica:</text>
+		<text id="userDefinedDT" h="7EA9F301">Koristi sljedeće kao razdjelnike decimala i tisućica:</text>
+		<text id="word.filter" h="6BB79C71">MS Word dokument</text>
+	</Strings>
+</Localization>

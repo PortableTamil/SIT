@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20200722155013">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Western Frisian (Netherlands)" lName="Frysk" code="fy-NL" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="8.0.340.0"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">Triem fan Google Drive iepenje</text>
+		<text id="DlgSaveFile" h="81F99046">Triem bewarje nei Google Drive</text>
+		<text id="GDPlugin" h="32B7E3E0">Google Drive ynstekker</text>
+		<text id="addFolder.message" h="940CF2FA">Nije map namme ynfiere</text>
+		<text id="addFolder.title" h="42CD8D51">Map oanmeitsje</text>
+		<text id="addFolderError.message" h="A6367553">It oanmeitsjen fan map op Google Drive boarne mislearre. Kontrolearje jo ynternet ferbining en foech foar tagong ta de fereaske Google Drive boarne.</text>
+		<text id="addFolderError.title" h="DDB9C8A8">Net mooglik om map oan te meitsjen</text>
+		<text id="btn.addFolder.text" h="69FFFB47">Map &amp;oanmeitsje</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Nije oanmelding...</text>
+		<text id="btn.delete.text" h="ED580C1E">&amp;Wiskje</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">&amp;Omheech</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google Drive</text>
+		<text id="cmd.googledrive" h="1D28DF85">&amp;Google Drive</text>
+		<text id="cmd.open" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.open.tip" h="933837A2">Dokumint iepenje fan GoogleDrive.</text>
+		<text id="cmd.save" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.save.tip" h="948C3269">In aktueel dokumint bewarje nei Google Drive.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Triem net fûn</text>
+		<text id="cpt.invalidFileName" h="79C1387C">Unjildich triemnamme</text>
+		<text id="cpt.navigateError" h="3D300A1C">Navigaasje flater</text>
+		<text id="cpt.saveReplace" h="520CB069">Triem bewarje</text>
+		<text id="cpt.selectFile" h="C55D68B0">Triem selektearje</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Net mooglik om triem nei map te bewarjen</text>
+		<text id="delete.message" h="16714AA7">"Wolle jo %1 "%2" wiskje?"</text>
+		<text id="delete.title" h="FC00502F">"Wiske item(s)"</text>
+		<text id="deleteError.message" h="109E94B7">Net mooglik om %1 "%2" op Google Drive boarne te wiskjen. %3</text>
+		<text id="deleteError.reason" h="81A03554">Kontrolearje jo ynternet ferbining en foech foar tagong ta de fereaske Google Drive boarne.</text>
+		<text id="deleteError.title" h="002A7E1A">Net mooglik om item te wiskjen</text>
+		<text id="deleteError.unknownItem.message" h="B0869235">Net mooglik om item op Google Drive boarne te wiskjen. %1</text>
+		<text id="deleteMulti.message" h="7340678F">Wolle jo %1 items fan map "%2" op Gooel Drive boarne wiskje?"</text>
+		<text id="deleteMulti.progress" h="7A18F8DD">"Item #%1 fan 'e %2 wurdt wiske"</text>
+		<text id="deleteMulti.progress.title" h="3AED7560">"Items wurdt fan Google Drive wiske"</text>
+		<text id="deleteSingle.progress" h="B781BCCF">"%1 "%2" oan it wiskjen"</text>
+		<text id="deleteSingle.progress.title" h="E1F369F2">"Item wurdt fan Google Drive wiske"</text>
+		<text id="dlg.googleAuth" h="E5642F22">Google Drive ferifikaasje</text>
+		<text id="file" h="AFFADF08">triem</text>
+		<text id="fileName" h="DEC92488">Triemnamme:</text>
+		<text id="folder" h="1DAC8D17">map</text>
+		<text id="lb.CurrentFolder" h="44158804">Aktuele map:</text>
+		<text id="lb.Test" h="273F3E5B">Test Test Test!</text>
+		<text id="lb.googleAccName" h="C94645A3">Google akkount:</text>
+		<text id="ls.column.created" h="FE6510B7">Datum oanmakke</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Datum en tiid doe't triem, map of list oanmakke is</text>
+		<text id="ls.column.extension" h="14FEB836">Tafoeging</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Triem taheaksel</text>
+		<text id="ls.column.modified" h="7E234D6D">Datum feroare</text>
+		<text id="ls.column.modified.hint" h="12933E76">Datum en tiid doe't triem, map of list lêst feroare is</text>
+		<text id="ls.column.size" h="17A58A52">Grutte</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Grutte fan triem</text>
+		<text id="ls.column.title" h="D18643E3">Namme</text>
+		<text id="ls.column.title.hint" h="6A895576">Triemnamme, mapnamme of list titel</text>
+		<text id="msg.fileNotFound" h="430E08B1">Triem "%1" is net fûn yn de aktuele map.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" is net in jildige triemnamme.</text>
+		<text id="msg.navigateError" h="2FCAA72A">Net mooglik om nei Google Drive boarne te kommen. Kontrolearje jo ynternet ferbining en foech foar de tagong ta de Google Drive boarne.</text>
+		<text id="msg.openFailed" h="AC94D960">Iepenjen fan triem mislearre. Wês wis dat de triem bestiet, net ôfmeld is troch in oare brûker en dat jo lês foech ha.</text>
+		<text id="msg.saveFailed" h="4D413392">Bewarjen fan triem mislearre. Wês wis dat de triemnamme jildich is en dat jo skriuw foech ha.</text>
+		<text id="msg.saveReplace" h="5D56833E">De triem %1 bestiet al. Wolle jo it ferfange?</text>
+		<text id="msg.selectFile" h="2530C20F">Selektearje in triem foarôf te drukken op OK</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">De triem kin net bewarre wurde op de selektearre lokaasje. Kies de "Myn Drive" map, ien fan har submappen of ien fan de "Dield mei my" submappen om de triem te bewarjen.</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">Myn Drive</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Dield mei my</text>
+		<text id="unableUploadFile" h="4B0B6791">Net mooglik om triem op te laden.</text>
+	</Strings>
+</Localization>

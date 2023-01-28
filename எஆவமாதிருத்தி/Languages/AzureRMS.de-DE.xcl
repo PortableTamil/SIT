@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20211012163843">2.00.00</Version>
+	<Author>Michael Dodl</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="German (Germany)" lName="Deutsch" code="de-DE" R2L="false"/>
+	<Module name="AzureRMS" namespace="msrms" version="9.1.357.0"/>
+	<Strings>
+		<text id="UserIdentity.title" h="176AEDC1">Microsoft Azure Information Protection</text>
+		<text id="btn.next" h="3A4ABB6E">&amp;Weiter...</text>
+		<text id="cmd.protect" h="228A9168">Schützen</text>
+		<text id="cmd.protect.tip" h="176AEDC1">Microsoft Azure Information Protection</text>
+		<text id="rbar.protect.title" h="43C83177">MS RMS</text>
+		<text id="secure.handler.name" h="176AEDC1">Microsoft Azure Information Protection</text>
+		<text id="uid.email.cue" h="2334460A">Ihre E-Mail-Adresse</text>
+		<text id="uid.label1" h="8E83CAEB">Diese Datei ist durch Microsoft Azure Information Protection geschützt.</text>
+		<text id="uid.pick" h="DCF6A308">Bitte wählen Sie Ihr Konto:</text>
+		<text id="uid.email" h="5B5BF151">Bitte geben Sie Ihre E-Mail-Adresse ein</text>
+		<text id="uid.label2" h="A1DC8236">* Im nächsten Schritt werden Sie zur Anmeldung bei Microsoft aufgefordert.
+Der Schritt wird übersprungen, falls das Konto bereits angemeldet wurde.</text>
+		<text id="uid.remember" h="A77974A7">Mein Konto &amp;speichern</text>
+		<text id="uid.add" h="D5E24D76">Ein anderes Konto benutzen</text>
+		<text id="ibar.label.classified" h="9B716F59">Dieses Dokument wurde durch Microsoft Information Protection klassifiziert als:</text>
+		<text id="ibar.label.protected" h="8CBF20A7">Dieses Dokument ist geschützt durch Microsoft Information Protection und klassifiziert als:</text>
+		<text id="info.protected" h="A49B0FCD">Dieses Dokument ist geschützt durch Microsoft Information Protection.</text>
+		<text id="info.protectedWithLabel" h="8A425C7C">Dieses Dokument ist geschützt durch Microsoft Information Protection.
+
+Klassifizierung:</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20210114191056">2.00.00</Version>
+	<Author>pCsOrI</Author>
+	<Copyright>프로그램의 쉬운 사용을 위해</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Korean (Korea)" lName="한국어" code="ko-KR" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="9.0.350.0"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">Google 드라이브의 파일 열기</text>
+		<text id="DlgSaveFile" h="81F99046">Google 드라이브에 파일 저장</text>
+		<text id="GDPlugin" h="32B7E3E0">Google 드라이브 플러그인</text>
+		<text id="addFolder.message" h="940CF2FA">새 폴더 이름 입력</text>
+		<text id="addFolder.title" h="42CD8D51">폴더 만들기</text>
+		<text id="addFolderError.message" h="A6367553">Google 드라이브 리소스의 폴더 만들기에 실패했습니다. 인터넷 연결을 확인하거나 Google 드라이브 리소스의 액세스 권한을 확인하십시오.</text>
+		<text id="addFolderError.title" h="DDB9C8A8">폴더를 만들 수 없음</text>
+		<text id="btn.addFolder.text" h="69FFFB47">폴더 만들기(&amp;C)</text>
+		<text id="btn.connectToAnother" h="508BDBC5">새 로그인...</text>
+		<text id="btn.delete.text" h="ED580C1E">삭제(&amp;D)</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">위로(&amp;U)</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google 드라이브</text>
+		<text id="cmd.googledrive" h="1D28DF85">Google 드라이브(&amp;G)</text>
+		<text id="cmd.open" h="F32ECED5">Google 드라이브(&amp;G)...</text>
+		<text id="cmd.open.tip" h="933837A2">Google 드라이브에서 문서를 엽니다.</text>
+		<text id="cmd.save" h="F32ECED5">Google 드라이브(&amp;G)...</text>
+		<text id="cmd.save.tip" h="948C3269">활성 문서를 Google 드라이브에 저장합니다.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">파일을 찾을 수 없음</text>
+		<text id="cpt.invalidFileName" h="79C1387C">"잘못된 파일 이름</text>
+		<text id="cpt.navigateError" h="3D300A1C">탐색 오류</text>
+		<text id="cpt.saveReplace" h="520CB069">파일 저장</text>
+		<text id="cpt.selectFile" h="C55D68B0">파일 선택</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">파일을 폴더에 저장할 수 없음</text>
+		<text id="delete.message" h="16714AA7">"%1 "%2"을(를) 삭제하시겠습니까?"</text>
+		<text id="delete.title" h="FC00502F">"항목 삭제"</text>
+		<text id="deleteError.message" h="109E94B7">Google 드라이브 리소스의 %1 "%2"을(를) 삭제할 수 없습니다. %3</text>
+		<text id="deleteError.reason" h="81A03554">인터넷 연결을 확인하거나 Google 드라이브 리소스의 액세스 권한을 확인하십시오.</text>
+		<text id="deleteError.title" h="002A7E1A">항목을 삭제할 수 없음</text>
+		<text id="deleteError.unknownItem.message" h="B0869235">Google 드라이브 리소스의 항목을 삭제할 수 없습니다. %1</text>
+		<text id="deleteMulti.message" h="7340678F">"BGoogle 드라이브 리소스의 폴더 "%2"에서 %1 항목을 삭제하시겠습니까?"</text>
+		<text id="deleteMulti.progress" h="7A18F8DD">"#%1 / %2 항목 삭제 중"</text>
+		<text id="deleteMulti.progress.title" h="3AED7560">"Google 드라이브에서 항목 삭제 중"</text>
+		<text id="deleteSingle.progress" h="B781BCCF">"%1 "%2" 삭제 중"</text>
+		<text id="deleteSingle.progress.title" h="E1F369F2">"Google 드라이브에서 항목 삭제 중"</text>
+		<text id="dlg.googleAuth" h="E5642F22">Google 드라이브 인증</text>
+		<text id="file" h="AFFADF08">파일</text>
+		<text id="fileName" h="DEC92488">파일 이름:</text>
+		<text id="folder" h="1DAC8D17">폴더</text>
+		<text id="lb.CurrentFolder" h="44158804">현재 폴더:</text>
+		<text id="lb.Test" h="273F3E5B">Test Test Test!</text>
+		<text id="lb.googleAccName" h="C94645A3">Google 계정:</text>
+		<text id="ls.column.created" h="FE6510B7">만든 날짜</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">파일, 폴더 또는 목록을 만든 날짜와 시간</text>
+		<text id="ls.column.extension" h="14FEB836">확장명</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">파일 확장명</text>
+		<text id="ls.column.modified" h="7E234D6D">수정한 날짜</text>
+		<text id="ls.column.modified.hint" h="12933E76">파일, 폴더 또는 목록이 마지막으로 수정한 날짜와 시간</text>
+		<text id="ls.column.size" h="17A58A52">크기</text>
+		<text id="ls.column.size.hint" h="9C4BD847">파일의 크기</text>
+		<text id="ls.column.title" h="D18643E3">이름</text>
+		<text id="ls.column.title.hint" h="6A895576">파일 이름, 폴더 이름 또는 목록 제목</text>
+		<text id="msg.fileNotFound" h="430E08B1">파일 "%1"은(는) 현재 폴더에 없습니다.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1"은(는) 유효한 파일 이름이 아닙니다.</text>
+		<text id="msg.navigateError" h="2FCAA72A">Google 드라이브 리소스를 탐색하지 못했습니다. 요청한 Google 드라이브 리소스에 액세스할 수 있는 인터넷 연결 및 권한을 확인하십시오.</text>
+		<text id="msg.openFailed" h="AC94D960">파일을 열 수 없습니다. 파일이 다른 사용자에게서 체크 아웃되지 않았는지, 읽기 권한이 있는지 확인하십시오.</text>
+		<text id="msg.saveFailed" h="4D413392">파일을 저장할 수 없습니다. 파일 이름이 유효한지, 쓰기 권한이 있는지 확인하십시오.</text>
+		<text id="msg.saveReplace" h="5D56833E">파일 %1은(는) 이미 존재하고 있습니다. 파일을 바꾸시겠습니까?</text>
+		<text id="msg.selectFile" h="2530C20F">확인을 누르기 전에 파일을 선택하십시오.</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">파일을 선택한 위치에 저장할 수 없습니다. "My Drive" 폴더, 하위 폴더 또는 "Shared With Me" 하위 폴더 중 하나를 선택하여 파일을 저장하십시오.</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">내 드라이브</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">나와 공유</text>
+		<text id="unableUploadFile" h="4B0B6791">파일을 업로드할 수 없습니다.</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20221121231615">2.00.00</Version>
+	<Author>ELDOST QASIMOV</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Azerbaijani (Latin, Azerbaijan)" lName="Azərbaycan" code="az-Latn-AZ" R2L="false"/>
+	<Module name="Dropbox" namespace="db" version="9.5.365.0"/>
+	<Strings>
+		<text id="btn.cancel" h="3D302A38">İmtina</text>
+		<text id="btn.chooseUser" h="4E5DDBFB">İstifadəçi</text>
+		<text id="btn.ok" h="FEF0C771">Bəli</text>
+		<text id="btn.open" h="B1A510F0">Aç</text>
+		<text id="btn.save" h="F363C410">Saxla</text>
+		<text id="btn.saveReplace" h="11BF9724">Saxla və Əvəz et</text>
+		<text id="btn.settings" h="563BF6B7">Seçimlər ...</text>
+		<text id="cmd.cmdsCategory" h="22B8ECE9">Dropbox</text>
+		<text id="cmd.open" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.open.tip" h="683AE278">Sənədin Dropbox-dan açılması.</text>
+		<text id="cmd.save" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.save.tip" h="B5D0B78F">Aktiv sənədin Dropbox-da saxlanılması.</text>
+		<text id="cmd.dropbox" h="6616FE70">&amp;Dropbox</text>
+		<text id="dlg.authenticate" h="E6E77652">Etibarlılığın yoxlanması</text>
+		<text id="dlg.openFile" h="435887CD">Faylı aç</text>
+		<text id="dlg.saveFile" h="520CB069">Faylın saxlanması</text>
+		<text id="lb.itemsInFolder" h="8F56A98C">%d element</text>
+		<text id="lb.name" h="F7B9E475">Faylın adı:</text>
+		<text id="ls.column.created" h="9E0B497D">Yaradılma tarixi</text>
+		<text id="ls.column.created.hint" h="291F5AEC">Faylın, qovluğun və ya siyahının yaradılma tarixi və vaxtı.</text>
+		<text id="ls.column.extension" h="14FEB836">Genişlik</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Fayl genişliyi (növü)</text>
+		<text id="ls.column.modified" h="691C3610">Dəyişdirilmə tarixi</text>
+		<text id="ls.column.modified.hint" h="2C2CF8F2">Faylın, qovluğun və ya siyahının dəyişdirilmə tarixi və vaxtı.</text>
+		<text id="ls.column.size" h="17A58A52">Həcm</text>
+		<text id="ls.column.size.hint" h="E79CA174">Fayl ölçüsü</text>
+		<text id="ls.column.title" h="D18643E3">Ad</text>
+		<text id="ls.column.title.hint" h="D883F263">Fayl və ya qovluq adı</text>
+		<text id="msg.connectError" h="A594B0D5">Dropbox bağlantı xətası. Lütfən internetə bağlantının və Sizin Dropbox resurslarına giriş icazənizin olub-olmamasını yoxlayın.</text>
+		<text id="msg.fileNotFound" h="381368F8">Hazırki qovluqda &lt;b&gt;%1&lt;/b&gt; faylı tapılmadı.</text>
+		<text id="msg.invalidFileName" h="859254AD">&lt;b&gt;%1&lt;/b&gt; - düzgün fayl adı deyil: &lt;b&gt;&lt; &gt; " / |  ? *&lt;/b&gt; simvolların adda yazılması qadağandır.</text>
+		<text id="msg.navigateError" h="8BCFBD0F">İnternetə bağlantının olub-olmadığını, ünvanın düzgün yazıldığını və Sizin Dropbox resurslarına giriş icazənizin olub-olmadığını yoxlayın.</text>
+		<text id="msg.openFailed" h="794811DE">Faylı açmaq olmadı. Faylın mövcudluğuna və onun oxunuşuna icazənin olmasına əmin olun.</text>
+		<text id="msg.saveFailed" h="36780EC6">Faylı saxlamaq olmadı. Fayl adının düzgün göstərildiyinə və Sizin Dropbox-da lazımi qədər yer olduğuna əmin olun.</text>
+		<text id="msg.saveReplace" h="B1889DFB">&lt;b&gt;%1&lt;/b&gt; adlı fayl artıq mövcuddur. Onu əvəz etmək istəyirsiniz?</text>
+		<text id="msg.wrongUser" h="27773B86">Başqas istifadəçiyə məxsus Dropbox faylını və ya qovluğunu açmaq olmur. Digər istifadəçini seçmək istəyirsinizmi?</text>
+		<text id="str.fileSystemName" h="22B8ECE9">Dropbox</text>
+		<text id="addFolder.error.message" h="26E3D84F">Dropbox-da &lt;b&gt;%1&lt;/b&gt; qovluğunun yaradılmasında xəta baş verdi.</text>
+		<text id="addFolder.question.button.create" h="5AFC56A9">Qovluq yarat</text>
+		<text id="addFolder.question.edit.title" h="AD9C0CB3">Yeni qovluq adı daxil edin:</text>
+		<text id="addFolder.question.error.alreadyExists" h="C0A47FF7">Hazırki qovluqda &lt;b&gt;%1&lt;/b&gt; adlı element artıq mövcuddur.</text>
+		<text id="addFolder.question.error.emptyFolderName" h="BB6566D6">Qovluq adı boş ola bilməz.</text>
+		<text id="addFolder.question.error.invalidFolderName" h="0A24FCDF">&lt;b&gt;%1&lt;/b&gt; - düzgün qovluq adı deyil: &lt;b&gt;&lt; &gt; " / |  ? *&lt;/b&gt; simvolların adda yazılması qadağandır.</text>
+		<text id="addFolder.progress.text" h="8C5EF68A">&lt;b&gt;%1&lt;/b&gt; qovluğunun yaradılması...</text>
+		<text id="addFolder.progress.title" h="595759D0">Qovluğun Dropbox-da yaradılması</text>
+		<text id="btn.addFolder.text" h="69FFFB47">Qovluq yarat</text>
+		<text id="btn.delete.text" h="ED580C1E">Sil</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">Yuxarı</text>
+		<text id="delete.error.file" h="5F9FEEF5">&lt;b&gt;%1&lt;/b&gt; faylının Dropbox-dan silinməsində xəta baş verdi.</text>
+		<text id="delete.error.folder" h="5F9FEEF5">&lt;b&gt;%1&lt;/b&gt; faylının Dropbox-dan silinməsində xəta baş verdi.</text>
+		<text id="delete.error.unknown" h="73BC7295">Elementin Dropbox-dan silinməsində xəta baş verdi.</text>
+		<text id="delete.progress.status" h="F729DF24">%2-dən %1</text>
+		<text id="delete.progress.text.file" h="EFCE4189">&lt;b&gt;%1&lt;/b&gt; faylının silinməsi...</text>
+		<text id="delete.progress.text.folder" h="2E89372D">&lt;b&gt;%1&lt;/b&gt; qovluğunun silinməsi...</text>
+		<text id="delete.progress.text.unknown" h="367B0EA7">&lt;b&gt;%1&lt;/b&gt; silinməsi...</text>
+		<text id="delete.progress.title" h="9D1FD2AA">Dropbox-dan silinmə</text>
+		<text id="delete.question.file" h="F3B2380C">&lt;b&gt;%1&lt;/b&gt; faylını silmək istəyirsiniz?</text>
+		<text id="delete.question.folder" h="DA195BFA">&lt;b&gt;%1&lt;/b&gt; qovluğunu bütün tərkibi ilə silmək istəyirsiniz?</text>
+		<text id="delete.question.multi" h="ACA0CEC0">%1 elementi silmək istəyirsiniz?</text>
+		<text id="delete.question.unknown" h="8C13886E">Seçilmiş elementi silmək istəyirsiniz?</text>
+	</Strings>
+</Localization>

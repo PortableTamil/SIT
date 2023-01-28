@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20191210181450">2.00.00</Version>
+	<Author>Amitai.G</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Hebrew (Israel)" lName="עברית" code="he-IL" R2L="true"/>
+	<Module name="PDFConverter" namespace="pdfconv" version="8.0.335.0"/>
+	<Strings>
+		<text id="DT" h="68CCD7A1">סמל עשרוני ומפריד אלפים:</text>
+		<text id="Decimal" h="97B538F3">סמל עשרוני:</text>
+		<text id="Fonts" h="09BC9E47">גופנים:</text>
+		<text id="NoPermission" h="F6BEA48A">המסמך מוגן. אין לך הרשאות מספיקות לבצע את ההמרה.</text>
+		<text id="cmd.name.P" h="FE79EAE9">יצא אל Microsoft PowerPoint...</text>
+		<text id="cmd.name.Sel.P" h="10B9EA70">יצא בחירה אל Microsoft PowerPoint...</text>
+		<text id="cmd.name.Sel.W" h="F60B7012">יצא בחירה אל Microsoft Word...</text>
+		<text id="cmd.name.Sel.X" h="53447190">יצא בחירה אל Microsoft Excel...</text>
+		<text id="cmd.name.W" h="36A68CE1">יצא למסמך של Microsoft Word...</text>
+		<text id="cmd.name.X" h="5F515377">יצא אל Microsoft Excel...</text>
+		<text id="cmd.nameShort.P" h="C4DB7FDB">אל MS-PowerPoint...</text>
+		<text id="cmd.nameShort.W" h="23467A9D">אל MS-Word...</text>
+		<text id="cmd.nameShort.X" h="4FDED68C">אל MS-Excel...</text>
+		<text id="cmd.nameTip.P" h="5DF5F44C">יצא מסמך פעיל אל Microsoft PowerPoint...</text>
+		<text id="cmd.nameTip.Sel.P" h="547499FA">יצא בחירה נוכחית אל Microsoft PowerPoint...</text>
+		<text id="cmd.nameTip.Sel.W" h="9526C3A8">יצא בחירה נוכחית אל Microsoft Word...</text>
+		<text id="cmd.nameTip.Sel.X" h="9DBFD9AB">יצא בחירה נוכחית אל Microsoft Excel...</text>
+		<text id="cmd.nameTip.W" h="08C70E7C">יצא מסמך פעיל אל Microsoft Word...</text>
+		<text id="cmd.nameTip.X" h="71C65F22">יצא מסמך פעיל אל Microsoft Excel...</text>
+		<text id="convertation" h="B1E1828B">ממיר מסמך PDF</text>
+		<text id="convertation.DecimalError" h="AB9CA906">סמל עשרוני לא חוקי</text>
+		<text id="convertation.DecimalThousandsError" h="9002FE5E">סמל עשרוני ומפריד אלפים חייב להיות שונה</text>
+		<text id="convertation.Error1" h="388D83B4">אירעה שגיאה קריטית במהלך המרת מסמך:</text>
+		<text id="convertation.Error2" h="A394ADBC">לא ניתן לשמור את הקובץ שיווצר.</text>
+		<text id="convertation.ThousandsError" h="1660BD37">מפריד אלפים לא חוקי</text>
+		<text id="dpi" h="B39AC2C1">dpi</text>
+		<text id="elseUseRegional" h="8F1D3748">* אחרת באמצעות הגדרות אזוריות</text>
+		<text id="excel.filter" h="D766664D">MS Excel</text>
+		<text id="newRowRul" h="4CD45F3D">השתמש בשורה חדשה בגליון עבור כל אחד מהם:</text>
+		<text id="options" h="DAD7B4F4">אפשרויות</text>
+		<text id="options.compress.0" h="378201C4">PNG</text>
+		<text id="options.compress.1" h="25090095">JPG</text>
+		<text id="options.dpilevel" h="4D4FE579">%1 dpi</text>
+		<text id="options.fontsembedmode.0" h="4FD6EAB9">הטמע רק גופנים המוטמעים במסמך PDF</text>
+		<text id="options.fontsembedmode.1" h="485361C4">ללא הטבעה</text>
+		<text id="options.quality.0" h="8415F85F">מינימום</text>
+		<text id="options.quality.1" h="845E3D8C">נמוך</text>
+		<text id="options.quality.2" h="91153342">בינוני</text>
+		<text id="options.quality.3" h="21A95620">גבוה</text>
+		<text id="options.quality.4" h="A8A97F0E">מקסימום</text>
+		<text id="options.textmode.0" h="77B1E837">שמור על טקסט ניתן לעריכה</text>
+		<text id="options.textmode.1" h="8419D7CE">המר לעקומות</text>
+		<text id="options.textmode.2" h="60E91945">המר לתמונות</text>
+		<text id="options.newRow.0" h="9CF38C36">פסקה</text>
+		<text id="options.newRow.1" h="6D45691D">קו</text>
+		<text id="optionsCBAllowCurves" h="976099D8">אפשר להמיר לעקומות טקסט העושה שימוש בגופנים בעייתיים</text>
+		<text id="optionsCBAllowSubstitution" h="169F5988">אפשר להשתמש בתחליפים לגופנים שלא ניתן להטמיע</text>
+		<text id="optionsCBEmbedFont" h="3E50224C">הטמע את כל הגופנים</text>
+		<text id="optionsCBIncludeComments" h="B08E5CA8">כלול הערות</text>
+		<text id="optionsCBIncludeImages" h="969B2F6C">כלול תמונות</text>
+		<text id="optionsCBIncludeLinks" h="F5F4CED4">כלול קישורים</text>
+		<text id="optionsCBPageToImage" h="0707FDB4">המר את תוכן העמוד כולו לתמונה</text>
+		<text id="optionsGBCommonOpt" h="5B3B421B">הגדרות נפוצות</text>
+		<text id="optionsGBTextOpt" h="D7BD8320">אפשרויות המרת טקסט</text>
+		<text id="optionsIBTextRaster" h="699A1B72">הטקסט יעבור רסטר אם לא ניתן להמיר אותו לפי האפשרויות שלמעלה.</text>
+		<text id="optionsLBCompres" h="990F2529">דחיסה:</text>
+		<text id="optionsLBIssuesFont" h="BB2E863E">כאשר יש בעיות תאימות/ניידות עם גופנים:</text>
+		<text id="optionsLBMode" h="274455FC">מצב:</text>
+		<text id="optionsLBQuality" h="E3A77A93">איכות:</text>
+		<text id="optionsLBTextRaster" h="32A3B18F">איכות רסטריזציית טקסט:</text>
+		<text id="optionsLBToImgParam" h="4ED54AB4">הגדרות המרה טקסט לתמונה:</text>
+		<text id="optionsLBdpiComm" h="0FE84938">פתרון הבעיה:</text>
+		<text id="optionsLBdpiCompression" h="4CA3E32A">אתה יכול להתאים את איכות הרסטרזציה עבור פריטי תוכן שאינם ניתנים להמרה (כגון שיפועים מרוכבים) או עבור הדף כולו, כאשר האפשרות שלמעלה מופעלת:</text>
+		<text id="optionsLBlastHope" h="F73DC603">הערה: אם המרת טקסט לעקומות נכשלה, הטקסט יומר לתמונות.</text>
+		<text id="powerpoint.filter" h="9FB63544">מצגת MS PowerPoint</text>
+		<text id="regionalDT" h="929F7393">השתמש בהגדרות האזוריות</text>
+		<text id="thousands" h="256655C5">מפריד אלפים:</text>
+		<text id="userDefinedDT" h="CFDC144E">השתמש בהתאמה אישית:</text>
+		<text id="word.filter" h="6BB79C71">מסמך MS Word</text>
+	</Strings>
+</Localization>

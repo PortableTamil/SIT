@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20211012163843">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Lithuanian (Lithuania)" lName="lietuvių" code="lt-LT" R2L="false"/>
+	<Module name="AzureRMS" namespace="msrms" version="9.1.357.0"/>
+	<Strings>
+		<text id="UserIdentity.title" h="176AEDC1">Microsoft Azure informacijos apsauga</text>
+		<text id="btn.next" h="3A4ABB6E">&amp;Kitas...</text>
+		<text id="cmd.protect" h="228A9168">Apsaugoti</text>
+		<text id="cmd.protect.tip" h="176AEDC1">Microsoft Azure informacijos apsauga</text>
+		<text id="rbar.protect.title" h="43C83177">MS RMS</text>
+		<text id="secure.handler.name" h="176AEDC1">Microsoft Azure informacijos apsauga</text>
+		<text id="uid.email.cue" h="2334460A">Jūsų elektroninio pašto adresas</text>
+		<text id="uid.label1" h="8E83CAEB">Šis failas yra apsaugotas Microsoft Azure Information Protection.</text>
+		<text id="uid.pick" h="DCF6A308">Pasirinkite paskyrą.</text>
+		<text id="uid.email" h="5B5BF151">Įveskite savo el. pašto adresą.</text>
+		<text id="uid.label2" h="A1DC8236">* Kitame veiksme būsite paraginti atlikti Microsoft autentifikavimą.</text>
+		<text id="uid.remember" h="A77974A7">P&amp;risiminti mano paskyrą</text>
+		<text id="uid.add" h="D5E24D76">Naudoti kitą paskyrą</text>
+		<text id="ibar.label.classified" h="9B716F59">Šis dokumentas yra klasifikuojamas pagal Microsoft Information Protection su etikete:</text>
+		<text id="ibar.label.protected" h="8CBF20A7">Šis dokumentas yra apsaugotas Microsoft Information Protection su etikete:</text>
+		<text id="info.protected" h="A49B0FCD">Šis dokumentas yra apsaugotas Microsoft Information Protection.</text>
+		<text id="info.protectedWithLabel" h="8A425C7C">Šis dokumentas yra apsaugotas Microsoft Information Protection.</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20220819211843">2.00.00</Version>
+	<Author>John Fowler</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Hungarian (Hungary)" lName="Magyar" code="hu-HU" R2L="false"/>
+	<Module name="AzureRMS" namespace="msrms" version="9.4.363.0"/>
+	<Strings>
+		<text id="UserIdentity.title" h="176AEDC1">Microsoft Azure információvédelem</text>
+		<text id="btn.next" h="3A4ABB6E">Tovább...</text>
+		<text id="cmd.protect" h="228A9168">Védelem</text>
+		<text id="cmd.protect.tip" h="176AEDC1">Microsoft Azure információvédelem</text>
+		<text id="rbar.protect.title" h="43C83177">MS RMS</text>
+		<text id="secure.handler.name" h="176AEDC1">Microsoft Azure Information Protection</text>
+		<text id="uid.email.cue" h="2334460A">Az Ön e-mail címe</text>
+		<text id="uid.label1" h="8E83CAEB">Ezt a fájlt a Microsoft Azure Information Protection védi.</text>
+		<text id="uid.pick" h="DCF6A308">Kérjük, válasszon fiókot.</text>
+		<text id="uid.email" h="5B5BF151">Kérjük, adja meg az e-mail címét.</text>
+		<text id="uid.label2" h="A1DC8236">* A következő lépésben a Microsoft hitelesítésre lesz szüksége.
+A következő lépés kihagyható, ha a fiókot már korábban ellenőrizték.</text>
+		<text id="uid.remember" h="A77974A7">Emlékezzen a fiókomra</text>
+		<text id="uid.add" h="D5E24D76">Másik fiók használata</text>
+		<text id="ibar.label.classified" h="9B716F59">Ezt a dokumentumot a Microsoft Information Protection a következő kategóriába sorolta:</text>
+		<text id="ibar.label.protected" h="8CBF20A7">Ez a dokumentum a Microsoft Information Protection védelme alatt áll, és a következő besorolást kapta:</text>
+		<text id="info.protected" h="A49B0FCD">Ezt a dokumentumot a Microsoft Information Protection védi.</text>
+		<text id="info.protectedWithLabel" h="8A425C7C">Ezt a dokumentumot a Microsoft Information Protection védi.
+
+Osztályozás:</text>
+	</Strings>
+</Localization>

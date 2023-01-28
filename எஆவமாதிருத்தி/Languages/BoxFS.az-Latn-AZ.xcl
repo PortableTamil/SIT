@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20221121225538">2.00.00</Version>
+	<Author>ELDOST QASIMOV</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Azerbaijani (Latin, Azerbaijan)" lName="Azərbaycan" code="az-Latn-AZ" R2L="false"/>
+	<Module name="BoxFileSysPlugin" namespace="bx" version="9.5.365.0"/>
+	<Strings>
+		<text id="DlgOpenFile" h="86E98AB4">Faylı Box.com-dan aç</text>
+		<text id="DlgSaveFile" h="92FACB0A">Faylı Box.com-da saxla</text>
+		<text id="GDPlugin" h="B688EC2F">Box.com plagin</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Yeni İstifadəçi ...</text>
+		<text id="cmd.cmdsCategory" h="31FA0599">Box.com</text>
+		<text id="cmd.boxcom" h="75541700">Box.com</text>
+		<text id="cmd.open" h="031B6D18">Box.com...</text>
+		<text id="cmd.open.tip" h="62BC57EF">Sənədi Box.com-dan aç.</text>
+		<text id="cmd.save" h="031B6D18">Box.com...</text>
+		<text id="cmd.save.tip" h="504ADEEC">Sənədi Box.com-da saxla.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Fayl tapılmadı</text>
+		<text id="cpt.invalidFileName" h="79C1387C">"Fayl adı etibarsızdır</text>
+		<text id="cpt.navigateError" h="3D300A1C">Hərəkət xətası</text>
+		<text id="cpt.saveReplace" h="520CB069">Faylı saxla</text>
+		<text id="cpt.selectFile" h="C55D68B0">Fayl seçimi</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Faylı qovluqda saxlamaq mümkün deyil</text>
+		<text id="dlg.Auth" h="D0142F48">Box.com kimlik təsdiqi</text>
+		<text id="fileName" h="DEC92488">Fayl adı:</text>
+		<text id="lb.CurrentFolder" h="44158804">Hazırki qovluq:</text>
+		<text id="lb.Test" h="273F3E5B">YOXLAMA!</text>
+		<text id="lb.googleAccName" h="AC7C938D">Box.com hesabı:</text>
+		<text id="ls.column.created" h="FE6510B7">Yaradılma tarixi</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Fayl, qovluq və ya siyahının yaradılma tarixi və vaxtı</text>
+		<text id="ls.column.extension" h="14FEB836">Ətraflı</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Fayl genişliyi</text>
+		<text id="ls.column.modified" h="7E234D6D">Dəyişdirilmə tarixi</text>
+		<text id="ls.column.modified.hint" h="12933E76">Fayl, qovluq və ya siyahının dəyişdirilmə tarixi və vaxtı</text>
+		<text id="ls.column.size" h="17A58A52">Ölçü</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Fayl ölçüsü</text>
+		<text id="ls.column.title" h="D18643E3">Ad</text>
+		<text id="ls.column.title.hint" h="6A895576">Faylın, qovluğun və ya siyahı başlığının adı</text>
+		<text id="msg.fileNotFound" h="430E08B1">Hazırki qovluqda "%1" faylı tapılmadı.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" fayl adı etibarsızdır.</text>
+		<text id="msg.navigateError" h="93AD3E71">Box.com-da hərəkət zamanı xəta baş verdi. İnternet əlaqəsini və göstərilən Box.com yerinə giriş icazəsini yoxlayın.</text>
+		<text id="msg.openFailed" h="AC94D960">Faylın açılmasında xəta baş verdi. Faylın mövcud olduğuna, başqası tərəfindən məşğul olmadığına və onun oxunmasına sizin icazənizin olduğuna əmin olun.</text>
+		<text id="msg.saveFailed" h="4D413392">Faylın saxlanılmasında xəta baş verdi. Fayl adının etibarlılığına və sizin saxlanc üçün icazənizin olduğuna əmin olun.</text>
+		<text id="msg.saveReplace" h="5D56833E">%1 faylı artıq mövcuddur. Onu əvəz etmək istəyirsiniz?</text>
+		<text id="msg.selectFile" h="2530C20F">HƏ düyməsini basmazdan əvvəl faylı göstərin</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Faylı göstərilən yerdə saxlamaq mümkün deyil. 'My Drive' qovluğunu seçin, sonra onun alt qovluğunu və ya "Mənimlə əlaqəli" alt qovluğunu seçin və faylı saxlayın.</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">My Drive</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Mənimlə əlaqəli</text>
+		<text id="addFolder.title" h="42CD8D51">Qovluq yarat</text>
+		<text id="addFolder.message" h="940CF2FA">Yeni qovluq adı daxil edin</text>
+		<text id="addFolderError.title" h="DDB9C8A8">Qovluq yaratmaq mümkün deyil</text>
+		<text id="addFolderError.message" h="9294B942">Box.com-da qovluq yaradılmasında xəta baş verdi. İnternet əlaqəsini və göstərilən Box.com yerinə giriş icazəsini yoxlayın.</text>
+		<text id="btn.addFolder.text" h="69FFFB47">Qovluq yarat</text>
+		<text id="deleteError.title" h="002A7E1A">Elementi silmək mümkün deyil</text>
+		<text id="deleteError.message" h="D4B0C004">Box.com-dan %1 "%2" silmək mümkün deyil . %3</text>
+		<text id="deleteError.reason" h="3C580AC0">İnternet əlaqəsini və Box.com-a giriş icazəsini yoxlayın.</text>
+		<text id="btn.delete.text" h="ED580C1E">Sil</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">Yuxarı</text>
+		<text id="file" h="AFFADF08">fayl</text>
+		<text id="folder" h="1DAC8D17">qovluq</text>
+		<text id="deleteError.unknownItem.message" h="9BDB4091">Elementi Box.com-dan silmək mümkün deyil. %1</text>
+		<text id="delete.title" h="FC00502F">"Element(lər)i sil"</text>
+		<text id="delete.message" h="16714AA7">"%1 "%2" silmək istəyirsiniz?"</text>
+		<text id="deleteMulti.message" h="6A5DFE06">"Box.com tərkibindəki "%2" qovluğundakı %1 elementi silmək istəyirsiniz?"</text>
+		<text id="deleteMultiRoot.message" h="AB66D793">"Box.com tərkibindəki kök qovluğundakı %1 elementi silmək istəyirsiniz?"</text>
+		<text id="deleteMulti.progress" h="7A18F8DD">"%2-dən #%1 elementin silinməsi"</text>
+		<text id="deleteMulti.progress.title" h="D98549E6">"Elementlərin Box.com-dan silinməsi"</text>
+		<text id="deleteSingle.progress" h="B781BCCF">"Silinmə %1 "%2" "</text>
+		<text id="deleteSingle.progress.title" h="944FFD63">"Elementin Box.com-dan silinməsi"</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20210114191054">2.00.00</Version>
+	<Author>pCsOrI</Author>
+	<Copyright>프로그램의 쉬운 사용을 위해</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Korean (Korea)" lName="한국어" code="ko-KR" R2L="false"/>
+	<Module name="FileOpenSH" namespace="fopw" version="9.0.350.0"/>
+	<Strings>
+		<text id="secure.printer.title" h="448D1D7F">이 프린터는 사용할 수 없습니다.</text>
+		<text id="secure.printer.text" h="7488F002">이 프린터는 보안 인쇄에 사용할 수 없습니다. 다른 프린터를 선택하고 다시 인쇄를 시작하십시오.</text>
+	</Strings>
+</Localization>

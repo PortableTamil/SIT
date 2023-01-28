@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20190320002230">2.00.00</Version>
+	<Author>Stanko Horvat</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Slovenian (Slovenia)" lName="slovenščina" code="sl-SI" R2L="false"/>
+	<Module name="ColorConvert" namespace="cc" version="8.0.339.0"/>
+	<Strings>
+		<text id="absolute.ri" h="2B4BF91A">Absolutna kolorimetrija</text>
+		<text id="any.cs" h="8A3A9D71">Vsak barvni prostor</text>
+		<text id="anycmyk.cs" h="7F4DF0D2">Vsak CMYK</text>
+		<text id="anyobject.type" h="72C84120">Vsak objekt</text>
+		<text id="anyrgb.cs" h="94CA7E95">Vsak RGB</text>
+		<text id="calcmyk.cs" h="F1126F53">Umerjen CMYK</text>
+		<text id="calgray.cs" h="33EB89D0">Umerjena sivina</text>
+		<text id="calibrated.cs" h="6691A3E6">Umerjen</text>
+		<text id="calrgb.cs" h="EA2AFBDE">Umerjen RGB</text>
+		<text id="cmd.list.add" h="8E2EE8C1">Dodaj</text>
+		<text id="cmd.list.remove" h="FCE39C1F">Odstrani</text>
+		<text id="colortype.lbl" h="21687EB3">Vrsta barve:</text>
+		<text id="command.lbl" h="63E7087D">Ukaz za pretvorbo:</text>
+		<text id="convattr.grp" h="9849DBD9">Atributi pretvorbe</text>
+		<text id="conversion.commads.group" h="26756936">Ukazi za pretvorbo</text>
+		<text id="convert.cmd" h="66E18092">Pretvori v profil</text>
+		<text id="convopt.grp" h="3BDEC580">Možnosti za pretvorbo</text>
+		<text id="decalibrate.cmd" h="E03118F5">Razveljavi</text>
+		<text id="doc.ri" h="9A06AE7B">Uporabi namen dokumenta</text>
+		<text id="embed.chk" h="84D781B2">Vdelati</text>
+		<text id="grayCmyk.chk" h="0F5E13C0">Povišaj sivo v CMYK črno</text>
+		<text id="grayscale.cs" h="BD6354DE">Sivine</text>
+		<text id="image.type" h="AB6DEA58">Slika</text>
+		<text id="lineart.type" h="1592B5FC">Črtna slika</text>
+		<text id="matching.grp" h="920C9FBB">Kriteriji ujemanja</text>
+		<text id="nomaximume.edt" h="8222833A">Ne največ</text>
+		<text id="nominimum.edt" h="AE9E046B">Ni najmanjše</text>
+		<text id="objtype.lbl" h="F77F2940">Vrsta objekta:</text>
+		<text id="oi.chk" h="94ED2F6E">Pretvori barve v izhodne namene</text>
+		<text id="oiprofile.lbl" h="235B6AC4">Profil:</text>
+		<text id="perceptual.ri" h="FE1548A6">Perceptualno</text>
+		<text id="preservblck.chk" h="BA0C6CC7">Ohrani črno</text>
+		<text id="preserve.cmd" h="19170747">Ohrani</text>
+		<text id="preserveCmyk.chk" h="1DEF0320">Ohrani osnovno CMYK</text>
+		<text id="profile.lbl" h="2B23E392">Profil za konverzijo:</text>
+		<text id="rbar.convert.colors" h="A784DD5F">Pretvarjanje barv</text>
+		<text id="relative.ri" h="4E4820BA">Relativna kolorimetrija</text>
+		<text id="rintent.lbl" h="56478B71">Namen upodabljanja:</text>
+		<text id="saturation.ri" h="81E4F5A0">Nasičenost</text>
+		<text id="shading.type" h="9ECB4FEA">Gladka senca</text>
+		<text id="spotcolor.cs" h="6D651DE1">Standardizirana barva</text>
+		<text id="text.type" h="9372A8AB">Besedilo</text>
+		<text id="textmax.lbl" h="72531743">Največja velikost besedila:</text>
+		<text id="textmin.lbl" h="D926E164">Najmanjša velikost besedila:</text>
+		<text id="translate.spot.chk" h="6B9F76D1">Prevedi vse standardizirane barve</text>
+		<text id="undone.noshow" h="B2D782D9">Tega sporočila ne prikaži več</text>
+		<text id="undone.warning" h="52E66FDE">Tega postopka ni mogoče razveljaviti. Želite nadaljevati?</text>
+		<text id="status.cnvPage" h="92A4E6A3">Pretvarjanje strani %1 ...</text>
+		<text id="progress.cnvDoc" h="2FB51FBD">Pretvarjanje barv dokumenta ...</text>
+		<text id="history.cc.title" h="A784DD5F">Pretvarjanje barv</text>
+		<text id="history.cc.undo" h="5611C194">Razveljavi pretvorbo barv</text>
+		<text id="history.cc.redo" h="5409F668">Uveljavi spremeni barve</text>
+	</Strings>
+</Localization>

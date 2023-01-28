@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20170426015718">2.00.00</Version>
+	<Author>Muhammad Alkhateeb</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Arabic (Saudi Arabia)" lName="العربية" code="ar-SA" R2L="true"/>
+	<Module name="MarkdownPlugin" namespace="md" version="6.0.322.0"/>
+	<Strings>
+		<text id="btn.md.submenu" h="89D1502A">من &amp;markdown...</text>
+		<text id="cmd.tip" h="7F449B9F">إنشاء مستند جديد من ملفات markdown.</text>
+		<text id="converter.desc" h="41356938">تحويل ملفات markdown</text>
+		<text id="converter.filterName" h="AE86B691">ملفات Markdown</text>
+		<text id="converter.name" h="AE86B691">ملفات Markdown</text>
+		<text id="converting.progress.text" h="4DD2C8CD">تحويل الملف:</text>
+		<text id="grb.style" h="1FF454A3">تنسيق النص</text>
+		<text id="msg.error" h="51BFF51D">خطأ</text>
+		<text id="msg.file.empty" h="8F9B5982">الملف فارغ.</text>
+		<text id="opt.all.files" h="C68ACE05">جميع الملفات</text>
+		<text id="opt.btn.clear.style" h="8932B6EE">إعادة تعيين نمط CSS إلى القيم الافتراضية</text>
+		<text id="opt.create.style" h="EDCA1553">إنشاء</text>
+		<text id="opt.file" h="45B5DF3A">ملف</text>
+		<text id="opt.margins.fixed" h="6103695E">حوافك كبيرة جدًا. يتم تصحيحها تلقائيًا.</text>
+		<text id="opt.none" h="F9398D7D">لا شيء</text>
+		<text id="opt.style" h="5CEA121A">شكل:</text>
+		<text id="opt.test.title" h="44732FAA">اختبار</text>
+		<text id="opt.title" h="45D26671">وضع العلامات على إعدادات PDF</text>
+		<text id="opt.unavailable" h="5669C949">غير متوفر</text>
+		<text id="prefs.name" h="07E67B98">Markdown إلى PDF</text>
+		<text id="prefs.title" h="45D26671">وضع العلامات على إعدادات PDF</text>
+		<text id="prop.list.extension" h="14FEB836">تمديد</text>
+		<text id="prop.list.location" h="BB241F45">الأماكن</text>
+		<text id="prop.list.modified" h="30325672">تغير</text>
+		<text id="prop.list.size" h="17A58A52">الحجم</text>
+		<text id="prop.list.title" h="796DFAD3">العنوان</text>
+		<text id="prop.source" h="AE86B691">ملفات Markdown</text>
+		<text id="prop.source.file" h="F3110572">حدد ملفات markdown</text>
+		<text id="prop.source.file.unavailable" h="AE2771B8">لم يتم العثور على ملف التنسيق</text>
+		<text id="prop.source.folder" h="8477FBD3">حدد المجلد الذي يحتوي على ملفات markdown</text>
+		<text id="prop.source.subfolder" h="CBDB440E">ابحث في المجلدات الفرعية</text>
+		<text id="prop.source.txt" h="0B465380">ملفات نصية</text>
+		<text id="prop.window.name" h="6E4F5CCE">تحويل Markdown إلى PDF</text>
+		<text id="style.edit.default" h="600F2F18">استخدم التنسيق القياسي</text>
+		<text id="style.files.title" h="26E23587">ملفات CSS</text>
+		<text id="style.folder.name" h="2F5ECDDE">تنسيقات Markdown</text>
+		<text id="style.save.title" h="2E270E87">حفظ التنسيق</text>
+		<text id="style.select.file" h="37C34A80">حدد التنسيق</text>
+	</Strings>
+</Localization>

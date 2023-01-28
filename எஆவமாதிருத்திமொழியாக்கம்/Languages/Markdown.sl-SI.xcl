@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123222427">2.00.00</Version>
+	<Author>Stanko Horvat</Author>
+	<Copyright>Stanko Horvat</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Slovenian (Slovenia)" lName="slovenščina" code="sl-SI" R2L="false"/>
+	<Module name="MarkdownPlugin" namespace="md" version="7.0.323.3"/>
+	<Strings>
+		<text id="btn.md.submenu" h="89D1502A">Iz &amp;Markdown-a ...</text>
+		<text id="cmd.tip" h="117085B4">Ustvari nov dokument iz Markdown datotek.</text>
+		<text id="converter.desc" h="41356938">Pretvori datoteke Markdown</text>
+		<text id="converter.filterName" h="AE86B691">Markdown datoteke</text>
+		<text id="converter.name" h="AE86B691">Markdown datoteke</text>
+		<text id="converting.progress.text" h="4DD2C8CD">Pretvori datoteke:</text>
+		<text id="grb.style" h="1FF454A3">Slog besedila</text>
+		<text id="msg.error" h="51BFF51D">Napaka</text>
+		<text id="msg.file.empty" h="8F9B5982">Datoteka je prazna.</text>
+		<text id="opt.all.files" h="C68ACE05">Vse datoteke</text>
+		<text id="opt.btn.clear.style" h="8932B6EE">Vrni slog CSS na privzeto</text>
+		<text id="opt.create.style" h="EDCA1553">Ustvarjanje</text>
+		<text id="opt.file" h="45B5DF3A">Datoteka</text>
+		<text id="opt.margins.fixed" h="6103695E">Robovi so preveliki. Samodejno bodo popravljeni.</text>
+		<text id="opt.none" h="F9398D7D">Nič</text>
+		<text id="opt.style" h="5CEA121A">Slog:</text>
+		<text id="opt.test.title" h="44732FAA">Test</text>
+		<text id="opt.title" h="45D26671">Markdown v PDF možnosti</text>
+		<text id="opt.unavailable" h="5669C949">ni na voljo</text>
+		<text id="prefs.name" h="07E67B98">Markdown v PDF</text>
+		<text id="prefs.title" h="45D26671">Markdown v PDF možnosti</text>
+		<text id="prop.list.extension" h="14FEB836">Pripona</text>
+		<text id="prop.list.location" h="BB241F45">Lokacije</text>
+		<text id="prop.list.modified" h="30325672">Spremenjeno</text>
+		<text id="prop.list.size" h="17A58A52">Velikost</text>
+		<text id="prop.list.title" h="796DFAD3">Naslov</text>
+		<text id="prop.source" h="AE86B691">Markdown datoteke</text>
+		<text id="prop.source.file" h="F3110572">Izberi Markdown datoteke</text>
+		<text id="prop.source.file.unavailable" h="AE2771B8">Datoteka sloga ni na voljo</text>
+		<text id="prop.source.folder" h="8477FBD3">Izberi mapo z Markdown-om</text>
+		<text id="prop.source.subfolder" h="F053B635">Poglej v podmape</text>
+		<text id="prop.source.txt" h="0B465380">Besedilne datoteke</text>
+		<text id="prop.window.name" h="6E4F5CCE">Pretvori Markdown v PDF</text>
+		<text id="style.edit.default" h="600F2F18">Uporabi privzeti slog</text>
+		<text id="style.files.title" h="26E23587">CSS datoteke</text>
+		<text id="style.folder.name" h="2F5ECDDE">Markdown slog</text>
+		<text id="style.save.title" h="2E270E87">Shrani slog</text>
+		<text id="style.select.file" h="37C34A80">Izberi slog datoteke</text>
+	</Strings>
+</Localization>

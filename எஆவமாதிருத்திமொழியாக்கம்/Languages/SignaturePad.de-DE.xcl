@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171116223006">2.00.00</Version>
+	<Author>Michael Dodl</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="German (Germany)" lName="Deutsch" code="de-DE" R2L="false"/>
+	<Module name="SignaturePad" namespace="sigpad" version="6.0.322.7"/>
+	<Strings>
+		<text id="btn.clear" h="8A6A002B">Lösch&amp;en</text>
+		<text id="dgl.drawsign.title" h="8BE10CB7">Signieren</text>
+		<text id="signature.pad" h="1CB89F08">Grafiktablett</text>
+		<text id="signature.pad.desc" h="B2E4D573">Eine Signatur mit einem angeschlossenen Grafiktablett erstellen</text>
+		<text id="msg.nodevice" h="69EAAE3A">Es ist kein &lt;i&gt;unterstütztes Gerät&lt;/i&gt; verfügbar.
+
+Bitte überprüfen Sie ob das Gerät angeschlossen 
+und die Treiber richtig installiert sind.
+Versuchen Sie es dann erneut.</text>
+	</Strings>
+</Localization>

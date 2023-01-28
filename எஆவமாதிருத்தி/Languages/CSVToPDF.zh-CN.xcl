@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20211012163840">2.00.00</Version>
+	<Author>Freedoctor</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Chinese (Simplified, China)" lName="中文(简体)" code="zh-CN" R2L="false"/>
+	<Module name="CSVToPDFPlugin" namespace="csv" version="9.1.357.0"/>
+	<Strings>
+		<text id="DlgCSVToPDF" h="159649A7">CSV 转 PDF</text>
+		<text id="converter.desc" h="967CBC0E">将 CSV 文件转换为 PDF 文档中的表格</text>
+		<text id="autoInfo" h="27598254">请关闭自动列宽计算以编辑值。</text>
+		<text id="ctp.chb.autoDelimiter" h="BFABCE78">根据数据自动计算分隔符</text>
+		<text id="ctp.chb.boldHeaders" h="AB4D23E9">标题文本使用粗体字体</text>
+		<text id="ctp.chb.calcWidth" h="C8B58489">根据数据自动计算列宽</text>
+		<text id="ctp.chb.drawBorder" h="1C2186D3">绘制表格边框</text>
+		<text id="ctp.chb.headersOnEachPage" h="9413CFF2">在每个页面上绘制表头</text>
+		<text id="ctp.chb.showDialogOnOpen" h="D10EC9DE">打开 CSV 文件时显示此对话框</text>
+		<text id="ctp.g.Margins" h="62C950A2">边距</text>
+		<text id="ctp.g.delimiterAndQuotes" h="A6EFA0C6">分隔符和引用</text>
+		<text id="ctp.g.pageSettings" h="D82087B4">页面设置</text>
+		<text id="ctp.g.style" h="C091D68E">样式</text>
+		<text id="ctp.l.borderWidth" h="457515E3">边框宽度:</text>
+		<text id="ctp.l.bottom" h="C711C97A">底边:</text>
+		<text id="ctp.l.delimiter" h="3480C690">分隔符:</text>
+		<text id="ctp.l.left" h="FC2BB3FB">左边:</text>
+		<text id="ctp.l.quotes" h="F5FEAC85">引用:</text>
+		<text id="ctp.l.right" h="FD30D9F1">右边:</text>
+		<text id="ctp.l.top" h="99A7C1A9">顶边:</text>
+		<text id="ctp.lst.calcWidth.header" h="608B00E9">页眉</text>
+		<text id="ctp.lst.calcWidth.width" h="DADE8BD3">宽度 (%1)</text>
+		<text id="ctp.previewCtl.noDocTip" h="55E892D4">加载文件...</text>
+		<text id="message.marginsWarning" h="4388F5CE">边距太大</text>
+		<text id="message.warning" h="E7AD7A2B">警告</text>
+		<text id="newDocFromCSV" h="602EDA1B">来自 CSV 文件...</text>
+		<text id="prop.source" h="A2415BEA">CSV 文件</text>
+	</Strings>
+</Localization>

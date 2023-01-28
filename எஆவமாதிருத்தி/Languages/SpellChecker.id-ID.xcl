@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180920232559">2.00.00</Version>
+	<Author>Christian A.</Author>
+	<Copyright>Translated by Christian A.</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Indonesian (Indonesia)" lName="Indonesia" code="id-ID" R2L="false"/>
+	<Module name="SpellChecker" namespace="spell" version="7.0.326.10"/>
+	<Strings>
+		<text id="dict.param.hyphen" h="50549BEC">Penggunaan Tanda Hubung</text>
+		<text id="dict.param.spell" h="E10DA1DD">Ejaan</text>
+		<text id="lstDicts.empty" h="FFD5B8BB">&lt;Tidak Ada Kamus&gt;</text>
+		<text id="msg.CopyDictError" h="81324CC9">Tidak dapat menyalin berkas kamus</text>
+		<text id="msg.DictExists" h="650ABF1A">Kamus sudah ada</text>
+		<text id="msg.DictExists.title" h="B025530B">Kamus Ada</text>
+		<text id="msg.ErrorTitle" h="D9DB5E01">Kesalahan Pemeriksa Ejaan</text>
+		<text id="msg.LoadDictError" h="D139CD51">Tidak daapt memuat kamus</text>
+		<text id="msg.RemoveError" h="DDD3D452">Tidak dapat menghapus berkas kamus karena akses ditolak.</text>
+		<text id="msg.WordExists" h="54B206DA">Kata sudah ada</text>
+		<text id="msg.WordExists.title" h="A9AFB29B">Kata Ada</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">Tambahkan Kamus</text>
+		<text id="opt.b.CustomWordList" h="D1505337">Daftar Kata Kustom</text>
+		<text id="opt.b.RemoveDict" h="D94F3439">Hapus Kamus</text>
+		<text id="opt.cb.AllowAlgoHyphens" h="D8C41308">Gunakan Tanda Hubung pada Kata Tak Dikenal</text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">Aktifkan Penggunaan Tanda Hubung</text>
+		<text id="opt.cb.EnableHyphens" h="71ECEEC4">Aktifkan Penggunaan Tanda Hubung pada Kamus</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">Aktifkan Pemeriksa Ejaan</text>
+		<text id="opt.cb.IgnoreWordsInUppercase" h="BEB17F5B">Abaikan Kata dengan HURUF BESAR</text>
+		<text id="opt.cb.IgnoreWordsWithNumbers" h="2AA28F70">Abaikan Kata yang Mengandung Angka</text>
+		<text id="opt.title" h="AEF9F007">Pengaturan Pemeriksa Ejaan</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">Tambahkan</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">Hapus</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">Hapus Semua</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">Kamus</text>
+		<text id="wrd.l.Word" h="7AFBC23E">Kata:</text>
+		<text id="wrd.title" h="66DDC653">Daftar Kata Kustom</text>
+	</Strings>
+</Localization>

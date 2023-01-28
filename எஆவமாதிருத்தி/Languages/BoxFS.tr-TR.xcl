@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20210122001418">2.00.00</Version>
+	<Author>Osman ÖZ</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Turkish (Turkey)" lName="Türkçe" code="tr-TR" R2L="false"/>
+	<Module name="BoxFileSysPlugin" namespace="bx" version="9.0.351.0"/>
+	<Strings>
+		<text id="DlgOpenFile" h="86E98AB4">Box.com'dan Dosyayı Aç</text>
+		<text id="DlgSaveFile" h="92FACB0A">Dosyayı Box.com'a Kaydet</text>
+		<text id="GDPlugin" h="B688EC2F">Box.com Eklentisi</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Yeni Giriş...</text>
+		<text id="cmd.cmdsCategory" h="31FA0599">box.com</text>
+		<text id="cmd.boxcom" h="75541700">&amp;Box.com</text>
+		<text id="cmd.open" h="031B6D18">&amp;Box.com...</text>
+		<text id="cmd.open.tip" h="62BC57EF">Box.com'dan belge aç.</text>
+		<text id="cmd.save" h="031B6D18">&amp;Box.com...</text>
+		<text id="cmd.save.tip" h="504ADEEC">Etkin bir belgeyi Box.com'a kaydedin.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Dosya Bulunamadı</text>
+		<text id="cpt.invalidFileName" h="79C1387C">"Geçersiz Dosya Adı</text>
+		<text id="cpt.navigateError" h="3D300A1C">Gezinme Hatası</text>
+		<text id="cpt.saveReplace" h="520CB069">Dosyayı Kaydet</text>
+		<text id="cpt.selectFile" h="C55D68B0">Dosya seçilmesi</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Dosya Klasöre Kaydedilemiyor</text>
+		<text id="dlg.Auth" h="D0142F48">Box.com Kimlik Doğrulaması</text>
+		<text id="fileName" h="DEC92488">Dosya Adı:</text>
+		<text id="lb.CurrentFolder" h="44158804">Geçerli Klasör:</text>
+		<text id="lb.Test" h="273F3E5B">Test Test Test!</text>
+		<text id="lb.googleAccName" h="AC7C938D">Box.com Hesabı:</text>
+		<text id="ls.column.created" h="FE6510B7">Oluşturulan tarih</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Dosya, klasör veya listenin oluşturulduğu tarih ve saat</text>
+		<text id="ls.column.extension" h="14FEB836">Uzantı</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Dosya uzantısı</text>
+		<text id="ls.column.modified" h="7E234D6D">Değiştirilme tarihi</text>
+		<text id="ls.column.modified.hint" h="12933E76">Dosya, klasör veya listenin en son değiştirildiği tarih ve saat</text>
+		<text id="ls.column.size" h="17A58A52">Boyut</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Dosyanın boyutu</text>
+		<text id="ls.column.title" h="D18643E3">Adı</text>
+		<text id="ls.column.title.hint" h="6A895576">Dosya adı, klasör adı veya liste başlığı</text>
+		<text id="msg.fileNotFound" h="430E08B1">Geçerli klasörde "%1" dosyası bulunamadı.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" geçerli bir dosya adı değil.</text>
+		<text id="msg.navigateError" h="93AD3E71">Box.com kaynağına gidemedi. Lütfen istenen Box.com kaynağına erişim için internet bağlantınızı ve haklarınızı kontrol edin.</text>
+		<text id="msg.openFailed" h="AC94D960">Dosya açılamadı. Dosyanın var olduğundan, başka bir kullanıcıya teslim edilmediğinden ve okuma izniniz olduğundan emin olun.</text>
+		<text id="msg.saveFailed" h="4D413392">Dosya kaydedilemedi. Dosya adının geçerli olduğundan ve yazma izniniz olduğundan emin olun.</text>
+		<text id="msg.saveReplace" h="5D56833E">%1 dosyası zaten var. Onu değiştirmek ister misin?</text>
+		<text id="msg.selectFile" h="2530C20F">Tamam'a basmadan önce lütfen dosyayı seçin</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Dosya seçilen konuma kaydedilemiyor. Lütfen dosyayı kaydetmek için 'Sürücüm' klasörünü, alt klasörlerinden birini veya 'Benimle Paylaşılan' alt klasörlerinden birini seçin.</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">Sürücüm</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Benimle Paylaşılan</text>
+		<text id="addFolder.title" h="42CD8D51">Klasör Oluştur</text>
+		<text id="addFolder.message" h="940CF2FA">Yeni klasör adını girin</text>
+		<text id="addFolderError.title" h="DDB9C8A8">Klasör oluşturulamıyor</text>
+		<text id="addFolderError.message" h="9294B942">Box.com kaynağında klasör oluşturulamadı. Lütfen istenen Box.com kaynağına erişim için internet bağlantınızı ve haklarınızı kontrol edin.</text>
+		<text id="btn.addFolder.text" h="69FFFB47">&amp;Klasör oluştur</text>
+		<text id="deleteError.title" h="002A7E1A">Öğe silinemedi</text>
+		<text id="deleteError.message" h="D4B0C004">Box.com kaynağında %1 "%2" silinemiyor. %3</text>
+		<text id="deleteError.reason" h="3C580AC0">Lütfen istenen Box.com kaynağına erişim için internet bağlantınızı ve haklarınızı kontrol edin.</text>
+		<text id="btn.delete.text" h="ED580C1E">&amp;Sil</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">&amp;Yukarı</text>
+		<text id="file" h="AFFADF08">dosya</text>
+		<text id="folder" h="1DAC8D17">klasör</text>
+		<text id="deleteError.unknownItem.message" h="9BDB4091">Box.com kaynağındaki öğe silinemiyor. %1</text>
+		<text id="delete.title" h="FC00502F">"Öğe(ler)i sil"</text>
+		<text id="delete.message" h="16714AA7">"%1 "%2" silmek istiyor musunuz?"</text>
+		<text id="deleteMulti.message" h="6A5DFE06">"%1 öğelerini, box.com kaynağındaki "%2 " klasöründen silmek istiyor musunuz?"</text>
+		<text id="deleteMultiRoot.message" h="AB66D793">"Box.com kaynağındaki kök klasöründen %1 öğelerini silmek istiyor musunuz?"</text>
+		<text id="deleteMulti.progress" h="7A18F8DD">"#%1 / %2 öğe siliniyor"</text>
+		<text id="deleteMulti.progress.title" h="D98549E6">"Box.com’dan öğeler siliniyor"</text>
+		<text id="deleteSingle.progress" h="B781BCCF">"%1 "%2" siliniyor"</text>
+		<text id="deleteSingle.progress.title" h="944FFD63">"Box.com’dan öğe siliniyor"</text>
+	</Strings>
+</Localization>

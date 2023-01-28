@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20191210181521">2.00.00</Version>
+	<Author>Amitai.G</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Hebrew (Israel)" lName="עברית" code="he-IL" R2L="true"/>
+	<Module name="PDFOptimizer" namespace="pdfopt" version="8.0.335.0"/>
+	<Strings>
+		<text id="Mobile" h="A5903811">נייד</text>
+		<text id="images.compress.JPEG" h="58DE58E0">JPEG</text>
+		<text id="images.quality.High" h="21A95620">גבוה</text>
+		<text id="images.quality.Low" h="845E3D8C">נמוך</text>
+		<text id="images.quality.Maximum" h="A8A97F0E">מקסימום</text>
+		<text id="images.quality.Medium" h="91153342">בינוני</text>
+		<text id="images.quality.Minimum" h="8415F85F">מינימום</text>
+		<text id="quality" h="E3A77A93">איכות:</text>
+		<text id="settings.Mobile" h="A5903811">נייד</text>
+	</Strings>
+</Localization>

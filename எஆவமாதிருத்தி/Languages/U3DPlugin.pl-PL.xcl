@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20220808225331">2.00.00</Version>
+	<Author>Logilink</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Polish (Poland)" lName="Polski" code="pl-PL" R2L="false"/>
+	<Module name="U3DPlugin" namespace="u3d" version="9.4.362.0"/>
+	<Strings>
+		<text id="3DRenderingCrashed.str" h="3B1E0F07">Przykro nam, ale renderer 3D się zawiesił. Aby ponownie zainicjować renderowanie 3D, ponownie otwórz dokument.</text>
+		<text id="3DSceneFailed.str" h="27A53BDF">Inicjalizacja sceny 3D nie powiodła się.</text>
+		<text id="DlgCameraProperties.Title" h="C62520F7">Właściwości kamery</text>
+		<text id="PRCUnsupported.str" h="B107E80C">Modele PRC nie są obsługiwane.</text>
+		<text id="angular.degrees.str" h="9A86A604">Stopnie</text>
+		<text id="angular.radians.str" h="8186B9C8">Promienie</text>
+		<text id="appPrefsPage.AAType.2x" h="423B3C2B">2x</text>
+		<text id="appPrefsPage.AAType.3x" h="FA875B4E">3x</text>
+		<text id="appPrefsPage.AAType.4x" h="675063F7">4x</text>
+		<text id="appPrefsPage.AAType.None" h="F9398D7D">Żaden</text>
+		<text id="appPrefsPage.PickMode.TreeOrder" h="F1D70337">Kolejność drzewa obiektów</text>
+		<text id="appPrefsPage.PickMode.ZOrder" h="8F0DAF26">Wg osi Z</text>
+		<text id="appPrefsPage.gr.3DToolOptions" h="FA532EE7">Opcje narzędzia 3D</text>
+		<text id="appPrefsPage.gr.rOptions" h="A6CEA705">Opcje renderowania</text>
+		<text id="appPrefsPage.lb.PickMode" h="26EFD83B">Tryb wyboru:</text>
+		<text id="appPrefsPage.name" h="86A64F71">Multimedia 3D</text>
+		<text id="appPrefsPage.tip" h="878BC70D">Opcje multimediów 3D</text>
+		<text id="appPrefsPage.title" h="878BC70D">Opcje multimediów 3D</text>
+		<text id="appPrefsPageMeasurement3D.name" h="E3933ACE">Pomiar 3D</text>
+		<text id="appPrefsPageMeasurement3D.tip" h="ADF62F93">Opcje pomiaru 3D</text>
+		<text id="appPrefsPageMeasurement3D.title" h="ADF62F93">Opcje pomiaru 3D</text>
+		<text id="btn.default" h="3BF809E4">Ustaw jako domyślne</text>
+		<text id="btn.moveDown" h="4CE68730">W dół</text>
+		<text id="btn.moveUp" h="4454FC42">W górę</text>
+		<text id="camera.X" h="714AA303">Kamera X:</text>
+		<text id="camera.Y" h="C9F6C466">Kamera Y:</text>
+		<text id="camera.Z" h="DB436B88">Kamera Z:</text>
+		<text id="camera.altitude" h="D35D23E4">Wysokość:</text>
+		<text id="camera.azimut" h="796BF9A5">Azymut:</text>
+		<text id="camera.distance" h="47D78EAE">Dystans:</text>
+		<text id="chck.RenderDoubleSideStr" h="2A75AAF0">Renderuj dwustronnie</text>
+		<text id="chck.Show3DAxesStr" h="3173CD8B">Pokaż osie 3D</text>
+		<text id="chck.ShowCircleForRadialStr" h="1BC633C3">Pokaż okrąg dla pomiarów promieniowych</text>
+		<text id="chck.UseDefaultDisplayUnitStr" h="6D6F945B">Domyślna jednostka wyświetlania:</text>
+		<text id="chck.UseScaleAndUnitsFromModelStr" h="78DD018F">Użyj skali i jednostek z modelu (jeśli są obecne)</text>
+		<text id="circular.diameter.str" h="A99C6701">Średnica</text>
+		<text id="circular.radius.str" h="3233DE6A">Promień</text>
+		<text id="ck.bgColor" h="799B39A6">Kolor tła</text>
+		<text id="ck.cameraProps" h="C62520F7">Właściwości kamery</text>
+		<text id="ck.crossSection" h="B6196404">Informacje o przekroju</text>
+		<text id="ck.enable3D" h="90C6F9B5">Włącz zawartość 3D</text>
+		<text id="ck.lighting" h="3C76D70F">Oświetlenie</text>
+		<text id="ck.nodesVis" h="39891BF4">Widoczność węzłów</text>
+		<text id="ck.renderMode" h="CDA80CD8">Tryb renderowania</text>
+		<text id="cmd.3DPrefs" h="BB6488C0">&amp;Preferencje 3D...</text>
+		<text id="cmd.3dContent.trustAlways" h="C6E70253">Zawsze ufaj temu dokumentowi</text>
+		<text id="cmd.3dContent.trustOnce" h="6AE4F0D7">Zaufaj temu dokumentowi tylko raz</text>
+		<text id="cmd.3dContentOpts" h="DAD7B4F4">Opcje</text>
+		<text id="cmd.3dContentOpts.tip" h="46505A9A">Kliknij, aby włączyć funkcje</text>
+		<text id="cmd.Cancel3DComment" h="D526EB0F">Anuluj komentarz</text>
+		<text id="cmd.Cancel3DMeasurement" h="4F0F252D">Anuluj pomiar</text>
+		<text id="cmd.addComment" h="9054EDA4">&amp;Dodaj komentarz 3D</text>
+		<text id="cmd.addComment.tip" h="F8CEDF90">Dodaj komentarz 3D</text>
+		<text id="cmd.bkColor" h="799B39A6">Kolor tła</text>
+		<text id="cmd.cameraProps" h="C62520F7">Właściwości kamery</text>
+		<text id="cmd.crossSectionProps" h="14B2AE31">Właściwości przekroju...</text>
+		<text id="cmd.defView" h="A1F14B2B">Widok domyślny</text>
+		<text id="cmd.fly" h="96EAF75B">&amp;Lataj</text>
+		<text id="cmd.fly.tip" h="A9F39C8A">Lataj</text>
+		<text id="cmd.lightSchemes" h="8C1BFE4C">Schemat oświetlenia</text>
+		<text id="cmd.lights" h="41B4EB09">Włącz dodatkowe oświetlenie</text>
+		<text id="cmd.measure.angular" h="D40492A0">Kątowy</text>
+		<text id="cmd.measure.angular.tip" h="0936B097">Pomiar kątowy 3D</text>
+		<text id="cmd.measure.linear" h="E4AF8D46">Linearny</text>
+		<text id="cmd.measure.linear.tip" h="1839B2ED">Pomiar 3D punkt do punktu</text>
+		<text id="cmd.measure.perpendicular" h="AE57B56A">Prostopadły</text>
+		<text id="cmd.measure.perpendicular.tip" h="02507B9D">Pomiar prostopadły 3D</text>
+		<text id="cmd.measure.radial" h="2012103C">Promieniowy</text>
+		<text id="cmd.measure.radial.tip" h="A6DE5391">Pomiar promieniowy 3D</text>
+		<text id="cmd.measure.snap.edges" h="E6611D4B">Przyciągaj do krawędzi</text>
+		<text id="cmd.measure.snap.edges.tip" h="A607DE0D">Przyciąganie 3D do krawędzi liniowych</text>
+		<text id="cmd.measure.snap.endPoints" h="4F0EBE65">Przyciągaj do punktów końcowych</text>
+		<text id="cmd.measure.snap.endPoints.tip" h="6BFDBD18">Przyciąganie 3D do punktów końcowych krawędzi</text>
+		<text id="cmd.measure.snap.faces" h="DE27EA3A">Przyciągaj do powierzchni</text>
+		<text id="cmd.measure.snap.faces.tip" h="90E0002F">Przyciąganie 3D do powierzchni płaskich</text>
+		<text id="cmd.measure.snap.radial" h="65EEBD99">Przyciągaj do promieniowych</text>
+		<text id="cmd.measure.snap.radial.tip" h="E4DA5906">Przyciąganie 3D do krawędzi promieniowych</text>
+		<text id="cmd.measure.snap.silhouette" h="C6A68501">Przyciągaj do sylwetki</text>
+		<text id="cmd.measure.snap.silhouette.tip" h="A58DE3BD">Przyciąganie 3D do sylwetki</text>
+		<text id="cmd.measureTool" h="65934C21">Pomiar 3D</text>
+		<text id="cmd.measureTool.tip" h="E8982E6F">Pomiar 3D</text>
+		<text id="cmd.orthoPerspProj.ortho" h="15C31A48">Użyj rzutowania prostokątnego</text>
+		<text id="cmd.orthoPerspProj.ortho.tip" h="B336199D">Renderuj model w rzucie prostokątnym</text>
+		<text id="cmd.orthoPerspProj.persp" h="49402634">Użyj rzutowania perspektywicznego</text>
+		<text id="cmd.orthoPerspProj.persp.tip" h="330F26E9">Renderuj model w rzucie perspektywicznym</text>
+		<text id="cmd.pan" h="B48C4A96">&amp;Przesuń</text>
+		<text id="cmd.pan.tip" h="8B952147">Przesuń</text>
+		<text id="cmd.partOptions" h="066AF13F">Opcje części</text>
+		<text id="cmd.renderMode" h="9892CD92">Tryb renderowania modelu</text>
+		<text id="cmd.renderMode.default" h="F24132BD">&amp;Domyślny</text>
+		<text id="cmd.rotate" h="2D90BC43">&amp;Obróć</text>
+		<text id="cmd.rotate.tip" h="18368F2D">Obróć</text>
+		<text id="cmd.showCrossSection" h="B9E7DB9A">Pokaż przekrój</text>
+		<text id="cmd.spin" h="D0678B2C">&amp;Wykręć</text>
+		<text id="cmd.spin.tip" h="9224F8BB">Wykręć</text>
+		<text id="cmd.startPauseAnim.pause" h="743DFB17">Wstrzymaj animację</text>
+		<text id="cmd.startPauseAnim.play" h="C2662211">Odtwarzaj animację</text>
+		<text id="cmd.startPauseAnim.tip" h="3A44AF42">Odtwarza/Wstrzymuje animację modelu</text>
+		<text id="cmd.testCmd" h="79888B18">Przetestuj pliki 3D</text>
+		<text id="cmd.testCmd.tip" h="D422EA7A">Testuje renderowanie plików 3D i porównuje z referencją.</text>
+		<text id="cmd.toggleCrossSection" h="53B68A7B">Przełącz przekrój</text>
+		<text id="cmd.toolbar.hide" h="FE5E382C">&amp;Ukryj pasek narzędzi</text>
+		<text id="cmd.toolbar.hide.tip" h="7734A008">Ukryj pasek narzędzi 3D</text>
+		<text id="cmd.toolbar.show" h="D86490DE">&amp;Pokaż pasek narzędzi</text>
+		<text id="cmd.toolbar.show.tip" h="DF2DAC82">Pokazuj pasek narzędzi 3D</text>
+		<text id="cmd.tools" h="3D87CAC3">&amp;Narzędzia</text>
+		<text id="cmd.tree.bboxColor" h="36C9D753">Ustaw kolor obwiedni...</text>
+		<text id="cmd.tree.bboxColor.tip" h="3C62FC40">Ustaw kolor obwiedni</text>
+		<text id="cmd.tree.fitVisible" h="9F4225F9">&amp;Dopasuj widoczne</text>
+		<text id="cmd.tree.fitVisible.tip" h="614956B4">Dopasuj powiększenie, aby zmieścić wszystkie widoczne części</text>
+		<text id="cmd.tree.hide" h="C4F1F414">&amp;Ukryj</text>
+		<text id="cmd.tree.hide.tip" h="8AA8B90C">Ukryj wybrany węzeł</text>
+		<text id="cmd.tree.isolate" h="9FBD280C">&amp;Wyizoluj</text>
+		<text id="cmd.tree.isolate.tip" h="D5DA7C68">Ukryj wszystkie węzły modeli oprócz wybranego</text>
+		<text id="cmd.tree.isolatePart" h="7751F8EC">Wyizoluj część</text>
+		<text id="cmd.tree.isolatePart.tip" h="A3D5F690">Ukryj wszystkie węzły modeli oprócz części zawierającej wybrany węzeł</text>
+		<text id="cmd.tree.makeTransparent" h="0759BABB">Uczyń &amp;przezroczystym</text>
+		<text id="cmd.tree.modelRenderMode" h="9892CD92">Tryb renderowania modelu</text>
+		<text id="cmd.tree.modelRenderMode.tip" h="9F89C88A">Ustawia tryb renderowania dla całego modelu</text>
+		<text id="cmd.tree.partRenderMode" h="16069F94">Tryb renderowania części</text>
+		<text id="cmd.tree.partRenderMode.tip" h="821E3259">Ustaw tryb renderowania dla wybranej części</text>
+		<text id="cmd.tree.show" h="C3CA8E89">Pokaż</text>
+		<text id="cmd.tree.show.tip" h="790D864F">Pokaż wybrany węzeł</text>
+		<text id="cmd.tree.showAll" h="24F4F631">&amp;Pokaż wszystkie części</text>
+		<text id="cmd.tree.showAll.tip" h="144FE078">Pokazuje wszystkie ukryte części</text>
+		<text id="cmd.tree.showBBox" h="8E963AD7">Wyświetl obwiednię</text>
+		<text id="cmd.tree.showBBox.tip" h="3B27C053">Pokaż obwiednię wokół wybranej części</text>
+		<text id="cmd.tree.zoom2part" h="29498553">&amp;Powiększ do części</text>
+		<text id="cmd.tree.zoom2part.tip" h="AF54E436">Dopasuj powiększenie do wybranego węzła</text>
+		<text id="cmd.viewingOptions" h="B7019F33">Opcje przeglądania</text>
+		<text id="cmd.views" h="0F296AD5">Widok:</text>
+		<text id="cmd.walk" h="D60E509F">&amp;Spaceruj</text>
+		<text id="cmd.walk.tip" h="944D2308">Spaceruj</text>
+		<text id="cmd.zoom" h="33EE2C56">&amp;Powiększenie</text>
+		<text id="cmd.zoom.tip" h="71AD5FC1">Powiększenie</text>
+		<text id="directx9.str" h="4DB13F37">DirectX 9</text>
+		<text id="dlgcp.fov" h="A7D2D5BD">&amp;Pole widzenia:</text>
+		<text id="dlgcp.g1.title" h="0C13107E">Pozycja</text>
+		<text id="dlgcp.g2.title" h="4288E30E">Cel</text>
+		<text id="dlgcp.g3.title" h="5F78932B">Parametry</text>
+		<text id="dlgcp.posType" h="C8F2B656">&amp;Jednostki kątowe</text>
+		<text id="dlgcp.roll" h="1B2556A3">Obrót:</text>
+		<text id="dlgcp.save" h="D64F3B21">&amp;Zapisz widok kamery</text>
+		<text id="dlgcp.target.x" h="93F346A4">Cel X:</text>
+		<text id="dlgcp.target.y" h="2B4F21C1">Cel Y:</text>
+		<text id="dlgcp.target.z" h="39FA8E2F">Cel Z:</text>
+		<text id="dlgcs.b.alignCamera" h="DCD9B156">Wyrów&amp;naj kamerę do płaszczyzny cięcia</text>
+		<text id="dlgcs.b.alignToFace" h="F63844BE">Wyrównaj do &amp;pow.</text>
+		<text id="dlgcs.b.alignToPoints" h="294EAE5A">Wyrównaj do &amp;3 pkt</text>
+		<text id="dlgcs.b.save" h="B60C5C7A">Z&amp;apisz widok przekroju</text>
+		<text id="dlgcs.cb.addCaps" h="A56D4C7B">Dodaj &amp;zakończenia sekcji</text>
+		<text id="dlgcs.cb.enable" h="ACCDC008">&amp;Włącz przekrój</text>
+		<text id="dlgcs.cb.flip" h="4565ED97">O&amp;brót</text>
+		<text id="dlgcs.cb.ignoreSel" h="87E49B7A">Ignoruj wybrane &amp;części</text>
+		<text id="dlgcs.cb.showInt" h="07E37FF4">Pokaż &amp;przecięcia</text>
+		<text id="dlgcs.cb.showPlane" h="E34207AF">Pokaż płaszczyznę &amp;cięcia</text>
+		<text id="dlgcs.cb.showTransp" h="FDF85C69">Pokaż p&amp;rzezroczyste</text>
+		<text id="dlgcs.g1" h="0651B15D">Wyrównanie</text>
+		<text id="dlgcs.g2" h="977BDC50">Ustawienia wyświetlania</text>
+		<text id="dlgcs.g3" h="7FF6B930">Pozycja i orientacja</text>
+		<text id="dlgcs.l.offset" h="0CF8F296">Przes&amp;unięcie:</text>
+		<text id="dlgcs.l.opacity" h="0D011B7E">Kryci&amp;e płaszczyzny cięcia:</text>
+		<text id="dlgcs.l.tilt1" h="565BCADE">Pochylenie &amp;1:</text>
+		<text id="dlgcs.l.tilt2" h="44EE6530">Pochylenie &amp;2:</text>
+		<text id="dlgcs.r.x" h="0AF7B760">Oś &amp;X</text>
+		<text id="dlgcs.r.y" h="9152FB0F">Oś &amp;Y</text>
+		<text id="dlgcs.r.z" h="E6CC29FF">Oś &amp;Z</text>
+		<text id="dlgcs.title" h="083D1133">Właściwości przekroju</text>
+		<text id="gr.inheritProps" h="F5C46974">Dziedzicz z bieżącego widoku:</text>
+		<text id="ibar.3dContent" h="4EE9C4B1">Informacje o treści 3D</text>
+		<text id="ibar.3dContent.desc" h="B9385C56">Prosi o pozwolenie na włączenie treści 3D w dokumencie</text>
+		<text id="ibar.3dContent.text" h="5E8AC651">Treści 3D zostały wyłączone. Włącz tę funkcję, jeśli ufasz temu dokumentowi.</text>
+		<text id="info.angle" h="376DC953">Kąt</text>
+		<text id="info.diameter" h="A99C6701">Średnica</text>
+		<text id="info.distance" h="94EB4A0D">Dystans</text>
+		<text id="info.length" h="64B191B5">Długość</text>
+		<text id="info.radius" h="3233DE6A">Promień</text>
+		<text id="lbl.3DCommentStr" h="AB4D67DE">&amp;Komentarz:</text>
+		<text id="lbl.3DMeasureTextSizeStr" h="EF9A15BB">Rozmiar czcionki pomiaru:</text>
+		<text id="lbl.AngularShownInStr" h="2877154F">Pomiary kątowe pokazane w:</text>
+		<text id="lbl.AntiAliasing" h="050110D0">Wygładzanie krawędzi:</text>
+		<text id="lbl.CircularShownAsStr" h="FFB789B9">Pomiary kołowe pokazane jako:</text>
+		<text id="lbl.DigitsStr" h="D0715756">Istotne cyfry do wyświetlenia:</text>
+		<text id="lbl.HighlightColor" h="5F548840">Kolor podświetlenia:</text>
+		<text id="lbl.LineColorStr" h="2A4E912F">Kolor linii pomiarowej 3D:</text>
+		<text id="lbl.SnapHintColorStr" h="E14BB320">Kolor podpowiedzi:</text>
+		<text id="lbl.framerate" h="E28DF43C">Szybkość klatek (FPS):</text>
+		<text id="lbl.renderingEngine" h="0F210502">Silnik renderowania:</text>
+		<text id="lbl.viewName" h="64A879B2">Nazwa widoku:</text>
+		<text id="manageViews" h="8D0BFCAB">Zarządzaj widokami</text>
+		<text id="manageViews.List.defaultItem" h="F93BCF4A">Widoki 3D</text>
+		<text id="manageViews.newViewName" h="36C63992">Nowy widok</text>
+		<text id="op.crossSection.add" h="816A8FBA">Dodaj przekrój</text>
+		<text id="op.crossSection.del" h="7359BC97">Usuń przekrój</text>
+		<text id="op.crossSection.edit" h="F1E2B734">Edytuj przekrój</text>
+		<text id="op.measure.add" h="C937F475">Dodaj pomiar</text>
+		<text id="op.measure.del" h="98EFA25F">Usuń pomiar</text>
+		<text id="op.measure.edit" h="B0A6FD84">Edytuj pomiar</text>
+		<text id="op.view.add" h="5EA580D2">Dodaj widok</text>
+		<text id="op.view.del" h="09EFE6B4">Usuń widok</text>
+		<text id="op.view.edit" h="D656AA99">Edytuj widok</text>
+		<text id="opengl.str" h="BBBBF29E">OpenGL</text>
+		<text id="units.centimeters.str" h="63D677E4">centymetry</text>
+		<text id="units.feet.str" h="F6E973E9">stopy</text>
+		<text id="units.inches.str" h="37039ACE">cale</text>
+		<text id="units.kilometers.str" h="8D5FC0C4">kilometry</text>
+		<text id="units.meters.str" h="CBCB1E8C">metry</text>
+		<text id="units.miles.str" h="639E298A">mile</text>
+		<text id="units.millimeters.str" h="EBB2FCDD">milimetry</text>
+		<text id="units.modelunits.str" h="9DC83793">jednostka modelu</text>
+		<text id="units.picas.str" h="CFFA0650">pika</text>
+		<text id="units.points.str" h="E64CE9B2">punkty</text>
+		<text id="units.yards.str" h="1F5E1723">jardy</text>
+		<text id="view.custom" h="A918FF38">Własny</text>
+		<text id="view.default" h="B6EF2024">Domyślny</text>
+		<text id="op.manageViews" h="8D0BFCAB">Zarządzaj widokami</text>
+		<text id="viewName.SectionView" h="C0FD0A97">WidokSekcji</text>
+		<text id="viewName.CameraView" h="73227EFE">WidokKamery</text>
+		<text id="viewName.MeasurementView" h="6D7646F2">WidokPomiaru</text>
+		<text id="viewName.NewView" h="018D94A4">NowyWidok</text>
+		<text id="viewName.3DCommentView" h="05B86C99">WidokKomentarza3D</text>
+		<text id="DlgManage3DViews.title" h="8D0BFCAB">Zarządzaj widokami</text>
+		<text id="DlgViewProperties.title" h="F5C86852">Właściwości nowego widoku</text>
+		<text id="Dlg3DComment.title" h="92BCB7CD">Wprowadź ciąg komentarza</text>
+		<text id="lbl.pmiRenderingMode" h="22BCA220">Preferowany tryb renderingu 3D:</text>
+		<text id="pmiRenderingMode.ContentSetting" h="21BB2D95">Użyj ustawień treści</text>
+		<text id="pmiRenderingMode.FrontOfModel" h="2A68E699">Renderuj PMI 3D z przodu modelu</text>
+		<text id="pmiRenderingMode.ZBuffer" h="C20E3E1F">Renderuj PMI 3D, korzystając z bufora Z-buffer</text>
+	</Strings>
+</Localization>

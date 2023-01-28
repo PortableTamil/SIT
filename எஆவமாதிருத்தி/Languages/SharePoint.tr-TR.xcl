@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20211012163838">2.00.00</Version>
+	<Author>Osman ÖZ</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Turkish (Turkey)" lName="Türkçe" code="tr-TR" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="9.1.356.0"/>
+	<Strings>
+		<text id="DlgAppPrefs.SharePoint.Name" h="56A5F9B3">SharePoint</text>
+		<text id="DlgAppPrefs.SharePoint.Title" h="07F34B45">SharePoint Seçenekleri</text>
+		<text id="addFolder.error.message" h="F0B996F8">SharePoint kaynağında &lt;b&gt;%1&lt;/b&gt; klasörü oluşturulamadı.</text>
+		<text id="addFolder.progress.text" h="8C5EF68A">&lt;b&gt;%1&lt;/b&gt; klasörü oluşturuluyor...</text>
+		<text id="addFolder.progress.title" h="7B4FFE6D">SharePoint'te klasör oluşturma</text>
+		<text id="addFolder.question.button.create" h="5AFC56A9">Klasör oluştur</text>
+		<text id="addFolder.question.edit.title" h="AD9C0CB3">Lütfen yeni klasör adını girin:</text>
+		<text id="addFolder.question.error.alreadyExists" h="C0A47FF7">Geçerli klasör zaten &lt;b&gt;%1&lt;/b&gt; adında bir öğe içeriyor.</text>
+		<text id="addFolder.question.error.emptyFolderName" h="BB6566D6">Klasör adı boş olamaz.</text>
+		<text id="addFolder.question.error.invalidFolderName" h="0A24FCDF">&lt;b&gt;%1&lt;/b&gt; geçerli bir klasör adı değil, çünkü &lt;b&gt;&lt; &gt; " / \ | ? *&lt;/b&gt; sembollerine izin verilmiyor.</text>
+		<text id="advancedPreferences.cb.hideFolders" h="56731DD2">Aşağıdaki klasörleri gizle:</text>
+		<text id="advancedPreferences.group.OpenSaveDialog" h="4D95ED95">Aç/Kaydet iletişim kutusu</text>
+		<text id="btn.addFolder.text" h="69FFFB47">&amp;Klasör oluştur</text>
+		<text id="btn.advancedPreferences" h="1EE42724">Gelişmiş...</text>
+		<text id="btn.apply" h="51F4FB2C">&amp;Uygula</text>
+		<text id="btn.cancelSaving" h="36FF91F6">&amp;Sunucuya Kaydetmeyi İptal Et</text>
+		<text id="btn.checkIn" h="09996473">&amp;Teslim Et</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">&amp;Teslim Et ve Teslim Alınanı Tut</text>
+		<text id="btn.clearLogs" h="848E003C">Tümünü Sil</text>
+		<text id="btn.connect" h="A79F815C">&amp;Bağlan</text>
+		<text id="btn.delete.text" h="ED580C1E">&amp;Sil</text>
+		<text id="btn.discardCheckOut" h="40AC5603">&amp;Teslim Almayı İptal Et</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">&amp;Yukarı</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">&amp;Teslim Alınanı Tut</text>
+		<text id="btn.navigate" h="B03F439E">&amp;Gezinme</text>
+		<text id="btn.open" h="B1A510F0">&amp;Aç</text>
+		<text id="btn.openLog" h="F3E66367">Aç</text>
+		<text id="btn.openLogFolder" h="0B1D9C13">Klasör Aç</text>
+		<text id="btn.openWithCheckOut" h="2F774735">&amp;Teslim Alma ile Aç</text>
+		<text id="btn.overwrite" h="48E63C4C">&amp;Üzerine Yaz</text>
+		<text id="btn.resetPreferences" h="A7132527">Varsayılanlara Sıfırla</text>
+		<text id="btn.save" h="F363C410">&amp;Kaydet</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">Teslim Al ve &amp;Kaydet</text>
+		<text id="btn.saveReplace" h="11BF9724">Kaydet ve &amp;Değiştir</text>
+		<text id="btn.settings" h="563BF6B7">&amp;Seçenekler...</text>
+		<text id="btn.signOut" h="645CEBE2">&amp;Oturumu Kapat</text>
+		<text id="cb.url.tip" h="CD81E674">Adres gir...</text>
+		<text id="cbitem.afterSave.ask" h="5F9AC292">Ne yapacağını sor</text>
+		<text id="cbitem.afterSave.checkIn" h="FA91CFF8">Teslim et</text>
+		<text id="cbitem.afterSave.checkInCheckOut" h="C236E112">Teslim et ve teslim alınanı tut</text>
+		<text id="cbitem.afterSave.keepCheckOut" h="F4487016">Teslim almayı tut</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.ask" h="5F9AC292">Ne yapacağını sor</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.discardCheckOut" h="CA75DE00">Teslim almayı iptal et</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.keepCheckOut" h="F4487016">Teslim almayı tut</text>
+		<text id="cbitem.closeNeedCheckIn.ask" h="5F9AC292">Ne yapacağını sor</text>
+		<text id="cbitem.closeNeedCheckIn.checkIn" h="FA91CFF8">Teslim et</text>
+		<text id="cbitem.closeNeedCheckIn.checkInCheckOut" h="C236E112">Teslim et ve teslim alınanı tut</text>
+		<text id="cbitem.closeNeedCheckIn.keepCheckOut" h="B1F294B6">Teslim alınanı tut</text>
+		<text id="cbitem.defaultCheckInType.major" h="D5227ED6">Ana sürümü artırın</text>
+		<text id="cbitem.defaultCheckInType.minor" h="5B8ED168">İkincil sürümü artırın</text>
+		<text id="cbitem.defaultCheckInType.overwrite" h="05A502D0">Sürümü değiştirmeden üzerine yaz</text>
+		<text id="cbitem.logLevel.error" h="A393623F">Sadece hatalar</text>
+		<text id="cbitem.logLevel.information" h="2039C12A">Tüm bilgilendirme amaçlı</text>
+		<text id="cbitem.logLevel.none" h="1E317BDF">Günlük kaydı yok</text>
+		<text id="cbitem.logLevel.verbose" h="C7EEABE5">Tam ayrıntılı günlük kaydı</text>
+		<text id="cbitem.logLevel.warning" h="427C1C47">Uyarılar ve hatalar</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.ask" h="5F9AC292">Ne yapacağını sor</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.checkOut" h="95775966">Aç ve teslim al</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.open" h="38A34D1A">Teslim alma olmadan aç</text>
+		<text id="cbitem.whenSaveConflict.ask" h="5F9AC292">Ne yapacağını sor</text>
+		<text id="cbitem.whenSaveConflict.cancel" h="554F5523">Sunucuya kaydetmeyi iptal et</text>
+		<text id="cbitem.whenSaveConflict.overwrite" h="B67489D8">Sunucu sürümünün üzerine yaz</text>
+		<text id="check.dontShowThisMessageAgain" h="AC16D0EE">Bu mesajı bir daha gösterme</text>
+		<text id="check.whenOpenDocumentCheckoutNoneDisableEditing" h="778336E0">Düzenlemeyi devre dışı bırak</text>
+		<text id="check.whenOpenDocumentCheckoutNoneShowWarning" h="E97BFF00">Uyarı mesajını göster</text>
+		<text id="checkInDialog.typeRaio.Major" h="55515597">&amp;Ana sürümü artırın</text>
+		<text id="checkInDialog.typeRaio.Minor" h="DBFDFA29">&amp;İkincil sürümü artırın</text>
+		<text id="checkInDialog.typeRaio.Overwrite" h="FE98B944">&amp;Sürümü değiştirmeden üzerine yaz</text>
+		<text id="cmd.checkIn" h="AEF235ED">&amp;Teslim Et</text>
+		<text id="cmd.checkIn.tip" h="C9DCA405">SharePoint için belge dosyasını denetleyin.</text>
+		<text id="cmd.checkOut" h="E6A87AFE">&amp;Teslim Al</text>
+		<text id="cmd.checkOut.tip" h="E1B64D30">SharePoint belge dosyasını denetleyin.</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">&amp;Teslim Almayı İptal Et</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">SharePoint'te teslim alınan dosyayı atın.</text>
+		<text id="cmd.enableEditing" h="340AFFD4">&amp;Düzenlemeyi Etkinleştir</text>
+		<text id="cmd.enableEditing.tip" h="8A29948D">Düzenleme ve etkileşimli özellikleri etkinleştirin.</text>
+		<text id="cmd.open" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.open.tip" h="007B7200">SharePoint'ten belgeleri açın.</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">Dosya &amp;Bilgisi Hazırlığı</text>
+		<text id="cmd.prepareFileInfo.tip" h="E609EA07">SharePoint'te dosya bilgilerini hazırlayın</text>
+		<text id="cmd.save" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.save.tip" h="C48C1C25">Etkin bir belgeyi SharePoint'e kaydedin.</text>
+		<text id="cmd.share_point" h="B7423C0E">Share&amp;Point</text>
+		<text id="cmd.share_point.tip" h="CA99078B">SharePoint'te belgelerle çalışın</text>
+		<text id="defaultCheckInComment" h="4EF280A5">Varsayılan teslim etme yorumu:</text>
+		<text id="defaultCheckInType" h="F606FFC1">Varsayılan teslim etme türü:</text>
+		<text id="delete.error.file" h="3C348225">SharePoint'ten &lt;b&gt;%1&lt;/b&gt; dosyası silinemedi.</text>
+		<text id="delete.error.folder" h="3C348225">SharePoint'ten &lt;b&gt;%1&lt;/b&gt; dosyası silinemedi.</text>
+		<text id="delete.error.unknown" h="A3E6F83A">SharePoint'ten seçilen öğe silinemedi.</text>
+		<text id="delete.progress.status" h="F729DF24">%1 / %2</text>
+		<text id="delete.progress.text.file" h="EFCE4189">&lt;b&gt;%1&lt;/b&gt; dosyası siliniyor...</text>
+		<text id="delete.progress.text.folder" h="2E89372D">&lt;b&gt;%1&lt;/b&gt; klasörü siliniyor ...</text>
+		<text id="delete.progress.text.unknown" h="367B0EA7">&lt;b&gt;%1&lt;/b&gt; siliniyor ...</text>
+		<text id="delete.progress.title" h="DFC61F07">SharePoint'ten silme</text>
+		<text id="delete.question.file" h="F3B2380C">&lt;b&gt;%1&lt;/b&gt; dosyasını silmek istiyor musunuz?</text>
+		<text id="delete.question.folder" h="DA195BFA">&lt;b&gt;%1&lt;/b&gt; klasörünü ve tüm içeriğini silmek istiyor musunuz?</text>
+		<text id="delete.question.multi" h="ACA0CEC0">%1 öğeyi silmek istiyor musunuz?</text>
+		<text id="delete.question.unknown" h="8C13886E">Seçili öğeyi silmek istiyor musunuz?</text>
+		<text id="dlg.advancedPreferences.title" h="88234689">Gelişmiş SharePoint Tercihleri</text>
+		<text id="dlg.liveLogin" h="BFADC685">Canlı Giriş</text>
+		<text id="dlg.openFile" h="435887CD">Dosya Aç</text>
+		<text id="dlg.saveFile" h="520CB069">Dosyayı Kaydet</text>
+		<text id="group.Logging" h="F9DEFF33">Günlük kaydı</text>
+		<text id="group.documentActions" h="C2F29B9A">Belgelerle çalışma</text>
+		<text id="ibar.cannotEditEditing" h="13F24128">Sunucudaki dosyayı düzenleme izniniz yok. Yalnızca yerel kopya olarak kaydetmeye izin verilir.</text>
+		<text id="ibar.cannotEditNoEditing" h="52C758B6">Sunucudaki dosyayı düzenleme izniniz yok. Tüm düzenleme ve etkileşimli özellikler devre dışı bırakılır.</text>
+		<text id="ibar.checkedOutToMe" h="B5AF7047">Dosya size teslim edildi.</text>
+		<text id="ibar.checkedOutToOtherEditing" h="4F420124">Dosya %1'e teslim edildi. Dosyayı sunucuya kaydedemeyeceksiniz.</text>
+		<text id="ibar.checkedOutToOtherNoEditing" h="B8C2709A">Dosya %1'e teslim edildi. Tüm düzenleme ve etkileşimli özellikler devre dışı bırakılır.</text>
+		<text id="ibar.notCheckedOutEditing" h="A4D56FD1">Dosya teslim alınmadı. Diğer kullanıcılar sunucudaki dosyayı değiştirirse, bu dosyadaki değişiklikleri kaydedemezsiniz.</text>
+		<text id="ibar.notCheckedOutNoEditing" h="E3EA5586">Dosya teslim alınmadı. Tüm düzenleme ve etkileşimli özellikler devre dışı bırakılır.</text>
+		<text id="ibar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="ibar.sharepoint.description" h="6F2E3CDD">SharePoint belge içerik bilgisi ve işlemleri</text>
+		<text id="ibar.sharepoint.title" h="C3F43468">SharePoint Belgesi</text>
+		<text id="lb.afterSave" h="B8FD9751">Bir belge kaydedildiğinde:</text>
+		<text id="lb.checkInComment" h="694DD18A">Yorum (isteğe bağlı):</text>
+		<text id="lb.closeDoesNotNeedCheckIn" h="293982D2">Teslim alınmış bir belgeyi değişiklik olmadan kapatırken:</text>
+		<text id="lb.closeNeedCheckIn" h="32249D2D">Teslim alınmış bir belgeyi değişikliklerle kapatırken:</text>
+		<text id="lb.currentLogFile" h="79D35843">Mevcut günlük:</text>
+		<text id="lb.name" h="F7B9E475">Dosya Adı: </text>
+		<text id="lb.numberOfDaysToStoreLogs" h="E12F4F23">Günlük depo. günü:</text>
+		<text id="lb.sharePointPlaceUrl" h="F900769A">SharePoint URL:</text>
+		<text id="lb.sharePointPlaceValidUrl" h="9BFA1D20">SharePoint sunucusuna bağlanılamadı. Lütfen internet bağlantısını ve verilen sunucu URL'sini kontrol edin.</text>
+		<text id="lb.whenOpenDocumentCheckoutNone" h="D9B6115E">Kimse tarafından teslim alınmamış bir belgeyi açarken:</text>
+		<text id="lb.whenOpenDocumentCheckoutOther" h="4C458F62">Başka kullanıcı tarafından teslim alınan bir belgeyi açarken:</text>
+		<text id="lb.whenOpenDocumentWithoutWritePermissions" h="88CBE154">Yazma izinleri olmayan bir belgeyi açarken:</text>
+		<text id="lb.whenSaveConflict" h="6DA89C17">Sunucuda değişen bir belgeyi kaydederken:</text>
+		<text id="ls.column.created" h="FE6510B7">Oluşturulma tarihi</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Dosya, klasör veya listenin oluşturulduğu tarih ve saat</text>
+		<text id="ls.column.extension" h="14FEB836">Uzantı</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Dosya uzantısı</text>
+		<text id="ls.column.modified" h="691C3610">Değiştirilme Tarihi</text>
+		<text id="ls.column.modified.hint" h="12933E76">Dosya, klasör veya listenin değiştirildiği tarih ve saat</text>
+		<text id="ls.column.size" h="17A58A52">Boyut</text>
+		<text id="ls.column.size.hint" h="E79CA174">Dosya boyutu</text>
+		<text id="ls.column.title" h="D18643E3">Adı</text>
+		<text id="ls.column.title.hint" h="81F4F728">Dosya adı, klasör adı veya liste başlığı</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">Kapatılmadan önce &lt;b&gt;%1&lt;/b&gt; dosyasını Teslim Etmek istiyor musunuz? Bu, değişiklikleri diğer kullanıcılar için kullanılabilir hale getirecektir.</text>
+		<text id="msg.askForCheckOutOnOpen" h="B185C3DF">Dosyayı diğer kullanıcılar için "salt okunur" olarak ayarlamak için teslim alarak &lt;b&gt;%1&lt;/b&gt; dosyasını açabilirsiniz, böylece güvenle değiştirebilir ve değişiklikleri SharePoint'e kaydedebilir veya diğer kullanıcıların değiştirmesine izin verebilirsiniz dosyayı değiştirebilir, ancak dosyayı kendi parçanızdan değiştirmeye ve kaydetmeye çalışırsanız çakışmalar olabilir.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">&lt;b&gt;%1&lt;/b&gt; dosyası size teslim edildi. Teslim alma işlemini iptal etmek ve diğer kullanıcıların dosyayı düzenlemesine izin vermek ister misiniz?</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">&lt;b&gt;%1&lt;/b&gt; dosyasını teslim et.</text>
+		<text id="msg.checkInFailed" h="3E327B8B">&lt;b&gt;%1&lt;/b&gt; dosyası teslim edilemedi. Lütfen bu dosyanın var olduğundan ve size teslim edildiğinden emin olun.</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">&lt;b&gt;%1&lt;/b&gt; dosyası teslim alınamadı. Lütfen bu dosyanın sunucuda mevcut olduğundan ve farklı bir kullanıcıya teslim edilmediğinden emin olun.</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">&lt;b&gt;%1&lt;/b&gt; dosyasını "%2" kullanıcısı tarafından teslim alındığı için teslim alarak açamazsınız.</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">&lt;b&gt;%1&lt;/b&gt; dosyası "%2" kullanıcısına teslim edildi. Size teslim edilmedikçe bu dosyayı SharePoint'e kaydedemezsiniz, ancak değişikliklerinizi farklı bir konuma kaydedebilirsiniz.</text>
+		<text id="msg.connectError" h="18DFEDBE">SharePoint sunucusuna bağlanılamadı. Lütfen internet bağlantısını, sunucu adresini ve gerekli SharePoint kaynağına erişim haklarını kontrol edin.</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">&lt;b&gt;%1&lt;/b&gt; dosyasının teslim alma durumu silinemedi. Lütfen bu dosyanın var olduğundan ve size teslim edildiğinden emin olun.</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">Bu dosya için düzenleme izinleriniz olmadığından &lt;b&gt;%1&lt;/b&gt; dosyasını teslim alamazsınız.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">Bu dosya için düzenleme izniniz olmadığı için &lt;b&gt;%1&lt;/b&gt; dosyasını teslim alarak açamazsınız.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">Bu dosya için düzenleme izniniz olmadığından, &lt;b&gt;%1&lt;/b&gt; dosyasını düzenlemek için açamazsınız.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">&lt;b&gt;%1&lt;/b&gt; dosyası kaydedilmeden önce teslim alınmalıdır, ancak bu dosya için düzenleme izniniz yok.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="C492B710">Bu dosya için düzenleme izinleriniz olmadığından &lt;b&gt;%1&lt;/b&gt; dosyasını SharePoint'e kaydedemezsiniz.</text>
+		<text id="msg.fileNotFound" h="381368F8">&lt;b&gt;%1&lt;/b&gt; dosyası mevcut klasörde bulunamadı.</text>
+		<text id="msg.invalidFileName" h="6BAFE9F2">&lt;b&gt;%1&lt;/b&gt; geçerli bir dosya adı değildir. Dosya adı &lt;b&gt;%2&lt;/b&gt; karakterleri içeremez.</text>
+		<text id="msg.navigateError" h="CF23B4B6">SharePoint kaynağına gidilemedi. Lütfen internet bağlantısını, sunucu adresini ve gerekli SharePoint kaynağına erişim hakkını kontrol edin.</text>
+		<text id="msg.openFailed" h="34DE1259">Dosya açılamadı. Lütfen bu dosyanın var olduğundan ve farklı bir kullanıcıya teslim edilmediğinden ve dosyaya erişmek için gerekli izinlere sahip olduğunuzdan emin olun.</text>
+		<text id="msg.outdatedFileOnWrite" h="93CDEA71">İndirdiğiniz belge, &lt;b&gt;%2&lt;/b&gt; adresinde yapılan değişiklikleri içeriyor, ancak sunucu, &lt;b&gt;%3&lt;/b&gt; tarihinde yapılmış daha yeni değişiklikler içeriyor. Değişikliklerinizi yeni bir dosyaya kaydedin, ardından SharePoint'ten teslim alarak en son belgeyi açın, değişiklikleri birleştirin ve sunucuya kaydedin.</text>
+		<text id="msg.outdatedFileOnWrite.question" h="4802DC49">&lt;b&gt;%1&lt;/b&gt; dosyasında bir değişiklik çakışması var. İndirdiğiniz belge, &lt;b&gt;%2&lt;/b&gt; adresinde yapılan değişiklikleri içeriyor, ancak sunucu, &lt;b&gt;%3&lt;/b&gt; tarihinde yapılmış daha yeni değişiklikler içeriyor. Değişikliklerinizi yeni bir dosyaya kaydetmek için sunucu sürümünün üzerine yazmaya zorlayabilir veya mevcut kaydı iptal edebilir, ardından SharePoint'ten teslim alarak en son belgeyi açabilir, değişiklikleri birleştirebilir ve sunucuya kaydedebilirsiniz.</text>
+		<text id="msg.saveFailed" h="967D2A64">Dosya kaydedilemedi. Lütfen dosya adının geçerli olduğundan, dosyanın farklı bir kullanıcı tarafından teslim alınmadığından ve dosyayı düzenlemek için gerekli izinlere sahip olduğunuzdan emin olun.</text>
+		<text id="msg.saveReplace" h="B1889DFB">&lt;b&gt;%1&lt;/b&gt; dosyası zaten var. Değiştirmek istiyor musun?</text>
+		<text id="msg.signOutError" h="0E6A5F45">Geçerli kullanıcı SharePoint sunucusunda oturum açamadı.  Kimlik doğrulama isteği olmadan SharePoint'e hala erişebileceksiniz.</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="69F2FCB2">&lt;b&gt;%1&lt;/b&gt; dosyası için düzenleme izniniz yok. Lütfen gerekli izinlere sahip olmadığınız sürece değişiklikleri SharePoint'e kaydedemeyeceğinizi unutmayın.</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">&lt;b&gt;%1&lt;/b&gt; dosyası "%2" kullanıcısına teslim edildi. "%2" teslim alma durumunu atmadıkça bu dosyayı SharePoint'e kaydedemezsiniz. "%2" dosyayı değişikliklerle birlikte teslim ederse, bir değişiklik çakışması yaşarsınız.</text>
+		<text id="opt.dontShowAgain" h="492B5D79">Bu mesajı bir daha &amp;gösterme</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="str.sharePoint" h="56A5F9B3">SharePoint</text>
+	</Strings>
+</Localization>

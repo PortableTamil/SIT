@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20190319232844">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Finnish (Finland)" lName="suomi" code="fi-FI" R2L="false"/>
+	<Module name="SignaturePad" namespace="sigpad" version="8.0.329.0"/>
+	<Strings>
+		<text id="btn.clear" h="8A6A002B">Tyhjennä</text>
+		<text id="dgl.drawsign.title" h="8BE10CB7">Piirrä allekirjoitus</text>
+		<text id="signature.pad" h="1CB89F08">Signature Pad</text>
+		<text id="signature.pad.desc" h="B2E4D573">Luo allekirjoituksia käyttämällä tietokoneen Signature Pad -ohjelmaa</text>
+		<text id="msg.nodevice" h="69EAAE3A">&lt;i&gt;Tuettua laitetta&lt;/i&gt; ei ole käytettävissä.
+
+Tarkista, että laite on kytketty ja 
+että kelvolliset ohjaimet on asennettu,  
+ja yritä uudelleen.</text>
+	</Strings>
+</Localization>

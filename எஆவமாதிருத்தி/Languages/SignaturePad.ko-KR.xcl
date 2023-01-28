@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20210114191057">2.00.00</Version>
+	<Author>pCsOrI</Author>
+	<Copyright>프로그램의 쉬운 사용을 위해</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Korean (Korea)" lName="한국어" code="ko-KR" R2L="false"/>
+	<Module name="SignaturePad" namespace="sigpad" version="9.0.350.0"/>
+	<Strings>
+		<text id="btn.clear" h="8A6A002B">지우기(&amp;E)</text>
+		<text id="dgl.drawsign.title" h="8BE10CB7">서명 그리기</text>
+		<text id="signature.pad" h="1CB89F08">서명 패드</text>
+		<text id="signature.pad.desc" h="B2E4D573">컴퓨터의 서명 패드를 사용하여 서명 만들기</text>
+		<text id="msg.nodevice" h="69EAAE3A">사용 가능한 &lt;i&gt;지원 장치&lt;/i&gt;가 없습니다.
+
+장치가 연결되어 있고 유효한 드라이버가 
+설치되어 있는지 확인한 다음 
+다시 시도하십시오.</text>
+	</Strings>
+</Localization>

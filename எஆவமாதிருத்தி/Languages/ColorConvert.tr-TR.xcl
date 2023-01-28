@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20211012163840">2.00.00</Version>
+	<Author>Osman Öz</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Turkish (Turkey)" lName="Türkçe" code="tr-TR" R2L="false"/>
+	<Module name="ColorConvert" namespace="cc" version="9.1.355.0"/>
+	<Strings>
+		<text id="absolute.ri" h="2B4BF91A">Mutlak Renkölçümsel</text>
+		<text id="any.cs" h="8A3A9D71">Herhangi Bir Renk Boşluğu</text>
+		<text id="anycmyk.cs" h="7F4DF0D2">Herhangi Bir CMYK</text>
+		<text id="anyobject.type" h="72C84120">Herhangi Bir Nesne</text>
+		<text id="anyrgb.cs" h="94CA7E95">Herhangi Bir RGB</text>
+		<text id="calcmyk.cs" h="F1126F53">Kalibre Edilmiş CMYK</text>
+		<text id="calgray.cs" h="33EB89D0">Kalibre Edilmiş Gri Tonlama</text>
+		<text id="calibrated.cs" h="6691A3E6">Kalibre Edilmiş</text>
+		<text id="calrgb.cs" h="EA2AFBDE">Kalibre Edilmiş RGB</text>
+		<text id="cmd.list.add" h="8E2EE8C1">Ekle</text>
+		<text id="cmd.list.remove" h="FCE39C1F">Kaldır</text>
+		<text id="colortype.lbl" h="21687EB3">Renk Türü:</text>
+		<text id="command.lbl" h="63E7087D">Komutu Dönüştür:</text>
+		<text id="conv.false" h="FDCF50B8">Dönüştürülecek uygun nesne bulunamadı</text>
+		<text id="conv.succeeded" h="9F1280CB">Dönüşüm başarılı oldu</text>
+		<text id="convattr.grp" h="9849DBD9">Dönüştürme Öznitelikleri</text>
+		<text id="conversion.commads.group" h="26756936">Dönüştürme Komutları</text>
+		<text id="convert.cmd" h="66E18092">Profile Dönüştür</text>
+		<text id="convert.lbl" h="433E719B">%1 dönüştür</text>
+		<text id="convertcolors.dlg" h="A784DD5F">Renkleri Dönüştür</text>
+		<text id="convopt.grp" h="3BDEC580">Seçenekleri Dönüştür</text>
+		<text id="cs_based_on" h="FFE0AF7F">dayalı</text>
+		<text id="cs_with_alternate" h="22956BBD">alternatif</text>
+		<text id="decalibrate.cmd" h="E03118F5">Kalibrasyonu Geri</text>
+		<text id="doc.ri" h="9A06AE7B">Belge Amacını Kullan</text>
+		<text id="doccolors.btn" h="9665902B">Belge Renkleri...</text>
+		<text id="doccolors.lbl" h="4D2F349E">Belge Renkleri:</text>
+		<text id="doccolorsdlg" h="E252ADD0">Belge Renkleri</text>
+		<text id="embed.chk" h="84D781B2">Göm</text>
+		<text id="grayCmyk.chk" h="0F5E13C0">Griyi CMYK Siyahına Tanıt</text>
+		<text id="grayscale.cs" h="BD6354DE">Gri tonlama</text>
+		<text id="history.cc.redo" h="5409F668">Renkleri Dönüştürmeyi Yinele</text>
+		<text id="history.cc.title" h="A784DD5F">Renkleri Dönüştür</text>
+		<text id="history.cc.undo" h="5611C194">Renkleri Dönüştürmeyi Geri Al</text>
+		<text id="image.type" h="AB6DEA58">Görüntü</text>
+		<text id="lineart.type" h="1592B5FC">Çizgi Sanatı</text>
+		<text id="matching.grp" h="920C9FBB">Eşleştirme Kriterleri</text>
+		<text id="msg.proc.colorConversion" h="29B82B36">Renk Dönüşümü uygulandı</text>
+		<text id="noconversion.applied" h="DF0BFB50">Renk dönüştürme işlemi bitti. Hiçbir değişiklik yapılmadı</text>
+		<text id="nomaximume.edt" h="8222833A">Maksimum Yok</text>
+		<text id="nominimum.edt" h="AE9E046B">Minimum Yok</text>
+		<text id="objtype.lbl" h="F77F2940">Nesne Türü:</text>
+		<text id="oi.chk" h="94ED2F6E">Renkleri Çıktı Amacına Dönüştür</text>
+		<text id="oiprofile.lbl" h="235B6AC4">Profil:</text>
+		<text id="perceptual.ri" h="FE1548A6">Algısal</text>
+		<text id="preservblck.chk" h="BA0C6CC7">Siyahı Koru</text>
+		<text id="preserve.cmd" h="19170747">Korumak</text>
+		<text id="preserveCmyk.chk" h="1DEF0320">CMYK Temel Öğelerini Koru</text>
+		<text id="profile.lbl" h="2B23E392">Dönüşüm Profili:</text>
+		<text id="progress.cnvDoc" h="2FB51FBD">Belge renkleri dönüştürülüyor...</text>
+		<text id="rbar.convert.colors" h="A784DD5F">Renkleri Dönüştür</text>
+		<text id="rbar.convert.colors.tip" h="D733E17B">Belgedeki renkleri dönüştürür</text>
+		<text id="relative.ri" h="4E4820BA">İlgili Renkölçümsel</text>
+		<text id="rintent.lbl" h="56478B71">Oluşturma Amacı:</text>
+		<text id="saturation.ri" h="81E4F5A0">Doyma</text>
+		<text id="shading.type" h="9ECB4FEA">Pürüzsüz Gölge</text>
+		<text id="spotcolor.cs" h="6D651DE1">Spot Renk</text>
+		<text id="spotcolors.lbl" h="2CD39A6E">Spot Renkler:</text>
+		<text id="status.cnvPage" h="92A4E6A3">%1 sayfası dönüştürülüyor...</text>
+		<text id="status.enumcsDoc" h="38B45907">Renk boşluklarının numaralandırılması</text>
+		<text id="status.enumcsPage" h="CA0A6487">%1 sayfasında renk boşluklarını numaralandırma...</text>
+		<text id="text.type" h="9372A8AB">Metin</text>
+		<text id="textmax.lbl" h="72531743">Maksimum Metin Boyutu:</text>
+		<text id="textmin.lbl" h="D926E164">Minimum Metin Boyutu:</text>
+		<text id="translate.spot.chk" h="C70A9205">Tüm spot renkleri dönüştür</text>
+		<text id="undone.noshow" h="B2D782D9">Bu mesajı tekrar gösterme</text>
+		<text id="undone.warning" h="52E66FDE">Bu işlem geri alınamaz. Devam etmek istiyor musun?</text>
+	</Strings>
+</Localization>

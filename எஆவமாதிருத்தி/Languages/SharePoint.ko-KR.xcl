@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20221121231554">2.00.00</Version>
+	<Author>pCsOrI</Author>
+	<Copyright>프로그램의 쉬운 사용을 위해</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Korean (Korea)" lName="한국어" code="ko-KR" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="9.5.365.0"/>
+	<Strings>
+		<text id="DlgAppPrefs.SharePoint.Name" h="56A5F9B3">SharePoint</text>
+		<text id="DlgAppPrefs.SharePoint.Title" h="07F34B45">SharePoint 옵션</text>
+		<text id="addFolder.error.message" h="F0B996F8">SharePoint 리소스에서 &lt;b&gt;%1&lt;/b&gt; 폴더를 만들지 못했습니다.</text>
+		<text id="addFolder.progress.text" h="8C5EF68A">&lt;b&gt;%1&lt;/b&gt; 폴더 생성 중...</text>
+		<text id="addFolder.progress.title" h="7B4FFE6D">SharePoint에서 폴더 만들기</text>
+		<text id="addFolder.question.button.create" h="5AFC56A9">폴더 만들기</text>
+		<text id="addFolder.question.edit.title" h="AD9C0CB3">새 폴더 이름 입력:</text>
+		<text id="addFolder.question.error.alreadyExists" h="C0A47FF7">현재 폴더에는 이름이 &lt;b&gt;%1&lt;/b&gt; 항목이 이미 있습니다.</text>
+		<text id="addFolder.question.error.emptyFolderName" h="BB6566D6">폴더 이름은 비어 있을 수 없습니다.</text>
+		<text id="addFolder.question.error.invalidFolderName" h="0A24FCDF">&lt;b&gt;%1&lt;/b&gt;은(는) 유효한 폴더 이름이 아닙니다. &lt;b&gt;&lt; &gt; " / \ | ? *&lt;/b&gt;는 허용되지 않습니다.</text>
+		<text id="advancedPreferences.cb.hideFolders" h="56731DD2">다음 폴더 숨기기:</text>
+		<text id="advancedPreferences.group.OpenSaveDialog" h="4D95ED95">열기/저장 대화 상자</text>
+		<text id="btn.addFolder.text" h="69FFFB47">폴더 만들기(&amp;C)</text>
+		<text id="btn.advancedPreferences" h="1EE42724">고급...</text>
+		<text id="btn.apply" h="51F4FB2C">적용(&amp;A)</text>
+		<text id="btn.cancelSaving" h="414AE9E8">취소(&amp;C)
+- 로컬 변경 사항을 다른 파일에 저장할 수 있습니다</text>
+		<text id="btn.checkIn" h="09996473">체크인(&amp;C)</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">체크인 및 체크 아웃 유지(&amp;H)</text>
+		<text id="btn.clearLogs" h="848E003C">모두 삭제</text>
+		<text id="btn.connect" h="A79F815C">연결(&amp;O)</text>
+		<text id="btn.delete.text" h="ED580C1E">삭제(&amp;D)</text>
+		<text id="btn.discardCheckOut" h="40AC5603">체크 아웃 취소(&amp;D)</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">위로(&amp;U)</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">체크 아웃 유지(&amp;K)</text>
+		<text id="btn.navigate" h="B03F439E">탐색(&amp;N)</text>
+		<text id="btn.open" h="B1A510F0">열기(&amp;O)</text>
+		<text id="btn.openLog" h="F3E66367">열기</text>
+		<text id="btn.openLogFolder" h="0B1D9C13">폴더 열기</text>
+		<text id="btn.openWithCheckOut" h="2F774735">체크 아웃에서 열기(&amp;)</text>
+		<text id="btn.overwrite" h="FC839A4B">덮어쓰기(&amp;O)
+- 서버의 변경 내용이 손실됩니다</text>
+		<text id="btn.resetPreferences" h="A7132527">기본값으로 재설정</text>
+		<text id="btn.save" h="F363C410">저장(&amp;S)</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">저장 및 체크 아웃(&amp;S)</text>
+		<text id="btn.saveReplace" h="11BF9724">저장 및 바꾸기(&amp;R)</text>
+		<text id="btn.settings" h="563BF6B7">옵션(&amp;P)...</text>
+		<text id="btn.signOut" h="645CEBE2">로그 아웃(&amp;I)</text>
+		<text id="btn.reloadAndCheckOut" h="1E1A625F">새로고침 및 체크아웃(&amp;R)
+- 서버에서 로컬 복사본 업데이트</text>
+		<text id="btn.reloadLostYourChangesAndCheckOut" h="6097C49C">새로고침 및 체크아웃(&amp;R)
+- 로컬 변경 사항을 잃게됩니다</text>
+		<text id="btn.cancelCheckOut" h="08512B92">체크아웃 취소(&amp;C)
+- 로컬 사본과 함께 유지</text>
+		<text id="btn.cancelOutdatedCheckOut" h="24D4C014">체크아웃 취소(&amp;C)
+- 로컬 변경 사항을 다른 파일에 저장할 수 있습니다</text>
+		<text id="cb.url.tip" h="CD81E674">주소 입력...</text>
+		<text id="cbitem.afterSave.ask" h="5F9AC292">무엇을 할지 확인</text>
+		<text id="cbitem.afterSave.checkIn" h="FA91CFF8">체크인</text>
+		<text id="cbitem.afterSave.checkInCheckOut" h="C236E112">체크인 및 체크 아웃 우지</text>
+		<text id="cbitem.afterSave.keepCheckOut" h="F4487016">체크 아웃 유지</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.ask" h="5F9AC292">무엇을 할지 확인</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.discardCheckOut" h="CA75DE00">체크 아웃 취소</text>
+		<text id="cbitem.closeDoesNotNeedCheckIn.keepCheckOut" h="F4487016">체크 아웃 유지</text>
+		<text id="cbitem.closeNeedCheckIn.ask" h="5F9AC292">무엇을 할지 확인</text>
+		<text id="cbitem.closeNeedCheckIn.checkIn" h="FA91CFF8">체크인</text>
+		<text id="cbitem.closeNeedCheckIn.checkInCheckOut" h="C236E112">체크인 및 체크 아웃 유지</text>
+		<text id="cbitem.closeNeedCheckIn.keepCheckOut" h="B1F294B6">체크 아웃 유지</text>
+		<text id="cbitem.defaultCheckInType.major" h="D5227ED6">메이저 버전 증가</text>
+		<text id="cbitem.defaultCheckInType.minor" h="5B8ED168">마이너 버전 증가</text>
+		<text id="cbitem.defaultCheckInType.overwrite" h="05A502D0">버전을 변경하지 않고 덮어쓰기</text>
+		<text id="cbitem.logLevel.error" h="A393623F">오류만</text>
+		<text id="cbitem.logLevel.information" h="2039C12A">모든 정보</text>
+		<text id="cbitem.logLevel.none" h="1E317BDF">로깅 없음</text>
+		<text id="cbitem.logLevel.verbose" h="C7EEABE5">전체 상세 정보 로깅</text>
+		<text id="cbitem.logLevel.warning" h="427C1C47">경고 및 오류</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.ask" h="5F9AC292">무엇을 할지 확인</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.checkOut" h="95775966">열기 및 체크 아웃</text>
+		<text id="cbitem.whenOpenDocumentCheckoutNone.open" h="38A34D1A">체크 아웃하지 않고 열기</text>
+		<text id="cbitem.whenSaveConflict.ask" h="5F9AC292">무엇을 할지 확인</text>
+		<text id="cbitem.whenSaveConflict.cancel" h="554F5523">서버에 저장 취소</text>
+		<text id="cbitem.whenSaveConflict.overwrite" h="B67489D8">서버 버전 덮어쓰기</text>
+		<text id="check.dontShowThisMessageAgain" h="AC16D0EE">이 메시지를 다시 표시하지 않기</text>
+		<text id="check.whenOpenDocumentCheckoutNoneDisableEditing" h="778336E0">편집 사용 안 함</text>
+		<text id="check.whenOpenDocumentCheckoutNoneShowWarning" h="E97BFF00">경고 메시지 표시</text>
+		<text id="checkInDialog.typeRaio.Major" h="55515597">메이저 버전 증가(&amp;A)</text>
+		<text id="checkInDialog.typeRaio.Minor" h="DBFDFA29">마이너 버전 증가(&amp;I)</text>
+		<text id="checkInDialog.typeRaio.Overwrite" h="FE98B944">버전을 변경하지 않고 덮어 쓰기</text>
+		<text id="cmd.checkIn" h="AEF235ED">체크인(&amp;I)</text>
+		<text id="cmd.checkIn.tip" h="C9DCA405">SharePoint에 문서 파일을 체크인합니다.</text>
+		<text id="cmd.checkOut" h="E6A87AFE">체크 아웃(&amp;O)</text>
+		<text id="cmd.checkOut.tip" h="E1B64D30">SharePoint에서 문서 파일을 체크 아웃합니다.</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">체크 아웃 취소(&amp;D)</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">SharePoint에서 체크 아웃된 파일을 삭제합니다.</text>
+		<text id="cmd.enableEditing" h="340AFFD4">편집 사용(&amp;E)</text>
+		<text id="cmd.enableEditing.tip" h="8A29948D">편집 및 대화식 기능을 사용합니다.</text>
+		<text id="cmd.open" h="68595810">SharePoint(&amp;P)...</text>
+		<text id="cmd.open.tip" h="007B7200">SharePoint에서 문서를 엽니다.</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">파일 정보 준비(&amp;I)</text>
+		<text id="cmd.prepareFileInfo.tip" h="E609EA07">SharePoint에서 파일 정보 준비</text>
+		<text id="cmd.save" h="68595810">SharePoint(&amp;P)...</text>
+		<text id="cmd.save.tip" h="C48C1C25">활성 문서를 SharePoint에 저장합니다.</text>
+		<text id="cmd.share_point" h="B7423C0E">SharePoint(&amp;P)</text>
+		<text id="cmd.share_point.tip" h="CA99078B">SharePoint에서 문서 작업</text>
+		<text id="defaultCheckInComment" h="4EF280A5">기본 체크 인 주석:</text>
+		<text id="defaultCheckInType" h="F606FFC1">기본 체크 인 유형:</text>
+		<text id="delete.error.file" h="3C348225">SharePoint에서 &lt;b&gt;%1&lt;/b&gt; 파일을 삭제하지 못했습니다.</text>
+		<text id="delete.error.folder" h="3C348225">SharePoint에서 &lt;b&gt;%1&lt;/b&gt; 폴더를 삭제하지 못했습니다.</text>
+		<text id="delete.error.unknown" h="A3E6F83A">SharePoint에서 선택한 항목을 삭제하지 못했습니다.</text>
+		<text id="delete.progress.status" h="F729DF24">%1 / %2</text>
+		<text id="delete.progress.text.file" h="EFCE4189">&lt;b&gt;%1&lt;/b&gt; 파일 삭제 중...</text>
+		<text id="delete.progress.text.folder" h="2E89372D">&lt;b&gt;%1&lt;/b&gt; 폴더 삭제 중...</text>
+		<text id="delete.progress.text.unknown" h="367B0EA7">&lt;b&gt;%1&lt;/b&gt; 삭제 중...</text>
+		<text id="delete.progress.title" h="DFC61F07">SharePoint에서 삭제</text>
+		<text id="delete.question.file" h="F3B2380C">파일 &lt;b&gt;%1&lt;/b&gt;을(를) 삭제하시겠습니까?</text>
+		<text id="delete.question.folder" h="DA195BFA">&lt;b&gt;%1&lt;/b&gt; 폴더와 모든 내용을 삭제하시겠습니까?</text>
+		<text id="delete.question.multi" h="ACA0CEC0">%1 항목을 삭제하시겠습니까?</text>
+		<text id="delete.question.unknown" h="8C13886E">선택한 항목을 삭제하시겠습니까?</text>
+		<text id="dlg.advancedPreferences.title" h="88234689">고급 SharePoint 환경 설정</text>
+		<text id="dlg.liveLogin" h="BFADC685">실시간 로그인</text>
+		<text id="dlg.openFile" h="435887CD">파일 열기</text>
+		<text id="dlg.saveFile" h="520CB069">파일 저장</text>
+		<text id="group.Logging" h="F9DEFF33">로깅</text>
+		<text id="group.documentActions" h="C2F29B9A">문서 작업</text>
+		<text id="ibar.cannotEditEditing" h="13F24128">서버의 파일을 편집할 수 있는 권한이 없습니다. 로컬 사본으로 저장만 가능합니다.</text>
+		<text id="ibar.cannotEditNoEditing" h="52C758B6">서버의 파일을 편집할 수 있는 권한이 없습니다. 모든 편집 및 대화식 기능은 사용할 수 없습니다.</text>
+		<text id="ibar.checkedOutToMe" h="B5AF7047">파일이 체크 아웃되었습니다.</text>
+		<text id="ibar.checkedOutToOtherEditing" h="4F420124">파일이 %1에 체크 아웃되었습니다. 파일을 서버에 저장할 수 없습니다.</text>
+		<text id="ibar.checkedOutToOtherNoEditing" h="B8C2709A">파일이 %1에 체크 아웃되었습니다. 모든 편집 및 대화식 기능은 사용할 수 없습니다.</text>
+		<text id="ibar.notCheckedOutEditing" h="A4D56FD1">파일이 체크 아웃되지 않았습니다. 다른 사용자가 서버의 파일을 변경하면, 이 파일의 변경 사항을 저장할 수 없습니다.</text>
+		<text id="ibar.notCheckedOutNoEditing" h="E3EA5586">파일이 체크 아웃되지 않았습니다. 모든 편집 및 대화식 기능은 사용할 수 없습니다.</text>
+		<text id="ibar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="ibar.sharepoint.description" h="6F2E3CDD">SharePoint 문서 컨텍스트 정보 및 작업</text>
+		<text id="ibar.sharepoint.title" h="C3F43468">SharePoint 문서</text>
+		<text id="lb.afterSave" h="B8FD9751">문서가 저장되는 경우:</text>
+		<text id="lb.checkInComment" h="694DD18A">주석 (선택 사항):</text>
+		<text id="lb.closeDoesNotNeedCheckIn" h="293982D2">변경 없이 체크 아웃된 문서를 닫을 때:</text>
+		<text id="lb.closeNeedCheckIn" h="32249D2D">변경 내용으로 체크 아웃된 문서를 닫을 때:</text>
+		<text id="lb.currentLogFile" h="79D35843">현재 로그:</text>
+		<text id="lb.name" h="F7B9E475">파일 이름:</text>
+		<text id="lb.numberOfDaysToStoreLogs" h="E12F4F23">로그 저장 일수:</text>
+		<text id="lb.sharePointPlaceUrl" h="F900769A">SharePoint URL:</text>
+		<text id="lb.sharePointPlaceValidUrl" h="9BFA1D20">SharePoint 서버에 연결하지 못했습니다. 인터넷 연결 및 지정된 서버 URL을 확인합니다.</text>
+		<text id="lb.whenOpenDocumentCheckoutNone" h="D9B6115E">누구에게도 체크 아웃되지 않은 문서를 열 때:</text>
+		<text id="lb.whenOpenDocumentCheckoutOther" h="4C458F62">다른 사용자가 체크 아웃된 문서를 열 때:</text>
+		<text id="lb.whenOpenDocumentWithoutWritePermissions" h="88CBE154">쓰기 권한이 없는 문서를 열 때:</text>
+		<text id="lb.whenSaveConflict" h="6DA89C17">서버에서 변경된 문서를 저장하는 경우:</text>
+		<text id="ls.column.created" h="FE6510B7">만든 날짜</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">파일, 폴더 또는 목록을 만든 날짜와 시간</text>
+		<text id="ls.column.extension" h="14FEB836">확장명</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">파일 확장명</text>
+		<text id="ls.column.modified" h="691C3610">수정한 날짜</text>
+		<text id="ls.column.modified.hint" h="12933E76">파일, 폴더 또는 목록이 마지막으로 수정한 날짜와 시간</text>
+		<text id="ls.column.size" h="17A58A52">크기</text>
+		<text id="ls.column.size.hint" h="E79CA174">파일 크기</text>
+		<text id="ls.column.title" h="D18643E3">이름</text>
+		<text id="ls.column.title.hint" h="81F4F728">파일 이름, 폴더 이름 또는 목록 제목</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">닫기 전에 파일 &lt;b&gt;%1&lt;/b&gt;을(를) 체크인하시겠습니까? 이렇게하면, 다른 사용자가 변경할 수 있습니다.</text>
+		<text id="msg.askForCheckOutOnOpen" h="B185C3DF">다른 사용자가 파일을 "읽기 전용"으로 설정하여 파일을 안전하게 변경하고 SharePoint에 저장하거나 다른 사용자가 변경할 수 있도록 파일 &lt;b&gt;%1&lt;/b&gt;을 열어서 체크 아웃할 수 있습니다. 파일을 변경하고 저장하려고하면 충돌이 발생할 수 있습니다.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">파일 &lt;b&gt;%1&lt;/b&gt;이 체크 아웃되었습니다. 체크 아웃을 취소하고 다른 사용자가 파일을 편집하도록 허용하시겠습니까?</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">체크인 파일 &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="msg.checkInFailed" h="3E327B8B">&lt;b&gt;%1&lt;/b&gt; 파일을 체크인하지 못했습니다.이 파일이 존재하고 체크 아웃되었는지 확인합니다.</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">&lt;b&gt;%1&lt;/b&gt; 파일을 체크 아웃하지 못했습니다. 이 파일이 서버에 있고, 다른 사용자에게서 체크 아웃되지 않았는지 확인합니다.</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">사용자 "%2"에게 체크 아웃되었으므로 체크 아웃과 함께 파일 &lt;b&gt;%1&lt;/b&gt;을(를) 열 수 없습니다.</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">&lt;b&gt;%1&lt;/b&gt; 파일을 사용자 "%2"에게서 체크 아웃되었습니다. 체크 아웃하지 않는한, 이 파일을 SharePoint에 저장할 수 없지만, 다른 위치에 변경 내용을 저장할 수는 있습니다.</text>
+		<text id="msg.connectError" h="18DFEDBE">SharePoint 서버에 연결하지 못했습니다. 인터넷 연결, 서버 주소 및 필수 SharePoint 리소스에 대한 액세스 권한을 확인합니다.</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">&lt;b&gt;%1&lt;/b&gt; 파일의 체크 아웃 상태를 삭제하지 못했습니다. 이 파일이 존재하고 체크 아웃되어 있는지 확인합니다.</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">이 파일에 대한 편집 권한이 없기 때문에 &lt;b&gt;%1&lt;/b&gt; 파일을 체크 아웃할 수 없습니다.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">이 파일에 대한 편집 권한이 없으므로 &lt;b&gt;%1&lt;/b&gt; 파일을 체크 아웃할 수 없습니다.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">이 파일에 대한 편집 권한이 없기 때문에 &lt;b&gt;%1&lt;/b&gt; 파일을 편집할 수 없습니다.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">&lt;b&gt;%1&lt;/b&gt; 파일을 저장하기 전에 체크 아웃해야하지만, 이 파일에 대한 편집 권한이 없습니다.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="C492B710">이 파일에 대한 편집 권한이 없으므로 &lt;b&gt;%1&lt;/b&gt; 파일을 SharePoint에 저장할 수 없습니다.</text>
+		<text id="msg.fileNotFound" h="381368F8">파일 &lt;b&gt;%1&lt;/b&gt;을(를) 현재 폴더에서 찾을 수 없습니다</text>
+		<text id="msg.invalidFileName" h="6BAFE9F2">&lt;b&gt;%1&lt;/b&gt;은(는) 올바른 파일 이름이 아닙니다. 파일 이름에는 &lt;b&gt;%2&lt;/b&gt; 문자를 사용할 수 없습니다.</text>
+		<text id="msg.navigateError" h="CF23B4B6">SharePoint 리소스를 탐색하지 못했습니다. 인터넷 연결, 서버 주소 및 필수 SharePoint 리소스에 대한 액세스 권한을 확인합니다.</text>
+		<text id="msg.openFailed" h="34DE1259">파일을 열지 못했습니다. 이 파일이 있고 다른 사용자에게 체크 아웃되지 않았는지 그리고 파일에 액세스하는 데 필요한 권한이 있는지 확인합니다.</text>
+		<text id="msg.outdatedFileOnWrite" h="F762A6D3">다운로드한 문서는 &lt;b&gt;%1&lt;/b&gt;에 변경된 내용을 포함하고 있지만, 서버는 &lt;b&gt;%2&lt;/b&gt;에 변경된 새로운 내용을 포함하고 있습니다. 변경 내용을 새 파일에 저장한 후 SharePoint에서 체크아웃한 최신 문서를 열고 변경 내용을 병합한 후 서버에 저장합니다.</text>
+		<text id="msg.outdatedFileOnWrite.question" h="5F57CFBC">이 문서의 로컬 복사본은 최근에 &lt;b&gt;%1&lt;/b&gt; 사용자가 %&lt;b&gt;%2&lt;/b&gt;에 의해 서버에서 변경되었기 때문에 이 문서를 연 이후로 최신 상태가 아닙니다.
+'덮어쓰기'를 클릭하여 서버의 문서 버전을 로컬 버전으로 바꾸거나&lt;b&gt;(그러나 %1 사용자는 최신 변경 내용을 취소함)&lt;/b&gt; '취소'를 클릭하여 기존 버전의 문서를 서버에 유지할 수 있습니다(나중에 로컬 버전을 다른 파일에 저장할 수 있음).</text>
+		<text id="msg.outdatedFileOnCheckout.question" h="E700325C">이 문서의 로컬 복사본은 열린 이후 서버에서 최근에 &lt;b&gt;%1&lt;/b&gt;사용자가 &lt;b&gt;%2&lt;/b&gt;(으)로 변경했기 때문에 최신 버전이 아닙니다</text>
+		<text id="msg.outdatedModifiedFileOnCheckout.question" h="736B2C99">이 문서의 로컬 복사본은 최근에 &lt;b&gt;%1&lt;/b&gt; 사용자가 %&lt;b&gt;%2&lt;/b&gt;에 의해 서버에서 변경되었기 때문에 이 문서를 연 이후로 최신 상태가 아닙니다. 로컬 버전도 수정했습니다.
+'다시 로드'를 클릭하여 서버에서 로컬 복사본을 업데이트하거나 &lt;b&gt;(로컬 변경 사항을 잃어 버리게됨)&lt;/b&gt;, '취소'를 클릭하여 로컬 버전을 유지할 수 있습니다 (나중에 변경 사항을 다른 파일에 저장할 수 있음).</text>
+		<text id="msg.saveFailed" h="967D2A64">파일을 저장하지 못했습니다. 파일 이름이 유효하고 파일이 다른 사용자에게 체크 아웃되지 않았으며 파일을 편집하는 데 필요한 권한이 있는지 확인합니다.</text>
+		<text id="msg.saveReplace" h="B1889DFB">파일 &lt;b&gt;%1&lt;/b&gt;이(가) 이미 있습니다. 바꾸시겠습니까?</text>
+		<text id="msg.signOutError" h="0E6A5F45">SharePoint 서버에서 현재 사용자를 로그 아웃하지 못했습니다. 그러나, 인증 요청 없이 SharePoint에 계속 액세스할 수는 있습니다.</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="69F2FCB2">파일 &lt;b&gt;%1&lt;/b&gt;를 열고 있지만, 이 파일의 편집 권한이 없습니다. 필요한 권한이 없는 한, SharePoint에 변경 내용을 저장할 수 없습니다.</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">&lt;b&gt;%1&lt;/b&gt; 파일을 사용자 "%2"에게 체크 아웃했습니다. "%2"의 체크 아웃 상태를 삭제하지 않으면, 이 파일을 SharePoint에 저장할 수 없습니다. "%2"을(를) 변경 사항으로 파일을 체크인하면 변경 충돌이 발생합니다.</text>
+		<text id="opt.dontShowAgain" h="492B5D79">이 메시지를 다시 표시하지 않기(&amp;D)</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">SharePoint</text>
+		<text id="str.sharePoint" h="56A5F9B3">SharePoint</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20211012163843">2.00.00</Version>
+	<Author>Shao-Hsiu HSU</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Chinese (Traditional, Taiwan)" lName="中文(繁體)" code="zh-TW" R2L="false"/>
+	<Module name="AzureRMS" namespace="msrms" version="9.1.357.0"/>
+	<Strings>
+		<text id="UserIdentity.title" h="176AEDC1">Microsoft Azue 資訊保護</text>
+		<text id="btn.next" h="3A4ABB6E">下一步(&amp;N)</text>
+		<text id="cmd.protect" h="228A9168">保護</text>
+		<text id="cmd.protect.tip" h="176AEDC1">Microsoft Azue 資訊保護</text>
+		<text id="rbar.protect.title" h="43C83177">MS RMS 權限管理服務</text>
+		<text id="secure.handler.name" h="176AEDC1">Microsoft Azue 資訊保護</text>
+		<text id="uid.email.cue" h="2334460A">你的電子郵箱</text>
+		<text id="uid.label1" h="8E83CAEB">這個檔案受到Microsoft Azure資訊保護的防護</text>
+		<text id="uid.pick" h="DCF6A308">請選取帳號</text>
+		<text id="uid.email" h="5B5BF151">請鍵入你的電子郵箱</text>
+		<text id="uid.label2" h="A1DC8236">*你將在下一步驟被提示 Microsoft的驗證。
+如果此帳號以前被核對過，則下一步將會跳過。</text>
+		<text id="uid.remember" h="A77974A7">記住我的帳號(&amp;R)</text>
+		<text id="uid.add" h="D5E24D76">使用另一個帳號</text>
+		<text id="ibar.label.classified" h="9B716F59">這份文件被Microsoft資訊保護歸類為: </text>
+		<text id="ibar.label.protected" h="8CBF20A7">這份文件受到Microsoft資訊保護的防護，標示為: </text>
+		<text id="info.protected" h="A49B0FCD">這份文件受到Microsoft資訊保護</text>
+		<text id="info.protectedWithLabel" h="8A425C7C">這份文件受到Microsoft資訊保護的防護。
+
+套用標籤: </text>
+	</Strings>
+</Localization>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20211012163836">2.00.00</Version>
+	<Author>Andy Chen, Hsueh Ching</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Chinese (Traditional, Taiwan)" lName="中文(繁體)" code="zh-TW" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="9.1.357.0"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">從 Google 雲端硬碟開啟檔案</text>
+		<text id="DlgSaveFile" h="81F99046">儲存檔案到 Google 雲端硬碟</text>
+		<text id="GDPlugin" h="32B7E3E0">Google 雲端硬碟外掛</text>
+		<text id="addFolder.message" h="940CF2FA">鍵入新資料夾名稱</text>
+		<text id="addFolder.title" h="42CD8D51">建立資料夾</text>
+		<text id="addFolderError.message" h="A6367553">在Google Drive上建立資料夾失敗。請檢查您的網路連線和訪問許可權。</text>
+		<text id="addFolderError.title" h="DDB9C8A8">不能建立資料夾</text>
+		<text id="btn.addFolder.text" h="69FFFB47">建立資料夾(&amp;C)</text>
+		<text id="btn.connectToAnother" h="508BDBC5">切換帳號...</text>
+		<text id="btn.delete.text" h="ED580C1E">刪除(&amp;D)</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">向上(&amp;U)</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google 雲端硬碟</text>
+		<text id="cmd.googledrive" h="1D28DF85">Google 雲端硬碟(&amp;G)</text>
+		<text id="cmd.open" h="F32ECED5">Google 雲端硬碟(&amp;G)...</text>
+		<text id="cmd.open.tip" h="933837A2">從 Google 雲端硬碟開啟文件</text>
+		<text id="cmd.save" h="F32ECED5">Google 雲端硬碟(&amp;G)...</text>
+		<text id="cmd.save.tip" h="948C3269">儲存當前文件到 Google 雲端硬碟</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">找不到檔案</text>
+		<text id="cpt.invalidFileName" h="79C1387C">檔名無效</text>
+		<text id="cpt.navigateError" h="3D300A1C">無法導航</text>
+		<text id="cpt.saveReplace" h="520CB069">儲存檔案</text>
+		<text id="cpt.selectFile" h="C55D68B0">選擇檔案</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">無法儲存檔案到資料夾</text>
+		<text id="delete.message" h="16714AA7">“您想刪除%1"%2"?”</text>
+		<text id="delete.title" h="FC00502F">"刪除項目"</text>
+		<text id="deleteError.message" h="109E94B7">不能在Google Drive源中刪除 %1 "%2". %3</text>
+		<text id="deleteError.reason" h="81A03554">請檢查您的網路連線和訪問Google Drive的許可權。</text>
+		<text id="deleteError.title" h="002A7E1A">不能刪除專案</text>
+		<text id="deleteError.unknownItem.message" h="B0869235">不能在Google Drive源刪除專案.%1</text>
+		<text id="deleteMulti.message" h="7340678F">"您想在 Google Drive上從資料夾 "%2 刪除項目 %1 "?"</text>
+		<text id="deleteMulti.progress" h="7A18F8DD">刪除專案 #%1 共 %2"</text>
+		<text id="deleteMulti.progress.title" h="3AED7560">"從Google Drive刪除"</text>
+		<text id="deleteSingle.progress" h="B781BCCF">刪除%1 "%2""</text>
+		<text id="deleteSingle.progress.title" h="E1F369F2">"從Google Drive刪除"</text>
+		<text id="dlg.googleAuth" h="E5642F22">Google 雲端硬碟驗證</text>
+		<text id="file" h="AFFADF08">檔案</text>
+		<text id="fileName" h="DEC92488">檔名：</text>
+		<text id="folder" h="1DAC8D17">資料夾</text>
+		<text id="lb.CurrentFolder" h="44158804">當前資料夾:</text>
+		<text id="lb.Test" h="273F3E5B">測試 測試 測試！</text>
+		<text id="lb.googleAccName" h="C94645A3">Google 賬號:</text>
+		<text id="ls.column.created" h="FE6510B7">建立日期</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">建立檔案、資料夾、列表的日期和時間</text>
+		<text id="ls.column.extension" h="14FEB836">副檔名</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">副檔名</text>
+		<text id="ls.column.modified" h="7E234D6D">修改日期</text>
+		<text id="ls.column.modified.hint" h="12933E76">最後修改檔案、資料夾、列表的日期和時間</text>
+		<text id="ls.column.size" h="17A58A52">大小</text>
+		<text id="ls.column.size.hint" h="9C4BD847">檔案大小</text>
+		<text id="ls.column.title" h="D18643E3">名稱</text>
+		<text id="ls.column.title.hint" h="6A895576">檔案、資料夾名或列表標題</text>
+		<text id="msg.fileNotFound" h="430E08B1">當前資料夾下找不到檔案 “%1”</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" 是無效的檔名.</text>
+		<text id="msg.navigateError" h="2FCAA72A">無法導航到 Google 雲端硬碟資源。請檢查您的網際網路連線和訪問請求的 Google 雲端硬碟資源的許可權。</text>
+		<text id="msg.openFailed" h="AC94D960">無法開啟檔案。請確保檔案存在，未被其他使用者簽出並且你有讀取許可權。</text>
+		<text id="msg.saveFailed" h="4D413392">無法儲存檔案。請確保檔名有效並且你有寫入許可權。</text>
+		<text id="msg.saveReplace" h="5D56833E">檔案 “%1” 已存在。你是否要替換它？</text>
+		<text id="msg.selectFile" h="2530C20F">請選擇檔案，然後點選確定</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">無法將檔案儲存到選定的位置。請選擇 "我的雲端硬碟" 資料夾，它的一個子資料夾或者 "與我共享" 的子資料夾來儲存檔案.</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">我的雲端硬碟</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">與我共享</text>
+		<text id="unableUploadFile" h="4B0B6791">無法上傳該檔案。</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20211012163837">2.00.00</Version>
+	<Author>Andrius Balsevičius (andrius@geocad.lt)</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Lithuanian (Lithuania)" lName="lietuvių" code="lt-LT" R2L="false"/>
+	<Module name="OneDrivePlugin" namespace="od" version="9.1.357.0"/>
+	<Strings>
+		<text id="DlgOpenFile" h="F5F0D3C4">Atverti failą iš OneDrive.</text>
+		<text id="DlgSaveFile" h="8E6D35E7">Išsaugoti failą OneDrive.</text>
+		<text id="GDPlugin" h="55E9533C">OneDrive disko papildinys</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Naujas prisijungimas...</text>
+		<text id="cmd.cmdsCategory" h="A8DDA089">OneDrive</text>
+		<text id="cmd.onedrive" h="FBE7A43C">&amp;OneDrive</text>
+		<text id="cmd.open" h="C3A80FF4">&amp;OneDrive...</text>
+		<text id="cmd.open.tip" h="03DE0A0A">Atverti dokumentą iš OneDrive.</text>
+		<text id="cmd.save" h="C3A80FF4">&amp;OneDrive...</text>
+		<text id="cmd.save.tip" h="BC9750BB">Išsaugoti dokumentą į OneDrive.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Failas nerastas</text>
+		<text id="cpt.invalidFileName" h="79C1387C">"Neteisingas failo pavadinimas</text>
+		<text id="cpt.navigateError" h="3D300A1C">Naršymo klaida</text>
+		<text id="cpt.saveReplace" h="520CB069">Išsaugoti failą</text>
+		<text id="cpt.selectFile" h="C55D68B0">Pasirenkamas failas</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Nepavyko įrašyti failo į aplanką</text>
+		<text id="dlg.Auth" h="6D5E22C0">OneDrive autentifikavimas</text>
+		<text id="fileName" h="DEC92488">Failo pavadinimas:</text>
+		<text id="lb.CurrentFolder" h="44158804">Dabartinis aplankas:</text>
+		<text id="lb.Test" h="273F3E5B">Testas Testas Testas!</text>
+		<text id="lb.onedriveAccName" h="740F2198">OneDrive paskyra:</text>
+		<text id="ls.column.created" h="FE6510B7">Sukūrimo data</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Failo, aplanko ar sąrašo sukūrimo data ir laikas</text>
+		<text id="ls.column.extension" h="14FEB836">Pratęsimas</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Failo plėtinys</text>
+		<text id="ls.column.modified" h="7E234D6D">Pakeitimo data</text>
+		<text id="ls.column.modified.hint" h="12933E76">Data ir laikas, kada failas, aplankas arba sąrašas buvo paskutinį kartą modifikuotas</text>
+		<text id="ls.column.size" h="17A58A52">Dydis</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Failo dydis</text>
+		<text id="ls.column.title" h="D18643E3">Pavadinimas</text>
+		<text id="ls.column.title.hint" h="6A895576">Failo pavadinimas, aplanko pavadinimas arba sąrašo pavadinimas</text>
+		<text id="msg.fileNotFound" h="430E08B1">Failas „%1“ dabartiniame aplanke nerastas.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">„%1“ nėra tinkamas failo pavadinimas.</text>
+		<text id="msg.navigateError" h="9C1CD106">Nepavyko pereiti į OneDrive. Patikrinkite savo interneto ryšį ir teises, kad galėtumėte pasiekti prašomą OneDrive išteklių.</text>
+		<text id="msg.openFailed" h="AC94D960">Nepavyko atverti failo. Įsitikinkite, kad failas egzistuoja, nėra išregistruotas kitam vartotojui ir turite jo skaitymo teises.</text>
+		<text id="msg.saveFailed" h="4D413392">Nepavyko išsaugoti failo. Įsitikinkite, kad failo pavadinimas galioja ir turite jam rašymo teises.</text>
+		<text id="msg.saveReplace" h="5D56833E">Failas %1 jau egzistuoja. Ar norite tai pakeisti?</text>
+		<text id="msg.selectFile" h="2530C20F">Prieš paspausdami OK, pasirinkite failą</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Failo negalima išsaugoti pasirinktoje vietoje. Norėdami išsaugoti failą, pasirinkite aplanką „Mano diskas“, vieną iš jo poaplankių arba vieną iš poaplankių „Bendrinama su manimi“.</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">Mano diskas</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Pasidalinta su manimi</text>
+		<text id="addFolder.title" h="42CD8D51">Sukurti aplanką</text>
+		<text id="addFolder.message" h="940CF2FA">Įveskite naują aplanko pavadinimą</text>
+		<text id="addFolderError.title" h="DDB9C8A8">Nepavyko sukurti aplanko</text>
+		<text id="addFolderError.message" h="E37B3660">Nepavyko sukurti aplanko OneDrive. Patikrinkite savo interneto ryšį ir teises, kad galėtumėte pasiekti prašomą OneDrive išteklių.</text>
+		<text id="btn.addFolder.text" h="69FFFB47">&amp;Sukurti aplanką</text>
+		<text id="deleteError.title" h="002A7E1A">Nepavyko ištrinti elemento</text>
+		<text id="deleteError.message" h="ABCC0ED6">Nepavyko ištrinti %1 "%2" iš OneDrive išteklių. %3</text>
+		<text id="deleteError.reason" h="09E96BF8">Patikrinkite savo interneto ryšį ir teises, kad galėtumėte pasiekti prašomą OneDrive išteklių.</text>
+		<text id="btn.delete.text" h="ED580C1E">&amp;Ištrinti</text>
+		<text id="btn.folder.up.text" h="FDE69FB2">&amp;Aukštyn</text>
+		<text id="file" h="AFFADF08">failas</text>
+		<text id="folder" h="1DAC8D17">aplankas</text>
+		<text id="deleteError.unknownItem.message" h="D27D16CB">Nepavyko ištrinti elemento OneDrive. %1</text>
+		<text id="delete.title" h="FC00502F">"Ištrinti elementą (-us)"</text>
+		<text id="delete.message" h="16714AA7">"Ar norite ištrinti %1 "%2"?"</text>
+		<text id="deleteMulti.message" h="806F170A">"Ar norite ištrinti %1 elementą iš aplanko "%2" OneDrive šaltinyje?"</text>
+		<text id="deleteMulti.progress" h="7A18F8DD">"Trinamas elementas #%1 iš %2"</text>
+		<text id="deleteMulti.progress.title" h="CE70C7AD">„Elementų ištrynimas iš OneDrive“</text>
+		<text id="deleteSingle.progress" h="B781BCCF">"Trinama %1 "%2""</text>
+		<text id="deleteSingle.progress.title" h="448891FC">„Elementas ištrinamas iš OneDrive“</text>
+	</Strings>
+</Localization>

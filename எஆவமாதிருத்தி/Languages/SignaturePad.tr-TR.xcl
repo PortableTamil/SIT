@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20220414000750">2.00.00</Version>
+	<Author>Osman ÖZ</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Turkish (Turkey)" lName="Türkçe" code="tr-TR" R2L="false"/>
+	<Module name="SignaturePad" namespace="sigpad" version="9.3.361.0"/>
+	<Strings>
+		<text id="btn.clear" h="8A6A002B">&amp;Temizle</text>
+		<text id="dgl.drawsign.title" h="8BE10CB7">İmza Çiz</text>
+		<text id="signature.pad" h="1CB89F08">İmza Pedi</text>
+		<text id="signature.pad.desc" h="B2E4D573">İmzalar oluşturmak için bilgisayarınızdaki İmza Pedini kullanın</text>
+		<text id="msg.nodevice" h="69EAAE3A">Kullanılabilir &lt;i&gt;desteklenen cihaz&lt;/i&gt; yok.
+
+Lütfen cihazın bağlı olup olmadığını ve geçerli
+sürücülerin yüklü olup olmadığını kontrol edin,
+sonra tekrar deneyin.</text>
+	</Strings>
+</Localization>

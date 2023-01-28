@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20211012163840">2.00.00</Version>
+	<Author>Osman Öz</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Turkish (Turkey)" lName="Türkçe" code="tr-TR" R2L="false"/>
+	<Module name="CSVToPDFPlugin" namespace="csv" version="9.1.357.0"/>
+	<Strings>
+		<text id="DlgCSVToPDF" h="159649A7">CSV'den  PDF'ye</text>
+		<text id="converter.desc" h="967CBC0E">CSV dosyalarını PDF Belgesi içindeki tablolara dönüştürür</text>
+		<text id="autoInfo" h="27598254">Değerleri düzenlemek için lütfen otomatik sütun genişliği hesaplamasını kapatın.</text>
+		<text id="ctp.chb.autoDelimiter" h="BFABCE78">Sınırlandırıcıyı verilere göre otomatik hesapla</text>
+		<text id="ctp.chb.boldHeaders" h="AB4D23E9">Başlık metni için kalın yazı tipi kullan</text>
+		<text id="ctp.chb.calcWidth" h="C8B58489">Verilere göre sütun genişliklerini otomatik olarak hesapla</text>
+		<text id="ctp.chb.drawBorder" h="1C2186D3">Tablo kenarlığı çiz</text>
+		<text id="ctp.chb.headersOnEachPage" h="9413CFF2">Her sayfaya tablo başlığı çiz</text>
+		<text id="ctp.chb.showDialogOnOpen" h="D10EC9DE">CSV dosyasını açarken bu iletişim kutusunu göster</text>
+		<text id="ctp.g.Margins" h="62C950A2">Kenar Boşlukları</text>
+		<text id="ctp.g.delimiterAndQuotes" h="A6EFA0C6">Sınırlayıcı ve Alıntılar</text>
+		<text id="ctp.g.pageSettings" h="D82087B4">Sayfa Ayarları</text>
+		<text id="ctp.g.style" h="C091D68E">Stil</text>
+		<text id="ctp.l.borderWidth" h="457515E3">Kenar genişliği:</text>
+		<text id="ctp.l.bottom" h="C711C97A">Alt:</text>
+		<text id="ctp.l.delimiter" h="3480C690">Sınırlayıcı:</text>
+		<text id="ctp.l.left" h="FC2BB3FB">Sol:</text>
+		<text id="ctp.l.quotes" h="F5FEAC85">Alıntılar:</text>
+		<text id="ctp.l.right" h="FD30D9F1">Sağ:</text>
+		<text id="ctp.l.top" h="99A7C1A9">Üst:</text>
+		<text id="ctp.lst.calcWidth.header" h="608B00E9">Üstbilgi</text>
+		<text id="ctp.lst.calcWidth.width" h="DADE8BD3">Genişlik (%1)</text>
+		<text id="ctp.previewCtl.noDocTip" h="55E892D4">Belge yükleniyor...</text>
+		<text id="message.marginsWarning" h="4388F5CE">Kenar boşlukları çok büyük</text>
+		<text id="message.warning" h="E7AD7A2B">Uyarı</text>
+		<text id="newDocFromCSV" h="602EDA1B">CSV Dosyasından...</text>
+		<text id="prop.source" h="A2415BEA">CSV Dosyaları</text>
+	</Strings>
+</Localization>

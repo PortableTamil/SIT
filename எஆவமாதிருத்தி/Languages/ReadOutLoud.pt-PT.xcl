@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20190319232845">2.00.00</Version>
+	<Author>Nelson Vladimiro Nunes Amaral</Author>
+	<Copyright>Nelson Vladimiro ©
+
+nvladimiro@gmail.com</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Portuguese (Portugal)" lName="português" code="pt-PT" R2L="false"/>
+	<Module name="ReadOutLoud" namespace="speech" version="8.0.329.0"/>
+	<Strings>
+		<text id="opt.btn.test" h="D799C8E8">Ler este &amp;texto</text>
+		<text id="opt.cb.defAttr" h="232D9E03">Utilizar &amp;atributos padrão da voz</text>
+		<text id="opt.cb.defVoice" h="57A5382A">Utilizar voz padrão</text>
+		<text id="opt.cb.readComments" h="070A2526">Ler os comentários</text>
+		<text id="opt.cb.readFields" h="4331E3A2">Ler os campos de formulários</text>
+		<text id="opt.group.title" h="54357DDF">Definições da leitura em voz alta</text>
+		<text id="opt.l.max" h="284585D5">Máx</text>
+		<text id="opt.l.min" h="F16918ED">Min</text>
+		<text id="opt.l.pitch" h="A6915A2C">Tom:</text>
+		<text id="opt.l.rate" h="10B1E128">Velocidade:</text>
+		<text id="opt.l.voice" h="5026E016">Voz:</text>
+		<text id="opt.l.volume" h="8C0E20F2">Volume:</text>
+		<text id="opt.l.wpm" h="9421CA7D">palavras por minuto</text>
+		<text id="opt.test.title" h="44732FAA">Testar</text>
+		<text id="prefs.name" h="06D67BEF">Discurso</text>
+		<text id="prefs.tips" h="110DB02C">Opções de discurso</text>
+		<text id="prefs.title" h="110DB02C">Opções de discurso</text>
+		<text id="speech.opt.title" h="54357DDF">Opções de Leitura em Alta Voz</text>
+		<text id="test.text" h="6B245451">A raposa castanha rápida saltou sobre o cão preguiçoso.</text>
+		<text id="cmd.readSelection" h="D503AA0C">Ler o texto selecionado em voz alta</text>
+		<text id="cmd.readStop" h="06B322F6">Parar leitura</text>
+		<text id="cmd.category" h="A1EB605F">Leitura em voz alta</text>
+	</Strings>
+</Localization>

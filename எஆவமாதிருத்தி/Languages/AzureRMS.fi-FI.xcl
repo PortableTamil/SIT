@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20211012163843">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Finnish (Finland)" lName="suomi" code="fi-FI" R2L="false"/>
+	<Module name="AzureRMS" namespace="msrms" version="9.1.357.0"/>
+	<Strings>
+		<text id="UserIdentity.title" h="176AEDC1">Microsoft Azure Information Protection</text>
+		<text id="btn.next" h="3A4ABB6E">Seuraava...</text>
+		<text id="cmd.protect" h="228A9168">Suojaa</text>
+		<text id="cmd.protect.tip" h="176AEDC1">Microsoft Azure Information Protection</text>
+		<text id="rbar.protect.title" h="43C83177">MS RMS</text>
+		<text id="secure.handler.name" h="176AEDC1">Microsoft Azure Information Protection</text>
+		<text id="uid.email.cue" h="2334460A">Sähköpostiosoitteesi</text>
+		<text id="uid.label1" h="8E83CAEB">Tämä tiedosto on suojattu Microsoft Information Protection -suojalla.</text>
+		<text id="uid.pick" h="DCF6A308">Valitse tili.</text>
+		<text id="uid.email" h="5B5BF151">Syötä sähköpostiosoitteesi.</text>
+		<text id="uid.label2" h="A1DC8236">* Sinulta kysytään Microsoft-varmistusta seuraavassa vaiheessa.
+Seuraava vaihe voidaan ohittaa, jos tili on vahvistettu aiemmin.</text>
+		<text id="uid.remember" h="A77974A7">Muista tilini</text>
+		<text id="uid.add" h="D5E24D76">Käytä toista tiliä</text>
+		<text id="ibar.label.classified" h="9B716F59">Tämä dokumentti on luokiteltu Microsoftin tietosuojalla tunnisteella:</text>
+		<text id="ibar.label.protected" h="8CBF20A7">Tämä dokumentti on suojattu Microsoftin tietosuojalla tunnisteella:</text>
+		<text id="info.protected" h="A49B0FCD">Tämä dokumentti on suojattu Microsoft Information Protection -suojalla.</text>
+		<text id="info.protectedWithLabel" h="8A425C7C">Tämä dokumentti on suojattu Microsoft Information Protection -suojalla.
+
+Käytössä tunniste:</text>
+	</Strings>
+</Localization>
