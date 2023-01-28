@@ -1,0 +1,2 @@
+disabled : contrast -25 brightness -15
+hot contrast +25 brithnes +15

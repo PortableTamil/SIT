@@ -1,0 +1,574 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx</Extensions>
+    </Filter>
+    <Filter Include="tools">
+      <UniqueIdentifier>{01a766ad-c25e-44c7-99f3-e849e1e26ddb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="about.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Logs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Options.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\String\AnsiUnicodeConvert.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\APIError\APIError.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\Gui\BrowseForFolder\BrowseForFolder.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\Clipboard\Clipboard.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\Gui\Dialog\DialogHelper.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\File\FileSearch.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\Ini\IniFile.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\Gui\ListView\Listview.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\Gui\Menu\PopUpMenu.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\Gui\Statusbar\Statusbar.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\File\StdFileOperations.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\String\StringReplace.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\Gui\SysLink\SysLink.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\File\TextFile.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\Gui\ToolBar\Toolbar.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\Version\Version.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\String\MultipleElementsParsing.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\LinkList\LinkListBase.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\LinkList\LinkListSimple.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\String\TrimString.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\String\StringConverter.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\String\SecureTcscat.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\GUI\DragAndDrop\DragAndDrop.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\CrashDump\CrashDump.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\Exception\HardwareException.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\Thread\Thread.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\SoftwareUpdate\SoftwareUpdate.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\Network\HTTP.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectColumns.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\GUI\Rebar\Rebar.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\String\OutputString.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\File\VirtualDirectory.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\String\WildCharCompare.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\LinkList\SingleThreaded\LinkListBaseSingleThreaded.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\LinkList\SingleThreaded\LinkListSimpleSingleThreaded.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\GUI\Dialog\DialogModelessProtection.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="CommandLineParsing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\Console\Win32Console.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\Exception\GenericTryCatchWithExceptionReport.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\RegularExpression\RegularExpression.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="about.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Logs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Options.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\String\AnsiUnicodeConvert.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\APIError\APIError.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\Gui\BrowseForFolder\BrowseForFolder.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\Clipboard\Clipboard.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\Gui\Dialog\DialogHelper.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\File\FileSearch.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\Ini\IniFile.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\Gui\ListView\Listview.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\Gui\Menu\PopUpMenu.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\Gui\Statusbar\Statusbar.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\File\StdFileOperations.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\String\StringReplace.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\Gui\SysLink\SysLink.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\File\TextFile.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\Gui\ToolBar\Toolbar.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\Version\Version.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\String\MultipleElementsParsing.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\LinkList\LinkListBase.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\LinkList\LinkListItem.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\LinkList\LinkListSimple.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\String\TrimString.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\String\StringConverter.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\String\SecureTcscat.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\GUI\DragAndDrop\DragAndDrop.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\CrashDump\CrashDump.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\Exception\HardwareException.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\Thread\Thread.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\SoftwareUpdate\SoftwareUpdate.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\Network\HTTP.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectColumns.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\GUI\Rebar\Rebar.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\String\OutputString.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\File\VirtualDirectory.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\String\WildCharCompare.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\LinkList\SingleThreaded\LinkListBaseSingleThreaded.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\LinkList\SingleThreaded\LinkListSimpleSingleThreaded.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\GUI\Dialog\DialogModelessProtection.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="CommandLineParsing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchInfos.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\Console\Win32Console.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\Exception\GenericTryCatchWithExceptionReport.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\RegularExpression\RegularExpression.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\About.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\About_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\cancel.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\cancel_disabled.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\cancel_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\common_startup.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\common_startup_disabled.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\common_startup_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\copy.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\copy_all.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\desktop.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\desktop_disabled.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\desktop_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\DllExportFinder.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\help.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\help_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\paypal.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\paypal_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\properties.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\replace.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\replace_disabled.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\replace_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\save.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\save_all.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\Search.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\search_dead.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\search_dead_disabled.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\search_dead_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\Search_disabled.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\Search_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\shortcut_search_replace.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\Start.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\startup.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\startup_disabled.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\startup_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\subdir.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\subdir_disabled.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\subdir_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\warning.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\check_all.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\uncheck_all.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\check_selected.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\uncheck_selected.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\txt.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\txt_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\txt_disabled.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\jump_to_explorer.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\delete.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\write.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\resolve.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\check_for_update.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\Columns.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\raw_folder.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\params.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\app.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\app_directory.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\icon.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\icon_directory.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\raw_folder_disabled.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\params_disabled.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\app_disabled.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\app_directory_disabled.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\icon_disabled.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\icon_directory_disabled.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\raw_folder_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\params_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\app_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\app_directory_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\icon_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\icon_directory_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\custom_folder.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\custom_folder_disabled.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\custom_folder_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\common_desktop.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\common_desktop_disabled.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\common_desktop_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\FullPathMode.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\FullPathMode_Disabled.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\FullPathMode_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\ReadOnly.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\ReadOnly_disabled.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\ReadOnly_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\ReplaceArgsOnly.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\ReplaceArgsOnly_disabled.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\ReplaceArgsOnly_hot.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\empty.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\CheckSuccessful.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\CheckSuccessfulDisabled.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\CheckOnError.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\CheckOnErrorDisabled.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Resource\InvertSelection.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="shortcut.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

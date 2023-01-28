@@ -1,0 +1,515 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="DebugUnicode|Win32">
+      <Configuration>DebugUnicode</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="DebugUnicode|x64">
+      <Configuration>DebugUnicode</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="ReleaseUnicode|Win32">
+      <Configuration>ReleaseUnicode</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="ReleaseUnicode|x64">
+      <Configuration>ReleaseUnicode</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{A81BBD38-6420-4456-943E-D199FC6EC929}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseUnicode|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v90</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseUnicode|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugUnicode|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugUnicode|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseUnicode|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseUnicode|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='DebugUnicode|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='DebugUnicode|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.30319.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Debug\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(Configuration)\x64\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Debug\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(Configuration)\x64\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Release\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(Configuration)\x64\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Release\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(Configuration)\x64\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkIncremental>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkIncremental>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='DebugUnicode|Win32'">$(Configuration)\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='DebugUnicode|x64'">$(Configuration)\x64\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='DebugUnicode|Win32'">$(Configuration)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='DebugUnicode|x64'">$(Configuration)\x64\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='DebugUnicode|Win32'">true</LinkIncremental>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='DebugUnicode|x64'">true</LinkIncremental>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='ReleaseUnicode|Win32'">$(Configuration)\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='ReleaseUnicode|x64'">$(Configuration)\x64\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='ReleaseUnicode|Win32'">$(Configuration)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='ReleaseUnicode|x64'">$(Configuration)\x64\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='ReleaseUnicode|Win32'">false</LinkIncremental>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='ReleaseUnicode|x64'">false</LinkIncremental>
+    <CodeAnalysisRuleSet Condition="'$(Configuration)|$(Platform)'=='DebugUnicode|Win32'">AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSet Condition="'$(Configuration)|$(Platform)'=='DebugUnicode|x64'">AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRules Condition="'$(Configuration)|$(Platform)'=='DebugUnicode|Win32'" />
+    <CodeAnalysisRules Condition="'$(Configuration)|$(Platform)'=='DebugUnicode|x64'" />
+    <CodeAnalysisRuleAssemblies Condition="'$(Configuration)|$(Platform)'=='DebugUnicode|Win32'" />
+    <CodeAnalysisRuleAssemblies Condition="'$(Configuration)|$(Platform)'=='DebugUnicode|x64'" />
+    <CodeAnalysisRuleSet Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSet Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRules Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />
+    <CodeAnalysisRules Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" />
+    <CodeAnalysisRuleAssemblies Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />
+    <CodeAnalysisRuleAssemblies Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" />
+    <CodeAnalysisRuleSet Condition="'$(Configuration)|$(Platform)'=='ReleaseUnicode|Win32'">AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSet Condition="'$(Configuration)|$(Platform)'=='ReleaseUnicode|x64'">AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRules Condition="'$(Configuration)|$(Platform)'=='ReleaseUnicode|Win32'" />
+    <CodeAnalysisRules Condition="'$(Configuration)|$(Platform)'=='ReleaseUnicode|x64'" />
+    <CodeAnalysisRuleAssemblies Condition="'$(Configuration)|$(Platform)'=='ReleaseUnicode|Win32'" />
+    <CodeAnalysisRuleAssemblies Condition="'$(Configuration)|$(Platform)'=='ReleaseUnicode|x64'" />
+    <CodeAnalysisRuleSet Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSet Condition="'$(Configuration)|$(Platform)'=='Release|x64'">AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRules Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />
+    <CodeAnalysisRules Condition="'$(Configuration)|$(Platform)'=='Release|x64'" />
+    <CodeAnalysisRuleAssemblies Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />
+    <CodeAnalysisRuleAssemblies Condition="'$(Configuration)|$(Platform)'=='Release|x64'" />
+    <RunCodeAnalysis Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</RunCodeAnalysis>
+    <RunCodeAnalysis Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</RunCodeAnalysis>
+    <RunCodeAnalysis Condition="'$(Configuration)|$(Platform)'=='DebugUnicode|Win32'">false</RunCodeAnalysis>
+    <RunCodeAnalysis Condition="'$(Configuration)|$(Platform)'=='DebugUnicode|x64'">true</RunCodeAnalysis>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='DebugUnicode|x64'">$(ProjectName)64</TargetName>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(ProjectName)64</TargetName>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='ReleaseUnicode|x64'">$(ProjectName)64</TargetName>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(ProjectName)64</TargetName>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level4</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <EnablePREfast>true</EnablePREfast>
+      <ExceptionHandling>Async</ExceptionHandling>
+    </ClCompile>
+    <Link>
+      <OutputFile>$(OutDir)ShortcutsSearchAndReplace.exe</OutputFile>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>$(OutDir)ShortcutsSearchAndReplace.pdb</ProgramDatabaseFile>
+      <SubSystem>Windows</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;_WIN64;_AMD64;WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level4</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <EnablePREfast>true</EnablePREfast>
+      <ExceptionHandling>Async</ExceptionHandling>
+    </ClCompile>
+    <Link>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>$(OutDir)ShortcutsSearchAndReplace.pdb</ProgramDatabaseFile>
+      <SubSystem>Windows</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level4</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Async</ExceptionHandling>
+    </ClCompile>
+    <Link>
+      <OutputFile>$(OutDir)ShortcutsSearchAndReplace.exe</OutputFile>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;_WIN64;_AMD64;WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level4</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Async</ExceptionHandling>
+    </ClCompile>
+    <Link>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='DebugUnicode|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level4</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <EnablePREfast>false</EnablePREfast>
+      <ExceptionHandling>Async</ExceptionHandling>
+    </ClCompile>
+    <Link>
+      <OutputFile>$(OutDir)ShortcutsSearchAndReplace.exe</OutputFile>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>$(OutDir)ShortcutsSearchAndReplace.pdb</ProgramDatabaseFile>
+      <SubSystem>Windows</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='DebugUnicode|x64'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;_WIN64;_AMD64;_CRT_SECURE_NO_WARNINGS;WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level4</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <EnablePREfast>true</EnablePREfast>
+      <ExceptionHandling>Async</ExceptionHandling>
+    </ClCompile>
+    <Link>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>$(OutDir)ShortcutsSearchAndReplace.pdb</ProgramDatabaseFile>
+      <SubSystem>Windows</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseUnicode|Win32'">
+    <ClCompile>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level4</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Async</ExceptionHandling>
+      <RuntimeTypeInfo>false</RuntimeTypeInfo>
+    </ClCompile>
+    <Link>
+      <OutputFile>$(OutDir)ShortcutsSearchAndReplace.exe</OutputFile>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseUnicode|x64'">
+    <ClCompile>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;_WIN64;_AMD64;WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level4</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Async</ExceptionHandling>
+      <RuntimeTypeInfo>false</RuntimeTypeInfo>
+    </ClCompile>
+    <Link>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Tools\Console\Win32Console.cpp" />
+    <ClCompile Include="..\Tools\CrashDump\CrashDump.cpp" />
+    <ClCompile Include="..\Tools\Exception\GenericTryCatchWithExceptionReport.cpp" />
+    <ClCompile Include="..\Tools\Exception\HardwareException.cpp" />
+    <ClCompile Include="..\Tools\File\VirtualDirectory.cpp" />
+    <ClCompile Include="..\Tools\GUI\Dialog\DialogModelessProtection.cpp" />
+    <ClCompile Include="..\Tools\GUI\DragAndDrop\DragAndDrop.cpp" />
+    <ClCompile Include="..\Tools\GUI\Rebar\Rebar.cpp" />
+    <ClCompile Include="..\Tools\LinkList\LinkListBase.cpp" />
+    <ClCompile Include="..\Tools\LinkList\LinkListSimple.cpp" />
+    <ClCompile Include="..\Tools\LinkList\SingleThreaded\LinkListBaseSingleThreaded.cpp" />
+    <ClCompile Include="..\Tools\LinkList\SingleThreaded\LinkListSimpleSingleThreaded.cpp" />
+    <ClCompile Include="..\Tools\Network\HTTP.cpp" />
+    <ClCompile Include="..\Tools\RegularExpression\RegularExpression.cpp" />
+    <ClCompile Include="..\Tools\SoftwareUpdate\SoftwareUpdate.cpp" />
+    <ClCompile Include="..\Tools\String\MultipleElementsParsing.cpp" />
+    <ClCompile Include="..\Tools\String\OutputString.cpp" />
+    <ClCompile Include="..\Tools\String\SecureTcscat.cpp" />
+    <ClCompile Include="..\Tools\String\StringConverter.cpp" />
+    <ClCompile Include="..\Tools\String\TrimString.cpp" />
+    <ClCompile Include="..\Tools\String\WildCharCompare.cpp" />
+    <ClCompile Include="..\Tools\Thread\Thread.cpp" />
+    <ClCompile Include="about.cpp" />
+    <ClCompile Include="CommandLineParsing.cpp" />
+    <ClCompile Include="Logs.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Options.cpp" />
+    <ClCompile Include="..\Tools\String\AnsiUnicodeConvert.cpp" />
+    <ClCompile Include="..\Tools\APIError\APIError.cpp" />
+    <ClCompile Include="..\Tools\Gui\BrowseForFolder\BrowseForFolder.cpp" />
+    <ClCompile Include="..\Tools\Clipboard\Clipboard.cpp" />
+    <ClCompile Include="..\Tools\Gui\Dialog\DialogHelper.cpp" />
+    <ClCompile Include="..\Tools\File\FileSearch.cpp" />
+    <ClCompile Include="..\Tools\Ini\IniFile.cpp" />
+    <ClCompile Include="..\Tools\Gui\ListView\Listview.cpp" />
+    <ClCompile Include="..\Tools\Gui\Menu\PopUpMenu.cpp" />
+    <ClCompile Include="..\Tools\Gui\Statusbar\Statusbar.cpp" />
+    <ClCompile Include="..\Tools\File\StdFileOperations.cpp" />
+    <ClCompile Include="..\Tools\String\StringReplace.cpp" />
+    <ClCompile Include="..\Tools\Gui\SysLink\SysLink.cpp" />
+    <ClCompile Include="..\Tools\File\TextFile.cpp" />
+    <ClCompile Include="..\Tools\Gui\ToolBar\Toolbar.cpp" />
+    <ClCompile Include="..\Tools\Version\Version.cpp" />
+    <ClCompile Include="SelectColumns.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Tools\Console\Win32Console.h" />
+    <ClInclude Include="..\Tools\CrashDump\CrashDump.h" />
+    <ClInclude Include="..\Tools\Exception\GenericTryCatchWithExceptionReport.h" />
+    <ClInclude Include="..\Tools\Exception\HardwareException.h" />
+    <ClInclude Include="..\Tools\File\VirtualDirectory.h" />
+    <ClInclude Include="..\Tools\GUI\Dialog\DialogModelessProtection.h" />
+    <ClInclude Include="..\Tools\GUI\DragAndDrop\DragAndDrop.h" />
+    <ClInclude Include="..\Tools\GUI\Rebar\Rebar.h" />
+    <ClInclude Include="..\Tools\LinkList\LinkListBase.h" />
+    <ClInclude Include="..\Tools\LinkList\LinkListItem.h" />
+    <ClInclude Include="..\Tools\LinkList\LinkListSimple.h" />
+    <ClInclude Include="..\Tools\LinkList\SingleThreaded\LinkListBaseSingleThreaded.h" />
+    <ClInclude Include="..\Tools\LinkList\SingleThreaded\LinkListSimpleSingleThreaded.h" />
+    <ClInclude Include="..\Tools\Network\HTTP.h" />
+    <ClInclude Include="..\Tools\RegularExpression\RegularExpression.h" />
+    <ClInclude Include="..\Tools\SoftwareUpdate\SoftwareUpdate.h" />
+    <ClInclude Include="..\Tools\String\MultipleElementsParsing.h" />
+    <ClInclude Include="..\Tools\String\OutputString.h" />
+    <ClInclude Include="..\Tools\String\SecureTcscat.h" />
+    <ClInclude Include="..\Tools\String\StringConverter.h" />
+    <ClInclude Include="..\Tools\String\TrimString.h" />
+    <ClInclude Include="..\Tools\String\WildCharCompare.h" />
+    <ClInclude Include="..\Tools\Thread\Thread.h" />
+    <ClInclude Include="about.h" />
+    <ClInclude Include="CommandLineParsing.h" />
+    <ClInclude Include="Logs.h" />
+    <ClInclude Include="Options.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="..\Tools\String\AnsiUnicodeConvert.h" />
+    <ClInclude Include="..\Tools\APIError\APIError.h" />
+    <ClInclude Include="..\Tools\Gui\BrowseForFolder\BrowseForFolder.h" />
+    <ClInclude Include="..\Tools\Clipboard\Clipboard.h" />
+    <ClInclude Include="..\Tools\Gui\Dialog\DialogHelper.h" />
+    <ClInclude Include="..\Tools\File\FileSearch.h" />
+    <ClInclude Include="..\Tools\Ini\IniFile.h" />
+    <ClInclude Include="..\Tools\Gui\ListView\Listview.h" />
+    <ClInclude Include="..\Tools\Gui\Menu\PopUpMenu.h" />
+    <ClInclude Include="..\Tools\Gui\Statusbar\Statusbar.h" />
+    <ClInclude Include="..\Tools\File\StdFileOperations.h" />
+    <ClInclude Include="..\Tools\String\StringReplace.h" />
+    <ClInclude Include="..\Tools\Gui\SysLink\SysLink.h" />
+    <ClInclude Include="..\Tools\File\TextFile.h" />
+    <ClInclude Include="..\Tools\Gui\ToolBar\Toolbar.h" />
+    <ClInclude Include="..\Tools\Version\Version.h" />
+    <ClInclude Include="SearchInfos.h" />
+    <ClInclude Include="SelectColumns.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\About.ico" />
+    <None Include="Resource\About_hot.ico" />
+    <None Include="Resource\app.ico" />
+    <None Include="Resource\app_directory.ico" />
+    <None Include="Resource\app_directory_disabled.ico" />
+    <None Include="Resource\app_directory_hot.ico" />
+    <None Include="Resource\app_disabled.ico" />
+    <None Include="Resource\app_hot.ico" />
+    <None Include="Resource\cancel.ico" />
+    <None Include="Resource\cancel_disabled.ico" />
+    <None Include="Resource\cancel_hot.ico" />
+    <None Include="Resource\CheckOnError.ico" />
+    <None Include="Resource\CheckOnErrorDisabled.ico" />
+    <None Include="Resource\CheckSuccessful.ico" />
+    <None Include="Resource\CheckSuccessfulDisabled.ico" />
+    <None Include="Resource\check_all.ico" />
+    <None Include="Resource\check_for_update.ico" />
+    <None Include="Resource\check_selected.ico" />
+    <None Include="Resource\Columns.ico" />
+    <None Include="Resource\common_desktop.ico" />
+    <None Include="Resource\common_desktop_disabled.ico" />
+    <None Include="Resource\common_desktop_hot.ico" />
+    <None Include="Resource\common_startup.ico" />
+    <None Include="Resource\common_startup_disabled.ico" />
+    <None Include="Resource\common_startup_hot.ico" />
+    <None Include="Resource\copy.ico" />
+    <None Include="Resource\copy_all.ico" />
+    <None Include="Resource\custom_folder.ico" />
+    <None Include="Resource\custom_folder_disabled.ico" />
+    <None Include="Resource\custom_folder_hot.ico" />
+    <None Include="Resource\delete.ico" />
+    <None Include="Resource\desktop.ico" />
+    <None Include="Resource\desktop_disabled.ico" />
+    <None Include="Resource\desktop_hot.ico" />
+    <None Include="Resource\DllExportFinder.ico" />
+    <None Include="Resource\empty.ico" />
+    <None Include="Resource\FullPathMode.ico" />
+    <None Include="Resource\FullPathMode_Disabled.ico" />
+    <None Include="Resource\FullPathMode_hot.ico" />
+    <None Include="Resource\help.ico" />
+    <None Include="Resource\help_hot.ico" />
+    <None Include="Resource\icon.ico" />
+    <None Include="Resource\icon_directory.ico" />
+    <None Include="Resource\icon_directory_disabled.ico" />
+    <None Include="Resource\icon_directory_hot.ico" />
+    <None Include="Resource\icon_disabled.ico" />
+    <None Include="Resource\icon_hot.ico" />
+    <None Include="Resource\InvertSelection.ico" />
+    <None Include="Resource\jump_to_explorer.ico" />
+    <None Include="Resource\params.ico" />
+    <None Include="Resource\params_disabled.ico" />
+    <None Include="Resource\params_hot.ico" />
+    <None Include="Resource\paypal.ico" />
+    <None Include="Resource\paypal_hot.ico" />
+    <None Include="Resource\properties.ico" />
+    <None Include="Resource\raw_folder.ico" />
+    <None Include="Resource\raw_folder_disabled.ico" />
+    <None Include="Resource\raw_folder_hot.ico" />
+    <None Include="Resource\ReadOnly.ico" />
+    <None Include="Resource\ReadOnly_disabled.ico" />
+    <None Include="Resource\ReadOnly_hot.ico" />
+    <None Include="Resource\replace.ico" />
+    <None Include="Resource\ReplaceArgsOnly.ico" />
+    <None Include="Resource\ReplaceArgsOnly_disabled.ico" />
+    <None Include="Resource\ReplaceArgsOnly_hot.ico" />
+    <None Include="Resource\replace_disabled.ico" />
+    <None Include="Resource\replace_hot.ico" />
+    <None Include="Resource\resolve.ico" />
+    <None Include="Resource\save.ico" />
+    <None Include="Resource\save_all.ico" />
+    <None Include="Resource\Search.ico" />
+    <None Include="Resource\search_dead.ico" />
+    <None Include="Resource\search_dead_disabled.ico" />
+    <None Include="Resource\search_dead_hot.ico" />
+    <None Include="Resource\Search_disabled.ico" />
+    <None Include="Resource\Search_hot.ico" />
+    <None Include="Resource\shortcut_search_replace.ico" />
+    <None Include="Resource\Start.ico" />
+    <None Include="Resource\startup.ico" />
+    <None Include="Resource\startup_disabled.ico" />
+    <None Include="Resource\startup_hot.ico" />
+    <None Include="Resource\subdir.ico" />
+    <None Include="Resource\subdir_disabled.ico" />
+    <None Include="Resource\subdir_hot.ico" />
+    <None Include="Resource\txt.ico" />
+    <None Include="Resource\txt_disabled.ico" />
+    <None Include="Resource\txt_hot.ico" />
+    <None Include="Resource\uncheck_all.ico" />
+    <None Include="Resource\uncheck_selected.ico" />
+    <None Include="Resource\warning.ico" />
+    <None Include="Resource\write.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="shortcut.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
