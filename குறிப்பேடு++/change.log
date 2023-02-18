@@ -1,0 +1,34 @@
+Notepad++ v8.4.9 bug-fixes and new features:
+
+1.  Fix saving 4GB+ files file size cutting off issue.
+2.  Fix v8.4.8 hanging while opening some Pascal files.
+3.  Add JSON5 support - only JSONC currently (with js comment supported). 
+4.  Add configuration for dockable panels to ignore '-nosession'.
+5.  Fix Notepad Replacement display 'Cannot open file " "' regression in v8.4.8.
+6.  Fix Notpad++ hangs while deleting search results results.
+7.  Fix XML tag-matching not be case-sensitive.
+8.  Add support selection for "EOL to Space", "TAB and Space conversion" & "Trim" commands.
+9.  Improve Pascal/Delphi function list performance.
+10. Fix exclude functions in comment zones in C++, PHP, JavaScript and Pascal.    
+11. Use stable sort algorithm instead of standard sort one.
+12. Fix doc switcher not using alternate icon sets.
+13. Several enhancement in dark mode.
+14. Fix under high DPI URL hand cursor too small display issue.
+15. Fix docking GUI regression for plugin in light mode.
+16. Fix cannot undo "Block Uncomment" & "Insert Date/Time" commands in one shot.
+17. Fix sub-menu folder display mess in non-western languages under Macro/Run menu.
+
+Get more info on
+https://notepad-plus-plus.org/downloads/v8.4.9/
+
+
+Included plugins:
+
+1.  NppExport v0.4
+2.  Converter v4.5
+3.  Mime Tool v2.9
+
+
+Updater (Installer only):
+
+* WinGup (for Notepad++) v5.2.4
