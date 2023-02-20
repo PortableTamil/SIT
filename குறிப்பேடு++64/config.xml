@@ -9,7 +9,9 @@
         <Replace name="&#x0B8F;&#x0BB1;&#x0BCD;&#x0BB1;&#x0BC1;&#x0B95;&#x0BBF;&#x0BB1;&#x0BA4;&#x0BC1;" />
         <Replace name="&#x0BA8;&#x0BC0;&#x0B95;&#x0BCD;&#x0B95;&#x0BC1;" />
     </FindHistory>
-    <History nbMaxFile="10" inSubMenu="no" customLength="-1" />
+    <History nbMaxFile="10" inSubMenu="no" customLength="-1">
+        <File filename="C:\&#x0BB5;&#x0B9F;&#x0BCD;&#x0B9F;&#x0BC1;\SIT\&#x0B92;&#x0B9F;&#x0BBF;&#x0BA8;&#x0BC7;&#x0BB0;&#x0BAE;&#x0BCD;\&#x0B8E;&#x0BA9;&#x0BCD;&#x0BA9;&#x0BC8;&#x0BAA;&#x0B9F;&#x0BBF;.&#x0B89;&#x0BB0;&#x0BC8;" />
+    </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
         <ProjectPanel id="1" workSpaceFile="" />
