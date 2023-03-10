@@ -1,5 +1,6 @@
 @echo on
-cd /d %~dp0
+rem cd /d %~dp0
+pushd %~dp0
 cd ..
 rem Set ldt=20200204222340.360000+330 - Below code will get date and time in this format.
 for /F "usebackq tokens=1,2 delims==" %%i in (`wmic os get LocalDateTime /VALUE 2^>NUL`) do if '.%%i.'=='.LocalDateTime.' set ldt=%%j

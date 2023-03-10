@@ -1,6 +1,7 @@
 @echo off
 pause
-cd /d %~dp0
+rem cd /d %~dp0
+pushd %~dp0
 cd ..
 setlocal EnableExtensions EnableDelayedExpansion
 set num1=1

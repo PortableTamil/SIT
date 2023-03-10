@@ -1,5 +1,6 @@
 @echo on
-cd /d %~dp0
+rem cd /d %~dp0
+pushd %~dp0
 cd ..
 
 Rem REG ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v திருக்குறள் /t REG_EXPAND_SZ /d "%%பயன்பாடுகள்%%\திரைதிருக்குறள்கள்\திருக்குறள்-0236.bgi\" /Silent /NoLicPrompt /Timer:0" /f

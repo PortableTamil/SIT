@@ -1,5 +1,6 @@
 @echo on
-cd /d %~dp0
+rem cd /d %~dp0
+pushd %~dp0
 call Boot.bat ClrWelMsg
 call Boot.bat getNStatus Link google.com
 call Boot.bat getTTime Office

@@ -1,7 +1,8 @@
 @echo off
 Rem change the code page to UTF-8. Also, you need to use Lucida console fonts
 call :%~1 "%~2" %~3 %~4 %~5 %~6 %~7 %~8 %~9
-cd /d %~dp0
+rem cd /d %~dp0
+pushd %~dp0
 goto :eof
 
 :PAp 
